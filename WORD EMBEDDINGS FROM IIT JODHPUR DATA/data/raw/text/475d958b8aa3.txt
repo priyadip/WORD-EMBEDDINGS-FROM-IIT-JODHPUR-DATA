@@ -1,0 +1,72 @@
+SOURCE_URL: http://old.iitj.ac.in/Electrical-Engineering/en/Internet-of-Things-(IoT)-Laboratory
+
+Internet of Things (IoT) Laboratory
+Internet of Things (IoT) Laboratory
+Internet of Things (IoT) Laboratory
+Internet of Things (IoT) Laboratory
+Internet of Things (IoT) uses physical objects embedded with sensors, readout electronics, networking, communication, enabling intelligent data exchange or storage between these devices. Within the last decade, various commercial IoT products are available in the market. These are widely used in applications like smart health care and monitoring, autonoumous vehicles, smart home, smart city applications and others. IoT lab encourages interdisciplinary research where different departments share the common platform.
+Internet of Things (IoT) uses physical objects embedded with sensors, readout electronics, networking, communication, enabling intelligent data exchange or storage between these devices. Within the last decade, various commercial IoT products are available in the market. These are widely used in applications like smart health care and monitoring, autonoumous vehicles, smart home, smart city applications and others. IoT lab encourages interdisciplinary research where different departments share the common platform.
+Academic acitivities This lab is used for research as well as conducting lab experiments related to Sensors & IoT lab. for M.Tech. students in Sensors and IoT.
+Academic acitivities
+This lab is used for research as well as conducting lab experiments related to Sensors & IoT lab. for M.Tech. students in Sensors and IoT.
+People Faculty 1. Amandeep Kaur Ph.D.: Indian Institute of Technology Delhi Research Interests: Analog and Mixed-Signal Circuit Design, Data Converters (ADC, DAC), High-speed circuits, CMOS image sensors, On-chip compression eMail: amandeepkaur@iitj.ac.in Office location: Room no. 220, First Floor,  Department of Electrical Engineering Phone: (91 291) 280 1368 Web: https://sites.google.com/iitj.ac.in/amandeepkaur/home
+Ph.D.: Indian Institute of Technology Delhi
+Research Interests: Analog and Mixed-Signal Circuit Design, Data Converters (ADC, DAC), High-speed circuits, CMOS image sensors, On-chip compression
+eMail: amandeepkaur@iitj.ac.in
+Office location: Room no. 220, First Floor,  Department of Electrical Engineering
+Phone: (91 291) 280 1368
+Web: https://sites.google.com/iitj.ac.in/amandeepkaur/home
+2. Arpit Khandelwal Research Interests: Fiber Optics, Integrated III-V Optics, Optical Sensors eMail: arpitkhandelwal@iitj.ac.in Office location: Room no. 223 , Department of Electrical Engineering Phone: (91 291) 280 1363 Web: https://sites.google.com/iitj.ac.in/arpitkhandelwal/bio
+Research Interests: Fiber Optics, Integrated III-V Optics, Optical Sensors
+eMail: arpitkhandelwal@iitj.ac.in
+Office location: Room no. 223 , Department of Electrical Engineering
+Phone: (91 291) 280 1363
+Web: https://sites.google.com/iitj.ac.in/arpitkhandelwal/bio
+3. Shree Prakash Tiwari Research Interests: Microelectronics, Organic Electronics, Microfabrication, Device Physics and Characterization eMail: sptiwari@iitj.ac.in Office location: Room no. 210, Department of Electrical Engineering Phone: (91 291) 280 1356 Web: http://home.iitj.ac.in/~sptiwari/
+3. Shree Prakash Tiwari
+Research Interests: Microelectronics, Organic Electronics, Microfabrication, Device Physics and Characterization
+eMail: sptiwari@iitj.ac.in
+Office location: Room no. 210, Department of Electrical Engineering
+Phone: (91 291) 280 1356
+Web: http://home.iitj.ac.in/~sptiwari/
+4. Soumava Mukherjee Research Interests: Substrate Integrated Coaxial Line (SICL), Substrate Integrated Waveguides (SIW), Broadband/Multiband Planar Antenna, Dual-polarized Antennas and Dielectric resonator Antennas. eMail: soumava@iitj.ac.in Office location: Room no. 225 , Department of Electrical Engineering Phone: (91 291) 280 1361 Web: https://sites.google.com/site/soumavamukherjeebesus/home
+4. Soumava Mukherjee
+Research Interests: Substrate Integrated Coaxial Line (SICL), Substrate Integrated Waveguides (SIW), Broadband/Multiband Planar Antenna, Dual-polarized Antennas and Dielectric resonator Antennas.
+eMail: soumava@iitj.ac.in
+Office location: Room no. 225 , Department of Electrical Engineering
+Phone: (91 291) 280 1361
+Web: https://sites.google.com/site/soumavamukherjeebesus/home
+5. Debasis Das Research Interests: Vehicular Ad-Hoc Networks(VANETs), Internet of Vehicles(IoV), Vehicular Cloud Computing(VCC), Network Security, Machine Learning, Blockchain, Social Networking and Wireless Body Area Networks (WBAN). eMail: debasis@iitj.ac.in Office location: Department of Computer Science & Engineering Phone: (91 291) 280 1261 Web: https://sites.google.com/view/debasisdas
+Research Interests: Vehicular Ad-Hoc Networks(VANETs), Internet of Vehicles(IoV), Vehicular Cloud Computing(VCC), Network Security, Machine Learning, Blockchain, Social Networking and Wireless Body Area Networks (WBAN).
+eMail: debasis@iitj.ac.in
+Office location: Department of Computer Science & Engineering
+Phone: (91 291) 280 1261
+Web: https://sites.google.com/view/debasisdas
+6. Harshit Agarwal Research Interests: Industry standard compact modeling; Analog and RF modeling, Energy efficient next generation transistors, emerging memories eMail: agarwalh@iitj.ac.in Office location: Department of Electrical Engineering, Room No. 322 Phone: (91 291) 280 1376 Web: https://agarwalharshitblog.wordpress.com/
+Research Interests: Industry standard compact modeling; Analog and RF modeling, Energy efficient next generation transistors, emerging memories
+eMail: agarwalh@iitj.ac.in
+Office location: Department of Electrical Engineering, Room No. 322
+Phone: (91 291) 280 1376
+Web: https://agarwalharshitblog.wordpress.com/
+7. Ajay Agarwal Research Interests: Microelectronics; Micro- Nano-technologies; Sensors; Micro-fluidics, Point-of-Care devices and Early diagnostics eMail: ajayagarwal@iitj.ac.in Office location: Department of Electrical Engineering Phone: (91 291) 280 1378
+Research Interests: Microelectronics; Micro- Nano-technologies; Sensors; Micro-fluidics, Point-of-Care devices and Early diagnostics
+eMail: ajayagarwal@iitj.ac.in
+Office location: Department of Electrical Engineering
+Phone: (91 291) 280 1378
+Contact Details Please write to one of the following for more details: amandeepkaur@iitj.ac.in , arpitkhandelwal@iitj.ac.in , sptiwari@iitj.ac.in
+Please write to one of the following for more details: amandeepkaur@iitj.ac.in , arpitkhandelwal@iitj.ac.in , sptiwari@iitj.ac.in
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

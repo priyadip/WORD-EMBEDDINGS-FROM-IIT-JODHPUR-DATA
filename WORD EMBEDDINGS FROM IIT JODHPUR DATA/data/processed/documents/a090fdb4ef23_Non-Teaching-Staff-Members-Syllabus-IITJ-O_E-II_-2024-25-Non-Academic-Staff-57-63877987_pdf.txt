@@ -1,0 +1,43 @@
+basic concepts of organic chemistry basic mechanistic concepts kinetic versus thermodynamic control hammond postulate and principle identification of products intermediates and isotopic labelling
+addition reactions to and multiple bonds
+reactive intermediates carbocations carbanions carbenes nitrenes arynes and free radicals
+molecular rearrangements involving electron deficient atoms and name reactions
+synthesis and reactions of following classes of compounds alkenes alkynes arenes alcohols phenols aldehydes ketones carboxylic acids esters nitriles halides nitro compounds amines and amides
+selectivity in organic synthesis and stereoselectivity
+protection and deprotection of functional groups
+isomers and their classifications
+chirality of organic molecules with or without chiral centres and determination of their absolute configurations
+homotopic enantiotopic and diastereotopic atoms groups and faces
+and stereospecific synthesis
+conformational analysis of acyclic and cyclic compounds
+structure preparation properties and reactions of heterocyclic molecules furan pyrrole thiophene pyridine indole quinoline and isoquinoline etc
+pericyclic reactions and their classifications
+orbital correlations fmo and pmo treatments
+photochemistry of alkenes arenes and carbonyl compounds
+photooxidation and photoreduction
+rearrangement barton reaction
+synthesis and properties of natural and synthetic polymers polythene nylon polyesters bakelite rubber
+biodegradable and nonbiodegradable polymers
+applications of ir nmr and mass spectrometry in the structural determination of organic molecules
+common laboratory such as crystallization decolorization extraction purifications and separation etc
+basic concepts of organic chemistry basic mechanistic concepts kinetic versus thermodynamic indian institute of technology jodhpur syllabus for the post of senior technical assistant chemistry skill test
+safety in chemistry lab operation of fire extinguisher
+use of personal protective equipments
+introduction to material safety data sheet msds and personal protection equipments general laboratory safety rules
+general laboratory practices preparation of solutions of solids liquids volatile etc
+preparation of standard primary standard solutions
+purification separation of liquid mixture by distillation
+titrations analysis of acids bases acidimetric titrations and alkali metric titration
+acid base salt atomic weight molecular weight equivalent weight normality molarity molality ppm ppb density specific gravity weight volume relationship
+organic synthesis and quantitative analysis preparation of organic compounds nitration laboratory preparation of nitro benzene and percentage yield determination
+saponification aldol reaction analysis of organic compounds to determine elements present functional group melting point
+inorganic synthesis and quantitative analysis preparation of copper sulphate and determination of percentage purity and percentage yield preparation of metal complexes and its determinations
+instrumental analysis determination the ph of given solution by using ph meter
+determination of optical rotation of sugar solution using polarimeter study of micro scope melting point determination operation of high end equipment such as nmr hrms tem etc
+english literacy and general computer skills pronunciation accentuation on simple words diction use of word and speech functional grammar transformation of sentences voice change change of tense spellings
+reading and understanding simple sentences about self work and environment writing construction of simple sentences writing simple english and speaking spoken english basics of computer introduction computer and its applications hardware and peripherals computer operating system basics of operating system windows the user interface of windows os create copy move and delete files and folders use of external memory like pen drive cd dvd etc use of common applications
+word processing and worksheet basic operating of word processing creating opening and closing documents use of shortcuts creating and editing of text formatting the text insertion creation of tables
+basics of excel worksheet understanding basic commands creating simple worksheets understanding sample worksheets use of simple formulas and functions printing of simple excel sheets computer networking and internet basic of computer networks using real life examples definitions of local area network lan wide area network wan internet concept of internet network of networks meaning of world wide web www web browser web site web page and search engines
+accessing the internet using web browser downloading and printing web pages opening an email account and use of email
+social media sites and its implication
+information security and antivirus tools do and in information security awareness of it act types of cyber crimes

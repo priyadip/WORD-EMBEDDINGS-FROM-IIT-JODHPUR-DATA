@@ -1,0 +1,60 @@
+indian institute of technology jodhpur pg course booklet indian institute of technology jodhpur july master of science msc program in mathematics the classical mathematics provides foundations for analysis of key principles behind modern and emergent technologies modern mathematics coupled with computational capabilities is opening new avenues for further explorations
+expected graduate attributes skill set to analyze abstract mathematical structures
+understanding about the recent areas in pure and applied mathematics such as algebra analysis statistics and computation
+knowledge and capability to develop and apply mathematical models for real life skill set to understand the abstraction of mathematical structures
+ability to express ideas in the written and oral formats
+learning outcomes understanding of fundamental aspects of real complex and functional analysis
+knowledge about basics and use of probability theory statistics and differential skill set to cater computational aspects using programming techniques
+course course title credits number number semester semester mal6xx0 linear mal6xx0 abstract algebra algebra mal6xx0 real analysis mal5xx0 comple analysis mal6xx0 ordinary mal6xx0 partial differentia differential equations equations mal5xx0 probability mal6xx0 functional and analysis mal5xx0 programming pe xxxxx pe1 technique total total semester semester mal6xx0 topology pe xxxxx pe5 pe xxxxx pe2 pe xxxxx pe6 pe xxxxx pe3 oe xxxxx oe2 pe xxxxx pe4 oe xxxxx oe1 map7xx0 project map7xx0 project total total grand total
+category course total total category title courses credits compulsory pe program electives oe open elective project total acquire project management skills
+program structure topic cloud compulsory topics linear algebra finite dimensional vector spaces linear transformations inner product spaces eigenvalues and eigenvectors jordan canonical forms matrix theory eigenvalues and eigenvectors spectral analysis real analysis basic properties of real system study of metric spaces calculus of several variables function spaces abstract algebra basic algebraic structures group theory ring theory galois theory topology topological structures and their properties transformation between topological spaces functional analysis normed linear spaces banach spaces lp spaces hilbert spaces linear transformations and their properties complex analysis fundamental theorem of complex analysis residue theorem contour integration and its applications evaluation of improper integrals conformal probability theory univariate and probability distributions and their properties weak laws of large numbers central limit theorem
+statistics sampling distributions estimation of parameters interval estimation testing of hypotheses statistical modelling estimation of parameters interval estimation testing of hypotheses ordinary differential equations existence and uniqueness of solution liouville problems and properties of its solutions partial differential equations and their applications fundamentals of programming numerical techniques root finding methods solution for system of linear equations power method solution to system of linear equations interpolation numerical solution of ordinary differential equations
+elective topics fourier analysis wavelets analysis dynamical systems operations research number theory calculus of variations integral equations statistical inference graphs theory stochastic calculus measure and integration chaos theory numerical methods for partial differential equations discrete mathematics
+list of electives department of mathematics mal7xx0 measure and integration mal7xx0 financial engineering mal7xx0 wavelets analysis and applications mal7xx0 dynamical systems mal7xx0 optimization mal7xx0 numerical analysis mal7xx0 number theory mal7xx0 statistical inference mal7xx0 graph theory mal7xx0 calculus of variation and integral equations mal7xx0 stochastic calculus mal7xx0 algebraic number theory mal7xx0 machine learning and pattern recognition mal7xx0 chaos theory and its applications mal7xx0 representations of finite groups mal8xx0 numerical partial differential equations mal7xx0 selected topics in mathematics mal7xx0 selected topics in mathematics ii mal7xx0 selected topics in mathematics iii from sister departments theory of vibrations finite element methods in engineering incompressible fluid flow computer graphics advanced computer graphics digital image analysis statistical signal analysis statistical decision theory computational imaging multimedia communication classical mechanics quantum mechanics statistical physics introduction to quantum technologies course title linear algebra course no
+mal6xx0 department mathematics offered for
+ma type compulsory vector spaces matrices and system of linear equations lectures system of linear transformation and inner product spaces lectures linear operators and spectral theorem lectures linear functionals and adjoints content of compulsory courses course title real analysis course no
+mal6xx0 real number system limits and continuity lectures countable and uncountable metric spaces lectures metric spaces continuous and uniformly continuous sequences and series of functions lectures sequences and series of functions multivariable calculus lectures functions of several variables continuity course title ordinary differential equations course no
+mal6xx0 motivations and origins lectures existence of solutions by second order linear equations lectures general solution of differential systems of differential equations lectures phase plane method critical points of
+agrawal and pandey ordinary and partial differential equations and applications nptel course material department of mathematics iit roorkee
+raghavendra ordinary differential equations nptel course material course title probability and statistics course no
+mal5xx0 probability spaces and random variables lectures probability measure joint distributions lectures random vectors joint marginal and conditional limit theorems lectures convergence of sequences of random variables weak and estimation and tests of hypotheses lectures sampling distributions estimation of title programing techniques number mal5xx0 department mathematics course title abstract algebra course no
+mal6xx0 group theory lectures review of group theory symmetric groups ring theory lectures rings polynomial rings prime ideals maximal ideals field extensions lectures finite extension algebraic extensions
+galois theory lectures galois theory splitting fields normal extension course title complex analysis course no
+mal5xx0 introduction to functions of complex variables lectures elementary functions complex integration lectures line and contour integrals of residue theory lectures residues and poles cauchy residue theorem jordan conformal mappings lectures conformal mapping special transformation course title partial differential course no
+mal6xx0 department mathematics method laplace transform method and fourier transform method motivations and origins lectures pdes of engineering and physics heat wave and first order partial differential equations lectures linear and fully second order partial differential equations lectures classification and canonical with constant coefficients
+elliptic parabolic and hyperbolic equations lectures variable separation method for green function method
+rao introduction to partial differential equations edition phi
+logan applied partial differential equations springer
+pinchover and rubinstein an introduction to partial differential equations
+sneddon elements of partial differential equations new
+prasad and ravindran partial differential equations new age
+mattheij rienstra and ten thije boonkkamp partial
+agrawal and pandey ordinary and partial differential equations and
+sinha partial differential equations nptel course material department of title functional analysis number mal6xx0 department mathematics course title data structures and algorithms course no
+map5xx0 department mathematics performance of algorithms lectures algorithm development complexity analysis data structures lectures arrays pointers linked lists stacks queues binary
+garg data structures and algorithms nptel course material department of computer science and engineering iit delhi title topology number mal6xx0 title measure and integration number mal7xx0 department mathematics offered for
+ma type elective content of elective courses title financial engineering number mal7xx0 department mathematics offered for ma
+dcs ma type elective course title wavelet analysis and applications course no
+mal7xx0 offered for
+ma ma type elective fourier analysis lectures fourier and inverse fourier transforms gabor wavelet analysis lectures mother wavelet orthogonal and biorthogonal applications lectures application of wavelet theory to feature detection image analysis nptel course material department of mathematics iit bombay course title optimization techniques course no
+mal7xx0 linear programming lectures linear combination of vectors convex set convex nonlinear programming lectures first and second order conditions iterative course title numerical analysis course no
+learn numerical techniques for variety of mathematical problems
+analyze the validity and error in the numerical results
+develop an understanding of numerical error and applicability of particular method
+solve numerically algebraic equations linear systems of equations ordinary
+carry out numerical differentiation integration and interpolation errors analysis lectures numerical algorithms and errors floating point systems types of error propagation of error the stability of algorithms
+nonlinear equations lectures method iteration numerical solution of linear system of equations lectures conditioned systems iterative methods method method matrix inversion rate methods for eigenvalue problems
+methods for eigenvalue problems
+interpolation lectures errors in polynomial interpolation finite differences interpolation spline interpolation
+interpolation spline interpolation
+numerical integration and differentiation lectures integration formulae difference formulae method of undetermined coefficients
+formulae difference formulae numerical ivps for ordinary differential equations lectures taylor series method euler method modified euler methods methods
+euler method modified euler methods methods
+and mayers an introduction to numerical analysis cambridge uni
+burden numerical analysis edition cengage learning india
+and boor elementary numerical analysis an algorithmic course title number theory course no
+mal7xx0 introduction lectures divisibility prime numbers properties and their distribution congruences lectures linear congruences chinese remainder theorem quadratic arithmetical functions lectures examples properties and their rate of growth diophatine equations lectures linear quadratic and higher degree some general title statistical inference number mal7xx0 departmet mathematics offered for ma
+ma type elective title stochastic calculus number mal7xx0 offered for ma
+ma type elective title calculus of variations and integral equations number mal7xx0 department mathematics title chaos theory and its applications number ma7xx0 title machine learning and pattern recognition number ma7xx0 title numerical solutions of partial differential equations number mal8xx0 department mathematics offered for
+dcs ma type elective prerequisite partial differential equations lectures characterization of pdes finite difference methods for elliptic parabolic lectures stability consistency and convergence theory dissipation and dispersion parabolic equations lectures fourier analysis of the error alternating direction elliptic equations lectures stability analysis by the energy method error analysis hyperbolic equations lectures cfl condition von neumann stability analysis numerical linear algebra lectures classical iterative methods for solving linear
+nayak numerical methods finite difference approach nptel course department of mathematics iit roorkee

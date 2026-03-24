@@ -1,0 +1,14 @@
+research seminar by kriti goel on july at am speaker goel title of the talk local theory of prime characteristic singularities an algebraic viewpoint date time venue july am seminar hall dept
+of mathematics abstract in this talk we present some tools to study singularities of ring in the prime characteristic case
+these include the study of closure operations on ideals and associated hilbert functions
+singularities defined in terms of the behavior of the frobenius endomorphism on the ring are called
+we study tight closure closure operation on ideals introduced by hochster and huneke in and the function of ideals and their blowup algebras
+functions were introduced by kunz in in his work characterizing regular local rings in the prime characteristic setting
+in the process we introduce the concept of tight hilbert polynomials whose coefficients help characterize singularities and explore the behavior of functions in various classes of rings including face rings of simplicial complexes
+finally we consider finite group acting on polynomial ring over field
+we study the connection between the algebraic properties of the invariant ring and the properties of the group action in the prime characteristic setting the focus being the local cohomology modules of the invariant ring
+about the speaker kriti goel completed her from iit bombay
+her research area is commutative algebra and its interactions with algebraic geometry and combinatorics
+she is joining the university of missouri usa as postdoctoral fellow in august after completing postdoc stint at the basque center for applied mathematics bcam spain february february
+before moving to spain she was postdoctoral research fellow at the university of utah usa january january and early career fellow at iit gandhinagar india october october
+speaker goel title of the talk local theory of prime characteristic singularities an algebraic viewpoint date time venue july am seminar hall dept

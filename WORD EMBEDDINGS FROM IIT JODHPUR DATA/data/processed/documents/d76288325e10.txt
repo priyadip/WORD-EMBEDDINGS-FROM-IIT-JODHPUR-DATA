@@ -1,0 +1,16 @@
+research seminar by yashveer kumar august at pm title of the talk numerical approximation scheme for distributed order fractional differential
+date time venue august at pm on seminar hall dept
+of mathematics abstract in this work we propose novel method for approximating solutions to fractional differential equations in both and twovariable cases using legendre wavelets
+our approach combines the legendregauss quadrature formula with the tau method to construct an operational matrix specifically for legendre wavelets
+this matrix enables the efficient conversion of the original fractional differential equations into systems of linear algebraic equations
+to demonstrate the accuracy and effectiveness of the proposed method we present several illustrative test problems
+about the speaker yashveer kumar earned his in mathematics from the indian institute of technology bhu varanasi india in
+following his doctoral studies he served as an assistant professor in the department of mathematics at siksha anusandhan soa university bhubaneswar from september to august
+in august kumar joined one of the portuguese research centre lisboa lisbon portugal as postdoctoral researcher where he is currently engaged in advanced research on numerical solutions of fractional differential equations with particular focus on monte carlo simulation techniques
+he has published six research articles in journals and three more are currently under review
+his research interests lie at the intersection of fractional calculus numerical analysis stochastic methods and operational matrix method
+title of the talk numerical approximation scheme for distributed order fractional differential
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

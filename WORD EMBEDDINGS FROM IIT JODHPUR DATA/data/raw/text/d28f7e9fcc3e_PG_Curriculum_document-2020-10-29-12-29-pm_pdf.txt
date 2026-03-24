@@ -1,0 +1,656 @@
+SOURCE_PDF: d28f7e9fcc3e_PG_Curriculum_document-2020-10-29-12-29-pm.pdf
+
+Program Course Curriculum
+Department of Chemical Engineering
+IIT Jodhpur
+
+S.N. Course Type Credits
+1 M.Tech. Compulsory (MC) 17
+2 M.Tech. Electives (ME) 17
+3 M.Tech. Open (MO) 6
+4 M.Tech. Project (MP) 16
+Total Graded 56
+Total 60
+Cat
+. Course Title L-T-P Cre
+dits Cat
+. Course Title L-T-P Cre
+dits
+I Semester II Semester
+MC Advanced Transport
+Phenomena 3-0-0 3 MC Advanced Process
+Control and AI
+Applications 3-0-0 3
+MC Advanced Reaction
+Engineering 2-0-2 3 MC Multi-component
+Separation Processes 2-0-2 3
+MC Advanced Chemical
+Engineering
+Thermodynamics 2-0-0 2 ME Program Elective 3-0-2 4
+MC Advanced Mathematical
+Methods in Chemical
+Engineering 3-0-0 3 ME Program Elective 3-0-2 4
+ME Program Elective 3-0-0 3 NG Professional Ethics 1-0-0 1
+NG Technical Communication 1-0-0 1
+Total (Graded+Non-graded) 15 Total (Graded+Non-graded) 15
+III Semester IV Semester
+MP Project 0-0-
+10 5 MP Project 0-0-22 11
+ME Program Elective 3-0-0 3 MO Open Elective 3-0-0 3
+ME Program Elective 3-0-0 3 NG IP Management and
+Exploitation 1-0-0 1
+MO Open Elective 3-0-0 3
+NG Systems Engineering and
+Project Management 1-0-0 1
+Total (Graded+ Non-graded) 15 Total (Graded+Non-graded) 15
+Program’s Structure 
+Overall Structure (M. Tech. Degree Requirements for Chemical Engineering)
+Summary of Course Categories and credit distribution for M.Tech. (Chemical 
+Engineering)
+Course Structure: Semester wise distribution of credits
+
+Advanced
+Transport
+Phenomena Advanced
+Reaction
+Engineering Advanced
+Chemical
+Engineering
+Thermodyna
+mics Advanced
+Mathematical
+Methods in
+Chemical
+Engineering Advanced
+Process Control
+and AI
+Applications Multi-
+component
+Separation
+Processes
+ Review of
+Fluid
+Kinematics
+ Conservative
+Principles
+and
+Constitutive
+Laws
+ Coupled
+Transport
+Processes
+ Turbulence
+Modelling
+ Multiple
+parameter
+estimation
+ Transport
+Phenomena
+in Large
+Scale and
+Small Scale
+Systems  Introduction
+to Advanced
+Reactors
+ Reaction
+Stability
+Analysis
+ Nonideal
+Reactors
+ Gas-solid
+and Liquid-
+solid
+Catalytic
+Reactions
+ Multiphase
+Reactors,
+Fluidised
+Bed
+Reactors
+ Packed Bed
+Reactors  Review of
+Classical
+Thermodyna
+mics
+ Adsorption
+Thermodyna
+mics
+ Chemical
+Reaction
+Thermodyna
+mics
+ Statistical
+Thermodyna
+mics
+ Modelling of
+ideal gases
+and gas
+mixtures
+ Modelling of
+Crystals  Introduction
+of vector
+space
+matric.
+ Contraction
+mapping
+ Eigenvalue
+problems
+ Partial
+differential
+equations
+ Special
+ODEs and
+adjoint
+operators
+ Solution of
+PDEs by
+different
+methods.  Introduction
+to advanced
+process
+control; feed-
+forward
+control.
+ Multivariable
+control.
+ AI and IoT in
+control
+systems,
+ AI techniques
+in process
+monitoring,
+fault
+detection and
+diagnosis
+ Real time
+computer
+control of
+process
+equipment.  Concepts
+ Multi-
+component
+Distillation
+ Liquid-
+liquid
+Extraction
+ Separation
+Processes
+involving
+Solid
+Phase
+ Crystallizat
+ion, Drying
+ Case
+Studies
+M. Tech. Program: Topic Clouds
+Figure: Pictorial representation of M.Tech., M.Tech.-PhD program in chemical
+engineering with specialization
+M.Tech. Compulsory Courses
+
+S. No. Group Courses Title L-T-P Credit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16 Industry
+4.0+Data
+Analytics Industrial Design
+Chemometrics
+Data Analytics in Process Modelling and Simulation
+Computational Fluid Dynamics
+Process Optimization
+Process Engineering and AI Applications
+Packaging of Electronic Devices – Polymeric materials &
+Chemical Technology
+Nanocomposite Membrane Technology
+Artificial Intelligence-1
+Machine Learning-1
+Introduction to IoT
+Nano-sensors
+Additive Manufacturing
+Robotics
+Sensors and IoT Lab
+Industry 4.0: Applications in Manufacturing Systems 3-0-0
+3-0-0
+2-0-2
+3-0-2
+3-0-2
+2-0-2
+3-0-2
+3-0-0
+3-0-0
+3-0-0
+1-0-0
+3-0-0
+3-0-0
+3-0-2
+0-0-2
+1-0-0 3
+3
+3
+4
+4
+3
+4
+3
+3
+3
+1
+3
+3
+4
+1
+1
+S.No. Group Course Title L-T-P Credit
+1
+2
+3
+4
+5
+6
+7
+8 Reactive
+Chemical
+Processing Molecular Modeling of Catalytic Reactions
+Heterogeneous Catalysis and Catalytic Reactors
+Characterization of Multiphase Reactors
+Advanced Wastewater Treatment
+Chemical Reactor Analysis
+Selected Topics in Reactive Chemical Processing
+Recent Advances in Reactive Chemical Processing
+Current Topics in Reactive Chemical Processing 3-0-0
+3-0-0
+3-0-0
+3-0-2
+3-0-2
+3-0-0
+2-0-0
+1-0-0 3
+3
+3
+4
+4
+3
+2
+1
+S. No. Group Course Title L-T-P Credit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Petroleum and
+Petrochemicals Petroleum Refinery Engineering
+Petrochemical Technology
+Petroleum Production Engineering
+Petroleum Reservoir Engineering
+Process Safety and Hazards
+Environmental Impact Assessment
+Hydrogen and Methanol Economy
+Selected Topics in Petroleum and Petrochemicals
+Recent Advances in Petroleum and Petrochemicals
+Current Topics in Petroleum and Petrochemicals 3-0-2
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+2-0-0
+1-0-0 4
+3
+3
+3
+3
+3
+3
+3
+2
+1
+M.Tech. Electives (ME) 
+Program Electives 
+ 
+Group 1: Industry 4.0+Data Analytics
+Group 2: Reactive Chemical Processing
+Group 3: Petroleum and Petrochemicals
+
+S. No. Group Courses L-T-P Credit
+1
+2
+3
+4
+6
+7
+8
+9 Additional
+Electives Advanced Fluid Dynamics
+Advanced Mass Transfer
+Advanced Heat Transfer
+Capillarity and wetting
+Kinetics & Theory for Polymers
+Catalytic Nanomaterials
+Mechanics of Viscoelastic Materials
+Structure & Property for Polymers 3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0 3
+3
+3
+3
+3
+3
+3
+3
+Group 4: Additional program Electives
+
+Title Advanced Transport Phenomena Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree in Chemical
+Engineering Type Compulsory
+Prerequisite None
+Detailed course contents
+Program core
+
+Title Advanced Reaction Engineering Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-2 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree in Chemical
+Engineering Type Compulsory
+Prerequisite None
+
+Title Advanced Chemical Engineering
+Thermodynamics Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-0 (2)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree in
+Chemical Engineering Type Compulsory
+Prerequisite None
+
+Title Advanced Mathematical Methods in Chemical
+Engineering Number CLL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0
+Offered for M.Tech. and M.Tech.-Ph.D. Dual Degree Type Compulsory
+Prerequisite Knowledge of Engineering Mathematics
+
+Title Advanced Process Control and AI
+Applications Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Compulsory
+Prerequisite Introductory course on process control
+
+Title Multi-component Separation Processes Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-2 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Compulsory
+Prerequisite None
+
+Title Industrial Design Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme
+Elective
+Prerequisite Knowledge of Unit Operations, Fluid
+Mechanics
+Details of Elective Courses
+Program Electives 
+Group 1: Industry 4.0+Data Analytics
+
+Title Chemometrics Number CHL7XX0
+Department Chemical Engineering, L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech.-Ph.D. Type Programme Elective
+Prerequisite basics of chemical engineering
+
+Title Data Analytics in Process Modelling and
+Simulation Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-2 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree in
+Chemical Engineering Type Elective
+Prerequisite None
+
+Title Computational Fluid Dynamics Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-2 (4)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme Elective
+Prerequisite Knowledge of Fluid Mechanics
+
+Title Process Optimisation Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-2 (4)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme Elective
+Prerequisite knowledge of Chemical Engineering
+processes and Mathematics
+
+Title Process Engineering and AI Applications Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-2 (3)
+Offered for M.Tech., M.Tech.-Ph.D. Dual Degree in Chemical
+Engineering Type Elective
+Prerequisite None
+
+Title Packaging of Electronic Devices – Polymeric
+materials & Chemical Technology Number CHL7XX
+Department Chemical Engineering L-T-P [C] 3-0-2
+Offered for MTech, MTech-PhD Type Elective
+Prerequisite Basic knowledge of polymeric materials
+
+Title Nanocomposite Membrane Technology Number CHL8XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech.-Ph.D. Dual Degree and Ph.D. Type Elective
+Prerequisite Basic knowledge of Engineering and
+Chemistry
+
+Title Artificial Intelligence-1 Number CSXXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Machine Learning-1 Number CSXXXX
+Department Computer Science and Engineering L-T-P [c] 3-0-0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Introduction to Internet of Things (IoT) Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M. Tech. 1st year Type Compulsory
+
+Title Nanosensors Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech and PhD Type Open Elective
+
+Title Additive Manufacturing Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0 [3]
+Offered for Type Program Elective
+
+Title Robotics Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-2 [4]
+Offered for B. Tech (ME), M. Tech(AMD) and PhD Type Program Core
+
+Title Sensors and IoT Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M. Tech. 1st year Type Compulsory
+
+Title Industry 4.0 Applications in
+Manufacturing Systems Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 1-0-0 [1]
+Offered for Type Program Core
+
+Title Molecular Modelling of Catalytic
+Reactions Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Program Elective
+Prerequisite Basic knowledge of Chemical Kinetics
+Group 2: Reactive Chemical Processing
+
+3. M. Albert Vannice,2005, Kinetics of Catalytic Reactions, Springer; 2005 edition
+4. Wolfram Koch, Max C. Holthausen, 2001, A Chemist's Guide to Density Functional
+Theory, Wiley-VCH; 2 edition (July 11, 2001), ISBN: 978-3527303724
+5. Michel Boudart, 1984, Kinetics of Heterogeneous Catalytic Reactions, Princeton
+University Press (1984), ISBN: 978-0691083476
+
+Title Heterogeneous Catalysis and
+Catalytic Reactors Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual
+Degree Type Programme Elective
+Prerequisite Basic knowledge of Chemical
+Kinetics
+
+Title Characterization of Multiphase
+Reactors Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme
+Elective
+Prerequisite Basic knowledge of Chemical Kinetics
+
+Title Advanced Wastewater Treatment Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-2 (4)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme Elective
+Prerequisite None
+
+Title Chemical Reactor Analysis Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-2 (4)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme Elective
+Prerequisite Basic knowledge of Chemical Kinetics
+
+Title Selected Topics in Reactive Chemical
+Processing Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech. / M.Tech.-Ph.D. Dual Degree Type Elective
+Prerequisite To be declared by the instructor
+
+Title Recent Advances in Reactive
+Chemical Processing Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-0 (2)
+Offered for M.Tech./ M.Tech.- Ph.D. Dual Degree Type Elective
+Prerequisite To be declared by instructor
+
+Title Current Topics in Reactive
+Chemical Processing Number CHL7XX0
+Department Chemical
+Engineering L-T-P (C) 1-0-0 (1)
+Offered for M.Tech. / M.Tech.- Ph.D. Dual Degree Type Elective
+Prerequisite To be declared by the instructor
+
+Title Petroleum Refinery Engineering Number CHL7XX
+Department Chemical Engineering L-T-P (C) 3-0-2 (4)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme Elective
+Prerequisite Knowledge of Mass Transfer
+Group 3: Petroleum and Petrochemicals
+
+Title Petrochemical Technology Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme
+Elective
+Prerequisite Basic knowledge of Chemical Engineering
+
+Title Petroleum Production Engineering Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme Elective
+Prerequisite Basic knowledge of Chemical
+Engineering Concepts
+
+Title Petroleum Reservoir
+Engineering Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree Type Programme Elective
+Prerequisite Basic Knowledge of Chemical
+Engineering Concepts
+
+Title Process Safety & Hazards Number CHL7XX
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual
+Degree Type Programme Elective
+Prerequisite Basic Knowledge of Chemical
+Engineering
+
+Title Environmental Impact Assessment (EIA) Number CHL7XX0
+Department (i) Chemical Engineering, (ii) Civil and
+Infrastructure Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech., M.Tech.-Ph.D. Dual Degree Type Elective
+
+Title Hydrogen and Methanol Economy Number CH7XX0
+Department Civil Engineering L-T-P [C] 3-0-0
+Offered for MTECH, MTECH-PhD Dual Degree Type Elective
+Prerequisite none
+
+Title Selected Topics in Petroleum and
+Petrochemicals Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for M.Tech. / M.Tech.- Ph.D. Dual Degree Type Elective
+Prerequisite To be declared by the instructor
+Title Recent Advances in Petroleum and
+Petrochemicals Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-0 (2)
+Offered for M.Tech./ M.Tech.- Ph.D. Dual Degree Type Elective
+Prerequisite To be declared by instructor
+
+Title Current Topics in Petroleum and
+Petrochemicals Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 1-0-0 (1)
+Offered for M.Tech. / M.Tech.-Ph.D. Dual Degree Type Elective
+Prerequisite To be declared by the instructor
+
+Title Advanced Fluid Dynamics Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech, MTech, PhD Type PE
+Prerequisite An introductory course on Fluid Mechanics
+Group 4: Additional program Electives
+
+Title Advanced Mass Transfer Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech, MTech, PhD Type PE
+Prerequisite An introductory course on Mass Transfer
+
+Title Advanced Heat Transfer Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech, MTech, PhD Type PE
+Prerequisite An introductory course on Heat Transfer
+
+Title Capillarity and Wetting Number CH7LXX
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for As prescribed for 700 level course Type Elective
+Prerequisite Basic course on Fluid dynamics
+
+Title Principles of Electrochemical Engineering Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 (3)
+Offered for B.Tech. Type Program
+Elective
+Prerequisite Basic knowledge of Thermodynamics
+
+Title Kinetics & Theory for Polymers Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech, MTech, PhD Type Program
+Elective
+Prerequisite An introductory knowledge of polymers
+
+Title Catalytic Nanomaterials Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech, MTech, PhD Type PE
+Prerequisite Basic knowledge of Chemical Reaction
+Engineering
+
+Title Mechanics of Viscoelastic Materials Number CHL7XX0
+Department Chemical Engineering L-T-P
+[C] 3-0-0
+Offered for BTech, MTech, PhD Type PE
+Prerequisite Basic knowledge of polymers or viscoelastic
+materials
+
+Title Structure & Property for Polymers Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech, MTech, PhD Type PE
+Prerequisite An introductory course on polymers for BTech,
+None for MTech

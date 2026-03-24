@@ -1,0 +1,18 @@
+research seminar by brahadeesh sankarnarayanan on april at pm speaker brahadeesh sankarnarayanan title of the talk sunflowers and symmetric designs date time and venue april pm pm seminar hall dept
+of mathematics about the speaker brahadeesh sankarnarayanan received his dual degree in mathematics from iiser bhopal and his in combinatorics from iit bombay
+he has been an institute postdoctoral fellow at iit bombay until february
+his research interests lie broadly in extremal graph theory and combinatorics
+in graph theory he has worked on colorings and list colorings of graphs from extremal and algorithmic perspectives
+in extremal combinatorics he has worked on fractional variant of intersecting families of set systems using probabilistic and linear algebraic tools
+his current research interests include the study of intersecting families of graphs via methods and the study of path representations of graphs
+abstract for fraction family of subsets of is called fractional family if for every pair of distinct sets we have
+the natural extremal question is how large can family over be
+this notion was introduced in electron
+wherein they showed that log and they gave constructions of families of size at least
+the conjecture which is still open is that for any family over
+in this talk will discuss some recent progress on this conjecture and some related questions concerning ranks of certain matrix ensembles sunflowers and symmetric designs
+speaker brahadeesh sankarnarayanan title of the talk sunflowers and symmetric designs date time and venue april pm pm seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

@@ -1,0 +1,24 @@
+phd curriculum for saide core courses elective course core courses
+deep learning elective courses core
+foundations of computer vision and natural language processing vision and language elective
+deep learning for computer vision and vision and language elective
+advanced computer vision elective
+multimodal learning with vision and language vision and language elective
+deep learning for natural language processing vision and language elective
+ai and cybersecurity vision and language elective
+conversational ai vision and language elective brain science and applications
+sensation and perception core
+eeg signal analysis elective
+introduction to brain computer interface elective
+connectomics vision and language elective
+computational cognitive neuroscience vision and language elective robotics
+assistive and rehabilitation robotics vision and language elective
+planning and decision making for robots vision and language elective mathematical and computational economics
+mathematics for economics msc
+css institute humanities
+modern macroeconomics msc
+operations research for economics msc
+theoretical foundation of econometrics msc
+machine learning for economics msc
+modern growth economics msc
+introduction to mechanism design msc

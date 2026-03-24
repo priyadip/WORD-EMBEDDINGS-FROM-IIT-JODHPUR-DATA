@@ -1,0 +1,145 @@
+SOURCE_PDF: 3f564f3d572e_TopUniversityDetails_5D.pdf
+
+5D.PRCMP S.No. Name of student Name of top
+University/Institution
+from where student
+graduated Graduati
+ng year Program enrolled
+in your
+institution(PG/Ph
+D) Year of
+admission
+1 POOJA University of Delhi 2015 MSC 2015
+2 PRANAY
+RAJBANGSHI Guwahati University 2015 MSC 2015
+3 SUMAN DHARA West Bengal State
+University 2015 MSC 2015
+4 VIKAS KUMAR Allahabad University 2015 MSC 2015
+5 VINAY UNIYAL Garhwal University 2015 MSC 2015
+6 ASHISH KUMAR University of Rajasthan 2014 MSC 2015
+7 BERNARD
+LALROLIANA Mizoram University 2014 MSC 2015
+8 NIDHIN
+SATHYAN Mahatma Gandhi
+University 2015 MSC 2015
+9 NIKUNJ
+MUNDHRA Univeristy of Delhi 2015 MSC 2015
+10 RASHMI MEHLA University of Delhi 2015 MSC 2015
+11 SANJEEDA
+BHARATI DAS Tezpur University 2015 MSC 2015
+12 VIKRANT
+CHAUDHARY University of Delhi 2015 MSC 2015
+13 AARTI BALANA Panjab University 2015 MSC 2015
+14 BHAGYA SHREE
+MEENA University of Rajasthan 2015 MSC 2015
+15 DHARMENDRA
+KUMAR GURJAR University of Rajasthan 2015 MSC 2015
+16 Ashish Mishra Rajive Gnahdi
+produyogiki
+Vishwavidhyalaya Sagar
+Institute of Research &
+Technology Bhopal 2012 M.Tech 2015
+17 Divyanshu Gangal Mandn Monhan Malviya
+Eng. College Gorakhpur 2014 M.Tech 2015
+18 Mukesh Kumar Kurukshetra University 2011 M.Tech 2015
+19 Ajeet Singh Yadav UPTU Lucknow 2014 M.Tech 2015
+
+20 Chandrashekhar
+Bhardwaj Gautam Buddha
+Technical University 2013 M.Tech 2015
+21 Dinesh Jangid NITK Surathkal 2013 M.Tech 2015
+22 Itisha Chauhan JIITU 2014 M.Tech 2015
+23 Lobzang Namgail NIT Srinagar 2011 M.Tech 2015
+24 Mohit Kachhwaha Rajasthan Technical
+University 2014 M.Tech 2015
+25 Prakriti Arya University Institute of
+Eng. Technoly Panjab
+University 2013 M.Tech 2015
+26 Priyanka Siddha Jyoti Vidya Peeth Women
+University Jaipur 2015 M.Tech 2015
+27 Saurabh Rawal Guru Govind Singh
+Indraprastha University
+Delhi 2014 M.Tech 2015
+28 Vineet Kumar BTU Belgaum 2012 M.Tech 2015
+29 Anil Kumar NIT Kurukshetra 2014 M.Tech 2015
+30 Jitendra Kumar UPTU Lucknow 2009 M.Tech 2015
+31 Joshi Sonal Sunil University of Mumbai 2014 M.Tech 2015
+32 Ashok Verma UPTU Lucknow 2013 M.Tech 2015
+33 Deepak Raina MMUMA Hariyana 2015 M.Tech 2015
+34 Himanshu Gaur UPTU Lucknow 2013 M.Tech 2015
+35 Narayan Kumar NIT Patna 2014 M.Tech 2015
+36 Naveen Kurukshetra University 2014 M.Tech 2015
+37 Neha Arora BIET Jhansi 2014 M.Tech 2015
+38 Sankalp Singh UPTU Lucknow 2015 M.Tech 2015
+39 Shiv Ram Suthar Rajasthan Technical
+University Kota 2014 M.Tech 2015
+40 Shravan Singh Rao MPUAT Udaipur 2015 M.Tech 2015
+41 Shubhendu
+Prashant Singh UPTU Lucknow 2014 M.Tech 2015
+42 Tushar Lohora Rajasthan Technical
+University Kota 2014 M.Tech 2015
+43 Vivek Tripathi Devi Ahilya
+Visvadidyalay Indore 201 M.Tech 2015
+44 Ishan Agrawal Central University of
+Gujrat 2015 Ph.D 2015
+45 Devika Laishram Pondicherry University 2014 Ph.D 2015
+46 Hargeet Kaur IIT Jodhpur 2015 Ph.D 2015
+47 Jyoti Faujdar IIT Jodhpur 2015 Ph.D 2015
+48 Anchal Gahlaut Bundelkhand University 2015 Ph.D 2015
+
+49 Bhawna Chaubey Jamia Millia Slamia
+University 2015 Ph.D 2015
+50 Arpita Srivastava Jamia Millia Slamia
+University 2015 Ph.D 2015
+51 Sumitra Godara Kota University 2014 Ph.D 2015
+52 Arka Ujjal Dey IIT Jodhpur 2015 Ph.D 2015
+53 Abhishek Sahu IIIT Jabalpur 2015 Ph.D 2015
+54 Arpita Jaitawat LNMIIT 2015 Ph.D 2015
+55 Poonam Sahu BIT Misra Ranchi 2014 Ph.D 2015
+56 Shivam Chaturvedi RGPV Bhopal 2015 Ph.D 2015
+57 Rajesh Shukla DRDO Pune, DIAT 2010 Ph.D 2015
+58 Lochan Sharma Thapar University Patiala 2011 Ph.D 2015
+59 Pravesh Kumar IIT BHU 2012 Ph.D 2015
+60 Sumit Mahajan Thapar University Patiala 2011 Ph.D 2015
+61 Chandni Kumari IIT Jodhpur 2015 Ph.D 2015
+62 Jyoti Saini University of Rajasthan
+Jaipur 2014 Ph.D 2015
+63 Khushboo Dixit Banasthali University 2013 Ph.D 2015
+64 Abhra Paul IGNOU 2013 Ph.D 2015
+65 Divya Gupta CCS University Meerut 2011 Ph.D 2015
+66 Rohit Kumar IIT Kanpur 2015 Ph.D 2015
+67 Divya Srivastagva MANIT 2015 Ph.D 2015
+68 Divya Sharma IIT Jodhpur 2015 Ph.D 2015
+69 Tushar Shankar
+Shinde IIT Jodhpur 2015 Ph.D 2015
+70 Muhammad Shekh Univesity College JNTU
+Kakinada 2012 Ph.D 2015
+71 Gajendra Singh
+Chhawada NIT Kurukshetra 2013 Ph.D 2015
+72 Naduri Kameswara
+Swarun Vasavi College of
+Engineering Osmania
+University 2012 Ph.D 2015
+73 Amanjot Kaur IIT Jodhpur 2015 Ph.D 2015
+74 Prakash kalwani School of Biotechnology ,
+DAVV Indore 2013 Ph.D 2015
+75 Devendra Singh Delhi Technological
+University New Delhi 2015 Ph.D 2015
+76 Aditya Raj CDAC Noida 2013 Ph.D 2015
+77 Neeraj Goel ISM Dhanbad 2015 Ph.D 2015
+78 Abhishek Kumar NIT Rourkela 2013 Ph.D 2015
+
+79 Ankit Agarwal Delhi Technological
+University New Delhi 2015 Ph.D 2015
+80 Rahul Kumar IIT BHU 2014 Ph.D 2015
+81 Vibhuti Bhushan
+Pandey Rajasthan Technical
+Unviersity Kota 2015 Ph.D 2015
+82 Yogesh Kumar NITK Surathkal 2013 Ph.D 2015
+83 Aniket Dilip Monde SVNIT Surat 2015 Ph.D 2015
+84 Varun
+Jyothiprakash Jain University Banglore 2013 Ph.D 2015
+Note: 1. Please enter data for students who got admitted in the year 2015-16 in your institute PG/PhD program 
+from top institution
+2. Institutions ranked as top institutions in the following ranking bodies namely India Ranking 2016, QS World 
+Ranking 2016, THE World University Ranking 2016.

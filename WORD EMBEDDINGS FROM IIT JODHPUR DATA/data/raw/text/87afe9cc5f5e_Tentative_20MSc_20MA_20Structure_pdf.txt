@@ -1,0 +1,42 @@
+SOURCE_PDF: 87afe9cc5f5e_Tentative_20MSc_20MA_20Structure.pdf
+
+Cat. Course Course Title L-T-P-D Credits Cat. Course Course Title L-T-P-D Credits
+Number Number
+Semester 1 Semester 2
+C MA511 Linear algebra 3-0-0-1 4 C MA521 Abstract Algebra 3-0-0-1 4
+C MA512 Real analysis 3-0-0-1 4 C MA522 Comple x 3-0-0-1 4
+C MA513 Ordinary 3-0-0-1 4 C MA523 Partial 3-0-0-0 3
+Differential Differential
+equations equations
+C MA514 Probability 3-0-0-1 4 C MA551 Topology 3-0-0-0 3
+C MA515 Programing 1-0-4-0 3 PE xxxxx PE1 3-0-0-0 3
+PE xxxxx PE2 3-0-0-0 3
+Total 19 Total 20
+Semester 3 Semester 4
+C MA525 Functional 3-0-0-0 3 PE xxxxx PE5 3-0-0-0 3
+PE xxxxx PE3 3-0-0-0 3 PE xxxxx PE6 3-0-0-0 3
+PE xxxxx PE4 3-0-0-0 3 OE xxxxx OE2 3-0-0-0 3
+OE xxxxx OE1 3-0-0-0 3
+C xxxxx Computational 1-0-2-0 2
+P MA6xx Project 0-0-0-5 5 P MA6xx Project 0-0-0-10 10
+Total 19 Total 19
+Grand total 77
+S.No. Category Course Total Total
+Category Title Courses Credits
+1 C Compulsory 11 38
+2 PE Program Electives 6 18
+3 OE Open Elective 2 6
+4 P Project 2 15
+Total 77
+Course
+Number Course Title Course
+Number Course Title
+MA552 Wavelets analysis and Applications MA611 Graphs and Matrices
+MA553 Dynamical Systems MA652 Stochastic Calculus
+MA524 Optimization MA670 Measure and Integration
+MA524 Numerical Analysis MA754 Algorithmic Graph Theory
+MA5xx Number Theory MA755 Chaos Theory and its Applications
+MA5xx Calculus of Variation and Integral
+Equations MA757 Numerical Partial Differential
+Equations
+MA6xx Statistical Inference

@@ -1,0 +1,813 @@
+SOURCE_PDF: 5c5ceda6d0d2_BIOSCIENCE_20AND_20BIOENGINEERING_06092019.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+M.Tech & M.Tech-Ph.D Dual Degree Program
+in
+Department of Bioscience & Bioengineering
+
+1. Introduction
+The biological world is full of natural wonders beginning from microscopic bacteria to multicellular 
+organisms. Using a reductionist approach, each organism can be broken down into its subsystems, 
+which continue to provide us with new knowledge on how evolution has perfected these systems 
+over millennia. Conversely, one can also take a systems biology approach and appreciate the whole 
+organism as a system that grows and continuously adapts to the environment. Beginning from 
+thermodynamically efficient cellular systems to the molecular motors of the flagellar motor, each 
+product of evolution is an optimized engineering design which can be translated into real-life 
+applications across disciplines. Furthermore, the call for support from today’s data-driven biology 
+has been answered by advancements in computational biology that permit solving biology 
+problems using artificial intelligence and machine learning approaches. Genomics, proteomics, 
+transcriptomics and metabolomics have transformed the landscape of infectious and non-infectious 
+diseases allowing development of new diagnostic measures as well as therapeutics. In combination 
+with active contribution from Electronic, Mechanical, Materials engineering, implantable sensor and 
+support devices that are bio-compatible have significantly contributed to extending the healthy 
+lifespan of the human race. The Department of Bioscience & Bioengineering aspires to cater to the 
+technological requirements of the country by conducting high-quality, translatable, and 
+interdisciplinary research in the aforementioned focus areas.
+2. Objective of the Programme
+To produce professionals with an in-depth knowledge of biological systems and phenomena, with 
+critical thinking and bioengineering research skills that can be effectively put to use in solving 
+problems in focus domains including Healthcare, Energy, Environment, and Agriculture. The 
+program will help graduates to approach problems in the above focus domains by providing 
+knowledge and hands-on laboratory training in the areas of data driven multi-omics technologies, 
+artificial intelligence & computational biology, systems biology, imaging-based diagnostics, 
+biomaterials, and bio-therapeutics.
+
+3. Expected Graduate Attributes
+Graduates will
+1. Be able to think critically and solve problems that are necessary for employment in
+biomedical, biotechnology, pharmaceutical industries, National research labs and Academic 
+institutions at the global level.
+2. Develop a sense of ownership on the National missions for technology development, which
+will cater to societal needs such as affordable healthcare, clean energy, safe environment, 
+and sustainable agriculture.
+3. Be exceptionally well trained in the laboratory enabling them to conduct high-quality,
+reproducible research.
+4. Be able to read, understand and review intellectual property documents and recognize their
+5. Be able to express their research ideas and present their data clearly in written and spoken
+6. Develop a strong work ethic and understand ethical considerations in biological research,
+which are both necessary for high-quality research.
+7. Develop healthy time management skills to plan and manage laboratory work as well as
+other miscellaneous research-associated demands on their time to effectively meet 
+deadlines.
+4. Learning Outcomes
+Graduates will
+• 
+Be introduced to cutting-edge, interdisciplinary research areas like Diagnostics & 
+Therapeutics 
+development, 
+Instrumentation 
+design 
+& 
+Development, 
+Multi-omics
+Technologies & Applications, Biomedical Imaging& Image processing, Systems & Synthetic 
+Biology and Biomaterials Engineering, Artificial Intelligence for biological applications
+• 
+Be exposed to common problems that are prevalent in the domains of affordable healthcare, 
+clean energy, safe environment, and sustainable agriculture, allowing them to innovate and 
+develop technological solutions for the same.
+• 
+Receive effective, hands-on laboratory training as a part of laboratory courses and short-
+term research projects that are designed to teach research methodology and common lab 
+techniques.
+• 
+Be introduced to Patents and other intellectual property documents, the rights that they 
+grant and necessary considerations while filing patents / technology that is protected by 
+patents.
+• 
+Develop their research communication skills by participating in seminars, journal clubs; 
+manuscript writing and research grant writing workshops.
+• 
+Receive training on building a work ethic by being a part of research groups working 
+towards a common goal. Graduates will also appreciate the ethical and safety considerations 
+while conducting biomedical research.
+• 
+Be taught how to prioritize items on their schedule and how to budget time across the 
+spectrum of activities including research and other necessary tasks.
+
+5. Topic Clouds
+5.1 Master Topic Cloud - Course Overview
+5.2 Sub-Cloud - 1 - Bioimaging
+
+5.3 Sub-Cloud - 2 - Omics
+5.4 Sub-Cloud - 3 - Biosensors
+
+5.5 Sub-cloud - 4 - Systems Biology
+5.6 Sub-Cloud - 5 - Biomaterial Engineering
+
+5.7 Sub-Cloud - 6- Bioenergy & Environment technologies
+
+Cat Course Title L-T-P Credits Cat Course Title L-T-P Credits
+I Semester II Semester
+C BBL7XX0:
+Introduction to
+OMICS Technologies 2-0-0 2 C BBL7XX0: Systems
+Biology 3-0-2 4
+C BBL7XX1: Bioimaging
+Instrumentation and
+Acquisition 2-0-2 3 C BBL7XX1: Types of
+Biosensors & their
+Characterization
+EE7XX2:
+Microfabrication
+Technologies,
+Interfacing and Read
+Out Electronics 2-0-0 2
+C BBL7XX0:
+Biomaterials
+Engineering 3-0-0 3 C CS7XX2: Bioimage
+Computing 1-0-0 1
+C MAL7XX1: Statistical
+Techniques
+MAL7XX2: Advanced
+Statistical Techniques 1-0-0
+2-0-0 3 C BBP7XX2: Statistics
+and Data Analysis Lab 0-0-2 1
+PE Program Elective-1 3-0-0 3 PE Program Elective-2 1-0-0 1
+NG Technical
+Communication 1-0-0 1 PE Program Elective-3 3-0-0 3
+PE Program Elective-4 3-0-0 3
+NG Innovation and IP
+Management 1-0-0 1
+Total (Graded + Non-graded) 15 Total (Graded + Non-graded) 16
+III Semester IV Semester
+PE Program Elective-5 3-0-0 3 TH Project-2 0-0-20 10
+PE Program Elective-6 3-0-0 3 NG Professional Ethics 1-0-0 1
+6. M. Tech. Bioscience and Bioengineering Proposed Course structure
+
+PE Program Elective-7 1-0-0 1
+NG Systems Engineering
+and Project
+Management 1-0-0 1
+Total (Graded + Non-graded) 17 Total (Graded + Non-graded) 14
+Course Type Credits
+Program Core (C) 19
+Program Elective (PE) 17
+Open Elective (OE) 6
+Project 16
+Total (Graded + Non-Graded) 62 (58 + 4)
+6.1 Credit Distribution
+
+6.2 M. Tech. Program in Bioscience & Bioengineering - Elective Sets
+Students must complete a minimum of 9 credits from one Program Elective Set. Six credits may be 
+completed from other PE Set. A student can opt for any two of the given elective sets. Students 
+may opt for Open Electives from anywhere in the institute.
+Program Elective Set 1 - Bioimaging &Health Informatics
+BBL7XX0 Fundamentals of Neuroscience [3-0-0]
+BBL7XX0 Principles of Drug Development [3-0-0]
+BBL7XX0 Introduction to Chemical Biology [3-0-0]
+CSL7XX0 Digital Image Analysis [3-0-0]
+CSL7XX0 Machine Learning-1 [3-0-0]
+CSLEEL7XX0 Image Sensor Design and Applications [3-0-0]
+PH7XX0 Introduction to Medical Physics fractal 1 & 3 [2-0-0]
+Program Elective Set 2- Multi-omics
+BBL7XX1 Omics Databases [1-0-0]
+MAL7XX0 Introduction to Data Science [1-0-0]
+CSL7XX2 Data Management [1-0-0]
+BBL7XX0 Proteomics Data Analysis [2-0-0]
+BBL7XX0 Microbial Genomes & Microbiomes [3-0-0]
+BBL7XX0 RNA Sequencing Data Analysis [3-0-0]
+BBL7XX0 Microarray Data Analysis [2-0-0]
+BBL7XX0 Metabolomics [3-0-0]
+BBL7XX0 Algorithms in Biology [3-0-0]
+Program Elective Set 3- Biological systems & Biosensors
+BBL7XX0 Disease Processes diagnostics & therapeutics [3-0-0]
+BBL7XX0 Quantitative Physiology: systems and controls of the human machine [3-0-0]
+BBP7XX0 Quantitative Physiology lab [0-0-2]
+BBL7XX0 Cell and Molecular Biology [3-0-0]
+BBL7XX0 Sensory-neural systems [3-0-0]
+
+BBL7XX3 Visual perception [1-0-0]
+BBL7XX2 Auditory perception: from cell to signal [1-0-0]
+BBL7XX1 Synaptic communication: function and dysfunction [1-0-0]
+BBL7XX0 Immunodiagnostics and therapeutics [2-0-2]
+BBL7XX0 Cardiovascular Physiology: Signals, systems and controls
+BBL7XX1 Microbes as sensors [1-0-0]
+MEL7XXO Microfluidics technologies [3-0-0]
+CSL7XX0 Measurement in remote healthcare [1-0-0]
+CSL7XX0 Analog & Interfacing Circuits [3-0-0]
+CYL6XX0 Biophysical Techniques: Theory and applications [3-0-0]
+MEL7XX0 Fluid Flow in Biological Processes [2-0-0]
+Program Elective Set 4 – Systems Biology
+BBL7XX0 Synthetic Biology [3-0-0]
+BBL7XX0 Systems Biology in Personalized Genomics [3-0-0]
+BBL7XX0 RNA Sequencing Data Analysis [2-0-0]
+BBL7XX0 Flux Balance Analysis [3-0-0]
+BBL7XX0 Immunotechnology [3-0-0]
+CYL6XX1 Thermodynamics [1-0-0]
+CYL6XX3 Chemical Kinetics [1-0-0]
+MAL6XX0 Ordinary Differential Equations [3–0–0]
+MAL7XX0 Numerical Methods for PDE [1-0-0]
+Program Elective Set 5 – Biomaterials Engineering
+BBL7XX0 Biophysics [2-0-0]
+BBL7XX0 Biomechanics [2-0-0]
+BBL7XX0 Tissue Engineering & Medical devices and Implants [3-0-0]
+BBL7XX0 Selected topics in Biomaterials Engineering [1-0-0]
+MT7LXX0 Principles of Engineering Material Selection 3-0-0 [3]
+MTL7XX0 Computational material Engineering [3-0-0]
+Program Elective Set 6 – Bioenergy & Environmental Technologies
+BBL7XX0 Environmental Microbiology [2-0-0]
+
+BBL7XX0 Environmental Biotechnology and Bioremediation [3-0-0]
+BB7XX0 Bioenergy Systems [3-0-0]
+BB7XX0 Bio-electrochemical Systems [2-0-0]
+MEL7XX0 Water Energy nexus [3-0-0]
+MEL7XX0 Soil and Water Conservation engineering [3-0-0]
+MT7XX0 Industrial waste: control & utilization [3-0-0]
+6.3 List of Laboratory courses
+6.3.1. Core Labs:
+Bioimaging lab
+Systems Biology lab
+Statistics and Data Analysis lab
+6.3.2. Elective Labs:
+Quantitative Physiology lab
+Artificial Intelligence in bioengineering lab
+Immunodiagnostics and therapeutics [2-0-2]
+
+Compulsory Courses / Fractals
+
+Title Bioimaging Number BBL7XX1
+CSL7XX2
+Department Biosciences & Bioengineering and
+Computer Science & Engineering L-T-P [C] 3-0-2 [4]
+Offered for M. Tech; PhD Program Type Compulsory
+
+Title Introduction to Omics Technologies Number BBL7XX0
+
+Department Bioscience & Bioengineering L-T-P
+[C] 2–0–0 [2]
+Offered for M.Tech. Type Elective
+Prerequisite Nil
+
+4. Conn P.M., [Ed.] (2003), Handbook of Proteomic Methods, Springer
+Self-Learning Material
+1. Vikash Kumar Dubey, Proteomics & Genomics, NPTEL Course Material, Department of
+Biosciences 
+& 
+Bioengineering, 
+Indian 
+Institute 
+of 
+Technology 
+Guwahati,
+2. S. Ganesh, Functional Genomics, NPTEL Course Material, Indian Institute of Technology
+3. Sanjeeva Srivastava, Proteomics: Principles and Techniques, NPTEL Course Material,
+Department of Biosciences & Bioengineering, Indian Institute of Technology Bombay, 
+https://nptel.ac.in/courses/102101007/6
+
+Title Biomaterials engineering Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite None
+
+Title Statistical Techniques, Advanced Statistical
+Techniques Number MAL7XX0
+MAL7XX0
+Department Mathematics L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+
+Title Statistics and Data Analysis Lab Number BBP7XX0
+Department Bioscience and Bioengineering L-T-P [C] 0–0–2 [2]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+
+Title Systems Biology Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech. 1st Year Type Compulsory
+
+2.Department of Biological Engineering, MIT, https://be.mit.edu/research-areas/systems-
+biology
+Preparatory Course Material
+1. 
+Department 
+of 
+Biotechnology, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+
+Title Biosensors Number BBL7XX1
+EEL7XX2
+Department Bioscience & Bio-engineering and Electrical
+Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+
+Program Elective Set 1
+Bioimaging & Health Informatics
+
+Title Fundamentals of Neuroscience Number BBL7xx0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Title Digital Image Analysis Number CSL7XX0
+
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite None
+
+1. Gonzalez and Woods, Digital Image Processing, Prentice-Hall.
+2. Fundamentals of Digital Image Processing by Anil K. Jain.
+Self Learning Material
+NPTEL: Digital Image Processing
+
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed 
+sensing (2 lectures)
+Generative Models: Maximum likelihood estimator, Naive Bayes, Linear Discriminant Analysis, 
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning 
+(3 lectures)
+CSL7XX3: Machine Learning I: Computational Learning Theory and Deep Neural 
+Networks 1-0-0[1]
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff, 
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From Theory
+to Algorithms, Cambridge University Press
+Reference Books:
+2. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill 
+Self Learning Material
+3. Department of Computer Science, Stanford University,
+
+Title Image Sensor Design and Applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M. Tech, Ph.D. Type Elective
+Prerequisite Analog electronics
+
+Self Learning Material
+1. O. Yadid Pecht and R. E. Cummings (2004), CMOS imagers: From Photo transduction to 
+Image processing, Springer.
+2. Image sensors blog http://image-sensors-world.blogspot.com/
+Preparatory Course Material
+1. El Gamal, Abbas, and Helmy Eltoukhy (2005) “CMOS image sensors.” IEEE Circuits and 
+Devices Magazine vol. 21, no. 3, pages 6-20.
+2. Fossum, Eric R. (1997) “CMOS image sensors: Electronic camera-on-a-chip.” IEEE 
+transactions on electron devices vol. 44. No. 10, pages 1689-1698.
+
+Title Introduction to Medical Physics Number PHL7XX0
+Department Physics L-T-P [C] 2–0–0 [2]
+Offered for Type Elective
+
+2. Jasanoff, A., MIT Open courseware, Noninvasive Imaging in Biology and Medicine,
+Preparatory Course Material
+1. Department of Physics, IIT Delhi, https://nptel.ac.in/syllabus/115102017/.
+
+Title Principles of Drug Discovery Number BBL7XX1
+CSL7XX1
+CSL7XX2
+Department Bioscience & Bioengineering and Computer
+Science and engineering L-T-P [C] 3-0-0 [2]
+Offered for M.Tech Type Elective
+Prerequisite None
+
+Title Introductory Chemical Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Elective
+Prerequisite None
+
+Program Elective Set 2
+
+Title Omics Databases Number BBL 7XX0
+Department Bioscience & Bioengineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Type Elective
+
+Title Introduction of Data Science Number MAL7XX0
+Department Mathematics L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Type Elective
+
+Title Data Management (Fractal of Software and
+Data Engineering) Number CSL7XX2
+Department CSE L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Type Elective
+
+Title Microarray Data Analysis Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. Type Elective
+
+Online Course Material
+1. Srivastava, S., 
+Microarray Data Analysis, Department 
+of Bioscience and
+Bioengineering, 
+Indian 
+Institute 
+of 
+Technology 
+Bombay,
+
+Title RNA Sequencing Data Analysis Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2-0-0 [2]
+Offered for M.Tech. Type Elective
+
+Title Algorithms in Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Proteomics Data Analysis Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–0 [0]
+Offered for M.Tech. Type Elective
+
+Title Microbial Genomes & Microbiomes Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Metabolomics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–0 [1]
+Offered for M.Tech. Type Elective
+
+Program Elective Set 3
+Biological Systems & Biosensors
+
+Title Experimental design for biologists Number BBN7XX0
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+
+Designing the Experimental Project: A Biological Example (10 Lectures)
+Textbook
+1.Glass D.J., Experimental Design for Biologists, 2ndEdition, Novartis Institutes for 
+Biomedical Research, Cambridge, Massachusetts
+2.Barker K., At the Bench: A Laboratory Navigator, Updated Edition, The Institute for 
+Systems Biology, Seattle
+Reference Books
+1. Adams D. S., Lab Math: A Handbook of Measurements, Calculations, and Other Quantitative
+Skills for Use at the Bench, 2nd edition, The Tufts Center for Regenerative and 
+Developmental Biology and Department of Biology, Tufts University
+Online Course Material
+1. Biology course, https://courses.ibiology.org/courses/course-v1:iBiology
+
+Title Disease, Processes, Diagnostics &
+Therapeutics Number BBL7XX0
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+
+1. Janeway,C (1996), Immunobiology, 4th EditionGarland Publishing
+Reference Books
+2. R,A, Goldsby., Thomas, J.K., and Barbara, A, Osborne. (2002), Kuby Immunology, 6th
+Edition Freeman
+Self-learning Material
+1. Manjunath R., Nandi D, Karande A, Essentials in Immunology, Indian Institute of Science
+Bangalore, http://nptel.ac.in/courses/104108055/, NPTEL Course Material.
+2. Kumar S, Cellular and Molecular Immunology, Indian Institute of Technology Guwahati,
+http://nptel.ac.in/courses/102103038/,NPTEL Course Material.
+
+Title Cardiovascular Physiology: Signals, systems and
+controls Number BBLXX0
+Department Bioscience and BioEngineering L-T-P [C] 1–0–0
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Human Physiology Laboratory Number BBXXX
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+
+Online Course Material
+1. Moore JW, Stuart A.E, Neurons in Action 2: Tutorials and Simulations in
+
+Title Cellular and Molecular Neuroscience Number BBXXX
+Department Bioscience and Bioengineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+
+Textbook
+1. Kandel,E., (2012), Principles of Neural Science, 5th Edition, Elsevier
+2. Zigmond M (2012), Fundamental Neuroscience, 4th Edition Elsevier
+Reference Books
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License: 
+Creative Commons BY-NC-SA
+
+Title Sensory Neural Systems Number BBXXX
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+
+1. Lodish B, Kaiser K (2016), Molecular Cell Biology, 8th Edition, WH Freeman
+Online Course Material
+1. Constantine-Paton M, 9.013J / 7.68J Cell and Molecular Neurobiology, Spring 2008, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License: 
+Creative Commons BY-NC-SA
+
+Title Human Physiology Laboratory Number BBXXX
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+Title Quantitative Physiology: systems and controls of Number BBXXX
+
+Department Bioscience and BioEngineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Compulsory
+Prerequisite Nil
+
+Title Immunodiagnostics and therapeutics Number
+1. Joseph Feher., (2016), Quantitative Human Physiology, 2nd Edition, Academic Press
+2. E.N. Marieb (2006), Human Anatomy and Physiology, 6th Edition, Pearson Education
+Reference Books
+1. Boron W. F, Boulpaep E. L. Medical Physiology, 3rd Edition, Elsevier.
+Online Course Material
+1. Dennis Freeman, 6-021j Quantitative Physiology: Cells and Tissues, Fall 2004, MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License: 
+Creative Commons BY-NC-SA
+2.Venegas, 
+J, 
+Mark, 
+F. 
+Quantitative 
+Physiology: 
+Organ 
+Transport 
+Systems, 
+MIT
+OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License: 
+Creative Commons BY-NC-SA
+
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for M.Tech. (MT) Program Type Elective
+
+1. Murphy, K., Travers, P., Walport, M., & Janeway, C. (2012). Janeway’s Immunobiology. New
+York: Garland Science.
+3. Madigan, M.T., Martinko, J.M., Brock, Biology of Microorganisms, Prentice-Hall, Inc., 2006,
+Online Course Material
+1 NPTEL Video Lectures on Essentials in Immunology by Prof. R. Manjunath, Prof. Dipankar
+Nandi , Prof. Anjali Karande, Indian Institute of Science Bangalore 
+(http://nptel.ac.in/courses/104108055/)
+2. NPTEL Video Lectures on Cellular and Molecular Immunology by Prof. Sachin Kumar, Indian
+Institute of Technology Guwahati (http://nptel.ac.in/courses/102103038/)
+
+Title Sensory Neural Systems Number BBL7XX
+0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+
+Title Synaptic communication: function and
+dysfunction Number BBL6XX3
+Department Bioscience and Bioengineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+
+Title Cell and Molecular Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [D] 3–0–0 [3]
+Offered for M.Tech. 1st Year Type Elective
+Prerequisite Nil
+
+Title Immunodiagnostics and therapeutics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for M.Tech. (MT) Program Type Elective
+
+Reference Books
+New York: Garland Science.
+2. Madigan, M.T., Martinko, J.M., Brock, Biology of Microorganisms, Prentice-Hall, Inc.,
+Online Course Material
+1. NPTEL Video Lectures on Essentials in Immunology by Prof. R. Manjunath, Prof.
+Dipankar Nandi , Prof. Anjali Karande, Indian Institute of Science Bangalore 
+(http://nptel.ac.in/courses/104108055/)
+2. NPTEL Video Lectures on Cellular and Molecular Immunology by Prof. Sachin Kumar,
+Indian Institute of Technology Guwahati (http://nptel.ac.in/courses/102103038/)
+
+Title Synaptic communication: function
+and dysfunction Number BBL6XX3
+Department Bioscience and Bioengineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+
+Title Microbes as sensors Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 1-0-0 [1]
+Offered for Type Compulsory
+
+Title Measurements in Remote Healthcare Number CSL7XX0
+Department Computer Science & Enginering L-T-P [C] 1-0-0 [1]
+Offered for Type Elective
+
+Course Title Analog and Interfacing
+Circuits Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital and Analog Electronics
+
+3. David A. Johns, Ken Martin, (2013), “Analog Integrated Circuit Design”, 2nd Edition, John
+Wiley and Sons.
+Self Learning material
+1. Shanthi Pavan, VLSI Data Conversion Circuits, NPTEL Course Material, Department of
+Electrical 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+2. Nagendra Krishnapura, Analog Integrated Circuit Design, Department of Electrical
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+Preparatory Course Material
+1. P. E. Allen, D. R. Holberg (2013), CMOS Analog Circuit Design, 3rd Edition, Oxford
+University Press.
+2. R. Gregorian, G. C. Temes, (2008), “Analog MOS Integrated Circuits for Signal
+Processing”, John Wiley and Sons.
+
+Program Elective Set 4
+Systems Biology
+
+Title Immunotechnology Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Thermodynamics and Chemical Kinetics Number CYL6XX1
+Department Chemistry L-T-P [C] 2–0–0 [2]
+Offered for Type Elective
+
+Title Synthetic Biology Number BB7XX0
+Department Bioscience and Bioengineering L-T-P
+[C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Self-learning Material
+
+Title Ordinary Differential Equations Number MAL6XX0
+Department Mathematics L-T-P
+[C] 3–0–0-1[4]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+2. Birkhoff, G. and Rota G., Ordinary Differential Equations, 4th Ed., Wiley Publications, 1989
+3. Simmons, G., Differential Equations with Applications and Historical Notes, 2nd Ed., McGraw 
+Hill Education, 2017
+Online Course Material
+1. Agrawal, P. N. and Pandey, D. N. (IIT Roorkee), Ordinary and partial differential equations and 
+applications, https://nptel.ac.in/courses/111107111/
+2. 
+Raghavendra 
+V. 
+(IIT 
+Kanpur), 
+Ordinary 
+differential 
+equations 
+,
+
+Title Numerical Methods for PDE Number MAL7XX0
+Department Mathematics L-T-P
+[C] 1–0–0-0 [1]
+Offered for Type Elective
+Title Flux Balance Analysis Number BBL7XX0
+
+Department Bioscience and Bioengineering L-T-P
+[C] 3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Systems Biology in Personalized Genomics Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P
+[C] 3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Reference Books
+Research literature
+Self learning materials
+1. Mount Sinai Center for Bioinformatics, https://www.coursera.org/learn/network-biology
+
+Title Artificial Intelligence in Bioengineering
+Lab Number BBP7XX0
+Department Bioscience & Bioengineering L-T-P [C] 0-0-2 [1]
+Offered for Type Open
+Elective
+Prerequisite Machine Learning-1
+
+Program Elective Set 5
+Biomaterials Engineering
+
+Title Biophysics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [D] 2-0-0 [2]
+Offered for M.Tech Students Type Elective
+Prerequisite Nil
+
+Title Materials characterization Number MTL6XX0
+Department Material Science & Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+Title Tissue Engineering & Medical Device Implants Number BBL7XX0
+
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Students Type Elective
+
+Textbook
+1. Lanza, R., Langer, R., Vacanti, J., (2018), Principles of Tissue Engineering, 4th Edition, 
+eBook
+Self Learning Material
+1.Swaminathan, S., Tissue Engineering, Sastra University,
+Preparatory Course Material:
+1. Design of BioMedical Devices and Systems, Utsaah University, 
+http://cpdm.iisc.ac.in/utsaah/pd233/
+
+Title Thermodynamics & Kinetics of Materials –
+Material properties Number MTL6XX1
+Department Material Science & Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Computational modelling in materials design Number MSL7XX0
+Department Materials Science & Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Biomechanics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [D] 2-0-0 [2]
+Offered for M.Tech Students Type Elective
+Prerequisite Nil
+Title Biomaterials and Bioengineering Number BBL7XX0
+
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Elective
+Prerequisite None
+
+Program Elective Set 6
+Bioenergy & Environmental Technologies
+
+Title Bioenergy Systems Course BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+
+Economics of bio-energy technologies (4 lectures)
+Textbooks
+1. Vertes, A. A., Qureshi, A., Yukawa, H., Blaschek, H.P.,(2010) Biomass to Biofuels, Wiley. 
+2. German Solar Energy Society, Ecofys, (2006) Planning and installing bioenergy systems: A
+guide for installers, architects and engineers, Earthscan,
+Reference Books
+1. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+2. Pelczar, M.J., Chan, E. C. S., Krieg, N.R.,(2001) Microbiology, Tata McGraw - Hill Education
+Online course material
+1. Michelle O'Malley, Fueling Sustainability: Engineering Microbial Systems for Biofuel
+Production, Spring 2011, MIT OpenCourseWare Massachusetts Institute of Technology, 
+https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+
+Title Environmental Biotechnology and
+Bioremediation Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Textbooks
+1. Rittmann, B.E., McCarty, P.L., (2001) Environmental Biotechnology: Principles and
+Applications ,Tata McGraw Hill.
+Reference books
+1. Shuler, M., Kargi, F., (2002)Bioprocess Engineering: Basic Concepts, 2nd edition Prentice
+2. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+Online course material:
+1. Gargi Singh, Applied Environmental Microbiology, NPTEL Course Material, Department of
+Civil Engineering, Indian Institute of Technology, Roorkee, 
+http://nptel.ac.in/courses/105107173/
+
+Title Bio-electrochemical Systems Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 2–0–0 [3]
+Offered for B Tech. Type Compulsory
+
+Reference books
+1. Shuler, M., Kargi, F., (2002) Bioprocess Engineering: Basic Concepts, 2nd edition Prentice
+2. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+Online course material:
+
+Title Environmental Microbiology Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 2-0-0 [2]
+Offered for Type Compulsory
+
+2. Lehninger, A., Nelson, D.L., Cox, M., (2009) Principles of Biochemistry, W.H.
+Freeman and Co.
+Online course material
+1. David Schauer, and Edward DeLong. 20.106J Systems Microbiology. Fall 2006.
+Massachusetts Institute of Technology: MIT OpenCourseWare, 
+https://ocw.mit.edu.
+
+Title Water Energy Nexus Number MEL7XX0
+Department Mechanical Engineering L-T-P 3-0-0
+Offered for M. Tech and PhD Type Program Elective
+
+Text books :
+1. C. Sommariva: Desalination Desalination and Advanced Water Treatment: Economics and
+Financing, First ed., Balaban Desalination Publications, Hopkinton, MA, USA, 2010.pg. 103.
+2. A K Plappally and J H Lienhard Energy Requirements for Water Production, Treatment, End
+Use, Reclamation, and Discharge, Renewable and sustainable energy reviews (RSER), 
+16(1)
+1. Sustainable Development: The Water Energy Food Nexus Aachen
+Universityhttps://www.edx.org/course/sustainable-development-the-water-energy-food-
+nexus
+2. Water-Energy Nexus Course of Studies at Irvine,https://www.water-energy-

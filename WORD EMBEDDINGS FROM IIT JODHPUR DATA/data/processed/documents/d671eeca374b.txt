@@ -1,0 +1,16 @@
+research seminar by surabhi nishad august at pm title of the talk recent advances in meshfree methods its application to cryosurgery problems date time venue august at pm on seminar hall dept
+of mathematics abstract meshfree methods have emerged as powerful numerical techniques that overcome the limitations of traditional approaches particularly in solving complex problems involving large deformations moving boundaries and fracture mechanics
+recent advances in meshfree formulations such as the galerkin efg method smoothed particle hydrodynamics sph and meshless local petrov galerkin mlpg have significantly improved accuracy computational efficiency and adaptability in biomedical simulations
+one of the promising areas of application is in cryosurgery minimally invasive technique that destroys diseased tissues through controlled freezing
+accurate prediction of temperature distribution formation and thermal damage to surrounding healthy tissues is critical for effective treatment planning
+meshfree methods provide flexibility in modeling evolving freeze fronts and irregular geometries of biological tissues where conventional finite element and finite difference methods often encounter difficulties
+this work highlights recent developments in meshfree approaches their numerical advantages and their specific applications to cryosurgery problems with emphasis on improved computational efficiency and accuracy with clinical tools
+about the speaker surabhi nishad is an assistant professor contractual in the department of applied sciences at nit delhi
+she completed her
+in mathematics from bhu
+mathematics from iit kanpur and from iit roorkee in in the field of computational fluid dynamics entitled hybrid meshfree implementation to some problems of flow and heat transfer in nanofluids and her research interests include hybrid meshfree methods fluid flow analysis heat transfer in nanofluids
+title of the talk recent advances in meshfree methods its application to cryosurgery problems date time venue august at pm on seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

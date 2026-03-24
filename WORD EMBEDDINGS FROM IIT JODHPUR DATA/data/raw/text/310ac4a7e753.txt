@@ -1,0 +1,107 @@
+SOURCE_URL: https://iitj.ac.in/cete/en/digital-learning-video-tutorials
+
+Teaching– Learning Resources for Instructors
+Teaching– Learning Resources for Instructors
+Teaching– Learning Resources for Instructors
+Teaching– Learning Resources for Instructors
+This page contains various time-indexed video resources that have been curated from various workshops conducted by the CETE (and the former EdTech vertical) during the past several years. As the world migrates into next-generation blended and hybrid modes of education, instructors around the world are innovating newer and more immersive ways of engaging their students. Blended learning refers to the amalgamation of self-paced learning through study material provided by the instructor (asynchronous mode) and live discussions and interactions with the instructor at designated times (synchronous mode). These workshops on blended learning aim to provide our faculty members and teaching assistants exposure to the necessary tools and techniques that could be useful for both remote and in-person learning to create an engaging and seamless teaching-learning experience.
+This page contains various time-indexed video resources that have been curated from various workshops conducted by the CETE (and the former EdTech vertical) during the past several years. As the world migrates into next-generation blended and hybrid modes of education, instructors around the world are innovating newer and more immersive ways of engaging their students. Blended learning refers to the amalgamation of self-paced learning through study material provided by the instructor (asynchronous mode) and live discussions and interactions with the instructor at designated times (synchronous mode). These workshops on blended learning aim to provide our faculty members and teaching assistants exposure to the necessary tools and techniques that could be useful for both remote and in-person learning to create an engaging and seamless teaching-learning experience.
+Topics covered Synchronous Teaching and Immersive Engagements Seamless synchronous sessions using enhanced features of Google Meet/Webex and useful extensions Online lab sessions using breakout rooms Synchronous teaching tools (digital pen tablet, whiteboards, PDF annotators, live demonstrations using mobile camera) Engaging students during live classes with Slido Virtual tools for online labs (eg. Falstad and Tinkercad) VR Platforms for immersive engagements Asynchronous Teaching: Learning Management Systems and Content Creation Self-paced learning and flipped classroom Making the most of Google Classroom and Interactive video content using Edpuzzle Basics of Instructional Design / Resources (visual, audio, text elements, music) Creating video content (Recording, editing, multilingual content creation, subtitles and transcripting using Otter.ai) E-learning authoring tools (eg. Articulate Storyline, interactive content H5P plugin for Moodle) Assessment tools and strategies VR-based assignments on Adobe Captivate AR-based Lab Assessment Gamified quizzes on Quizizz, Puzzle.org Creating quizzes on Google Forms and strategies Proctored exams on Google Meet Hybrid Classroom Setup Sample setup with existing infrastructure
+Synchronous Teaching and Immersive Engagements
+Seamless synchronous sessions using enhanced features of Google Meet/Webex and useful extensions
+Online lab sessions using breakout rooms
+Synchronous teaching tools (digital pen tablet, whiteboards, PDF annotators, live demonstrations using mobile camera)
+Engaging students during live classes with Slido
+Virtual tools for online labs (eg. Falstad and Tinkercad)
+VR Platforms for immersive engagements
+Asynchronous Teaching: Learning Management Systems and Content Creation
+Self-paced learning and flipped classroom
+Making the most of Google Classroom and Interactive video content using Edpuzzle
+Basics of Instructional Design / Resources (visual, audio, text elements, music)
+Creating video content (Recording, editing, multilingual content creation, subtitles and transcripting using Otter.ai)
+E-learning authoring tools (eg. Articulate Storyline, interactive content H5P plugin for Moodle)
+Assessment tools and strategies
+VR-based assignments on Adobe Captivate
+AR-based Lab Assessment
+Gamified quizzes on Quizizz, Puzzle.org
+Creating quizzes on Google Forms and strategies
+Proctored exams on Google Meet
+Hybrid Classroom Setup
+Sample setup with existing infrastructure
+Resource from Workshop on Pedagogy and Assessment (02 May 2023) Presentation on Designing assessments using Bloom's Taxonomy Resources from Online Teaching-Learning Workshop 2.0 on Blended Learning (24 - 25 July 2021) Day 01 July 24, 2021 ( Presentation ) Day 02 July 25, 2021 ( Presentation )
+Presentation on Designing assessments using Bloom's Taxonomy
+Day 01 July 24, 2021 ( Presentation )
+Day 02 July 25, 2021 ( Presentation )
+Workshop Address by the Director, Prof. Santanu Chaudhury Session 01 Synchronous Teaching: Tools for Enhanced and Immersive Engagement Session 02 Asynchronous Teaching and Flipped Classroom Session 03 Content Creation and Tools for Asynchronous Teaching Session 04 Assessment Tools and Strategies (including AR-VR) and Hybrid Classroom
+Workshop Address by the Director, Prof. Santanu Chaudhury Session 01 Synchronous Teaching: Tools for Enhanced and Immersive Engagement Session 02 Asynchronous Teaching and Flipped Classroom Session 03 Content Creation and Tools for Asynchronous Teaching Session 04 Assessment Tools and Strategies (including AR-VR) and Hybrid Classroom
+Workshop Address by the Director, Prof. Santanu Chaudhury
+Workshop Address by the Director, Prof. Santanu Chaudhury
+Workshop Address by the Director, Prof. Santanu Chaudhury
+Session 01 Synchronous Teaching: Tools for Enhanced and Immersive Engagement
+Session 01 Synchronous Teaching: Tools for Enhanced and Immersive Engagement
+Session 01 Synchronous Teaching: Tools for Enhanced and Immersive Engagement
+Session 02 Asynchronous Teaching and Flipped Classroom
+Session 02 Asynchronous Teaching and Flipped Classroom
+Session 02 Asynchronous Teaching and Flipped Classroom
+Session 03 Content Creation and Tools for Asynchronous Teaching
+Session 03 Content Creation and Tools for Asynchronous Teaching
+Session 03 Content Creation and Tools for Asynchronous Teaching
+Session 04 Assessment Tools and Strategies (including AR-VR) and Hybrid Classroom
+Session 04 Assessment Tools and Strategies (including AR-VR) and Hybrid Classroom
+Session 04 Assessment Tools and Strategies (including AR-VR) and Hybrid Classroom
+Resources from Online Teaching-Learning Workshop 1.0 (24 August 2020) Tools for Synchronous and Asychronous Teaching
+Tools for Synchronous and Asychronous Teaching
+Creating a Synchronous Learning environment Introduction to Google Classroom and Interactive Video Lectures using Edpuzzle Making the most of Google Classroom Interactive Presentations using Slido Tools for Online Teaching (Whiteboards & Live demonstration using mobile camera) Tools for Online Teaching (PDF Annotator)
+Creating a Synchronous Learning environment Introduction to Google Classroom and Interactive Video Lectures using Edpuzzle Making the most of Google Classroom Interactive Presentations using Slido Tools for Online Teaching (Whiteboards & Live demonstration using mobile camera) Tools for Online Teaching (PDF Annotator)
+Creating a Synchronous Learning environment
+Creating a Synchronous Learning environment
+Creating a Synchronous Learning environment
+Introduction to Google Classroom and Interactive Video Lectures using Edpuzzle
+Introduction to Google Classroom and Interactive Video Lectures using Edpuzzle
+Introduction to Google Classroom and Interactive Video Lectures using Edpuzzle
+Making the most of Google Classroom
+Making the most of Google Classroom
+Making the most of Google Classroom
+Interactive Presentations using Slido
+Interactive Presentations using Slido
+Interactive Presentations using Slido
+Tools for Online Teaching (Whiteboards & Live demonstration using mobile camera)
+Tools for Online Teaching (Whiteboards & Live demonstration using mobile camera)
+Tools for Online Teaching (Whiteboards & Live demonstration using mobile camera)
+Tools for Online Teaching (PDF Annotator)
+Tools for Online Teaching (PDF Annotator)
+Tools for Online Teaching (PDF Annotator)
+Tools for Assessment and Content Creation
+Tools for Assessment and Content Creation
+Online Quizzes using Google Forms Online Quizzes using Classmarker Creative an adaptive autograded quiz on Google Forms Detecting plagiarism using Turnitin Creating video lectures using free tools
+Online Quizzes using Google Forms Online Quizzes using Classmarker Creative an adaptive autograded quiz on Google Forms Detecting plagiarism using Turnitin Creating video lectures using free tools
+Online Quizzes using Google Forms
+Online Quizzes using Google Forms
+Online Quizzes using Google Forms
+Online Quizzes using Classmarker
+Online Quizzes using Classmarker
+Online Quizzes using Classmarker
+Creative an adaptive autograded quiz on Google Forms
+Creative an adaptive autograded quiz on Google Forms
+Creative an adaptive autograded quiz on Google Forms
+Detecting plagiarism using Turnitin
+Detecting plagiarism using Turnitin
+Detecting plagiarism using Turnitin
+Creating video lectures using free tools
+Creating video lectures using free tools
+Creating video lectures using free tools
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Feb 2026 - 09:46 AM
+Last Updated : 09 Feb 2026 - 09:46 AM
+Last Updated : 09 Feb 2026 - 09:46 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

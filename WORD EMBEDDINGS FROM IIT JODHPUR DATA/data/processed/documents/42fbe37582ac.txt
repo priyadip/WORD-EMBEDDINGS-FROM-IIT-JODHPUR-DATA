@@ -1,0 +1,11 @@
+research seminar by dr abhishek kumar singh on feb title of the talk research seminar by dr abhishek kumar singh on feb date time february at pm on seminar room dept
+of mathematics abstract neural networks pinns have recently emerged as powerful framework for solving forward and inverse problems governed by differential equations
+however automatic differentiation which forms the core of pinns is not directly applicable to differential equations involving operators
+in this research seminar will present my work on neural networks where standard approximation techniques are employed to treat operators while automatic differentiation is retained for local terms
+in the inverse setting this framework enables the accurate estimation of unknown model parameters directly from observed data
+in addition will discuss parameter estimation in polynomials where the fractional parameter defining the polynomial space is optimized using differential evolution to achieve the best possible accuracy in solving differential equations containing operators
+about the speaker abhishek kumar singh is postdoctoral fellow at the institute of mathematics and computer science university of greifswald germany since november
+prior to this he worked as an fellow at iit delhi
+he received his phd in mathematics from iit delhi in august an in industrial mathematics and scientific computing from iit madras in and an msc in mathematics from banaras hindu university in
+his research focuses on numerical methods and approaches for stochastic and deterministic fractional differential equations
+title of the talk research seminar by dr abhishek kumar singh on feb date time february at pm on seminar room dept

@@ -1,0 +1,9 @@
+departmental seminar by amit maji on oct at speaker amit maji title of the talk spectral decomposition and invariant subspaces date time and venue oct at meeting room dept of mathematics
+about the speaker amit maji is currently working as associate professor at indian institute of technology roorkee
+he has obtained from indian institute of technology kharagpur post doctoral experience indian statistical institute bangalore centre his research area is operator theory functional analysis
+abstract the main aim of this talk is to discuss the structure of certain class of bounded linear operators on hilbert spaces
+in the first half of this talk we shall cover the spectral theory for normal matrices and normal operators on hilbert spaces
+after that we describe the wold decomposition and analytic model for single isometry and then discuss the existence of wold decomposition for of isometries
+finally we talk about the beurling theorem for shift invariant subspaces of hardy space over the unit open disc as well as hardy space over the polydisc
+speaker amit maji title of the talk spectral decomposition and invariant subspaces date time and venue oct at meeting room dept of mathematics
+date time and venue abstract the main aim of this talk is to discuss the structure of certain class of bounded linear operators on hilbert spaces

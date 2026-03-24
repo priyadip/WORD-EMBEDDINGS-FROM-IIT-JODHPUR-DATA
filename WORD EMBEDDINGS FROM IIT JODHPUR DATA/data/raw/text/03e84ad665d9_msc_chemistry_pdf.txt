@@ -1,0 +1,41 @@
+SOURCE_PDF: 03e84ad665d9_msc_chemistry.pdf
+
+Cat. Course Number, Course Title L-T-P Credits Cat. Course Number, Course Title L-T-P Credits
+I Semester II Semester
+C CY 511 Reactions and
+Mechanisms 3-0-3 4 C CY 521 Physical Organic Chemistry 3-0-0 3
+C CY 512 Transition Metal
+Chemistry 3-0-0 3 C CY 522 Main Group Chemistry 3-0-3 4
+C CY 513 Statistical
+Thermodynamics and
+Chemical Kinetics 3-0-3 4 C CY 523 Solid State and Material
+Chemistry 3-0-0 3
+C CY 514 Quantum Chemistry
+and Spectroscopy 3-0-0 3 C CY 524 Chemical Binding 3-0-3 4
+C CY 515 Mathematical and
+Numerical Techniques for
+Chemists 3-0-0 3 C CY 525 Organometallic and Bio-
+Inorganic Chemistry 3-0-0 3
+Total 17 Total 17
+III Semester IV Semester
+C CY 612 Organic Synthesis 3-0-0 3 E CY 613 Analytical and
+Spectroscopic Techniques 3-0-0 3
+R Thesis 15 R Thesis 15
+Total 18 Total 18
+CY751 Quantum Computing CY759 Advance Material Design
+CY752 Principles of Nuclear Magnetic Resonance CY760 Polymer Dynamics
+CY753 Analytical Techniques and Spectroscopy CY761 Art in Organic Synthesis
+CY754 Statistical Mechanics and Molecular Simulations CY762 Quantum Chemistry
+CY755 Advance Catalysis CY763 Catalysis for Energy
+CY756 Group Theory and Molecular Spectroscopy CY764 Chemical Reaction Dynamics
+CY757 Chemical Binding CY765 Molecular Dynamics Simulations
+CY758 Stochastic Problems in Biophysics CY766 Stereochemistry of Organic Compounds
+CY768 Water Chemistry
+CY769 Sustainable catalytic Design
+S. No. Category Course Category Title Total Courses Total Credits
+1 C Compulsory 12 40
+2 R Thesis 1 30
+Total 11 70
+Master of Science (M.Sc.) Program in Chemistry
+Curriculum
+Electives

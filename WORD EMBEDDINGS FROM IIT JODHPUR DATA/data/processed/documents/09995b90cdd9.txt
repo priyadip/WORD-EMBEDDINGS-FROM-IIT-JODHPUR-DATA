@@ -1,0 +1,38 @@
+blended learning and flipped classroom flipped classroom blended learning using flipped classrooms has emerged as remarkable model for bridging the digital divide between and students during the covid pandemic especially for those situated in remote locations with limited internet connectivity
+this work is an investigation of blended learning framework using flipped teaching through interactive video lectures for an introduction to electrical engineering course held in online mode for batch of engineering students
+the analysis includes observations from two sets of students who took this course over the last two academic years referred to as control and treatment groups respectively
+the success of the video assignments are validated both qualitatively through student feedback and performance and quantitatively using
+results show that the flipped teaching model has both empirical approval and support of majority of students especially in the distance learning mode
+statistical analysis shows significant difference in the performance of students with and without flipped teaching in online mode
+chouhan enhanced engagement through interactive video assignments in flipped electrical engineering classroom proc
+ieee educon ieee education society march tunisia doi
+chouhan bridging the digital divide through blended learning for freshmen engineering students istelive22 international society for technology in education iste june new orleans accepted blended learning using flipped classrooms has emerged as remarkable model for bridging the digital divide between and students during the covid pandemic especially for those situated in remote locations with limited internet connectivity
+chouhan bridging the digital divide through blended learning for freshmen engineering students istelive22 international society for technology in education iste june new orleans accepted video rewatch analytics this is preliminary case study of gauging effectiveness of educational videos conducted on sample video created for freshman batch of novice electrical engineering students
+the video was assigned in flipped classroom mode pedagogical model as video assignment to students with five interleaved knowledge check questions
+the engagement of the student with the video material can be gauged in terms of both watchtime and number of times particular section of the video was rewatched along with the obtained score
+the proposed hypothesis is that the placement of knowledge check questions along with the complexity of the topic covered together can be correlated with the number of times section of the video is or needs to be rewatched by the student
+chouhan effective interactive video assignments and rewatch analytics for online flipped classrooms proc
+international conference on advanced learning technologies on education research icalter peru december doi
+this is preliminary case study of gauging effectiveness of educational videos conducted on sample video created for freshman batch of novice electrical engineering students
+learning resource for material science the global pandemic has caused profound change in the teaching pedagogies and assessment strategies in engineering curricula worldwide
+concerning this the article examines the role of maps as learning resource for the introductory materials science course in an online flipped format
+the research was conducted on mechanical engineering undergraduates
+the methodology used design where the experimental group received animated maps as learning resource in contrast to the control group which obtained static maps
+the student understanding of the topic was evaluated from their performance in and scores
+the preliminary results of the pilot study turned out to be in favor of mapping further research is in process and experimentation has been planned
+soboyejo animated maps as materials science learning resource in an online flipped classroom mrs advances vol
+the global pandemic has caused profound change in the teaching pedagogies and assessment strategies in engineering curricula worldwide
+student mobility and the sdgs principal investigators wall timothy savage trinity college dublin ireland deepak saxena iit jodhpur duration funding agency higher education authority hea ireland amount the aim of this project is to develop blended learning course on technology innovation and sdg
+the course will allow students to explore and analyse the core issues and specific challenges related to how innovation can help achieve the sdgs through engaging with authentic cases from the global south
+the course will pay particular attention to the ethical issues involved with innovation in this context and critically examine the role played by social political cultural and human factors when introducing and using such technologies
+this course therefore contributes to the broader programme outcomes related to ethics reasoning and moral inquiry
+the course links most strongly with the sdgs which can be addressed by new and innovative approaches
+thus this course focusses the sdgs which can be addressed by smaller community level and initiatives
+examples of this is designing innovative ways of leveraging the ubiquity of mobile phones in the global south for healthcare and education and the design evaluation and implementation of innovative pottery techniques to enhance water purity in socially and culturally appropriate context
+the course content includes relevant authentic situated cases from the global south that have been developed specifically for the course
+these cases focus on projects from india uganda and ethiopia
+contextual factors shaping the relationship perspective
+in handbook of research on developing students scholarly dispositions in higher education pp
+approach and active learning in business education the irish experience
+in fostering meaningful learning experiences through student engagement pp
+principal investigators wall timothy savage trinity college dublin ireland deepak saxena iit jodhpur funding agency higher education authority hea ireland the aim of this project is to develop blended learning course on technology innovation and sdg

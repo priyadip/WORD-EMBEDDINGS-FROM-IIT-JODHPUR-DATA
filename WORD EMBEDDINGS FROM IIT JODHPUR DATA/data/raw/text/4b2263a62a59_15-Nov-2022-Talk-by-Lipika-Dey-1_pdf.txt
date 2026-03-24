@@ -1,0 +1,39 @@
+SOURCE_PDF: 4b2263a62a59_15-Nov-2022-Talk-by-Lipika-Dey-1.pdf
+
+SoLA Seminar Series | IIT Jodhpur
+SCHOOL OF LIBERAL ARTS
+Indian Institute of Technology Jodhpur
+Invites you to a lecture on 
+“Text Mining for Computational Social Science”
+By 
+Dr. Lipika Dey
+Principal Scientist 
+TCS Innovation Labs, New Delhi
+On 
+Tuesday, November 15, 2022, 6:00 pm -7:30 pm
+Venue: Room No.105, Lecture Hall Building, IIT Jodhpur Campus
+Recent advances in Natural Language Processing technologies have raised the hopes of automated or 
+semi-automated analysis of large textual repositories. Simultaneously the open web and other 
+participatory digital text repositories have emerged as new sources of information for the social scientists. 
+These repositories are continuously evolving and can be considered digital footprints of the society. These 
+sources are dynamic in nature and also contain valuable information about social interactions. In this 
+presentation we will discuss how computer assisted analysis of large digital repositories are helping social 
+scientists extract insights about people's thoughts, moods, behaviors along with inferences about 
+associated social factors like demography, socio-economic background etc. Superimposed with social 
+interactions, the extracted knowledge can provide further insights about the underlying social dynamics. 
+A few tools, techniques and case studies will be discussed.
+About the Speaker
+Dr. Lipika Dey is the Chief Scientist at TCS Research, Tata Consultancy Services, 
+India. She heads research in the area of Economic and Financial Intelligence. 
+Her research interests are in the areas of content analytics from social media 
+and News, social network analytics, predictive modeling and semantic search. 
+The focus of her work is on seamless integration of social intelligence and 
+business intelligence. She has been elected a Fellow of Indian National 
+Academy of Engineers. She was awarded with the Distinguished Scientist 
+award by TCS in 2012. Prior to joining the industry in 2007, she was a faculty 
+member in the Department of Mathematics at Indian Institute of Technology, 
+Delhi, from 1995 to 2006. Dr. Dey has a Ph.D. in Computer Science and 
+Engineering, an M.Tech in Computer Science and Data Processing and a 5 Year 
+Integrated-M.Sc in Mathematics from IIT Kharagpur. She is a founding member 
+of the ACM-Women council in India. 
+All are welcome.

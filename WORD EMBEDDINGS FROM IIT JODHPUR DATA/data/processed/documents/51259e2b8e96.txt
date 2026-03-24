@@ -1,0 +1,11 @@
+departmental seminar by jacques giacomoni on october at speaker jacques giacomoni title of the talk on periodic and compactly supported least energy solutions to semilinear elliptic equations with nonlinearity joint work with ilyasov and kumar date and time october about the speaker professor lamp university of pau france
+abstract in this work we discuss the existence and of periodic in one variable and compactly supported in the other variables least energy solutions for equations with nonlinearity of the form
+uq in where and the approach is based on the nehari manifold method supplemented by constraint given through the functional of the suitable pohozaev identity
+the limit value of the parameter where the approach is applicable corresponds to the existence of periodic in one variable and compactly supported in the other variables least energy solutions
+this value is found through the extrem values of nonlinear generalized rayleigh quotients and the curve of the critical exponents of
+important properties of the solutions are derived for suitable ranges of the parameters such as that they are not trivial with respect to the periodic variable and do not coincide with compactly supported solutions on the entire space
+speaker jacques giacomoni title of the talk on periodic and compactly supported least energy solutions to semilinear elliptic equations with nonlinearity joint work with ilyasov and kumar date and time october about the speaker professor lamp university of pau france
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

@@ -1,0 +1,45 @@
+annexure guidelines and format for submission of project report
+length number of pages are not fixed a4 size paper
+page layout margins
+text format single line
+times new roman
+binding format for the hard copy of the project reports
+number of hard copies
+paper size a4 color of the binding blue
+organization of the report cover page declaration by the student certificate by respective supervisor abstract paragraph max
+words only table of contents main text divided into starting with introduction and ending with conclusions references appendix if any
+page numbering all pages before the main text are to be numbered using lower case roman numbers all pages starting from the main text are to be numbered using arabic numbers
+page numbers to be placed at the center of the bottom margin cover pages should not be numbered but counted
+section headings to be numbered consecutively using arabic numbers section headings should be in bold with all capital letters and headings in italics
+introduction for sections experimental validations for
+font size for section headings should be14 pt
+equations equations are to be centered and numbered consecutively with equation number in parentheses flushed with the right margin equation number should be section specific
+equations should be referenced in the text as eqn
+and so on
+figures figures are to be centered and numbered consecutively figure numbers should be section specific figures should be referenced in the text as figure and so on
+all figures must have caption figure number and caption to be placed below the figure
+figure circuit diagram of
+tables tables are to be centered and numbered consecutively table numbers should be section specific table should be referenced in the text as table table and so on
+all the tables must have caption table number and caption to be placed above the table
+references arrange references in order of their citation in the text to be numbered consecutively in square brackets following standard ieee format
+report report duly signed by supervisor must be submitted along with the submission in report original and in the other copy may be enclosed
+any other the format of any other item not mentioned in the above list may be assumed in consultation with supervisor
+format for cover page title of the project report project report submitted by name of the student in partial fulfillment of the requirements for the award of the degree of indian institute of technology jodhpur name of the department january declaration hereby declare that the work presented in this project report titled title of the project report
+submitted to the indian institute of technology jodhpur in partial fulfilment of the requirements for the award of the degree of is bonafide record of the research work carried out under the supervision of professor name of the respective supervisor
+the contents of this project report in full or in parts have not been submitted to and will not be submitted by me to any other institute or university in india or abroad for the award of any degree or diploma
+signature roll number certificate this is to certify that the project report titled title of the project report submitted by name of the student roll number of the student to the indian institute of technology jodhpur for the award of the degree of is bonafide record of the research work done by him under my supervision
+to the best of my knowledge the contents of this report in full or in parts have not been submitted to any other institute or university for the award of any degree or diploma
+name of the respective supervisor abstract the
+program of study requires each student to undertake research in the chosen area of study and to submit thesis on it in consultation with the faculty member supervising the same
+project is included in the curriculum with view to synthesize the various components of the research work undertaken during the of the
+creating project report document of the research undertaken is part of the skill building training of the student in technical communications
+here the emphasis is on presenting technical matter in an objective written form
+this document is record of the mandatory guidelines to be followed while preparing the of the project report document to be submitted at the end of the
+it prescribes typical contents that an
+project report document usually should contain and provides the format of its presentation
+while most of these guidelines are prescriptive some are subjective but towards ensuring relatively uniform style of presentation of all
+project report being submitted at the institute these subjective guidelines are expected to help in setting at least reasonable minimum expectation of the presentation level of the work accomplished in the research program
+all students pursuing
+program are urged to read the contents and form of this document carefully and prepare their project report document as prescribed
+it is hoped that this document will lead to modest beginning at the institute towards imparting education in professional written presentations
+contents page report may or may not be divided into chapters introduction and background literature survey problem definition and objective methodology references appendix if any

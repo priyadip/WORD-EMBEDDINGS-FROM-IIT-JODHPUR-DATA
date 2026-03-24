@@ -1,0 +1,3466 @@
+SOURCE_PDF: 22be9b467b63_1b55505e-5820-4697-8ccc-5ebbc5d340b9.pdf
+
+itut
+Inutes of
+25th
+eeting
+22 March 2021 (Monday)
+03: 00 pm onwards
+Board Room and WebEx, lIT Jodhpur
+
+This page is left blank intentionally.
+
+Indian Institute of Technology Jodhpur
+Se ate
+.tflutes of 25th
+ee~ing
+22 March,2021
+(Mo:nday) at 03:00, prn
+Board Room and WebEx, IIT Jodhpu
+The followlno members were present:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+Santanu Chaudhury , Director,
+IIT Jodhpur
+H.P. Khincha, Chairman, Karnataka
+State Innovation
+Council, Bangaiore
+Sanjeev Misra, Director,
+AIIMS, Jodhpur
+Purnlrna Singh, Deptt. of Humanities & Social Sciences, IIT Delhi
+Souvik Bhattacharyya,
+Vice Chancellor, BITS PiJani
+Jitendra Balakrishnan,
+erC-Products,
+Sterlite Technologies
+S.R.Vadera, Professor,
+Head (PH)'.C;hajrman, IRC, IDRP
+Surajit Ghosh, Professor and. [).e~n (R & 0)
+MayankVatsa,
+Professor & ,ORC c;hairman (CSE)
+Richa Singh, Professor & Head(CSt:)
+Joydeep Dutta, Professor, SAIDE'
+Neeraj Jain, Professor, BS
+Oeepak Kumar M. Fulwanl, Associate Dean (PRG) & Head, CTFP
+BIP, Kashyap, Professorend
+Head, MT
+Arun Kumar Singh, Head, EE
+Ankita Sharma, Head, HS
+Puneet Sharma,
+Head, MA
+Manikandan .Paranjothy
+f Head, CV
+Krishna Kumar Balaraman,
+Head, SME
+Pradip J<. Tewari, Head, CHE
+Ranju Mohan, Head, CI
+Gaurav Bhatnagar, ORe, Chairman,
+MA
+Hari Narayanan, ORe, Chairman,
+HS
+Deepak Arora, ORe, Chairman,
+CHE
+Rakesh Kumar Sharma,
+DRC, Chairman, CY
+Sushmita Jha, ORG, Chairperson,
+BB, Coordinator,
+MMT Programmes
+Shree Prakash TiWari, Associate Dean (R&D)
+"'~"
+Mahesh Kumar, ORe, Chairman,
+EE
+Appala Naldu Gandi, DRe, Chairman, MT
+Anand K. Plappally, ORC, Chairman, ME and Head (CETST)
+Somnath Ghosh, ASSOCiateDean (Academlcs-PG Program)
+surn V. Shah, Associate Dean (Academics ..UG Programs)
+Samanwita Pal, Associate Dean (Students)
+Amithav Mitra, Professor-in-charge
+(Infrastructure)
+saptarsht. Mukherjeet
+SAIDE .
+Mohcimrnad Umair Anis, General Secretary, Student
+Senate
+Harikrishna K, General Secretary,
+Hostel Affairs
+Sanal Jaiswal, General Secretary, PG Academic Interaction Council
+Harshkooshal
+.Kamlesh
+G~.ndhi,
+General
+Secretary,
+UG
+Academic'
+Interaction
+Council
+Chairman
+Member
+Member
+,Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+> Member.
+Member
+.
+Member
+Member
+Invitee
+Invitee
+Invitee
+Invitee
+SpecIal Invitee
+Member
+Member
+Member
+Member
+<y,_
+
+140
+I P.G. Sasak, Advisor (A(jministration)
+& Officiating
+Registrar
+I Secretary
+The follqwi:ng lT1f3mbers
+could not attend the Meeting,
+1
+C. Venkatesan,
+Professor-In-charge
+(Faculty)
+Member
+2
+Prodyut Ranjan Chakraborty,
+Head, ME
+Member
+3
+Meenu Chhabra, Head, BB
+Member
+4
+Ashutosh Kumar Atok, ORe, Chairman, Physics
+Member
+5
+Kaushal A. Desai, Associate Dean (IRQ)
+Member
+The following are the outcomes of the Senate Meeting:
+Part A: Open Door Meeting
+S.No.
+~tems
+25.1
+Welcome address
+rhe Chairman welcomed all the members to the 25th meeting of the Senate .
+..He introduced
+the new members Prof. Neeraj Ja.in, Professor, Department
+of
+Bioscience and Bioengineering,
+Prof. Joydeep Outta, from liT Kanpur joined the
+School of Artificial
+Intelligence
+and Data Science on deputation
+to the Senate
+and welcomed them.
+" He informed
+the Senate that due to COVID19 chatlenqes,
+the semester mode
+.has been .changed to trimester
+mode for the ongoIng AY 2020-21.
+!The Chairman
+briefed
+that lIT Jodhpur
+conducted
+convocetlon
+successfully.
+Professor Geoffrey Hinton, the Father of Deep Learning joined as the Chief Guest
+in the 6th Convocation of lIT Jodhpur and imparted
+convocation address, The
+~hief Guest had also inaugurated the School of AI & Data Science.
+The Chairman mentioned that the student strength
+has increased and crossed
+the targeted DPRframed by Govt, of India. The built ...
+up area has also increased
+substantially
+to meet the
+requirement.
+IIT Jodhpur
+is possibly
+the first lIT
+[among the second generation lIT to achieve the target as per DP~:.
+Irhe Chairman
+also highlighted
+that lIT Jodhpur
+has successfully
+started
+the
+~echnology hub -iHUB Drishti and R.akshak project as a part of it. The Chief
+Executive Officer has already been appolnted.
+Irhis year the Govt. of India referred to 6 city clusters in the budget speech.
+~odhpur is also included as one of the city clusters. lIT Jodhpur is an integral
+part
+of the Jodhpur
+City Knowledge and innovation
+Cluster
+(lCKIC) whi'ch
+includes academic institutions,
+research organizations
+and .industries. The city
+cluster projects focus on the Art and Craft, Waste Water & EnvlronmentPoltutlon
+Management,
+AI Based Innovations
+in Governance and MedTech initiatives.
+A
+scheme has been announced for internships
+at lIT Jodhpur through
+JCKIC and
+this will be helpful to build a knowledge ecosystem. The Chairman also informed
+that the Medical Technologies proqrammes
+have been started
+in collaboration
+with AIIMS Jodhpur and lIT Jodhpur.
+The Chairman has also shared the outstandhig
+contribution
+of or. Ritu Gupta
+Who received
+INSA Young Scientist
+Medal Award
+2020
+and SERB Women
+Excellence Award 2021'. Prof. Surajit Ghosh has been awarded the SERB"STAR
+award for 2020.
+Senate also congratulated
+Dr. Subhashish
+Bannerjee
+being
+
+elected fellow of NASI (National Academy of Science, India). The Chairman
+informed the Senate that IIT Jodhpur has got the BioNest project (with budget
+of around Rs. 445.47 laks) from DBT which is first in Rajasthan.
+ITheSenate appreciated the tremendous efforts by the Director and his team to
+achieve the growth in terms of number of students, number of faculties and also
+various initiatives in the form of Section 8 companies, cluster programmes,
+admissions to casual students, etc.
+25.1.1
+Confirmation of Minutes of the 24thMeeting of the Senate held on 22nd
+NovemberlO20
+The Senate confirmed the Minutes of the 24th Meeting of the Senate, as
+circulated.
+25.1.2
+Report on Action Taken on decisions of the 24th Meeting of the Senate
+held on 22nd November2020
+The report is presented below on action taken by the Institute on the decisions
+of the Senate made at its 24th Meeting of the Senate held on 22nd November
+2020:
+Item
+Discussion Item
+~ction Taken
+24.2.1
+Proposalfor Three-Year MTech programme
+Implemented
+24.2.2
+Guideline for performance improvement of credits Implemented
+earned by Ph.D. students
+24.2.3
+Regulations for
+PhD and Dual degree in MedicalImplemented
+lTechnologies
+24.2.4
+Constitution of Student Affairs Council (SAC)
+In progress
+24.2.5
+Proposed
+Elective
+courses
+for
+MBA and
+Ph.D.Implemented
+Programs
+by
+School
+of
+Management
+and
+Entrepreneurship
+24.2.6
+Proposal for abeyance of probation and termination In progress
+clauses for UG students for the A.Y. 2020-21
+24.3
+Procedural Items
+24.3.1
+Recommendations to confer the award of B.Tech.,
+Implemented
+M.Sc., M.Tech., and Ph.D. Degrees and B.Tech.
+Specialization
+to
+students,
+who
+met
+the
+requirements
+24.3.2
+Academic Calendar for 1st Year B.Tech. students
+Implemented
+24.4
+Reporting, Adopting and Noting Items
+24.4.1
+6th
+Convocation
+of
+the
+Institute
+has
+been
+Implemented
+scheduled on 6 December 2020
+
+RS.2.1
+Discussion Items
+Proposal
+for
+deferring
+the minimum
+performance
+requirements
+for
+continuation
+in
+the
+programme
+and
+continuation
+of
+fellowshiplassistantship
+for
+the
+ongoing,
+semester
+for
+M.Tech.,
+M.Tech.-Ph.D. and Ph.D. students for the Academic Year 2020-21.
+25.2.2
+Proposalto defer timeline
+to Complete
+coursework,
+Comprehensive
+examination
+and State of the Art Seminllr for Ph.D. students
+(July 20,,.9
+batch onwards)
+...
+"
+As per
+academic
+regulation
+clause 22.8, there are minimum
+performance
+requirements
+for
+continuation
+in
+the
+programme
+and
+contlnuatlon
+of
+fellowship/assistantship.
+The existing requirements
+are
+Program
+Continuationin
+Continuation
+of For gradua,tion
+me
+Programme
+Assistantshipl
+Fellowship
+Ph.D.
+SGPA 6.5 (For first
+SGPA 6.5
+(For first
+CGPA
+7.5
+at
+the
+semester>
+=6)
+semester>
+=6)
+completion of course
+work
+"
+M.Tech.-
+SGPA 6.5 (For first
+SGPA 6.5
+(For first
+CGPA 1.0
+PhD
+semester >:::S)
+semester >=5)
+M.Tech.
+SGPA 6.0 (For first
+CGPA of 5
+semester >=5)
+SGPA 5.0
+In view of the prevailing condition of COVID-19, it would be difficult to strictly
+implement the philosophy of grade moderatton,
+Some students may also opt for
+~I'grade for not being able to complete
+the requirements
+of evatuation
+of a
+particular course.
+_
+The matter
+has been discussed in 34tfi
+ACM held. on 17 March 2021
+and
+recommended
+the same for approval.
+The Senate deliberated the proposal in detail and approved that the criteria for
+continuation
+in programme
+and'continuation
+of fellowship/assistantship
+is to be
+kieferred for the ongoing trimester til] the end of Academic Year 2020-21 as an
+exception. The Senate suggested that
+.'
+1.
+A warning should be issued to the students who failed to meet the above
+criteria
+2.
+The students
+mentioned in (1), should be mentored
+by their respective
+ORC
+As per academic regulation regarding qualifier requirements
+of Ph.D~students,
+regular
+students
+should
+complete
+Comprehensive
+and
+SOTA
+including
+coursework
+by 3 semester however, part-time
+Ph.D. students should complete
+the Comprehensive
+examination
+and SOTA by 4 and 5 Semester respectively.
+In view of the prevailing
+condition of COVID-19, it would be difficult to strictly
+implement
+the same.
+iThe matter
+has. been discussed in ,34th ACM held on, 17 March 2021
+and
+recommended
+the same for approval.
+rrhe Senate deliberated
+the
+proposal in detail
+and approved
+the timeline
+to
+complete
+coursework,
+Comprehensive
+examination
+and
+State
+of
+the
+A~
+
+Seminar for reqular Ph.D. students (July 2019·batch onwards) is to be deferred
+For the ongoing semester of Academic Year 2020-21 as an exception.
+The same
+can be completed
+within
+four
+registered
+semesters
+i.e.
+before
+July 202l.
+However, the qualifier
+has to be met by completion
+of four semesters.
+25.2.3
+Policy for course equivalence and proposal for constitution of Course
+Equivalence and Credit Transfer Committee
+As per the new regulations
+w.e.f.
+July 2019, provision
+has been created for
+UG/PG students
+to
+participate
+in various
+exchange
+programs.
+Moreover,
+~owards
+introducing
+flexibilities
+in
+transfer
+of
+PG students
+from
+other
+institutions,
+a guideline
+has been framed
+to transfer
+of credits
+as well
+as
+consider the course equivalence
+etc towards
+the degree
+requirement
+of the
+program"
+In line of the same a policy for course equivalence
+has been framed
+and the constitution
+of Course Equivalence arid Credit Transfer Committee
+has
+been proposed. The matter
+has been discussed in 34th ACM held on 17 March
+• ~021 and subsequent
+16th ECS held on 19 March 2021
+and recommended the
+same for approval.
+Any changes during this process will be presented
+In the
+subsequent Senate of lIT Jodhpur.
+~fter
+detailed
+deliberations
+the
+Senate
+approved
+the
+proposal
+placed
+at
+'Annexure-!. The Senate has authorized the chairman,
+Senate.to nominate the
+Chairman of Course Equivalence and Credit Transfer Committee.
+~5.2.4
+Constitution of Student Councils
+irhe Senate in its 24th meeting
+held on 20 November
+2020 has approved
+in-
+prlnclple the framework
+of the
+new structure
+for students'
+activities
+named
+Student' Activity
+Council
+(SAC)
+and Council
+of Co-curricular
+and Academic
+Activities (CCAA). The Senate has advised that the detailed constitution
+can be
+worked out including the broad scope of activities and the legal part of it can be
+presented in the subsequent
+senate.
+Accordingly, the Students
+Senate was formed. The Student Senate framed the
+constitution
+of both the student councils including the broad scope,of activities.
+The final constitution
+of Student
+Activity
+Council (SAC) and Academic and Co-
+currtcular Activity Council (ACAC) presented to the Senate. The matter has been
+~iscussed in 16th ECS held on 19 March 2021 and recommended
+the same for
+approval,
+Ifhe
+Senate
+deliberated
+in
+detail
+on the
+proposal
+and
+decided
+that
+the
+consntutton has to be prepared like an ordinance and suggested some changes
+like amendment
+clause, partiCipation
+of Pw.p students
+representative
+etc, The
+Senate
+authorized
+Chairman,
+Senate
+to
+approve
+the
+constitution
+after
+incorporating
+the suggestions
+and legal vetting. Annexure ..
+2
+•
+25.2.5
+Proposalfor Minor and Interdisciplinary
+Specialization for Undergraduate
+Students
+The
+following
+proposal
+for
+Minor
+and
+Interdisciplinary
+Specialization
+for
+Undergraduate
+has been presented:
+School/IDRP
+SN
+Particulars
+1.
+Proposal from Centre of Excellence (CaE) on Mathematical
+School of AI
+and Computational
+~conomics, School of AI for a Minor
+~)
+
+area in Mathematical
+and Computational
+Economics for
+UG students
+Science
+of
+Intelligence
+Concept note for Interdisciplinary
+specialization in Science
+of IntelHgence for B.Tech. students
+1.
+Cognitive Architectures
+2.
+Theories of Intelligence
+3.
+Advanced Cognitive Processes
+4.
+Methods and Tools for Science of Intelligence
+The
+Senate
+in
+principle
+approved
+the
+proposal
+of
+starting
+a
+Minor
+in
+Mathematical
+and Computational
+Economics. A detailed concept note of Minor
+in Mathematical
+and Computational
+Economics may be presented in the next
+senate.
+Senate
+authorized
+Chairman
+Senate
+to
+approve
+the
+courses
+of
+specialization
+in Science of Intelligence
+after
+inclusion of suggestions
+of the
+Senate.
+Proposed Elective Courses .. Department
+of Electrical
+Engineering
+Ifhe Senate discussed the proposal and suggested the Department
+of Electrical
+Engineering to come back with justification
+of the courses, their positioning and
+the level of the courses after
+careful analysts of the course 'contents
+in the
+context of the needs of targeted
+learning outcome of any specific programme.
+C,ourses for Comprehensive
+Examinations
+for registered
+M.Tech.- PhD.
+and Ph.D. students
+- Department
+of Chemical Engineering
+As per clause 26.5.1 of the regulations for students from July 2019 onwards,
+-, regarding "Cornprehenstve
+Ex~minationof
+Ph.D./M.Tech-Ph.Q student;
+•
+The comprehensive
+examination
+must be designed to test the general
+capability of the student and the breadth of his/her knowledge in the discipline
+and areas related to the field of research.
+~
+The Comprehensive
+Examination shalt be conducted by a Comprehensive
+Examination
+Committee of the Department,lIDRP.
+~
+The, Comprehensive
+Examination will consist of a written
+test with three
+papers.
+•
+Departments
+will offer at least 5 Papers for conducting a comprehensive
+exarntnatton.
+Each paper will have broad coverage of one essential sub-area of
+the department.
+The course content of these papers will be approved
+by the
+academic
+committee
+and
+the
+Senate.
+The
+syllabus
+of
+papers
+for
+the
+comprehensive
+examination
+will not be the same as courses offered
+by the
+department;
+it must be designed to test th~,breadth
+of the knowledge, in that
+area.
+•
+The SRC will specify a set three papers as a comprehensive
+requirement
+For a, particular
+student. These three papers may be selected from across the
+departments.
+•
+The comprehensive
+examination
+requirements
+shall be intimated
+to the
+Ph.D~student within two weeks of SRCformation.
+•
+All comprehensive
+examinations will be scheduled on two fixed days in a
+rtear.
+It
+can colnclde
+with
+the
+annual progress
+evaluation
+day of doctoral
+candldates,
+Students may decide to appear for three papers on the same day
+or on different
+days.
+•
+A student can appear in the comprehensive
+examination
+before he/she
+has completed
+the course requirements
+and satisfied the minimum
+specified
+CG~A requirement.
+.-
+~
+
+~
+If the performance
+of the Ph.D. student In a comprehensive
+examination
+paper in the first
+attempt
+is not satisfactory,
+he/she
+will be given one more
+~pportunity
+to appear within six months of the first attempt.
+~
+For clearing of the comprehensive
+examination,
+a student must perform
+satisfactorily
+in all papers."
+The courses for comprehensive
+examinations
+were presented in the Meeting of
+the Academic
+Committee
+in its 34th Academic Committee
+Meeting held on 17
+March 2021. The Academic Committee considered and recommended the same
+.
+to the Senate for its consideration.
+Ifhe Senate discussed the proposal and approved the same.
+25.3
+Reporting,
+Adopting
+and Noting Items
+25.3.1
+~cademic
+Calendar
+for Academic Year 2021-22
+"IThe Senate deliberated
+on the proposal and approved
+the Academic Calendar
+placed Annexure-3.
+The Senate also suggested being ready with the plans to
+conduct the semester-I
+of AY 2021-22 in partly online, offline and hybrid modes.
+~n order to make the evaluation process very stringent
+and effective the Senate
+decided to conduct the end semester major examination
+in phvslcal mode.
+~5.4
+Ratification
+Items
+25.4.1
+Approvals
+accorded
+by Chairman,
+Senate
+Admission
+to PG programmes
+1
+List of shortlisted
+candidates for admission to Ph.D.{Mathematics)
+2
+List
+of
+Admitted
+Candidates
+for
+PhD
+(Metallurgical
+and
+Materials
+Engineering)
+.~
+3
+List of Admitted
+and Waitlisted candidates for PhD.(Chemistry)
+4
+List of Selected candidates for admission to PhD.(Electrical Engineering)
+.
+'
+program
+5
+Provisionally
+Selected and Waitlisted
+candidates
+for PhD program with
+without
+MHRD fellowship in Chemical Engineering
+6
+List of candidates selected for admission to PhD (IDRP-QIC) program
+7
+Approval for list of selected candidates for PhD (Dept. of CSE)
+8
+List of candidates selected for admission to PhD (Physics) Program
+9
+List of shortlisted
+candidates for admission
+to PhD' (Digital Humantttes-
+IDRP)
+10
+The merit
+list of candidates shortlisted
+for PhD admission in Academic
+~~
+Year 2020-21 session II
+
+11
+List of Admitted
+Candidates for PhD (MT)
+12
+Request for approval PhD admission
+in the regular category
+without
+financial assistantship
+13
+list
+of Shortlisted
+candidates
+for admission
+to PhD
+(lnterdisci plinary
+Research Platform, Smart Health Care) program
+14
+Request for approval PhD admission
+in the regular category
+without
+.
+r
+financial assistantship
+15
+Shortlisted
+candidates for admission to PhD (ME)
+16
+List of ShortUsted candidates & Waitlisted
+candidates for admission to
+..
+PhD (BB) program
+17
+List of Shortlisted
+candidates for admission to PhD (HSS) program
+18
+None
+of
+candidates
+shortl isted
+for
+admission
+to
+PhD
+(Science
+of
+Intemgence)
+program
+19
+List of shortHsted candidates for admission to M.Tech (AI) Executive for
+working professional
+-
+-
+...
+candidates
+admission
+IDRP
+20
+List
+of '.selected
+for
+to
+PhD
+loT
+and
+AppHcation program
+21
+list
+of Admitted
+Candidates
+for
+PhD (IDRP
+on
+Space
+Science
+&
+Technology)
+22
+Final results of Interdisciplinary
+PhD in RobotiCSand Mobility System
+23
+List of selected candldates for admission to PhD (CSE)
+Roster and Revised Guidelines for PG admissions
+24
+Department-wise
+roster for PhD admissions for February 2021 session
+- .,
+.
+25
+Revised Guidelines for PG admissions and Admission forms
+i
+cenversten of full time Ph"D. into Part-time
+26
+Conversion
+of full
+time
+Ph.D.
+into
+Part-time
+Ms. Divya
+Srivastava
+(P15VSSOO1)
+as the student
+selected as Associate Project Developer,
+Pcrafter Technotoqles
+Fees (Tuition/Semester
+fee)
+o.r-
+
+27
+The
+new
+PG
+students
+joined
+in
+AY
+2020-21
+have
+paid
+the
+tuition/semester
+fee and the session started
+in Trimester
+Mode so the
+difference amount has to be adjusted in Trimester-II
+AY 2020-21.
+28
+The Tuition
+Fee for Trimester-II
+AY 2020-21
+of Mr. Abhinay
+Kumar
+(M20ME001) paid from the Project No. C/ASTE/CV20180016
+29
+The Tuition
+Fee for Trimester-II
+AY 2020-21
+of Mr. Abhinay
+Kumar
+(M20ME001) paid from the Project No. C/ASTE/CV20180016
+.
+Collaboration
+30
+Joint
+coUaboration
+and
+allocation
+students
+in
+the
+domain
+Radar
+absorber:
+Inks and Printing Technologies under supervision
+of Dr. Ravi
+K.R., Dr. Ramesh K. Metre,
+Department
+of Chemistry,
+IIT]
+and Ora
+Avanish Srivastava,
+Defense Lab. Jodhpur.
+31
+Joint coUaboration and allocation students in the domain Heat exchange
+modelling and design
+under supervision
+of Dr. Kothadia
+Hardikkumar
+Bhupendra,
+Dr.
+Shobhana
+Singh,
+Department
+of
+Mechanical
+Engineering, IITJ and Sh. Robin Mondal, Defense Lab. Jodhpur.
+Minutes of Meeting
+32
+Minutes of 32nd Academic
+CommIttee
+Meeting held on 16 November
+2020
+33
+Minutes of Meeting of 11th ECS
+34
+Minutes of Mee,ting between
+AIIMS Jodhpur and lIT Jodhpur for Joint
+Program on Medical Technologies
+held on 30th December 2020
+35
+Minutes of Meeting between
+AIIMS Jodhpur and lIT Jodhpur for Joint
+Program on Medical Technologies
+held on 8th January 2021
+36
+Minutes of Meeting AIIMS Jodhpur and IIT Jodhpur for Joint program on
+Medical Technologies
+held on 05.02.2021
+~,
+Registration
+for AY 2020-21
+37
+Allowing Ms Basanti Meena, preparatory
+student for the registration
+as
+the student couldnot
+appeared for the registration
+as per the schedule.
+38
+Registration
+of
+External
+Students
+in
+Individual
+Courses
+as Casual
+Students for PG Programmes
+(3 nos)
+39
+Regarding Registration
+Dates for Trimester
+III
+Issuance
+of certificates
+~
+
+40
+Issue of Provisional Certificate to four students those defended thesls..
+41
+Request to issue Provisional Certificate (3)
+42
+Request to issue Certificate_Devika
+& Parveen
+43
+Arpita Srivastava_P19CY006~Request
+to issue Provisional Certificate
+44
+P16VSS003_ Vivek
+Raghuwanshi_Request
+to
+issue
+Provisional
+Certificate
+45
+P15CY007_Sumitra
+Godara_Request to issue Provisional Certificate
+46
+Request to issue Provisionar Certificate
+47
+P15CY004_Anchal Gahfaut_Request to issue Provisional Certificate
+48
+Issuance of trimester ...
+wise Grade sheets and Transcripts
+for AV 2020-
+21
+49
+Issuance of NOe to Mr., Yash Kumar Singhal (M20CS065) for Intershlp
+at TCS Innovation
+Labs-Delhi in remote mode
+50
+Issuance
+of NOe to Ms Sweta Tiwari
+(M20DH020)
+for Internship
+at
+NABARO,
+51
+Request to issue Provisionar Certificate (4)
+Award
+Best PhD. Thesis Award for 2020
+53
+Approvatfor
+Minor 2 Examination of Medical Technologies
+Program AV
+2020-21 Semester I
+54
+Approval for Timeline for Examinations during Trimester
+nAY;
+2020-21
+55
+Approval
+for
+Term-'I
+Examination
+of
+M'BA Program
+AY
+2020·21
+Semester-II
+56
+Approval
+for Major Examination
+of Medical Technologies
+Program AY
+2020-21
+Semester-I
+57
+Schedule of Examination for Trimester ...11Academic Year 2020-21 ()..
+
+58
+Request
+for
+approval
+of conducti n9 major
+examination
+of EEL7640
+through
+Google classroom on 6th February 2021
+59
+Approval
+for Minor-I
+Examination
+of Medical Technologies
+program AY
+2020-21
+Semester-II
+60
+Approval
+for
+Term
+-II
+Examination
+of MBA
+Program
+AY 2020-21
+Semester-II
+.
+Grade
+61
+Regarding Continuation
+Grade in thesis for Before 2019 PhD Students
+62
+Regarding continuation
+grade in Thesis for M.Tech. Students enrolled
+before 2019
+63
+Grades of Make-up
+Examination,
+E & I Grade examination,
+Thesis and
+Non-Graded courses of Semester II, Academic Year 2019-20
+64
+Schedule of E to 0 Grade Examination for Trimester
+I AY2020-21
+65
+Grades of Trimester
+I Semester I (for MBA) of Academics Year 2020-21
+66
+Grades submission
+timeline for Trlmester-H
+AY 2020-21
+67
+Grades of E to 0 conversion and I grade Examination
+of Trimester-I
+AY
+2020-21
+Comprehensive
+Examination
+68
+Ashonshok
+KachuLP19HSSOO 1
+appeared
+for
+the
+comprehensive
+examination
+(December
+2020)
+69
+Debaratl Sarka_IDRPDH002_Seeking
+for an extension
+the timeUne for
+Comprehensive
+Examination
+and SQTA Presentation
+~
+".:0..
+70
+Request
+for
+second
+chance
+for
+the
+completion
+of
+comprehensive
+examination
+Honorarium to guest faculty
+71
+Digital
+Humanities
+IDRP
+requests
+the
+approval
+for
+payment
+of
+honorarium
+to the following guest faculty members (1)
+Extension of deadlin"e for applications
+C~
+"' ....
+
+72
+Approval of extension of deadline to submit online applications for part-
+time'M.Tech.
+(Artificial Intelligence)
+program for working professionals
+Extension
+of SOTA
+73
+Approval for the extension of SOTA Deadline till 31 March 2021
+74
+Deadline
+for
+Comprehensive,
+SOTA
+and Qualifier
+requirements
+for
+.
+M.Tech.-Ph.'D. and Part Time Ph.D. students
+75
+Regarding extension for Submission of Thesis work without
+fee for AY
+2020-21 trimester-II
+"
+76
+Extension for fee payment of AY 2020 ...
+21 semester-II
+77
+Request for extension for Thesis Submission - P16CS003_Shreya Goyal
+78
+Regarding extension of PhD students for Completion of State of the Art
+Seminar till 31 January 2021 for the students
+who joined
+in the July
+2019
+_ ...
+79
+Extenslon_, to
+appear
+for
+State
+of
+the
+Seminar
+-
+Somanka
+Maiti
+(P18MAOO2)--
+80
+Extension to appear for- state of Art Seminar-Prasad
+N Dal(P19MEOO8)
+81
+Extension to appear for State of the Art Seminar - Vaibhav Valshnav
+(P18EE203)
+Project
+Evaluation
+82
+B.Tech project Evaluation for B.Tech 2017 final Year Students
+83
+Rules and Regulations for conduct and Evaluation of M.Tech_M.Tech ....
+PhD._M.Sc. Project for the students-who joined on or after July 2019
+84·
+Forms for report M.Sc, M.Tech. and - PhD Project Evaluation
+Remuneration
+85
+Remuneration to Examiners ofthe PhD Thesis
+86
+P14BS006_Vahdana_remuneratlon
+to Examiners of the PhD Thesis
+~I
+-,.
+
+87
+Remuneration to Foreign Examiner of the PhD Thesis equivalent to INR..
+Dr. Neeraj Kumar Singh
+IM"Tech. admissions
+88
+For the
+approval
+of advertisement
+for
+part-time
+M.Tech.
+(Artificial
+Intelligence)
+program for working professionals,
+'"
+89
+Seat Distribution
+for M.Tech Programs
+90
+Coordination Committee
+for Executive M..
+Tech. Artificial Intelligence
+fellowship to PhD students
+..
+91
+Selection
+of
+Students
+for
+Prime
+Minister's
+Fellowship
+(PMRF)
+P19MEO
+10_Swarit Anand
+92
+Regarding the fellowship
+of Medical Technologies programme
+AY 2020-
+21
+Floating of Self-Study courses
+93
+'Request to float Self ...
+study courses during Trimester n of AY 2020-21~
+94
+Request to float Self-study
+courses during Trimester-III
+AY 2020 ...
+21
+Advertisement
+95
+Advertisement
+for M.Tech.-Phd Admission for AY 2021-22,~'
+96
+Digital Humanities
+(IDRP) Advertisement
+Approvals
+97
+SRC updation Ms. Jaspreet Kaur(P11CSOO1)
+~.
+98
+Approval for travel by private airlines services to attend 2nd meeting of
+JIe for lEE (Advanced)
+2021 at lIT Hyderabad
+99
+Consent for accommodating
+five students
+nominated by DTS Rajasthan
+under KARYA program
+100
+Committee
+for preparation
+of courses of study booklet
+101
+Slot System for the AY 2020-21 Trimester
+III
+~~
+~,
+
+102
+Inclusion
+of Selected topics courses, in Program
+Elective Bouquet for
+. M.Tech Program offered by Department
+of ME
+103
+Format for submission of Research Proposal for PhD students regIstered
+from July 2019 onwards
+104
+Withdrawal
+of course Digita' image Analysis
+lOS
+Approval for Undertaking to add the courses - reg.
+106
+Special topic in CS Course
+107
+Seat Matrix for the AY 2021-22
+108
+Students have given some reasons to not submit the course fee on time
+for the Feb..
+Jun 2021
+109
+Format and Guidelines for submission of Project report 'for M~Sc._M.Sc.-
+M.Tech._M.Tech. and M.Tech.-PhD
+110
+Regarding update the PhD Form
+111
+Student representatives
+in the senate
+112
+Applied for casual student in cse
+113
+Extra credit forthe
+AY 2020-21 Trimester-III
+114
+Request for continuation
+of PhD program
+..... ASEAN ...International
+Student Ms. Anggy Eka Pratiwi (P20CS002)
+1.15
+Regarding inclusion of addition program electives for PG programs (2)
+116
+Regarding the list of program Elective courses available to the students
+of B.Tech CSE
+117
+Request for extra
+chance to appear
+for comprehensive
+exam -
+MS4
+Mahapara Khurshld (P19CS206)
+Minutes of Meeting
+118
+Mi'nutes of 22nd Academic
+Committee
+Executive Com.,-.ittee of Senate
+C\./
+
+119
+Minutes of 10th Executive Committee
+of Senate held on 26 November
+2020
+120
+Minutes of 11th
+Executive Committee
+of Senate held on 18 December
+2020
+121
+Minutes of 12th Executive Committee of Senate held on 1 January 2021
+122
+Minutes of 13th
+Executive Committee
+of Senate held on 18 January
+2021
+123
+Minutes of 14th Executive Committee of Senate held on 2 February 2021
+124
+Minutes of 15th Executive Committee of Senate held on 1 March 2021
+125
+Minutes of 33rd Academic CommIttee Meeting held on 21 January 2021
+126
+Minutes of 34th Academic Committee Meeting held on 17 March 2021
+125.5
+Anyother Item with the prior permission of the Chairman
+The Senate ratlfted the approval accorded by the Chairman senate
+I
+The Senate decided to caU 9 special senate meeting to discuss the vision, mission
+The meeting ended with thanks to Chairman and all members.
+Secretary, Senate
+Chairman,
+Senat
+
+GRADE/GPA
+EQUIVALENCE
+POUCY:
+For the purpose of admission/transfer
+at lIT Jodhpur, the conversion factor of 10 would
+be used for converting' percentaqe to CGPA, that is, the percentage will be divided by
+10 to convert into CGPA if the primary method of evaluation followed in the graduating
+institution
+of the candidate seeking admission is percentage marks.
+If the
+primary
+method
+of evaluatIon
+followed
+in the
+graduating/previous/visiting
+institution
+of the candidate seeking admission to lIT Jodhpur is CGPA on an N-point
+scale; then the following
+linear interpolation
+formula will be used:
+CGPA=CGPAN*lO'N,
+where CGPA is computed on a 10' point scale and CGPAN is computed
+on an N-point
+scale. Some representative
+conversions utilizing
+the above formulas
+are given in the
+table below:
+The CGPA of all !IT Jodhpur graduates can be notionally
+converted
+to percentage
+by
+multiplying
+the CGPA by a factor of 10.
+.
+Course Equivalence
+Policy (For Transfer):
+.For the undergraduate
+students goIng under student exchange programs,
+the' course
+equivalence policy will be applicable as per Section 10.3 of the Academic Regulations.
+The
+course
+equivalence committee
+will
+oversee
+if
+the
+courses done at
+the
+previous/visiting
+academic institute
+can be considered as equivalent
+to any approved
+course in lIT Jodhpur by considering different
+factors that the committee
+find deems
+fit (for
+instance,
+credit
+definitIon,
+credit structure,
+contact
+hours,
+course' content,
+number
+of
+lectures,
+laboratory
+components
+etc.)
+on
+a case-to-case
+basts.
+The
+committee
+win make the recommendations
+for the approval of the Chairman, Senate.
+Course Equivalence and Credit Transfer Committee will include
+1.
+Professor nominated by Chairman, Senate' as Chairman
+2.
+Dean Academics/Associate
+Deans, Academics
+:..,
+3.
+Head of concerned Department
+4.
+Program Coordinator
+of the concerned student
+5.
+Chairman,
+ORe of the concerned Department
+(for M.Tech./Ph.D. student)
+6.
+FIe (G&R) as convenor
+7.
+Special Invitee
+(Concerned Course Instructor)
+8.
+Previous
+Dean! Associate Deans, Academics
+9.
+Previous FIC (G&R)
+,
+,
+Transfer
+Rules for PhD students:
+1.
+Minimum eligibility criteria of the Department must also be fulfilled for the same.
+2.
+The credits to be transferred
+will be determined
+by the course equivalence
+and
+credit transfer committee.
+
+3.
+The norms related to transcripts,
+grade sheet and CGPAcalculation will be similar-
+to the Student Exchange norms mentioned
+in Section 103 of the academic regurations.
+Course equivalence
+between old and new curriculum
+for similar courses
+Dean/Associate
+Dean (Academics) will address such issues case-to-case basis and send
+recommendations
+for the approval of the Chairman Senate
+Courses of old curriculum
+no longer being offered (closest being offered)
+Dean/Associate
+Dean (Academics) will address such issues case..
+to-case basis and send
+recommendations
+for the approval of the Chairman Senate
+PGStudent
+Exchange
+Program:
+Student Exchange Program provides for a maximum of one year (MTech/MScjPhD) visit
+by students
+between the two academic institutions
+on a reciprocal basis. The visiting
+student
+must
+be a full-time
+student
+enrolled
+in a degree
+program
+in their
+Home
+Institution.
+The PG student exchange program is open to full-time
+PG students of each
+Home Institution.
+It will be executed as per the pre-approved
+arrangement
+(including
+an MoU) between the institutions.
+Selection
+of
+students
+under
+such
+program
+wrtl
+be
+made
+by
+the
+DRe/IRC
+on
+recommendation
+of SRC (for Ph.D. and M.Tech.-Ph. D. students)
+after assessing the
+preparedness
+of
+students
+to
+meet
+the
+requirements
+of
+the
+planned
+coursework/research
+at
+the
+Host
+Institution
+and
+the
+relevance
+of
+the
+planned
+coursework/research
+to the enrotled degree program ..A visiting student may carry out
+research or take courses for credit or otherwise. or may use other academic facilities as
+per pre-approved
+arrangement
+(including
+an MoU).
+Under exchange
+program,
+a student
+of IIT Jodhpur can register at another academic
+, institution
+in India
+or abroad upto the
+maximum
+credits
+per semester
+as per the
+regulations
+as certified
+by SRC (for Ph.D: and M•.Tech....
+Ph.D. students)
+and approved
+by ORe (for all PG students)
+in lieu of the coursework
+or research work through a pre-
+approved arrangement
+including an MoU.
+On return,
+the student
+may apply to DRC/IRe through
+SRC (for Ph.D. and M.Tech.-
+Ph.D. students)
+for waiver of credits
+from her/his program
+requirements
+which s/he
+thinks are equivalent
+to the courses successfully
+completed
+at the visited
+academic
+institution
+as an exchange student.
+With the application,
+the student must submit an
+official transcript
+of the grades obtained
+by her/him
+at the vIsited academic institution
+as an exchange
+student
+and other documents/matertal
+that the concerned DRC/IRC ".
+may require for evaluation.
+The DRe/IRe
+will determine,
+by whatever
+means it deems
+fit, the equivalent
+credits requirements
+for which the student may be given a waiver in
+her/his programme
+at IlT Jodhpur. ORC/IRe will submit its recommendations
+to course
+equivalence committee
+for its approval. The course equivalence and the credit transfer
+will take place as per the norms mentioned
+in the previous sections.
+
+Constitution of Student Councils
+Indian Institute of Tecbnology Jodhpur
+March 2021
+
+Table of Contents
+Constitution
+of Student Councils
+Page No
+Preamble
+Student Activif.y Council
+(SAC)
+Terms of Reference
+Composition of SAC
+HI
+Constituent
+Bodies identified under SAC
+ii
+iii
+IV
+Functions
+of SAC
+V
+Academic
+and Co.Curricular Activity Council
+(ACAC)
+Terms of Reference
+I
+VI
+Composition
+of ACAC
+VII
+Constituent
+B6diesidel1tified
+under ACAC
+VIIl
+FUt1ctiorts··ofACJ\C
+StudentSenate
+IX
+Interpretation
+and Amendment
+Terms of Reference
+x
+Composition
+of Student Senate
+XI
+Functions
+of Student Senate
+XII
+.
+Responsibilities
+XIII
+Meeting Procedures
+XIV
+Elections
+xv
+Impeachment
+XVI
+
+Preamble
+The Student Body represented
+through Councils - Student Activity
+Council (SAC)
+and Academic and Co-curricular
+Activity Council (ACAC)
+is being set up with the
+objective
+of empowering
+students
+so that they can actively
+contribute
+towards
+harmonious
+academic,
+social and cultural ecosystem
+at lIT Jodhpur.
+These councils
+will be the key instrument
+for coordination
+and cooperation
+between various sections
+of the cam pus community.
+Student Activity Counell
+CHAPTER)
+Terms
+of Reference
+i.
+The SAC shall function as the central body which shall review and implement
+policies related to student non-academic
+activities at lIT Jodhpur.
+ii,
+It shall primarily
+address
+concerns
+of the students,
+manage
+and review
+extracurricular
+activities,
+ensure an enriching
+hostel and campus
+life and
+student wellbeing.
+iii.
+It shall ensure coordination
+between General 'Student Body and other relevant
+"_,
+admlnlstratlveofflces
+for 'smooth organization of various studen.t activities
+and festivals.
+'
+CHAPTER II
+Composition
+of SAC
+Director, Institute (Chairman)
+Dean, Student Affairs (Convener)
+Associate
+Dean, Student Affairs (Co-Convener)
+Deams), Academics
+Dean, International
+Relations and Outreach
+Chairman, Student Wellbeing Committee
+Presidents
+of Boards identified under SAC
+Vice Presidents of Boards identifiedjmder
+SAC
+General Secretary,
+Student Senate
+Genera] Secretary,
+SAC
+Registrar
+Deputy Registrar,
+Accounts
+Deputy Registrar,
+Stores and Purchase
+Deputy Registrar, Office of Students
+Two nominees of Senate (Faculty nominated
+by Senate)
+Institute Engineer
+Four PO Representatives
+- One married student
+All Hostel General Secretaries
+
+xix,
+One representative for differently abled students
+CHAPTER III
+Constituent
+Bodies identified under SAC
+The Institute level student bodies presently identified under the SAC are
+a) Board of Hostel Affairs
+b) Board of Art and Culture
+c) Board of Literary Affairs
+d) Board of Student Sports
+e) Board of Student Welfare
+i.
+Each Board shall be an Institute level student body that shan organize and
+manage a particular sphere of student activity.
+ii.
+Each Board shall have a President, appointed by the Director; who shall be
+a faculty member of the Institute, and a Vice President, elected as per the
+Constitution of the respective Boards who shall be a student.
+i.
+Each Board shall have its own identified Societies and Committees.
+li,
+The Societies/Committees
+identified under SAC shall have their own sphere
+of activities/mandate
+as directed by SAC.
+Hi.
+Each Society will have a Mentor appointed by the Director in consultation
+with the Deanfs), who shall be a faculty member of the Institute, and a Student
+Co-ordinator, elected as per the Constitution of the respective Boards who
+shall be a student.
+iv,
+SAC can modify/dissolve
+any existing committee, and can also create new
+Committees.
+v.
+Each Committee will have a Chairman, whushatl be a faculty member of the
+Institute and a Student convener, both appointed by the SAC.
+vi.
+The terms of reference of each Society/Committee are decided by the Board
+and the same shall be ratified by the SAC.
+vii. .
+For Board of Hostel Affairs, the Society shall be read as Hostels, and Student
+Co-ordinator shall be read as Hostel General Secretary.
+
+CHAPTER IV
+Functions or the SAC
+i,
+To make decisions
+regarding
+the structure
+of constituent
+Boards
+of the
+Student Activity Council.
+ii,
+To allocate
+powers and responsibilities
+among
+lower-level
+bodies present
+within the Council.
+iii.
+To propose and approve addition, modification,
+or deletion of new Boards,
+Committees
+and Societies within the Council.
+iv,
+To propose changes in the constitutional
+provisions of SAC.
+v.
+To compile the Student Activity budget and approve the allocation of funds
+among the various Boards and Societies.
+vi.
+To ensure
+fair nomination
+and selection
+of Council
+members
+for each
+financial year.
+vii.
+To monitor
+and review
+the activities
+of all the Societies
+annually
+and
+whenever deemed necessary ~
+viii.
+To mentor Boards to undertake activities that foster the spirit of camaraderie,
+loyalty, and discipline among the Students.
+ix.
+To promote organizational 'abilities amongst Students.
+x.
+To promote practices for a well-informed
+and articulate student community
+with high moral, ethical, andsocial
+values.
+xi.
+To ensure the Bodies function
+in a free, fair, and transparent
+manner without
+discrimination
+against gender, caste, religion, or economic status.
+xii.
+To make necessary provisions and arrangements
+for courses in Creative Art,
+Sports and Social Connect in core and open category elective.
+Academic and Co-Curricular
+Adivity Council
+CHAPTERV
+Terms of Reference
+i.
+The ACAC shall be the apex forum for student opinion on the academic,
+co-
+curricular,
+career development
+and entrepreneurial
+initiatives and activities of
+the institute.
+.
+li.
+The Council will interface between the administration
+and the student body for
+an
+effective
+teaching-learning
+process
+and
+the
+implementation
+of
+new
+ini
+tiati ves.
+
+CHAPTER VI
+Composition of ACAC
+L
+Director (Chairman)
+H.
+Dean(s), Academics (Convener)
+iii.
+Associate Dean(s), Academics (co-convener)
+iv.
+Dean, Student Affairs
+Y.
+Dean, International Relations and Outreach
+vi.
+Dean, Research & Development
+vii.
+Registrar
+viii.
+Faculty-In-Charge (FIe), Society for Alumni Affairs
+ix,
+Presidents, Boards identified under ACAC
+x.
+Vice Presidents of Boards identified under ACAC
+xi.
+General Secretary, Student Senate
+xii.
+General Secretary, ACAC
+xiii,
+Deputy Registrar, Office of Academics
+xiv.
+Deputy Registrar, Office of Students
+xv.
+Deputy Registrar, Accounts
+xvi.
+Deputy Registrar, Stores and Purchase
+xvii,
+Two Senate nominees (Faculty nominated by Senate)
+xviii,
+Four PO representatives - One married student
+xix,
+One representative for differently abled students
+CHAPTER VII
+Constituent Bodies identified under ACAC
+The Institute level student bodies identified presently under the ACAC are
+i.
+Board of Academic Interaction
+it
+Board ofCo ...
+Curricular Affairs
+iii."
+Board for Innovation and Entrepreneurship
+iv,
+Board of Departmental Societies
+v.
+Board of Career Development
+vi.
+Society for Alumni Affairs
+i.
+Each of the Boards identified under ACAC shall be an Institute level
+student body that organizes activities and addresses concerns pertaining to
+the Board.
+
+ii,
+Each Board shall have a President.
+who shall be a faculty member of the
+Institute,
+appointed
+by the Director, and a Vice-president,
+who shall be a
+student, elected as per the Constitution
+of the respective
+Boards.
+i,
+Each Board shall have its own identified Societies
+and Committees.
+ii.
+The
+Societies/Committees
+identified
+under
+ACAC
+shall
+have
+their
+own
+sphere of activities/mandate
+as directed by ACAC.
+iii.
+Each Society will have a Mentor
+appointed
+by the Director
+in consultation
+with the Dean(s), who shall be a faculty member of the Institute, and a Student
+Co ..
+ordinator,
+elected
+as per the Constitution
+of the respective
+Boards who
+shall be a student.
+iv,
+ACAC can modify/dissolve
+any existing committee,
+and can also create new
+Committees.
+v.
+Each Committee
+will have a Chairman, who shall be a faculty member ofthe
+Institute and a Student convener,
+both appointed
+by the ACAC~
+"
+vi.
+The terms of reference
+of each Society/Committee
+are decided by the Board
+and the same shall be ratified by the ACAC.
+CHAPTER VIII
+Functions and Working of the ACAC
+i..
+To represent
+the General Student Body at all academic
+and co-curricular
+platforms
+whenever
+necessary.
+it
+To address concerns
+raised by students regarding
+academic
+programs;
+teaching-learning
+process and evaluation
+scheme.
+iii.
+To coordinate
+and review student co-curricular
+activities
+and framing
+methods
+for inclusion of co-curricular
+activities
+for earning design credits.
+lv,
+To ensure active promotion
+of innovation and entrepreneurship
+among
+students through engineering
+design-related
+activities.
+v,
+To coordinate
+student academic activities
+sPanning over various
+Departments.
+vi.
+To review the policies adopted by the Departments
+for continuing
+department
+level co-curricular
+activities through departmental
+societies.
+vii.
+To present suggestions/proposals
+to the Institute bodies related to academ ic
+programs
+and co-curricular
+activities after thoroughly
+analysing
+the
+experiences,
+demands and aspirations
+of the General Student Body (GSB).
+viii.
+To motivate
+the General Student Body for the representation
+of institute at
+local, national, and international
+co-curricular
+events in respective
+domains.
+
+ix,
+Ensure co-curricular activities to compliment the technical education being
+imparted at the Institute for the overall development of Students.
+Student Senate
+CHAPTER-IX
+Terms ofReference
+l,
+The Student Senate will discuss student related issues including those which
+require amendments of policies ofthe Institute, SAC and ACAC.
+11.
+It will act as a platform for discussion on all curricular, co-curricular and
+extra-curricular student activities.
+iii.
+It will be the voice, and the ultimate representation of the General Student
+Body in the Institute's policy decisions.
+CHAPTER-X
+Composition
+of Student Senate
+i,
+Structure of Student Senate
+a.
+General Secretary, Student Senate
+b. General Secretaries, SAC & ACAC
+c.
+AllHostel
+General Secretaries
+d. Elected Representatives of Students (ERS)
+ii,
+The Elected Representatives
+of Students (ERS) from different electoral
+colleges distinct from the hostelswillcomprise
+of four undergraduate (UG)
+representatives and four postgraduate (PG) representatives.
+iii.
+ERS should have 50% female representation.
+iv,
+The GeneralSecretary,
+Student Senate or any other Senator in consultation
+with the General Secretary, Student Senate may invite non-members to a
+Student Senate meeting. These invitees shall not have any voting rights.
+CHAPTER-XI
+Functions
+of Student Senate
+i.
+The Student Senate will exist as a direct.point of contact for any issues
+of the students of Il'FJ.
+ii.
+The Student Senate will act as the representation of General Student
+Body as a whole in all matters relevant for the students.
+iii.
+The Student Senate shall work with the councils through General
+Secretary SACIACAC for addressing concerns of students.
+iv.
+The Student Senate shall act as a bridge between the student community
+and the administration of IlTJ and shall ensure effective coordination
+between them.
+
+CHAPTER-XII
+Roles and Responsibilities
+XU-A
+Chairman ..SAC, ACAC
+i.
+The Director of lIT Jodhpur shall be the Chairman of both SAC and
+ACAC.
+Ii,
+The Chairman shall preside over the meetings
+of the councils. In his/her
+absence,
+Dean (Student Affairs) shall preside over SAC meetings,
+and
+Dean (Academics)
+shall preside over ACAC meetings.
+iii.
+If the Director
+is unable to chair, he/she can nominate
+a council member
+to chair the councllfs) in his absence.
+Iv,
+The Chairman
+holds the privilege of breaking a tie in the Councils'
+decision process, and also in General Body Election.
+v.
+The Chairman shall appoint Committees
+for smooth functioning of SAC
+and ACAC if deemed necessary.
+vi.
+The Chairman's
+decision shall be final and binding in all the cases.
+XlI-B
+General Secretary, Student Senate
+i.
+The General Secretary,
+Student Senate shall preside over the meetings
+of
+Student Senate. In his/her absence, the Vice-President;
+Board of Hostel
+Affairs shall preside over the meeting.
+ii.
+He/She shall ensure that the Constitution
+of Student Councils
+is not violated
+~~~~.
+~
+iii.
+He/she shall be the representation
+and voice of the General Student Body in
+the Council Meetings.
+iv.
+The General
+Secretary,
+Student Senate shall be elected by an open election
+by the General Student Body and shall have a tenure of one academic
+year.
+v,
+The General. Secretary,
+Student SenatewiJI
+be the member of the Institute's
+policy formulating
+Committees
+wherever relevant. He/she shall attend the
+meetings
+of the Institute Committees, or shall nominate
+one of'the members
+of Student Senate to attend the meetings ori'his/her
+behalf.
+XII..
+C
+General Secretary, SAC/ACAC
+i.
+The General Secretary,
+SAC/ACAC shall be the overall representation
+of
+the Boards at the Council.
+it
+He/she is responsible
+for the effective coordination
+of the constituent
+bodies
+within: the Councils.
+
+iii.
+He/she is responsible for the proper functioning of an the Boards identified
+under the Council and shall also review the proper utilization of funds on
+Board activities.
+iv.
+He/she will circulate the annual financial report ofSAC/ACAC,
+checked by
+the Office of Accounts, to the General Student Body.
+v.
+The General Secretary, SAC/ACAC has a tenure of one year.
+XH..D
+Vice President, Board
+l.
+The Vice President of the Boards identified under the Councils shall be
+responsible for the proper functioning of the societies under the respective
+Boards.
+it
+He/she shall be responsible for the proper budget bifurcation to the
+constituent bodies under the Board, and proper utilization of the same.
+iii.
+He/she shall convene the Board meetings, and record the minutes for the
+reference of the Student Senate. In his/her absence, the President of the
+Board shan nominate one the Student Coordinators of the constituent
+Societies to convene the meeting.
+iv,
+He/she will maintain the Statement of Expenditure of each Society.
+v,
+The Vice President of the Board shall possess a record of all physical assets
+of the Board.
+vi.
+The Vice President, Board has tenure of one academic year.
+1.
+The President ofa Board is a faculty member of the institute, nominated by
+the Director of lIT Jodhpur.
+it
+The President shall act as the mentor to the entire Board in its functions and
+shall overview the coordination among the societies of the Boards.
+iii.
+The President is responsible and deciding authority for the proper utilization
+of the budget allotted to the Board.
+iv,
+The President shall submit a Statement of Expendlture of the Board every
+three months during the academic year, duly-reconciled with the records in
+the Office of Students and Office of Accounts.
+XII-I?
+Student Co-ordinators,
+Societies
+i.
+The Student Co-ordinators of each society identified under the Boards are
+responsible for the effective implementation of activities organized by the
+viii
+
+society.
+ii.
+He/she is responsible
+for the proper utilization of budget within the society,
+and is accountable
+for the same at both Board level and SAC/ACAC
+level.
+iii.
+He/she shall provide the semester/annual
+report of the Society's
+activities
+for the SAC/ACAC
+audit.
+iv.
+He/she shall come up with an activity calendar for the society and shall
+propose the budget for the society to the Board for consideration
+at the
+SAC/ACAC.
+v,
+He/she shall maintain
+the Statement of Assets of the Society and submit a
+Statement
+of Assets every three months during the academic
+year, to the
+Vice President,
+Board.
+vi.
+The tenure of Student Co ..ordinator is one academic
+year.
+CHAPTER
+-XIII
+Meeting
+Procedu res
+XIII-A
+Council Meetings
+i.
+The Councils
+shall meet at least once in a semester/twice
+a year, and
+whenever
+deemed
+necessary.
+ii.
+The quorum of the meeting shall be at least 50% of the total membership.
+iii.
+The Chairman-~SAC,ACAC
+shall convene the meeting.
+In his/her absence.of
+the Dean (Students/Academics),
+shall convene the meeting.
+iv,
+The notice of the meeting
+shall be sent to the Council members
+by the Dean
+(Students/Academics)
+in consultation with the Chairman,
+SAC/ACAC
+one
+week before the scheduled
+date.
+v.
+The Deputy Registrar
+(Students/Academics)
+shall hold the responsibility
+for
+sharing the agenda and recording the minutes of the meeting.
+vi.
+The agenda of the meeting
+shall be sent to the Council members
+three days
+prior to the scheduled
+meeting.
+vii.
+The recorded
+minutes
+of the meeting shall be shared to the Council
+members
+and the General
+Student Body within three working
+days.
+viii.
+The General
+Secretary,
+SAC/ACAC can invite any registered
+student of the
+institute with a written requisition
+to the Dean (Students/Academics).
+The
+invitee shall however not have any voting rlghts.
+ix.
+The Chairman,
+SAC/ACAC
+has the authority to call for a vote, and in castf
+ofa tie, the decision
+of the Chairman, SACIACAC shall be fin a! and
+binding.
+x.
+Special meeting
+can be convened
+if30% of the council members
+pwtition
+for the same.
+
+XIlI ..
+B
+General Body Meeting
+i,
+The General Body Meeting
+(GBM) shall be conducted at least once in a
+year, and whenever
+deemed
+necessary.
+ii.
+General Secretary,
+Student
+Senate shall convene the General Body Meeting.
+Hi.
+If the GeneraJ Secretary,
+Student Senate cannot be present in the GBM,
+he/she shall nominate
+a Vice President of one of the Boards to convene the
+meeting. The same shall be conveyed to the General Student Body at least
+48 hours before the meeting.
+iv.
+The Vice President,
+Board of Hostel Affairs shall record the minutes of the
+meeting, and shan share with the General Student Body within 24 hours of
+the meeting.
+v.
+The quorum of the meeting
+shall be at least 50% of the General Student
+Body.
+vi.
+The concerns
+of the General
+Student Body raised in the GBM shall, be
+discussed
+in Student Senate meetings within one week.
+'
+vii.
+Parliamentary
+conduct
+shall not be violated at any instant of the meeting.
+XIIl..
+C
+Emergency Genera] Body Meeting
+I.
+The emergency
+General Body Meeting (eGBM) can be called at a short
+notice of at least 24 hours.
+.
+ii.
+The General Secretary,
+Student Senate will call for an eGBM
+and shall
+necessarily convene the same.
+.
+iii.
+The Vice President,
+Board of Hostel Affairs shall record the minutes of the
+meeting, and shalf share the same with the General Student Body within 24
+hours of the meeting.
+iv.
+The eGBM can be called to discuss student concerns of urgent nature.
+v.
+The quorum of the meeting
+shall be at least 60% of the General Student
+Body.
+vi.
+The concerns
+of the General
+Student Body raised in the eGBM shall be
+discussed
+in Student Senate meeting within"'48 hours.
+vii.
+Parliamentary
+conduct
+shall not be violated at any instant of the meeting.
+XIII ..
+D
+Student Senate Meeting
+i,
+The Student Senate shall meet at least twice a semester and whenever
+
+deemed necessary.
+it
+The General
+Secretary,
+Student Senate shall convene the meeting,
+and
+record the minutes.
+iii.
+The notice and agenda of the meeting shall be sent to the Student Senators
+one week prior to the scheduled
+meeting.
+iv.
+The minutes of the meeting shall be sent to the General Student Body and
+the members
+of SAC and ACAC within 48 hours of meeting.
+v,
+Emergency
+Student Senate meetings can be called by the General
+Secretary,
+Student Senate at a short notice of at least 24 hours.
+vi.
+The quorum of the Student Senate meeting should be at least 314th of the
+total membership.
+vii.
+Ira Student Senator fails to attend three consecutive
+Student Senate
+meetings,
+he/she shall be removed
+from the position.
+XUI...
+E
+Townltall
+i.
+There shall be an institute townhall meet once in every semester.
+ii.
+The General Secretary,
+Student Senate shall send notice of the meeting to
+the General
+Student Body after consultation
+with the Director.
+iii,
+The General
+Secretary,
+Student Senate shall be the moderator
+of the
+townhall meet.
+CHAPTER ..
+XIV
+Elections
+Election of General Secretary, Student Senate, SAC and ACAC
+i.
+a.
+For
+an
+Undergraduate
+Student,
+should
+have
+completed
+a
+minimum of 4 semesters and have minimum
+1 CGPA.
+b.
+For a Postgraduate
+Student, should have completed
+a minimum
+of
+2 semesters
+and have minimum 7 CGPA.
+c.
+The contesting
+candidate
+should not be having any backlog.
+ii.
+Must have at least one' of the following.
+a.
+Served
+as a Vice President
+of any of the Boards
+in the SAC
+IACAC
+
+b.
+Served at the level of Student Co-ordinator
+of any Society in any
+of the Boards
+in the SAC or ACAC or its equivalent.
+iii,
+Should not have any disciplinary
+action taken against him/her
+by the institute.
+IV.
+The General
+Secretary,
+Student
+Senate, SAC and ACAC
+are elected through
+a
+General Body Election.,
+conducted
+by the Election
+Committee
+(EC).
+XIV-B
+Election of Vice President,
+Boards
+1.
+The Vice Presidents
+of Boards would be elected within the Board.
+ii.
+The Student Co..
+ordlnators of the Societies (or equivalent)
+pertaining
+to the
+Board can contest in the election.
+iii.
+The SOP and manifesto
+shall be submitted
+to the President,
+Board within the
+timeline
+decieded
+by the Ee.
+iv.
+The electoral
+college will be decieded by the respective
+Board constitution,
+and be approved
+by theBe.
+v:
+Each voter shall have only one vote.
+vi.
+In case of a tie, the President
+of the Board shall break it.
+vii.
+The procedure
+and its transparency
+of the elections
+shall be overseen
+by the
+Election
+Committee.
+XIV-C
+Election of Student Co...
+ordlnators,
+Societies
+"
+i.
+The Student Co-ordiantor,
+Society would be elected within the Society (or
+equivalent).
+li,
+Any member
+of the Society can contest in the election.
+iii.
+The SOP and manifesto
+shall be submitted
+to the President,
+Board within the
+timeline
+decieded
+by the Be.
+lv.
+The electoral
+college
+will be decleded
+by the respective
+Board constitution,
+and be approved
+by the Ee.
+v.
+Each voter shall have only one vote.
+vi.
+In case ora tie, the President
+of the Board shall break it.
+vii.
+The procedure
+and its transparency
+of the elections
+shall be overseen by the
+Election
+Comm ittee,
+
+XIV-D
+Election Committee (EC)
+i,
+The Chainnan-SAC/ACAC shall appoint an Election Commissioner who will
+be a faculty member of the Institute.
+ii.
+The Election Commissioner
+who is the returning officer, in consultation
+with
+the student senate, will nominate 6 student nominees.
+in.
+The returning officer and the student nominees will form the Election
+Committee
+(Ee).
+iv.
+The Election Commissioner will act as the Chairman, Election Committee.
+v.
+The role of the Election Committee is to conduct the election of General
+Secretary, Student Senate, and General Secretary SAC & ACAC.
+,.
+vi.
+The Election Committee shall also oversee the election procedures for the
+Vice President, Board.
+vii.
+The Ee shall decide the date of the election, which shall be before the second
+minor examination of the Spring Semester.
+viii.
+The EC shall frame the rules for conducting the election with the approval of
+Dean (Students) and Dean (Academics). The EC shall release the Standard
+Operating Procedure (SOP) of the elections seven days prior to the start of
+nominations to the post of General Secretary, Student Senate, SAC and
+ACAC.
+ix,
+The election shall take place through a secret ballot. However, in exceptional
+circumstances,
+where voters cannot physically cast a vote, online polling
+shall be conducted
+after the consent from Dean,
+Students
+and
+Dean,
+Academics.
+x,
+The Returning Officer may declare provisional results immediately after the
+counting of the votes and shall submit the results of the elections to the Deans
+for ratification. The Election Committee will decide on all matters related to
+the election.
+xi.
+The decision of the Returning Officer shall be final and binding. However,
+under exceptional
+circumstances, an appeal may be made to the Chairman-
+SAC/ACAC.
+xii.
+For unopposed candidates, the number of votes in favour of the candidate
+should be greater than the number of votes against the candidate (neutral
+votes are excluded); for the candidate to get elected. In case, the candidate
+does not get.elected, nominations will be called for the post and in this case,
+the rejected candidate will not be eligible to apply for the same post.
+XIV-E
+Oversigbt Committee (OC) ofEleetion
+i,
+The Chairman,
+SAC/ACAC
+shall constitute an Oversight Committee of
+Election and will act as the Chairman of the same.
+u,
+The member of the committee
+will be Dean, Student Affairs, Dean,
+Academics, Associate Deans, Students and Associate Deans, Academics.
+iii.
+The oversight committee will address all issues and grievances related to the
+election procedure ..
+xiii
+
+CHAPTER-XV
+Impeachment
+XV-A
+Impeachment
+of Genera) Secretary, Student Senate
+i.
+The impeachment procedure of General Secretary, Student Senate can be
+initiated by any registered student of HT Jodhpur strictly on the basis of
+a.
+Failure in delivering assigned roles and responsibilities to the
+satisfaction of General Student Body, or
+b. Misconduct during the term of holding office, or
+c.
+Failure in abiding rules of the constitution.
+H.
+The claim with proper documented evidence shall be submitted to Dean,
+Students and Dean, Academics who shall have a first check and further
+forward it to the Council (SACI ACAC).
+iii.
+The Chairman can nominate a committee, which shall investigate on the
+complaint, and report back to the Council.
+Iv,
+The General Secretary ~Student Senate shan be impeached if2/3rd of the
+total strength of the Council present in the meeting finds the complaint of
+the aggrieved student to be genuine.
+v.
+In case of a tie, ~hedecision of the Chairman shall be final as per XI..
+A..vi.
+XV-B
+Impeachment
+of General Secretary, Board
+i,
+The impeachment procedure of General Secretary, Board can be initiated by
+any registered student of liT Jodhpur strictly on the basis of
+,~
+a.
+Failure in delivering assigned roles and responsibilities to the
+satisfaction of General Student Body, or
+b. Misconduct during the term of holding office, or
+c.
+Failure in abiding rules of the constitution.
+ii,
+The claim with proper documented evidence shall be submitted to President,
+Board who shall investigate on the complaint and report to the Council.
+iii.
+The General Secretary, Board shall be impeached if the Council finds the
+complaint of the aggrieved student to be genuine.
+iv.
+The decision of the Chairman shall be final as per XI-A-vi.
+xv-c
+Impeachment
+of Student Coordinator,
+Society
+i,
+The impeachment procedure of Student Coordinator, Society can be
+
+initiated
+by any registered
+student of lIT Jodhpur
+strictly on the basis of
+a.
+Failure in delivering
+assigned roles and responsibilities
+to the
+satisfaction
+of General Student Body, or
+b.
+Misconduct
+during the term of holding office, or
+c.
+Failure in abiding rules of the constitution.
+ii.
+The claim with proper documented
+evidence shall be submitted
+to President,
+Board.
+iii.
+The President,
+Board shall investigate on the complaint
+and shall also take
+inputs from the General Secretary,
+Board and General Secretary,
+Student
+Senate.
+iv.
+The Student Coordinator,
+Society shall be impeached
+if the President,
+Board
+finds the complaint
+of the aggrieved
+student to be genuine.
+v,
+For Board of Hostel Affairs, the Student Coordiantor
+shall be read as Hostel
+General Secretary.
+vi.
+The decision of the President,
+Board shall be final.
+The position
+of the impeached
+shall be filled by a re-election
+or a nomination
+as per
+the election
+norms of the Constitution
+(XIV) and/orthe
+Board Constitution,
+within,
+I§ days of the impeachment.
+'
+-
+' ,
+CHAPTER-XVI
+Interpretation
+and Amendment
+XVI ..A Amendment
+i.
+Any part of the constitution
+except the preamble,
+tenus of reference
+and
+Chapter -XVI
+are subject to amendments.
+ii.
+The clauses mentioned
+in XVI-A-i can be amended
+only on the basis of any
+modifications
+of lnstltute policy. Such amendments
+can be initiated only by
+the Chairman-SAC/ACAC.
+iii.
+The amendment
+of the document
+shall be drafted by the Student Senate and
+presented
+it to the SAC/ACAC.
+iv,
+SAC/ACAC
+can appoint a review committee
+for the same.
+Y.
+The review committee
+should present the amendments
+to SAC/ACAC
+for
+recommendation
+to present in the Senate for flnal approval.
+vi.
+A 213m majority
+of the Council present in the meeting should be in favour of
+the amendment
+proposed.
+vii.
+The quorum of the meeting should be atleast 30%.
+
+viii.
+In case of a tie, and in case of any other conflict of interest among the
+council members, the decision
+of the Chairman, SAC/ACAC
+shall be the
+final and binding as per XI-A-vi.
+XVI..
+B Interpretation
+In the event of a difference
+or dispute with regard to interpretation
+of the intended
+meaning of any existing provision
+of this Constitution,
+the same may be referred to
+the Chairman,
+SAC/ACAC; the decision
+of the Chairman,
+SAC/ACAC
+shall be
+" final on all matters and shall be binding on the SAC/ACAC
+as a whole.
+
+Office of Academics
+Indian Institute
+of Technology Jodhpur
+SN
+Activity
+Academic
+Calendar:
+Semester
+..I, Academic
+Year 2021-22
+All PG and UG
+UG 2nd Year UG 1st Year
+3rd It 4th Year
+17 Aug
+1 Fee link activation
+for Semester 1
+12 July
+12 Jury
+.ji.;
+17 July
+23 Aug
+:c Last day of Fee payment
+17 July
+17-22 July
+22 July
+.~. eommencemenf~efala~$
+tor~lJG~~~~'I~
+>~r~-, '
+. ,,\ .
+~..
+~ ~'t,
+.(tnclUdJng M8~J _M~t~n,.AI
+' i _' '23 JUI.!y;"·~
+6:AU'~
+<'
+~. ::·.ExeeUt,ye aniLM.MT>
+"
+<
+~
+f,;
+-:
+~
+.,:
+-,
+,.:t
+.,..
+•«r
+_"
+..
+4 Orientation for New Students
+19...
+20 July
+Registration for Old UG & PG Students
+5
+(including MBA, M.Tech. AI Executive
+and Mj'v1T)
+17-22 July
+6 Last date of registration
+to be
+22 July
+approved by the Faculty advisors
+9 Late Registration and Last date of Add'
+30 July
+'I Drop of Courses
+Course withdrawal
+from the
+10 Instructors
+and adding courses in lieu
+of dropped courses
+2 Aug
+11 Foundation Day Celebration
+2 Aug
+14 Student Feedback Fractal 1 courses
+25 Aug.
+15 Fractal 1/2 Withdrawal.! Add"
+.26 Aug
+17 Fractal 2 BegIns
+3 Sep
+19 Last date of showing First Minor
+16 Sep
+16 Sep
+8 Oct
+I
+.
+.Semester Examination
+marks
+18 Last date of course withdrawal
+request
+13 Sep
+21 Comprehensive week
+1-7 Oct
+23 Student Feedback Fractal 2 courses
+4 Oct
+4 Oct
+
+21 Oct
+21 Oct
+21 Oct
+22 Oct
+22 Oct
+17 Nov
+Notes:
+1.
+Lectures on the following
+days will be held with
+the
+schedule
+of the days
+mentioned against them:
+All Students ex~ludingUG 1st It 2nd Year
+(A)
+Monday, 26 July 2021: Thursday's
+Time Table wlll be followed
+(8)
+Wednesday I 27 October 2021: Friday's Time Table will be followed
+B.Tech 2nd Year
+(A)
+Saturday, 14 Aug 2021: Monday's
+Time Table will be fonowed
+(8)
+Saturday, 28 Aug 2021: Tuesday's Time Table will be followed
+(C)
+Saturday, 4 Sep 2021: Thursday's
+Time Table will be followed
+(0)
+Saturday I 11 Sep 20.21: Monday's Time Table wilLbe followed
+(E)
+Saturday,
+18 Sep 2021: Tuesday's Time Table wUi be followed
+(F)
+Saturday, 25 Sep 2021: Thursday's
+TIme Table will be followed
+(G)
+Wednesday, 27 October 2021:
+Friday's Time Table will be followed
+B.Tech 1st
+Year
+(C)
+Saturday, 4 Sep 2021.: Thursday's
+Time Table will be followed
+(D)
+Saturday,
+11 Sep 2021: Monday's Time Table will be followed
+(E)
+Saturday,
+18 Sep 2021: Tuesday's Time Table will be followed
+(D)
+Saturday, 23 Oct 2021: Tuesday's Time Table will be followed
+(E)
+Wednesday, 27 october
+2021:
+Friday's Time Table will be followed
+(E)
+Saturday, 30 Oct 2021: Wednesday's Time Table will be followed
+(F)
+Saturday, 13 Nov 2021: Monday's
+Time Table will be followed
+(G)
+Saturday, 27 Nov 2021: Tuesday's Time Table will be followed
+(H)
+Saturday, 4 Dec 2,021: Wednes~ay's Time Table will be followed
+
+2.
+Session for All programmes including MBA, MMT, and M.Tech. AI (Executive)
+wtll
+start from 23 July 2021
+3.
+If the Government
+of India announces any additional Holiday on a working' day,
+then one of the Saturday(s)/Sunday(s)
+will be observed as a working day
+4.
+If the requisite number of lectures cannot be scheduled, the instructors
+may, in
+consultation
+with the students in their respective courses, decide on a schedule of extra
+classes. A regular course has an engagement of 14 lectures (one lecture of SOminutes)
+p~r one credit.
+S.
+There will be no extra classes on Gazetted Holidays.
+6.
+Saturdays
+and Sundays falling
+within the examination
+period wUI be used for
+scheduling examinations.
+Under extraordinary
+circumstances, examinations
+of some of
+the courses may be scheduled on the days preceding the mid-semester/end
+semester
+exemtnattons,
+7.
+Summary of the total number of teaching days is 'given in the table below:
+s.
+No.
+Days
+Distribution
+of Weekdays
+All PG··UG 3rd
+•
+4th
+UG 2nd Year
+,
+..
+_.
+-
+Year.
+UG 1st Year
+L
+14
+Mondays
+14
+14
+14
+2.
+Tuesdavs
+14
+14
+3.
+Wednesdays
+15
+14
+14
+4.
+5.
+Total nos. of
+Teaching:
+Days
+Thursdays
+Fridays
+8.
+List of hoHdays
+Institute
+H()lidays Calendar for the Year 2021
+26 January 2021
+11 March 2021
+29 March 2021
+02 April 2021
+25 April 2021
+21 July 2021
+1.
+s. SN
+Date
+'Day
+Holiday
+Republic Day
+Tuesday
+Thursday
+3.
+Monday
+Friday
+Good Frldav
+5.
+Sunday.
+f- MahavIr Javantl
+6.
+Friday
+Idu'l Fitr *
+7.
+Wednesday
+Buddha Purnima
+8.
+Wednesday
+IO..ul-Zuha (Bakrid) *
+9..
+Sunday
+Independence
+Day
+10.
+Thursday
+Muharram *
+11.
+Monday
+.Janmasthmi
+(Smarta)
+12.
+Saturday
+Mahatm~ Gandhi's Birthday
+13.
+Thursday
+Dussehra fMahanavmi)
+(in lieu of RH)
+14.
+Friday
+Dussehra (Vijay Oashmi)
+
+.'
+15.
+19 Oct 2021
+Tuesday
+Milad...
+un...
+Nabi or Id-e-Mllad=
+..
+(birthday
+of PrQphet Mohammad)
+16.
+04 Nov 2021
+Thursday
+DiwaH (Deepavali)
+17.
+05 Nov 2021
+Friday
+Govardhan Puja (in lieu of RH)
+18.
+19 Nov 2021
+Friday
+Guru Nanak's Birthday
+19.
+25 Dec 2021
+Saturday
+Christmas
+Day
+*May be changed, subject to any further order of Centraf/State
+Govemment,
+if any
+*" List of Holidays for Year 2021 has been taken from DoPT Order

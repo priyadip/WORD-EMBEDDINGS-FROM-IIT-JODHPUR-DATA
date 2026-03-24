@@ -1,0 +1,15 @@
+ashish pathak assistant professor school phd
+university of massachusetts dartmouth email apathak biotech interaction ocean energy problems multiphase flows high performance computing call language web profile about joined iit jodhpur as an assistant professor in mechanical engineering in may
+completed my and in mechanical engineering from iit kharagpur
+during my undergraduate research with ghosh moulic became interested in numerical methods for modeling fluid flows particularly those with discontinuities such as shocks and multiphase phenomena
+for my thesis evaluated numerical schemes for shock modeling in an adaptive mesh framework
+my thesis involved developing an code for simulating mixed convection film condensation using coordinate transformation and mesh to address matrix stiffness solved via perturbation methods
+pursued my at the university of massachusetts dartmouth under mehdi raessi focusing on flows interacting with moving rigid bodies
+due to significant interface deformation used the method on fixed grid avoiding remeshing and enabling large topological changes
+this solver was applied to ocean wave energy converters yielding key insights into dynamic similarity
+as postdoctoral fellow at umass dartmouth studied droplet dynamics from interactions and developed solver for evaporating deforming interfaces
+university of massachusetts dartmouth email apathak biotech interaction ocean energy problems multiphase flows high performance computing call language web profile ashish pathak assistant professor school phd
+university of massachusetts dartmouth email apathak biotech interaction ocean energy problems multiphase flows high performance computing call language web profile school phd
+university of massachusetts dartmouth phd
+university of massachusetts dartmouth email apathak apathak biotech interaction ocean energy problems multiphase flows high performance computing interaction ocean energy problems multiphase flows high performance computing language web profile about joined iit jodhpur as an assistant professor in mechanical engineering in may
+joined iit jodhpur as an assistant professor in mechanical engineering in may

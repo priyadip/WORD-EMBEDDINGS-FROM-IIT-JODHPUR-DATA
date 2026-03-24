@@ -1,0 +1,13 @@
+congratulations to gaurav bhatnagar et al
+for the acceptance of their research article in the journal ieee transactions on dependable and secure computing title knowledge driven description synthesis for floor plan interpretation authors goyal chattopadhyay and bhatnagar journal international journal on document analysis and recognition volume in press year publisher springer abstract image captioning is widely known problem in the area of ai
+caption generation from floor plan images has applications in indoor path planning real estate and providing architectural solutions
+several methods have been explored in the literature for generating captions or semistructured descriptions from floor plan images
+since only the caption is insufficient to capture details researchers also proposed descriptive paragraphs from images
+however these descriptions have rigid structure and lack exibility making it difficult to use them in scenarios
+this paper offers two models description synthesis from image cue dsic and description generation tbdg for text generation from floor plan images
+these two models take advantage of modern deep neural networks for visual feature extraction and text generation
+the difference between both models is in the way they take input from the floor plan image
+the dsic model takes only visual features automatically extracted by deep neural network while the tbdg model learns textual captions extracted from input floor plan images with paragraphs
+the specific keywords generated in tbdg and understanding them with paragraphs make it more robust in general floor plan image
+experiments were carried out on large scale publicly available dataset and compared with techniques to show the proposed model superiority
+title knowledge driven description synthesis for floor plan interpretation authors goyal chattopadhyay and bhatnagar journal international journal on document analysis and recognition abstract image captioning is widely known problem in the area of ai

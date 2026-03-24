@@ -1,0 +1,834 @@
+SOURCE_PDF: 5be458d21db5_Annual-Rate-Contract-for-Supply-of-laboratory-Chemicals_-Lab-wares_-Glasswares_-Plastic.pdf
+
+Tender for
+Annual Rate Contract for Supply of laboratory Chemicals, Lab wares, Glasswares,
+Plastic wares, Lab Consumables and Gases At Indian Institute of Technology
+Jodhpur
+Bids to be submitted online (CPPP)
+for
+(Technical and Financial bid as per schedule of requirement)
+NIT No: IITJ/SPS/2025-2026/RC/02 dated 05 June 2025
+Office of Stores & Purchase
+IIT Jodhpur, Institute Building (East),
+NH-62, Nagaur Road, Karwar,
+Jodhpur-342037, Rajasthan
+
+Name of Organization Indian Institute of Technology Jodhpur
+Open Tender Notice No. (NIT) IITJ/SPS/2025-2026/RC/02 dated 05 June 2025
+Tender Type
+(Open/Limited/EOI/Auction/Single) Open
+Tender Category (Services/Goods) Goods
+Type/Form of Contract (Supply/ Auction/
+Service/ Buy/ Empanelment/ Sell) Buy
+Product Category Annual Rate Contract for Supply of laboratory
+Chemicals, Labware, Glassware, Plastic wares, Lab
+Consumables and Gases
+Is Multi-Currency Allowed No
+Date of Issue/Publishing 05/06/2025 (18:00 Hrs)
+Document Download/Sale Start Date 05/06/2025 (18:05 Hrs)
+Document Download/Sale End Date 26/06/2025 (18:00 Hrs)
+Last Date and Time for Uploading of Bids 26/06/2025 (18:00 Hrs)
+Date and Time of Opening of Technical Bids 27/06/2025 (18:00 Hrs)
+No. of Covers (1/2/3/4) 02
+Bid Validity days (180/120/90/60/30) 180 days
+Delivery 15 Days from the Date of the Order(s) for domestic
+supply/ service.
+30 Days from the Date of the Order(s) for imported
+supply.
+Earnest Money Deposit (in the form of FDR) Rs. 5,00,000/-
+Any Clarification Deputy Registrar (SPS)
+Office of Stores & Purchase,
+Institute Building (East), IIT Jodhpur,
+NH-62, Nagaur, Road, Karwar, Jodhpur-342030
+Contact No.: 0291-2801105
+eMail: sps@iitj.ac.in
+Page 2 of 25
+SCHEDULE
+
+Page 3 of 25
+Indian Institute of Technology Jodhpur (hereinafter referred to as the “Institute”), an Educational Institute 
+of National Importance, invites online Bids in a two-bid format for “Annual Rate Contract for Supply of 
+laboratory Chemicals, Labware, Glassware, Plastic wares, Lab Consumables and Gases” at the Institute 
+as per the list at Annexure-I to the Tender form. All offers should be made in English and should be written 
+in both figures and 
+words. Tender forms can be downloaded from the CPP Portal
+(http://eprocure.gov.in/eprocure/app) & Institute website. The bidders are requested to read the tender 
+document carefully and ensure compliance with all instructions herein. Non-compliance with instructions 
+in this document may disqualify the bidders from the tender exercise. The Director, IIT Jodhpur, reserves 
+the right to select the item (in single or multiple units) or to reject any quotation wholly or partly. 
+Incomplete tenders, amendments, and additions to tender after opening or late tenders are liable to be 
+ignored and rejected.
+1. Instructions for Online Bid Submission
+1.1. There are various search options built in the CPP Portal to facilitate bidders to search active
+tenders by several parameters. These parameters could include Tender ID, organisation name, 
+location, date, value, etc. There is also an option of advanced search for tenders, wherein the 
+bidders may combine a number of search parameters such as organisation name, the form of 
+contract, location, date, other keywords etc., to search for a tender publishing on the CPP 
+Portal.
+1.2. Bidders should take into account any corrigendum published on the tender document before
+submitting their bids.
+1.3. The bidder will go through the tender advertisement and the tender document carefully to
+understand the documents required to be submitted as part of the bid. Please note the number 
+of covers in which the bid documents have to be submitted and the number of documents – 
+including the names and content of each of the documents that need to be submitted. Any 
+deviations from these may lead to the rejection of the bid.
+1.4. The tenders will be received online through the portal http://eprocure.gov.in/eprocure/app.
+In the Technical Bids, the bidders are required to upload all the documents in .pdf format. All 
+bids, both Technical and Financial, should be submitted in the e-Procurement portal.
+1.5. Possession of a Valid Class II/III Digital Signature Certificate (DSC) in the form of a smart
+card/e-token in the company's name is a prerequisite for registration and participating in the 
+bid submission activities through http://eprocure.gov.in/eprocure/app. Digital Signature 
+Certificates can be obtained from authorised certifying agencies, details of which are available 
+on the website https://eprocure.gov.in/eprocure/app under the link “Information about 
+DSC”.
+1.6. The Institute will not be responsible for any type of technical issue regarding uploading
+bids/offers on the website.
+2. Searching for Tender Documents
+2.1. Once the bidders have selected the tenders they are interested in, they may download the
+required documents/tender schedules. These tenders can be moved to the respective ‘My 
+Tenders’ folder. This would enable the CPP Portal to intimate the bidders through SMS/e-mail 
+in case there is any corrigendum issued to the tender document.
+2.2. The bidder should make a note of the unique Tender ID assigned to each tender in case they
+want to obtain any clarification/help from the Helpdesk.
+
+Page 4 of 25
+3. Preparation of Bids
+3.1. Bidder, in advance, should get ready the bid documents to be submitted as indicated in the
+tender document/schedule, and generally, they can be in PDF / XLS formats. Bid documents 
+may be scanned with 100 dpi with black and white option.
+3.2. To avoid the time and effort required in uploading the same set of standard documents which
+are required to be submitted as a part of every bid, a provision of uploading such standard 
+documents (e.g., PAN card copy, annual reports, auditor certificates etc.) has been provided to 
+the bidders. Bidders can use “My Space” are available to them to upload such documents. 
+These documents may be directly submitted from the “My Space” area while submitting a bid 
+and need not be uploaded again and again. This will lead to a reduction in the time required 
+for the bid submission process.
+4. Submission of Bids
+4.1. The bidder should log into the website well in advance of bid submission so that he/she
+uploads the bid in time, i.e., on or before the bid submission time. Bidder will be responsible 
+for any delay due to other issues.
+4.2. The bidder has to digitally sign and upload the required bid documents one by one, as
+indicated in the tender document.
+4.3. The bidder may add rows to include the prices of all components & warranties, installation
+etc., whichever is applicable.
+4.4. The server time (which is displayed on the bidders’ dashboard) will be considered as the
+standard time for referencing the deadlines for submission of the bids by the bidders, the 
+opening of bids etc. The bidders should follow this time during bid submission.
+4.5. The uploaded tender documents become readable only after the tender opening by the
+authorised bid openers.
+4.6. Upon the successful and timely submission of bids, the portal will give a successful bid
+submission message & a bid summary will be displayed with the bid no. and the date & time 
+of submission of the bid with all other relevant details.
+4.7. Kindly add a scanned PDF of all relevant documents in a single PDF file of the compliance
+5. Assistance to Bidders
+5.1. Any queries relating to the tender document and the terms and conditions contained therein
+should be addressed to the Tender Inviting Authority for a tender or the relevant contact 
+person indicated in the tender.
+5.2. Any queries relating to the process of online bid submission or queries relating to the CPP
+Portal, in general, may be directed to the 24x7 CPP Portal Helpdesk. The contact number for 
+the helpdesk is 0120-4200462, 0120-4001002, 0120-4001005,0120-6277787.
+6. Instruction for Bidders
+6.1. Technical Bid should be submitted in PDF format. 
+6.2. Financial Bid should be submitted in. XLS Format.
+
+Page 5 of 25
+6.3. Kindly add scanned PDFs of all relevant documents in a single PDF file like compliance sheet,
+OEM/Principal Certificate etc.
+6.4. The technical and financial bids should be submitted online through the portal
+http://eprocure.gov.in/eprocure/app in original. The financial bid should include the cost of 
+the main item and its accessories if there is any separate cost for installation etc., that should 
+be quoted separately.
+6.5. Each bidder should be marked with the following reference on the top bids submitted online:
+“IITJ/SPS/2025-2026/RC/02 dated 05 June 2025”.
+6.6. The printed literature and catalogue/brochure giving full technical details should be included
+with the technical bid to verify the specifications quoted in the tender. The bidders should 
+submit copies of suitable documents in support of their reputation, credentials, and past 
+performance in .pdf format.
+6.7. The discount offered should be quoted in figures and words both in the BOQ on FOR basis
+including transportation, safe packaging, custom charges & any other charges (if any).
+6.8. Amendment of Bidding Documents: At any time prior to the deadline for submission of bids,
+IIT JODHPUR may, for any reason, whether on its own initiative or in response to the 
+clarification request by a prospective BIDDER may, modify the bid document. All prospective 
+Bidders who have downloaded the bidding document may visit the IIT JODHPUR website 
+/https://eprocure.gov.in/eprocure/app for amendments /modifications, which will be binding 
+on them.
+6.9. The technical offer should not contain any price/ discount information. Please do not insert
+‘Financial Bid” (prices quoted) in the technical bid envelope. If the price quoted is submitted 
+with a technical bid, the tender will be rejected.
+7. Online Bid Prices
+7.1. The Bidder shall indicate on the Price Schedule the per unit discount offered on catalogue price
+of the goods/ items it proposes to supply under the Contract. To this end, the Bidders are 
+allowed the option to submit the online bids for any one or more schedules specified in the 
+"Schedule of Requirement" and to offer discounts for combined schedules.
+7.2. The bidder should quote (i) the maximum discount (in percentage) on the catalogue printed
+price for chemicals/solvents/other lab consumables and (ii) refilling of gases - rate per litre 
+basis, including of all on FOR IIT Jodhpur basis. The soft copies of the catalogue will be 
+submitted to the Institute.
+7.3. For goods/ services offered:
+a. The price of the goods should be quoted on a destination basis; charges towards freight,
+any sales or other taxes/ duties, inland transportation, insurance and other local costs 
+incidental to the delivery of goods etc., are included in the quoted price. Any additional 
+cost would not be payable to the bidder, if the contract is awarded.
+b. Concession/Exemptions: IIT Jodhpur being an academic Institute, is entitled to avail of
+Customs Duty exemptions in terms of Notfn. No. 51/96 dated 23.07.1996, Notfn. No. 
+28/2003- Customs dt. 01/03/2003, Notfn. No.43/2017- Customs dt. 30/06/2017 & notfn. 
+No. 47/2017- Integrated Tax (Rate) dt. 14/11/2017, Notfn. No. 1012018-Integrated Tax 
+(Rate) dt.25/0/2018 and Notfn. No. 45/2017-Central Tax (rate) dt. 14/11/2017, Notfn. No. 
+45/2017-Union Territory Tax (Rate) dt. 25/01/2018 as amended from time to time.
+
+Page 6 of 25
+Presently this is valid till 31.08.2021 vide Order No. TUN/RG-CDE(1145)12016 
+Dt.2810212018 issued from DSIR-Min. of Sc.& Tech; Govt. of India. Institute will issue the 
+exemption certificate on request.
+c. In case of Any variation in charges or duties, as determined by the government, will be
+applied in accordance with the actual changes in the charges
+8. Pre-Qualification and Technical Specification Criteria
+8.1. The Bidder shall be an OEM/Manufacturer or Authorized Dealer with a tender-specific
+authorization letter that should be uploaded.
+8.2. Original manufacturer(s) or Authorized Dealer should have a minimum of 03 (Three) financial
+years of experience in similar work with minimum ten numbers of orders. Copy of such 
+Purchase orders/invoice/payment receipt along with satisfactory work completion certificate 
+in support of above must be attached with technical bid. A list of Government / PSU 
+/Academics Institutions / Autonomous Bodies / Organisation/ Medical Colleges / 
+Departments must be attached as per Annexure-II.
+8.3. Bidder should upload the financial statements with net profit, duly audited/certified by a
+Chartered Accountant (CA) of the last three financial years (FY 2021-22, 2022-23, 2023-24), 
+along with copies of Income Tax Return (ITR) of last three financial years, must be enclosed 
+with the technical bid.
+8.4. Bidder should have a minimum Annual Business Turnover of Rupees of One Crore for each of
+the last three financial years (FY 2021-22, 2022-23, 2023-24).
+8.5. No exemption will be given to MSE/ Startup/ NSIC registered firms for average annual turnover
+& past experience.
+8.6. A Certificate/Undertaking on notary stamp paper of minimum Rs. 100/- with mentioned that
+the bidder/OEM had not been blacklisted/ contemplated anywhere in India by any 
+organisation during the last two years. No civil/ criminal case should be pending against the 
+bidder in any court in last two years from the last date of bid submission.
+8.7. GST Registration Certificate. 
+8.8. The bidder shall upload the entire bid document, including the specification document and
+compliance sheet duly ink signed & stamped on each page as proof of acceptance of all the 
+terms and conditions of the bid.
+8.9. The bidder should possess a valid Drug License (as applicable) issued by the State Licensing
+Authority/Central Licensing Approving Authority (wherever applicable) of the respective 
+Bidder. A copy of the license must be submitted with the technical bid.
+8.10. 
+The Bidder/OEM shall submit MII ink-signed & stamped self-declaration for local content
+on letterhead.
+8.11. 
+The bidder should provide his Manufacturer's Authorization Certificate from a particular
+OEM to bid for this Annual Rate Contract Tender from OEM's Head Office.
+8.12. 
+Only one manufacturer or its authorised dealer can quote. If both Manufacturer and dealer
+quote for the same tender, both of their tenders will be rejected.
+8.13. 
+The bidder who wants to quote for more than one brand needs to provide Manufacturer’s
+Authorization for each brand, failing which such offers shall not be considered.
+8.14. 
+Bidders may note that the mere conclusion of the rate contract does not guarantee the
+placement of purchase orders; rather, the orders shall be placed based on the demand from the 
+users.
+
+Page 7 of 25
+9. Evaluation Criteria
+9.1. Evaluation of the Technical bid will be based on strict compliance, as per the terms &
+conditions mentioned in the Bid document.
+9.2. Even though any bidder may satisfy the above requirements, they would be liable to
+disqualification if he/she has: 
+i. 
+Made misleading or false representations or deliberately suppressed the information in 
+the forms, debarment/ blacklisting of the firms, statements and enclosures required in 
+the eligibility criteria document.
+ii. 
+Record of poor performance such as abandoning work, not properly completing the 
+contract, or financial failures/weaknesses etc.
+9.3. Based on the results of the technical evaluation, the Commercial offer of a technically qualified
+bidder will be opened for financial evaluation.
+10. Supplier’s Obligation
+10.1. 
+Bidder is liable for safe & secure transportation at his/her own cost. No additional amount
+will be paid to bidder for transportation.
+10.2. 
+Items’ safe packing (i.e. fragile packaging & packed in dry ice) will be the responsibility of
+the bidder, so that the chemical’s/item’s quality/ form would not deteriorate at the delivery 
+location without any additional charges.
+10.3. 
+The supplier must do the free replacement in case of any defect/discrepancy is found
+regarding the quality/quantity of material supplied & taken back the rejected material with 
+the consent of the indenter on his/her own cost.
+10.4. 
+Supply should be made from the latest batch of products with the manufacturing and
+expiring date (maximum life period) on the original packing. The stores supplied will have to 
+be of high quality & grade, and if chemicals are found to be of inferior quality, the supplier is 
+liable to be banned or suspended from doing business in IIT Jodhpur and other Govt. 
+organisations. Details of quality control procedures/certification from Government labs 
+should also be submitted along with the offer.
+10.5. 
+Earnest Money Deposit: The bidder will submit the Earnest Money Deposit (EMD) of Rs.
+5,00,000/- (Rupees Five Lakhs only) in the form of a Bank Guarantee, Fixed Deposit or Demand 
+Draft of a scheduled bank in the name of the Director, IIT Jodhpur, valid for 90 days from the 
+date of opening of the tender. The bidder will upload a scanned copy of the EMD and should 
+submit the original EMD on or before the last date of the bid submission at the Office of Stores 
+& Purchase, IIT Jodhpur. Any bid without EMD shall not be considered.
+However, in addition to the above, as per Rule 170 of GFR 2017, “Micro and Small 
+Enterprises (MSEs) as defined in MSE Procurement Policy issued by the Department 
+of Micro, Small and Medium Enterprises (MSME) or are registered with the Central 
+Purchase Organisation or the concerned Ministry or Department [or Startups as 
+recognized by Department for Promotion of Industry and Internal Trade (DPIIT)” are 
+exempt from submission of EMD (Bid security). Still, the firm must submit valid 
+MSME registration documents for exemption in EMD and should not be considered 
+for technical evaluation. The EMD of the successful bidder will be returned on 
+submission of PBG after placement of the work order. The EMD of the unsuccessful 
+bidder will be returned within 30 days after the finalisation of the tender.
+
+Page 8 of 25
+10.6. 
+Payment Terms: 100% after delivery at IIT Jodhpur and on submission of GST bills verified
+by the Indenter. The payment being claimed is strictly in terms of the contract, and all 
+obligations on the part of the supplier for claiming this payment have been fulfilled as required 
+under the contract.
+10.7. 
+Performance Security: The successful tenderers will have to submit a bank guarantee from
+any nationalised bank as security within 15 days from the date of receiving the contract order, 
+which should be valid for at least 14 months (One year of the contract plus 60 days) from the 
+date of agreement in the form of fixed deposit receipt (FDR) / Irrevocable Bank Guarantee 
+issued by any nationalised bank in the prescribed format. The performance security as 
+furnished by the Contractor shall remain valid for sixty days beyond the completion date of 
+all the contractual obligations.
+(a) For chemicals/Solvent/other laboratories consumables – Rs. 5 lacs (Rupees Five Lacs 
+Only). 
+(b) 
+For refilling of Gasses – Rs. 02 Lacs (Rupees Two Lacs Only).
+The said PBG would be refunded/returned after the completion of the contractual obligation. 
+However, the Director, IIT Jodhpur, will have the discretion for the forfeiture of the 
+performance bank guarantee in case of breach of contract by the contractor. On the extension 
+of the Contract, the Contractor should submit the new PBG for the extended contract on 
+bidders’ cost. The IIT Jodhpur will return the old PBG after receiving of the new PBG to the 
+contractor within 15 days.
+10.8. 
+Purchase Orders placed till the last working day of the rate contract should be honoured
+and executed under the rate contract without any need for an extension of the rate contract.
+11. Terms of the Committee
+11.1. 
+On the due date, the technical bids will be opened and referred to the Purchase Finalization
+Committee (PFC), which is duly constituted by the Director IIT Jodhpur. The committee will 
+go through the technical aspects of the tender and recommend short-listed firms. The 
+recommendation of the PFC is the final and binding on all the parties.
+11.2. 
+The technical evaluation will be an assessment of the Technical Bid. IIT Jodhpur
+representatives will proceed through a detailed evaluation of the Technical Bids as defined in 
+the Schedule of requirements, specifications and allied technical details in order to determine 
+whether they are substantially responsive to the requirements set forth in the tender. In order 
+to reach such a determination, IIT Jodhpur will examine the information supplied by the 
+BIDDERs and shall evaluate the same as per the specifications mentioned in this tender.
+11.3. 
+The PFC will examine all the technical aspects of the bids received. Further, the PFC may
+seek additional information from the existing users at IIT Jodhpur or from other Institutes and 
+also call for technical presentations from the BIDDERs if it is required so.
+11.4. 
+The information received and the bids already submitted together will be examined with
+reference to the tendered specifications, and an evaluation is made by the PFC.
+11.5. 
+After the technical evaluation is completed and approved, IIT Jodhpur shall inform the
+BIDDERs whose bids have been rejected technically with the reasons for rejection on the e-
+Procurement Portal (https://eprocure.gov.in/eprocure/app).
+11.6. 
+The successful BIDDERs will be informed regarding the date and time of Commercial bid
+
+Page 9 of 25
+11.7. 
+The purpose of obtaining two bids (technical and commercial) is to evaluate all the firms
+on a technical basis with reference to the tendered specifications, the performance of similar 
+Solutions/Applications elsewhere, and obtaining users’ views with reference to the earlier 
+supplies. This will enable the PFC to arrive at a fair recommendation in the interest of the 
+organisation.
+11.8. 
+In the event of seeking any clarification from various BIDDERs by IIT Jodhpur, the
+BIDDERs are required to furnish only technical clarifications that are asked for. No amendment 
+to the commercial bid will be entertained at that stage. In case a BIDDER fails to quote for a 
+particular item, it amounts to non-compliance, and hence such a bid will not be considered for 
+further evaluation. Further, during this process, if any BIDDER indicates the price during the 
+clarification, such bids also will not be considered for further evaluation.
+12. Award of Contract
+12.1. 
+A panel of bidders/suppliers shall be selected for the rate contract.
+12.2. 
+The Empanelled suppliers will abide by all the Terms & Conditions of the Tender
+12.3. 
+The valid bidder quoted higher discount for each product/ service shall be considered for
+award of contract order for that product(s)/ service(s).
+12.4. 
+The qualified suppliers will be empanelled initially for a period of one year and may be
+extended further for two years, subject to annual revision, if their performance is found 
+satisfactory.
+12.5. 
+Purchase Orders will be placed from various Departments/Offices/Centres with reference
+to the Contract.
+12.6. 
+If the quality of the product and service provided is not found satisfactory, IIT Jodhpur
+reserves the right to cancel or amend the contract without any obligation. We may remove or 
+add any suppliers during the contract without prior notice.
+12.7. 
+IIT Jodhpur reserves the right to keep the number of firms in the Rate contract for similar
+items during the period Rate Contract with one or more parties.
+12.8. 
+All the discounts are to be quoted against the printed catalogue price. The updated
+catalogue will have to be submitted by the bidder in the first fortnight of January & first 
+fortnight of July for review and finalization of the rate of different supplies.
+12.9. 
+The Director, IIT Jodhpur, reserves the right to accept the offer in full or in parts or reject it
+summarily or partly.
+12.10. Delivery: All the goods ordered shall be delivered at the IIT Jodhpur, Karwar (NH-62),
+Nagaur Road, Jodhpur-342030, within 15 days for domestic supplies & within 30 days for 
+imported supplies from the date of acceptance of the purchase order on as and when required 
+basis. The bidder has to accept the order within 5 days of the order placement, otherwise it is 
+deemed to be accepted by the bidder. The bidder has to mention the time of delivery of the 
+supplies (15 Days/ 30 days) at the time of order acceptance only. All aspects of safe delivery 
+and commissioning shall be the exclusive responsibility of the supplier.
+12.11. Extension of Delivery Period: If the supplier would be unable to complete the
+project/order within the stipulated time, for which the supplier is responsible, it is required to 
+request an extension of the delivery period before the expiring of the delivery period 
+mentioned in the purchase order, it may be extended with justified reasons. In case the supplier
+
+Page 10 of 25
+would fail to complete the order within the stipulated time, Institute reserves the right to cancel 
+the contract/order.
+12.12. Penalty Clause: As time is the essence of the contract, the Delivery period mentioned in
+the Purchase Order should be strictly adhered to. If the supplier fails to Supply as per order 
+terms & conditions mentioned in the order within the due date, the Supplier is liable to pay 
+liquidated damages of 0.5% of the order value per week of delay for the item(s) ordered by the 
+respective department, subject to a maximum of 5% beyond the due date. Such money will be 
+deducted from any amount due, or which may become due to the supplier. IIT Jodhpur 
+reserves the right to cancel the order, if the supplier/bidder fails to supply the order within 
+the stipulated time, as mentioned clause 12.10. Penalties, if any, will be deducted from the 
+Invoice.
+12.13. Risk – purchase clause: If the awarded bidder will unable to supply the required material
+within the stipulated timeline, IIT Jodhpur reserves the right to fulfil the ordered requirement 
+from the other vendor at the risk & cost of the awarded bidder against the delayed or failed 
+delivery as per the conditions as clause 12.10.
+12.14. Fall Clause – Prices charged for the stores supplied under Rate Contract should under no
+event be higher than the lowest prices at which the party sells the items of identical description 
+to any other Govt. organisation / Private Organizations during the period of the contract, 
+failing which the “FALL CLAUSE” will be applicable.
+13. Corrupt or Fraudulent Practices
+IIT Jodhpur requires that the BIDDERs who wish to bid for the Annual Rate Contract have the 
+highest standards of ethics. IIT Jodhpur will reject a bid if it determines that the BIDDER 
+recommended for award has engaged in corrupt or fraudulent practices while competing for this 
+contract. IIT Jodhpur may declare a vendor ineligible, either indefinitely or for a stated duration, 
+to be awarded a contract if it at any time determines that the vendor has engaged in corrupt and 
+fraudulent practices during the execution of the contract.
+14. Code of Integrity: No official of a procuring entity or a bidder shall act in contravention of the
+codes, which includes: 
+i. 
+prohibition of: 
+a. making the offer, solicitation or acceptance of bribe, reward or gift or any material
+benefit, either directly or indirectly, in exchange for an unfair advantage in the 
+procurement process or to otherwise influence the procurement process.
+b. any omission or misrepresentation that may mislead or attempt to mislead so that
+financial or other benefits may be obtained, or an obligation avoided.
+c. any collusion, bid rigging or anti-competitive behavior that may impair the
+transparency, fairness, and progress of the procurement process.
+d. improper use of information provided by the procuring entity to the bidder with an
+intent to gain an unfair advantage in the procurement process or for personal gain.
+e. any financial or business transactions between the bidder and any official of the
+procuring entity related to the tender or execution process of the contract, which can 
+affect the decision of the procuring entity directly or indirectly.
+
+Page 11 of 25
+f. any coercion or any threat to impair or harm, directly or indirectly, any party or its
+property to influence the procurement process.
+g. obstruction of any investigation or auditing of a procurement process. 
+h. making a false declaration or providing false information for participation in a tender
+process or to secure a contract.
+ii. 
+disclosure of conflict of interest.
+iii. 
+Disclosure by the bidder of any previous transgressions made in respect of the provisions 
+of sub-clause (i) with any entity in any country during the last three years or of being 
+debarred by any other procuring entity.
+15. Indemnity: The vendor shall indemnify, protect, and save IIT Jodhpur against all claims, losses,
+costs, damages, expenses, action suits and other proceedings resulting from infringement of any 
+law pertaining to patents, trademarks, copyrights etc. or such other statutory infringements in 
+respect of all the materials supplied by him.
+16. INTERPRETATION OF THE CLAUSES IN THE TENDER DOCUMENT / CONTRACT
+DOCUMENT: In case of any ambiguity/dispute in the interpretation of any of the clauses in this 
+Tender Document, Director, IIT JODHPUR’s interpretation of the clauses shall be final and 
+binding on all parties.
+17. Force Majeure: The Supplier shall not be liable for forfeiture of its liquidated damages or
+termination for default if and to the extent that its delay in performance or other failures to perform 
+its obligations under the Contract is the result of an event of Force Majeure.
+a) 
+For the purposes of this Clause, "Force Majeure" means an event beyond the control of the
+Supplier and not involving the Supplier's fault or negligence and is not foreseeable. Such events 
+may include but are not limited to acts of the Purchaser, either in its sovereign or contractual 
+capacity, wars or revolutions, fires, floods, epidemics, quarantine restrictions and freight 
+embargoes.
+b) 
+If a Force Majeure situation arises, the Supplier shall promptly notify the Purchaser in
+writing of such conditions and the cause thereof. Unless otherwise directed by the Purchaser in 
+writing, the Supplier shall continue to perform its obligations under the Contract as far as is 
+reasonably practical and shall seek all reasonable alternative means for performance not 
+prevented by the Force Majeure event.
+18. Arbitration and Laws: In case of any dispute or difference arising out of or in connection with
+the tender conditions/order and Contract, the Institute and the Supplier will address the 
+dispute/difference for a mutual resolution and failing which, the matter shall be referred for 
+arbitration to a sole Arbitrator to be appointed by the Institute. The Arbitration shall be held in 
+accordance with the provisions of the Arbitration and Conciliation Act, 1996, and the venue of 
+arbitration shall be at Jodhpur only. The resolution of the Arbitrator shall be final and binding on 
+both parties.
+19. Jurisdiction: The courts at Jodhpur alone will have the jurisdiction to try any matter, dispute or
+reference between parties arising out of this tender/contract. It is specifically agreed that no court 
+outside and other than Jodhpur Court shall have jurisdiction in the matter.
+
+1.02 Fisher Scientific
+1.03 Fluka
+1.04 Across
+1.05 GeNei
+1.06 Qualigens
+1.09 Pall Corporation
+1.1 Spectrochem
+1.11 Avra
+1.12 Merck
+1.13 Molychem
+1.14 Himedia
+1.15 Thermo Fisher Invitrogen
+1.16 Otto Chemic
+1.17 Merck Life Sciences
+1.18 QIAGEN
+1.21 Cell signalling technology
+1.22 TCI Chemicals
+1.24 Life Technology
+1.25 Abcam Novas
+1.26 Fermantas
+1.31 Biolegend
+1.32 Eurofines
+1.33 AVARICE
+1.34 Renchem
+1.35 Chemscene
+Page 12 of 25
+Annexure – I
+List of required brands/ List of Companies for laboratory Chemicals/Lab wares/Glasswares /Plastic 
+wares/ Lab Consumables/Gases:
+
+1.39 QUALIKEMS
+1.40 LOBACHEM
+1.41 FINAR
+1.42 Promega
+1.43 MP Biomedical
+1.44 Qiagen
+1.45 ELAB Science
+1.46 DSS Takara
+1.47 Titan Biotech
+2.02 Tarson
+2.03 Thermo
+2.05 Genaxy
+2.06 Borosil
+2.07 Riviera
+2.08 Glassco
+2.09 Brand
+2.1 Duran
+2.11 JSIL
+2.12 Corning
+2.13 Thermo Fisher
+2.14 Blue Star
+2.15 AXIVA
+2.17 Infusil
+2.18 Accumax
+2.19 Universal Biotechnology Private Limited
+2.20 GenoBiosciences Private Limited (G-Biosciences)
+2.21 Biohall Life Sciences Pvt Ltd
+2.22 BR BIOCHEM LIFE SCIENCES PVT. LTD
+2.23 SUPERTEK
+2.24 HARCO
+2.25 OMSONS GERMANY
+2.26 ROMSONS
+2.27 KIMTECH
+2.28 MOLYCHEM
+Page 13 of 25
+
+2.29 MICROLIT
+2.30 PLANTILAB
+2.31 POLYLAB
+2.32 JENNSON
+2.33 Neogene
+3.01 Eppendorf
+3.02 Borosil
+3.03 Thermo Fisher (All Range)
+3.04 AXIVA
+3.06 Abdos
+3.07 Tarsons
+3.1 Corning
+3.11 Star Lab
+3.15 Polylab
+3.16 Brand
+3.17 Whatman
+3.18 Thermo
+3.19 Corning
+3.2 Genaxy
+3.21 Riviera
+3.22 Glassco
+3.23 Merck
+3.24 Duran
+3.25 Thermoscientific
+3.26 Accumax
+3.27 Universal Biotechnology Private Limited
+3.28 GenoBiosciences Private Limited (G-Biosciences)
+3.29 Biohall Life Sciences Pvt Ltd
+3.30 BR BIOCHEM LIFE SCIENCES PVT. LTD
+3.31 SUPERTEK
+3.32 HARCO
+Page 14 of 25
+
+3.33 OMSONS GERMANY
+3.34 ROMSONS
+3.35 KIMTECH
+3.36 MOLYCHEM
+3.37 MICROLIT
+3.38 PLANTILAB
+3.39 POLYLAB
+3.40 JENNSON
+4.06 Zero Air
+4.21 Hydrogen (H2)
+4.24 Tetraethyl orthosilicate Si((OC2H5)4)
+Page 15 of 25
+
+5.02 Ar + H2 mixed gas
+5.03 Nitrogen + H2 mixed gas and other mixture gases etc.
+5.04 Liquid Nitrogen
+5.05 Liquid Helium
+6.01 Reveres phase
+6.02 Normal phase
+6.03 size exclusion column
+6.04 GC Column
+6.05 Chiral columns
+6.06 Analytical
+6.07 Chiral columns
+6.1 Diol
+6.11 Cyano
+6.12 Silica
+7.01 Pipette Bulbs
+7.02 Merck TLC Plates
+7.03 Paraffin Rolls
+8.01 Genome Sequencing
+8.02 Transcription Sequencing
+Page 16 of 25
+Bidders must ensure before participating in this rate contract that they must have the latest printed price 
+list / catalogue of the OEM/company for which the firm/bidder/reseller is participating.
+
+Name of the organisation Purchase Order No. Value of the Order (Rs.)
+Name of the organisation Purchase Order No. Value of the Order (Rs.)
+Page 17 of 25
+List of Govt. Organisation / Department
+Original manufacturer(s) or authorised suppliers/vendors/ agents should have a minimum of 03 (Three) 
+years of experience with minimum 10 numbers of orders. Copy of such Purchase orders/invoice/payment 
+receipt in support of above must be attached with technical bid.
+Signature of Bidder 
+Name: ___________________________ 
+Designation: _______________________ 
+Organization Name: __________________________ 
+Contact No. : ____________________________
+
+Page 18 of 25
+BANK GUARANTEE FORM FOR PERFORMANCE SECURITY
+The Director 
+Indian Institute of Technology Jodhpur 
+NH 65 Nagaur Road Karwar 342037 
+Jodhpur, Rajasthan
+WHEREAS………………………………………………………………………………. 
+(Name 
+and
+address of the Supplier) (hereinafter called “the Supplier”) has undertaken, in pursuance of 
+contract no……………………………. dated …………. (hereinafter called “the contract”) to supply 
+……………………………………………………………………………………………………… 
+…………. 
+ 
+AND WHEREAS it has been stipulated by you in the said contract that the Supplier shall furnish 
+you with a bank guarantee by a scheduled/nationalised bank recognised by you for the sum 
+specified therein as security for compliance with its obligations in accordance with and due 
+performance of the contract; 
+ 
+AND WHEREAS we have agreed to give the Supplier such a bank guarantee; 
+ 
+NOW THEREFORE, we hereby affirm that we are guarantors and responsible to you, on behalf 
+of the Supplier, up to a total of …………………………………………………………………………. 
+(amount of the guarantee in words and figures), and we hereby irrevocably and absolutely 
+undertake to pay you immediately, upon your first written demand declaring the Supplier to be 
+in default under the contract and without cavil or argument, any sum or sums within the limits 
+of (amount of guarantee) as aforesaid, without your needing to prove or to show grounds or 
+reasons for your demand or the sum specified therein. 
+ 
+We hereby waive the necessity of your demanding the said debt from the Supplier before 
+presenting us with the demand. 
+ 
+We further agree that no change or addition to or other modification of the terms of the contract 
+to be performed there under or of any of the contract documents which may be made between 
+you and the Supplier shall in any way release us from any liability under this guarantee, and we 
+hereby waive notice of any such change, addition or modification. 
+ 
+The Bank guarantee shall be interpreted in accordance with the laws of India. The Guarantor 
+Bank represents that this Bank Guarantee has been established in such form and with such 
+content that is fully enforceable in accordance with its terms as against the Guarantor Bank in the 
+manner provided herein. 
+ 
+The Bank Guarantee shall not be affected in any manner by reason of merger, amalgamation, 
+restructuring or any other change in the constitution of the Guarantor Bank or the Supplier. The
+
+Page 19 of 25
+Bank further undertakes not to revoke this Guarantee during its currency except with the 
+previous express consent of the Buyer in writing. 
+ 
+The Bank declares that it has the power to issue this Guarantee and discharge the obligations 
+contemplated herein; the undersigned is duly authorised and has full power to execute this 
+Guarantee for and on behalf of the Bank. 
+ 
+This guarantee shall be valid up to and including the …….. day of ………, 20…… 
+ 
+ 
+……………………………. 
+ 
+(Signature with the date of the authorised officer of the Bank) 
+…………………………………………………………. 
+ 
+Name and designation of the officer 
+…………………………………………………………. 
+ 
+Seal, name & address of the Bank and address of the Branch
+
+Sl.
+No. Item Description Discount offered in % Discount Offered
+In Words
+1.02 Fisher Scientific
+1.03 Fluka
+1.04 Across
+1.05 GeNei
+1.06 Qualigens
+1.09 Pall Corporation
+1.1 Spectrochem
+1.11 Avra
+1.12 Merck
+1.13 Molychem
+1.14 Himedia
+1.15 Thermo Fisher
+1.16 Otto Chemic
+1.17 Merck Life Sciences
+1.18 QIAGEN
+1.21 Cell signalling
+1.22 TCI Chemicals
+1.24 Life Technology
+1.25 Abcam Novas
+1.26 Fermantas
+Page 20 of 25
+BoQ (To be filled by bidder in the financial bid Only)
+
+1.31 Biolegend
+1.32 Eurofines
+1.33 AVARICE
+1.34 Renchem
+1.35 Chemscene
+1.39 QUALIKEMS
+1.40 LOBACHEM
+1.41 FINAR
+1.42 Promega
+1.43 MP Biomedical
+1.44 Qiagen
+1.45 ELAB Science
+1.46 DSS Takara
+1.47 Titan Biotech
+2.02 Tarson
+2.03 Thermo
+2.05 Genaxy
+2.06 Borosil
+2.07 Riviera
+2.08 Glassco
+2.09 Brand
+2.1 Duran
+2.11 JSIL
+2.12 Corning
+2.13 Thermo Fisher
+Page 21 of 25
+
+2.14 Blue Star
+2.15 AXIVA
+2.17 Infusil
+2.18 Accumax
+2.19 Universal
+2.20 GenoBiosciences
+2.21 Biohall Life Sciences
+2.22 BR BIOCHEM LIFE
+2.23 SUPERTEK
+2.24 HARCO
+2.25 OMSONS GERMANY
+2.26 ROMSONS
+2.27 KIMTECH
+2.28 MOLYCHEM
+2.29 MICROLIT
+2.30 PLANTILAB
+2.31 POLYLAB
+2.32 JENNSON
+2.33 Neogene
+3.01 Eppendorf
+3.02 Borosil
+3.03 Thermo Fisher (All
+3.04 AXIVA
+3.06 Abdos
+3.07 Tarsons
+Page 22 of 25
+
+3.1 Corning
+3.11 Star Lab
+3.15 Polylab
+3.16 Brand
+3.17 Whatman
+3.18 Thermo
+3.19 Corning
+3.2 Genaxy
+3.21 Riviera
+3.22 Glassco
+3.23 Merck
+3.24 Duran
+3.25 Thermoscientific
+3.26 Accumax
+3.27 Universal
+3.28 GenoBiosciences
+3.29 Biohall Life Sciences
+3.30 BR BIOCHEM LIFE
+3.31 SUPERTEK
+3.32 HARCO
+3.33 OMSONS GERMANY
+3.34 ROMSONS
+3.35 KIMTECH
+3.36 MOLYCHEM
+3.37 MICROLIT
+3.38 PLANTILAB
+Page 23 of 25
+
+3.39 POLYLAB
+3.40 JENNSON
+4.06 Zero Air
+4.21 Hydrogen (H2)
+4.24 Tetraethyl orthosili
+5.02 Ar + H2 mixed gas
+Page 24 of 25
+
+5.03 Nitrogen + H2
+mixed gas and other
+mixture gases etc.
+5.04 Liquid Nitrogen
+5.05 Liquid Helium
+6.01 Reveres phase
+6.02 Normal phase
+6.03 size exclusion
+6.04 GC Column
+6.05 Chiral columns
+6.06 Analytical
+6.07 Chiral columns
+6.1 Diol
+6.11 Cyano
+6.12 Silica
+7.01 Pipette Bulbs
+7.02 Merck TLC Plates
+7.03 Paraffin Rolls
+8.01 Genome Sequencing
+8.02 Transcription
+Page 25 of 25
+● In case of any mismatch in the offered discount in words & digits, the higher value of
+discount shall be considered for the evaluation.
+All the discount offered by the bidders will be on FOR, IIT Jodhpur basis only.

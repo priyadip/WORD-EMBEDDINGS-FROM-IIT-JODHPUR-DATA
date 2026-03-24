@@ -1,0 +1,37 @@
+indian institute of technology jodhpur syllabus for the post of junior technical assistant school of artificial intelligence data science written test for engineering background candidates properties of real number system sequences and series of real numbers review of limit continuity and differentiability of functions rolle theorem mean value theorems and taylor theorem maxima minima and curve tracing complex numbers complex vector spaces
+matrices vector spaces over the field of real and complex numbers subspaces linear independence basis dimensions coordinate with respect to basis complementary subspaces linear transformations range space and rank null space and nullity matrix representation of linear transformation change of basis and similarity theorem
+first order ordinary differential equations geometrical interpretation of solution solution methods for separable equations exact equations linear equations
+memory processor instruction set architecture data structure algorithm searching and sorting hashing data visualization and plotting functions capacitors transistors resistors and their circuits circuit diagrams linear rectifiers digital principle and digital logic
+energy transfer thermodynamics properties open and closed system second law of thermodynamics entropy basics of fluid dynamics newtonian mechanics
+devices and circuits circuit theorems semiconductor devices and their biasing circuits rectifiers filters amplifiers operational amplifier and its circuits
+circuit analysis single and three phase circuits power electronic devices and circuits scr controlled rectifier electrical machines dc motor and generator single and three phase transformers induction and synchronous motors
+digital electronics number systems combinatorial and sequential circuits arithmetic circuits counters and finite state machines
+data converters sample and hold circuits adcs and dacs semiconductor memories rom sram dram
+embedded systems architecture programming memory and interfacing
+signal processing continuous and discrete time signals and their fourier representations sampling theorem lti systems and their properties digital filter design techniques
+communications analog and digital communications concepts concepts transmitter and receiver
+control systems feedback systems and their analysis
+basic statistics sampling and its techniques sample mean median mode variance random samples and random numbers sample sd sem idea of significance correlation of measurements and significance tests
+for biology and physics background candidates black body radiation basic quantum physics atomic and molecular physics
+rutherford model alpha particle scattering bohr atom model bohr interpretation of atom hydrogen spectral series radioactivity basic concepts on particle accelerators
+reflection refraction focal plane image formation and magnification number depth of the focus and depth of the field aberrations snell law polarization collimation basics of interference
+motion along velocity acceleration graph
+newton laws of motion equations of motion force work and energy energy conservation theorem
+rigid body dynamics angular velocity and angular acceleration angular momentum torque
+newton laws for rotational motion conservation of angular momentum
+requirements of equilibrium centre of gravity newton laws of gravitation gravitation near the surface of earth and below the surface of earth gravitational potential energy kepler law
+electric potential equipotential surfaces potential due to point charge group of point charges and due to electric dipole
+dielectrics and capacitance electric current current density resistance and resistivity ohm law energy and power in electric circuits emf potential differences rc circuits
+magnetic field the definition of magnetic force on current carrying wire magnetic dipole ampere law
+cell types organization cellular organelles chloroplast mitochondria vacuoles endoplasmic reticulum golgi apparatus nucleus chromosomes basic structure number central dogma in molecular biology dna rna proteins dna replication transcription translation cell cycle mitosis meiosis
+concept of tissues organs and systems basic knowledge of different types of tissues and systems in the body
+chemicals of life water as vital essence of life macromolecules carbohydrates fats proteins lipids enzymes enzyme kinetics enzyme regulation metabolism catabolism anabolism
+immunology innate and adaptive immune systems and their components antigen interactions recent knowledge and applications concerning immunity to various infections
+skill test for engineering candidates
+multimeter and oscilloscope for circuit testing determination of resistance voltage parallel and series circuits
+basic soldering skills
+circuits operating instruments and equipment testing and debugging of circuits and systems
+communications and signal processing implementing communication and signal processing related functions for biology and physics candidates
+multimeter and oscilloscope for circuit testing determination of resistance voltage parallel and
+reagent and buffer preparation
+basic microscopy skills

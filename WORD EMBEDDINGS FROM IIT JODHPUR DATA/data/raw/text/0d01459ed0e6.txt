@@ -1,0 +1,58 @@
+SOURCE_URL: http://www.iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=f9458df9-0861-40a7-8c60-001d0789f342
+
+Congratulations to Dr. Moumita Mandal for the acceptance of their research article in journal of Applied Analysis and Computation
+Congratulations to Dr. Moumita Mandal for the acceptance of their research article in journal of Applied Analysis and Computation
+Title: Eigenvalue Problem of a Weakly Singular Compact Integral Operator by discrete
+Legendre Projection Methods. Authors: Moumita Mandal, Kapil Kant and Gnaneshwar Nelakanti Journal: Journal of Applied Analysis and Computation Volume: 11
+Year: 2021 Publisher: Wilmington Scientific Publishers Abstract: In this article, the discrete version of Legendre projection and iterated Legendre
+projection methods are considered to find the approximate eigenfunctions (eigenvalues and
+eigenvectors) of a weakly singular compact integral operator. Making use of a sufficiently accurate
+numerical quadrature rule, we establish the error bounds of the approximated eigenvalues and
+eigenvectors by discrete Legendre projection and iterated discrete Legendre projection methods in
+both 𝐿
+2
+and uniform norm. In particular, we obtain the optimal convergence rates O (𝑛
+−𝑚) for the
+eigenfunctions in iterated discrete Legendre projection method in 𝐿
+2
+and uniform norms, where 𝑛 is
+the highest degree of the Legendre polynomial employed in the approximation and m is the
+smoothness of the eigenvectors. Numerical examples are presented to illustrate the theoretical
+results.
+Title: Eigenvalue Problem of a Weakly Singular Compact Integral Operator by discrete
+Legendre Projection Methods.
+Authors: Moumita Mandal, Kapil Kant and Gnaneshwar Nelakanti
+Journal: Journal of Applied Analysis and Computation
+Volume: 11
+Year: 2021
+Publisher: Wilmington Scientific Publishers
+Abstract: In this article, the discrete version of Legendre projection and iterated Legendre
+projection methods are considered to find the approximate eigenfunctions (eigenvalues and
+eigenvectors) of a weakly singular compact integral operator. Making use of a sufficiently accurate
+numerical quadrature rule, we establish the error bounds of the approximated eigenvalues and
+eigenvectors by discrete Legendre projection and iterated discrete Legendre projection methods in
+both 𝐿
+2
+and uniform norm. In particular, we obtain the optimal convergence rates O (𝑛
+−𝑚) for the
+eigenfunctions in iterated discrete Legendre projection method in 𝐿
+2
+and uniform norms, where 𝑛 is
+the highest degree of the Legendre polynomial employed in the approximation and m is the
+smoothness of the eigenvectors. Numerical examples are presented to illustrate the theoretical
+results.
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

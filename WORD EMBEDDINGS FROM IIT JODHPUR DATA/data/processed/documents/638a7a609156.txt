@@ -1,0 +1,13 @@
+substate integrated coaxial line sicl based circuits and systems for millimeter wave application soumava mukherjee pi department of science technology dst inspire government of india completion in with the advent of modern wireless communication technologies researches on designing high frequency microwave and millimeterwave circuits are of prime interest
+conventionally waveguide based circuits are preferred for these applications due to its inherent advantages
+low loss high high power handling capability good electromagnetic shielding etc
+however the bulky nature of waveguide structure performance and complex fabrication process limits the use of these systems in compact low profile wireless applications
+also conventional microstrip based planar technology are limited in performance due to its inherent disadvantages
+radiation loss surface wave loss etc
+recently concept to implement conventional coaxial line in planar substrate has been reported
+the modified form of integrated coaxial line is known as substrate integrated coaxial line sicl which implements tem transmission line in planar substrate using standard pcb fabrication technology
+the sicl line is attractive since it operates over large bandwidth with non dispersive propagation while maintaining compact size
+the shielded configuration of sicl line minimizes signal interference and crosstalk which is major issue in millimeterwave communication system
+thus the new sicl technology opens new frontier to design efficient millimeterwave circuits for compact low profile wireless applications
+the area of research includes detailed study of substrate integrated coaxial line and its integration with other planar technologies for its possible use in millimeterwave applications in ku band ghz and ka band ghz
+with the advent of modern wireless communication technologies researches on designing high frequency microwave and millimeterwave circuits are of prime interest

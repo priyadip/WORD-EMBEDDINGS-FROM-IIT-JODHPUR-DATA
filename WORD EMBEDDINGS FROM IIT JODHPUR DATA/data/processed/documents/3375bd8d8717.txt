@@ -1,0 +1,18 @@
+congratulation to subhasish dey for publishing research paper titled shallow water hydrodynamics surge propagation and flows in physics of fluids issue abstract accurate flow models are crucial for simulating shallow water hydrodynamics particularly in predicting and mitigating the impacts of extreme events involving flows
+many of these extreme scenarios in river environments involve fluid dynamics with significant dynamic pressures invalidating the use of standard models
+this study presents robust and accurate novel alternative based on the rans equations solved through variational methods
+despite their potential variational methods have been underutilized in the literature and their application has been limited to expansions
+moreover they are rarely validated against experiments that simulate complex flows
+this study addresses both challenges
+first general mathematical framework is developed for the variational rans vr model of arbitrary
+the vr level iii model is presented and is solved numerically using robust finite difference solver for turbulence flow modeling
+second an extensive experimental program was conducted to validate this new flow modeling tool focusing on two challenging flow scenarios
+the first scenario involves the propagation of turbulent breaking waves over an irregular uneven similar to those observed during bedform development in riverine environments
+this scenario involved the experimental characterization of unsteady surges over an array of obstacles in series
+the second scenario investigated released discharges similar to those occurring in estuary inlets with sediment bars
+comparisons between the new experimental data and the predictions from the vr level iii model reveal the model accuracy and robustness making it highly suitable tool for simulating flows
+doi accurate flow models are crucial for simulating shallow water hydrodynamics particularly in predicting and mitigating the impacts of extreme events involving flows
+doi important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated mar am

@@ -1,0 +1,24 @@
+ai phd programs offered by the department of computer science and engineering july in artificial intelligence ai introduction artificial intelligence ai is branch of computer science that aims to create machines to act with higher levels of intelligence and emulate the human capabilities of sense comprehend and act
+the core problems of artificial intelligence include programming computers for certain traits such as knowledge reasoning perception learning and planning
+ai technology development and applications are evolving rapidly with major implications for economies and societies
+as the demand for such applications increases there is also an increasing need for building the future workforce for ai
+for developing the ai ecosystem this program will be executed in synergy with other programs running in iit jodhpur such as sensors iot systems and advanced manufacturing and design
+objectives this in ai programme will offer students with deep knowledge of both fundamental ai technologies as well as ai
+student completing this program will be capable to undertake careers in industry as well as academia
+will have the option to explore variety of domains including manufacturing fintech healthcare processing education engagement human and robot automation smart city aid for differently technology
+comprehend fundamental concepts and knowledge of the ai methodologies
+design and build ai systems for complex planning decision making and learning solving problems and to reason about them
+conceive design and develop intelligent interfaces
+design develop and deploy machine learning based applications using structured and unstructured data speech text
+understand and assess reliability dependability and of systems
+design and develop ai applications for resource constrained environments
+adhere to evolving ethics and privacy laws across various domains and territories
+understand the fundamentals of artificial intelligence machine learning inference engines speech vision natural language understanding robotics and human computer interaction
+unify the knowledge of human cognition ai machine learning and data engineering for designing systems
+demonstrate knowledge of ai tools for
+ability to develop and robust systems with specific software hardware and data
+build solutions to explore fully immersive worlds in vr and overlay computer graphics onto our view of our immediate environment ar along with smart cognitive functionality
+demonstrate advanced skills to comprehend and communicate effectively
+carry out projects using intelligent cognitive solutions provided by ai algorithms to get more insights in stakeholder management risk modeling intelligent resource scheduling and managing project constraints with intelligent use of data models
+cat code course title cr cat code course title cr semester ii semester mal7xx statistics matrix omputation optimization csl8xx0 artificial intelligence ii csl7xx0 artificial intelligence csl8xx0 machine earning csl7xx0 machine earning csl8xx0 real time utonomous systems csp7xx0 data tructures nd practices pe xxxxx program elective pe xxxxx program elective oe xxxxx open elective pe xxxxx program elective ng xxxxx ethics nd rofessional life xxxxx technical communication total credits total credits cat code course title cr cat code course title cr iii semester iv semester csdxx0 major roject part csdxx major project art pe xxxxx program elective pe xxxxx program elective pe xxxxx program elective ng xxxxx intellectual property oe xxxxx open elective ng xxxxx system ngineering and roject management total credits total credits program ore credits program electives redits open electives credits project redits raded credits total redits course structure
+ai program dual degree phd

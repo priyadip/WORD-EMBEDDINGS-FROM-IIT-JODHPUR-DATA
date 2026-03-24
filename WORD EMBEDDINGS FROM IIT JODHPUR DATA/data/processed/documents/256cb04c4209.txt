@@ -1,0 +1,15 @@
+congratulations to aishwaraya and
+chandramouli for publishing their research paper in the journal of nonlinear dynamics
+title dynamics of homographic ricker map authors aishwaraya and
+chandramouli journal nonlinear dynamics link dynamics of homographic ricker map year publisher springer abstract we apply the holling functional response as growth function in the classical ricker map and propose competition model namely the homographic ricker map
+we investigate the behavior of the proposed model
+this includes the boundedness of the solutions existence and uniqueness of the coexisting fixed point
+we discuss the geometry of the homographic ricker map with the help of critical curves and singular points
+further with the help of the centre manifold theorem and bifurcation theory we obtain the specific conditions of the existence of the flip bifurcations in the homographic ricker map
+finally we employ numerical simulations to illustrate the stability and the bifurcation analysis of the competing species
+upload date january title dynamics of homographic ricker map authors aishwaraya and
+chandramouli journal nonlinear dynamics link dynamics of homographic ricker map abstract we apply the holling functional response as growth function in the classical ricker map and propose competition model namely the homographic ricker map
+upload date january important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

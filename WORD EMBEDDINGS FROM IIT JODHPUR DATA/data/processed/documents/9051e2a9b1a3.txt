@@ -1,0 +1,144 @@
+photo by srrlh communities in iitj tr select community to browse its collections
+now showing of theses recent submissions no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+disposable microsystems can be potential solution for the same which are designed for while eliminating the risk of between patients
+these devices are typically aimed to design for straightforward use simplifying the testing process and hence are of low initial cost
+along with this it addresses environmental concerns associated with plastics
+in this context analytical devices pads are desgined and developed which are economical recyclable biocompatible and robust
+they consist of network of hydrophobic and hydrophilic which are capable to handle and quantitatively analyze the target analyte
+there is no requirement for the facility to fabricate such device and it does not require any external pump for the movement of target analytes
+paper strips have been used for several decades for biomedical assays because they provide platform for colorimetric testing
+previously and clegg reported the first kind of based microfluidic device in
+however the whitesides group later explored microfluidics and it opened new pathways in this field for the use of paper to develop portable detection in applications
+this research investigates simple fabrication strategies for mass manufacturing of disposable microsystems for sensing applications while utilizing analytical device pad by creating hydrophobic zone through the proper penetration of ink into the pores of the paper
+an inexpensive disposable colorimetric sensor developed through the assistance of chemometric reaction and tested for the optimization of samples and the determination of glucose for different concentrations mm and with lod of
+to increase platform resistance to variations in illumination and camera optics images taken with several cellphones in various lighting conditions were used to train classifiers with an accuracy of
+to enhance the analysis platform robustness and make it the image data set was taken at various angles of incident light with an overall accuracy
+further for the multiplexed detection of the analyte unique has been fabricated on chemically modified paper followed by the theoretical and experimental fluid flow
+three different biomarkers glucose lactate and uric acid were detected through colorimetric enzymatic reaction on the novel disposable pad with lod and coefficient of determination of mm and mm and and mm and respectively
+this platform achieves high accuracy rate of analyte detection in predicting three different colorimetric findings both quantitatively and qualitatively through an android application
+the application integrated image processing tools autonomously identify the region of interest roi and minimize human error enhancing the platform friendliness and precision
+proceeding the work for the exploration of electrochemical sensing electrochemical sensor was developed for the detection of lactic acid with sensitivity of ma and lod of mm followed by computation studies of reaction molecules
+show more no thumbnail available publication remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+conventional water treatment plants face difficulties in treating these effluents for organics removal because the high salinity causes membrane fouling and inhibits the growth of microorganisms
+in order to tackle this problem it is necessary to utilize specific category of organisms capable of tolerating or thriving in high salt concentrations known as halotolerant organisms as biocatalysts
+physicochemical methods can remove salt but the repeated buildup of organic compounds leads to increased energy consumption and decreased quality of the recovered salts
+the microbial fuel cell mfc is suitable method for effectively utilizing saline wastewater
+the study describes the cultivation of dunaliella salina at the saline cathode in photosynthetic microbial fuel cell pmfc
+the alga was isolated from salt lake sambhar rajasthan india and identified using rdna sequencing analysis
+the alga growth in pmfc was tested at to sodium chloride
+the highest power and current density were obtained at nacl with and respectively
+the specific growth rate of algae was with lipids and of glycerol content at pmfc
+the pmfc operating at nacl led to high production mg
+the salinity in natural water resources makes it challenging to apply them in bioprocesses
+this study establishes the utility of salina in saline based pmfc for generating power and dunaliella biomass
+scaleup pmfc system with cathode and anode was developed for the second study utilizing dunaliella algae lea biomass as an electron donor substrate at the anode
+the operating system with lea biomass generates power density of and net energy at salinity under outdoor conditions reducing reliance on external substrates
+therefore pmfcs can potentially treat saline wastewater with concomitant energy and product generation
+show more no thumbnail available publication explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+the tom brain network associated with social cognition is responsible for understanding another person intentions and ideas comprising regions such as the medial prefrontal cortex temporoparietal junction and superior temporal sulcus
+these areas are crucial for recognizing and interpreting others thoughts intentions and emotions
+recent studies highlight significant interactions between the network fpn and the junction tpj which are critical for processing social information and predicting social evaluations
+using functional magnetic resonance imaging fmri data recent research has focused on the early development of tom in children extending into middle childhood and adolescence
+by age five children typically develop the ability to understand others aims and predict actions based on paradigms marking critical stage in tom development
+deficits in tom are evident in neurodevelopmental disorders like autism spectrum disorder asd where individuals show significant impairments in social cognition and communication
+despite extensive research the heterogeneity within the asd population and incomplete understanding of its neurobiology pose challenges
+our research focuses on quantifying the temporal stability of tom and pain brain networks from early childhood years to adulthood using dynamic functional connectivity analyses
+we investigate whether temporal stability patterns are associated with performance in reasoning tasks particularly in children aged years
+to decode cognitive states during naturalistic task we developed an explainable spatiotemporal graph convolutional neural network
+we further employ an explainable convolutional variational autoencoder vae to predict individual task performance identifying key brain regions contributing to these predictions as neural fingerprints
+in the context of asd which affects social behavior and communication ability we utilize fmri datasets to develop an explainable deep learning framework aimed at identifying both shared and variability in tom brain networks
+our models classify typically developing td and asd individuals using functional connectivity and features derived from tom network dmn central executive network cen and salience network sn
+furthermore we use these features to predict clinical scores related to asd symptoms including and iq fiq through predictive modeling cpmm
+the model evaluation demonstrated robust classification performance auc and accurate symptom severity prediction with minimal error across test sets
+finally we also identify asd through features using rough fuzzy approach
+overall this work demonstrates the power of explainable deep learning models in bridging brain network dynamics and symptom heterogeneity in asd contributing to more individualized insights into atypical brain development
+show more no thumbnail available publication light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+chlorophyll molecules reside around the lhcii trimer in configuration
+the conserved composition of the thylakoid membrane which hosts protein complexes and cofactors in plants is found to be essential for light harvesting and pivotal in quenching npq the process by which excess energy from sunlight is dissipated as heat to protect photosynthetic organisms from photodamage
+the chlorophyll derivatives bound in the membrane are important in designing artificial photosynthetic materials
+the properties of chlorophylls such as energy conversion and electron transfer depend on how the chlorophylls are assembled in thylakoid membranes
+the membrane comprises different types of lipids with different degrees of unsaturation based on the number and their positions along the alkyl chains
+tail unsaturation plays an important role in photosynthesis forming different cellular structures adaptation to environmental stresses and so on
+however the relation between the tail unsaturation to the stability of chlorophyll aggregate is unexplored till now
+the role of the lipidome of thylakoid in regulating the harvesting is unclear
+the molecular origin of the stability of the trimeric complex in the membrane remains elusive to date
+thus the current thesis proceeds to investigate the origin of the structural integrity of lhcii in lipid membranes thermodynamics dynamics of chlorophyll aggregation and the role of lipids on the aggregation using aa and cg molecular dynamics simulations
+aa molecular dynamics md simulations of lhcii are carried out in dipalmitoylphosphatidylcholine dppc membrane at central associations of chlorophyll cla pigment molecules near the lhcii are attributed to conserved coordination between the cla and specific residues of the first helix of chain
+the residue forms with the fourth helix of the same chain of the trimer not of the monomer
+in an earlier experiment three residues wyr at each chain of the trimer have been found indispensable for the trimerization and referred to as the trimerization motif
+our simulations show that the residues of the trimerization motif are connected to the lipids or pigments by chain of interactions rather than direct contact
+synergistic effects of sequentially located hydrogen bonds and salt bridges within monomers of the trimer keep the trimer conformation stable in association with the pigments or the lipids
+cg molecular dynamics simulations of cla are carried out in plant thylakoid membranes at by varying the total ratio using our previously derived cg model of cla and martini force fields for lipids
+our simulations show that cla molecules dynamically form aggregates that break and reform corroborated by earlier fluorescence quenching experiments
+the number of aggregates increases with an increasing concentration of cla
+selective lipids promote the formation of cla aggregates governed by van der waals interactions in plant thylakoid membranes
+less unsaturated lipids reside near the aggregate promoting increased order and efficient packing
+conversely higher unsaturated lipids are depleted from the aggregate imparting flexibility to the membrane
+such preferential locations of lipids around the aggregates result in increasing lateral heterogeneity in the order parameter and density with increasing cla concentrations
+this induces more undulation in membranes resulting in lower bending modulus and area compressibility
+to understand the role of lipid compositions in the stability of cla aggregates the potential of mean force of cla dimer is calculated in the presence of the thylakoid and the bilayers comprising either the least or the highest unsaturated lipids by using cg md simulations
+the thylakoid membrane enhances the stability of the cla dimer compared to the least and highest unsaturated membranes
+lipid mixing rather than lipid unsaturation plays critical role in facilitating cla dimerization by modulating the membrane microenvironment through stronger interactions
+the microenvironment of the selective lipids in the vicinity of the aggregated cla remains conserved as in the lhcii trimer which suggests cla as the origin of the lipid fingerprints in thylakoid
+the contact lifetime and waiting time distributions of cla dimers exhibit the existence of multiple time scales including most populated fast time scales and less populated slow time scales
+the survival probability of cla dimers follows decay with multiple residence time scales which leads to rate unlike conventional rate theory
+such decay of dimer survival is manifestation of dynamic disorder resulting from coupling between time scales of dimer formation and aggregates
+in summary the study indicates that the conformation of the lhcii trimer along with the cla association and the microenvironment of the selective lipids in its vicinity as whole can be instrumental for the stability and functions of the photosynthetic machinery
+the results from the study can be extended and useful in understanding the role of the cla binding lhcii or their aggregation hosted by thylakoid on the optimal photosynthetic function by enhancing light absorption and by dissipating excess energy
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more no thumbnail available publication smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+materials with dynamic properties such as the ability to expand and contract change stiffness heal or dissolve in response to environmental changes are highly sought after for various applications including biosensing drug delivery soft robotics and tissue engineering
+in the last thirty years the creation and use of biomaterials has emerged as highly active and promising field of study situated at the crossroads of chemistry materials science bioengineering and medicine
+utilizing in the development of functional biomaterials is highly promising and stimulating field of study offering significant potential for the treatment of injury or disease
+peptide is becoming promising method for creating sophisticated biomaterials that possess exceptional physicochemical and biological characteristics
+in this regard peptide sequences with inherent capabilities have been intentionally engineered to give rise to diverse structural aggregates including nanofibers nanovesicles nanobelts and nanotubes
+over the course of the past few decades number of methodologies have been devised with the purpose of designing assembling peptides
+various supramolecular nanostructures have been created using synthetic peptides that possess beta sheet alpha helix triple helix or amphiphile structures
+these nanostructures were specifically designed to undergo resulting in the acquisition of specific properties and functionalities
+this study investigates the use of bioinspired to create variety of supramolecular healthcare materials that can be used in drug delivery as well as antibacterial regenerative medicine purposes
+first of all we fabricated peptide based nanovesicles crafted from the hotspot region of alpha beta tubulin heterodimer interface for the targeted delivery of tubulin targeted drug in combination with an mtor inhibitor
+by in vitro assessment we found that such tubulin targeted peptide nanovesicle mediated targeted delivery can increase the therapeutic potential of both docetaxel and everolimus significantly and can be employed as anticancer nanotherapeutic
+in our next research work we have constructed substance mimicking supramolecular hydrogelator octapeptide by fusing truncated peptide sequence ffglm derived from substance along with an rgd motif
+this designed octapeptide under the influence of its aromatic capping group together with its uniquely balanced hydrophobic and hydrophilic residues undergoes quick assembly at biological ph ph to give rise to soft yet thixotropic hydrogel matrix with superior thermal and ph responsive property
+from experimental analysis we envisioned this designed hydrogel as futuristic cytocompatible matrix having both wound healing and ph responsive drug releasing therapeutic effectivity
+next in an endeavour to find new synthetic amp we have designed and constructed few peptide amphiphiles comprising lipid chain succeeded by core hydrophobic zone in combination with cationic motif
+these synthesized peptide amphiphiles differ only by their aggregation propensity of the core hydrophobic zone
+interestingly all the synthesized peptide amphiphiles were found to exert their antibacterial effectivity above their critical aggregation constant
+however our study reveals that the extent of antibacterial effectivity is guided by both hydrophobic core zone in combination with positively charged motifs derived and modified from the peptide core
+the lead peptide by its more core region undergoes rapid at lower cac and shows higher lps binding affinity with superior antibacterial effectivity against resistant staphylococcus aureus in comparison with other analogues
+the lead multidomain peptide under its assembly propensity gives rise to the formation of the thixotropic hydrogel with significant antibacterial wound healing property
+experimental data including wound closure ratio collagen deposition and expression of various cytokines like along with revealed that the designed hydrogel promotes the healing of both aeruginosa and diabetic wounds through reduced nflammatory repercussions and enhanced angiogenesis
+in our final study we have developed an extracellular matrix mimicking responsive component hybrid hydrogel scaffold composed of amyloid fibril lz assembled with heparin sulfate hs by mere utilization of their inherent favourable covalent interactions
+heparin sulfate was employed to construct this assembled extracellular matrix ecm scaffold due to its striking resemblance to heparan sulfate
+further to increase its conductivity at physiological ph and simultaneous antibacterial efficacy in an acidic chronic wound microenvironment we have incorporated tannic silver nanoparticle into the hydrogel composite
+the enhanced antimicrobial efficacy of this composite hydrogel is likely linked to the ph responsive disassembly of the supramolecular hydrogel matrix when exposed to chronic diabetic wound conditions
+apart from its antibacterial effectivity the at the designed hydrogel can potentially eradicate bacterial biofilm formation providing promising strategy for the management of clinical chronic wounds
+these multifaceted synergistic effects significantly expedite the process of wound healing and enhance the overall quality of wound repair
+show more load more
+communities in iitj tr select community to browse its collections
+now showing of theses communities in iitj tr select community to browse its collections
+now showing of theses now showing of recent submissions no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+show more no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+show more design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+show more indian institute of technology jodhpur gupta ankur show more indian institute of technology jodhpur gupta ankur indian institute of technology jodhpur sensing and diagnostics have become essential parts for our healthcare monitoring
+show more sensing and diagnostics have become essential parts for our healthcare monitoring
+no thumbnail available publication remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more publication remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more indian institute of technology jodhpur chhabra meenu show more indian institute of technology jodhpur chhabra meenu industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+no thumbnail available publication explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more publication explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more indian institute of technology jodhpur banerjee romi roy dipanjan show more indian institute of technology jodhpur banerjee romi roy dipanjan banerjee romi roy dipanjan social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+no thumbnail available publication light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more publication light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more indian institute of technology jodhpur debnath ananya show more indian institute of technology jodhpur debnath ananya the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future no thumbnail available publication smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+show more publication smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+show more smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+show more indian institute of technology jodhpur ghosh surajit show more indian institute of technology jodhpur ghosh surajit soft biomaterials play pivotal role in various biomedical application domains
+show more soft biomaterials play pivotal role in various biomedical application domains

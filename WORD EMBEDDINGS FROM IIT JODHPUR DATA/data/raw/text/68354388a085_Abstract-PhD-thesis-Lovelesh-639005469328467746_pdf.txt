@@ -1,0 +1,68 @@
+SOURCE_PDF: 68354388a085_Abstract-PhD-thesis-Lovelesh-639005469328467746.pdf
+
+A study of mixed type elliptic problems
+Lovelesh Sharma (P20MA209)
+Thesis Supervisor: Dr. Tuhina Mukherjee
+Department of Mathematics
+Indian Institute of Technology Jodhpur
+Abstract
+The study of elliptic problems involving spectral fractional Laplacian and mixed local-nonlocal
+operators under mixed boundary conditions opens up rich and intriguing mathematical chal-
+lenges. This research explores the existence, nonexistence, multiplicity, and regularity of weak
+solutions for a variety of eigenvalue problems and nonlinear elliptic equations, particularly those
+with power-type, singular, and critical nonlinearities. The objective is to enhance the under-
+standing of how local and nonlocal effects influence the behavior of solutions in such problems.
+The investigation begins with problems driven by the spectral fractional Laplacian under
+mixed Dirichlet-Neumann boundary conditions. In this setting, the focus is on analyzing sin-
+gular and critical nonlinearities. By employing variational techniques, energy estimates, and
+extension methods introduced by Caffarelli and Silvestre, we establish the existence of weak
+solutions using variational arguments over the Nehari manifold and obtain precise qualitative
+properties.
+Next, we examine an Ambrosetti-Prodi type problem involving the mixed local-nonlocal op-
+erator L = −∆+(−∆)s under the Dirichlet boundary conditions. The problem is characterized
+by the interplay between the parameter λ and critical growth nonlinearities. Using Linking
+theorems and compactness conditions, we establish the existence of multiple solutions and an-
+alyze their dependence on the parameter λ. The study extends classical results for purely local
+operators to the mixed local and nonlocal setting.
+Furthermore, we investigate eigenvalue problems involving mixed operators under mixed
+boundary conditions. A major part of this work is dedicated to developing a functional frame-
+work for handling problems of this type, which serves as a foundation for spectral analysis and
+bifurcation results. We characterize the first eigenvalue, establish spectral properties based on
+the topology of the mixed boundary sets, and derive existence results for positive eigenfunc-
+tions. The results are then applied to study nonlinear problems, where we prove the existence
+of solution branches bifurcating from zero and infinity.
+We also analyze nonlinear problems involving concave-convex nonlinearities and perturbed
+singular terms, proving the existence and multiplicity of solutions using the Nehari manifold
+approach. The regularity of solutions is established through Moser iteration, Stampacchia’s
+method, and Sobolev-type inequalities adapted to the mixed operator setting. Additionally,
+we derive a strong maximum principle and comparison principles, which are crucial in under-
+standing the qualitative properties of solutions.
+Overall, this work aims to contribute meaningfully to the theoretical development of partial
+differential equations of mixed type. The insights gained here have the potential to impact var-
+ious scientific fields, such as physics, population dynamics, and models of anomalous diffusion,
+by advancing our understanding of the mathematical structures underpinning complex systems.
+
+Thesis Publications/Pre-prints
+1. T. Mukherjee, P. Pucci, L. Sharma: Nonlocal critical exponent singular problems under
+mixed Dirichlet-Neumann boundary conditions. Journal of Mathematical Analysis
+and Applications, (2023).
+2. T. Mukherjee, L. Sharma: On critical Ambrosetti–Prodi type problems involving mixed
+operator. Journal of Elliptic and Parabolic Equations, (2024).
+3. T. Mukherjee, L. Sharma: On elliptic problems with mixed operators and Dirichlet-
+Neumann boundary conditions. Nonlinear Differential Equations and Applications
+NoDEA, (2025).
+4. T. Mukherjee, L. Sharma: On singular problems associated with mixed operators under
+mixed boundary conditions.
+Journal of Fixed Point Theory and Applications,
+(2025).
+5. J. Giacomoni, T. Mukherjee, L. Sharma: On an eigenvalue problem associated with
+mixed operators under mixed boundary conditions. Discrete and Continuous Dy-
+namical Systems, (2025).
+6. L. Sharma: Spectrum of mixed operators under the mixed boundary conditions, (minor
+revision submitted).
+Other Publications/Pre-prints
+1. L. Sharma: Brezis Nirenberg type results for local non-local problems under mixed
+boundary conditions. Communications in Analysis and Mechanic, (2024).
+2. D. Mahanta, T. Mukherjee, A. Sarkar, L. Sharma: On the study of (P, Q)-Laplace
+Choquard equations with critical Trudinger-Moser nonlinearity in HN, Analysis and
+Applications, (2025).

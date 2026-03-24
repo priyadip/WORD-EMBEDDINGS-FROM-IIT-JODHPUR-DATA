@@ -1,0 +1,264 @@
+SOURCE_PDF: 04e5900da722_M.Tech._20CSE_20Curriculum_16102020.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+and
+Dual degree M.Tech. (CSE) + PhD
+Programs
+offered by the
+Department of Computer Science and
+Engineering
+July 2019
+
+1. Introduction
+Traditionally Computer Science and Engineering (CSE) teaching were focusing on two major areas, i.e., 
+theories and systems (database, computer hardware, and operating systems). With the advent of the era of 
+Cloud Computing, Edge Computing, AI and Big Data, the discipline is being transformed by incorporation of 
+new emerging technologies. It is becoming an instrumental tool in solving major problems faced by modern 
+society such as energy, natural disasters, pollution, and water. Through this newly revamped M.Tech and 
+M.Tech-Ph.D dual degree programs in CSE, IIT Jodhpur is making a conscious effort to divulge from the 
+traditional path and planning to reposition itself to become a leading institute in this new genre of Computer 
+Science education. 
+ 
+2. Objectives
+This M.Tech and M.Tech-Ph.D dual degree programs in CSE will offer students with deep knowledge of core 
+and applied computer science. Through this programme, a student will learn niche subject areas which are of 
+paramount importance in the modern big data era, such as Computer Systems and Security. This programme 
+is aiming at imparting the necessary breadth and depth to the students for pursuing careers in academics as 
+well as in industry. This programme is aiming at extending undergraduate computing skills with up-to-date 
+and in-depth expertise in specialized areas of Computer Systems and Security. 
+ 
+3. Expected Graduate Attributes
+After completing this programme, a student will be able to develop an ability to: 
+1. Understand fundamental concepts and hands-on knowledge of emerging fields in Computer Science. 
+2. Conceive, Design and Develop state-of-the-art scalable parallel and distributed systems 
+3. Solve Big data problems through the knowledge of advanced data structures, distributed algorithmic
+design, analysis, and applications.
+4. Design and develop network protocols for Wireless, Sensor, Mobile, and Vehicular networks. 
+5. Ideate, Implement and Integrate cryptographic, fault tolerant algorithms for large scale distributed
+systems
+6. Understand state-of-the-art hardware platforms for running compute intensive distributed algorithms 
+7. Ability to understand and apply evolving ethics and privacy laws across various domains and territories. 
+8. Plan and manage technical projects
+4. Learning Outcome
+1. Understand the fundamentals of algorithmic complexity, advanced computer architecture, advanced
+network, and security protocols.
+2. Apply appropriate design principles, framework and protocols to develop dependable systems. 
+3. Demonstrate hands-on knowledge of cutting edge simulation, synthesizing, programming tools. 
+4. Ability to design and develop system architecture for mobile, cloud, fog, and edge computing. 
+5. Demonstrate hands-on knowledge of virtualization, data center design and management, and software
+defined networking.
+6. Skills to comprehend and communicate effectively. 
+7. Apply appropriate project and business management principles and tools for real-world problems.
+
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+I Semester II Semester
+MC MAL7xx0 Statistics I
+Matrix Computation
+Optimization 1-0-0
+1-0-0
+1-0-0 3 MC CSL7xx0 Computer Architecture 3-0-0 3
+MC CSL7xx0 Algorithms for Big
+Data 2-0-0 2 MC CSL7xx0 Software and Data
+Engineering 3-0-0 3
+MC CSL7xx0 Machine Learning I 3-0-0 3 MC CSL7xx0 Security and its applications 3-0-0 3
+MC CSP7xx0 Data Structures and
+Practices 0-0-2 1 ME xxxxx Program Elective 3 3-0-0 3
+ME xxxxx Program Elective 1 3-0-0 3 MO xxxxx Open Elective 1 3-0-0 3
+ME xxxxx Program Elective 2 3-0-0 3 NG xxxxx Ethics and Professional Life 1-0-0 1
+NG Technical
+Communication 1-0-0 1
+Total Credits: 16 Total Credits: 16
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+III Semester IV Semester
+MP CSD7xx
+0 Major Project – Part 1 0-0-10 5 MP CSD8xx
+0 Major Project – Part 2 0-0-22 11
+ME xxxxx Program Elective 4 3-0-0 3 ME xxxxx Program Elective 6 3-0-0 3
+ME xxxxx Program Elective 5 3-0-0 3 NG xxxxx Intellectual Property 1-0-0 1
+MO xxxxx Open Elective – 2 3-0-0 3
+NG xxxxx System Design 1-0-0 1
+Total Credits: 15 Total Credits: 15
+1 Program Core 18 credits
+2 Program Electives 18 credits
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-graded 4 credits
+Total 62 credits
+5. Course Structure for the M.Tech. (CSE) Program and Dual Degree M.Tech. (CSE)+Ph.D. Program
+*Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+
+6. Program Electives for M.Tech. (CSE) and Dual Degree M.Tech. (CSE)+Ph.D. Program
+Courses offered by Department of Computer Science and Engineering 
+1. 
+Advanced Computer Graphics
+2. 
+AI for Finance
+3. 
+Artificial Intelligence I
+4. 
+Artificial Intelligence II
+5. 
+Bio-image computing
+6. 
+Block chain
+7. 
+Computer Vision
+8. 
+Computational Optimization
+9. 
+Data Visualization
+10. Dependable AI 
+11. Digital Image Analysis 
+12. Edge and Fog Computing 
+13. Embedded Systems 
+14. GPU Programming 
+15. Graph Theory and Applications 
+16. Human Machine Interface 
+17. Information Retrieval and Web Mining 
+18. Introduction to Augmented Reality and Virtual Reality 
+19. Machine Learning II 
+20. Machine Learning with Big Data 
+21. Natural Language Processing 
+22. Neuromorphic Computing and Design 
+23. Real time Autonomous Systems 
+24. Ad hoc Wireless Networks 
+25. Selected Topics in Artificial Intelligence - I 
+26. Selected Topics in Artificial Intelligence - II 
+27. Selected Topics in Artificial Intelligence - III 
+28. Selected Topics in Computer Science - I 
+29. Selected Topics in Computer Science - II 
+30. Selected Topics in Computer Science - III 
+31. Social Network Analysis 
+32. Speech processing 
+33. Stream Analytics 
+34. Vehicular Ad-hoc Networks (VANETs)
+Courses offered by Department of Electrical Engineering 
+1. 
+Adaptive Signal Processing
+2. 
+Advanced Control System
+3. 
+Advanced Digital Communication
+4. 
+Advanced Signal Processing
+5. 
+Analog and Interfacing Circuits
+6. 
+Antenna Engineering
+7. 
+Applied Optimization for Wireless Communication
+8. 
+Backhaul Networks for Wireless Systems
+9. 
+Coding Theory
+10. Compressive Sensing 
+11. Computational Imaging 
+12. Cyber Physical System Modelling Laboratory
+
+13. Data Compression 
+14. Digital image and Video Processing Lab 
+15. Digital Image Processing and Applications 
+16. Digital Signal Processing 
+17. Digital Video Processing 
+18. Digital VLSI Design 
+19. Embedded System Design 
+20. Embedded System Design Lab 
+21. Flexible and Printed Electronics 
+22. Free Space Optical Communications 
+23. GNSS Signal Processing 
+24. Image Sensor Design and Applications 
+25. Introduction to Cyber-Physical Systems 
+26. Machine Learning for Communication 
+27. Mathematical Modelling and Simulation 
+28. Microfluidics Technology 
+29. Microsystems Fabrication Technology 
+30. Millimeter Wave Technology 
+31. Multi-rate Digital Signal Processing 
+32. Nanosensors 
+33. Network Information Theory 
+34. Neuromorphic computing and design 
+35. Optical Fiber Communications 
+36. Optimal Filtering 
+37. Physical Layer Security 
+38. Principles of Data and System Security 
+39. Real Time Communications 
+40. Resource Constrained AI 
+41. RF IC Design 
+42. RF IC Design Lab 
+43. Selected Topics in Communication I 
+44. Selected Topics in Communication I 
+45. Selected Topics in Communication II 
+46. Selected Topics in Communication III 
+47. Selected Topics in Sensors & IoT I 
+48. Selected Topics in Sensors & IoT II 
+49. Selected Topics in Sensors & IoT III 
+50. Selected Topics in Signal Processing I 
+51. Selected Topics in Signal Processing II 
+52. Selected Topics in Signal Processing III 
+53. Sensors and IoT Lab 
+54. Sensors and Measurement 
+55. Smart Grid 
+56. Speech and Audio Signal Processing 
+57. Statistical Decision Theory 
+58. Systems-on-Chips Design 
+59. VLSI Design Lab 
+60. Wavelets 
+61. Wireless Communication 
+62. Wireless Networks
+
+Courses offered by Department of Mechanical Engineering 
+1. Robotics
+Courses offered by Department of Bioscience and Bioengineering 
+1. Bioinformatics 
+2. Computational Biology
+Courses offered by Department of Mathematics 
+1. Financial Engineering 
+2. Computational finance 
+3. Computational Game Theory 
+4. Advanced topics in computational PDE 
+5. Dynamical Systems 
+6. Stochastic Processes 
+7. Representation of Finite Groups
+Courses offered by Department of Physics 
+1. Quantum Computing 
+2. Quantum Information Processing 
+3. Quantum Cryptography and Coding
+Courses offered by IDRP Digital Humanities 
+1. 
+Digital Humanities
+
+Title Algorithms for Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Data structures and practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. (CSE) 1st Year Type Compulsory
+Prerequisite Computer Programming
+
+Title Software and Data Engineering Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Compulsory
+
+Title Computer Architecture Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Compulsory
+Prerequisite Computer Organization
+
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Security and Its Application Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Networks

@@ -1,0 +1,16 @@
+congratulations to shahiq ahmad wani and his supervisor ranju mohan for publishing an article titled digital payment adoption in public transportation mediating role of mode choice segments in developing cities in transportation research part policy and practice abstract the emergence of digital payments propelled by technology advancements is revolutionising how we transact and pay for goods and services ushering in the era of convenience and efficiency
+the numerous benefits of these systems have prompted public transportation agencies to implement them
+understanding the factors influencing such technology adoption in the early stages is necessary
+while limited research in the transportation sector exists it is mainly focused on mobile ticketing or conducted before the adoption of digital payment technology
+the former is not yet widespread in developing countries as they still have system
+this study presents methodology for analysing the population using segmentation approach done using latent class cluster analysis lcca and thereby analysing each cluster and total data to evaluate the factors influencing the adoption of digital payments through ml classification algorithms decision trees random forest and xgboost
+trip parameters as model indicators and constructs as covariates are input to lcca resulting in seven clusters labelled satisfied
+users ipt users satisfied mtw users mtw users car users captive
+users and mtw users
+comparison of the model predictions accuracies and important features highlights that xgboost is best performing for most of the clusters
+results indicated that the different segments exhibit different properties
+prior use of travel apps type of phone owned internet availability and age significantly influence the adoption of digital payment
+the study highlights the importance of understanding the different user segments and tailoring the digital payment technologies accordingly to promote their adoption in public transportation
+the study can help policymakers shape technological decisions and encourage technology use
+future studies can explore the attitudinal aspects of commuters and employ advanced analytical methods for further exploration
+doi the emergence of digital payments propelled by technology advancements is revolutionising how we transact and pay for goods and services ushering in the era of convenience and efficiency

@@ -1,0 +1,18 @@
+research seminar by rahul saini on july at am speaker rahul saini title of the talk modified boundary conditions in asymmetric thermoelastic vibrations of fg annular nanoplates using numerical techniques date time venue july am to pm at seminar hall dept
+of mathematics abstract the seminar is focused on one of the research papers that presents the analysis and numerical results for the free asymmetric vibrations of functionally graded annular nanoplates with mechanical properties that vary according to the model in the thickness direction
+the governing equations for this model are derived from hamilton principle based on shear deformation theory and eringen nonlocal elasticity theory
+modified boundary conditions are derived to handle the paradoxical behaviour of free vibration of the nanoplates with free boundary due to nonlocal parameters and thermal environment
+the chebyshev collocation method is employed to discretize the governing equations in obtaining the numerical values of frequencies considering different nodal lines with nonlocal boundary conditions
+the effect of various parameters such as radii ratio volume fraction index nonlocal parameter and temperature difference on the nondimensional frequencies is studied
+about the speaker rahul saini is an assistant professor in the department of mathematics at hemvati nandan bahuguna garhwal university central university srinagar uttarakhand
+he obtained his master and degrees in applied mathematics from the
+saini research focuses on computational solid mechanics
+he has been working on numerical algorithms to solve complex differential equations and has introduced modified boundary conditions to address paradoxes in nanoplates with free boundaries especially under thermal environments
+his expertise extends to areas such as artificial neural networks parallel computing finite element method and linux computing
+saini has done npdf at iisc bangalore and kothari fellowship at the department of aerospace engineering iisc bangalore
+he has also held institute fellow positions at the departments of civil engineering and applied mechanics at new york university and iit delhi respectively
+speaker rahul saini title of the talk modified boundary conditions in asymmetric thermoelastic vibrations of fg annular nanoplates using numerical techniques date time venue july am to pm at seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

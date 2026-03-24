@@ -1,0 +1,80 @@
+SOURCE_URL: http://www.iitj.ac.in/Electrical-Engineering/en/Wireless-and-Microwave-Laboratory
+
+Wireless and Microwave Laboratory
+Wireless and Microwave Laboratory
+Wireless and Microwave Laboratory
+Wireless and Microwave Laboratory
+This lab is dedicated to the study of all aspects of testing and characterization of wireless communication signal. In addition, the lab also also consists of facilities dedicated to microwave active and passive devices. The research activities conducted in the lab are as follows: Design and characterization of Microwave antenna and passive circuits (filters, couplers, crossover etc.) Design and characterization of Microwave active circuits (LNA, PA etc.) The lab is also conducted for teaching activities which are as follows: Contemporary Communication System Laboratory Communications Engineering Lab. RFIC laboratory
+This lab is dedicated to the study of all aspects of testing and characterization of wireless communication signal. In addition, the lab also also consists of facilities dedicated to microwave active and passive devices. The research activities conducted in the lab are as follows:
+Design and characterization of Microwave antenna and passive circuits (filters, couplers, crossover etc.)
+Design and characterization of Microwave active circuits (LNA, PA etc.)
+The lab is also conducted for teaching activities which are as follows:
+Contemporary Communication System Laboratory
+Communications Engineering Lab.
+Facilities ENA Series Network Analyzer (300KHz-20GHz). ENA Series Network Analyzer (100KHz-4.5GHz). Power Meter. Triple Output DC Power Supply. Function Waveform Generator(300MHz). EXA Signal Analyzer(9KHz-3.6GHz). EXA Signal Analyzer(9KHz-26.5GHz). MXG Analog Signal Generator(100KHz-3GHz). MXG Analog Signal Generator(100KHz-20GHz). ME1000 RF Training Kit(Tx-Rx). ME1300 Antenna Training Kit(Tx-Rx). ME1100 Digital RF Communication Kit. VSA89600 Software(1 set for 15 users). Digital Phosphor Oscilloscope(200MHz). Oscilloscope(200MHz). Single Channel Arbitrary/Function Generator(25MHz). NI PXIe-1075 Chassis: NI PXIe-8108 Controller, NI PXIe-5652, NI PXIe-5601, NI PXIe-5622, NI PXIe-5450, NI PXIe-5611, NI PXI-5600, NI PXI-5610, NI PXI-5441, NI PXIe-5641R, NI PXI-5691, NI PXI-5652, NI Developer suit for Lab-view DS1 2011, NI Modulation Tool kit 4.3, NI Modulation Tool kit 4.1, NI Modulation Tool kit 4.2.1, NI Spectral Measurement 2.5.1. Logic Analyzer TLA6404.
+ENA Series Network Analyzer (300KHz-20GHz).
+ENA Series Network Analyzer (100KHz-4.5GHz).
+Triple Output DC Power Supply.
+Function Waveform Generator(300MHz).
+EXA Signal Analyzer(9KHz-3.6GHz).
+EXA Signal Analyzer(9KHz-26.5GHz).
+MXG Analog Signal Generator(100KHz-3GHz).
+MXG Analog Signal Generator(100KHz-20GHz).
+ME1000 RF Training Kit(Tx-Rx).
+ME1300 Antenna Training Kit(Tx-Rx).
+ME1100 Digital RF Communication Kit.
+VSA89600 Software(1 set for 15 users).
+Digital Phosphor Oscilloscope(200MHz).
+Oscilloscope(200MHz).
+Single Channel Arbitrary/Function Generator(25MHz).
+NI PXIe-1075 Chassis: NI PXIe-8108 Controller, NI PXIe-5652, NI PXIe-5601, NI PXIe-5622, NI PXIe-5450, NI PXIe-5611, NI PXI-5600, NI PXI-5610, NI PXI-5441, NI PXIe-5641R, NI PXI-5691, NI PXI-5652, NI Developer suit for Lab-view DS1 2011, NI Modulation Tool kit 4.3, NI Modulation Tool kit 4.1, NI Modulation Tool kit 4.2.1, NI Spectral Measurement 2.5.1.
+Logic Analyzer TLA6404.
+People Faculty Members 1. Arun Kumar Singh Research Interests: Communication Theory, Wireless and Mobile Communications, Satellite based Navigation Systems, Spread Spectrum System eMail: singhak@iitj.ac.in Office location: Room no. 228, Department of Electrical Engineering Phone: (91 291) 280 1358 Web: http://home.iitj.ac.in/~singhak/
+Research Interests: Communication Theory, Wireless and Mobile Communications, Satellite based Navigation Systems, Spread Spectrum System
+eMail: singhak@iitj.ac.in
+Office location: Room no. 228, Department of Electrical Engineering
+Phone: (91 291) 280 1358
+Web: http://home.iitj.ac.in/~singhak/
+2. Aashish Mathur Research Interests: Power Line Communications, Free Space Optical Communications, Visible Light Communications eMail: aashishmathur@iitj.ac.in
+Office location: Room no. 226, Department of Electrical Engineering Phone: (91 291) 280 1362 Web: http://home.iitj.ac.in/~aashishmathur/
+Research Interests: Power Line Communications, Free Space Optical Communications, Visible Light Communications
+eMail: aashishmathur@iitj.ac.in
+Office location: Room no. 226, Department of Electrical Engineering
+Phone: (91 291) 280 1362
+Web: http://home.iitj.ac.in/~aashishmathur/
+3. Soumava Mukherjee Research Interests: Substrate Integrated Waveguides, Broadband/Multiband Planar Antenna, Dual-polarized Antennas and Dielectric resonator Antennas. eMail: soumava@iitj.ac.in Office location: Room no. 225 , Department of Electrical Engineering Phone: (91 291) 280 1361 Web: https://sites.google.com/site/soumavamukherjeebesus/home
+3. Soumava Mukherjee
+Research Interests: Substrate Integrated Waveguides, Broadband/Multiband Planar Antenna, Dual-polarized Antennas and Dielectric resonator Antennas.
+eMail: soumava@iitj.ac.in
+Office location: Room no. 225 , Department of Electrical Engineering
+Phone: (91 291) 280 1361
+Web: https://sites.google.com/site/soumavamukherjeebesus/home
+4. Arani Ali Khan Research Interests: RF & Microwave components eMail: aakhan@iitj.ac.in Office location: Room no. 208 , Department of Electrical Engineering Phone: (91 291) 280 1364 Web: http://iitj.ac.in/department/facultyprofile.php?str=aakhan@iitj.ac.in&dept=ee
+Research Interests: RF & Microwave components
+eMail: aakhan@iitj.ac.in
+Office location: Room no. 208 , Department of Electrical Engineering
+Phone: (91 291) 280 1364
+Web: http://iitj.ac.in/department/facultyprofile.php?str=aakhan@iitj.ac.in&dept=ee
+Technical Staff Gajraj Sharma eMail: gajrajsharma@iitj.ac.in Phone: (91 291) 280 1391
+eMail: gajrajsharma@iitj.ac.in
+Phone: (91 291) 280 1391
+Contact details Room 102 1. Dr. Arun Kumar Singh email: singhak@iitj.ac.in 2. Dr. Soumava Mukherjee email: soumava@iitj.ac.in
+1. Dr. Arun Kumar Singh
+email: singhak@iitj.ac.in
+2. Dr. Soumava Mukherjee
+email: soumava@iitj.ac.in
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

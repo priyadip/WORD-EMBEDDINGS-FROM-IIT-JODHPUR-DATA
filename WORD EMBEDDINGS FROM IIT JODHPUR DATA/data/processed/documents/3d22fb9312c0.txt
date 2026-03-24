@@ -1,0 +1,10 @@
+research seminar by manoj kumar on nov at pm title of the talk learning dynamics from neural ode generalization to disease modeling date time nov at pm online abstract this talk bridges theoretical and applied perspectives in learning dynamical systems
+in the first part will discuss our recent work on generalization capacities of neural ordinary differential equations neural odes where we derive generalization error bounds for and cases with general nonlinear dynamics
+the analysis reveals how lipschitz continuity overparameterization and domain bounds influence model generalization
+in the second part will present framework for modeling malaria transmission dynamics integrating and transmission functions within compartmental model
+we further employ neural networks pinns for parameter estimation and use dynamic mode decomposition dmd to derive interpretable transmission risk index
+together these studies demonstrate how insights and modeling can jointly enhance our understanding of complex dynamical systems
+about the speaker manoj is working as an assistant professor in the school of engineering and science at iit madras zanzibar since october
+his current research focuses on the modeling and analysis of infectious diseases using combination of machine learning deep learning and graph neural networks gnns
+he has completed his from the school of mathematical and statistical sciences indian institute of technology mandi iit mandi and master from the indian institute of technology ropar iit ropar in
+title of the talk learning dynamics from neural ode generalization to disease modeling date time nov at pm online abstract this talk bridges theoretical and applied perspectives in learning dynamical systems

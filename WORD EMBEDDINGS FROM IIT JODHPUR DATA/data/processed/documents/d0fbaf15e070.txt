@@ -1,0 +1,14 @@
+web policy guidelines quality guidelines in accordance with gigw
+if web page can be navigated sequentially and the navigation sequences affect meaning or operation website design development creating accessible and responsive page designs
+ensuring compliance with standards such as gigw wcag and security protocols
+content management publishing and updating web content content accuracy relevance and with departments for content inputs
+maintenance support monitoring uptime performance and security
+regular backups and technical support troubleshooting issues and bug fixes
+adhering to government and organizational web guidelines gigw performing audits for accessibility usability and performance
+any work that require web application development caputing of data processing of information payment gateway integration any login or registration are not handled by website team
+for this task erp application development team may be contacted
+certification vulnerability assessment and penetration testing vapt web application standardization testing and quality certification stqc compliance quality guidelines in accordance with gigw
+performing audits for accessibility usability and performance
+scope of work the website team is responsible for the planning development management and continuous improvement of the organization website
+their scope includes download section please follow the gigw guidelines for common structure of download section and archival page
+certification vulnerability assessment and penetration testing vapt web application standardization testing and quality certification stqc compliance

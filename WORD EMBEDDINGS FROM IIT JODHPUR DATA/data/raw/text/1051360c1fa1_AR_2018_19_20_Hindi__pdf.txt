@@ -1,0 +1,3173 @@
+SOURCE_PDF: 1051360c1fa1_AR_2018_19_20_Hindi_.pdf
+
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+
+okf’kZd izfrosnu
+
+okf’kZd izfrosnu
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+jk’Vªh; jktekxZ 65] ukxkSj jksM] djoM+ tks/kiqj 342037
+
+izfrfyI;kf/kdkj © 2019 Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj ¼www.iitj.ac.in½ lokZf/kdkj lqjf{krA
+laLFkku izdk”ku lfefr 
+MkW- deythr jkaxM+k] foftfVax ladk;] fo|qrh; vfHk;kaf=dh foHkkx 
+MkW- ,l-lh- cksl] lykgdkj ¼vdknfed½ 
+MkW- lqf’erk >k] lgizk/;kid] tSo foKku ,oa tSovfHk;kaf=dh foHkkx 
+MkW- iquhr “kekZ] lgizk/;kid] xf.kr foHkkx 
+MkW- fpjatkW; pV~Vksik/;k;] lgk;d izk/;kid] dEI;wVj foKku ,oa vfHk;kaf=dh foHkkx 
+MkW- dkE;k “kekZ] lgk;d izk/;kid] ekufodh ,oa lkekftd foKku foHkkx 
+MkW- {ksek izdk”k] miiqLrdky;k/;{k
+
+izLrkouk i
+“kkld eaMy 
+2
+foRr lfefr 
+3
+Hkou ,oa fuekZ.k lfefr 
+5
+u;k “kkld eaMy ,oa funs”kd 
+9
+foHkkx ,oa lEc) ladk; lnL; 
+10
+ih,p-Mh Fkhfll 
+36
+isVsaV vkSj izdk”ku 
+51
+iqjLdkj vkSj lEeku 
+67
+Ckká xfrfof/k;ka 
+68
+dEI;wVj dsanz 
+104
+izkFkfed LokLF; lsok dsanz 
+108
+vuqlwfpr tkfr@vuqlwfpr tutkfr izdks’B 
+109
+Nk= mRlo ,oa dk;ZØe 
+114
+Nk= lEeku 
+115
+Nk= IyslesaV izdks’B 
+120
+iwoZ Nk= lacU/k 
+123
+
+izLrkouk
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj dk ;g nloka o’kZ gSA ;g laLFkku dh ubZ ;k=k dk “kqHkkjaHk gSA
+laLFkku vc LFkk;h ifjlj esa lqLFkkfir gSA lHkh lqfo/kkvksa ds lkFk] bl o’kZ Hkk-izkS-la- tks/kiqj us foLrkj dh 
+izeq[k ;kstuk ij dk;Z vkjaHk dj fn;k gSA “kSf{kd vfHk’kn us u, ,e-Vsd-] ,e-Vsd-&ih,p-Mh nksgjh fMxzh 
+dk;ZØe vkjaHk djus ds fy, vuqeksnu iznku dj fn;k gSA laLFkku us lkr O;kid {ks=ksa Lisl VsDuksykWth] 
+DokaVe bUQksjes”ku izkslsflax] dksfXufVo lkbal] LekVZ gSYFkds;j] vkbZvksVh ,aM ,Iyhds”kal] fMthVy áwesfuVh] 
+vkWVksuksel Oghdy esa varj fo’k;d “kks/k dk;ZØe vkjaHk fd, gSaA Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj us 
+NVIDIA ds lg;ksx ls gkbZ&,aM thih;w csLM lqij dEI;wfVax flLVe dh LFkkiuk ds lkFk ,d ubZ ih<+h dh 
+,vkbZ iz;ksx”kkyk dh LFkkiuk dh gSA vxys “kSf{kd l= rd viuh Nk= la[;k c<+kdj 1500 djus dh ;kstuk 
+cuk;h gSA u, ladk; lnL;ksa dh fu;qfDr dh izfØ;k py jgh gSA
+laLFkku dk leqnk; lHkh fgr/kkjdksa dh lgk;rk ds lkFk ,d mTtoy Hkfo’; ds fy, rRij gSA
+
+laLFkku
+2- 
+jk’Vª dh izkS|ksfxdh laca/kh pqukSfr;ksa dks gy djus ds fy, vko”;d rduhdh ekuo lalk/ku rS;kj 
+djsxkA
+laLFkku
+1- ,slk xfr”khy izkS|ksfxdh laLFkku rS;kj djsxk ftlesa vf/kxe] “kks/k] vkfo’dkj vkSj varr% uokpkj
+lekfgr gksxk vkSj og mldk lao/kZu djsxk( rFkk
+2- izR;sd izkFkfed izfrHkkxh dks laLFkku ds izeq[k ewY;ksa dk vuqikyu djuk tkjh j[krs gq, muds /keZ ds
+izfr rS;kj djsxk
+¼d½ Hkkjr dh cM+h pqukSfr;ksa dks iwjk djus ds fy, l{ke izkS|ksfxdh Lukrd rS;kj djsxk(
+¼[k½ ,d izfØ;k lapkfyr O;kolkf;d laLFkku ds :Ik esa lfØ; deZpkfj;ksa dks izf”kf{kr djsxk(
+¼x½ ,d varjkZ’Vªh; izfrLi/kkZ “kSf{kd laLFkku ds fuekZrkvksa dks lqdj cuk,xk( vkSj
+¼?k½ vkfFkZd ewY; ltZu gsrq ;Fkk laHko m|ksxksa ds fy, ,d cy ds :Ik esa izkS|ksfxdh; uokpkj iznku
+djsxkA
+laLFkku ,sls izeq[k ewY; fu/kkZfjr djrk gS ftlesa Hkk-izkS-la- tks/kiqj leqnk; dk izR;sd lnL;
+¼1½ ekuoh; fu’Bk vkSj lEeku ds loksZPp Lrj dks cuk, j[ksxk( 
+¼2½ laLFkku ds fdlh Hkh izfrHkkxh ls dksbZ vuqfpr ykHk ugha mBk,xk( 
+¼3½ Nk=ksa] m|ksx txr vkSj lekt ds fgrksa dh j{kk djus ds fy, vR;f/kd iz”kaflr izkS|ksfxdh laLFkku ds
+¼4½ izkS|ksfxdh fopkjksa vkSj dk;Z ds ek/;e ls Hkkjr ds vkfFkZd fodkl ds izfr opuc) gksxk( 
+¼5½ lHkh ysu&nsu esa uSfrd] xaHkhj vkSj [kqyk gksxk( vkSj 
+¼6½ fdlh Hkh laidZ ls gksus okyh lHkh lwpuk vkSj ?kVukØeksa dh lokZf/kd xksiuh;rk cuk, j[kus ds fy,
+fujarj ftEesnkj gksxkA
+
+laxBu
+laxBukRed lajpuk
+djrk gSA 
+¼1½ “kkld eaMy( 
+¼2½ foRrh; lfefr( 
+¼3½ “kSf{kd vfHk’kn( vkSj 
+¼4½ Hkou ,oa dk;Z lfefr
+fuEufyf[kr js[kkfp= uhfr Lrj ij laLFkku ds o`gr iz”kklfud lajpuk dks izLrqr djrk gSA
+uhfr
+
+“kkld eaMy
+MkW- vkj- fpnEcje 
+iwoZ iz/kku oSKkfud lykgdkj] Hkkjr ljdkj ,oa 
+Mh,bZ&gkseh HkkHkk v/;{k izksQslj] HkkHkk ijek.kq vuqla/kku dsanz] eqEcbZ
+lnL;& Hkk-izkS-la ifj’kn~ }kjk euksuhr
+1- vij lfpo ¼rduhdh f”k{kk½
+ekuo lalk/ku fodkl ea=ky; 
+Hkkjr ljdkj] ubZ fnYyh
+2- MkW- ujir ,l- “ks[kkor
+iwoZ izk/;kid ¼ikni izkS|ksfxdh½ 
+t; ukjk;.k O;kl fo”ofo|ky;] tks/kiqj
+3- MkW- vf[ky jatu xxZ
+mik/;{k] ,eMh ,oa lhbZvks 
+tSu bjhZxs”ku flLVEl] tyxk¡o
+lnL; ¼jktLFkku ljdkj ds }kjk euksuhr½
+MkW- lqHkks/k vxzoky] vkbZ,,l 
+vij eq[; lfpo 
+jktLFkku ljdkj] t;iqj
+izks- lEir jkt oMsjk 
+izk/;kid 
+HkkSfrdh foHkkx 
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+izks- “kkaruq pkS/kjh 
+funs”kd 
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+
+foRr lfefr
+MkW- vkj- fpnEcje 
+iwoZ iz/kku oSKkfud lykgdkj] Hkkjr ljdkj ,oa 
+Mh,bZ&gkseh HkkHkk v/;{k izksQslj] HkkHkk ijek.kq vuqla/kku dsanz] eqEcbZ
+1- vij lfpo ¼rduhdh f”k{kk½
+mPprj f”k{kk foHkkx 
+ekuo lalk/ku fodkl ea=ky; 
+Hkkjr ljdkj] ubZ fnYyh
+2- foRrh; lykgdkj
+mPprj f”k{kk foHkkx 
+ekuo lalk/ku fodkl ea=ky; 
+Hkkjr ljdkj] ubZ fnYyh
+edku la- 1090] lsDVj 29 
+Qjhnkckn 121008
+4- ,l-,l- HkaMkjh
+funs”kd] cksMZ ds xSj dk;Zdkjh funs”kd 
+cM+kSnk cSad 
+ih&7] fryd ekxZ] lh&Ldhe 
+t;qij&302005
+MkW- xkSjo gfjr 
+lgizk/;kid 
+dEI;wVj foKku ,oa vfHk;kaf=dh foHkkx 
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+izks- “kkaruq pkS/kjh 
+funs”kd 
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+
+izrki Hkkuq esgrk lnL; ¼”kkld eaMy }kjk euksuhr½
+,p-ih- fdaNk lnL; ¼”kkld eaMy }kjk euksuhfr½
+latho feJk lnL; ¼”kkld eaMy }kjk euksuhr½
+foHkkxk/;{k] tSo foKku ,oa tSo izkS|ksfxdh foHkkx
+foHkkxk/;{k] jlk;u foHkkx
+foHkkxk/;{k] dEI;wVj foKku ,oa izkS|ksfxdh foHkkx
+foHkkxk/;{k] fo|qrh; izkS|ksfxdh foHkkx
+foHkkxk/;{k] ekufodh ,oa lkekftd foKku foHkkx
+foHkkxk/;{k] xf.kr foHkkx
+foHkkxk/;{k] ;kaf=d izkS|ksfxdh foHkkx
+foHkkxk/;{k] /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx
+foHkkxk/;{k] HkkSfrdh foHkkx
+foHkkx ls lHkkifr ds }kjk euksuhr
+izksQslj lh- osadsVs”ku] ;kaf=dh vfHk;kaf=dh foHkkx
+izksQslj ch-ih- d”;i] /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx
+v/;{k] Nk=kokl okMZu lfefr
+v/;{k] iqLrdky; lfefr
+v/;{k] Nk= ijke”kZ lsok lfefr
+v/;{k] izos”k lfefr
+
+Hkou ,oa fuekZ.k lfefr
+funs”kd 
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+2- lqJh m’kk dlkuk
+eq[; okLrqdkj 
+yksd fuekZ.k foHkkx 
+jktLFkku ljdkj 
+tSdc jksM] flfoy ykbZUl 
+t;iqj&302006
+3- Jh vkj-ds- xksfoy
+vij egkfuns”kd flfoy 
+26] vadqj vikVZesaV 
+7] vkbZih ,DlVsa”ku 
+fnYyh 110092
+eq[; vfHk;ark ;kaf=d ¼lsokfuo`Rr½] ds-yks-fu-fo- 
+721] LdkbZ ykdZ vikVZesaV] 
+lsDVj 6] IykWV la- 35] }kjdk 
+ubZ fnYyh 110075
+MkW- ch- johUnz 
+lgizk/;kid 
+;kaf=d vfHk;kaf=dh 
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj
+
+dk;kZUo;u Lrj ij laLFkku us viuh xfrfof/k;ka fofHkUu izeq[k inkf/kdkfj;ksa ds ek/;e ls laxfBr dh
+ADV 
+lykgdkj
+PiC 
+izHkkjh izk/;kid
+DR 
+midqylfpo
+AR 
+lgk;d dqylfpo
+M 
+LukrdksRrj
+D 
+MkWDVksjy
+ARC 
+iwoZ Nk= laca/k lfefr
+S&P 
+HkaMkj ,oa Ø;
+
+jkds”k ds- “kekZ vuqla/kku ,oa fodkl 
+lqjhy oh- “kkg “kSf{kd
+lEkfUork iky Nk=
+ehuw NkcM+k tSofoKku ,oa tSovfHk;kaf=dh
+jhrw xqIrk jlk;u
+xkSjo gfjr dEI;wVj foKku ,oa vfHk;kaf=dh
+vfuy ds- frokjh fo|qrh; vfHk;kaf=dh
+vafdrk “kekZ Ekufodh ,oa lkekftd foKku
+xkSjo HkVukxj xf.kr
+dkS”ky ,- nslkbZ ;kaf=d vfHk;kaf=dh
+xkSjo HkVukxj izos”k lfefr
+“kadj euksgju iwoZ Nk= laca/k lfefr
+Ckh-ih- d”;i loksZRre ch-Vsd ifj;kstuk Fkhfll ewY;kadu lfefr
+jkds”k ds- “kekZ izksUur oSKkfud midj.k dsanz
+lgvf/k’Bkrk ¼ladk;½ v/;srko`fRr vkosnu ewY;kadu lfefr
+lykgdkj ¼iz”kklu½ foRrh;] iz”kklfud ,oa volajpukRed lfefr
+Okh- ukjk;.ku f”kdk;r fuokj.k lfefr
+Ckh- ih- d”;i x`g vkoaVu lfefr
+dkS”ky ,- nslkbZ m|ksx folZtu dk;ZØe
+{ksek izdk”k vkarfjd f”kdk;r lfefr] efgyk izdks’B
+fdju dqekj vkj- fgjseB iqLrdky; lfefr
+fueZy ds- jk.kk fpfdRlk lsok lfefr
+vIiy uk;Mq xafM Nk=o`fRr ,oa iqjLdkj lfefr
+vafdrk “kekZ Nk= ijke”kZ lsok lfefr
+iquhr “kekZ Nk=kokl okMZu lfefr
+lanhi eqjkjdk Nk= IyslesaV lfefr
+lgvf/k’Bkrk ¼”kSf{kd½ Nk= vuq”kklukRed dkjZokbZ lfefr
+lgvf/k’Bkrk ¼Nk=½ jSfxax fojks/kh lfefr 
+lgvf/k’Bkrk ¼Nk=½ COTPA lfefr
+lgvf/k’Bkrk ¼ladk;½ edku vkoaVu vuq”kklukRed dkjZokbZ lfefr
+lgvf/k’Bkrk ¼vuqla/kku ,oa fodkl½ vuqla/kku izdk”ku lfefr
+MkW- dqynhi flag] fpfdRld] v-Hkk-vk-la- ]
+laLFkku vkpkj lfefr
+
+vuU;k nscukFk uksMy vf/kdkjh] mUur Hkkjr vfHk;ku
+vIiy uk;Mq xafM uksMy vf/kdkjh vkschlh] ihMCY;wMh ,oa vYila[;d
+vrqy dqekj gfjr igy vf/kdkjh
+xkSjo HkVukxj ikjnf”kZrk vf/kdkjh 
+xkSjo HkVukxj uksMy vf/kdkjh] us”kuy baLVhV~;w”kuy jSafdax ÝseodZ
+xkSjo gfjr eq[; lrdZrk vf/kdkjh 
+{ksek izdk”k efgyk izdks’B vf/kdkjh
+ehuw NkcM+k uksMy vf/kdkjh] LoPN Hkkjr vfHk;ku
+fiz;adk flag uksMy vf/kdkjh] foKku T;ksfr dk;ZØe
+Ikquhr “kekZ fganh vf/kdkjh
+jkds”k ds- “kekZ uksMy vf/kdkjh] bfEizaV bafM;k dk;ZØe
+jes”k ds es=s uksMy vf/kdkjh] vtk@vttk
+fjrq xqIrk uksMy vf/kdkjh] GIAN dk;ZØe
+lanhi eqjkjdk uksMy vf/kdkjh] DAAD Nk=o`fRr dk;ZØe
+lathc eq[kthZ volajpukRed vfHk;ark
+vejnhi “kekZ laink vf/kdkjh
+lkseukFk ?kks’k uksMy vf/kdkjh] LVMh bu bafM;k dk;ZØe
+vejnhi “kekZ tulaidZ vf/kdkjh
+lnL; 
+foHkkxk/;{k] tSo foKku ,oa tSo izkS|ksfxdh foHkkx 
+foHkkxk/;{k] jlk;u foHkkx 
+foHkkxk/;{k] dEI;wVj foKku ,oa izkS|ksfxdh foHkkx 
+foHkkxk/;{k] fo|qrh; izkS|ksfxdh foHkkx 
+foHkkxk/;{k] ekufodh ,oa lkekftd foKku foHkkx 
+foHkkxk/;{k] xf.kr foHkkx 
+foHkkxk/;{k] ;kaf=d izkS|ksfxdh foHkkx 
+izHkkjh] /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx
+foHkkxk/;{k] HkkSfrdh foHkkx 
+la;kstd] Qksdl lewg& tSfod :Ik ls izsfjr iz.kkyh foKku 
+la;kstd] Qksdl lewg& iz.kkyh foKku 
+lgvf/k’Bkrk ¼Nk=½ 
+laidZ vf/kdkjh ¼vtk@vttk izdks’B½
+
+MkW- vkj- fpnEcje] iwoZ izeq[k oSKkfud lykgdkj] Hkkjr ljdkj vkSj Mh,bZ&HkkHkk
+ijek.kq vuqla/kku dsanz] eqEcbZ esa gkseh HkkHkk ps;j izksQslj] dks v/;{k] “kkld eaMy Hkk-izkS-
+la- tks/kiqj ds :Ik esa fu;qDr fd;k x;k gSA
+lkFk gh Hkk-izkSs-la- tks/kiqj ds “kkld eaMy dk 4 u;s lnL;ksa ds lkFk iquZxBu
+1- vij lfpo ¼rduhdh f”k{kk½
+ekuo lalk/ku fodkl ea=ky;] 
+Hkkjr ljdkj] ubZ fnYyh
+2- ujir ,l- “ks[kkor
+iwoZ izk/;kid ¼ikni izkS|ksfxdh½ 
+t; ukjk;.k O;kl fo”ofo|ky;] tks/kiqj
+3- vf[ky jatu xxZ
+4- vfuy Hk¡ojyky tSu
+mik/;{k] ,eMh ,aM lhbZvks 
+tSu bjhZxs”ku flLVEl] tyxkao
+izks- “kkaruq pkS/kjh] izk/;kid] fo|qrh; vfHk;kaf=dh foHkkx] Hkk-izkSs-la-] fnYyh us 10 fnlEcj] 2018 dks
+funs”kd] Hkk-izkSs-la- tks/kiqj ds :Ik esa dk;Z xzg.k fd;kA os Hkk-izkSs-la- [kM+xiqj ls ch-Vsd ¼bySDVªkfuDl ,oa 
+bySfDVªdy dE;qfuds”ku bathfu;fjax½ vkSj ih,p-Mh ¼dEI;wVj lkbal ,oa bathfu;fjax½ /kkjd gSaA
+izksQslj pkS/kjh us 1992 esa fo|qrh; vfHk;kaf=dh foHkkx] Hkk-izkSs-la- fnYyh esa ladk; lnL; ds :Ik esa dk;Z
+xzg.k fd;k os Hkk-izkSs-la- fnYyh esa Mhu] voj Lukrd v/;;u FksA mUgksaus 2016&18 ds nkSjku 
+lh,lvkbZvkj&lhbZbZvkjvkbZ] fIkykuh ds funs”kd ds :Ik esa dk;Z fd;k gSA izksQslj pkS/kjh Hkk-izkSs-la- [kM+xiqj ls 
+izfrf’Br iwoZ Nk= iqjLdkj izkIrdrkZ gSaA
+izksQslj pkS/kjh Hkkjrh; jk’Vªh; vfHk;ark vdkneh ¼vkbZ,u,bZ½ vkSj jk’Vªh; foKku vdkneh ¼,u,,l½
+ds QSyks gSaA os baVjus”kuy ,lksfl,”ku iSVuZ fjdksfxus”ku ¼vkbZ,ihvkj½ ds QSyks gSaA mUgsa 1993 esa ;qok oSKkfud 
+ds fy, vkbZ,u,l, ¼Hkkjrh; jk’Vªh; foKku vdkneh½ ind iznku fd;k x;k FkkA mUgksaus 2012 esa vius “kks/k 
+;ksxnku ds fy, ,lhlh,l&lhMsd iqjLdkj izkIr fd;kA
+os ,d mRlkgh “kks/kdrkZ vkSj ,d O;kid f”k{kkfon~ gSa] izksQslj pkS/kjh dss izeq[k&lehf{kr tuZyksa vkSj
+lEesyu dh dkjZokfg;ksa esa yxHkx 300 izdk”ku] 15 isVsUV vkSj 4 ysf[kr@laikfnr iqLrdsa gSaA
+
+foHkkx ,oa lEc) ladk; lnL;
+laLFkku us viuh “kSf{kd xfrfof/k;ka ukS foHkkxksa ds ek/;e ls lapkfyr dh gSA ;s gSa%&
+1- tSo foKku ,oa tSo vfHk;kaf=dh] 
+2- jlk;u] 
+3- dEI;wVj foKku ,oa vfHk;kaf=dh] 
+4- fo|qrh; vfHk;kaf=dh] 
+5- ekufodh ,oa lkekftd foKku] 
+6- xf.kr] 
+7- ;kaf=d vfHk;kaf=dh] 
+8- /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh( vkSj 
+9- HkkSfrdh
+laLFkku us o’kZ ds nkSjku Hkk-izkSs-la- tks/kiqj leqnk; esa 7 u;s ladk; lnL;ksa dk Lokxr fd;kA foHkkxksa
+vkSj lac) ladk; lnL;ksa dk fooj.k vkxkeh i`’Bksa esa fn;k x;k gSA u;s ladk; dh HkrhZ tkjh gSA
+
+tSo foKku ,oa tSo vfHk;kaf=dh foHkkx
+tSo foKku ,oa tSo vfHk;kaf=dh foHkkx }kjk mPp&xq.koRrk] gLrkarj.kh; “kks/k ds lapkyu }kjk vkSj
+gekjs Nk=ksa dks tho foKku esa izkS|ksfxdh; vUos’kd cukrs gq, jk’Vª dh izkS|kfxdh; vko”;drkvksa dks iwjk 
+djus dh vkdka{kk gSA
+orZeku esa foHkkx tSo foKku ,oa tSo vfHk;kaf=dh esa ,e&Vsd vkSj ih,p-Mh dk;ZØe iznku djrk gSA
+tqykbZ 2018 ls vkjaHk djrs gq, ;g foHkkx tSo izkS|ksfxdh esa ch-Vsd dk;ZØe iznku djrk gSA bud k;ZØeksa 
+esa Nk=ksa dks vR;k/kqfud “kks/k voljapuk ls voxr djk;k tkrk gS tgka os iz;ksxkRed izf”k{k.k izkIr djrs gSaA
+foHkkx ds “kks/k iz;kl LokLF; ns[kHkky] Ik;kZoj.k vkSj —f’k ds {ks=ksa ij gy rS;kj djus esa dsafnzr gSaA
+1- ekWYkhD;wyj ,oa lsYkqyj ckW;ksykWth] 
+2- flLVEl ,aM dEI;qVs”kuy ckW;ksykWth] 
+3- ckW;ksesVsfj;Yl ,aM ckW;ks esdsfuDl] rFkk 
+4- ckW;ksykWthdy izkslsl ,aM ckW;ks&fMokbfll 
+;g foHkkx laLFkku ds vU; foHkkxksa rFkk tks/kiqj ds vkl&ikl vU; mPp vf/kxe laLFkkvksa ds lkFk
+lfØ; :Ik ls lg;ksx djrk gS rkfd “kks/k ,oa f”k{k.k ifj.kkeksa dks bZ’Vre fd;k tk ldsA foHkkx us Hkkjr esa 
+izeq[k fuf/k;u ,tsafl;ksa ls “kks/k fuf/k;ka izkIr dh gSa] uker% ekuo lalk/ku fodkl ea=ky;] foKku ,oa 
+izkS|ksfxdh foHkkx] tSoizkS|ksfxdh foHkkx] U;qfDy;j foKku esa “kks/k cksMZ] foKku ,oa vfHk;kaf=dh cksMZ rFkk 
+osyde VªLV MhchVh bafM;k ,yk;alA
+foHkkx ds lkFk lac) fuEufyf[kr ladk; lnL; gSa%
+ehuw NkcM+k 
+foHkkxk/;{k
+ckW;ksykWthdy lkbal ,oa ckW;ks&bathfu;fjax% fjuscy ck;ks,uthZ ckW;ksesMhfV;”ku
+vfer dqekj feJk
+lsyqyj ,aM ekWyhD;wyj U;wjkslkbal] lSy lkbZfdy jsxqys”ku ,aM dSalj
+ekWyhD;wyj QkeksZdksykWth ,aM jsMksDl ckW;ksykWth
+
+fiz;adk flag
+lsyqyj ,aM ekWyhD;wyj ckW;ksykWth
+“kadj euksgju
+ekWYkhD;wyj ekbØksykWth] gksLV&ekbØksc baVjsD”ku] thuksfeDl ,aM esVkthuksfeDl
+lsyqyj ,aM ekWyhD;wyj U;wjks lkbal] lSy ,aM ekWyhD;wyj fQft;ksykWth
+jk"Vªh; vkS’k/kh; f”k{kk ,oa vuqla/kku laLFkku ¼ukbij½ ds vkS’k/kh; izkS|ksfxdh; foHkkx ds izk/;id ,oa
+foHkkxk/;{k izksQslj ;w- lh- cuthZ bl foHkkx ds lkFk lac) ladk; lnL; ds :Ik esa tqM+s gq;s gSaA
+
+jlk;u “kkL= foHkkx
+tkrk gSA Hkk-izkS-la tks/kiqj esa jlk;u “kkL= foKku ,oa izkS|ksfxdh lg;ksx esa ,d fofo/k n`f’Vdks.k dks viuk;k 
+tkrk gSA ;g foHkkx ÅtkZ lek/kku] mRizsjdksa vkSj ty ds fy, ubZ lkefxz;ksa ds izkS|ksfxdh; ;ksxnku iznku 
+dj jgk gSA ewy :Ik ls dSfedy Mk;ukfeDl] tSfod izfØ;k] U;qfDy;j eSxusfVd jstksusal vkSj DokaVe dSfeLVªh 
+dh ewy le> esa o`f) gks jgh gSA jlk;u “kkL= foHkkx dk n`f’Vdks.k f”k{k.k] “kks/k vkSj cká xfrfof/k;ksa esa 
+mR—‘Vrk izkIr djuk gSA foHkkx ds lkFk fuEufyf[kr ladk; lnL; tqM+s gSa%&
+fjrq xqIrk 
+foHkkxk/;{k
+uSuksesfVfj;Yl ,oa uSuksfMokbfll QkWj okVj] ,uthZ ,ao gsYFkds;j
+vuU;k nsoukFk
+F;ksfjVhdy ,aM dEI;qVs”kuy dsfeLVªh
+vrqy dqekj
+Dok.Ve baQksZes”ku izkslsflax
+ef.kdanu ijutksFkh
+F;ksfjVhdy ,aM dEI;qVs”kuy dsfeLVªh] dsfedy fj;sD”ku Mk;ukfeDl
+fueZy dqekj jk.kk
+,flesfVªd dSVkfyfll ,aM uspqjy izksMDV flaFksfll
+jkds”k dqekj “kekZ
+dsVsfyfll QkWj ,uthZ ,aM LVhfj;ksdaVªksy] QhMLVksd dSefLVªh] ¶;wy ,aM 
+YkqcjhdsaV~l] ,uthZ LVksjst ,aM okVj VªhVesaV VSDuksykWth
+
+Eksu xzqi] vkxSZesVsfyd dSfeLVªh] dksZMhus”ku ikWyhelZ] buvkxsZfud&vkxsZfud 
+gk;fczM eVsfj;Yl ,aM esVy QkLQksusV ,aM QkWLQsV dSefLVªh
+lefUork iky
+lksY;w”ku ,aM lkWfyM LVsV ,u,evkj ,aM ,uD;wvkj LisDVªksLdkWih
+lanhi eqjkjdk
+vkxZsfud flaFksfll] MoyiesaV vkWQ uksoy flaFksfVd esFkB~l] VªkWfltu esVy 
+dsVsfyTM flaFksfll VªkalQksesZ”ku] lh&,p QaD”kyutkb”ku fj,sD”ku] 
+,flesfVªd dsVsfyfll
+
+dEI;wVj foKku ,oa vfHk;kaf=dh foHkkx
+dEI;wVj foKku ,oa vfHk;kaf=dh foHkkx dk eq[; mn~ns”; dEI;wVj foKku ds {ks= esa xq.koRrkijd
+f”k{kk iznku djuk gSA bl foHkkx dk n`f’Vdks.k fuEufyf[kr gS%
+1- viuh xgurk dk dksj dEI;wVj foKku ,oa vfHk;kaf=dh dh “kks/k ,oa v/;;u esa foLrkj djuk] 
+2- Ik;kZIr rduhdh ,oa lkW¶V dkS”ky ds lkFk ekuoh; lalk/kuksa dk l`tu lqfuf”pr djus gsrq “kks/k ,oa
+f”k{k.k ds okrkoj.k esa fujarj lq/kkj djuk] rFkk
+3- iz;ksxkRed vuqHko ds lkFk f”k{k.k d{k ds Kku ds izlkj gsrq Bksl m|ksx ,oa “kSf{kd Hkkxhnkjh LFkkfir
+djukA 
+orZeku esa foHkkx dEI;wVj foKku ,oa vfHk;kaf=dh esa rhu “kSf{kd dk;ZØe uker% ch-Vsd] ,e-Vsd vkSj
+ih,p-Mh dk;ZØe iznku djrk gSA izkS|ksfxdh Lukrd ¼ch-Vsd½ dk mn~ns”; Nk=ksa esa dEI;wVj foKku ,oa 
+vfHk;kaf=dh esa izeq[k l{kerk gkfly djuk vkSj mUgsa fodkl dk;Z djus rFkk “kks/k esa pqukSfr;ksa dk lkeuk 
+djus gsrq rS;kj djuk gSA ch-Vsd dk;ZØe dh izos”k {kerk 60 vkSj ,e-Vsd dk;ZØe dh izos”k {kerk 15 gSA 
+foHkkx ls Lukrd gksus okys Nk= Hkkjr esa iz[;kr m|ksxksa esa fu;ksftr fd;s tkrs gSa vFkok os ns”k esa vFkok 
+fons”kksa esa iz[;kr fo”ofo|ky;ksa esa mPp v/;;u izkIr djrs gSaA
+foHkkx dh dEI;wVj foKku ,oa vfHk;kaf=dh ds izeq[k {ks=ksa esa “kks/k vfHk:fp gSA vR;k/kqfud “kks/k
+ifj.kke rS;kj djus ds y{; ds lkFk MkWDVj vkWQ fQykslQh ¼ih,p-Mh½ dk;ZØe iznku fd;k tkrk gSA ih,p-
+Mh Nk= ohfM;ks ,ukfyfVDl] best vaMjLVSafMax] DykmM dEI;wfVax] MkD;qesaV ,ukfyfll vkSj baVjusV vkWQ 
+fFkaXl ds {ks=ksa esa dk;Zjr gSA izeq[k l{kerk ds lqn`<+hdj.k gsrq foHkkx dEI;wVj foKku ,oa vfHk;kaf=dh ds lHkh 
+{ks=ksa esa ladk; lnL;ksa dh [kkst esa gSA
+lkFk gh foHkkx m|ksx ,oa “kSf{kd txr ds lkFk lg;ksx gsrq bPNqd gSA orZeku esa vf[ky Hkkjrh;
+vk;qZfoKku laLFkku ¼,El½ tks/kqij] foKku ,oa izkS|ksfxdh foHkkx] Hkkjr ljdkj ds lkFk ifj;kstuk,a py jgh 
+gSA 
+ 
+bl vfrfjDr foHkkx “kSf{kd ,oa “kks/k lg;ksx ds fy, ekbØkslkW¶V] vkbZch,e] baVsy] Vhlh,l tSls
+m|ksx vxzf.k;ksa ds lkFk fudVrk ls dk;Z djrk gSA fudV Hkfo’; esa laLFkku dh etcwr m|ksx&”kSf{kd 
+Hkkxhnkjh ds lkFk ifj.kke vk/kkfjr f”k{kk ¼vkschbZ½ vkjaHk djus dh Hkh ;kstuk gSA foHkkx ladk;] deZpkfj;ksa 
+vkSj Nk=ksa dh lfØ; Hkkxhnkjh ds lkFk “kSf{kd ,oa “kks/k nksuksa esa mR—‘Vrk izkIr djus gsrq fujarj iz;kljr 
+gSA 
+foHkkx ls lac) fuEufyf[kr ladk; lnL; gSa%
+xkSjo gfjr 
+foHkkxk/;{k
+best ,aM ohfM;ks ,ukfyfll
+dEI;wVj fotu
+
+fMLVhªC;wVsM flLVe] DykmM dEI;wfVax] fMLVhªC;wVsM LVksjst ,aM 
+dafllVsalh
+lqfer dkyjk
+lkW¶Vos;j vkfdZVsDpj] DykmM dEI;wfVax] MkVk ,ukfyfll
+foHkkx esa ,d LdkWyj&bu&jslhMsal] izksQslj vkj- ds- “;ke lqanj Hkh gSa] tks VkVk baLVhV;wV vkWQ
+QaMkesaVy fjlpZ] eqEcbZ esa ofj’B izk/;kid vkSj ts-lh- cksl QSyks gSaA
+xf.kr foKku laLFkku] pSUubZ ds izksQslj osadsVs”k jeu lEc) ladk; lnL; ds :Ik esa bl foHkkx
+
+fo|qrh; vfHk;kaf=dh foHkkx
+fo|qrh; vfHk;kaf=dh foHkkx] iwoZ esa Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj esa lwpuk ,oa lapkj izkS|ksfxdh
+dsanz dk Hkkx ¼2008½ dk eq[; dsanz xq.koRrk f”k{kk iznku djus vkSj Nk=ksa dks Hkfo’; dh izkS|ksfxdh pqukSfr;ksa 
+dk lkeuk djus gsrq rS;kj djus ij dsafnzr gSA bl foHkkx dk n`f’Vdks.k “kks/k okrkoj.k esa o`f) djuk vkSj 
+f”k{kk “kkL= esa uokpkj djuk gS rkfd lkekftd&vkfFkZd pqukSfr;ksa vkSj ekuo lalk/ku fodkl ls lacaf/kr 
+eqn~nksa dks gy fd;k tk ldsA ;g foHkkx ladk; lnL;ksa vkSj Nk=ksa }kjk mPp xq.koRrkijd “kks/k rFkk f”k{k.k 
+esa mR—‘Vrk ds izfr izfrc) gSA
+mR—‘V iz;ksx”kkykvksa lqfo/kkvksa vkSj lefiZr ladk; lnL;ksa ds lkFk fo|qrh; vfHk;kaf=dh foHkkx
+fuEufyf[kr dk;ZØe iznku djrk gS% 
+1- ch-Vsd ¼fo|qrh; vfHk;kaf=dh½] 
+2- ,e-Vsd ¼fo|qrh; vfHk;kaf=dh½] vkSj 
+3- fo|qrh; vfHk;kaf=dh esa fo”ks’kKrk ds lkFk ih,p-Mh
+“kks/k ds eq[; {ks= ekbØksbYkSDVªkfuDl] ikWoj ,aM daVªksy flLVEl] dE;wfuds”ku ,aM flXuy izkslsflax]
+vkj,Q rFkk ekbØksosc gSa( rFkk “kks/k ds izeq[k {ks=ksa esa fuEufyf[kr “kkfey gSa%
+1- flXuy izkslsflax QkWj gsYFkds;j] 
+2- fMokbfll ,aM lfdZV QkWj flD;ksfjVh ,aM lsaflax 
+3- yks&dksLV QysDlhcy bySDVªkfuDl 
+4- LekVZ fxzM~Lk ,aM fMLVªhC;w”ku vkWQ fjU;w,cy ,uthZ 
+5- Okk;jySl ,aM eksckby dE;qfuds”ku 
+6- vkj,Q ,aM ekbØksosc] ,oa 
+7- best izkslsflax
+foHkkx dk fofHkUu laxBuksa ds lkFk lfØ; lg;ksx tkjh gS tSls fd ÝhLdsy lsehdaMDVlZ] Xykscy
+QkmaMªht] ,El tks/kiqj] Mh,lVh] MhvkjMhvks] bljksA viuh “kq:vkr ls gh foHkkx vuqla/kku ,oa fodkl 
+laxBuksa ls fofHkUu izk;ksftr ifj;kstuk,a izkIr djrk jgk gSA
+fuEufyf[kr ladk; lnL; foHkkx ds lkFk lac) gSaA
+vfuy dqekj frokjh 
+foHkkxk/;{k
+bySfDVªdy bathfu;fjax% best izkslsflax] ohfM;ks izkslsflax ,aM flXuy 
+izkslsflax ,Iyhds”ku ,u ckW;ks&esfMdy
+vCnqy xQwj “ksd
+izksVsD”ku vkWQ osfj;l daiksusV~l vkWQ ikWoj flLVEl] izksVsD”ku vkWQ 
+fMfLVªC;w”ku usVodZ foFk Mhth isusVªs”ku] ikWoj DokfyVh ,lslesaV ,aM 
+fefVxs”ku ,u fMLVhªC;w”ku usVodZ foFk fjusoy ,uthZ lkslZ isusVªS”ku
+
+vk”kh’k ekFkqj
+ikWoj ykbu dE;wfuds”ku] Ýh Lisl vkWIVhdy dE;wfuds”ku] foftcy ykbZV 
+dE;wfuds”ku
+vfiZr [kaMsyoky
+xzqi&AAA&v vkWIVksbysDVªkWfud fMokbZfll] QkbZcj vkWfIVDl ,aM baVhxzsVsM 
+vkWfIVDl lsallZ ukWu&yhfu;j QksVksfuDl] flfydkWu QksVksfuDl ,aM 
+vkIVhdy dE;wfuds”ku
+v:.k dekj flag
+dE;wfuds”ku F;ksjh ok;jySl ,aM eksckby dE;wfuds”ku] lsVsykbV csLM 
+usohxs”ku flLVEl] LizsM LisDVªe flLVEl
+nhid dqekj ,e Qqyokuh
+daVªksy ,aM LVsV ,LVhes”ku vkWQ vuljVsu flLVEl] ikWoj flLVEl] daVªksy 
+bZ”;wt bu foaM ,uthZ duotZu flLVEl
+egs'k dqekj
+xzqi&AAA&v dok.Ve LVªDplZ okbZ ,echbZ] xzksFk vkWQ fFku fQYEk ,aM 
+uSuksLVªDpl] xzqi&AAA] ukbVªkbM ,ykW; QkWj ,ybZMh] ,pbZ,eVh ,aM 
+QksVksokYVhd ,Iyhds”ku] buvkxsZfud&buvkxsZfud gkbfczM LVªDplZ foFk 
+Lis”ky vVsa”ku Vw csaM xsi bathfu;fjax ,lvkbZ ,aM okbZM cSaM xSi lsehdaMDVj 
+QkWj ,ebZ,e,l] ekbØks ,aM uSuks fMokbZfll Qsczhds”ku
+lanhi dqekj ;kno
+flXuy izkslsflax] daMh”ku ekWuhVfjax] best izkslsflax] MkVk daizhgsa”ku CykbaM 
+lkslZ lsijs”ku] vkVhZfQ”k;y U;wjy usVodZ
+Jhizdk”k frokjh
+ekbØksbysDVªkfuDl ,oa oh,y,lvkbZ VSDuksykWth] ekbØkQsczhds”ku] vkxsZfud 
+bysDVªkfuDl] fMokbZfll fQftDl ,aM dsjsDVjhts”ku] ubZ fMokbZfll LVªDpj
+jkty{eh pkSgku
+best izkslsflax] ukWbt ,MsM best izkslsflax ;wflax LVksdsfLVd jstksusal best 
+,ugsalesaV] fMftVy okVjesfdax] best DokfyVh ,lslesaV
+
+1- izksQls j ekbdy “kQs us k vkSj MkW- ;qu vkbZ] ,uVh,u;w] ukoZs ds lkFk vk”kh’k ekFkqj }kjk ih,ylh vkSj
+ih,lvk s ds {k=s eaAs
+2- izks- nsck”kh’k ?kk’s k] vkbZvkbZ,llh] cSaxyksj vkSj izks- Msuf;y ts+ykt+k]s VsdfuvkWu ds lkFk vuwi tSu }kjk
+eYVh ,tVsa flLVe vkSj ukuW yhfu;j daVªksy ds {k=s esaA
+3- izks- ,- fc”okl] izks- ,e- ts- v[rj] Hkk-izkS-la- dkuijq ds lkFk lkSeo eq[kthZ }kjk ,lvkbZMCy;w ,aVhuk
+ds {k=s eAssa
+lkSEko eq[kthZ
+ekbØksoso dE;wfuds”ku
+foHkkx esa ,d Ldksyj&bu&jsthMsal izksQslj vkj-ds- “;kelqanj Hkh gSa tks ,d ofj’B izk/;kid gSa rFkk
+VkVk baLVhV~;V vkWQ QaMkesaVy fjlpZ] eqEcbZ esa ts-lh- cksl us”kuy QSyks gSaA
+foHkkx esa fuEufyf[kr rhu lac) ladk; lnL; gSaaA
+1- dksVk oh eqjyh] phQ VSDuksykWftLV] lsehdaMDVj fjlpZ ,aM MoyiesaV lsaVj] vkbZch,e] bafM;k] caxykSjK( 
+2- nsok”kh’k nRrk] fjVk;MZ izk/;kid] Hkk-izkS-la- [kM+xiqj( ,aM 
+3- v{k; dqekj jkBkSM+] lgizk/;kid] bySDVªhdy ,aM dEI;wVj bathfu;fjax] dkWudksfMZ;k ;wfuoflZVh] ekWVªh;y]
+dukMk
+foHkkx }kjk foRrh; o’kZ 2018&19 ds nkSjku fuEufyf[kr xfrfof/k;ka vk;ksftr dh xbZaA
+
+Ekkufodh ,oa lkekftd foKku
+Ekufodh ,oa lkekftd foKku ,sls LFkku ls lapkyu djrk gS tks vuqHkoh vkSj iz;ksxkRed Kku
+iz.kkfy;ksa ds chp ,d laidZ lw= ds :Ik esa dk;Z djus dk volj iznku djrk gSA ;qok bathfu;jksa dh “kSf{kd 
+ikB~;p;kZ esa egRoiw.kZ Hkwfedk fuHkkrs gq, ge Lukrd] LukrdksRrj vkSj MkWDVjy Lrjksa ij dksj rFkk bysfDVo 
+ikB~;Øe iznku djrs gSaA ekufodh ,oa lkekftd foKku dh Hkkouk ds fof”k’V mn~ns”; ds fy, midj.kksa vkSj 
+dkS”ky iznku djus dh ;ksX;rk esa lqfo/kk dkjdksa ds :Ik esa dk;Z djus okys O;fDr;ksa dks laosnh cukuk “kkfey 
+gksrk gS] vr%] ge Nk=ksa ds lkFk vFkZiw.kZ laidZ djrs gSa rFkk mUgsa izkS|ksfxdh] lekt vkSj ekuork ds chp 
+le>] v/;;u vkSj dk;Z djus esa lgk;rk djrs gSaA ;g dk;Z ,d ,sls “kSf{kd lanHkZ esa vkSj vf/kd egRoiw.kZ 
+gks tkrk gS tgka Hkkjr ds loksZRRke ;qok bdV~Bs dk;Z djrs gSaA
+,sls ladk; lnL; ftUgksaus fofo/k fo’k; ¼n”kZu”kkL=] euksfoKku vkSj lkfgR;½ esa fo”ks’kKrk izkIr dh
+gS] rFkk o`gr i`’BHkwfe okys Nk=ksa ds lkFk ;g foHkkx ,d l?ku eap iznku djrk gS tgka rduhd vkSj f”k{kk 
+dks ekuo vkSj lkekftd le> ds lkFk vuqiwfjr fd;k tk ldsA foHkkx ds lkFk fuEufyf[kr ladk; lnL; 
+tqM+s gSa%&
+vafdrk “kekZ 
+foHkkxk/;{k
+euksfoKku& xsjksaVksykWth] fDyfudy ,aM ikWftfVo lkbdksykWth
+ds-ts- tkWtZ
+n”kZu”kkL=& ,IykbM ,fFkDl vkWQ VSDuksykWth] ck;ks,fFkDl
+n”kZu”kkL++=& dksxfufVo LVMht] ,oksY;q”kujh F;ksjh] ,ukfyfVd fQykWlQh ,aM 
+ekbaMQqyusl
+lkekftd@lkaL—frd euksfoKku& tsaMj LVMht] iksLVdksyksfu;y lkmFk ,f”k;k 
+baVjus”kuy ,aM Vªaklus”kuy ekbxzs”ku] DokfyVsfVo fjlpZ
+vaxzsth& fyVjspj ,aM ,uok;juesaV ¼bdksfØfVflTe½] fQYe ,aM fyVjspj] 
+fyVjsplZ vkWQ n Xykscy lkmFk] jhtuy fyVjsplZ bu Vªkalys”kal] vesfjdu 
+fyVjspj
+
+pank pØorhZ] izk/;kid] ekufodh ,oa lkekftd foKku] Hkk-izkS-la- [kM+xiqj lac) ladk; lnL; ds :Ik
+esa foHkkx ds lkFk lac) gSaA
+Ek;qjk{kh pkS/kjh dks ekuo lalk/ku fodkl ea=ky; ¼,e,pvkjMh½ }kjk Mk;jsDV Vw gkse ¼MhVh,p½
+ifj;kstuk esa Hkkx ysus ds fy, vkeaf=r fd;k x;kA bl ifj;kstuk ds Hkkx ds :Ik esa mUgksaus ehfM;k lsUVj] 
+Hkk-izkS-la- dkuiqj tksfd ifj;kstuk ds fy, leUo;d laLFkku gS esa ikB~;Øe tsaMj ,aM lkslk;Vh ds lac) esa 
+20 O;k[;kuksa dk ,d lsV fjdkWMZ fd;k gSA muds O;k[;ku nwjn”kZu }kjk ekufodh ,oa lkekftd foKku rFkk 
+izca/k ds fy, pSuy 16 ij izlkfjr fd;s tk,axsA pSuy 16 us 2018 ds “kq:vkr ls gh ikB~;Øeksa dk izlkj.k 
+djuk igys gh vkjaHk dj fn;k gSA
+
+xf.kr foHkkx
+gS vkSj vkt dh pqukSrhiw.kZ leL;kvksa dks gy djus ds fy, ubZ F;ksjh vkSj ekWMy rS;kj djrk gSA foHkkx ,slh 
+if)fr;ksa vkSj ekWMy rS;kj djus esa vxz.kh Hkwfedk fuHkkrk jgk gS ftUgsa dEI;wVj foKku] vfHk;kaf=dh vkSj 
+ewyHkwr foKku ds fofo/k {ks=ksa esa iz;ksx fd;k tk ldsA foHkkx esa vYtscjk] eSFkesfVdy fQftDl] lkbafVfQd 
+daI;qVs”ku] U;wesfjdy ,ukfyfll] ikf”kZ;y fMQjsaf”k;y bDos”kUl] Vksiksyksftdy Mk;ukfeDl] yks&Mkbesa”kuy 
+dsvksl] Mk;ukfeDl flLVe] fjukeZykbts”ku bu yks&Mk;esa”kuy Mk;ukfeDl] osoysV ,ukfyfll] ÝsD”kuy 
+F;ksjh] best izkslsflax] foRrh; tksf[ke fo”ys’k.k] Js.kh vkadM+k fo”ys’k.k ds {ks=ksa esa “kks/k :fpiw.kZ ladk; gSA 
+ 
+foHkkx mu Nk=kssa ds fy, LukrdksRrj Lrj ij vR;f/kd xq.koRrkijd dk;Zdze iznku djrk gs tks
+xkSjo HkVukxj 
+foHkkxk/;{k
+osoysV ,ukfyfll] ÝSD”kuy VªkalQkseZ F;ksjh] eYVhehfM;k flD;ksfjVh] best 
+izkslflax] baQksZes”ku ¶;w”ku
+fdju dqekj vkj- fgjseB
+F;ksjhfVdy] esFksesfVdy ,aM dEI;qVs”ku ,LisDV~l vkWQ oso ehVj baVjsD”ku
+iquhr “kekZ
+VksiksykWthdy Mk;ukfeDl] yks Mkbesa”kuy fMesafl;y dsvksl
+oh-oh-,e-,l- panzekSyh
+foosd fot;
+Qk;usaf”k;y ,ukfyfll] dsVsxksfjdy MkVk ,ukfyfll] fjxzh”ku
+foHkkx }kjk fuEufyf[kr lEesyu izLrqfr;ka izLrqr dh xbZ gSa%
+
+1. 
+,lih flag vkSj th HkVukxj ^^, jsQsjsal csLM Ldh;ksj ,aM jkscqLV thjksokVjesfadax Ldhe^^ izksd- baV 
+dkaÝsal dEI;wVj fotu ,aM best izkslsflax] vkbZvkbZvkbZVhMh,e tcyiqj] Hkkjr] 29 flrEcj&1 vDVwcj] 
+2018
+2. 
+,lih flag vkSj th HkVukxj ^^, jkscqLV okVjesfdax Ldhe QkWj dkWihjkbZV izksVsD”ku ^^ izksd- baV 
+dkaÝsal dEI;wVj fotu ,aM best izkslsflax] vkbZvkbZvkbZVhMh,e tcyiqj] Hkkjr] 29 flrEcj&1 vDVwcj] 
+2018
+
+;kaf=d vfHk;kaf=dh foHkkx
+;kaf=d vfHk;kaf=dh foHkkx eq[;r% xq.koRrkijd f”k{kk iznku djus vkSj Nk=ksa dks ;kaf=d vfHk;kaf=dh
+ds {ks= esa izkS|ksfxdh; pqukSfr;ksa dk lkeuk djus ds fy, rS;kj djus ij dsafnzr gSA bl foHkkx dk n`f’Vdks.k 
+“kks/k okrkoj.k esa o`f) djuk vkSj f”k{kk “kkL= esa uokpkj ykuk gS rkfd lkekftd&vkfFkZd vkSj ekuoh; 
+lalk/ku fodkl dh pqukSfr;ksa dks gy fd;k tk ldsA ;g foHkkx f”k{k.k esa mR—‘Vrk esa ladk; lnL;ksa vkSj 
+Nk=ksa }kjk mPp xq.koRrkijd “kks/k gsrq izfrc) gSA
+foHkkx ;kaf=d vfHk;kaf=dh esa fofHkUUk {ks=ksa esa fo”ks’kKrk iznku djrs gq, ;kaf=d vfHk;af=dh esa ch-Vsd-
+iznku djrk gSaaA foHkkx fo”ks’kKrkvksa dh o`gr Js.kh ds lkFk mPp xq.koRrkijd LukrdksRrj dk;Zdze] ,e-Vsd-
+¼;kaf=dh vfHk;kaf=dh½ vkSj ih,p-Mh- ¼;kaf=dh vfHk;kaf=dh½ Hkh iznku djrk gSA laLFkku us ch-Vsd Nk=ksa ds 
+fy, izca/ku] m|ferk esa ekbuj fMxzh iznku djus vkSj mHkjrs gq, {ks=ksa tSls fd vkfVZfQf”k;y baVsyhtsal 
+¼,vkbZ½] MkVk ,aM dEI;qVs”kuy lkbal] LekVZ gsYFkds;j] ,uthZ eVhfj;Yl ,aM lkbZcj fQftdy flLVEl 
+¼lhih,l½ esa varj&fo’k;d fo”ks’kKrk izkIr djus dh vuqefr iznku dh gSA lHkh vuqeksfnr y?kq mikf/k vkxkeh 
+“kSf{kd l= ls iznku fd, tkus dh laHkkouk gSA
+foHkkx fofHkUu izkS|ksfxdh; fo”ks’kKrkvksa ds lkFk mPp xq.koRrkijd ih,p-Mh dk;ZØe iznku djrk gSA
+laLFkku us nks vR;k/kqfud ,e-Vsd- dk;ZØeksa] FkeksZ¶YkwbM bathfu;fjax esa ,e-Vsd- vkSj ,MokaLM eSuqQSDpfjax ,aM 
+fMtkbu esa ,e-Vsd- rFkk ,d nksgjh fMxzh (,e-Vsd-+ih,p-Mh-) dk;ZØe dh vuqefr iznku dh gS ftUgsa ;kaf=d 
+vfHk;kaf=dh foHkkx }kjk iznku fd;k tk,xkA ;s dk;ZØe vkxkeh “kSf{kd l= ls vkjaHk fd, tkus dh vk”kk 
+gSA foHkkx esa ;kaf=d vfHk;kaf=dh ds fofHkuu {ks=ksa esa lqlfTtr iz;ksx”kkyk,a gSaA foHkkx esa fofHkUu dEI;wVs”kuy 
+midj.k ekStwn gSa tSls fd gkbZ ,aM dEI;wVs”kuy lqfo/kkvksa ds lkFk ,,u,lokbZ,l] ,csdl] vksiuQkse] lksfyM 
+oDlZ gkbij oDlZ] fØ;ks] Vsd IykWV] eSVySc bR;kfn gSaA foHkkx dk ,El tks/kiqj] tuZy bySDVªhd FkeZDl] 
+MhvkjMhvks] bljks] Vhlh,l buksos”ku ySc] Vhoh,l eksVj daiuh vkfn ds lkFk lfØ; lg;ksx gSA foHkkx 
+viuh “kq:vkr ls gh vuqla/kku ,oa fodkl laxBuksa ls fofHkUu izk;ksftr ifj;kstuk,a izkIr djrk jgk gSA
+VSDuksykWth VªSd esa fuEufyf[kr “kkfey gSaA
+1- ,MhfVo eSuqQSDpfjax 
+11- lksyj FkeZy LVksjst
+2- dUosu”kuy ,aM ukWu&dUosu”kuy e”khfuax 
+12- lksyj FkeZy ,Iyhds”kal
+3- dkfLVax] osfYMax ,aM QksfeZax 
+13- eYVh Qst ¶yks ,aM ghV VªkalQj
+4- ukWu&yhfu;j okbczs”ku 
+14- ,;j dwYM daMsllZ
+5- ,ebZ,e,l 
+15- dkWEisDV ghV ,Dlpsatj
+6- jkscksV ekWMfyax ,aM daVªksy 
+16- ghV VªkalQj bugsalesaV
+7- vkWy VSjsu OghdYl 
+17- okWVj ,uthZ usDll
+8- vuesUM ,jh;y OghdYl 
+18- VSDuksykWthl QkWj :jy MoyiesaV
+9- ,uthZ ,aM iksiqys”ku 
+19- LekVZ esuqQSDpfjax ,aM baMLVªh 4-0
+10- lksyj fjlkslZ ,lslesaV 
+20- eSVªksykWth ,aM DokfyVh daVªksy
+
+foHkkx ds lkFk fuEufyf[kr ladk; lnL; lac) gSa%
+dkS”ky dqekj ,- nslkbZ 
+foHkkxk/;{k
+ekWMfyax vkQ eSuQSDpfjax izkslsll] lh,Mh@lh,,e] lh,ulh esdsfuax] ,jj 
+dEizhgsa”ku
+vkuUn —‘.ku IykIiYyhs
+okVj] okVj esustesaV ,aM dsjsDVjykbts”ku vkWQ bathfu;MZ eVsfj;Yl
+ch- jfoUnz
+fMtkbu] Mk;ukfeDl] ckbczs”ku ,aM daVªksy
+c:.k izfrgj
+Mk;ukfeDl vkQ e”khu ,aM LVªDplZ] ¶ySDlhcy jkscksV] ,ebZ,e,l] jksVj 
+Mk;ukfeDl ukWu ykbZuj vksflys”ku
+gsyhdkWIVj Mk;ukfeDl ,aM ,;jksykLVhflVh] fMtkbZu vkQ vkWVksukel feuh 
+gsyhdkWIVlZ] ,aM LekVZ LVªdj ,ukfyfll
+gkfnZd ch- dksFkkfM;k
+eYVhQst ¶yks] cks;fyax ,aM daMsals”ku] ghV VªkalQj] ¶YkwbM esdsfuDl 
+xslhfQds”ku
+izkS|qr vkj- pØorhZ
+ghV ,aM ekWl VªkalQj] ysVsaV ghV csLM LVksjst fMokbl QkWj gkbZ Vseizspj 
+,Iyhds”ku] ,ykW; lksfyMfQds”ku izkslsl] ,fDVo ,aM isflo lksyj dwfyax 
+flLVEl bysfDVªkWfud dwfyax
+jkgqy fNCCkj
+osfYMax ,aM tks;fuax esuqQSDpfjax ,aM esfVfj;Yl izkslsflax] esdsfudy fcgsfo;j 
+vkQ eVsfj;Yl
+
+lqjhy oh- “kkg
+jkscksfVDl] eYVhckWMh Mk;ukfeDl ,aM daVªksy
+lqnhIrks eq[kksik/;k;
+,uthZ VSDuksykWth] dkWEC;q”ku VSDuksykWth] dEI;qVs”kuy ¶ywbM Mk;ukfeDl 
+VcqZysaV ¶yks] Lizs
+
+/kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx
+laLFkku us tuojh] 2017 esa /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx vkjaHk fd;kA orZeku esa foHkkx
+/kkrqdeZ ,oa inkFkZ vfHk;kaf=dh esa rhu fMxzh dk;ZØe uker% ch-Vsd] ,e-Vsd vkSj ih,p-Mh fMxzh iznku djrk 
+gSA foHkkx ds izeq[k {ks= fuEu gSaA 
+ 
+¼1½ bySDVªkfud eVsfj;Yl] ckW;kseVsfj;Yl] vkIVhdy ,aM esXusfVd eVsfj;Yl ,aM fMokbl] 
+¼2½ ,DlVsªD”ku vkWQ esVy ,aM ekbuj izkslsflax] 
+¼3½ baVhxzsVsM dEI;qVs”kuy eVsfj;Yl bathfu;fjax] 
+¼4½ eVsfj;Yl izkslsflax ,aM izkslsl MoyiesaV] 
+¼5½ fQthdy ,aM esdsfudy eSVkythZ vkWQ eVsfj;Yl] vkSj 
+¼6½ FkeksZMk;ukfeDl ,aM dkbusfVd izkslsll bu eVsfj;Yl 
+ 
+foHkkx ds lkFk fuEufyf[kr ladk; lnL; lac) gSaA
+Hkxorh ih d”;i 
+izk/;kid
+FkeksZ esdsfudy VªhVesaV ,aM lwij IyLVhflVh] xzsu ckamMªh fQuksfeuk Øhi ,aM 
+yks VsEizspj fMQksZes”ku ekbØksLVªDpj&¶yks izkWiVhZ dksfjys”ku] ,aM ykbZV esVy 
+,aM ,YkkW; MoyiesaV
+vchj HkV~Vkpk;Z
+esdsfudy fcgsfo;j vkWQ eVsfj;Yl] QsVhx vkQ csfjax LVhy] gkbZ LVªSu jsV 
+fMQksZes”ku vkWQ eVsfj;Yl] buMsVsa”ku jsliksal vkWQ eVsfj;Yl
+vIiy uk;Mq xafM
+QLVZ fizalhiy dsYdqys”ku] Qst QhYM ekWMfyax
+dEI;qVs”kuy FkeksZMk;ukfeDl QkWj ,ykW; fMtkbu] lksfyMfQds”ku LVMht 
+vkWu ykbZV ,ykW;] ckW;ksfMxzhcy esxsfuTe ,YkkW;] lsYQ Dyhfuax dksfVax
+
+foHkkx }kjk fuEufyf[kr dk;Zdykiksa dk vk;kstu fd;k x;kA
+
+HkkSfrdh foHkkx
+iz;ksx ds lkFk ewy HkkSfrdh esa n`f’VtU; “kks/k Hkk-izkS-la- tks/kiqj esa HkkSfrdh foHkkx dk eq[; fo’k; gSA
+ladk; lnL; ,LVªksfQftDl] daMsaLM esVj fQftDl ,oa esVhfj;y lkbal] ikfVZdy fQftDl] iz;ksxkRed ,oa 
+lS)kafrd ek=kRed vkWfIVDl] ek=kRed lwpuk vkSj ek=kRed ;kaf=dh dh uhao ds {ks=ksa esa “kks/k djrs gSaA foHkkx 
+esa miyC/k “kks/k lqfo/kkvksa esa ,lD;w;wvkbZMh eSxuksehVj] fQftDl izksiVhZ estjesaV flLVe ¼ihih,e,l½] jeu 
+LisDVªksehVj rFkk Ldsfuax Vufyax ekbØksLdksi ¼,lVh,e½ “kkfey gSaA
+foHkkx ds lkFk fuEufyf[kr ladk; lnL; tqM+s gSa%&
+lEir jkt oMsjk 
+foHkkxk/;{k
+lkWfyM LVsV fQftDl] eVsfj;Yl lkbal] uSuklkbal ,aM uSuksVSDuksykWth] LVsYFk 
+eVsfj;Yl] LysYFk VSDuksykWth
+lsehdaMDVjlZ] eYVhQaD”kuy QsjksbDl ,aM eVsfj;Yl QkWj ,uthZ Qsczhds”ku ,aM 
+dsjsDVsykbts”ku] QksVksoksfYVd eVsfj;Yl ,aM fMokbfll ,nh bfufl;ks Mh,QVh 
+LVMh ,aM fMokbl fleqys”ku
+vk”kqrks’k dqekj vkyksd
+ikfVZdy fQftDl ,aM dkWLeksykWth
+nqxkZek/kc feJk
+esXusfVd fFku fQYe ,aM uSuksikfVZdy] iekZusaV esXusV] lkaØksVksu ,aM U;wVªkWu 
+LdSVfjax ,aM ,Dl&js besftax
+eksfudk flUgk
+,LVªksfQftDl] ,LVªksikfVZdy fQftDl
+lR;thr lkgw
+baQksZes”ku izkslsflax bu ckW;ksykWthdy flLVEl
+
+lqHkk”kh’k cuthZ
+vksiu Dok.Ve flLVEl( Dok.Ve baQksZes”ku( ukWu&bD;wosfj;e LVsVlhdy 
+esdsfuTe( Dok.Ve vkfIVDl
+lkseukFk ?kks’k
+ykbZV bu fMlvksMZjM ,aM dkWIysDl flLVEl] feM vkbZvkj QksVksfuDl ,aM 
+vudaOksa”kuy fMokbfll
+vkWfIVDl ,aM lksyj fQYM fMtkbu] IykteksfuDl] ystj izksM~;wLM IykTek 
+¼,yihih½] iYlM ystj fMiksfl”ku ¼ih,yMh½] IykTek Mk;xkuksfLVd ¼baVjQsjkseVªh 
+,aM vkWfIVdy bfe”ku LisDVªksLdkWih ¼vksbZ,l½½] ystj eSVj baVjsD”ku ,aM ystj 
+DyLVj baVjsD”kD”ku
+Hkk-izkS-la- fnYyh dh fFku fQYe yscksjsVjh ds lykgdkj izksQslj ds-,y- pksiM+k] bl foHkkx ls
+
+laLFkku ds fofHkuu dk;kZy;ksa ,oa foHkkxksa esa fuEufyf[kr deZpkjh lnL; dk;Zjr gSa%
+vfer dqekj lksuh 
+ofj"B iqLrdky; ,oa lwpuk lgk;d
+pqUuh Nrokuh 
+ofj"B iqLrdky; ,oa lwpuk lgk;d
+deys”k dqekj ts iVsy 
+ofj"B iqLrdky; ,oa lwpuk lgk;d
+xkSjo fuxe 
+v/kh{kd
+lanhi flag pansy 
+v/kh{kd
+jke fuokl /k;ky 
+dfu’B lgk;d
+vk”kh’k dNokgk 
+v/kh{kd
+ujs”k pkSgku 
+dfu’B v/kh{kd
+jkds”k dqekj 
+dfu’B lgk;d
+liuk lka[kyk 
+dfu’B lgk;d
+vejnhi “kekZ 
+midqylfpo
+uhjt dqekj 
+dfu’B lgk;d
+xqjizhr dkSj fonhZ 
+lgk;d
+y{e.k flag 
+dfu’B v/kh{kd
+vHk; dqekj voLFkh 
+dfu’B lgk;d
+fcLothr izekf.kd 
+dfu’B lgk;d
+lathc eq[kthZ 
+ofj’B dk;Zdkjh vfHk;ark ¼flfoy½
+vkuan isMxkaodj 
+lgk;d dk;Zdkjh vfHk;ark ¼flfoy½
+fou; dqekj 
+lgk;d vfHk;ark ¼fo|qrh;½
+vk”kh’k dqekj 
+dfu’B vfHk;ark ¼flfoy½
+
+“kjn JhokLro 
+ofj"B lgk;d
+n”kZ dqekj [kVokuh 
+lgk;d
+“;ke lqanj flag 
+dfu’B lgk;d
+b”ehr flag 
+dfu’B lgk;d
+lanhi flag pansy 
+v/kh{kd
+vtqZu nkl 
+“kkfjfjd izf”k{k.k izf”k{kd
+egs”k dqekj eh.kk 
+dfu’B lgk;d
+“kfDr jatu ik=k 
+lgk;d dqylfpo
+lqjs”k panz Qqykjk 
+dfu’B lgk;d
+x.ks'k dqekor 
+dfu’B lgk;d
+Lokfr dq”kokgk 
+dfu’B lgk;d
+f=yksRek flag 
+dfu’B lgk;d
+Hkkjr ikjhd 
+dfu’B rduhdh v/kh{kd
+iwue 
+dfu’B rduhf”k;u
+xuir pkS/kjh 
+dfu’B rduhf”k;u
+fjEis”k dfV;kj 
+rduhdh v/kh{kd
+fjads”k dqekj eaxy 
+dfu’B rduhdh v/kh{kd
+/khjsUnz dqekj ;kno 
+dfu’B rduhdh v/kh{kd
+iwue pan lka[kyk 
+dfu’B rduhdh v/kh{kd
+jke flag jruq 
+rduhf”k;u
+foosd oekZ 
+dfu’B rduhf”k;u
+
+Hkkuizdk”k xksLokeh 
+dfu’B rduhdh v/kh{kd
+xtjkt “kekZ 
+dfu’B rduhf”k;u
+gsejkt /kks<kor 
+dfu’B rduhf”k;u
+dSyk”k panj 
+dfu’B rduhf”k;u
+uohu dqekj 
+dfu’B rduhf”k;u
+panz ohu pkj.k 
+lgk;d dk;Z”kkyk v/kh{kd
+izohu lqFkkj 
+dfu’B rduhf”k;u
+jkechj flag 
+dfu’B rduhf”k;u
+lairyky ,u- lqFkkj 
+dfu’B rduhf”k;u
+ujsUnz dqekj flag 
+rduhdh v/kh{kd
+
+orZeku “kSf{kd dk;ZØe
+orZeku esa laLFkku fuEufyf[kr pkj dk;ZØe iznku djrk gS%
+1- izkS|ksfxdh Lukrd dk;ZØe%
+1- ch-Vsd ¼tSo izkS|ksfxdh½ 
+2- ch-Vsd ¼dEI;wVj foKku ,oa vfHk;kaf=dh½ 
+3- ch-Vsd ¼fo|qrh; vfHk;kaf=dh½ 
+4- ch-Vsd ¼;kaf=dh vfHk;kaf=dh½
+2- foKku esa LukrdksRrj dk;ZØe%
+3- izkS|ksfxdh esa LukrdksRrj dk;ZØe%
+1- ,e-Vsd ¼tSo foKku ,oa tSo vfHk;kaf=dh½ 
+2- ,e-Vsd ¼dEI;wVj foKku ,oa vfHk;kaf=dh½ 
+3- ,e-Vsd ¼fo|qrh; vfHk;kaf=dh½ 
+4- ,e-Vsd ¼;kaf=dh vfHk;kaf=dh½ 
+5- ,e-Vsd ¼/kkrqdeZ ,oa inkFkZ vfHk;kaf=dh½
+4- MkWDVj vkWQ fQykWlQh dk;ZØe%
+1- tho foKku esa fo”ks’kKrk ds lkFk ih,p-Mh 
+2- jlk;u esa fo”ks’kKrk ds lkFk ih,p-Mh 
+3- dEI;wVj foKku ,oa vfHk;kaf=dh esa fo”ks’kKrk ds lkFk ih,p-Mh 
+4- fo|qrh; vfHk;kaf=dh esa fo”ks’kKrk ds lkFk ih,p-Mh 
+5- ekufodh ,oa lkekftd foKku esa fo”ks’kKrk ds lkFk ih,p-Mh 
+6- xf.kr esa fo”ks’kKrk ds lkFk ih,p-Mh 
+7- ;kaf=dh vfH;kaf=dh esa fo”ks’kKrk ds lkFk ih,p-Mh 
+8- /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh esa fo”ks’kKrk ds lkFk ih,p-Mh 
+9- HkkSfrdh esa fo”ks’kKrk ds lkFk ih,p-Mh
+
+vkxkeh “kSf{kd dk;Zdze
+laLFkku dh lhusV us “kSf{kd o’kZ 2019&20 ls fuEufyf[kr u, dk;Zdzeksa dh vuqefr iznku dh gS% 
+ 
+ 
+1- 
+ekLVj vkWQ lkbal&ekLVj vkWQ VsDuksykWth dk;Zdze 
+1- xf.kr ,oa MkVk foKku
+2- 
+ekLVj vkWQ VsDuksykWth dk;Zdze 
+1- ,e-Vsd- (dEI;wVj foKku ,oa vfHk;kaf=dh) 
+2- ,e-Vsd- (vkfVZfQf”k;y baVsfytsal) 
+3- ,e-Vsd- (lkbcj fQftdy flLVe) 
+4- ,e-Vsd- (lsalj ,aM baVjusV vkWQ fFkaXl) 
+5- ,e-Vsd- (MkVk ,aM dEI;wVs”kuy lkbZafll) 
+6- ,e-Vsd- (,Mokal eSU;wQSDpfjax ,aM fMtkbu) 
+7- ,e-Vsd- (FkeksZ¶ywbM vfHk;kaf=dh) 
+8- ,e-Vsd- (/kkrqdeZ ,oa inkFkZ vfHk;kaf=dh)
+3- ekLVj vkWQ VsDuksykWth&MkWDVj vkWQ fQykWlQh (,e-Vsd-&ih,p-Mh) nksgjh fMxzh dk;Zdze
+1- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (tSofoKku ,oa tSovfHk;kaf=dh) 
+2- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (dEI;wVj foKku ,oa vfHk;kaf=dh) 
+3- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (vkfVZfQf”k;y baVsfytsal) 
+4- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (lapkj vfHk;kaf=dh) 
+5- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (lkbcj fQftdy flLVe) 
+6- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (lsalj ,aM baVjusV vkWQ fFkaXl) 
+7- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (MkVk ,aM dEI;wVs”kuy foKku) 
+8- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (/kkrqdeZ ,oa inkFkZ vfHk;kaf=dh) 
+9- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (fMtkbu vfHk;kaf=dh) 
+10- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (izkSUur fuekZ.k ,aoa fMtkbu) 
+11- ,e-Vsd-&ih,p-Mh nksgjh fMxzh (FkeksZ¶ywbM vfHk;kaf=dh)
+4- varj fo’k;d {ks=ksa esa MkWDVj vkWQ fQyksLQh dk;Zdze
+
+lewg@ foHkkx dh frfFk
+1. jkds”k dkta h flLVEk ekWMfyax vkWQ foHkkx izeq[k tSo foKku tSo foKku ,oa vizSy
+2 2018
+VkjxsV ,Ma dsfedy ,o a tSo vfHk;kfa=dh rFkk tSo vfHk;kfa=dh
+izksQkby vkQ MªXl Vw x.k”s k ckxy¢j
+2. jkgqy c/kokj flLVEk ckW;kys kWthdy
+bUosLVhx”s ku vkWQ czsu
+usVodZ foHkkx izeq[k tSo foKku
+,o a tSo vfHk;kfa=dh rFkk
+x.k”s k ckxyj tSo foKku ,oa
+tSo vfHk;kfa=dh vizSy
+18
+2018
+3. ykds s”k lSuh Qjs kbs ZDl ,aM ns;j jcj vEc”s k nhf{kr ,o a ,l- HkkSfrdh twu
+4 2018
+daiksftV QkWj okbMZ oasM vkj- oMsjk
+4. jkfsgrk'k dqekj fMtkbu] MoyieVsa ,aM
+dsjsDVjykbtZ s”ku vkWQ
+yk s ,aM gkbZ Vseizspj
+Qts ptsa eVsfj;Yl QkWj
+FkeZy ,uthZ LVksjst
+,Iyhds”ku vEc”s k nhf{kr HkkSfrdh tqykbZ
+17
+2018
+5. dfiy “kekZ ;wfVykbZftax Vkis kys kWth ch- oasdV jeu dEI;Vw j foKku tqykbZ
+13
+6. j.kohj flag , eL;kjs vkWQ csylsa ]
+LiDs Vªk vkWQ lkbZaM xzkQ]
+,aM , ukos y ,YxksfjFke
+QkWj esfVªDl fMVjfeusV
+,aM iekZuVsa fcHkk’k vf/kdkjh xf.kr 19
+tqykbZ
+2018
+7. jkgs u “kekZ dkEIysDl usVodZ fcHkk’k vf/kdkjh flLVe foKku tqykbZ
+19
+tsusjsfVo ekWMy ;wflax ,o a xf.kr 2018
+dkjs uk izkMs DV vkWQ foHkkx
+8. izeksn dqekj
+ikWy VSDuhdy ,ukfyfll
+QkWj “kkVZ VeZ
+Qkjs dkfLVax vkWQ
+Qkbusf”k;y MkVk ,Ma
+VuZ vkWQ n bZ;j bQsDV foosd fot; xf.kr vDVwcj
+5
+2018
+ih,p-Mh Fkhfll
+bl o’kZ fuEu ih,p-Mh Nk=ksa us lQyrkiwoZd vius “kks/k izca/k dh izfrj{kk dh%
+
+lewg@ foHkkx dh frfFk
+9. ijfoUnj flag ,ukfyflax eYVhD;fwcV vrqy dqekj flLVe foKku vDVwcj
+8
+,aVsxa yseVsa ] 2018
+10. vkes izdk”k ikWoj DokfyVh ,lsleasV
+,aM fefVx”s ku bu
+fMLVªhC;q”ku flLVe fon
+fjuscy ,uthZ ius sVª”s ku vCnqy xQwj 'kSd fo|qrh;
+vfHk;kfa=dh vDVwcj
+11
+2018
+11. lqjs”k nfg;k eSflo ,evkbZ,evk s v:.k dqekj flag fo|qrh; vDVwcj
+13
+flLVEl% pSuy ekWMfyax vfHk;kfa=dh 2018
+12. foHkk lgykrs dkWUQfyDV bu
+ft;ksesVªh lqHkk”kh’k cuthZ dEI;Vw j foKku
+,o a vfHk;kfa=dh tuojh
+8
+2019
+13. lqfiz;k nRrk xzkQ F;ksfjfVd ,LisDV~l lqHkk”kh’k cuthZ ;kfa=d tuojh
+11
+14. vezrk dkSjokj dsjsDVjykbts”ku vkWQ
+Dys lsjsfeDl cLs M vkWu
+jh;tw vkWQ vkxZsfud
+jslhM~;q ,aM bMa fLVª;y
+okLVst QkWj IokbVa vkWQ
+;wt okVj fQYVjs”ku
+,Iyhds”ku vkuUn —‘.ku iykiYyh ;kfa=d
+vfHk;kfa=dh tuojh
+28
+2019
+15. jkds”k tk”s kh ,Dijs heVsa y jkgqy fNCcj xf.kr tuojh
+25
+buoLs Vhx”s ku vkWu 2019
+16. euh’k jk?ko Mk;ukfeDl vkWQ ,
+tujy ukWu&vkWVkus kel
+Mk;ukfedy flLVe iquhr “kekZ Lkys j ÅtkZ dsna z
+,o a HkkSfrdh
+foHkkx Qjojh
+7
+2019
+17. xkSre dqekj lh;w2tsM,u,l,u,l4 vEc”s k nhf{kr tSo foKku ,oa Qjojh
+14
+xqIrk fjyVs M pkxkts hukbZM tSo 2019
+,Ctkcs lZ% fFku fQYe ,aM vfHk;kfa=dh
+
+lewg@ foHkkx dh frfFk
+18. foHkfwr tk”s kh izksfeflax ekWyhD;wyj
+ekWMwy”s ku vkWQ bZ3
+;wchD;wfVu fyxklls
+jsxwysV lsyqyj
+izksyhQjs s”ku ,Ma lijsll
+felQkYs MsM izksVhUl
+,D;ew qy”s ku vfer dqekj feJk Qjojh
+22
+2019
+19. v:.k dqekj bukos fsVo gkjufslax vkWQ vfer dqekj feJk tSo foKku ,oa Qjojh
+27
+DokfyVh daVªksy LVªsVht vfHk;kfa=dh
+20. fofiu tks”kh ekWMfyax ,aM fleqys”ku
+vkWQ xSfy;e ukbZVªsM
+gkbZ bysDVªku ekschfyVh
+VªkfatLVlZ ,aM
+vkWIVhfelu cQj ys;j Jhizdk”k frokjh ;kfa=d
+vfHk;kfa=dh Qjojh
+27
+2019
+
+¼d½ varjk’Z Vªh; laLFkku vkSj fo”ofo|ky;
+3- ;wfuoflVZ h vkWQ okVjyw] dukMk ¼25 uoEcj] 2010½
+5- ;wfuoflVZ h vkWQ dSfyQkfsuZ;k] ejlhM ¼26 viSzy] 2011½
+le>kSrk Kkiu
+laLFkku us fof”k’V mn~ns”;ksa ds fy, lg;ksx dks vkxs c<+kus gsrq dbZ varjkZ’Vªh; ,oa jk’Vªh;
+fo”ofo|ky;ksa] ,tsafl;ksa ds lkFk le>kSrk Kkiu ¼,evks;w½ ij gLrk{kj fd;s gSaA ;s le>kSrk Kkiu fuEu gSa:
+ikjLifjd :Ik ls ykHkizn “kSf{kd dk;ZØeksa dk fodkl] f”k{k.k] “kks/k vkSj izf”k{k.k ds iz;kstu
+ls “kSf{kd deZpkjh eksfcfyVh dk leUo;] v/;;u vkSj vuqla/kku] “kks/k] izdk”ku ,oa flaiksft;ktSls 
+la;qDr “kSf{kd dk;Zdykiksa ds fy, Nk= eksfcfyVh dk;ZØe esa lg;ksx] ikjLifjd fgr ds {ks=ksa esa 
+izys[ku rFkk “kks/k lkexzh ds vknku&iznku esa dbZ dkuwuh vM+pu u gksa] vkSj nksuksa laLFkkvksa ds chp 
+varjkZ’Vªh; ekLVj vkSj MkWDVksjy dk;ZØe esa lg;ksx gsrqA
+Nk=ksa ds Kku rFkk varjkZ’Vªh; vuqHko dh mUufr ds fy, volj iznku djus gsrq baVuZf”ki vkSj
+Lukrd v/;;u ds fy, ijLij ykHkdkjh dk;ZØe fodflr djus ds fy,A
+mu {ks=ksa ftuesa izR;sd i{k dks vius “kSf{kd dk;ZØeksa esa o`f) djus dh vko”;drk gS esa “kSf{kd
+vknku&iznku dk lao/kZu djuk& “kSf{kd vknku&iznku esa lg;ksxh “kks/k dk dk;kZUo;u] la;qDr 
+flEiksft;k] ySDpj vkSj f”k{kk rFkk fo}kuksa] “kks/kdrkZvksa vkSj iz”kklfud deZpkjh ds vknku&iznku] 
+mu {ks=ksa esa lwpuk dk vknku&iznku tks nksuksa i{kksa dh :fp dh gks vkSj nksuksa i{kksa ds fgr ds {ks= esa 
+Lukrd Nk=ksa dk vknku&iznku “kkfey gksxkA
+lh[kus esa lgk;rk djus gsrqA
+
+¼x½ jk’Vªh; laLFkku vkSj fo”ofo|ky;
+2- ljnkj iVsy iqfyl] lqj{kk vkSj vkijkf/kd U;k; fo”ofo|ky;] tk/s kiqj ¼12 twu] 2013½)
+Hkk-izkS-la- tks/kiqj esa ,d pqfuank LFky ij “kgjh oU; ekWMy ds :Ik esa “ksYVfjax csYV ikS/kjksiM+
+ds fodkl gsrq
+fo”ks’kKrk ds {ks=ksa esa fofHkUu “kSf{kd xfrfof/k;ksa esa lg;ksx gsrqA
+f”k{kk ds la;qDr v/;;u] “kks/k dh izksUurh rFkk mRikn fodkl gsrq
+Hkk-izkS-la- tks/kiqj ds ,usDLV dsanz esa ,d izeq[k izkS|ksfxdh ,ao dEI;qfVax IysVQkeZ Hkkxhnkj ds
+:Ik esa ,uohvkbZMhvkbZ, ds lkFk vxyh ih<+h ds ,vkbZ flLVEl rS;kj djus gsrqA
+
+vuqla/kku ,oa fodkl ifj;kstuk,a
+vafre frfFk% 25 flrEcj] 2019
+ekWyhD;wyj LVMht Vw Msyhfu,sV n jksy vkWQ ukbZfVªd vkDlkbM@ukbZfVªd vkWDlkbM flaFksfll bu 
+U;qVªksfQy eslqjs”ku] ljokboy ,aM QaD”ku 
+lkbal ,aM bathfu;fjax fjlpZ cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj 
+ 
+ihvkbZ% e/kq nhf{kr
+vkjaHk frfFk% 15 ebZ] 2018 vafre frfFk% 23 Qjojh] 2021
+ckW;ksfjesMh”ku vkWQ yks ysoy okLVst bUdqfyfMax MsaVªhfQds”ku ;wflax ekbØksckby ¶;wy lsYl 
+ukfHkdh; foKku “kks/k cksMZ ¼chvkj,u,l½] vkf.od ÅtkZ foHkkx] Hkkjr ljdkj 
+ihvkbZ% ehuw NkcM+k] 
+lg&ihvkbZ% vrqy 
+dqekj
+22-73 yk[k :i, vkjaHk frfFk% 12 ekpZZ] 2018 vafre frfFk% 30 flrEcj] 2018
+MoyiesaV vkWQ yks dksLV ekbØksckby dkcZu dsIpj ¼,elhlh½ lsYl QkWj ,Yxs dYVhos”ku ,aM ikWolZ 
+tsujs”ku 
+ckW;ks izkS|ksfxdh foHkkx ¼MhchVh½] Hkkjr ljdkj 
+ihvkbZ% ehuw NkcM+k] 
+77-59 yk[k :i, vkjaHk frfFk% 24 fnlEcj]
+vafre frfFk% 23 fnlEcj] 2019
+jksy vkWQ lsaVªh;ksy izksVhu] lhih,ih] bu U;wjksMoyiesaV fMLvksMZj 
+foKku ,oa vfHk;kaf=dh “kks/k cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj 
+ihvkbZ% fiz;adk flag 
+38-74 yk[k 
+:i,
+vkjaHk frfFk% 28 uoEcj] 
+2018
+vafre frfFk% 27 uoEcj] 2020
+gkWfLiVy ,lksfl,VM bZ,lds,ihbZ iSFkksthUl% vujsofyax uksoy jsX;qysVjh ys;lZ daVªksfyax fo:ysal ,aM 
+isjhlVsal 
+n osyde VªLV@MhchVh bafM;k ,yk;al 
+ihvkbZ% “kadj euksgju 
+1-64 djksM+ :i, vkjaHk frfFk% 17 tuojh]
+vafre frfFk% 31 vxLr] 2022
+fMiksft”ku vkWQ ikVhZdqysV esVj bu yaXl 
+ukfHkdh; foKku “kks/k cksMZ ¼chvkj,u,l½] vkf.od ÅtkZ foHkkx] Hkkjr ljdkj 
+ihvkbZ% lqf”erk >k] 
+24-79 yk[k :i, vkjaHk frfFk% 12 ekpZ]
+vafre frfFk% 31 ekpZ] 2019
+,Dlizs”ku ,ukfyfll vkWQ bUQykele QksfeZx ,u,yvkj bu fxYel QkWj vkbZMsaVhfQds”ku vkWQ uksoy 
+FksjsI;wfVd baVjosa”ku 
+ckW;ks izkS|ksfxdh foHkkx ¼MhchVh½] Hkkjr ljdkj 
+ihvkbZ% lqfLerk >k] 42-15 yk[k :i, 
+vkjaHk frfFk% 6 flrEcj] 
+2017
+vafre frfFk% 5 flrEcj] 2020
+
+bafVxzsjsfVo ,izksp QkWj vkbZMsaVhfQds”ku vkWQ fMlht thal vkWQ VkbZi AA MkbfcfVt 
+foKku ,oa vfHk;kaf=dh “kks/k cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj 
+ihvkbZ% lqf”erk 
+ikWy
+vkjaHk frfFk% 30 ekpZ] 2017 
+vafre frfFk% 29 ekpZ] 2020
+vkjaHk frfFk% 18 ekpZ] 2019 
+vafre frfFk% 18 ekpZ] 2020
+MoyiesaV vkWQ dSVkfyfVd MkbZLVsfj;ks ,aM bfufl;ksMkb;ojtsaV VsaMe fj;sD”ku 
+,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+ihvkbZ% fueZy 
+dqekj jk.kk
+35 yk[k :i, 
+vkjaHk frfFk% 2 tqykbZ] 2018 
+vafre frfFk% 1 uoEcj] 2020
+lksfyM LVsV gkbZ ,uthZ MsaflVh fyfFk;e vkW;u fjpkpZscy ,aM VSDuksykWth 
+baMsk&iqrZxky “kks/k dsanz] feUgks] iqrZxky
+ihvkbZ% jkds”k 
+dqekj “kekZ
+6-45 yk[k :i, vkjaHk frfFk% 26 twu] 2014 
+vafre frfFk% 22 ebZ] 2018
+dSVkfyfVd vixzsfMax vkWQ ckW;ks vkW;y Vw VªkaliksVZ ¶;wy 
+ckW;ks izkS|ksfxdh foHkkx ¼MhchVh½] Hkkjr ljdkj 
+ihvkbZ% jkds”k 
+dqekj “kekZ]
+94-79 yk[k :i, vkjaHk frfFk% 24 fnlEcj]
+vafre frfFk% 23 fnlEcj] 2023
+bEisDV vkWQ jsuokWVj gkjosfLVax vkWu xzkmMokVj DokfyVh bu bafM;k fon LislhfQd jsQsjsal Vw ¶YkksjkbZM 
+,aM ekbØksiksY;wVsaV 
+ckW;ks izkS|ksfxdh foHkkx ¼MhchVh½] Hkkjr ljdkj
+ihvkbZ% jkds”k 
+dqekj “kekZ]
+75-27 yk[k :i, vkjaHk frfFk% 10 ebZ]
+vafre frfFk% 9 ebZ] 2021
+U;w flaxy lkslZ izhD;wllZ QkWj iksVsaf”k;y uSuksLVªDpMZ chvkbZ2VhvkbZ3@,lch2VhbZ3 flLVe csLM 
+FkeksZbySfDVªd eVsfj;Yl 
+foKku ,oa vfHk;kaf=dh “kks/k cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+vkjaHk frfFk% 5 vDrwcj] 
+2017
+vafre frfFk% 4 vDrwcj] 
+2020
+MoyiesaV vkWQ bysDVªksdsfedy ,uthZ LVksjst Ýke dkcZu fjp okLV 
+foKku ,oa vfHk;kaf=dh “kks/k cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+ihvkbZ% fjrq xqIrk 
+37-17 yk[k 
+:i,
+vkjaHk frfFk% 2 ekpZ] 2017 vafre frfFk% 1 ekpZ] 2020
+lkWfyM LVsV U;qDyj esXusfVd jstksausl ¼,u,evkj½ ,lslesaV vkWQ ftad vkDlkbM ¼tsM,uvks½ 
+uSukseVsfj;y csLM Mªx fMyhojh flLVEl 
+foKku ,oa vfHk;kaf=dh “kks/k cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+ihvkbZ% lEufork ikWy 
+34-45 yk[k 
+:i,
+vkjaHk frfFk% 28 vxLr] 
+2017
+vafre frfFk% 27 
+vxLr] 2020
+VsaMe ,uqys”ku bUoksfYoax esVsyksdkcZu% VksokMZ fMolZ ekWyhD;wyj vkfdZVsDpj 
+foKku ,oa vfHk;kaf=dh “kks/k cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+
+ihvkbZ% xkSjo 13-44 yk[k vkjaHk frfFk% 13 vafre frfFk% 12 ifj;kstuk
+HkVukxj :i, uoEcj] 2014 uoEcj] 2017 foLrkfjr
+
+ihvkbZ% lR;thr 35 yk[k :i, vkjaHk frfFk% 13 ekpZ] vafre frfFk% 12 ekpZ] 2019
+ihvkbZ% vEc”s k 22-62 yk[k vkjaHk frfFk% 1 vizSy] vafre frfFk% 30 twu] 2018
+
+¼1½ VwoMZLk n MoyieVsa vkWQ yk s dksLV okVj DokfyVh lsla j&Qst A
+ius klkfsud vuqla/kku ,oa fodkl lsVa j vkWQ bafM;k
+ihvkbZ% jkds”k dqekj “kekZ 2-35 yk[k :Ik, vkjaHk frfFk% 01 vDrwcj] 2014
+¼2½ VwoMZLk n MoyieVsa vkWQ yk s dksLV okVj DokfyVh lsla j&Qst A
+ius klkfsud vkj,aMMh lVsa j vkWQ bafM;k
+ihvkbZ% jkds”k dqekj “kekZ 64-37 yk[k :Ik, vkjaHk frfFk% 16 Qjojh] 2015
+¼3½ “kkWVZ VEkZ dkslZ vkWu gsfydkWIVj Mk;ukfeDl ,Ma gSaMfyax DokfyfVt
+lqj{kk “kk/s k ,o a fodkl laxBu ¼MhvkjMhvks½] Hkkjr ljdkj
+ihvkbZ% lqjhy oh- “kkg( 3-72 yk[k :Ik, vkjaHk frfFk% 15 Qjojh] 2017
+lg&ihvkbZ% lh- oasdV”s ku
+¼4½ fotqvy ljoksbax vkWQ eksckby efuiqysVj fon ,Iyhds”ku Vw LekVZ os;jgkml ,Ma LekVZ QSDVjh
+VkVk dalyVlsa h fyfeVsM
+ihvkbZ% lqjhy oh- “kkg( 10-12 yk[k :Ik, vkjaHk frfFk% 1 tqykbZ] 2017
+¼5½ gfsydkWIVj Mk;ukfeDl ,aM gSaMfyax DokfyVh
+,,lVhbZ caXykSj
+ihvkbZ% lh- odsa Vs”ku 3-42 yk[k :Ik, vkjaHk frfFk% 1 fnlEcj] 2018
+¼1½ vkbZbsVa hfQds”ku] ,lsleVsa ,aM dsjsDVjhts”ku vkWQ bZ3 ;wchD;qfVu yhxls sl ,EIyhdsVsM bu n
+U;wjkMs htujsfVo fMlht
+jkefyaxe Lokeh QSyksf”ki ifj;kstuk
+ihvkbZ% vfer feJk 74-50 yk[k vkjaHk frfFk% 15 vafre frfFk% 14 Ikfj;kts uk foLrkfjr
+:Ik, tqykbZ] 2011 Qjojh] 2017
+¼2½ ;ax QSdYVh fjlpZ QSykfs ”ki ¼okbZ,Qvkj,Q½ vkWQ fo”os”ojS;k ih,pMh Ldhe
+bySfDVªkfuDl ,oa lwpuk izkS|ksfxdh ea=ky; ¼,ebZvkbZVhokbZ½
+ihvkbZ% xkSjo gfjr 22-2 yk[k vkjaHk frfFk% 22 vafre frfFk% 21 tuojh]
+:Ik, tuojh] 2018 2020
+ikslhfcysVht ,aM fMokbl ,Iyhds”ku vkWQ MhtujsV vkfIVdy ekbØksdsfoVht 
+foKku ,oa vfHk;kaf=dh “kks/k cksMZ ¼,lbZvkjch½ foKku ,oa izkS+|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+ihvkbZ% lkseukFk 
+?kks’k
+vkjaHk frfFk% 9 ebZ] 2018 
+vafre frfFk% 8 ebZ] 2021
+, LVMh vkWQ Dok.Ve dksjhys{ku% Ldhftax ,aM bV~l osfj;l QslsV 
+oSKkfud ,oa vkS|ksfxd fjlpZ ifj’kn~ ¼lh,lvkbZvkj½] Hkkjr ljdkj
+ihvkbZ% lqHkk”kh’k 
+cuthZ
+vkjaHk frfFk% 22 vxLr] 
+2016
+vafre frfFk% 22 vxLr] 
+2019
+
+¼3½ fo”o”s ojS;k ih,pMh Ldkys jf”ki Ldhe QkWj bySDVªkWfuDl ,Ma vkbZVh ¼ikVZ&2½
+ehfM;k ySc ,f”k;k
+ihvkbZ% vfuy dqekj 3 djkMs + vkjaHk frfFk% 21 vafre frfFk 20 vDrwcj]
+frokjh vDrwcj] 2014 2019
+¼4½ fo”o”s ojS;k ih,pMh Ldkys jf”ki Ldhe QkWj bySDVªkWfuDl ,Ma vkbZVh ¼ikVZ&2½
+ehfM;k ySc ,f”k;k
+ihvkbZ% vfuy dqekj 3 djkMs + vkjaHk frfFk% 21 vafre frfFk 20 vDrwcj]
+frokjh vDrwcj] 2014 2019
+¼5½ ;ax QSdYVh fjlpZ QSykfs ”ki ¼okbZ,Qvkj,Q½ vkWQ fo”os”ojS;k ih,pMh Ldhe
+bySfDVªkfuDl ,oa lwpuk izkS|ksfxdh ea=ky; ¼,ebZvkbZVhokbZ½
+ihvkbZ% Jh izdk”k 37 yk[k :Ik, vkjaHk frfFk% 24 vafre frfFk% 23 tuojh]
+frokjh tuojh] 2018 2020
+¼6½ ;ax QSdYVh fjlpZ QSykfs ”ki ¼okbZ,Qvkj,Q½ vkWQ fo”os”ojS;k ih,pMh Ldhe
+bySfDVªkfuDl ,oa lwpuk izkS|ksfxdh ea=ky; ¼,ebZvkbZVhokbZ½
+ihvkbZ% nhid Qqyokuh 37 yk[k :Ik, vkjaHk frfFk% 01 vafre frfFk% 31 tuojh]
+Qjojh] 2018 2020
+¼7½ fMtkbZu ,aM MoyieaVs vkWQ eVs y vkWDlkbM gkys VªkWliksfVZax eVsfj;Yl ¼,pVh,e½ csLM buoVZM
+isjksofLdV lkys j lSy ¼vkbZih,llh½ vaMj vfEcaV daMh”ku
+foKku ,o a izkS|ksfxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+ihvkbZ% vEc”s k nhf{kr 21-18 yk[k vkjaHk frfFk% 26 vafre frfFk% 25 flrEcj]
+:Ik, flrECkj] 2018 2023
+¼1½ fMtkbZu ,oa QSczhds”ku vkWQ teZsfu;e vkWu flyhdkWu uh;j baÝkjsM QksVkfsMVsDVjlZ
+foKku ,o a izk+S|kfsxdh foHkkx ¼Mh,lVh½] Hkkjr ljdkj
+ihvkbZ% ljo.ku 19-20 yk[k :Ik, vkjaHk frfFk% 09 vafre frfFk% 08 vxLr]
+jktkef.k vxLr] 2017 2019
+¼2½ mUur Hkkjr vfHk;ku
+ekuo lalk/ku fodkl ea=ky; ¼,e,pvkjMh½
+ihvkbZ% vuU;k nscukFk 3-77 yk[k :Ik, vkjaHk frfFk% 06 ekpZ] vafre frfFk% 05 ekpZ] 2020
+2017
+¼3½ mUur Hkkjr vfHk;ku ¼vkjlhvkbZ½
+vkbZvkbVh fnYyh
+ihvkbZ% vkuUn —‘.ku 5 yk[k :Ik, vkjaHk frfFk% 31 ekpZ] vafre frfFk% 31 ekpZ] 2020
+IYkkIiYyh 2019
+
+ihvkbZ% eg”s k dqekj 24-17 yk[k :Ik, vkjaHk frfFk% 09 vafre frfFk% 8 flrEcj] 2018 vafre frfFk% 8 flrEcj] 2018
+ihvkbZ% lanhi dqekj 55-24 yk[k :Ik, vkjaHk frfFk% 29 vafre frfFk% 28 tqykbZ] 2018 vafre frfFk% 28 tqykbZ] 2018
+
+foHkkx nk;j tuZy lEeys u y[s k izh&fizaV iqLrdsa iqLrd dqy
+tSo foKku ,oa tSo vfHk;kaf=dh 12 12 1 2 2 15
+dEI;wVj foKku ,oa vfH;kaf=dh 4 5 2 1 12
+Ekufodh ,oa lkekftd foKku 5 1 1 7
+/kkrqdeZ ,oa inkFkZ vfHk;kaf=dh 11 1 12
+HkkSfrdh 2 21 1 11 1 2 38
+isVsaV vkSj izdk”ku
+2018&19 esaa] gekjs ladk; lnL;ksa us 1 isVsaV nk;j fd;k] 143 “kks/k i= vkSj ys[k fo}r if=dkvksa esa
+ys[k izdkf”kr fd;s gSa( muds 30 dk;Z lEesyu izLrqfr;ksa vkSj lEesyu dh dk;Zokgh esa “kkfey fd;s x, gSa( 
+rFkk 22 izhfizaV 4 laikfnr iqLrdksa vkSj 4 iqLrd&v/;k;ksa dk ;ksxnku fn;k gSA
+
+1. Sub-zero temperature process for production of high surface area, phase and dimensionally controlled
+nanotitania for solar cell and water treatment application thereof
+jkds”k dqekj “kekZ
+2. Metal nanoparticles intercalated clay for solvent free hydrogenation of squalene into squalene
+jkds”k dqekj “kekZ
+3. Facet controlled preparation of metal hexagonal nano crystal/carbon materials catalyst and application
+thereof
+jkds”k dqekj “kekZ
+4. Sunlight driven H2 production by water splitting from nanocomposite heterostructures and
+preparation method thereof
+jkds”k dqekj “kekZ
+5. Metal nanoparticles-doped hollow carbon nanobubbles and preparation method thereof
+jkds”k dqekj “kekZ
+1. Image compression for transmission
+vfuy ds frokjh
+1. A process for preparing Z-type hexaferrite powder
+vEc”s k nhf{kr] lEir jkt oMsjk
+2. Method and Apparatus for Directional Solvent Vapor Annealing for Crystal Alignment for Organic
+Electronics
+Jh izdk”k frokjh
+1. Joshi, V., Upadhyay, A., Chhangani, D., Amanullah, A., Sharan, R. N., & Mishra, A. (2018). Gp78
+involvement in cellular proliferation: Can act as a promising modulator for cell cycle regulatory proteins?
+Journal of Cellular Physiology, 233(10), 6352-6368. ISSN: 1097-4652. https://doi.org/10.1002/jcp.26618
+2. Kanuri, B. N., Rebello, S. C., Pathak, P., Agarwal, H., Kanshana, J. S., Awasthi, D., Gupta, A. P., Gayen, J.
+R., Jagavelu, K., & Dikshit, M. (2018). Glucose and lipid metabolism alterations in liver and adipose
+tissue pre-dispose p47phox knockout mice to systemic insulin resistance. Free Radical Research, 52(5), 568-
+582. ISSN: 1071-5762. https://doi.org/10.1080/10715762.2018.1453136
+3. Mishra, R., Upadhyay, A., Prajapati, V. K., & Mishra, A. (2018). Proteasome-mediated proteostasis: Novel
+medicinal and pharmacological strategies for diseases. Medicinal Research Reviews, 38(6), 1916-1973. ISSN:
+0198-6325. https://doi.org/10.1002/med.21502
+4. Narula, A., Pandey, R. K., Khatoon, N., Mishra, A., & Prajapati, V. K. (2018). Excavating chikungunya
+genome to design B and T cell multi-epitope subunit vaccine using comprehensive immunoinformatics
+approach to control chikungunya infection. Infection, Genetics and Evolution, 61, 4–15. ISSN: 1567-1348.
+https://doi.org/10.1016/j.meegid.2018.03.007
+5. Paul, S., & Brahma, D. (2019). An Integrated Approach for Identification of Functionally Similar
+MicroRNAs in Colorectal Cancer. IEEE/ACM Transactions on Computational Biology and Bioinformatics,
+16(1), 183–192. ISSN: 1557-9964. https://doi.org/10.1109/TCBB.2017.2765332
+6. Sarkar, S., Gulati, K., Kairamkonda, M., Mishra, A., & Poluri, K. M. (2018). Elucidating protein-protein
+interactions through computational approaches and designing small molecule inhibitors against them for
+various diseases. Current Topics in Medicinal Chemistry, 18(20), 1719 - 1736. ISSN: 1568-0266.
+https://doi.org/10.2174/1568026618666181025114903
+bu isVsaVksa dh foHkkx&okj lwph fuEukuqlkj gS%
+izdk”kuksa dh foHkkx&okj lwph fuEukuqlkj gS%
+
+7. Shahid, U., & Singh, P. (2018). Emerging Picture of Deuterosome-Dependent Centriole Amplification in
+MCCs. Cells, 7(10), 152. ISSN: 2073-4409. https://doi.org/10.3390/cells7100152
+8. Sherine, J., Upadhyay, A., Mishra, A., Kumar, D., Pal, S., & Harinipriya, S. (2019). Ag(I) and Au(III)
+Mercaptobenzothiazole complexes induced apoptotic cell death. Scientific Reports, 9(1), 621. ISSN: 2045-
+2322. https://doi.org/10.1038/s41598-018-36801-6
+9. Singh, S., & Jha, S. (2018). NLRs as Helpline in the Brain: Mechanisms and Therapeutic Implications.
+Molecular Neurobiology, 55(10), 8154–8178. ISSN: 1559-1182. https://doi.org/10.1007/s12035-018-0957-4
+10. Upadhyay, A., & Mishra, A. (2018). Amyloids of multiple species: are they helpful in survival? Biological
+Reviews, 93(3), 1363-1386. ISSN: 1469-185X. https://doi.org/10.1111/brv.12399
+11. Vijay, A., Arora, S., Gupta, S., & Chhabra, M. (2018). Halophilic starch degrading bacteria isolated from
+Sambhar Lake, India, as potential anode catalyst in Microbial fuel cell: A promising process for saline
+water treatment. Bioresource Technology, 256, 391-398. ISSN: 0960-8524.
+https://doi.org/10.1016/j.biortech.2018.02.044
+12. Vijay, A., Chhabra, M., & Vincent, T. (2019). Microbial community modulates electrochemical
+performance and denitrification rate in a biocathodic autotrophic and heterotrophic denitrifying
+microbial fuel cell. Bioresource Technology, 272, 217–225. ISSN: 0960-8524.
+https://doi.org/10.1016/j.biortech.2018.10.030
+1. Paul, S., & Bansal, S. (2018). Type 2 Diabetes Gene Identification Using an Integrated Approach from
+Single-Cell RNA Sequencing Data. In 2018 IEEE International Conference on Bioinformatics and
+Biomedicine (BIBM) (pp. 2152–2158). Madrid, Spain: IEEE. ISBN: 978-1-5386-5488-0.
+https://doi.org/10.1109/BIBM.2018.8621342
+1. Joshi, V., Upadhyay, A., Amanullah, A., Mishra, R., & Mishra, A. (2019). Predicting E3 Ubiquitin Ligases
+as Possible Promising Biomarkers for Brain Tumors. In K. K. Shukla, P. Sharma, & S. Misra (Eds.),
+Molecular Diagnostics in Cancer Patients (pp. 43–72). Singapore: Springer Singapore. ISBN: 9789811358777.
+https://doi.org/10.1007/978-981-13-5877-7_4
+2. Paul, S. (2019). Integration of miRNA and mRNA Expression Data for Understanding Etiology of
+Gynecologic Cancers. In X. Lai, S. K. Gupta, & J. Vera (Eds.), Computational Biology of Non-Coding
+RNA: Methods and Protocols (Vol. 1912, pp. 323–338). New York, NY: Humana Press. ISBN: 978-1-4939-
+8982-9. https://doi.org/10.1007/978-1-4939-8982-9_13
+1. Bah uguna, G., Ram, P., Sharma, R. K., & Gupta, R. (2018). An Organo-fluorine Compound Mixed
+Electrolyte for Ultrafast Electric Double Layer Supercapacitors. ChemElectroChem, 5(19), 2767-2773.
+ISSN: 2196-0216. https://doi.org/10.1002/celc.201800908
+2. Ch aubey, B., & Pal, S. (2018). Binding Interaction of Organofluorine-Serum Albumin: A Comparative
+Ligand Detected 19F NMR Analysis. The Journal of Physical Chemistry B, 122(40), 9409–9418. ISSN:
+1520-5207. https://doi.org/10.1021/acs.jpcb.8b06583
+3. Da hiya, V., & Pal, S. (2018). The effect of paracetamol on 5 fluorouracil and bovine serum albumin
+interaction: A biophysical study. AIP Conference Proceedings, 1953(1), 140012. ISSN: 0094-243X.
+https://doi.org/10.1063/1.5033187
+4. Gah laut, A., & Paranjothy, M. (2018). Unimolecular decomposition of formamide via direct chemical
+dynamics simulations. Physical Chemistry Chemical Physics, 13(20), 8498-8505. ISSN: 1463-9084.
+https://doi.org/10.1039/C8CP00541A
+5. Gu pta, N., Rao, K. D. M., Srivastava, K., Gupta, R., Kumar, A., Marconnet, A. M., Fisher, T. S., &
+Kulkarni, G. U. (2018). Cosmetically Adaptable Transparent Strain Sensor for Sensitively Delineating
+Patterns in Small Movements of Vital Human Organs. ACS Applied Materials & Interfaces, 10(50),
+44126–44133. ISSN: 1944-8252. https://doi.org/10.1021/acsami.8b16282
+
+6. Gu pta, R. (2018). Fabrication of stretchable compliant electrodes on PDMS with Au nanoparticles.
+Bulletin of Materials Science, 41(5), 114. ISSN: 0973-7669. https://doi.org/10.1007/s12034-018-1630-2
+7. Jos hi, A., Singh, R., & Kumar, A. (2018). Concurrence and three-tangle of the graph. Quantum
+Information Processing, 17(12), 327. ISSN: 1573-1332. https://doi.org/10.1007/s11128-018-2085-5
+8. Kau r, H., & Kumar, A. (2019). Analyzing the efficiency of partially entangled states in Vaidman’s-type
+games and its applications in Quantum Secret Sharing. International Journal of Computers and
+Applications, 41 (1), 2–13. ISSN: 1206-212X. https://doi.org/10.1080/1206212X.2018.1465666
+9. Kri shnan, Y., Rajbangshi, P., & Paranjothy, M. (2018). Theoretical Study of Perbenzoate Anion
+Decomposition Pathways in the Gas Phase. International Journal of Mass Spectrometry, 428, 8-14. ISSN:
+1387-3806. https://doi.org/10.1016/j.ijms.2018.01.011
+10. Ku mar, D., & Pal, S. (2019). Solution dynamics of 5-fluorouracil entrapped in Poly Lactic-co-Glycolic
+Acid (PLGA) microsphere - A study with 1D selective NMR methods. Magnetic Resonance in Chemistry,
+52(2-3), 118-128. ISSN: 1097-458X. https://doi.org/10.1002/mrc.4799
+11. Lai shram, D., Shejale, K. P., Gupta, R., & Sharma, R. K. (2018). Solution Processed Hafnia
+Nanoaggregates: Influence of Surface Oxygen on Catalytic Soot Oxidation. ACS Sustainable Chemistry &
+Engineering, 6(9), 11286–11294. ISSN: 2168-0485. https://doi.org/10.1021/acssuschemeng.8b00674
+12. Lai shram, D., Shejale, K. P., Gupta, R., & Sharma, R. K. (2018). Heterostructured HfO2/TiO2 spherical
+nanoparticles for visible photocatalytic water remediation. Materials Letters, 231, 225-228. ISSN: 0167-
+577X. https://doi.org/10.1016/j.matlet.2018.08.053
+13. Ma jumdar, D. J., Dey, S., Sreekumar, S. S., Das, S., Das, D., Metre, R. K., Bankura, K., & Mishra, D. (2018).
+Nitrato, Pseudohalo-Linked Zn(II)/Cd(II) Schiff-Base Complexes with 1,3-Diimine Spacer Group:
+Syntheses, Crystal Structures, DFT, TD-DFT and Fluorescence Studies. ChemistrySelect, 3(43), 12371–
+12382. ISSN: 2365-6549. https://doi.org/10.1002/slct.201802996
+14. Mu rarka, S. (2018). N-(acyloxy)phthalimides as Redox-Active Esters in Cross Coupling Reactions.
+Advanced Synthesis & Catalysis, 360(9), 1735-1753. ISSN: 1615-4169.
+https://doi.org/10.1002/adsc.201701615
+15. Mu rarka, S., & Antonchick, A. P. (2018). Metal-catalyzed oxidative coupling of ketones and ketone
+enolatess. Synthesis, 50(11), 2150-2162. ISSN: 1437-210X. https://doi.org/10.1055/s-0037-1609715
+16. Na z, E. G., Godara, S., & Paranjothy, M. (2018). Direct Chemical Dynamics Simulations of H3+ + CO
+Bimolecular Reaction. The Journal of Physical Chemistry A, 122 (43), 8497–8504. ISSN: 1089-5639.
+https://doi.org/10.1021/acs.jpca.8b08671
+17. Nu nes-Pereira, J., Lima, R., Choudhary, G., Sharma, P. R., Ferdov, S., Botelho, G., Sharma, R. K., &
+Lanceros-Méndez, S. (2018). Highly efficient removal of fluoride from aqueous media through polymer
+composite membranes. Separation and Purification Technology, 205, 1–10. ISSN: 1383-5866.
+https://doi.org/10.1016/j.seppur.2018.05.015
+18. Nu nes-Pereira, J., Sharma, P., Fernandes, L. C., Oliveira, J., Moreira, J. A., Sharma, R. K., & Lanceros-
+Mendez, S. (2018). Poly(vinylidene fluoride) composites with carbon nanotubes decorated with metal
+nanoparticles. Composites Part B: Engineering, 142, 1–8. ISSN: 1359-8368.
+https://doi.org/10.1016/j.compositesb.2017.12.047
+19. Pan dey, M. D., Metre, R. K., Kundu, S., Mahanti, B., Kumar, A., Gopal, K., & Chandrasekhar, V. (2019).
+Luminescent Pyrene-decorated Organotin Compounds: Observation of Monomer-and Excimer Emission.
+Crystal Growth & Design, 19(3), 1888–1895. ISSN: 1528-7505. https://doi.org/10.1021/acs.cgd.8b01856
+20. Ram , P., Gören, A., Gonçalves, R., Choudhary, G., Ferdov, S., Silva, M. M., Singhal, R., Costa, C. M.,
+Sharma, R. K., & Lanceros-Méndez, S. (2018). Improved electrochemical performance of rare earth doped
+LiMn1.5-xNi0.5RExO4 based composite cathodes for lithium-ion batteries. Composites Part B: Engineering,
+139, 55–63. ISSN: 1359-8368. https://doi.org/10.1016/j.compositesb.2017.11.054
+21. Ram , P., Patel, H., Singhal, R., Choudhary, G., & Sharma, R. K. (2019). On the study of mixing and
+drying on electrochemical performance of spinel LiMn2O4 cathodes. Journal of Renewable and
+Sustainable Energy, 11(1), 014104. ISSN: 1941-7012. https://doi.org/10.1063/1.5051583
+22. Ran a, N. K., Shukla, K., Mahto, P., Jha, R. K., & Singh, V. K. (2018). A facile and highly diastereoselective
+synthesis of carbocyclic spiro-pyrazolones via DABCO catalyzed Michael-Michael domino reaction.
+Tetrahedron, 74(38), 5270-5279. ISSN: 0040-4020. https://doi.org/10.1016/j.tet.2018.02.002
+
+23. Sal ian, S. R., Nayak, G., Kumari, S., Patel, S., Gowda, S., Shenoy, Y., Sugunan, S., GK, R., Managuli, R.,
+Mutalik. S., Dahiya, V, Pal, S., Adiga, S. & K. Guruprasad (2019). Supplementation of biotin to sperm
+preparation medium enhances fertilizing ability of spermatozoa and improves preimplantation embryo
+development. Journal of Assisted Reproduction and Genetics, 36(2), 255-266. ISSN: 1573-7330.
+https://doi.org/10.1007/s10815-018-1323-1
+24. Sha rma, P., & Sharma, R. K. (2019). Electrophilic [N—F]+ catalysed asymmetric allylation of (E)-N,1-
+diphenylmethanimine. Chirality, 31(2), 91–96. ISSN: 1520-636X. https://doi.org/10.1002/chir.23039
+25. She jale, K. P., Laishram, D., Gupta, R., & Sharma, R. K. (2018). Engineered ZnO-TiO2 Nanospheres for
+High Performing Membrane Assimilated Photocatalytic Water Remediation and Energy Harvesting.
+ChemistrySelect, 3(25), 7291–7301. ISSN: 2365-6549. https://doi.org/10.1002/slct.201800988
+26. Shu kla, K., Shah, S., Rana, N. K., & Singh, V. K. (2019). An efficient and highly diastereoselective
+synthesis of carbocyclic spiropyrazolones via one-pot sequential dual organo-silver catalyzed Michael-
+hydroalkylation reactions, 60(1), 92-97. Tetrahedron Letters. ISSN: 0040-4039.
+https://doi.org/10.1016/j.tetlet.2018.11.064
+27. Sin gh, P., & Kumar, A. (2018). Analysing Nonlocal Correlations in Three-qubit Partially Entangled States
+Under Real Conditions. International Journal of Theoretical Physics, 57(10), 3172–3189. ISSN: 1572-9575.
+https://doi.org/10.1007/s10773-018-3835-y
+28. Sin gh, P., & Kumar, A. (2018). Analysing nonlocality robustness in multiqubit systems under noisy
+conditions and weak measurements. Quantum Information Processing, 17(9), 249. ISSN: 1573-1332.
+https://doi.org/10.1007/s11128-018-2016-5
+29. Son i, V. K., Roy, T., Dhara, S., Choudhary, G., Sharma, P. R., & Sharma, R. K. (2018). On the investigation
+of acid and surfactant modification of natural clay for photocatalytic water remediation. Journal of
+Materials Science, 53(14), 10095–10110. ISSN: 1573-4803. https://doi.org/10.1007/s10853-018-2308-2
+30. Urg unde, A. B., Kumar, A., Shejale, K. P., Sharma, R. K., & Gupta, R. (2018). Metal Wire Networks
+functionalized with Ni Alkanethiolate for Transparent and Enzymeless Glucose Sensors. ACS Applied
+Nano Materials, 1(10), 5571–5580. ISSN: 2574-0970. https://doi.org/10.1021/acsanm.8b01115
+1. Kau r, H., & Kumar, A. (2018). Analysing the role of entanglement in the three-qubit Vaidman’s game.
+ArXiv:1807.05262 [Quant-Ph]. http://arxiv.org/abs/1807.05262
+2. Sriv astava, A., Karmakar, S., & Debnath, A. (2018). Slow Relaxations of Chemically Confined Hydration
+Layers near Lipid Bilayers: Dynamical Heterogeneities above Supercooling. ArXiv:1808.03933 [Cond-
+Mat]. http://arxiv.org/abs/1808.03933
+1. Ark in, E. M., Banik, A., Carmi, P., Citovsky, G., Katz, M. J., Mitchell, J. S. B., & Simakov, M. (2018).
+Selecting and covering colored points. Discrete Applied Mathematics, 250(2018), 75-86. ISSN: 0166-218X.
+https://doi.org/10.1016/j.dam.2018.05.011
+2. Ban ik, A., Panolan, F., Raman, V., & Sahlot, V. (2018). Fréchet distance between a line and avatar point
+set. Algorithmica, 80(9), 2616-2636. ISSN: 1432-0541. https://doi.org/10.1007/s00453-017-0352-y
+3. Kh atua, M., Safavi, S. H., & Cheung, N. M. (2018). Sparse Laplacian Component Analysis for Internet
+Traffic Anomalies Detection. IEEE Transactions on Signal and Information Processing over Networks, 4(4), 697
+- 711. ISSN: 2373-776X. https://doi.org/10.1109/TSIPN.2018.2818950
+4. Sha rma, D., & Chattopadhyay, C. (2018). High-level feature aggregation for fine-grained architectural
+floor plan retrieval. IET Computer Vision, 12(5), 702–709. ISSN: 1751-9640. https://doi.org/10.1049/iet-
+cvi.2017.0581
+1. Arora, P., Banik, A., Paliwal, V. K., & Raman, V. (2018). Some (in) tractable parameterizations of coloring
+and list-coloring. In Chen J., Lu P. (Eds.), Lecture Notes in Computer Science: Vol. 10823. FAW 2018:
+Frontiers in Algorithmics (pp. 126–139). ISBN: 978-3-319-78455-7.
+https://link.springer.com/chapter/10.1007/978-3-319-78455-7_10
+
+2. Banik, A., Choudhary, P., Lokshtanov, D., Raman, V., & Saurabh, S. (2018). A Polynomial Sized Kernel
+for Tracking Paths Problem. In Bender M., Farach-Colton M., Mosteiro M. (eds) Lecture Notes in
+Computer Science: Vol. 10807. LATIN 2018: Theoretical Informatics (pp. 94–107). ISBN: 978-3-319-77404-6.
+https://doi.org/10.1007/978-3-319-77404-6_8
+3. Goyal, S., Chattopadhyay, C., & Bhatnagar, G. (2018). ASYSST: A framework for synopsis synthesis
+empowering visually impaired. In Proceedings of the 2018 Workshop on Multimedia for Accessible
+Human Computer Interface (pp. 17–24). Seoul, Republic of Korea: ACM. ISBN: 978-1-4503-5980-1.
+https://doi.org/10.1145/3264856.3264859
+4. Sharma, D., Gupta, N., Chattopadhyay, C., & Mehta, S. (2018). REXplore: A Sketch Based Interactive
+Explorer for Real Estates Using Building Floor Plan Images. In 2018 IEEE International Symposium on
+Multimedia (ISM) (pp. 61–64). Taichung, Taiwan: IEEE. ISBN: 978-1-5386-6857-3.
+https://doi.org/10.1109/ISM.2018.00018
+5. Sidhanta, S., Mukhopadhyay, S., & Golab, W. (2019). Consistify: Preserving Correctness and SLA Under
+Weak Consistency. In Proceedings of the 20th International Conference on Distributed Computing and
+Networking (pp. 282–291). New York, NY, USA: ACM. ISBN: 978-1-4503-6094-4.
+https://doi.org/10.1145/3288599.3288630
+1. Sundaram, S., & Harit, G. (Eds.). (2019). Document Analysis and Recognition: 4th Workshop, DAR 2018, Held
+in Conjunction with ICVGIP 2018, Hyderabad, India, December 18, 2018, Revised Selected Papers. Springer
+Singapore. ISBN: 978-981-13-9361-7. https://doi.org/10.1007/978-981-13-9361-7
+1. Kalshetti, P., Rahangdale, P., Jangra, D., Bundele, M., & Chattopadhyay, C. (2018). Antara: An Interactive
+3D Volume Rendering and Visualization Framework. ArXiv:1812.04233 [Cs].
+http://arxiv.org/abs/1812.04233
+2. Kumar, A., Choudhary, S., Khokhar, V. S., Meena, V., & Chattopadhyay, C. (2018). Automatic Feature
+Weight Determination using Indexing and Pseudo-Relevance Feedback for Multi-feature Content-Based
+Image Retrieval. ArXiv:1812.04215 [Cs]. http://arxiv.org/abs/1812.04215
+1. Agrawal, Abhay. V., Kumar, R., Venkatesan, S., Zakhidov, A., Yang, G., Bao, J., Kumar, M., & Kumar, M.
+(2018). Photoactivated Mixed In-Plane and Edge-Enriched p-Type MoS2 Flake-Based NO2 Sensor
+Working at Room Temperature. ACS Sensors, 3(5), 998–1004. ISSN: 2379-3694.
+https://doi.org/10.1021/acssensors.8b00146
+2. Ai, Y., Cheffena, M., Mathur, A., & Lei, H. (2018). On Physical Layer Security of Double Rayleigh Fading
+Channels for Vehicular Communications. IEEE Wireless Communications Letters, 7(6), 1038 - 1041. ISSN:
+2162-2337. https://doi.org/10.1109/LWC.2018.2852765
+3. Ai, Y., Mathur, A., Cheffena, M., Bhatnagar, M., & Lei, H. (2019). Physical Layer Security of Hybrid
+Satellite-FSO Cooperative Systems. IEEE Photonics Journal, 11(1), 1-14. ISSN: 1943-0655.
+https://doi.org/10.1109/JPHOT.2019.2892618
+4. Bhati, V. S., Ranwa, S., & Kumar, M. (2018). Highly sensitive H2 gas sensor of Co doped ZnO
+nanostructures. AIP Conference Proceedings, 1942(1), 050059. ISSN: 0094-243X.
+https://doi.org/10.1063/1.5028690
+5. Bhati, V. S., Ranwa, S., Rajamani, S., Kumari, K., Raliya, R., Biswas, P., & Kumar, M. (2018). Improved
+Sensitivity with Low Limit of Detection of a Hydrogen Gas Sensor Based on rGO-Loaded Ni-Doped ZnO
+Nanostructures. ACS Applied Materials & Interfaces, 10(13), 11116–11124. ISSN: 1944-8244.
+https://doi.org/10.1021/acsami.7b17877
+6. Bhati, V. S., Sheela, D., Roul, B., Raliya, R., Biswas, P., Kumar, M., Roy, M. S., Nanda, K. K., Krupanidhi,
+S. B. & Kumar, M. (2019). NO2 gas sensing performance enhancement based on reduced graphene oxide
+decorated V2O5 thin films. Nanotechnology, 30(22), 224001. ISSN: 0957-4484.
+https://doi.org/10.1088/1361-6528/ab0321
+
+7. Dahiya, S., & Singh, A. K. (2018). Channel estimation and channel tracking for massive MIMO system in
+correlated block fading channel. Digital Communications and Networks, 4(2), 138-147. ISSN: 2352-8648.
+https://doi.org/10.1016/j.dcan.2017.07.006
+8. Dahiya, S., Kumar, A., & Singh, A. K. (2018). Average power allocation based sum-rate optimization in
+massive MIMO systems. Annals of Telecommunications, 73 (11–12), 689–701. ISSN: 1958-9395.
+https://doi.org/10.1007/s12243-018-0628-5
+9. Gangavarapu, S., Rathore, A. K., & Fulwani, D. M. (2019). Three phase single stage isolated cuk based
+PFC converter. IEEE Transactions on Power Electronics, 34(2), 1798 - 1808. ISSN: 0885-8993.
+https://doi.org/10.1109/TPEL.2018.2829080
+10. Gautam, A. R., Gaurav, K., Guerrero, J. M., & Fulwani, D. (2018). Ripple Mitigation with Improved Line-
+Load Transients Response in Two-Stage DC-DC-AC Converter: Adaptive SMC Approach. IEEE
+Transactions on Industrial Electronics, 65(4), 3125 - 3135. ISSN: 0278-0046.
+https://doi.org/10.1109/TIE.2017.2752125
+11. Goel, N., Kumar, R., & Kumar, M. (2018). Enhanced sensing response with complete recovery of MoS2
+sensor under photoexcitation. AIP Conference Proceedings, 1942(1), 050060. ISSN: 0094-243X.
+https://doi.org/10.1063/1.5028691
+12. Goel, N., Kumar, R., Hojamberdiev, M., & Kumar, M. (2018). Enhanced carrier density in a MoS₂/Si
+heterojunction-based photodetector by inverse auger process. IEEE Transactions on Electron Devices,
+65(10), 4149 - 4154. ISSN: 0018-9383. https://doi.org/10.1109/TED.2018.2839913
+13. Goel, N., Kumar, R., Mishra, M., Gupta, G., & Kumar, M. (2018). Determination of band alignment at
+two-dimensional MoS2/Si van der Waals heterojunction. Journal of Applied Physics, 123(22), 225301.
+ISSN: 0021-8979. https://doi.org/10.1063/1.5030557
+14. Goel, N., Kumar, R., Roul, B., Kumar, M., & Krupanidhi, S. B. (2018). Wafer-scale synthesis of a uniform
+film of few-layer MoS2 on GaN for 2D heterojunction ultraviolet photodetector. Journal of Physics D:
+Applied Physics, 51(37), 374003. ISSN: 0022-3727. https://doi.org/10.1088/1361-6463/aad4e8
+15. Hojamberdiev, M., Zhu, G., Lu, H., Kumar, M., Wang, M., & Gao, J. (2019). MoS2 quantum dots-
+modified porous β-Bi2O3 microspheres with enhanced visible-light-induced photocatalytic activity for
+Bisphenol A degradation and NO removal. Journal of Materials Science: Materials in Electronics, 30(3),
+2610-2621. ISSN: 1573-482X. https://doi.org/10.1007/s10854-018-0536-5
+16. Jain, P. K., & Tiwari, A. K. (2018). A Robust Algorithm for Segmentation of Phonocardiography Signal
+Using Tunable Quality Wavelet Transform. Journal of Medical and Biological Engineering, 38(3), 396–
+410. ISSN: 2199-4757. https://doi.org/10.1007/s40846-017-0320-7
+17. Joshi, V., Tiwari, S. P., & Shrivastava, M. (2019). Part I: Physical Insight Into Carbon-Doping-Induced
+Delayed Avalanche Action in GaN Buffer in AlGaN/GaN HEMTs. IEEE Transactions on Electron
+Devices, 66(1), 561 - 569. ISSN: 1557-9646. https://doi.org/10.1109/TED.2018.2878770
+18. Joshi, V., Tiwari, S. P., & Shrivastava, M. (2019). Part II: Proposals to Independently Engineer Donor and
+Acceptor Trap Concentrations in GaN Buffer for Ultrahigh Breakdown AlGaN/GaN HEMTs. IEEE
+Transactions on Electron Devices, 66(1), 570 - 577. ISSN: 1557-9646.
+https://doi.org/10.1109/TED.2018.2878787
+19. Kumar, R., Goel, N., & Kumar, M. (2018). NO2 sensing at room temperature using vertically aligned
+MoS2 flakes network. AIP Conference Proceedings, 1942(1), 060006. ISSN: 0094-243X.
+https://doi.org/10.1063/1.5028776
+20. Kumar, R., Goel, N., Mishra, M., Gupta, G., Fanetti, M., Valant, M., & Kumar, M. (2018). Growth of
+MoS2–MoO3 Hybrid Microflowers via Controlled Vapor Transport Process for Efficient Gas Sensing at
+Room Temperature. Advanced Materials Interfaces. 5(10), 1800071. ISSN: 2196-7350.
+https://doi.org/10.1002/admi.201800071
+21. Kumar, R., Goel, N., Raliya, R., Biswas, P., & Kumar, M. (2018). High-performance photodetector based
+on hybrid of MoS2 and reduced graphene oxide. Nanotechnology, 29(40), 404001. ISSN: 1361-6528.
+https://doi.org/10.1088/1361-6528/aad2f6
+22. Kumar, R., Kulriya, P. K., Mishra, M., Singh, F., Gupta, G., & Kumar, M. (2018). Highly selective and
+reversible NO2 gas sensor using vertically aligned MoS2 flake networks. Nanotechnology, 29(46), 464001.
+ISSN: 0957-4484. https://doi.org/10.1088/1361-6528/aade20
+
+23. Kumari, C., Varun, I., Tiwari, S. P., & Dixit, A. (2018). Robust non-volatile bipolar resistive switching in
+sol-gel derived BiFeO3 thin films. Superlattices and Microstructures, 120, 67-74. ISSN: 0749-6036.
+https://doi.org/10.1016/j.spmi.2018.05.008
+24. Mathur, A., Ai, Y., Bhatnagar, M. R., Cheffena, M., & Ohtsuki, T. (2018). On Physical Layer Security of α-
+η-κ-μ Fading Channels. IEEE Communications Letters, 22(10), 2168 - 2171. ISSN: 1558-2558.
+https://doi.org/10.1109/LCOMM.2018.2860020
+25. Mahato, A. K., Raghuwanshi, V., Bharti, D., Varun, I., Prasad, N., Roy, M. S., & Tiwari, S. P. (2019). TIPS-
+pentacene/Copper (II) phthalocyanine bi-layer photosensitive organic field-effect transistors. Synthetic
+Metals, 248, 110–119. ISSN: 0379-6779. https://doi.org/10.1016/j.synthmet.2019.01.011
+26. Mathur, A., Bhatnagar, M. R., Ai, Y., & Cheffena, M. (2018). Performance Analysis of a Dual-Hop
+Wireless-Power Line Mixed Cooperative System. IEEE Access, 6, 34380–34392. ISSN: 2169-3536.
+https://doi.org/10.1109/ACCESS.2018.2848306
+27. Raghuwanshi, V., Bharti, D., Mahato, A. K., Varun, I., & Tiwari, S. P. (2019). Solution-Processed Organic
+Field-Effect Transistors with High Performance and Stability on Paper Substrates. ACS Applied
+Materials & Interfaces, 11(8), 8357–8364. ISSN: 1944-8244. https://doi.org/10.1021/acsami.8b21404
+28. Rahul, K., & Tiwari, A. K. (2018). Saliency enabled compression in JPEG framework. IET Image
+Processing, 12(7), 1142–1149. ISSN: 1751-9659. https://doi.org/10.1049/iet-ipr.2017.0554
+29. Rajamani, S., Arora, K., Belov, A., Korolev, D., Nikolskaya, A., Usov, Y., Pavlov, D., Mikhaylov, A.,
+Tetelbaum, D., Kumar, M., & Kumar, M. (2018). Enhanced Solar-blind Photodetection Performance of
+Encapsulated Ga2O3 Nanocrystals in Al2O3 Matrix. IEEE Sensors Journal, 18(10), 4046-4052. ISSN: 1530-
+437X. https://doi.org/10.1109/JSEN.2018.2821562
+30. Rajamani, Saravanan, Arora, K., Konakov, A., Belov, A., Korolev, D., Nikolskaya, A., Mikhaylov, A. N.,
+Surodin, S., Kryukov, R., Nikolichev, D., Sushkov, A., Pavlov, D., Tetelbaum, D., Kumar, M., & Kumar,
+M. (2018). Deep UV narrow-band photodetector based on ion beam synthesized indium oxide quantum
+dots in Al2O3 matrix. Nanotechnology. 29(30), 305603. ISSN: 1361-6528. https://doi.org/10.1088/1361-
+6528/aabfaf
+31. Rathore, B., & Shaik, A. G. (2018). Wavelet-alienation based protection scheme for multi-terminal
+transmission line. Electric Power Systems Research, 161, 8–16. ISSN: 0378-7796.
+https://doi.org/10.1016/j.epsr.2018.03.025
+32. Sarkar, A., Mukherjee, S., Sharma, A., Biswas, A., & Akhtar, M. J. (2018). SIW based quad-beam leaky-
+wave antenna with polarization diversity for four quadrant scanning applications. IEEE Transactions on
+Antennas and Propagation, 66(8), 3918 - 3925. ISSN: 0018-926X.
+https://doi.org/10.1109/TAP.2018.2839887
+33. Shaik, A. G., & Mahela, O. P. (2018). Power quality assessment and event detection in hybrid power
+system. Electric Power Systems Research, 161, 26–44. ISSN: 0378-7796.
+https://doi.org/10.1016/j.epsr.2018.03.026
+34. Shinde, T. S., & Tiwari, A. K. (2018). Efficient direction-oriented search algorithm for block motion
+estimation. IET Image Processing, 12(9), 1557–1566. ISSN: 1751-9667. https://doi.org/10.1049/iet-
+ipr.2017.0641
+35. Singh, M., & Shaik, A. G. (2019). Faulty bearing detection, classification and location in a three-phase
+induction motor based on Stockwell transform and support vector machine. Measurement, 131, 524–533.
+ISSN: 0263-2241. https://doi.org/10.1016/j.measurement.2018.09.013
+36. Tripathi, S., Mohan, A., & Yadav, S. (2018). Performance study of a fractal UWB MIMO antenna for on-
+body WBAN applications. Analog Integrated Circuits and Signal Processing, 95(2), 249-258. ISSN: 1573-1979.
+https://doi.org/10.1007/s10470-018-1138-0
+37. Tripathi, S., Upadhyay, A., Kotyan, S., & Yadav, S. (2019). Analysis and Comparison of Different Fuzzy
+Inference Systems Used in Decision Making for Secondary Users in Cognitive Radio Network. Wireless
+Personal Communications, 104(3), 1175–1208. ISSN: 1572-834X. https://doi.org/10.1007/s11277-018-
+6075-9
+38. Varun, I., Bharti, D., Mahato, A. K., Raghuwanshi, V., & Tiwari, S. P. (2018). Investigation of resistive
+switching in PVP and ultra-thin HfOx based bilayer hybrid RRAM. Solid State Ionics, 325, 196–200. ISSN:
+0167-2738. https://doi.org/10.1016/j.ssi.2018.08.003
+
+1. Baghel, N., & Mukherjee, S. (2018). Design of a Substrate Integrated Coaxial Line Based 2x4 Slot
+Antenna Array for Millimeter Wave Application. In 2018 Asia-Pacific Microwave Conference (APMC)
+(pp. 1561–1563). Kyoto, Japan: IEEE. ISBN: 978-4-902339-45-1.
+https://doi.org/10.23919/APMC.2018.8617652
+2. Baghel, N., & Mukherjee, S. (2018). Design of Substrate Integrated Coaxial Line based Broadband Dipole
+Antenna for Millimeter Wave Application. In 2018 IEEE Indian Conference on Antennas and Propogation
+(InCAP) (pp. 1–4). Hyderabad, India: IEEE. ISBN: 978-1-5386-7060-6.
+https://doi.org/10.1109/INCAP.2018.8770964
+3. Bandaru, D. P., & Shaik, A. G. (2018). Wind Farm Connected Distribution System Protection Using
+Wavelet-Alienation Coefficient Technique. In 2018 3rd International Conference for Convergence in
+Technology (I2CT) (pp. 1–6). Pune, India: IEEE. ISBN: 978-1-5386-4273-3.
+https://doi.org/10.1109/I2CT.2018.8529579
+4. Bhatt, A., Syed, A., & Khandelwal, A. (2018). Designer Oriented Analysis of an All-Optical Binary Delta
+Sigma Modulator. In 2018 Asia Communications and Photonics Conference (ACP) (pp. 1–3). Hangzhou,
+China: IEEE. ISBN: 978-1-5386-6158-1. https://doi.org/10.1109/ACP.2018.8596001
+5. Chawda, G. S., & Shaik, A. G. (2018). Fuzzy Logic Based Control Algorithm for DSTATCOM Connected
+to Weak AC Grid. In 2018 2nd International Conference on Power, Energy and Environment: Towards
+Smart Technology (ICEPE) (pp. 1–6). Shillong, India: IEEE. ISBN: 978-1-5386-4769-1.
+https://doi.org/10.1109/EPETSG.2018.8659093
+6. Chawda, G. S., & Shaik, A. G. (2019). Performance Evaluation of Adaline Controlled Dstatcom for
+Multifarious Load in Weak AC Grid. In 2019 IEEE PES GTD Grand International Conference and Exposition
+Asia (GTD Asia) (pp. 356–361). Bangkok, Thailand: IEEE. ISBN: 978-1-5386-7434-5.
+https://doi.org/10.1109/GTDAsia.2019.8715994
+7. Dhillon, D., & Chouhan, R. (2018). Noise-aided edge-preserving image denoising using non-local means
+with stochastic resonance. In 2018 IEEE Global Conference on Signal and Information Processing
+(GlobalSIP) (pp. 21–25). Anaheim, CA, USA: IEEE. ISBN: 978-1-72811-295-4.
+https://doi.org/10.1109/GlobalSIP.2018.8646493
+8. Gangwar, A. K., & Shaik, A. G. (2018). Wavelet Based Transmission Line Protection Scheme Using
+Centroid Difference and Support Vector Regression. In 2018 7th International Conference on Renewable
+Energy Research and Applications (ICRERA) (pp. 1184–1189). Paris, France: IEEE. ISBN: 978-1-5386-5982-
+3. https://doi.org/10.1109/ICRERA.2018.8566905
+9. Gangwar, A. K., & Shaik, A. G. (2018). Centroidal Difference of Wavelet Approximate Coefficients Based
+Protection Scheme for Transmission Line. In 2018 2nd International Conference on Power, Energy and
+Environment: Towards Smart Technology (ICEPE) (pp. 1–5). Shillong, India: IEEE. ISBN: 978-1-5386-
+4769-1. https://doi.org/10.1109/EPETSG.2018.8659346
+10. Gautam, A. R., Rathore, N., & Fulwani, D. (2018). Second-order Harmonic Ripple Mitigation: A Solution
+for the Micro-Inverter Applications. In 2018 IEEE Industry Applications Society Annual Meeting (IAS)
+(pp. 1–6). Portland, OR, USA: IEEE. ISBN: 978-1-5386-4536-9. https://doi.org/10.1109/IAS.2018.8544687
+11. Jajoo, G., Yadav, Y. K., & Yadav, S. (2018). Blind Signal Digital Modulation Classification through k-
+medoids Clustering. In 2018 IEEE International Conference on Advanced Networks and
+Telecommunications Systems (ANTS) (pp. 1–5). Indore, India: IEEE. ISBN: 978-1-5386-8134-3.
+https://doi.org/10.1109/ANTS.2018.8710107
+12. Jangir, S., Choudhary, R., Rathore, B., & Shaik, A. G. (2018). Transmission Line Fault Detection and
+Classification Using Alienation Coefficient Technique for Current Signals. In 2018 3rd International
+Conference for Convergence in Technology (I2CT) (pp. 1–6). Pune, India: IEEE. ISBN: 978-1-5386-4273-3.
+https://doi.org/10.1109/I2CT.2018.8529447
+13. Krishna, I. S., & Mukherjee, S. (2018). A Substrate Integrated Coaxial Line Dual-Band Balun for 5G
+Applications. In 2018 Asia-Pacific Microwave Conference (APMC) (pp. 1190–1192). Kyoto, Japan: IEEE.
+ISBN: 978-4-902339-45-1. https://doi.org/10.23919/APMC.2018.8617540
+
+14. Krishna, I. S., & Mukherjee, S. (2018). Design of Folded Substrate Integrated Coaxial Line Wideband
+Balun for K-band Applications. In 2018 IEEE Indian Conference on Antennas and Propogation (InCAP) (pp.
+1–4). Hyderabad, India: IEEE. ISBN: 978-1-5386-7060-6. https://doi.org/10.1109/INCAP.2018.8770732
+15. Mukherjee, S. (2019). Design of SIW based Millimeter wave Chipless Identification Tag for Low Cost
+Application. In 2019 URSI Asia-Pacific Radio Science Conference (AP-RASC) (pp. 1–4). New Delhi, India:
+IEEE. ISBN: 978-90-825987-5-9. https://doi.org/10.23919/URSIAP-RASC.2019.8738540
+16. Raghuwanshi, V., Mahato, A. K., Bharti, D., Varun, I., & Tiwari, S. P. (2019). Copper (II) Phthalocyanine
+based Organic Field-Effect Transistors for UV Photo-detection. In 2019 Electron Devices Technology and
+Manufacturing Conference (EDTM) (pp. 437–439). Singapore: IEEE. ISBN: 978-1-5386-6508-4.
+https://doi.org/10.1109/EDTM.2019.8731055
+17. Rathore, B., & Shaik, A. G. (2018). Fault Analysis Using Alienation Technique for Three-Terminal
+Transmission Line. In 2018 2nd International Conference on Power, Energy and Environment: Towards
+Smart Technology (ICEPE) (pp. 1–6). Shillong, India: IEEE. ISBN: 978-1-5386-4769-1.
+https://doi.org/10.1109/EPETSG.2018.8658370
+18. Rathore, N., Gautam, A. R., & Fulwani, D. (2018). Adaptive Sliding mode based Loss Free resistor for
+Power Factor Correction Application. In 2018 IEEE Industry Applications Society Annual Meeting (IAS)
+(pp. 1–6). Portland, OR, USA: IEEE. ISBN: 978-1-5386-4536-9. https://doi.org/10.1109/IAS.2018.8544659
+19. Shah, J., Desai, S., & Shaik, A. G. (2018). Detection and Classification of High Impedance Faults in
+Transmission Line Using Alienation-based Analysis on Voltage Signals. In 2018 3rd International
+Conference for Convergence in Technology (I2CT) (pp. 1–6). Pune, India: IEEE. ISBN: 978-1-5386-4273-3.
+https://doi.org/10.1109/I2CT.2018.8529155
+20. Singh, M., & Shaik, A. G. (2019). Broken Rotor Bar Fault Diagnosis of a Three-phase Induction Motor
+using Discrete Wavelet Transform. In 2019 IEEE PES GTD Grand International Conference and Exposition
+Asia (GTD Asia) (pp. 13–17). Bangkok, Thailand: IEEE. ISBN: 978-1-5386-7434-5.
+https://doi.org/10.1109/GTDAsia.2019.8715925
+21. Singh, M., & Shaik, A. G. (2018). Location of Defective Bearing in Three-Phase Induction Motor Using
+Stockwell Transform and Support Vector Machine. In 2018 2nd International Conference on Power, Energy
+and Environment: Towards Smart Technology (ICEPE) (pp. 1–5). Shillong, India: IEEE. ISBN: 978-1-5386-
+4769-1. https://doi.org/10.1109/EPETSG.2018.8658606
+1. Mazumdar, S., Singh, A., Dutta, S., Yadav, S. K., & Guha, P. (2019). From Sharma-Mittal to von-
+Neumann Entropy of a Graph. https://arxiv.org/abs/1902.07548v1
+1. Chaudhuri, M., & Thimm, V. (2018). Postcolonial Intersections: Asia on the Move. Transfers:
+Interdisciplinary Journal of Mobility Studies, 8(3), 28–35. ISSN: 2045-4813, 2045-4821.
+https://doi.org/10.3167/TRANS.2018.080303
+2. Mahler, S. J., Cogua-López, J., & Chaudhuri, M. (2018). Expressing similarities and differences: Latin@
+voices from metropolitan Miami. Latino Studies, 16(1), 21–42. ISSN: 1476-3443.
+https://doi.org/10.1057/s41276-018-0116-0
+3. Maidullah, S., & Sharma, A. (2019). Gender difference in information processing limit during online
+decision making. Journal of Management Research and Analysis, 6(1), 14–23. ISSN: 2394-2770.
+https://doi.org/10.18231/j.jmra.2019.004
+4. Narayanan V, H. (2018). Freedom, responsibility and jurisprudence. Balkan Journal of Philosophy, 10(1),
+55–62. ISSN: 2367-5438. https://doi.org/10.5840/bjp20181017
+5. Sharma, A., & Dewangan, R. L. (2018). Indian socio-cultural conception of wisdom: does it follow
+universal understanding? Journal of Psychology and Behavioral Science, 6(1), 5-19. ISSN: 2374-2399.
+https://doi.org/10.15640/jpbs.v6n1a2
+
+1. Slovic, S, Rangarajan, S., & Sarveswaran, V. (Eds.). (2019). Routledge Handbook of Ecocriticism and
+Environmental Communication. Routledge. ISBN: 978-1-351-68270-1.
+https://doi.org/10.4324/9781315167343
+1. Chaudhuri, M., Thimm, V., & Mahler, S. J. (2019). Scaling Educational Policy and Practice
+Intersectionally: Historical and Contemporary Cases from South and Southeast Asia. In O. Hankivsky &
+J. S. Jordan-Zachery (Eds.), The Palgrave Handbook of Intersectionality in Public Policy (pp. 367–385).
+Cham: Palgrave Macmillan. ISBN: 978-3-319-98473-5. https://doi.org/10.1007/978-3-319-98473-5_16
+1. Bhati, A., Hiremath, K. R., & Dixit, V. (2018). Bandwidth enhancement of Salisbury screen microwave
+absorber using wire metamaterial. Microwave and Optical Technology Letters, 60(4), 891–897. ISSN: 0895-
+2477. https://doi.org/10.1002/mop.31078
+2. Bhati, A., Hiremath, K. R., & Dixit, V. (2018). Bandwidth enhancement of triple layer microwave
+absorber using metallic square patch. Applied Physics A, 124(12), 798. ISSN: 1432-0630.
+https://doi.org/10.1007/s00339-018-2219-8
+3. Bhati, A., Hiremath, K. R., & Dixit, V. (2018). Design and Characterization of Square Patch Salisbury
+Screen Microwave Absorber. Progress In Electromagnetics Research Letters, 76, 7–12. ISSN: 1937-6480.
+http://www.jpier.org/PIERL/pier.php?paper=18032402
+4. Bhatnagar, G., & Wu, Q. M. J. (2019). Fractal dimension based framework for night vision fusion.
+IEEE/CAA Journal of Automatica Sinica, 6(1), 220 - 227. ISSN: 2329-9266.
+https://doi.org/10.1109/JAS.2018.7511102
+5. Choudhary, S., & Hiremath, K. R. (2018). Experimental studies of absorption bandwidth enhancement in
+random metamaterials. Applied Physics A, 124(12), 829. ISSN: 1432-0630.
+https://doi.org/10.1007/s00339-018-2250-9
+6. Liu, Z., Blasch, E., Bhatnagar, G., John, V., Wu, W., & Blum, R. S. (2018). Fusing synergistic information
+from multi-sensor images: An overview from implementation to performance assessment. Information
+Fusion, 42(Supplement C), 127–145. ISSN: 1566-2535. https://doi.org/10.1016/j.inffus.2017.10.010
+7. Sahu, A., Hiremath, K., & Dixit, A. (2018). Limiting efficiency factors and their consequences on
+quantum dot sensitized solar cells: a detailed balance study. Applied Physics A, 124(8), 541. ISSN: 1432-
+0630. https://doi.org/10.1007/s00339-018-1963-0
+8. Sahu, A., Tirosh, S., Hiremath, K. R., Zaban, A., & Dixit, A. (2018). A novel process for sensitization and
+infiltration of quantum dots in mesoporous metal oxide matrix for efficient solar photovoltaics response.
+Solar Energy, 169, 488–497. ISSN: 0038-092X. https://doi.org/10.1016/j.solener.2018.04.058
+9. Sharma, P., & Raghav, M. (2018). Dynamics of Non-Autonomous Discrete Dynamical Systems. Topology
+Proceedings, 52, 45–59. ISSN: 2331-1290. http://topology.auburn.edu/tp/reprints/v52/tp52004p1.pdf
+10. Singh, S. P., & Bhatnagar, G. (2018). A new robust watermarking system in integer DCT domain. Journal
+of Visual Communication and Image Representation, 53, 86–101. ISSN: 1047-3203.
+https://doi.org/10.1016/j.jvcir.2018.03.006
+1. Raghav, M., & Sharma, P. (2018). Dynamics of Finitely Generated Non-Autonomous Systems.
+ArXiv:1810.01167 [Math]. http://arxiv.org/abs/1810.01167
+2. Singh, R., Vijay, V., & Bapat, R. B. (2018). Algorithm for B-partitions, parameterized complexity of the
+matrix determinant and permanent. https://arxiv.org/abs/1810.04670
+3. Sharma, P., & Kumar, D. (2019). Multidimensional Shifts and Finite Matrices. ArXiv:1901.07533 [Math].
+http://arxiv.org/abs/1901.07533
+
+1. Gupta, S., Satankar, R. K., Kaurwar, A., Aravind, U., Sharif, M., & Plappally, A. (2018). Household
+production of ceramic water filters in Western Rajasthan, India. International Journal for Service
+Learning in Engineering, Humanitarian Engineering and Social Entrepreneurship, 13(1), 53–66. ISSN:
+1555-9033. https://doi.org/10.24908/ijsle.v13i1.11150
+2. Jain, A., Sharma, A., Borana, S. L., Ravindra, B., & Mangalhara, J. P. (2018). Study and Analysis of
+Exhaust Emission of Diesel Vehicles using Thermal IR Imagers. Defence Science Journal, 68(6), 533–539.
+ISSN: 0976464X. https://doi.org/10.14429/dsj.68.12701
+3. Joshi, R., & Chhibber, R. (2018). Design and development of SiO2-Al2O3-B2O3-Na2O based glass sealant
+for the glass-metal joint. Ceramics International, 44(16), 19084-19098. ISSN: 0272-8842.
+https://doi.org/10.1016/j.ceramint.2018.07.172
+4. Joshi, R., & Chhibber, R. (2018). Effect of SiO2/B2O3 ratio on the thermophysical and wetting properties
+of borosilicate glass sealant for glass-metal joint. Journal of Materials Processing Technology, 259, 186–194.
+ISSN: 0924-0136. https://doi.org/10.1016/j.jmatprotec.2018.04.028
+5. Joshi, R., & Chhibber, R. (2018). Failure study of compression glass-metal joint for parabolic trough
+receiver tube application. Materials Today: Proceedings, 5(7, Part 1), 14847–14851. ISSN: 2214-7853.
+https://doi.org/10.1016/j.matpr.2018.04.017
+6. Joshi, R., & Chhibber, R. (2018). High Temperature Wettability Studies for Development of Unmatched
+Glass-Metal Joints in Solar Receiver Tube. Renewable Energy, 119, 282-289. ISSN: 0960-1481.
+https://doi.org/10.1016/j.renene.2017.12.020
+7. Moges, T. M., Desai, K. A., & Rao, P. V. M. (2018). Modeling of cutting force, tool deflection, and surface
+error in micro-milling operation. The International Journal of Advanced Manufacturing Technology,
+98(9–12), 2865–2881. ISSN: 1433-3015. https://doi.org/10.1007/s00170-018-2415-x
+8. Monde, A. D., & Chakraborty, P. R. (2018). Prediction of Cooling Curves for Controlled Unidirectional
+Solidification under the Influence of Shrinkage: A Semi-analytical Approach. Metallurgical and Materials
+Transactions B, 49 (6), 3306-3316. ISSN: 1543-1916. https://doi.org/10.1007/s11663-018-1420-7
+9. Prasanth, C., Harsha, C. S., & Pratiher, B. (2017). Electrostatic pull-in analysis of a nonuniform micro-
+resonator undergoing large elastic deflection. Proceedings of the Institution of Mechanical Engineers, Part C:
+Journal of Mechanical Engineering Science, 212(18), 3337-3350. ISSN: 0954-4062.
+https://doi.org/10.1177/0954406217736079
+10. Sharma, L., & Chhibber, R. (2018). Mechanical properties and hydrogen induced cracking behaviour of
+API X70 SAW weldments. International Journal of Pressure Vessels and Piping, 165, 193-207. ISSN: 0308-
+0161. https://doi.org/10.1016/j.ijpvp.2018.06.013
+11. Sharma, L., & Chhibber, R. (2019). Effect of Heat Treatment on Mechanical Properties and Corrosion
+Behaviour of API X70 Linepipe Steel in Different Environments. Transactions of the Indian Institute of
+Metals, 72(1), 93-110. ISSN: 0975-1645. https://doi.org/10.1007/s12666-018-1465-y
+12. Verma, V. K., Tripathi, B., Rana, K. B., & Chhibber, R. (2018). Factors Affecting the Performance of
+Glass–Metal Seal of Solar Receiver Tubes: A Review. International Journal of Applied Engineering
+Research, 13(8), 12. ISSN: 0973-9769. http://www.ripublication.com/ijaerspl2018/ijaerv13n8spl_18.pdf
+1. Sakthivel, T., & Venkatesan, C. (2018). Estimation of handling quality parameters of a rotorcraft using
+open-loop linearized and nonlinear flight dynamic models (Vol. 2, pp. 867–879). Presented at the 44th
+European Rotorcraft Forum 2018, ERF 2018, Delft, Netherlands: Netherlands Association of Aeronautical
+Engineers. ISBN: 978-1-5108-7964-5.
+1. Raina, D., Gora, S., & Shah, S. V. (2019). Modeling and Estimation of Closed-Loop Impact for Multi-arm
+Space Robot While Capturing a Tumbling Orbiting Object. In D. N. Badodkar & T. A. Dwarakanath
+(Eds.), Machines, Mechanism and Robotics (pp. 561–570). Springer, Singapore. ISBN: 978-981-10-8597-0.
+https://doi.org/10.1007/978-981-10-8597-0_48
+
+2. Shastry, S., Avaneesh, R., Desai, K. A., & Shah, S. V. (2018). Optimal Design of a Stewart–Gough
+Platform for Multidirectional 3-D Printing. In S. S. Pande & U. S. Dixit (Eds.), Precision Product-Process
+Design and Optimization (pp. 1–29). Singapore: Springer. ISBN: 978-981-10-8767-7.
+https://doi.org/10.1007/978-981-10-8767-7_1
+3. Tyagi, H., Agarwal, A. K., Chakraborty, P. R., & Powar, S. (2018). Introduction to Applications of Solar
+Energy. In H. Tyagi, A. K. Agarwal, P. R. Chakraborty, & S. Powar (Eds.), Applications of Solar Energy (pp.
+3–10). Singapore: Springer. ISBN: 9789811333026. https://doi.org/10.1007/978-981-13-3302-6_1
+4. Monde, A. D., Shrivastava, A., & Chakraborty, P. R. (2018). Solar Thermal Energy Storage. In H. Tyagi,
+A. K. Agarwal, P. R. Chakraborty, & S. Powar (Eds.), Applications of Solar Energy (pp. 131–162). Singapore:
+Springer. ISBN: 9789811333026. https://doi.org/10.1007/978-981-10-7206-2_8
+5. Verma, A., Satish, & Chakraborty, P. R. (2018). Water–Lithium Bromide Absorption Chillers for Solar
+Cooling. In H. Tyagi, A. K. Agarwal, P. R. Chakraborty, & S. Powar (Eds.), Applications of Solar Energy
+(pp. 209–232). Singapore: Springer. ISBN: 9789811333026. https://doi.org/10.1007/978-981-10-7206-2_11
+1. Tyagi, H., Agarwal, A. K., Chakraborty, P. R. & Powar, S. (2018). Energy, Environment, and Sustainability
+(ENENSU): Applications of Solar Energy. Singapore: Springer Nature Singapore Pte. Ltd. ISBN: 978-981-10-
+7205-5. https://link.springer.com/book/10.1007%2F978-981-10-7206-2
+1. Naveen, B., Shah, S. V., & Misra, A. K. (2018). Momentum Model-based Minimal Parameter Identification
+of a Space Robot. ArXiv:1809.00367 [Cs]. http://arxiv.org/abs/1809.00367
+2. Ravindra, B. (2018). Forecasting solar radiation during dust storms using deep learning. ArXiv:1808.10854
+[Physics]. http://arxiv.org/abs/1808.10854
+3. Tallamraju, R., Salunkhe, D. H., Rajappa, S., Ahmad, A., Karlapalem, K., & Shah, S. V. (2019). Motion
+Planning for Multi-Mobile-Manipulator Payload Transport Systems. ArXiv:1903.07758 [Cs].
+http://arxiv.org/abs/1903.07758
+1. Bhattacharyya, A., & Maurice, D. (2019). Residual stresses in functionally graded thermal barrier
+coatings. Mechanics of Materials, 129, 50–56. ISSN: 0167-6636.
+https://doi.org/10.1016/j.mechmat.2018.11.002
+2. Chougule, S., Sheed, D., Prabhu, N., Kashyap, B. P., Jha, K., & Singh, R. K. P. (2018). Multipass-friction
+Stir Processing (MFSP) of Ti-6Al-4V Alloy and Investigation of Flow Properties. IOP Conference Series:
+Materials Science and Engineering, 422, 012017. ISSN: 1757-899X. https://doi.org/10.1088/1757-
+899X/422/1/012017
+3. Dilip Chandra Kumar, G., Anil Kumar, V., Gupta, R. K., Narayana Murty, S. V. S., & Kashyap, B. P.
+(2019). Effect of Strain Rate and Temperature on the Tensile Flow Behavior and Microstructure Evolution
+in Fe-0.3 Pct C-CrMoV Grade Steel. Metallurgical and Materials Transactions A, 50(1), 161–178. ISSN: 1543-
+1940. https://doi.org/10.1007/s11661-018-4963-y
+4. Jagadeesh Babu, S. M., Narayana Murty, S. V. S., Prabhu, N., Kapoor, R., Singh, R. N., & Kashyap, B. P.
+(2019). Effects of Temporary Alloying and Severe Plastic Deformation on Microstructure Evolution and
+Mechanical Properties of Ti-Alloys: A Comparative Study. Transactions of the Indian Institute of Metals.
+ISSN: 0975-1645. https://doi.org/10.1007/s12666-019-01594-3
+5. Kashyap, B. P. (2018). Understanding the Concurrent Microstructural Evolution and Its Impact on
+Superplastic Characteristics: An overview. Letters on Materials, 8(4s), 524–531. ISSN: 2218-5046.
+https://doi.org/10.22226/2410-3535-2018-4-524-531
+6. Sekhar, K. C., Kashyap, B. P., Kumar, M. S., & Sangal, S. (2018). Strengthening of Thin Sheet Metals for
+Advanced Structural Applications by Various Notch Wavy Rolling Techniques. Materials Today:
+Proceedings, 5(9, Part 1), 16871–16879. ISSN: 2214-7853. https://doi.org/10.1016/j.matpr.2018.04.089
+
+7. Sharma, B., Singh, A., Sarma, T. K., Sardana, N., & Pal, A. (2018). Chirality control to multi-stimuli
+responsive and self-healing supramolecular metallo-hydrogels. New Journal of Chemistry, 42(8), 6427-6432.
+ISSN: 1369-9261. https://doi.org/10.1039/C8NJ00218E
+8. Sharma, R. K., Bind, A. K., Avinash, G., Singh, R. N., Tewari, A., & Kashyap, B. P. (2018). Effect of radial
+hydride fraction on fracture toughness of CWSR Zr-2.5%Nb pressure tube material between ambient and
+300 °C temperatures. Journal of Nuclear Materials, 508, 546-555. ISSN: 0022-3115.
+https://doi.org/10.1016/j.jnucmat.2018.06.003
+9. Sharma, R. K., Tewari, A., Singh, R. N., & Kashyap, B. P. (2018). Optimum shape and orientation of δ-
+hydride precipitate in α-zirconium matrix for different temperatures. Journal of Alloys and Compounds,
+742, 804–813. ISSN: 0925-8388. https://doi.org/10.1016/j.jallcom.2017.12.085
+10. Sharma, S., Kumar, B. R., Kashyap, B. P., & Prabhu, N. (2018). Effects of concurrent strain induced
+martensite formation on tensile and texture properties of 304L stainless steel of varying grain size
+distribution. Materials Science and Engineering: A. 725, 215-227ISSN: 0921-5093.
+https://doi.org/10.1016/j.msea.2018.03.099
+11. Sharma, S., Ravi Kumar, B., Kashyap, B. P., & Prabhu, N. (2018). Effect of stored strain energy
+heterogeneity on microstructure evolution of 90% cold rolled AISI 304L stainless steel during interrupted
+annealing treatment. Materials Characterization, 140, 72–85. ISSN: 1044-5803.
+https://doi.org/10.1016/j.matchar.2018.03.036
+1. Jagadeesh Babu, S. M., Narayana Murty, S. V. S., Prabhu, N., & Kashyap, B. P. (2018). Effect of caliber
+rolling temperature on room and elevated temperature tensile properties of Ti-6Al-4V alloy (pp. 670–
+679). Presented at the Materials Science and Technology 2018, MS and T 2018, Columbus, USA:
+Association for Iron and Steel Technology. ISBN: 978-0-87339-768-1.
+https://doi.org/10.7449/2018/MST_2018_670_679
+1. Alok, A. K., Kumar, D., Kumar, J., Kumbhakar, S., & Sankar, S. U. (2018). New physics solutions for RD
+and RD∗. Journal of High Energy Physics, 2018(9), 152. ISSN: 1029-8479.
+https://doi.org/10.1007/JHEP09(2018)152
+2. Alok, A. K., Kumar, D., Kumbhakar, S., & Sankar, S. U. (2018). Resolution of RD/RD⁎ puzzle. Physics
+Letters B, 784(10), 16-20. ISSN: 0370-2693. https://doi.org/10.1016/j.physletb.2018.07.001
+3. Arumugam, S., Sivaprakash, P., Dixit, A., Chaurasiya, R., Govindaraj, L., Sathiskumar, M., Chatterjee, S.
+& Suryanarayanan, R. (2019). Complex magnetic structure and magnetocapacitance response in a non-
+oxide NiF 2 system. Scientific Reports, 9(1), 3200. ISSN: 2045-2322. https://doi.org/10.1038/s41598-019-
+39083-8
+4. Chaurasiya, R., & Dixit, A. (2019). Point defects induced magnetism in CdO monolayer: A theoretical
+study. Journal of Magnetism and Magnetic Materials, 469, 279–288. ISSN: 0304-8853.
+https://doi.org/10.1016/j.jmmm.2018.08.076
+5. Chaurasiya, R., Dixit, A., & Pandey, R. (2019). Strain-driven thermodynamic stability and electronic
+transitions in ZnX (X = O, S, Se, and Te) monolayers. Journal of Applied Physics, 125(8), 082540. ISSN:
+0021-8979. https://doi.org/10.1063/1.5053680
+6. Dixit, K., Alok, A. K., Banerjee, S., & Kumar, D. (2018). Geometric phase and neutrino mass hierarchy
+problem. Journal of Physics G: Nuclear and Particle Physics, 45(8), 085002. ISSN: 1361-6471.
+https://doi.org/10.1088/1361-6471/aac454
+7. Dixit, K., Naikoo, J., Banerjee, S., & Alok, A. K. (2018). Quantum correlations and the neutrino mass
+degeneracy problem. The European Physical Journal C, 78(11), 914. ISSN: 1434-6052.
+https://doi.org/10.1140/epjc/s10052-018-6376-x
+8. Dutta, S., Adhikari, B., & Banerjee, S. (2019). Condition for zero and nonzero discord in graph Laplacian
+quantum states. International Journal of Quantum Information, 17(02), 1950018. ISSN: 0219-7499.
+https://doi.org/10.1142/S0219749919500187
+
+9. Ghosh, S. (2018). Signature of phase singularities in diffusive regimes in disordered waveguide lattices:
+interplay and qualitative analysis. Applied Optics, 57(14), 3669–3673. ISSN: 2155-3165.
+https://doi.org/10.1364/AO.57.003669
+10. Gupta, G. K., & Dixit, A. (2018). Theoretical studies of single and tandem Cu2ZnSn(S/Se)4 junction solar
+cells for enhanced efficiency. Optical Materials, 82, 11–20. ISSN: 0925-3467.
+https://doi.org/10.1016/j.optmat.2018.05.030
+11. Kumar, N. P., Banerjee, S., & Chandrashekar, C. M. (2018). Enhanced non-Markovian behavior in
+quantum walks with Markovian disorder. Scientific Reports, 8(1), 8801. ISSN: 2045-2322.
+https://doi.org/10.1038/s41598-018-27132-7
+12. Kumar, N. P., Banerjee, S., Srikanth, R., Jagadish, V., & Petruccione, F. (2018). Non-Markovian Evolution:
+a Quantum Walk Perspective. Open Systems & Information Dynamics, 25(03), 1850014. ISSN: 1230-1612.
+https://doi.org/10.1142/S1230161218500142
+13. Naikoo, J., & Banerjee, S. (2018). Entropic Leggett–Garg inequality in neutrinos and B(K) meson systems.
+The European Physical Journal C, 78(7), 602. ISSN: 1434-6052. https://doi.org/10.1140/epjc/s10052-018-
+6084-6
+14. Naikoo, J., Thapliyal, K., Pathak, A., & Banerjee, S. (2018). Probing nonclassicality in an optically driven
+cavity with two atomic ensembles. Physical Review A, 97(6), 063840. ISSN: 2469-9934.
+https://doi.org/10.1103/PhysRevA.97.063840
+15. Oberoi, D., Dagar, P., Shankar, U., Vyas, G., Kori, A., Sahu, S., & Bandyopadhyay, A. (2018). Design,
+synthesis, and characterization of Fe(ii)-polymer of redox non-innocent, heteroatomic, polydentate
+schiff’s base ligand: negative differential resistance and memory behaviour. New Journal of Chemistry,
+42 (23), 19090-19100. ISSN: 1369-9261. https://doi.org/10.1039/C8NJ04106G
+16. Sahu, A., & Dixit, A. (2018). Design criteria of transition metal dopants in TiO2/CdS photoelectrode for
+enhanced photovoltaic response. Journal of Physics and Chemistry of Solids, 122, 154–161. ISSN: 0022-
+3697. https://doi.org/10.1016/j.jpcs.2018.06.021
+17. Sharma, V., Shrikant, U., Srikanth, R., & Banerjee, S. (2018). Decoherence can help quantum
+cryptographic security. Quantum Information Processing, 17(8), 207. ISSN: 1573-1332.
+https://doi.org/10.1007/s11128-018-1974-y
+18. Shrikant, U., Srikanth, R., & Banerjee, S. (2018). Non-Markovian dephasing and depolarizing channels.
+Physical Review A, 98(3), 032328. ISSN: 2469-9934. https://doi.org/10.1103/PhysRevA.98.032328
+19. Thomas, G., Siddharth, N., Banerjee, S., & Ghosh, S. (2018). Thermodynamics of non-Markovian
+reservoirs and heat engines. Physical Review E, 97(6), 062108. ISSN: 2470-0053.
+https://doi.org/10.1103/PhysRevE.97.062108
+20. Verma, R. N., Kumar, R., Dixit, A., & Chandra, L. (2018). A low temperature water-cooled radiation
+calorimeter for estimation of concentrated solar irradiance. Solar Energy, 167, 194–209. ISSN: 0038-092X.
+https://doi.org/10.1016/j.solener.2018.04.006
+21. Vyas, G., Dagar, P., & Sahu, S. (2018). Exponential increase in the on–off ratio of conductance in organic
+memory devices by controlling the surface morphology of the devices. Applied Physics A, 124(5), 369.
+ISSN: 1432-0630. https://doi.org/10.1007/s00339-018-1791-2
+1. Biswas, P., & Ghosh, S. (2018). Pulse Reshaping and Stable Propagation through a Chirped-clad
+Dispersion Oscillating Bragg Fiber. In Advanced Photonics 2018 (BGPP, IPR, NP, NOMA, Sensors,
+Networks, SPPCom, SOF) (2018), paper JTh4A.3 (p. JTh4A.3). Zurich Switzerland: Optical Society of
+America. ISBN: 978-1-943580-43-9. https://doi.org/10.1364/BGPPM.2018.JTh4A.3
+1. Singh, G., Kumar, R., Dixit, A., & Chandra, L. (2018). Thermal and Materials Perspective on the Design of
+Open Volumetric Air Receiver for Process Heat Applications. In H. Tyagi, A. K. Agarwal, P. R.
+Chakraborty, & S. Powar (Eds.), Applications of Solar Energy (pp. 113–127). Singapore: Springer. ISBN:
+9789811333026. https://doi.org/10.1007/978-981-10-7206-2_7
+
+2. Bazil Raj, A. A., Sharma, V., & Banerjee, S. (2019). Quantum Based Satellite Free Space Optical
+Communication and Microwave Photonics. In Arun K. Majumdar, Zabih Ghassemlooy & A. Arockia
+Bazil Raj (Eds.), Principles and Applications of Free Space Optical Communications (pp. 0-0). IET, UK.
+ISBN: 978-1-78561-415-6. https://www.theiet.org/resources/books/telecom/free-space.cfm
+1. Banerjee, S. (2018). Open Quantum Systems: Dynamics of Nonclassical Evolution. Singapore: Springer.
+ISBN: 978-981-13-3182-4. https://doi.org/ 10.1007/978-981-13-3182-4
+1. Abbas, G., Alok, A. K., & Gangal, S. (2018). New physics effects in radiative leptonic Bs decay.
+ArXiv:1805.02265 [Hep-Ph]. http://arxiv.org/abs/1805.02265
+2. Bhattacherjee, S., Laha, A., & Ghosh, S. (2018). Origin of third order exceptional singularities and its
+signature in successive state conversion. ArXiv:1806.10795 [Physics]. http://arxiv.org/abs/1806.10795
+3. Bhattacherjee, S., Laha, A., & Ghosh, S. (2018). Realization of third order exceptional singularities in a
+three level non-hermitian system: towards cascaded state conversion. ArXiv:1805.06505 [Quant-Ph].
+http://arxiv.org/abs/1805.06505
+4. Biswas, P., Gandhi, H. K., Mishra, V., & Ghosh, S. (2018). Propagation and asymmetric behavior of
+optical pulses through time-dynamic loss-gain assisted media. ArXiv:1806.05608 [Physics].
+http://arxiv.org/abs/1806.05608
+5. Chaurasiya, R., & Dixit, A. (2018). MoSSe Janus monolayer as a promising two dimensional material for
+NO2 and NO gas sensor applications. ArXiv:1812.08547 [Cond-Mat]. http://arxiv.org/abs/1812.08547
+6. Laha, A., Biswas, A., & Ghosh, S. (2018). Non-adiabatic Modal Dynamics around Exceptional Points in
+an All-Lossy Dual-Mode Optical Waveguide: Towards Chirality Driven Asymmetric Mode-Conversion.
+https://arxiv.org/abs/1809.07617
+7. Malpani, P., Alam, N., Thapliyal, K., Pathak, A., Narayanan, V., & Banerjee, S. (2018). Lower- and
+higher-order nonclassical properties of photon added and subtracted displaced Fock states.
+ArXiv:1808.01458 [Quant-Ph]. http://arxiv.org/abs/1808.01458
+8. Naikoo, J., Alok, A. K., Banerjee, S., & Sankar, S. U. (2019). Leggett-Garg inequality in the context of
+three flavour neutrino oscillation. ArXiv:1901.10859 [Hep-Ph, Physics:Quant-Ph].
+http://arxiv.org/abs/1901.10859
+9. Naikoo, J., Banerjee, S., & Srikanth, R. (2018). Leggett-Garg inequality violation under non-Markovian
+noise. ArXiv:1806.00537 [Quant-Ph]. http://arxiv.org/abs/1806.00537
+10. Sahu, A., & Dixit, A. (2018). Inverted structure perovskite solar cells: a theoretical study.
+ArXiv:1806.03950 [Physics]. http://arxiv.org/abs/1806.03950
+11. Sharma, V., & Banerjee, S. (2018). Analysis of Quantum Key Distribution based Satellite Communication.
+ArXiv:1807.07544 [Quant-Ph]. http://arxiv.org/abs/1807.07544
+
+1. vfer feJk] lgk;d izk/;kid] tSo foKku ,o a tSo vfHk;kfa=dh foHkkx dk s ck;kes fsMdy fjlpZ es a
+mR—‘V ;kxs nku ds fy, Hkkjrh; ck;kes fsMdy lkbZfll vdkneh ¼vkbZ,ch,l½ Hkkjr }kjk iz[;kr Jh
+vkes izdk”k “kekZ iqjLdkj ls lEekfur fd;k x;kA
+2. vfer feJk] lgk;d izk/;kid] tSo foKku ,oa tSo vfHk;kfa=dh foHkkx dk s Hkkjrh; fpfdRlk “kk/s k
+3. vfer feJk] lgk;d izk/;kid] tSo foKku ,oa tSo vfHk;kfa=dh foHkkx dk s tSo fpfdRlk foKku es a
+muds mR—‘V “kk/s k ;kxs nku ds fy, jk’Vªh; fpfdRlk foKku vdkneh ¼,u,,e,l½ dh thou Ik;aZr
+lnL; ds fy, pquk x;kA
+1. jkds”k dqekj “kekZ] lgk;d izk/;kid] jlk;u foHkkx dks igys okf’kZd Vªkla QkZse”s kuy yhMjf”ki lfeV
+vkSj iqjLdkj 2018 ds nkSjku caXykSj mR—‘V “kk/s k iqjLdkj 2018 ls lEekfur fd;k x;kA ;g mR—‘V
+“kk/s k iqjLdkj “kk/s k ea s mR—‘Vrk ds mnkgj.kka s dk s lEekfur djrk gS vkSj O;fDr;kas dk s muds {k=s es a
+mYys[kuh; ;kxs nku ds lkFk “kk/s k ,oa “kSf{kd leqnk; ds laca/k eas ldkjkRed izHkko iSnk djus ds fy,
+lEekfur djrk gSA
+1. nhid Qqyokuh] lgizk/;kid] fo|qrh; vfHk;kfa=dh foHkkx dk s lac) laiknd ds :Ik eas m|kxs iz;kxs kksa
+laca/kh vkbZbZbZbZ VªkfatD”ku ds laikndh; eMa y eas “kkfey fd;k x;kA
+2. egs”k dqekj] lgk;d izk/;kid] fo|rq h; vfHk;kfa=dh foHkkx dk s HkkSfrdh laLFkku] ;wds }kjk idz kf”kr
+4. egs”k dqekj] lgk;d izk/;kid] fo|rq h; vfHk;kfa=dh foHkkx dk s HkkLdj ,MokaLm lksyj ,uthZ
+iqjLdkj ,oa lEeku
+
+6. egs”k dqekj] lgk;d izk/;kid] fo|qrh; vfHk;kfa=dh foHkkx dks Hkkjrh; jk’Vªh; ;qok foKku vdkneh
+7. jkty{eh pkSgku] lgk;d izk/;kid] fo|qrh; vfHk;kfa=dh foHkkx dk s bathfu;fjax ,Qs hfuVh xzqi]
+vkbZbZbZbZ iq.ks lsD”ku ea s vkbZbZbbZ Z bafM;k dkma fly ,aM oweu ds lkFk gksi Qkma Ms”ku ,aM fjlpZ lsVa j
+¼,p,Qvkjlh½ }kjk loksZRre efgyk O;kolkf;d ¼”k:q vkrh dSfj;j½ ds fy, LoxhZ; Jh izgykn ih-
+NkofM+;k ijq Ldkj 2019 inz ku fd;k x;kA bl iqjLdkj eas ,d ind] ,d iz”kfLr i= vkSj 1-25 yk[k
+:- dk iqjLdkj “kkfey gksrk gSA
+8. lkSEko eq[kthZ] lgk;d izk/;kid] fo|rq h; vfHk;kfa=dh foHkkx us 9&15 ekpZ] 2019 dk s vk;ksftr 2019
+9. ,- ljdkj] lkSEko eq[kthZ] ,- “kekZ] , fo”okl vkSj ,ets v[rj }kjk ^^,lvkbZMCy;w cLs M DokMZ& che
+ysdh&osc ,afVuk fon ikWysjkbZt”s ku MsaflVh QkWj Qkjs DokMZjsVa LdSfuax ,Iyhds”ku^^ “kh’kZd dk VªaktD”ku
+ys[k dks vkbZbZbZbZ VªkatD”ku vkWu ,afVuk ,aM izkis xs s”ku eas tuZy vad ¼vkbZbZbZbZ VªkatD”ku vkWu ,afVuk
+,aM izkis xs ”s ku] [kMa 66] la[;k 8] vxLr 2018½ ds VkWi doj ist ds fy, pquk x;kA
+Hkk-izkS-la- ds ladk; lnL;ksa }kjk foRr o’kZ 2018&19 ds nkSjku fuEufyf[kr ckg~; xfrfof/k;ka lapkfyr
+}kjk Hkkx fy;k x;k vkSj ;wch, 2-0 laca/kh {ks=h; dk;Z”kkyk esa uksMy vf/kdkjh vuU;k nsoukFk }kjk 10 
+vxLr] 2018 dks ,uih;w,Vh] mn;iqj esa Hkkx fy;k x;kA vuU;k nscukFk ds lkFk Hkk-izkS-la- tks/kiqj dh ;wch, 
+Vhe us 15 vxLr] 2018 dks :fM;k xkao esa xzke lHkk dh cSBd esa Hkkx fy;kA fpajtkW; pêksi/;k;] x.kir 
+pkS/kjh] vferkHk [kaMsyoky us vkuUn IykIiYyh ds ekxZn”kZu esa fd;s x;s losZ{k.k ds vk/kkj ij pqus x, xkao 
+esa rhu izeq[k leL;kvksa ds fy, dk;Z ;kstukvksa ds ckjs esa oDrO; fn;kA
+mUur Hkkjr vfHk;ku dh Vhe us Hkk-izks-la tks/kiqj esa 25 Qjojh] 2019 dks ^^lkekftd vPNkbZ ds
+fy, mHkjrh gq, izkS|ksfxdh dk iz;ksx^^ ds laca/k esa ,d [kqys fopkj&foe”kZ dk vk;kstu fd;kA nks fofo/k 
+oDrkvksa Jh vuqjkx xks;y vkSj MkW- vuqjkx vxzoky us LokLF; ns[kHkky rFkk bl igyq esa iz”kklu dh Hkwfedk 
+ds fy, laxr mHkjrh gq, izkS|ksfxdh ds laca/k esa O;k[;ku fn,A bl ckSf)d l= esa ladk; lnL;ksa vkSj Nk=ksa 
+us Hkkx fy;kA bldks tkjh djrs gq, Jh vuqjkx xks;y] ladk; lnL; rFkk funs”kd ds lkFk 26 Qjojh] 
+2019 dks ,d vU; fopkj&foe”kZ dk vk;kstu fd;k x;kA ,sls {ks=ksa esa fofHkUu igyqvksa vkSj O;kogkfjd 
+pquksfr;ksa ij dk;Z djuk bl fopkj&foe”kZ ds nkSjku egRoiw.kZ jgkA
+:fM;k xkao esa xzke lHkk dh cSBd esa Hkk-izkS-la- tks/kiqj dh mUur Hkkjr vfHk;ku Vhe
+
+Hkk-izks-la tks/kiqj }kjk 14 ebZ&2 twu] 2018 dks foKku T;ksfr dk;ZØe dk vk;kstu fd;k x;kA ;g
+dk;ZØe foKku ,oa izkS|ksfxdh foHkkx ¼Mh,lVh½ Hkkjr ljdkj dk foKku ,oa izkS|ksfxdh ¼,l,uVh½ ds fofHkUu 
+{ks=ksa esa tsaMj HksnHkko dks nwj djus dk ,d u;k dne gS ftlesa efgykvksa dk de izfrfuf/kRo ekSTkwn gSA 
+bl dk;ZØe dk usr`Ro fiz;adk flag] lgk;d izk/;kid] tSo foKku ,oa tSo vfHk;kaf=dh foHkkx] Hkk-izks-la 
+tks/kiqj }kjk f;dk x;kA bl dk;ZØe ds varxZr d{kk XI vkSj XII dh Nk=kvksa us Hkk-izks-l- tks/kiqj ds 
+ifjlj esa bl rhu lIrkg ds O;kid vkoklh; dk;ZØe esa Hkkx fy;k rFkk muds fy, jksy ekWMy] lekt 
+vkSj thou] LokLF;] l{kerk vkSj O;kolk; rFkk thou tSls fofHkUu eqn~nksa ds fy, fof”k’V :Ik ls rS;kj 
+fd; x;s fofHkUu dk;Zdykiksa esa Hkkx fy;kA
+foKku T;ksfr dk;ZØe ds izfrHkkxh
+
+vkeaf=r vfrfFk;ksa ds lkFk GIAN dk;ZØe ds izfrHkkfx;ksa ds lkFk ladk; lnL;ksa vkSj deZpkjh lnL;ksa dk lkewfgd fp=
+
+;kaf=d vfHk;kaf=dh foHkkx] Hkk-izkS-la- tks/kiqj esa 13&15 fnlEcj] 2018 ds nkSjku ^^ukWufyfu;j
+Mk;ukfeDl ,aM d¢vksl ¼,uMhlh,lbZ 2018½ laca/kh ,d jk’Vªh; dk;Z”kkyk dk vk;kstu fd;k x;kA bl 
+dk;Z”kkyk esa fofHkUu Hkk-izkS-la-@jk-izkS-la-@dsanzh; fo”ofo|ky;ksa ds voj Lukrd Nk=ksa@”kks/k fo}kuksa }kjk 
+ukWufyfu;j Mk;ukfeDl vkSj pkvksl ds {ks= esa 6 dhuksV okrkZ,a] 20 vkeaf=r O;k[;ku vkSj iksLVj izLrqfr 
+“kkfey FkhA dk;Z”kkyk dks vfr mRlkgh izfrfØ;k izkIr gqbZ vkSj blesa 85 ls vf/kd izfrHkkfx;ksa us Hkkx 
+fy;kA bl dk;Z”kkyk dk mn~ns”; Mk;ukfeDl] d¢vksl vkSj muds iz;ksxkksa ls lacaf/kr {ks=ksa esa varjfo’k;d 
+fopkj foe”kZ ds lao/kZu gsrq vfHk;kaf=dh] ,Iyk;M xf.kr] HkkSfrdh vkSj ck;ks fQfTkDl ds izeq[k fo”ks’kKksa dks 
+bdV~Bk ykuk FkkA bl dk;Z”kkyk dks rsth ls fodflr gksus okys ukWufyfu;j Mk;ukfeDl vkSj d¢vksl ds 
+varj fo’k;d {ks= esa QaMkesaVy vkSj gky ds ?kVuk Øeksa dks izLrqr djus ds fy, rS;kj fd;k x;k FkkA bl 
+dk;Z”kkyk us ykWufyfu;j Mk;ukfeDl ds {ks= esa vuqHkoksa dk vknku&iznku djus gsrq ,d eap iznku fd;kA 
+blds ifj.kke esa ukWu fyfu;j Mk;ukfeDl vkSj pkvksl ds {ks= esa dh tk jgh vR;k/kqfud ,Iyk;M “kks/k esa 
+gky gh ds fopkj izLrqr fd;s x;sA blds vfrfjDr bl dk;Z”kkyk esa ,e,llh ¼HkkSfrdh@,Iyk;M 
+xf.kr@ck;ks fQftDl] ,ebZ@,e-Vsd rFkk ih,p-Mh esa v/;;ujr Nk=ksa vkSj fo}kuksa dks izksRlkfgr fd;k 
+rFkk muds orZeku “kks/k vfHk:fp dks iksLVj izLrqfr;ksa ds lkFk bl oSKkfud {ks= esa izLrqr djus dk volj 
+iznku fd;kA
+Hkk-izkS-la- ds funs”kd izks- “kkaruq pkS/kjh us izfrHkkfx;ksa vkSj vkeaf=r oDrkvksa dk Lokxr fd;k vkSj
+lEesyu ds fy, mn)ksu fn;k tcfd izksQslj o:.k izfrgj] ,uMhlh,lbZ 2018 ds la;kstd us dk;Z”kkyk 
+ds ckjs esa laf{kIr mn)ksu fn;kA ;g dk;Z”kkyk izks- ijekuan ¼Hkk-izkS-la- eqEcbZ½ vkSj izks- ,l ds”ko ewfrZ ¼Hkk-
+izkS-la- enzkl½ }kjk izeq[k O;k[;kuksa ds lkFk vkjaHk gqvkA izks- ,lds- f}osnh ¼Hkk-izkS-la- xqokgkVh½] izksQslj dUuu 
+v;~;j ¼ Hkk-izkS-la- eqEcbZ½] izksQslj uanu ds flUgk ¼Hkk-izkS-la- enzkl½ vkSj izksQslj ,l flUgk ¼vkbZvkbZ,lbZvkj 
+eksgkyh½ us izeq[k okrkZ,a iznku dh tcfd izks- ,lih g’kkZ ¼Hkk-izkS-la- :M+dh½] izks- oh-ds- xksLokeh ¼ch,vkjlh] 
+eqEcbZ½] izks- ,l- pØorhZ ¼Hkk-izkS-la- dkuiqj½] izks- ,- izlkn ¼fnYyh fo”ofo|ky;½] izks- ,y- panzk ¼Hkk-izkS-la- 
+ch,p;w½] izks- ,u- cSjkxh ¼tk/koiqj fo”ofo|ky;½ izks- ,- xxZ ¼ts,uoh;w] tks/kiqj½] izks- ts okti;h ¼ts,uoh;w 
+tks/kiqj½] izks- ,e- Jhekyh ¼lh;w jktLFkku½ izks- Mh Qqyokuh ¼Hkk-izkS-la- tks/kiqj½] izks- ,- feJk ¼Hkk-izkS-la- tks/kiqj½ 
+vkSj izks- jkds”k pkSfclk ¼chvkbZVh,l fiykuh½ us bl dk;Z”kkyk esa vkeaf=r okrkZ,a iznku dhA
+vafre fnol ij lkewfgd fp=
+
+vk;kstd ds lkFk cSBds ds izfrHkkxh
+Hkk-izkS-la- tks/kiqj esa 9&10 ekpZ] 2019 ds nkSjku xf.kr foHkkx }kjk baVsyhtsaV eYVhekWMy baVjQsl laca/kh ,d 
+jk’Vªh; dk;Z”kkyk dk vk;kstu fd;k x;kA bl dk;Z”kkyk esa f”k{kk txr] vuqla/kku ,oa fodkl laxBuksa vkSj 
+m|ksx ds iz[;kr izksQsljksa] oSKkfudksa rFkk “kks/kdrkZvksa }kjk baVsyhtsaV eYVhekWMy baVjQsl ds {ks= esa nks 
+izeq[k okrkZ] pkj fo”ks’kK O;k[;ku] nks baVjsfDVo l= vkSj ,d iSuy fopkj&foe”kZ dk vk;kstu fd;k x;kA 
+bl dk;Z”kkyk dks vfr mRlkgh izfrfØ;k izkIr gqbZ vkSj blesa 100 ls vf/kd izfrHkkfx;ksa us Hkkx fy;kA 
+dk;Z”kkyk esa baVsyhtsaV eYVhekWMy baVjQsl ds {ks= esa fofHkUu leL;kvksa dks lkeus ykus vkSj “kks/k ds voljksa 
+ij tksj fn;k x;kA vf/kd fof”k’V :Ik ls blesa vkfVZfQ”k;y baVsyhtsal] dEI;qVs”kuy fyafXfofLVd] dEI;wVj 
+xzkfQd] dkWXusfVo lkbal] lk¶Vos;j fMtkbu vkSj baQksZes”ku jhVjhcy ij /;ku dsafnzr fd;k x;kA
+xkSjo HkVukxj] tjuy ps;j vkSj izeq[k] xf.kr foHkkx us dk;Z”kkyk esa izfrHkkfx;ksa vkSj fo”ks’kKksa dks
+Lokxr fd;kA dk;Z”kkyk dk mn~?kkVu Hkk-izks-la ds funs”kd ,l- pkS/kjh }kjk fd;k x;k ftUgksaus rRi”pkr 
+mn~?kkVu okrkZ iznku dhA blds Ik”pkr ,l nkl] Hkk-izkS-la- enzkl( ,- “kadju] vkbZch,e fjlpZ] bafM;k( ,l-
+vkj- uk;j] NVIDIA, INDIA( ,-efyd] fotkjk VSDuksykWtht fnYyh( ih-ds- fo”okl] Hkk-izkS-la- [kM+xqij( oh- 
+panzk] vkbZ,lvkbZ dksydkrk( ,e-ef.kouu] Hkk-izkS-la- enzkl( lh- vjksM+k Hkk-izkS-la- }kjk vkeaf=r okrkZ,a iznku 
+dh xbZA dk;Z”kkyk bl {ks= esa pqukSfr;ksa] volj vkSj vkxkeh ekxZ ds laca/k esa iSuy fopkj&foe”kZ ds lkFk 
+lekIr gqbZA iSuy fopkj&foe”kZ ,l- pkS/kjh] funs”kd] Hkk-izkS-la- tks/kiqj }kjk iSuy lnL;ksa ds :Ik esa ih-ds- 
+fo”okl] Hkk-izks-la [kM+xiqj] oh pank] izk/;kid] vkbZ,lvkbZ dksydkrk] lh- vjksM+k lgizk/;kid] Hkk-izks-la fnYyh 
+vkSj ,- “kadju] “kks/k oSKkfud] vkbZch,e “kks/k iz;ksx”kkyk }kjk lapkfyr fd;s x;sA
+
+djus vkSj fo”ks’kKksa dks ewY;oku fopkj iznku djus dk volj iznku fd;kA izeq[k leh{kk ds Ik”pkr iksLVj 
+l= ds nkSjku “kks/k dk;Z ds izn”kZu gsrq dqy 9 iksLVjksa dk p;u fd;k x;kA
+,uMCY;wvkbZ,evkbZ 19 ds izfrHkkfx;ksa dk lkewfgd fp=
+,uMCy;wvkbZ,evkbZ19 ds nkSjku iSuy fopkj&foe”kZ
+,vkbZ uokpkj vkSj vkbZih izo`fRr;ksa laca/kh jk’Vªh; lEEsyu dk vk;kstu fd;k x;kA ;g ns”k esa ,vkbZ uokpkjksa 
+rFkk ckSf)d lEink vf/kdkjksa ls lacaf/kr eqn~nksa esa dk;Z djus dk igyk lEesyu FkkA bl lEesyu esa “kSf{kd] 
+m|ksx] vuqla/kku ,oa fodkl laxBuksa ds iz[;kr ,oa vuqHkoh ,vkbZ vkSj vkbZVh O;kolkf;dksa dks ,vkbZ 
+uokpkjksa rFkk mudh lqj{kk i)fr;ksa nksuksa dks le>us ds fy, bdV~Bk fd;kA fofHkUu laxBuksa ds iz[;kr 
+oDrkvksa dks vkaef=r fd;k x;k tSls fd VkVk dalyVsalh lfoZlst] ekuuh; iz/kkuea=h ds oSKkfud lykgdkj 
+dk;kZy;] lhvkbZih,,e] ckbczsM gsYFk fy-] esgrk ,aM esgyk ,slkfl,V] ,Dl ysxs pSEclZ] QkeqZy vkbZih 
+bR;kfnA
+
+Ø- l-a oDrk vkSj fo’k;
+(1) (1) riu feJk
+(2) MkW- vuqjkx vxzoky
+funs”kd
+lh,lvkbZvkj&baLVhV~;wV vkWQ thuksfeDl ,Ma baVxzsfVM ckW;kys kWth ¼vkbZthvkbZch½] ubZ fnYyh
+lSd.M Mslhuy ysDpj&**eYVh] baVj ,aM Vªkal% czksnlZ Ýke fMQjsVa enlZ**
+25 Qjojh] 2019
+(4) jke—‘.kk jkeLokeh] izk/;kid
+tokgj yky usg: fo”ofo|ky;] ubZ fnYyh
+**Qk;j¶ykbZ ,aM fpejkt% fleVs ªh ,aM flesVªh czsfdax bu Mk;ukfedy flLVELk**
+19 viSzy] 2018
+(5) jek ,l- oekZ
+(6) HkkHkkrk’s k ckfud
+uSuksFkjs sI;qfVd “kk/s k iz;kxs ”kkyk] fe;keh fo”ofo|ky;] ;w,l,
+**dlsa j] vkfFkZjkDs ysjksfll] ekbVªkds kf.Mª;k vkblkys s”ku] chchch ius sVª”s ku ,Ma ns;j *uSuksikfVZdy
+dusD”ku**
+17 vizSy] 2018
+
+(7) lkSfed fl)kark
+(8) Jhuw rksFkkMh
+,ulh,y] iq.ks
+**fdLVªy bathfu;fjax% fMtkbZu ,aM flFkasfll vkWQ eYVhdaiksusVa fdLVªYl ,Ma ns;j ,Iyhds”ku**
+24 vDVwcj] 2018
+(9) J;s e PkVthZ
+(10) cukuh pØorhZ] izk/;kid
+Hkkjrh; foKku laLFkku] cXa ykSj
+**Mh,u,&vkIVkej diYM Mh,u, vkfxZ;keh ,l ckW;k&s lsla lZ ,aM fMfyojh OghdYl**
+18 tuojh] 2019
+(12) vfouk”k “kekZ] lgk;d izk/;kid
+vkbZvkbZvkbZVh gnS jkckn
+(13) fQYyih nqxjs fny] izk/;kid
+(16) ,p-,e xqIrk] iwoZ izk/;kid
+**Vsu IokbVa ~l ,dsMseht ,aM uksV lks jsMa e FkksV~l**
+11 tqykbZ] 2019
+
+(18) banj ds- jk.kk
+bZesfjVl QSyk]s xf.kr foHkkx] Hkkjrh; izkS|ksfxdh laLFkku] eqEcbZ
+**okbZ fyfu;j vYtscjk** ,aM **fc;ksMa bufQfuVh**
+12]14 uoEcj] 2018
+(20) ,l- HkV~Vkpk;Z
+phQ fMtkbuZ j ,V jksVjh foxa fjlpZ ,Ma fMtkbuZ lasVj ¼vkjMCy;wvkjMhlh½
+fgUnqLrku ,;jksukfsVDl fyfeVsM] caXykSj
+**MsoyksieaVs pSysat vkWQ ekMZu gsfydkWIVj Vªkalfe”ku flLVELk**
+28 flrEcj] 2018
+
+dsanzh; fo|ky;] Hkk-izkS-la- tks/kiqj ds Nk= ekbØksLdksi esa
+uewus ns[krs gq,
+tSo foKku vkSj tSo vfHk;kaf=dh foHkkx ds ih,p-Mh rFkk
+,e-Vsd Nk= izfrj{kk iz.kkyh ij ,d fLdV ds nkSjku
+iqjLdkj forj.k
+Hkk-izkS-la- tks/kiqj esa 21 twu] 2018 dks pkSFks varjkZ’Vªh; ;ksx fnol dk vk;kstu fd;k x;kA Nk=ksa]
+ladk;] deZpkjh lnL;ksa rFkk muds ifjokj ds lnL;ksa lfgr Hkk-izkS-la- tks/kiqj leqnk; lnL;ksa us bl 
+vk;kstu esa mRlkgiwoZd Hkkx fy;kA izks- ch-ih- d”;Ik] izHkkjh izksQslj] /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx] 
+Hkk-izkS-la- tks/kiqj us vius vkjafHkd Hkk’k.k esa izfrHkkfx;ksa dk Lokxr fd;k rFkk “kkjhfjd vkSj ekufld LokLF; 
+ds fy, ;ksx ds ykHk crk;sA izfrHkkfx;ksa dks fofHkUu vkluksa vkSj izk.kk;ke ds xqj fl[kk;s x;sA Jh lqHkk’k 
+ik.Ms] lykgdkj ¼iz”kklu½] Hkk-izkS-la- tks/kiqj }kjk /kU;okn Kkfir fd;k x;kA
+bl fnol dk vk;kstu thihvkj, vkoklh; ifjlj esa jgus okys deZpkjh lnL;ksa vkSj Nk=ksa }kjk
+
+2018 dks ns”k dk 72oka Lora=rk fnol euk;k x;kA 
+funs”kd us jk’Vªh; /otkjksg.k fd;k vkSj mifLFkr lHkh 
+O;fDr;ksa }kjk ekrzHkwfe ds izfr yxko vkSj lei.kZ ds 
+lkFk jk’Vªh; xku xk;k x;kA Hkk-izkS-la- tks/kiqj ds 
+deZpkfj;ksa ds cPpksa ds fy, izfrLi/kkZ,a vk;ksftr dh 
+xbZaA Nk=ksa us laxhr vkSj uqDdM+ ukVd dh izLrqfr 
+nhA
+Hkk-izkS-la- tks/kiqj ds Nk=ksa }kjk laxhr izLrqfr
+
+uqDdM+ ukVd eaMyh] Nk= fte[kkuk] Hkk-izkS-la- tks/kiqj }kjk ;qokvksa esa volkn ds ckjs esa uqDdM+ ukVd
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj esas 1&15 flrEcj] 2018 dks LoPNrk i[kokM+s dk vk;kstu fd;k
+x;kA bl volj ij cPpksa esa LoPNrk vkSj lQkbZ laca/kh laLFkku ds O;k[;ku iksLVj cukus vkSj ukjs fy[kus 
+tSls dk;Zdykiksa dk vk;kstu fd;k x;kA laLFkku dh LoPNrk lfefr us ifjlj ds Hkouksa esa lQkbZ ds Lrj 
+dk ewY;kadu fd;k vkSj laLFkku esa ,d lQkbZ vfHk;ku pyk;k x;kA
+laLFkku dh LoPNrk lfefr ds lnL; ifjlj ds Hkouksa esa
+MkW- ljkst Mckl] iz/kkukpk;Z] dsoh Hkk-izkS-la- cPpksa esa LOPNrk
+vkSj lQkbZ dSls lekfgr djsa] laca/kh okrkZ iznku djrs gq,
+Hkk-izkS-la- tks/kiqj esa 11 vDVwcj] 2018 dks varjkZ’Vªh; ckfydk fnol dk vk;kstu fd;k x;k ftlds
+nkSjku laLFkku dh efgyk izdks’B us viuh “kjn xfrfof/k;ksa dk vk;kstu fd;kA eq[; vfrfFk izksQslj iwue 
+lDlsuk] dqyifr] jk’Vªh; fof/k fo”ofo|ky;] tks/kiqj us ^^ySafxd lekurk dks okLrfodrk cukus dh vksj^^ 
+laca/kh Hkk’k.k fn;k vkSj dkuwuh tkx:drk ds laca/k esa ,d izfr;ksfxrk dk vk;kstu fd;kA
+iqjLdkj forj.k 
+izksQslj iwue lDlsuk Jksrkvksa dks lacksf/kr djrs gq,
+
+Nk=ks a }kjk fcgq uR` ; Jherh vUos’kk egar }kjk lRrfj;k u`R;
+fuekZ.k “kh’kZd ds lkFk dsanzh; lrdZrk vk;ksx ¼lhohlh½ ds fn”kk&funsZ”kksa ds vuqlkj lrdZrk tkx:drk 
+lIrkg dk vk;kstu fd;k x;kA izks- ,l-vkj- oMsjk] izeq[k ,oa izk/;kid ,oa HkkSfrdh foHkkx }kjk lR;fu’Bk 
+dh “kiFk fnykbZ xbZ ftlesa ladk; lnL;ksa vkSj deZpkjh lnL;ksa us Hkkx fy;kA
+laLFkku ds lHkh izeq[k LFkkuksa ij lrdZrk tkx:drk] Hkz’Vkpkj jks/kh laca/kh lans”kksa dk izlkj djrs
+gq, cSuj vkSj fMlIys cksMZ iznf”kZr fd;s x;sA lkFk gh MkW- xkSjo gfjr] eq[; lrdZrk vf/kdkjh }kjk laLFkku 
+ds lHkh lnL;ksa ds fy, 01&02 uoEcj] 2018 ds nkSjku mDr fo’k; ij izLrko ys[ku vkSj Hk’k.k izfr;ksfxrkvksa 
+dk vk;kstu fd;k x;kA
+izks- ,l-vkj oMsjk lR;fu’Bk dh “kiFk fnykrs gq, vkSj izfr;ksfxrkvksa ds izfrHkkfx;ksa ds fy, iqjLdkj forj.k
+
+Hkk-izkS-la- tks/kiqj esa ljnkj oYyHk HkkbZ iVsy] ÞHkkjrh; x.kra= ds ,d LFkkid tudß dh tUet;arh
+eukus ds fy, ekuo lalk/ku fodkl ea=ky; ¼,e,pvkjMh½] Hkkjr ljdkj ds ekxZn”kZu esa 31 vDVwcj] 2018 
+dks Hkk-izkS-la- tks/kiqj esa jk’Vªh; ,drk fnol dk vk;kstu fd;k x;kA izks- ,l-vkj- oMsjk] Hkk-izkS-la- tks/kiqj 
+us laLFkku ds leqnk; vFkkZr~ ladk; lnL;ksa] deZpkjh lnL;ksa vkSj Nk=ksa dks jk’Vªh; ,drk dh “kiFk ysus esa 
+usr`Ro fd;k] ftls laLFkku ds ysDpj gkWy esa vk;ksftr fd;k x;kA lkFk gh bl volj ij Jh lqHkk’k ikaMs] 
+lykgdkj ¼iz”kklu½] Hkk-izkS-la- tks/kiqj ds lkFk izks- oMsjk }kjk 5 fdyksehVj ju QkWj ;wfuVh dk;ZØe dk 
+vkxkt fd;k x;kA dbZ Nk=ksa] ladk; lnL;ksa vkSj deZpkjh lnL;ksa us bl vk;sktu esa Hkkx fy;kA izks- oMsjk 
+us izfrHkkfx;ksa dks izksRlkfgr fd;k rFkk ju QkWj ;wfuVh ds fotsrkvksa esa iqjLdkj forfjr fd;sA
+izks- ,l-vkj- oMsjk] izeq[k vkSj izk/;kid HkkSfrdh foHkkx rFkk Jh lqHkk”k ikaMs] lykgdkj] ¼iz”kklu½ ju QkWj ;wfuVh dk
+/otkjksg.k djrs gq,
+jk’Vªh; f”k{kk fnol tksfd ekSykuk vcqy dyke vktkn dk tUe fnol Hkh gS] dk 17 uoEcj] 2018
+dks laLFkku ds cky iqLrkdky; esa vk;kstu fd;k x;kA Hkk-izkS-la- tks/kiqj ds deZpkfj;ksa ds cPpksa ds fy, 
+oDr`Ro dyk vkSj MªkWbZax izfr;ksfxrkvksa dk vk;kstu fd;k x;kA cPpksa us bu izfr;ksfxrkvksa esa vfr mRlkg 
+ls Hkkx fy;kA izks- ,l-vkj- oMsjk] izeq[k] HkkSfrdh foHkkx }kjk fotsrkvksa vkSj f}rh; LFkku izkIrdrkZvksa dks 
+iqjLdkj iznku fd;s x;sA
+izfr;ksfxrkvksa esa vfr mRlkg ds lkFk Hkkx ysrs gq, cPps
+
+Hkk-izkS-la- tks/kiqj esa 20 vizSy] 2018 dks o’kZ Hkj dh “kSf{kd vkSj xSj&”kSf{kd xfrfof/k;ksa ds lEesyu
+dk mYys[k djrs gq, 2018 laLFkku fnol dk vk;kstu fd;k x;kA Jh lqHkk’k ikaMs] lykgdkj ¼iz”kklu½ us 
+yksxksa dk Lokxr fd;kA 2017&18 ds nkSjku laLFkku dh xfrfof/k;ksa ds laca/k esa jkds”k ds “kekZ ¼ Lkgvf/k’Bkrk 
+¼vuqla/kku ,oa fodkl½½] lqjhy oh- 'kkg] ¼Lkgvf/k’Bkrk¼”kSf{kd½½] lefUork iky ¼Lkgvf/k’Bkrk¼Nk=½½ vkSj 
+lh-oh-vkj- ewfrZ ¼funs”kd½ }kjk fjiksVZ izLrqr dh xbZA Nk=ksa dks 2017&18 esa “kSf{kd vkSj xSj&”kSf{kd 
+xfrfof/k;ksa esa mudh miyfC/k;ksa ds fy, iz”kfLr i= forfjr fd;s x;sA rRi”pkr e/kq nhf{kr ¼izHkkjh izksQslj] 
+tSo foKku ,oa tSo vfHk;kaf=dh foHkkx½] ch-ih- d”;Ik ¼izHkkjh izksQslj /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx½ 
+vkSj Jh ,e,y ckiuk ¼lykgdkj ¼m|ksx&”kSf{kd baVjQsl½½ us yksxksa dks laLFkku dh mUufr ds laca/k esa 
+lacksf/kr fd;kA rRi”pkr~ funs”kd us vafre Hkk’k.k fn;kA
+MkW- jkds”k ds “kekZ] Lkgvf/k’Bkrk ¼ vuqla/kku ,oa fodkl½ 
+2017&18 ds nkSjku vuqla/kku ,oa fodkl xfrfof/k;ksa dh
+fjiksVZ izLrqr djrs gq,
+MkW- lqjhy oh- 'kkg] Lkgvf/k’Bkrk ¼”kSf{kd½ “kSf{kd miyfC/k;ksa
+ds fy, Nk=ksa dks izek.k i= iznku djrs gq,
+lekjksg esa Hkkx ysrs gq, vkmVxksbax Nk= 
+MkW- lefUork iky] Lkgvf/k’Bkrk ¼Nk=½ Nk=ksa dks xSj&”kSf{kd
+miyfC/k;ksa ds fy, izek.k i= iznku djrs gq,
+
+Ø-la- iqjLdkj fuEu dks iznRr
+2. 2018 v/;{k] “kklh eMa y] iqjLdkj fot; dqekj iYyhoy
+ch-Vsd ¼lh,lbZ½ Nk=
+4. 2018 funs”kd iqjLdkj vfHk’kds “kekZ larks’k ,e-
+2018 ds ch-Vsd dk;ZØek sa ds lHkh Nk=ks a esa loksZRre “kSf{kd uokpkj vkUu/kq lqjs”k
+dk;Z ds fy, Nk=k sa ds lewg ds fy, ckyladqyk lkbZa pSrU;
+6. 2017 v/;{k] “kklh eMa y] iqjLdkj uhfru] oh-
+ch-Vsd ¼lh,lbZ½ Nk=
+8. 2017 v/;{k] “kklh eMa y] iqjLdkj vVy frokjh
+loksZRre “kSf{kd izn”kuZ ds lkFk Lukrd gksus okys Nk= ds fy, ,e-Vsd ¼bZbZ½ Nk=
+Hkk-izkS-la- tks/kiqj ds pkSFks nh{kkar lekjksg dk LFkk;h ifjlj esa 25 vxLr] 2018 dks vk;kstu fd;k
+x;kA MkW- Jhdqekj cuthZ] dqykf/kifr] gkseh HkkHkk jk’Vªh; laLFkku] eqEcbZ bl volj ds eq[; vfrfFk FksA MkW- 
+vkj- fpnEcje] v/;{k] jk’Vªh; eaMy Hkk-izkS-la- tks/kiqj ¼rFkk Hkkjr ljdkj ds iwoZ iz/kku oSKkfud lykgdkj½ 
+us lekjksg dh v/;{krk dhA bl pkSFks nh{kkar lekjksg esa laLFkku us 388 fMfxz;ka&289 ch-Vsd] 37 ,e,l-lh] 
+43 ,e-Vsd vkSj 19 ih,p-Mh fMfxz;ka iznku dh ftuesa 2017 vkSj 2018 esa Lukrd mRrh.kZ gksus okys Nk=&Nk=k;sa 
+“kfkey FksA blds lkFk bl laLFkku ls Lukrd gksus okys Nk=ksa dh la[;k 1]108 gks xbZ gSA bu 388 Nk=ksa esa 
+ls 267 us vius vfHkHkkodksa vkSj ifjokj ds lnL;ksa dh mifLFkfr esa O;fDrxr :Ik ls viuh fMfxz;ka izkIr 
+dhA lkFk gh “kSf{kd :Ik ls mR—‘V Nk=ksa us ind vkSj izek.ki= izkIr fd;sA nh{kkar lekjksg esa fuEufyf[kr 
+ind fotsrk jgs%
+1. 
+2018 jk’Vªifr Lo.kZ ind 
+lHkh 2018 ch-Vsd dk;ZØeksa ds lHkh Nk=ksa esa loksZRre “kS{kf.kd izn”kZu 
+ds lkFk Lukrd gksus okys Nk= ds fy,
+fot; dqekj iYyhoy 
+ch-Vsd ¼lh,lbZ½ Nk=
+3. 
+2018 v/;{k] “kklh eaMy] iqjLdkj 
+2018 ch-Vsd ¼;kaf=d vfHk;kaf=dh½ dk;ZØe ds lHkh Nk=ksa esa loksZRre 
+“kSf{kd izn”kZu ds lkFk Lukrd gksus okys Nk= ds fy,
+dkfrZd osadV 
+jkepanz:uh 
+ch-Vsd ¼,ebZ ½ Nk=
+5. 
+2017 jk’Vªifr Lo.kZ ind 
+lHkh 2017 ch-Vsd dk;ZØeksa ds lHkh Nk=ksa esa loksZRre “kS{kf.kd izn”kZu 
+ds lkFk Lukrd gksus okys Nk= ds fy,
+7. 
+2017 v/;{k] “kklh eaMy] iqjLdkj 
+2017 ch-Vsd ¼;kaf=d vfHk;kaf=dh½ dk;ZØe ds lHkh Nk=ksa esa loksZRre 
+“kSf{kd izn”kZu ds lkFk Lukrd gksus okys Nk= ds fy,
+gkfnZd tSu 
+uhfru] oh- 
+ch-Vsd ¼,ebZ½ Nk=
+
+yfuZax gc] Hkk-izkS-la- tks/kiqj us leqnk; ds cPpksa ds fy, vius rRok/kku esa ,d cky iqLrkdky; dk
+“kqHkkjaHk fd;k gSA mn~?kkVu lekjksg esa vfrfFk;ksa vkSj Hkk-izkS-la- tks/kiqj ds deZpkfj;ksa ds cPps vius vfHkHkkodksa 
+ds lkFk mifLFkr jgsA
+MkW- ¼Jherh½ Hkkjrh Lokeh cky iqLrkdky; dk mn~?kkVu
+djrs gq,
+vkt ds mRlkgh ikBd] Hkfo’; ds tkudkj ukxfjd----
+cky iqLrdky; ds mn~?kkVu lekjksg ds nkSjku ftKklq cPps vkSj vfHkHkkod
+
+gekjk ifjlj
+Hkk-izkS-la- tks/kiqj ebZ&twu] 2017 ds nkSjku jk’Vªh; jktekxZ 65] ukxkSj jksM] djoM ¼xkao½] tks/kiqj
+¼”kgj½ esa fLFkr vius fo”kky LFkk;h ifjlj esa LFkkukarfjr gqvkA lewph “kSf{kd xfrfof/k;ksa dks vius LFkk;h 
+ifjlj esa LFkkukarfjr djds laLFkku us ,d izeq[k iM+ko ikj fd;k gSA bl u;s ifjlj dh vk;kstuk lw{e :Ik 
+ls dh xbZ gS vkSj bldh “kSf{kd&lk/kkj.k ijarq xgu ds izrhd ds :Ik esa ifjdYiuk dh xbZ gSA vf/kd 
+egRoiw.kZ :Ik ls ;g fuoy “kwU; ÅtkZ] ty vkSj vif”k’V lqfuf”pr djus dh j.kuhfr;ksa ds lkFk fLFkjrk dk 
+,d varjkZ’Vªh; mnkgj.k gksxkA bl LFkk;h ifjlj dh vU; fof”k’Vrk,a fuEukuqlkj gSa%& 
+1- okfdax dSEil tksfd iSny ;k=h vfHkUueq[kh gS vkSj lkbZfdy iz/kku gS( 
+2- f”k{k.k ok;jySl vkbZlhVh lqfo/kkvksa ¼yksp”khy] “ks;MZ tu LFkku ds lkFk eYVhehfM;k buscYM yfuZax Lisl
+lfgr½ dgha Hkh] fdlh Hkh le; vf/kxe lqfo/kk,a(
+3- thvkjvkbZ,p, 4@5 LVkj vuqdwyu Hkouksa ds lkFk FkeZy :Ik ls vkjkenk;d LekVZ Hkou vkSj
+thvkjvkbZ,p, ,yMh cSapekdZ ifjlj ¼Msal fMtVZ lsVyesaV ekQksZykWth lfgr] de mapkbZ ds Hkou 
+¼vf/kdre rhu eaftyk½ ftudk fuekZ.k ykW ,EcksfMM ,uthZ eVsfj;y vkSj o`f)r LFkkuh; ,oa ikjaifjr 
+i)fr ls fd;k x;k gS½(
+vknzZrk ls cuus ls jksdus ds fy, /kwy Hkjh vka/kh ls cpko(
+5- Ok’kkZ ty laxzg.k vkSj ty mi;ksx dVkSrh rFkk lhost jhlkbZfDyax ,oa le; ds lkFk LFky dks gfjr
+cukuk( rFkk
+6- vif”k’V dks i`Fkd djuk rFkk dLVekbTM jhlkbZfDyax
+dbZ ladk; lnL; ifjlj esa jg jgs gSaA vkjaHk esa ikdZ ,osU;q vkoklh; dkWyksuh esa 60 ¶YkSV Fks( ifjlj
+fodkl ds nwljs pj.k esa 72 vkSj vf/kd ¶ySVkas dk fuekZ.k fd;k x;k gS lkFk gh 3 u;s Nk=kokl Hkouksa dk 
+fuekZ.k fd;k x;k gSA bu Nk=koklksa dh eq[; fof”k’Vrk lHkh Hkouksa esa flaxy ,lh :e vkokl gSA ,d lefiZr 
+Hkkstud{k Hkou Nk=ksa vksj vU; fuokfl;ksa dh vko”;drkvksa dks iwjk djrk gSa blesa ,d Hkkstu”kkyk rFkk ,d 
+dsaVhu gS tks LoPN rFkk ikSf’Vd Hkkstu miyC/k djkrh gSA blesa jgus okys fuokfl;ksa dks mudh nSfud 
+vko”;drkvksa dks iwjk djus ds fy, vfuok;Z lsok,a vkSj lqfo/kkvksa dh LFkkiuk dh xbZ gSA vkoklh; {ks= esa 
+eSLklZ xks;y gkfLiVy ,oa fjlpZ lsaVj] tks/kiqj ds lg;ksx ls ,d izkFkfed LokLF; dsanz py jgk gS vkSj ;g 
+vkbZ,lvks% 9001 ls izekf.kr gSA ifjlj ds nf{k.kh vksj leqnk; dsanz esa ewy lsok,a ¼tSls fd fdjkuk] MkbZfuax 
+,aM QwM dksVZ] cSad] LVs”kujh] yk¡Mªh] C;wVh ikyZj vkSj lSywu lsok,a½ py jgh gSaA ifjlj esa d{kk 1 ls 8 rd 
+lapkyu djus okyk ,d dsanzh; fo|ky; lapkyujr gSA ;g Hkk-izkS-la- tks/kiqj ds igys Hkou esa fLFkr gSA 
+dSEil ls tks/kiqj “kgj vkus&tkus ds fy, lefiZr cl lsok ekStwn gSA deZpkjh lnL;ksa dks Qjojh] 2019 ds 
+nkSjku ifjlj esa LVkQ DokZVjksa esa iqu% LFkkfir fd;k x;k gSA
+vkxkeh i`’Bksa ds QksVksxzkQ Hkk-izkS-la- tks/kiqj ds LFkk;h ifjlj dh >yfd;ka iznku djrs gSaA
+
+Cyw&1 Nk=kokl] Hkk-izkS-la- tks/kiqj 
+Hkkstu d{k
+iqLrdky; Hkou% n yfuZax gc 
+ikdZ ,osU;q dk ,d n`”;% ladk; vkSj vf/kdkjh vkokl
+vkbZ,lvks izekf.kr izkFkfed LokLF; dsanz 
+lkeqnkf;d dsanz] tSlyesj Dyc esa “kkWfiax lsaVj
+
+dSEil esa lqfo/kk,a
+Hkk-izkS-la- tks/kiqj ds LFkk;h ifjlj esa miyC/k dqN lqfo/kk,a fuEukuqlkj gSa%
+¼d½ ,Vh,e vkSj cSad% ,lchvkbZ ¼Hkkjrh; LVsV cSad½ dh Hkk-izkS-la- tks/kiqj “kk[kk vkSj bldk ,Vh,e leqnk; 
+dsanz Hkou esa fLFkr gS tks Nk=ksa vkSj fuokfl;ksa dks ljyrk ls ysu&nsu dh lqfo/kk iznku djrk gSA 
+¼[k½ MkbZfuax gkWy% MkbZfuax gkWy Hkou esa ,d Hkkstu”kkyk vkSj jsLVksjsaV gS tks Nk=ksa vkSj deZpkfj;ksa dh 
+vko”;drkvksa dks iwjk djrk gSA os LoLFk Hkkstu rFkk rktk twl vkSj fofHkUu tyiku iznku djrs gSaA ;g 
+Hkkstu”kkyk vPNh xq.koRrk okyk Hkkstu iznku djrh gS] LoPNrk vkSj iks’k.k ewY;ksa ds fy, okMZuksa }kjk bldh 
+fu;fer fuxjkuh dh tkrh gS vkSj ;g oguh; ykxr ij Hkkstu iznku djrh gSA 
+¼x½ ftEukft;e% lHkh Nk=koklksa esa Nk=ksa ds fy, lqlfTtr O;k;ke”kkyk gSA 
+¼?k½ euksjatu d{k% izR;sd Nk=kokl esa baMksj [ksy ¼tSls fd Vsfcy Vsful vkSj dSje½ ds lkFk euksjatu lqfo/kk,a 
+¼tSls fd Vhoh d{k tgka Nk= eSp dk vkuUn ys ldrs gSa vkSj fQYe ns[k ldrs gSa½ ekStwn gSaA 
+¼M+½ yksMªh lfoZl% Nk=ksa vkSj fuokfl;ksa dks ifjlj esa ,d lefiZr yksaMªh lsok dh lqfo/kk miyC/k gSA 
+¼p½ “kkWfiax lsaVj% Nk=ksa vkSj fuokfl;ksa dh fofHkUu izkFkfed vko”;drkvksa tSls fd fdjkuk] LVs”kujh] xqzfeax 
+ikyZj] feYd ikyZj dks iwjk djrs gq, leqnk; dsanz Hkou esa nqdkusa miyCËk gSaA 
+¼N½ ifjogu lsok,a% laLFkku ds Nk=ksa ds fy, vuU; :Ik ls laLFkku esa fu;fer varjky ij LFkk;h ifjlj vkSj 
+tks/kiqj “kgj ds chp cl lsok lqPkk: :i ls lapkfyr gSA 
+¼t½ fpfdRlk lsok,a% laLFkku ds vkoklh; {ks= esa eSllZ xks;y gkfLiVy ,aM fjlpZ lsaVj izk-fy-] tks/kiqj }kjk 
+lapkfyr izkFkfed lsok dsanz Nk=ksa vkSj ifjlj ds fuokfl;ksa dks lkekU; LokLF; lsok,a iznku djrk gSA bl 
+iw.kZr% lapkyujr] 24 ?k.Vs] vkbZ,lvks izekf.kr] ifjlj esa izkFkfed LokLF; dsanz ds vfrfjDr Hkk-izkS-la- tks/kiqj 
+“kgj esa u;s vR;k/kqfud vf[ky Hkkjrh; vk;qZfoKku laLFkku] ,l,u esfMdy dkWyst vkSj dqN fof”k’V vLirkyksa 
+ds lkFk tqM+s gksus esa lkSHkkX;”kkyh gSA laLFkku dk vius deZpkjh vkSj Nk=ksa ds ojh;rk ls bZykt ds fy, dqN 
+izcq) vLirkyksa ds lkFk djkj gS buesa “kfey gSa% xks;y gkWfLiVy ,aM fjlpZ lsaVj] esMh Iyl gkWfLiVy vkSj 
+oklu vkbZ ds;j gkWfLiVyA lkFk gh laLFkku esa esfMdy dkWyst vkSj ,El ds ofj’B MkWDVjks dks “kkfey djrs 
+gq, ,d fpfdRlk cksMZ dk xBu fd;k gS( uktqd fpfdRlk ekeyksa esa LokLF; dsanz dh fpfdRlk lsokvksa esa o`f) 
+djus gsrq lykg yh tkrh gSA Hkk-izkS-la- tks/kiqj us t;iqj esa nks vLirkyksa dks iSuyc) fd;k gSA ;s nks vLirky 
+jk’Vªh; vLirky ,oa LokLF; ns[kHkky izR;k;u cksMZ ls izR;kf;r gS vkSj jksfx;ksa dks mipkj dh vko”;drk ds 
+vuqlkj bu vLirkyksa esa Hkstk tk ldrk gSA
+viuh dkWihcqd&LVkbZy ekLVj ;kstuk ds fy,] Hkk-izkS-la- tks/kiqj ds LFkk;h ifjlj dh ekLVj ;kstuk
+dks 11 fnlEcj] 2018 dks thvkjvkbZ,p, ,yMh oh1 Js.kh ds varxZr xzhu jsfVax QkWj baVhxzsVsM gSfcVsV 
+,lslesaV ¼thvkjvkbZ,p,½ dkmafly }kjk 5 LVkj jsfVax iznku dh xbZ gSA Hkk-izkS-la- tks/kiqj ds ifjlj dk 
+fMtkbZu lHkh tksu ds lHkh Hkkxksa dh Lora=] baVhxzy usVodZ ds :Ik esa ifjdYiuk djrk gS tSls fd tho 
+tarqvksa ds p;kip;] lkekftd] vkfFkZd vkSj Ik;kZoj.kh; fLFkjrk rkfd ;g ,d yxHkx “kwU; mRltZu ifjlj 
+cu ldsA ,d ,slk ifjlj tgka Hkou QSys gksrs gSa c<+rh volajpuk vkSj ty mi;ksx rFkk m’e }hi dk l`tu 
+gksrk gS] muls ijs ;g ifjlj jsfxLRkuh cfLr;ksa ds “kgjh dYLVj dh J`a[kyk dk mi;ksx djrk gSA ;g ifjlj 
+dbZ lsokvksa lqjax] [kkbZ vkSj lsok ;ksX; “kk¶V dk iz;ksx djrs gq, ,d ykspu”khy Iyx vkSj Iys iz.kkyh cuus 
+gsrq rS;kj fd;k x;k gS tks ljy j[kj[kko vkSj fdlh nhokj] LySc vFkok lM+d dks rksM+s fcuk lHkh rkjksa vkSj 
+ikbZi lsokvksa ds mUu;u dh vuqefr iznku djrk gSA
+
+“kSf{kd vkSj “kks/k lsok,a
+Hkk-izkS-la- tks/kiqj dk LFkk;h ifjlj tks/kiqj dsanz ls ukxkSj] mRrj&mRrj&iwoZ dh vksj jk’Vªh; jktekxZ
+65 ij tks/kiqj “kgj ds dsanz ls yxÒx 24 fdyksehVj nwj fLFkr 852 ,dM+ Hkwfe ij QSyk gSA blesa Hkwfe ds 
+rhu VqdM+s gSA orZeku esa ikWdsV , vkSj ch esa fuekZ.k ekStwn gSA fuekZ.k dk igyk pj.k fuEufyf[kr Hkouksa ds 
+lkFk iw.kZ gSa ftudk “kSf{kd] “kks/k vkSj iz”kklfud xfrfof/k;ksa ds fy, mi;ksx fd;k tk jgk gS%
+1- eq[; Hkou ftlesa laLFkku ds lHkh iz”kklfud dk;kZy; ekSTkwn gSa( 
+2- yfuZax gc ftlesa laLFkku dk iqLrdky; vkSj dEI;wVj d{k ekStwn gSa( 
+3- 60 lhV dh {kerk okys 9 f”k{k.k d{k vkSj ,d 325 lhVksa dh {kerk okyk vkSj ,d 650 lhVksa dh
+{kerk okys f”k{k.k d{k ds lkFk ysDpj gkWy HkouA ;s lHkh f”k{k.k d{k baVjusV vkSj vkWfM;ks&fotqvy 
+lqfo/kkvksa tSlh vk/kqfud vf/kxe lqfo/kkvksa ds lkFk lqlfTtr ,;jdaMh”kUM gS(
+4- ewy iz;ksx”kkyk,a ,d Hkou esa LFkkfir dh xbZ gSa( 
+5- dEI;wVj foKku ,oa vfHk;kaf=dh foHkkx ¼lh,lbZ½ Hkou esa lh,lbZ] xf.kr] vkSj ekfufodh vkSj lkekftd
+foKku foHkkx ekStwn gSaA lkFk gh bl Hkou esa dEI;wVj foKku vkSj vfHk;kaf=dh dh iz;ksx”kkyk,a Hkh 
+ekStwn gSa(
+6- jlk;u rFkk tSo foKku ,oa tSo vfHk;kaf=dh foHkkx jlk;u foHkkx Hkou esa fLFkr gSa( 
+7- fo|qrh; vfHk;kaf=dh vkSj HkkSfrdh foHkkx fo|qrh; vfHk;kaf=dh foHkkx ds Hkou esa fLFkr gSa( 
+8- ;kaf=dh vHkh;kaf=dh foHkkx esa uo LFkkfir /kkrqdeZ ,oa inkFkZ vfHk;kaf=dh foHkkx Hkh ekSTkwn gSaA
+bu Hkouksa ds vfrfjDr ikWdsV ch esa Hkk-izkS-la- tks/kiqj ds igys Hkou esa volajpuk dk;kZy; Hkh ekStwn gSA 
+ 
+vkxkeh i`’B¨a esa laLFkku dh iz;ksx”kkykvksa] “kks/k lqfo/kkvksa] iqLrdky; rFkk dEI;wfVax lqfo/kkvksa dk fooj.k 
+fn;k x;k gSA
+
+laLFkku us vusd iz;ksx”kkyk,a vkSj vuqla/kku dsanz LFkkfir fd, gSa tks Nk=ksa dks lhfer “kSf{kd ljksdkjksa
+ls Åij mBk dj oSKkfud ifjn`”; dh dkSrwgyiw.kZ nqfu;k esa ys tk,axsA ;s iz;ksx”kkyk,a vkSj vuqla/kku dsanz 
+ladk; vkSj Nk=ksa dks ekStwnk izkS|ksfxfd;ksa dks mudh n{krk] l`tu”khyrk rFkk dYiuk ls laiwfjr djds csgrj 
+Hkfo’; ds fy, iz;ksx esa ykrs gSaAlkFk gh laLFkku esa ,d gh Nr ds uhps mlds laosnu”khy midj.kksa dk ,d 
+dsanzh—r izca/ku ekstwn gS ftls lsaVj QkWj ,MokaLM lkbZfVfQd baLVªwesaV ¼lh,,lbZ½ ds :Ik esa tkuk tkrk gS( 
+bldk iz;ksx vkarfjd vkSj ckg~; miHkksDrkvksa nksuksa }kjk fd;k tkrk gSA
+Hkk-izkS-la- tks/kiqj esa LFkkfir iz;ksx”kkykvsa dh lwph uhps nh xbZ gSa vkSj budk fooj.k vkxs fn;k
+1- 
+izksUur tSofoKku ,oa U;wjksfoKku iz;ksx”kkyk
+2- 
+dsfedy thofoKku iz;ksx”kkyk
+4- 
+izksVhu vfHk;kaf=dh iz;ksx”kkyk
+7- 
+usVofdZax izkS|ksfxdh; iz;ksx”kkyk
+9- 
+bysDVªkWfud lfdZV iz;ksx”kkyk
+11- 
+ikWoj bysDVªkWfuDl iz;ksx”kkyk
+12- 
+jkscksfVDl iz;ksx”kkyk
+13- 
+izksUur esuqQSDpfjax iz;ksx”kkyk
+16- 
+bysDVªks esdsfudy ,uthZ dUotZu iz;ksx”kkyk
+17- 
+¶ywbM esdsfuTe ,oa ghV VªkalQj iz;ksx”kkyk
+18- 
+gkbZ Vseizspj lksyj FkeZy iz;ksx”kkyk
+19- 
+eVsfj;Yl VsfLVax ,oa lksfyM esdsfuDl iz;ksx”kkyk
+21- 
+lksyj jsfM;s”ku iz;ksx”kkyk
+22- 
+ckW;ksekWysD;wYkj baQksZe”ku izkslsflax iz;ksx”kkyk
+23- 
+esXusfVd izkiVhZ estjesaV flLVe ¼,eih,e,l@,lD;w;wvkbZMh½ iz;ksx”kkyk
+25- 
+HkkSfrdh iz;ksx”kkyk
+
+izksUur ck;ksfoKku ,oa U;wjksfoKku iz;ksx”kkyk U;wjksfoKku esa voj Lukrd rFkk LukrdksRrj f”k{k.k
+,oa “kks/k ds fy, lsywyj vkSj ekWyhD;wyj fujh{k.k midj.k iznku djrh gSA Toyu rFkk ejEer ds fy, 
+ekWyhD;wyj ,oa lsywyj laca/kksa esa ekWyhD;wyj ra= dks gVkus gsrq thofoKku] tho jlk;u rFkk ekbØksLdksih 
+n`f’Vdks.k ds lkFk izdks’B ds laL—fr v/;;u dk iz;ksx fd;k tkrk gSA Toyu vfHkKkrt] efLr’d pksV] 
+dSalj] cgq mRrd&n`<+u] LVªksd] vLFkek] ikfdZUlu jksx vkSj vYtsej jksx lfgr dbZ jksxksa dk izeq[k ?kVd 
+gSA Toyu dks busV bE;wu lsy ds lap; vkSj izpqjksn~Hkou }kjk oxhZ—r fd;k tkrk gSA blds Ik”pkr 
+ekWyhD;wyj ek/;e dk foLrkj ftls lkbVksfdUl vkSj dheksfdUl dgk tkrk gS] ftlls bE;wu lsy dk 
+LFkkukarj.k ,oa izpqjksn~Hko gks tkrk gS rFkk lsy e`r Hkh gks ldrh gS] ds lkFk e`r lsy vkSj lsywyj dpjk 
+lkQ gksrk gSA laHkkfor jksxksipkj y{; dh igpku ds fy, ml ra= dks le>uk vko”;d gS ftlls Toyu 
+gksrk gS rFkk bl izfØ;k esa ekWyhD;wyj ek/;e “kkfey gksrs gSaA
+lsyqyj Lrj izfØ;k esa vkWjxsfute esa ,d lqLFkkfir izksVhu xq.koRrk fu;a=.k iz.kkyh gksrh gS ftls
+iz;ksx”kkyk dh Vhe orZeku esa le>us dk iz;kl dj jgh gSA bZ3 ;qchD;wfVu fyxslht dh Hkwfedk vc rd 
+,slh iz.kkyh esa ns[kh x;h FkhA gekjh iz;ksx”kkyk izksVhu xq.koRrk fu;a=.k iz.kkyh ds {ks= esa xq.kkRed “kks/k
+
+ds izfr lefiZr gSA gky gh esa geus ik;k df bZ3 ;wchD;wfVu fyxsflt bZ6&,ih okyk ,pbZlhVh Mksesu 
+,lvksMh vkbZ E;wVsaV }kjk rS;kj felQksfYMM izksVhu ,xzhxsVl ds lkFk blds tqM+us ds tfj, vehVªksfQd 
+ysVjy lysjksfll jksxksa esa enn djrk gSA ,sls fu’d’kZ bl ckr dk leFkZu djrs gSa fd bZ3 fyxst esa 
+felQksfYMM izksVhu ,xzhxs”ku dks gVkus dh {kerk gks ldrh gSA rFkkfi] lsyqyj iz.kkyh dh vizR;kf”kr 
+l{kerk dk iz”kalk djrs gq, gesa psijksUl dh egRoiw.kZ Hkwfedk dks ;kn j[kuk pkfg, ftls felQksfYMM 
+izksVhu dks okil ysus vkSj bl izdkj mu izksVhu ds ifjorZu ds nkSjku iz;qDr ÅtkZ ds laj{k.k ds mn~ns”; 
+ls bZ3 ;wchD;wfVu fyxsfll ds rqyuk esa ojh;rk ls dk;Z djrs gq, ik;k x;k gSA dbZ mnkgj.kksa us gesa ;g 
+lkspus ij etcwj fd;k fd ge felQksfYMM izksVhu dks lgh djus esa psijksUl vkSj bZ3 ;wchD;wVhu fyxsfll 
+nksuksa dh Hkwfedk dk irk yxk ldrs gSaA vr% vc ge us dsoy bZ3 ;wchD;wVhu dk dk;Z dj jgs gSa vfirq 
+psijksUl ij Hkh dke dj jgs gSa vkSj lsy ds fy, ,d l{ke xq.koRrk fu;a=.k iz.kkyh nsus ls muds 
+lapkyukRed tqM+ko esa Hkh dke dj jgs gSaA
+Hkk-izkS-la- tks/kiqj esa Ik;kZoj.k ckW;ksVSDuksykWth iz;ksx”kkyk fofHkUu voj Lukrd vkSj LukrdksRrj
+ikB~;Øeksa esa lsok iznku djus ds vfrfjDr ckW;ks,uthZ rFkk ckW;ksfefM,”ku ds {ks=ksa esa “kks/k dk;Z djrh gSA 
+iz;ksx”kkyk esa “kks/kdrkZ ty iznw’k.k vkSj ÅtkZ dk lrr tSfod gy [kkstus ds mn~ns”; ls ÅtkZ laj{k.k 
+izfØ;k rd vof”k’V ls iz;ksx”kkyk ijh{k.k djrs gSaA orZeku esa ukbVªsV vkSj Øksfe;e ¼vi½ lanwf’kr vof”k’V 
+gsrq lQyrkiwoZd ckW;ksfjfefM,”ku izfØ;k rS;kj dh xbZ gSA lkFk gh] ikWoj tujs”ku rFkk ,ysx [ksrh ds 
+fy, vYi ykxr ekbØksfc;y dkcZu dSIpj lsy rS;kj dh tk jgh gSA blds vfrfjDr] iz;ksx”kkyk esa 
+“kks/kdrkZ laHkkfor ckW;ksMhty iznku djus okys uksosy ;hLV dks i`Fkd djus esa lQy jgsA
+Hkk-izkS-la- tks/kiqj esa izksVhu bathfu;fjax iz;ksx”kkyk dksyktu tSls mi;ksxh izksVhu dh lajpuk vkSj
+dk;kZRed y{k.kksa dks le>us ds laca/k esa ckW;ks lkexzh rS;kj djus esa vR;f/kd izfrLi/khZ “kks/k dj jgh gSA 
+bl “kks/k ds fufgrkFkZ izHkkoh tSo fpfdRlh; midj.kksa bEIykaV ds fodkl ds izfr Hkh foLrkfjr fd, tk 
+ldrs gSaA
+Hkk-izkS-la- tks/kiqj dh jlk;u iz;ksx”kkyk dk eq[; y{; ekeys dh viuh le> ds ekspZs ij okLrfod
+leL;kvksa ds lek/kku esa oSKkfud i)fr ls Nk=ksa dks izf”kf{kr djuk gSA ;g ,d cgq&vk;keh iz;ksx”kkyk 
+gS tks voj Lukrd] Lukrd vkSj ih,p-Mh Nk=ksa dks muds Hkfo’; ds O;olk; dh ;kstuk cukus esa lgk;rk 
+djus ds fy, cM+h la[;k esa lalk/ku miyC/k djkrh gSA
+bl iz;ksx”kkyk esa v/kqukru izys[ku dk ,d O;kid LiSDVªe gS ftlesa cqfu;knh iz;ksx”kkyk LFkkiuk
+¼vkWxsZfud] buvkWxsZfud] vkxZukseSVkfyd ,oa lkexzh la”ys’k.k½] ukbVªkstu] vkWDlhtu ,oa ,yihth xSl ykbu] 
+buVZ ,VelQh;j ckWDlst] oSD;we ykbu odZ] ¶;we gqM ih,p] daMfDVfoVh] chvksMh ,oa lhvksMh ehVj] 
+jksVjh bosiksjsVj] oSD;we iai] lSaVªh¶;wt] gkbZ izs”ku fj,DVj flLVe] fpyj] ghVlZ] ekbØkscysalst] vkWfcZVy 
+“ksdj] thlh] ,pih,ylh vkSj jSMyht jSMh fj,DVj “kkfey gSaA “kSf{kd o’kZ 2012&13 esa iz;ksx”kkyk us 
+iksysjhehVj] esfYVax IokbaV baLVªwesaV lksyj fleqysVj] fMftVy VkbVªsVj] Kugalrohr] bySDVªksdsfedy odZ 
+LVs”ku vkSj csVªh fo”ys’k.k tSls midj.k gSaA
+lkWfyM LVsV izksc ds lkFk ,d 500 esxkgV~TkZ ,u,evkj LiSDVªksehVj ,d vkOk”;d lalk/ku gS
+ftldk fe”ku “kks/kdrkZvksa dks mudh ifj;kstukvksa ds lapkyu gsrq ,d eap iznku djrs gq, vR;k/kqfud 
+mPp QhYM ,u,evkj rFkk i)fr miyC/k djokuk rFkk ,u,evkj i)fr;ksa esa ubZ i)fr;ka fodflr djuk 
+gSA
+
+U;wfDy;j eSXusfVd jstksusal LisDVªskehVj ¼500esxkgV~TkZ½ 
+jlk;u iz;ksx”kkyk
+ikWoMj ,Dljs fMQjSDVªksehVj 
+LdSfuax bysDVªku ekbØksLdksi ,aM bysDVªku fMLij“ku
+LisDVªksehVj
+lkSyj fleqysVj 
+ljQsl ,fj;k ,ukykbZtj
+xSl Ø¨esVksxzkQ 
+fj;sDVj jsMh
+
+,Vksfed QkslZ ekbØksLdksi 
+¶y¨jksLØhu LisDVªksehVj
+Xyo ckWDl 
+gkbZ izs”kj fj;sDVj
+usVofdZax izkS|ksfxdh iz;ksx”kkyk us “kSf{kd o’kZ 2011&12 ls dk;Z djuk vkjaHk fd;k gSA bldk mn~ns”;
+voj&Lukrd rFkk Lukrd Nk=ksa] tks dEI;wVj usVodZ ds {ks= esa viuh :ph dk v/;;u djrs gSa] dks 
+dEI;wVj usVodZ ds igyqvksa dks le>us rFkk ,d okLrfod lsfVax esa usVofdZax midj.kksa ds lkFk dk;Z djus 
+ds ;ksX; cukuk gSA blds vfrfjDr] bl iz;ksx”kkyk dk mn~ns”; izkSUur fo’k;ksa] tSls fd ok;jySl esl 
+usVodZ] lsUlj usVodZ] dEI;wVj usVodZ ls ikWoj ykbuksa ij lapkj ds fy, vko”;d voljapuk iznku djuk 
+gSA bl iz;ksx”kkyk esa gqbZ xfrfof/k;ka fuEukuqlkj gSaA
+
+1- usV ,Qihth, dk iz;ksx djrs gq, usVofdZax gkMZos;j dh izksVksVkbfiax ¼mnkgj.k] bFkjusV fLop]
+vkbZihoh 4 :Vj bR;kfn½
+2- fDyd :Vj ekWM~;wyj lkW¶Vos;j ÝslodZ dk iz;ksx djrs gq, iSdsV izkslslj dk fodklA 
+3- feuh&baVjusV] flaXky&gwi ok;jySl usVodZ] cgq&gwi ok;jySl esl rFkk lsalj usVodZ] ikWoj ykbu
+lapkj usVodZ] x`g nwjHkk’kk ykbu usVodZ ds fy, voljapuk dh LFkkiukA
+4- fHkUu usVodksZa ds laca/k esa fofHkUu izksVksdkWy ds fu’iknu fo”ys’k.k ls lacaf/kr v/;;uA 
+5- uksoy :fVax ,YxksfjFe] ifjogu ys;j ra= vkSj vxyh ih<+h ds usVodZ ds fy, lsokvksa dk
+fodklA
+6- IysusV iz;ksx”kkyk volajpuk dh LFkkiuk ¼tks 500 ls vf/kd lkbVksa dks tksM+rs gq, vfuok;Z :Ik
+ls baVjusV ij l`ftr oSf”od vkcafVr dEI;qfVax eap dk Hkkx cusxh½A ;g Nk=ksa vkSj “kks/kdrkZvksa 
+dks u dsoy baVjusV dh VªSfQd i)fr dks le>us dh vuqefr nsrh gS cfYd vkcafVr LVksjst] 
+usVofdZax esfiax] ih;j&Vw&ih;j iz.kkyh] ?kVd forj.k lsok vkSj DykmM dEI;qfVax ds fy, 
+baVjusV ij ubZ izkS|ksfxdh iz;ksxksa dks Hkh fodflr djsxhA
+bl iz;ksx”kkyk esa ,ukykWx rFkk fMftVy lfdZV dk Mk;ksM] VªkaftLVj] vksikEil rFkk DykWd tSls
+lHkh izdkj ds lfdZV midj.kksa dk Ikz;ksx djrs gq, fujh{k.k fd;k tk ldrk gSA iz;ksx”kkyk esa fuEufyf[kr 
+mijd.k gSa#
+1- ,ftysaV ls vkfcZVªsjh QaD”ku tsujsVj 
+2- ,ftysaV ls fMftVy vkDlhyksLdksi 
+3- izksxzkescy ikWoj vkiwfrZ 
+4- ,ftysaV ls 6 1@2 chvkbZVh Mh,e,e
+;a=hdj.k vkSj lapkj iz;ksx”kkyk dk fe”ku voj Lukrd rFkk LukrdksRrj Nk=ksa ds fy, vuqla/kku
+vkSj ekiu rFkk Lopkyu izkS|ksfxdh esa iBu vkSj “kks/k dk la”ys’k.k djuk gSA bl iz;ksx”kkyk esa fLFkr 
+vR;k/kqfud lqfo/kk,a lapkj ds [kxksyh; Ik;kZoj.k vkSj okLrfod le; ekiu rFkk okLrfod le; ekiu 
+izkS|ksfxdh; esa uohu “kks/k ds volj iznku djrh gSA vuqHkoh iz;ksx”kkyk ny Nk=ksa dh “kks/k esa izfrHkk dk 
+iks’k.k djrh gS vkSj tfVy ekiu fodflr djus] ijh{k.k djus] fu;a=.k iz.kkyh] MkVk fo”ys’k.k iz.kkyh vkSj 
+vxyh ih<+h dh lapkj izkS|ksfxdh fodflr djus dk volj iznku djrh gSA
+
+Nk= ¼1½ cslcsaM lapkj lfdZV cukus ¼2½ ,u-vkbZ- yScO;w xzkfQd izksxzkfeax lkW¶Vos;j ds iz;ksx ¼3½ ih-
+,Dl-vkbZ vk/kkfjr ,u-vkbZ-vkj-,Q@ok;jySl ekiu lVSaM ¼4½,u-vkbZ-MCy;w-,l-,u vkSj yScO;w lkW¶Vos;j 
+dk ewY;kadu] lkW¶Vos;j ifjHkkf’kr jsfM;ks iz.kkyh lek;ksftr djus] v/;;u fd, x, ,afVukvksa ds izpkyksa 
+dh ek=k fu/kkZfjr djus ¼5½ ,ukykWx ekWM~;wys”ku ;kstukvksa dk lapkj djus ls lacaf/kr fl)kafrd vkSj 
+izk;ksfxd nksuksa gh Kku fodflr djrs gSaA ,uvkbZ&ySc esa ,slh lkW¶Vos;j vkSj gkMZos;j mi&iz.kkyh gSa tks 
+jsfiM izksVksVkbfiax rFkk fofHkUu mi;ksxksa ds fy, ,EcsfMM iz.kkyh ds fodkl dks l{ke cukrh gSA orZeku esa 
+iz;ksx”kkyk esa fuEufyf[kr lsV vi gSa%
+1- ,u-vkbZ- ,fYol vk/kkfjr lapkj iz.kkyh vkSj F;ksjh f”k{k.k LVSaM 
+2- LisdVªy] psuy l{kerk v/;;u ds fy, cM+k ,evkbZ,evks LVSaM rFkk u, ekud fodkl 
+3- MCY;w ysu] MCy;w-vkbZ-eSDl] th-ih-,l] vkj-,Q-vkbZ-Mh] ftxch] th-,l-,e] lh-Mh-,e-,] MCy;w-lh-Mh-,e-,]
+CywVwFk gsrq izksVksdkWy LVSaM
+4- dLVe lapkj ;kstuk ds fodkl vkSj “kks/k ds fy, ,Qihth,&,uscYM lkW¶Vos;j fMQkbUM jsfM;ks LVSaM 
+5- csfld ,ukykWx vkSj fMftVy lapkj rduhdh f”k{k.k LVSaM 
+6- ok;jySl izksVksVkbi oxhZdj.k rFkk VsfLVax LVSaM 
+7- csl&cSaM v/;;u vkSj flXuy izlaLdj.k ds fy, ,Qihth, vk/kkfjr izksVksdkWy fodkl 
+8- oh,u, vk/kkfjr ,aVhuk oxhZdj.k LVSaM 
+9- csl&cSaM v/;;u vkSj flXuy izlaLdj.k ds fy, ,Qihth, vk/kkfjr izksVksdkWy fodkl 
+10- oh,u, vk/kkfjr ,aVhuk oxhZdj.k LVSaM 
+11- Qkbcj vkfIVd lapkj LVSaM 
+12- usVodZ vk/kkfjr LVSaM 
+13- okLrfod lrg fMtkbu] fjdkWMZ rFkk IyscSd] flXuy lrdZrk] ,yxksfjFke oS|hdj.k rFkk vf/kd ds
+fy, ;w,lvkjih ¼;wfuolZy lkW¶Vos;j jsfM;ks miLdj½ vk/kkfjr ok;jySl lapkj iz.kkyh
+14- usVodZ lapkj vkSj fuekZ.k fu;a=.k LVSaM
+iz.kkyh vkSj MªkbOl ds {ks= esa voj&Lukrd vkSj “kks/k ds fy, fd;k tkrk gSA ;g iz;ksx”kkyk ladk; vkSj 
+Nk=ksa ds fy, ikWoj dUoVZj vkSj ,lh@Mhlh ekbØks fxzM ds {ks=ksa esa “kks/k dks lqxe cukrh gSA ;g iz;ksx”kkyk 
+vk/kqfud ijh{k.k vkSj eki baLVªwesaVl] dUoVZl] ikWoj LIkykbZ vkSj izksxzksfeax cksMksZa ls lqlfTtr gSA bl 
+iz;ksx”kkyk esa miyC/k eq[; midj.k gSa%
+1- gkbZ izhfllu ikoj ,ukykbtj&;ksdksxok MCY;wVh 3000 
+2- Mh,lvks&VsdVªksfuDl 200 ,e,ptsM ¼Mhihvks 2024½ rFkk vkbZth,ptsM ¼Mhihvks 4104ch½ 
+3- QaD”ku tsujsV&VsdVªksfuDl ,,Qth 3021ch 
+4- ikWoj LiykbZ% 0&30 oksYV] 1,( 0&32 oksYV] 3,( 0&32] 10, 
+5- rhu Qst buovZj Mªkbo 
+6- rhu Qst buoVZj LVsdl 
+7- Mhlh&Mhlh dUoVZl 
+8- foHksnh djaV izksCl 
+9- djaV DysEi 
+10- vkbZlksys”ku VªkalQkseZlZ 
+11- ,Qihth, izf”k{k.k fdV vkSj izksxzkfeax cksMZ
+
+1- fodksu eks”ku VªSfdax iz.kkyh 
+2- ,d ikoj cksV eksckby jkscV IysVQkeZ ij cSjsV MCY;w,,e vkeZ dk py esfuiqysVj 
+3- Ikk;ksfu;j ih3&Mh,Dl py jkscksV~l& 10 bdkbZ;ka 
+4- VjVycksV 
+5- Oghy ps;j 
+6- QkslZ IysV 
+7- bUÝkLVªDpj QkWj eksckby jksscksfVDl&usfoxs”ku] ikFk Iykfuax] ,l,y,,e 
+8- Mk;ukfed ,aM dkbZukeSfVd daVªksy izkWCyhe jsMuMsUlh jslkY;w”ku 
+9- th,vkbZVh ,ukfyfll vkSj jkscksV vflLVsM fjgSfcfyVs”ku
+1- lh,Mh [kaM 
+2- lVhdrk e”khfuax [kaM 
+3- jsfiM izksVksVkbfiax [kaM 
+4- eSdsfudy fcgsfo;j [kaM
+
+dsanzh; dk;Z”kkyk laLFkku dh dsanzh; lqfo/kk gS ftlesa osfYMax “kkWi] dkjisaVjh “kkWi] fQfVax “kkWi] lhV 
+eSVy “kkWi] QkmaMªh rFkk ghV VªhVesaV “kkWi vkSj e”khu “kkWi tSlh fofHkUu dk;Z”kkyk,a “kkfey gSaA voj Lukrd 
+Nk«k&Nk«kk;sa vius ikB~;Øe ds Hkkx ds :Ik esa dk;Z djds rFkk ifj;kstukvksa esa dk;Z djds mi;qZDr [kaMksa 
+esa vuqHko izkIr djrs gSa vkSj Nk= viuh “kSf{kd ifj;kstukvksa ds Qsczhds”ku mn~ns”; ds fy, Hkh bu lqfo/kkvksa 
+dk mi;ksx djrs gSaA ;g ladk; lnL;ksa rFkk ih,p-Mh vkSj ,e-Vsd “kks/k fo}kuksa ds Fkhfll dk;Z esa muds 
+“kks/k fuekZ.k ds lkFk lkFk laLFkku dh “kks/k ,oa fodkl ifj;kstukvksa esa Hkh lgk;rk iznku djrh gSA 
+dsanzh; dk;Z”kkyk esa fuEufyf[kr e”khusa vkSj midj.k miyc/k gSa%
+1- oSfYMax ¶;we ,DlVªsd”ku MkWmu MªkQV Vscy 
+2- cgq&izfØ;k oSfYMax midj.k 
+3- iksVsZcy flaxy Qst ,evkbZth@,e,th 
+4- ,lh@Mhlh oSfYMax midj.k 
+5- ,evkbZth@,e,th oSfYMax midj.k 
+6- VªhMy lapkfyr “k;fjax e”khu 
+7- gLr lapkfyr QksfYMax e”khu 
+8- dStu eQy QusZl 
+9- gLrpkfyr thuh vFkok csfjax e”khu 
+10- eksVjpkfyr ldZy dfVax e”khu 
+11- gLrpkfyr ldZy dfVax e”khu 
+12- gkbMªksfyd “ks;fjax e”khu 
+13- iksVZscy ghfVax IykaV 
+14- iksVZsCky gkMZfuax IykaV 
+15- Qksftax ghfVax IykaV 
+16- ,Y;qehfu;e esfYVax IykaV 
+17- fQfVax Vscy 
+18- eksYM cukus dh lqfo/kk 
+19- iksVsZcy midj.k xzkbaMj
+
+vkSj Mk;ukfed cSysaflax ,ijsV~l ;wuholZy xouZj ,ijsV~l dksfj;ksbYl dEiksusaV vkWQ ,Dlhyjs”ku ,ijsV~l] 
+,ihlkbfDyd fx;j VªSu ,ijsV~l] dSe ,ukyhfll e”khu ,ijsV~l] ;wuholZy okbczs”ku ,ijsV~l] LVªkscksLdksi 
+vkSj VdehVj 10 ls lqlfTtr gS tks Nk=ksa dh fofHkUu iz.kkfy;ksa ds O;ogkj dks le>us esa lgk;rk djrs 
+gSa vkSj mu ij dk;Z djrs gSaA
+blds vfrfjDr] ;g iz;ksx”kkyk fofHkUu Ik;kZoj.k ifjfLFkfr;ksa esa blds vUkqdaiUk fo”ks’krk dk irk
+yxkus ds fy, e”khu vFkok lajpUkk dh xfr gsrq e”khu vFkok LVªDpj vkSj midj.k ds daiUk y{k.kksa dh 
+x.kuk ds fy, fofHkUu daiUk eki midj.kksa ds lkFk Hkh lqlfTtr gSA ?kVd ls ysdj lajpUkk rd ds eki 
+vkSj@vFkok okbczs”ku y{k.k ijh{k.k ds fy, fuEu midj.k miyC/k gSaA
+
+Nk=ksa dks bysfDVªdy e”khu fo”ks’krkvksa vkSj y{k.kksa ds izfr ifjfpr djkus ds fy, Hkk-izkS-la- tks/kiqj
+us *bySDVªks eSdsfudy ÅtkZ laj{k.k iz;ksx”kkyk dh LFkkiuk dh gS vkSj ;g viuh iz;ksx”kkyk lqfo/kkvksa dh 
+{kerk dk lrr :Ik ls fodkl djrk jgk gSA bl iz;ksx”kkyk esa vR;k/kqfud **bysfDVªdy bathfu;fjax** 
+lqfo/kk,a Nk=ksa dks okLrfod iz;ksx okrkoj.k esa e”khuksa ds dbZ iz;ksxkRed vkSj vkS|ksfxdh iz;ksxksa lfgr 
+bysDVªks&eSdsfudy ÅtkZ laj{k.k izfØ;k ds ewy ds lkFk Lo;a dks ifjfpr djkrs gq, mudh {kerkvksa dks 
+l”kDr cukrh gSA ;g iz;ksx”kkyk lrr fodkl iz;klksa ds lkFk ewy rFkk vk/kqfud izkS|ksfxdh vko”;drkvksa 
+dks iwjk djus ds fy, ikjaifjd vkSj vk/kqfud midj.kksa ls lqlfTtr gSA
+¶ywbM eSdsfuDl iz;ksx”kkyk esa Nk= fuEufyf[kr ds ckjs esa lh[krs gSa%
+1- iz;kksxkRed vkadM+ksa dk fo”ys’k.k vkSj ewY;kadu 
+2- F;ksjhfVDy ekWMy vkSj iz;ksxkRed vkadM+ksa ds chp rqyuk 
+3- ,d ¶YkwbM eSdsfudy rFkk ghV VªkalQj iz.kkyh dSls rS;kj djsa mnkgj.k ds fy, ,d ikbi iz.kkyh ftlesa
+fofHkUu rduhdh igyqvksa] ghV ,Dlpsaj] FkeZy ÅtkZ HkaMkj] fjlhoj] foam dSpj] okWY;wehfVªd ,;j fjlhoj 
+ij fopkj fd;k x;k gksA
+mi;qZDr ds vykok bl iz;ksx”kkyk dk mn~ns”; Nk=ksa esa iz;ksxksa rFkk y?kq Lrj dh ifj;kstukvksa ds 
+fMtkbu dk lao/kZu djds uokpkjh fopkjksa dk l`tu djuk gSA orZeku esa ¶ywbM eSdsfud iz;ksx”kkyk esa 
+ikbi ¼lkQ@[kqjnqjs½ vkSj fQfVax ¼mnkgj.k okYi] csaM½ esa gkfu laca/kh iz;ksx] fofHkUu ¶yks&EkhVj] ikfVZdy 
+best osykslhfeVªh rduhd] gkWV&okW;j ,uheksehVj] ySc Ldsy lc lksfud foam Vuy ,d flysaMj@,;j 
+Qk;y ds nkc forj.k] fy¶V rFkk Mªsx larqyu] ckmaMªh ys;j fodkl] ekSl fuxjkuh ds chp rqyuk lapkfyr 
+fd, tkrs gSaA blds vykok] ;g iz;ksx”kkyk vfXu fleqys”ku ds fy, lh,Q,,lVh tSls ekud lkW¶Vos;j 
+ds laca/k esa izf”k{k.k iznku djrh gSA
+
+ghV VªkalQj iz;ksx”kkyk fofHkUu FkeksZehVjh rduhd] ghV ,Dlpsat iz.kkyh] osaVhys”ku iz.kkyh] izk—
+frd ,oa QksLMZ dUosa”ku iz.kkyh] fofHkUu lkefxz;ksa ds fy, ghV daMD”ku bZdkbZ] ySc rFkk vkS|ksfxd Lrj 
+lkSj ty ghVj iz.kkyh vkSj FkeZy jsMh,”ku bdkbZ ls lqlfTtr gSA ;s lHkh midj.k lacaf/kr lkW¶Vos;j ds 
+lkFk LFkkfir fd, x, gSaA
+bl iz;ksx”kkykvksa esa ijh{k.k] dsyhczs”ku vkSj “kks/k mn~ns”; ds fy, ikVhZdy ,ukykbtj ds lkFk
+ystj MkWIyj osykslhehVj] nko rFkk rki dsyhczs”ku] csjh,cy ¶yks ds lkFk Cyksvj] izslj VªkalMwlj fMQjsaf”k;y 
+izslj VªkalMwlj] VckbZu VsLV fjax] VcksZ&e”khu VsLVfjax] vkbZlh abatu] VsLVfjax bR;kfn tSls fofHkUu midj.kksa 
+dk izki.k fd;k tkrk gSA
+blds vfrfjDr] cgq&mn~ns”; VsLV lsVvi dks Lons”kh :Ik ls rS;kj fd;k tk jgk gS vkSj muesa
+“kkfey oLrqvksa@mi&iz.kkfy;ksa dks LFkkuh; :Ik ls rS;kj fd;k tk jgk gSQA bl iz.kkyh dk mn~ns”; 
+okWY;wehfVªd ,;j fjlhoj] FkeZy ,uthZ LVksjst] ,;j okVj ghV ,Dlpsat flLVe tSlh lkSj FkeZy 
+mi&iz.kkfy;ksa rFkk muds lrr lapkyu dk fujh{k.k vkSj ewY;kadu djuk gSA vFkZ ,;j ghV ,Dlpsat 
+flLVe] foam dSpj vkSj ,;j&dwYM ,Dlpsat iz.kkyh tSls midj.kksa dks dqN iz;ksxksa ds fy, rS;kj vkSj 
+ijhf{kr fd;k tk jgk gSA
+1- ¶ywbM ¶yks vkSj rki gLrkarj.k laca/kh leL;kvksa ds ewy igyw tSls fd /kwy lap;u 
+2- Lk?ku lkSj FkeZy iz.kkfy;ksa ds fy, mi&iz.kkyh dk fMtkbu vkSj fo”ys’k.k
+bl iz;ksx”kkyk esa rS;kj rFkk fo”ysf’kr dqN mi&iz.kkfy;ka gSa%& 
+¼d½ izfØ;k rki iz;ksx gsrq [kqyk oksY;wfefVªd ,;j fjlhoj] 
+¼[k½ dEisDV ghV ,Dlpsatj] rFkk 
+¼x½ lksyj dUosfDVo QjuslA 
+bl iz;ksx”kkyk esa lkSj ok;q Vkoj lkbeqysVj] ,l-,Vh-,l] ystj Mksiyj ohyksflehVªh tSls izkSUur “kks/k xzsM 
+midj.k tSlh ijh{k.k lqfo/kk “kkfey gSA ,l,Vh,l lqfo/kk esa [kqyk okSY;qfefVªd ,;j fjlhoj] FkeZy ÅtkZ 
+LVksjst] ok;q&ty rki vknku&iznku “kkfey gS vkSj bldk lkSj duosfDVo QusZl ds lkFk foLrkj fd;k 
+tk jgk gSA
+iznku djrh gS ftlls mudh ;kaf=dh fo”ks’krkvksa tSls fd y¨Pk dk ekWM~;wy] rU;rk vkSj O;kid {kerk] 
+ruko eksM] csafMax y{k.k] gkMZusl bR;kfn tSls ;kaf=dh y{k.kksa dk irk yxk;k tk ldsA iz;ksx”kkyk 
+fuEufyf[kr ijh{k.k midj.kksa ls lqlfTtr gSa%
+1- lkoZHkkSfed ijh{k.k e”khu 5&50 ds,u 
+2- jkWdosy VsLVj 
+3- fczusl VsLVj 
+4- fodlZ VsLVj 
+5- iksyMh gkMZusl VsLVj 
+6- iksVsZcy gkMZusl VsLVj
+
+}kjk iqjkus bZa/ku ij vR;f/kd Hkjkslk djus ls Hkk-izkS-la- tks/kiqj dks uohdj.kh; ÅtkZ iz;ksx”kkyk ¼vkjbZ,y½ 
+dk lao/kzu djus ds egRoiw.kZ mn~ns”; ls ÅtkZ rFkk Ik;kZoj.k ls lacaf/kr elyksa ij “kks/k djus ij izksRlkgu 
+feyk gSA vkbZbZ,y uohdj.kh; ÅtkZ dks fMtkbu djus] ijh{k.k djus vkSj mldk izlkj djus rFkk l{ke 
+ÅtkZ iz.kkyh ij /;ku nsrk gSA vkjbZ,y dk mn~ns”; gS mu izkS|ksfxfd;ksa dh lgk;rk djuk ftlls ;s 
+m|ksx vkSj fodkl”khy ns”kksa esa lrr Ik;kZoj.kh; fodkl esa ;ksxnku djsaA uohdj.kh; ÅtkZ {ks= esa bl 
+iz;ksx”kkyk ds ladk; vkSj Nk= ,d ,slh uokpkjh iz.kkyh dk l`tu djus dk iz;kl dj jgs gSa ftlls lw;Z 
+vkSj ok;q ls ÅtkZ dk l{ke :Ik ls mRiknu gks ldsA gky gh esa ?kjsyw fodkl ds fy, lkSj vkSj ok;q ÅtkZ 
+ij “kq: dh xbZ ifj;kstuk esa ÅtkZ bathfu;jksa vkSj Ik;kZoj.kh; tksf[kef o”ys’k.k tSls fofHkUu {ks=ksa esa “kks/k 
+dh ;kstuk dk izk:Ik rS;kj fd;k x;k gSA vkjbZ,y esa dEI;wVj baVjQsl fLkLVe gS ftlesa yxHkx 30 Nk= 
+,d le; esa dke dj ldrs gSaA Nk= vkjbZ,y ds loksZPp lalk/ku gSa vkSj Hkk-izkS-la- tks/kiqj us uohdj.kh; 
+ÅtkZ ds {ks= esa dkQh izxfr gkfly dh gS vkSj og vkjbZ,y esa ,d O;ogk;Z gS vkSj og vkjbZ,y esa ,d 
+O;ogk;Z ;kstuk cukus rFkk uokpkj “kks/k djus ds fy, lHkh visf{kr lalk/ku iznku djrk jgk gSA vkjbZ,y 
+ds fodkl dk ,d vU; igyw “kSf{kd vkSj vkS|ksfxd lewgksa dh Hkkxhnkjh dk fodkl djuk gSA Hkfo’; esa 
+;g izf”k{k.k vkSj lkoZtfud futh {ks=h; lg;ksx ds fy, ,d d¢Unz gksxkA gky gh esa] iz;ksx”kkyk us 
+ekbØksfcvy ¶;wy lsy dh izksVksVkbfiax ij isuklksfud vkj,aMMh bafM;k izk-fy- ds lkFk ,d ijke”kZnk=h 
+ifj;kstuk vkjaHk dh gSA blds vfrfjDr] iz;ksx”kkyk us jktLFkku vkSj xqtjkr esa 5 ,eMCY;w ls de ihoh 
+ikoj la;=ksa dk vkadM+k laxzg] O;k[;k vkSj fo”ys’k.k dk vkjaHk fd;k gSA
+uodj.kh; ÅtkZ iz;ksx”kkyk fuEufyf[kr midj.kksa dk mi;ksx djrh gS%
+1- 2 fdyksokV pktZ ds fu;a=.k 12 oksYV foam ikoj ds lkFk] LFkk;h esxusaV ds lkFk fLkUØskukbtj
+tujsVj 12~ oksYV] ySEi cksMZ 12 oksYV vkWQ fxzM buoVZj bR;kfnA
+2- Mhlh duoVZj] bYkSDVªkfud yksM] esVy gkbMjkbM LVksjst lsy] bySDVªksykbtj]
+200okV@20oksYV@10 , ds lkFk ihbZ,e ¶;wy lsyA
+3- izkSuur QksVksoksfYVDl lksyj ekWM~;wy lkbeqys”ku ekWMy 23 oksYV@2, lksyj vkYVhV~;wV beqysVj
+ds lkFk lksyj ekWM~;wy] lksyj pktZ fu;a=d 12@24 oksYV 6, lksyj ,dqeqysVj 12 oksYV] 7 ,,p] 
+vkWQ fxzM buoVZu 230 oksYV] 275 oh, bR;kfnA
+4- ijr iz;ksx ds fy, lesfdr vkj,Q@Mhlh LiVfjax
+uohu ,oa uohdj.kh; ÅtkZ ea=ky; ¼,e,uvkjbZ½ us Hkk-izkS-la- tks/kiqj ds ifjlj dks muds ,d
+lkSyj jsfM,”ku dsanz ds :Ik esa pquk gSA lksyj jsfM,”ku eki ¼oSf”od vkSj izR;{k½] vknzrk] ,eh,UV rki] 
+jSuxkst vkSj foam LihM eki dk;Z bl dsanz esa fd, tkrs gSa vkSj vkadM+ksa dks ,d lsVsykbV flad ds tfj, 
+,e,uvkjbZ ds pSUubZ esa uksMy dsanz lh&osV dks izsf’kr fd;k tkrk gSA bl iz;ksx”kkyk esa midj.k dbZ 
+lkSyj iSuyksa ls ;qDr gSaA bl dsanz esa ,df=r vkadM+sa lksyj FkeZy vkSj lksyj QksVksoksfYVd la;a=ksa dh 
+LFkkiuk ds fy, visf{kr lksyj lalk/ku ewY;kadu leFkZ cukrk gS tSlk fd tokgjyky usg: jk’Vªh; fe”ku 
+¼ts,u,u,l,e½ esa n”kkZ;k gSA
+izlaLdj.k dks le>us esa jr gSA izfØ;k esa igys ,dy ekWyhD;wy dk iz;ksx djuk vkSj rRi”pkr` nh xbZ 
+lrg ij ekWyhD;wy ds lewg dk iz;ksx djuk “kkfey gSA fdlh ckg~; mRrd esa ekWyhD;wYl ds chp ijLij 
+laca/k gesa muds chp lapkj dks le>us essa lgk;rk djsxkA
+
+Hkk-izkS-la- tks/kiqj us inkFkZ oxhZdj.k ds {ks= esa mR—‘V lqfo/kk l`ftr dh gSA gky gh esa eSxusfVd
+laink eki iz.kkyh ¼,eih,e,l½ dk izki.k djds blesa ,d vfrfjDr vk;ke tksM+k x;k gSA ,eih,e,l 
+¼,lD;w;wvkbZMh½ dh LFkkiuk vkus okys dqN ekg esa dh tk jgh gSA ;g {ks= fuHkZj eSxusfVd eki ds lg;kstu 
+ls Mhlh rFkk ,lh nksuksa eSxusfVd eki gsrq c`gr rki 2 ds&1000ds dh Js.kh iznku djsxkA ,sls eki 
+eSXkusfVd fo”ks’krkvksa dks le>us rFkk eSXkusfVd lkefxz;ksa ls lac) fLiu Mk;ukfeDl esa lgk;rk djsxkA
+“kks/k esa ÅtkZ l`tu rFkk HkaMkj.k gsrq lkefxz;ksa lfgr fofHkUu iz;ksxksa ds fy, vfHkuo lkefxz;ksa ds
+fodkl ij /;ku dsafUnzr fd;k tkrk gSA orZeku dk;Z esa lkSj lsy iz;ksx gsrq lkWY;w”ku ;ksX; lhvkbZth,l 
+daIkkmaM lsehdaMDVj dk fodkl rFkk fyfFk;e vk;u cSVªh vkSj lqidsislhVj iz;ksx ds fy, Vªkaft”ku esVy 
+vkWDlkbM vk/kkfjr lkexzh dk fodkl “kkfey gSA ;g iz;ksx”kkyk LiVfjax] lksy&tsy izfØ;k ,lsEcyh 
+bR;kfn tSlh cM+h rFkk iryh fQYe rduhdksa ds flaFksfll vkSj ,Dl&js fMQjsD”ku] Ldsfuax bySDVªku 
+lw{en”kÊ] vkWIVhdy LisDVªksdksfid rduhd ,ylhvkj ehVj cM+s uewus gsrq Qsjksbd eki iz.kkyh bR;kfn tSlh 
+dbZ oxhZdj.k rduhd ls lqlfTtr gSA
+blds vfrfjDr] lewg lkSj pqfuank dksfVax] mPpr ckjackjrk vo”kks’kd iz.kkyh ds fy, Qsjksbd
+lkexzh vkSj fofHkUu iz;ksx ds fy, esusfVd ikfVZdy tSls fofHkUu iz;ksxksa ds fy, cgq&lapkyu lkefxz;ksa ds 
+fodkl ij Hkh /;ku dsafnzr djrk gSA ;g iz;ksx”kkyk FkeZy fo”ys’k.k bySDVªksdSfedy fo”ys’k.k] lQsZl 
+eksQksZykWth v/;;u] jlk;uksa ds i`FkDdj.k rduhd] fo|qr lapkyu eki midj.kksa] Xyko ckWDl bR;kfn ds 
+fy, vk/kqfud lqfo/kkvksa ls lqlfTtr gSA
+Hkk-izkS-la- tks/kiqj dh HkkSfrdh iz;ksx”kkyk dk fe”ku fo|kfFkZ;ksa dks ewyHkwr HkkSfrdh dk izk;ksfxd Kku
+miyC/k djuk gSA bl iz;ksx”kkyk esa fof”k’V midj.kksa lfgr vR;k/kqfud lqfo/kk,a ekStwn gSa tgka esdSfuDl] 
+osCl bysfDVªhflVh] eSXusfVTe vkSj vkWfIVDl esa fofHkUu iz;ksx fd, tkrs gSaA vc iz;ksx”kkyk esa izdk”k dh 
+xfr] thesu izHkko vkSj ekbdYlu baVjQsjksehVj ds lkFk iz;ksx ds fy, lqfo/kk ekStwn gSA
+
+dEI;wVj dsanz
+laLFkku esa ,d vk/kqfud dEI;wVj dsanz gSA tks orZeku esa ,d thchih,l baVjusV cSaMfoFk ds lkFk ,d
+xhxkckbZV ysu ij py jgk gSA ;g Nk=ksa] deZpkjh lnL;ksa vkSj ladk; lnL;ksa ds fy, lHkh dEI;qfVax 
+xfrfof/k;ksa dk dsanz gSA ifjlj esa foaMkst vkSj th,u;w@ykbusDl vkijsfVax flLVe ij dbZ VfeZuy fofHkUu 
+ykblsal”kqnk lkW¶Vos;j tSls fd esVysCk esFksesfVdk] dSMsal] esaVjxzkfQd] ,ufll] bZ,llh,Mh vkSj lkWfyMoDlZ 
+rd igqap iznku djrs gSaA “kSf{kd vkSj vkoklh; {ks=ksa esa ,d 802-11@ch@th@,u okbZ&QkbZ lsok miyC/k 
+gSA lkFk gh dEI;wVj dsanz esa oSKkfud “kks/k ds fy, mPp fu’iknu dEI;qfVax DyLVj ekStwn gSaA 
+ 
+lalk/ku 
+ 
+ 
+laLFkku esa dEI;wVj dsanz esa 5 izeq[k lalk/ku gSa] uker%] ykbusDl vkWijsfVax flLVe] ,loh,u loZj]
+thvkbZVh loZj] vkWuDykmM vkSj fofHkUu ykblsal”kqnk ,Iyhds”ku lkW¶Vos;j ftudk “kSf{kd vkSj “kks/k mn~ns”;ksa 
+ds fy, iz;ksx fd;k tkrk gS] mUgksaus fofHkUu lalk/ku ,oa lqfo/kk,a iznku fd;k tkuk laHko cuk;k gSA 
+ 
+lqfo/kk,a
+laLFkku rhu lqfo/kk,a iznku djrk gSa uker% usVofdZax] dEI;qfVax] baVjusV ,Dlsl vkSj vius dEI;wVj
+dsanz ds ek/;e ls ,yMh,Vh rFkk ,fDVo Mk;jsDVjh vkbZMh lqfo/kkA
+gkbZ ijQksZesal dEI;qfaVax 
+vR;f/kd lqlfTtr iz;ksx”kkyk lqfo/kk,a
+lsok,a 
+ 
+laLFkku vius dEI;wVj dsanz ds ek/;e ls ,QVhih] ,yMh,ih] ,pihlh] osc gkfLVax usVodZ dusfDVfoVh] ohVh,u] 
+,Mqjkse vkSj U;wt xzqi tSlh lsok,a iznku djrk gSA
+
+yfuZax gc vFkkZr~ iqLrdky; Kku lalk/kuksa ds vtZu] laXkBu vkSj izlkj dks lqdj cukrs gq, rFkk
+lkFk gh Hkk-izkS-la- tks/kiqj leqnk; dks iqLrdky; ,oa lwpuk lsok,a iznku djrs gq, laLFkku dh f”k{k.k ,oa “kks/k 
+xfrfof/k;ksa esa lgk;rk iznku djrk gSA laLFkku ds LFkk;h ifjlj esa yfuZax gc laLFkku ds “kSf{kd {ks= esa izos”k 
+ij fLFkr gS] tks fd tehu ls 15 ehVj dh ÅapkbZ okyk dSEil esa lcls cM+k <kapk gS( ;g lewps ifjlj ds 
+fy, DykWd Vkoj ij 4&os DykWd ds lkFk le; crkrk gS tks fd tks/kiqj “kgj esa dsoy rhljk DykWd VkWoj 
+gSA ;g iqLrdky; lfefr ds ekxZn”kZu esa dk;Z djrk gS ftlesa lHkh foHkkxksa ds izfrfuf/k vkSj Nk= izfrfuf/k 
+“kkfey gSA
+n yfuZax gc] LFkk;h ifjlj] Hkk-izkS-la- tks/kiqj esa iqLrkdky; Hkou
+laxzg
+iqLrdky; esa 13000 iqLrdksa ¼yxHkx½ dk xgu vkSj c<+rk gqvk laxzg gS ftlesa ikB~;iqLrdsa vkSj lkekU;
+rFkk lanHkZ iz—fr dh iqLrdsa “kkfey gSaA laLFkku ds “kSf{kd vkSj “kks/k mn~ns”;ksa ds fy, fofHkUu lzksrksa ls cM+h 
+la[;k esa fon~or tuZy vkSj MkVk csl Hkh lClØkbc fd;s tkrs gSaA
+
+iqLrdky; }kjk vius iath—r miHkksDrkvksa dks fuEufyf[kr lsok,a vkSj lqfo/kk,a iznku dh tk jgh gSA
+1- lnL; vkSj ifjpkyu lsok,a] 
+2- vfHkeq[khdj.k vkSj miHkksDrk f”k{kk] 
+3- _.k lqfo/kk] 
+4- lanHkZ ,oa lwpuk lsok] 
+5- ikB~;Øe fjtoZ] 
+6- orZeku tkx:drk lsok] 
+7- varj iqLrdky; _.k vkSj nLrkost vkiwfrZ] vkSj 
+8- fMftVy iqLrdky; lqfo/kk vkSj lsok,a
+fMftVy lalk/ku iqLrkdky; dh osclkbV ds ek/;e ls igqaps tk ldrs gSa tks fd iqLrdky; }kjk j[kh tkus 
+okyh ,d O;kid lkbZV gSA blesa iqLrdky; }kjk lClØkbCM lalk/ku] vkWuykbu dSVkykWx] [kqys Mksesu esa 
+igqaps tk ldus okys mi;ksxh lalk/kuksa dh lwph tSls fd vksiu ,Dlsl tuZy] iqLrdsa] fjiksftVjh] ohfM;ks 
+ysDpj] vksiu dkslZos;jA bu lalk/kuksa dks fu;fer :Ik ls vn~;ru fd;k tkrk gSA 
+ 
+ 
+lkFk gh iqLrdky; ladk; izdk”kuksa dh xzUFklwph j[kus ds fy, ,d iksVZy Hkh pykrk gSA blds vfrfjDr
+iqLrdky; }kjk ,d ikB~;Øe fn”kk&funsZ”kh iksVZy Hkh rS;kj fd;k x;k gS vkSj bldk j[k&j[kko fd;k tkrk 
+gS ftlesa lalk/ku tSls fd iqLrdky; esa miyC/k iqLrdsa] lCLkØkbCM tuZy] igqaps tk ldus okys lalk/kuksa 
+dks ikB~;Øe&okj lwphc) vkSj lac) fd;k tkrk gSA ;g IysVQkeZ Nk=ksa ds fo’k;xr vkSj ikB~;Øe lalk/ku 
+<wa<+us esa dkQh mi;ksxh gSA iqLrdky; lClØkbCM fd;s x;s fo}or lalk/kuksa vkSj lkfgR;d pksjh jksdus esa 
+xgu igqap Hkh iznku djrk gSA
+LVSd ,aM tuZy vuqHkkx 
+dkslZ fjtoZ ,oa fMftVy yk;czsjh vuqHkkx
+
+Ø- l-a fooj.k vkda M+s
+1. “kkfey dh xbZ iqLrdas dqy
+402
+3. vuqjks/k dh xbZ nLrkost vkifwrZ vkSj varj iqLrdky; _.k los k] ftls iwjk dqy
+124
+[k- varj iqLrkdky; _.k ij izca/k dh xbZ iqLrdsa 0
+d- pds vkmV iqLrdkas dh la[;k 12,613
+x- uoh—r iqLrdk sa dh la[;k 874
+2. 
+lClØkbc fd;s x;s fo}or lalk/kuksa dh la[;k ¼pkyw o’kZ 2018 ds fy,½ 
+dqy 18
+4. 
+ifjpkyu ysunsu 
+dqy 26122
+[k- psdbu iqLrdksa dh la[;k 
+12,620
+?k- okil yh xbZ iqLrdksa dh la[;k 
+15
+tuZy lalk/kuksa dk ykblsal fy;k gSA
+1- ,lksfl,”ku vkWQ dEI;qfVax e”khujh fMftVy yk;czsjh 
+2- vesfjdu dsfedy lkslk;Vh tuZy] 
+3- vesfjdu fQftdy lkslk;Vh tuZy] 
+4- vesfjdu lkslk;Vh QkWj esdsfudy bathfu;lZ fMftVy yk;czsjh] 
+5- vkbZbZ,y ¼vkbZbZbZbZ½ vkWuykbu fMftVy yk;czsjh 
+6- baLVhV~;wV QkWj LVMht bu baMfLVª;y MoyiesaV ¼vkbZ,lbZMh½ MkVkcsl] 
+7- tsLVksj vkdkZbOt] 
+8- eSFklkbZusV 
+9- uspj tuZy] 
+10- vkWDlQksMZ ;wuholhZVh izsl tuZy] 
+11- ,YTksfo;j lkbal tuZy] 
+12- Lkslk;Vh vkWQ bMfLVª;y ,aM ,Iyk;M eSFksesfVDl tuZy] ,aM 
+13- fLizaXkj tuZyA
+lkFk gh iqLrdky; bZ&”kks/k fla/kq( dalksfVZ;e QkWj gk;j ,tqds”ku bySDVªkWfud fjlklsZl dk ,d izeq[k
+lnL; gS ftldk lapkyu vkbZ,u,Q,yvkbZoh,ubZVh dsanz] xka/khuxj }kjk fd;k tkrk gS] ftlds ek/;e ls 
+izeq[k lalk/kuksa rd lClfØI”ku dks iwjk fd;k tkrk gSA blds vfrfjDr iqLrdky; Moyfiax ykb;czsjht 
+usVodZ ¼MsyusV½] ubZ fnYyh dk lnL; gS ftlds ek/;e ls iqLrdky; viuh varj iqLrdky; _.k 
+vko”;drkvksa dks iwjk djrk gSA 
+ 
+ 
+iqLrdky; vius miHkksDrkvksa ds fy, lkfgR;d pksjh jks/kh midj.k vkSj fjeksV ,Dlsl midj.k
+lClØkbc djrk gSA u;s Nk=ksa ds iathdj.k ds nkSjku rFkk ekax ij iqLrdky; ds deZpkjh lnL;ksa }kjk Nk=ksa 
+ds fy, vfHkeq[kh l=ksa vkSj iqLrdky; vuqns”k l=ksa dk vk;kstu fd;k tkrk gSA
+
+izkFkfed LokLF; lsok dsanz
+Hkk-izkS-la- tks/kiqj laLFkku ds Nk=ksa] ladk; lnL;ksa vkSj deZpkjh lnL;ksa dks vius LFkk;h ifjlj esa 24
+?kaVs LokLF; ns[kHkky lqfo/kk,a iznku djrk gSA ;g iw.kZr% lqlfTtr vkSj vkRefuHkZj lqfo/kk eSllZ xks;y 
+gkfLiVy vkSj fjlpZ lsaVj izk-fy-] tks/kiqj }kjk lapkfyr dh tkrh gSA orZeku esa izkFkfed LokLF; dsanz 
+¼ih,plh½ esa fuEufyf[kr lsok,a miyC/k gSaA
+1- ;ksX; fpfdRld] 
+2- fo”ks’kK fpfdRldksa ds fu;fer nkSjsa] 
+3- iSjk esMhdy deZpkjh] 
+4- Qhft;ksFksjsih ;wfuV 
+5- QkWesZlh 
+6- 24 ?kaVs vkikrdkyhu d{k vkSj 
+7- ,d vkbZlh;w ,EcwySal
+ifjlj esa bl iw.kZr% lapkfyr] 24 ?kaVs] vkbZ,lvks izekf.kr izkFkfed LokLF; dsanz ¼ih,plh½ ds vfrfjDr
+Hkk-izkS-la- tks/kiqj “kgj esa ,d u;k vf[ky Hkkjrh; vk;qZfoKku laLFkku] ,l,u esfMdy dkWyst dk lac) 
+vLirky vkSj dqN fof”k’V vLirkyksa dh “kgj esa ekStwnxh ls lkSHkkX;”kkyh gSA laLFkku dk vius deZpkfj;ksa 
+vkSj Nk=ksa dh ojh;rk vk/kkj ij mipkj ds fy, dqN iz[;kr vLirkyksa ds lkFk djkj gSaA buesa “kfkey gS] 
+xks;y gkfLiVy ,aM fjlpZ lsaVj] esMhIyl gkfLiVy vkSj oklUk vkbZ ds;j gkfLiVyA
+;g LokLF; dsanz Nk=ksa] deZpkfj;ksa vkSj muds vkfJrksa dks ,sls vU; vLIkrkyksa] tks vkarfjd jksxh
+ns[kHkky iznku djus ds fy, laLFkku }kjk izR;kf;r gSa] esa HkrhZ ds nkSjku muds mipkj dk leUo; vkSj 
+Ik;Zos{k.k djrk gSA LokLF; dsanz laLFkku ds foftVjksa dks vkoklh; {ks= esa muds vkokl ds nkSjku vuqjks/k izkIr 
+gksus ij viuh LokLF; ns[kHkky lsok,a iznku djrk gSA vkikr ifjfLFkfr;ksa es afpfdRlk lsok,a ifjlj ds mu 
+ukxfjdksa dks Hkh iznku dh tkrh gS tks Hkk-izkS-la- leqnk; ls lEc) ugha gSaA jksfx;ksa ds fjdkWMZ] [kjhnh xbZ@ 
+forfjr nokbZ;ksa ds C;kSjs] ifjlEifRr;ksa] midj.k vkfn lHkh ds fjdkWMZ dEI;wVj }kjk j[ks tkrs gSaA
+[ksyksa ds fy, lqfo/kk,a pkj LFkkuksa uker% Nk=kokl ifjlj] “kSf{kd ifjlj] fo|kJe varjkZ’Vªh; Ldwy
+ds [ksy eSnku rFkk t; ukjk;.k O;kl fo”ofo|ky; ds u;s ifjlj esa iznku dh tkrh gSA laLFkku esa laHkkj 
+ra=h; dk;kZy; }kjk ifjogu dh O;oLFkk dh tkrh gSA vkoklh; ifjlj esa Nk=ksa ds iz;ksx ds fy, ,d 
+ftEusft;e Hkh miyC/k gSA
+Hkk-izkS-la- tks/kiqj ds LFkk;h ifjlj esa ykWu Vsful dksVZ 
+Hkk-izkS-la- tks/kiqj ds LFkk;h ifjlj esa ckWLdsVckWy dksVZ
+
+Hkk-izkS-l-a tks/kiqj us Hkkjr ljdkj }kjk tkjh vkj{k.k uhfr;kas vkSj fn”kk&funsZ”kkas dk leqfpr mi;ksx
+vuqlwfpr tkfr@vuqlwfpr tutkfr izdks’B
+efgyk izdks’B
+Hkk-izkS-la- tks/kiqj dk efgyk izdks’B dk;ZLFky ij efgykvksa ds ;kSu mRihM+u ¼jksdFkke] fu’ks/k vkSj
+fuokj.k½ vf/kfu;e] 2013 esa fufgr izko/kkuksa ds vuqlkj dk;Z djrk gSA foRrh; o’kZ 2018&19 esa efgyk izdks’B 
+}kjk vk;ksftr dqN xfrfof/k;ka fuEufyf[kr gSa%
+fd;k x;kA bl dk;ZØe dk vk;kstu efgyk izdks’B] Hkk-izkS-la- tks/kiqj }kjk fd;k x;k FkkA MkW- {ksek izdk”k] 
+lapkyd] efgyk izdks’B] Hkk-izkS-la- tks/kiqj us ,d ,df=r vfFkfr;ksa dks dk;ZØe ls ifjfpr djok;kA bl 
+vk;kstu esa lqJh fu”kk tkSgjh] ekdsZfaVax ,aM izksMDV MoyiesaV] tkSgjh fMftVy gsYFk ds;j fyfeVsM] tks/kiqj 
+}kjk vkeaf=r okrkZ dh xbZA mUgksusa efgyk m|eh ds :Ik esa vius thou ds vuqHkoksa rFkk daiuh dh mUufr 
+esa viuh ;k=k ds vuqHko lk>k fd;sA mu fo’k;ksa ftuesa ge ySafxx lekurk vkSj efgykvksa ds l”kfDrdj.k 
+izkIr dj ldrs gSa] us uokpkjh rjhdksa ij dsafnzr **fFkad bdoy] fcYM LekVZ] buksosV QkWj psat** fo’k; ij 
+,d iSuy fopkj&foe”kZ fd;k x;k ftlds Ik”pkr vkeaf=r okrkZ dh xbZA ;g iSuy fopkj&foe”kZ MkW- fdj.k 
+dqekj vkj- ghjseB] lgk;d izk/;kid] Hkk-izkS-la- tks/kiqj }kjk lqJh fu”kk tkSgjh] ekdsZfVax ,aM izksMDV 
+MoyiesaV] tkSgjh fMftVy gsYFk ds;j fyfeVsM dh funs”kd] MkW- ¼lqJh½ fyfidk Ms] iz/kku oSKkfud Vhlh,l 
+buksos”ku ySCl] ubZ fnYyh] izksQslj “kkaruq pkS/kjh] funs”kd] Hkk-izkS-la- tks/kiqj vkSj ladk; lnL;ksa uker% MkW- 
+lEufork iky] MkW- lqf‘erk >k- MkW- jkty{eh pkSgku vkSj MkW- fdj.k dqekj vkj- ghjseB ds lkFk izLrqr fd;k 
+x;kA fiz;dk “kekZ] r`rh; o’kZ ch-Vsd Nk= us bl volj ij muds }kjk fy[kh xbZ ,d dfork lqukbZA MkW- 
+¼lqJh½ fyfidk Ms] iz/kku oSKkfud] Vhlh,l buksos”ku ySCk] ubZ fnYyh us ubZ egRodka{kkvksa vkSj iqjkuh ck/kkvksa 
+ds chp efgykvksa ds la/k’kZ ij vk/kkfjr ,d ukVd i<+dj lquk;kA rRi”pkr izksQslj “kkaruq pkS/kjh] funs”kd] 
+Hkk-izkS-la- tks/kiqj us ,df=r yksxksa dk Lokxr fd;k RkFkk bl volj ij vius fopkj lk>k fd;sA var esa 
+izksQslj fdj.k dqekj ghjseB] lnL;] efgyk izdks’B] Hkk-izkS-la- tks/kiqj us /kU;okn izLrko fd;kA
+varjkZ’Vªh; efgyk fnol lekjksg ds nkSjku iSuy
+izksQslj “kkarquq pkS/kjh] eq[; vfrfFk lqJh fu”kk tkSgjh dks
+izrhd fpUg HksaV djrs gq,
+
+( 1) [ksydwn lkls k;Vh
+1- laLFkku ds lHkh Nk=ksa esa lg;ksx] HkkbZpkjs vkSj lkekftd tqM+ko dh Hkkouk dks cuk;s j[kuk] rFkk 
+2- Nk=ksa dh lexz ekufld] “kkjhfjd] lkekftd vkSj lkaL—frd mUufr ds fy, Lo;a Lo”kklu djus vkSj
+l`tukRed xfrfof/k;ksa dk vk;kstu djus gsrq ,d eap iznku djukA
+blh izdkj LVwMsaV jsXVk ds tfj;s Nk=kokl Lrj ij Nk= xfrfof/k;ksa dk vk;kstu fd;k tkrk gSA
+vkSj os Nk= thou ds nkSjku lnSo bldk vuqikyu djus ds izfr lger gksrs gSaA Nk= fte[kkuk 7 Nk= 
+lkslk;fV;ksa ds ek/;e ls viuh xfrfof/k;ksa dk vk;kstu djrk gS vkSj bl Øe esa izR;sd lkslk;Vh esa dbZ Dyc 
+“kkfey gksrs gSaA dksbZ lkslk;Vh Nk=ksa dk ,d fo’k;xr leqnk; gksrk gS tks Nk=ksa ds chp ml fo’k; ds mn~ns”; 
+dks vkxs c<krk gSA ;s lkslk;Vh Nk=ksa ds fofo/k fgrksa d¨ iwjk djrh gS vkSj muds lexz fodkl esa ;ksxnku nsrh 
+gSaA ;s lkr lkslk;fV;ka fuEu gSaA 
+1- [ksydwn lkslk;Vh] 
+2- lkaL—frd ,oa lkfgfR;d lkslk;Vh] 
+3- fMtkbu vkSj dyk lkslk;Vh 
+4- foKku vkSj izkS|ksfxdh lkslk;Vh 
+5- “kSf{kd vkSj dSfj;j lkslk;Vh]
+6- dSEil ykbZQ lkslk;Vh] vkSj 
+7- pqus x;s izfrfuf/k;ksa dh lkslk;Vh
+lkslk;fV;ksa dk lapkyu Nk= lfpoksa vkSj izR;sd lkslk;Vh ds fy, ladk; lykgdkj dh lgk;rk ls fd;k 
+tkrk gSA
+[ksydwn vlk/kkj.k ,FkyhV rS;kj djrs gSa vkSj os fouez ekuoksa dk iks’k.k dj ldrs gSa ftUg¨aus fuEu dk
+1- thr dk fouezrk ls lkeuk djuk vkSj lEeku ds lkFk gkj dk Lokxr djuk lh[kus dh “kkyhurk( vkSj 
+2- Vhe odZ dk cgqxq.kk izHkkoA
+[ksydwn lkslk;Vh dk [ksydwn ds fy, dSEil dh leqnk; lqfo/kk,a iznku djrs gq, bl Hkkouk ds lao/kZu ds 
+y{; ds lkFk xBu fd;k x;k gSA bl lkslk;Vh dk mn~ns”; izR;sd Nk= ds thou esa bls vfuok;Z Hkkx ds :Ik 
+esa lekfgr djuk gSA ;g lkslk;Vh lHkh [ksyksa ¼izfrLi/kkZ] Lo&euksjatu rFkk buds lfeJ.k ds lkFk vkSipkfjd 
+fu;eksa ds lger lsV ds varxZr lapkfyr vkSipkfjd “kkjhfjd xfrfof/k;ka½ vkSj dwn ¼euksjatu ds y{; ds lkFk 
+vukSipkfjd fu;eksa ds ijLij lger lsV ds varxZr lapkfyr vukSipkfjd “kkjhfjd xfrfof/k;ka½ dk laLFkku ds 
+Lrj ij lapkyu djrk gSA bldh v/;{krk Nk= lfpo ¼[ksydwn lkslk;Vh½ }kjk dh tkrh gS vkSj bldh lnL;ksa 
+esa fuEu “kfey gksrs gSa%
+1- fofHkUu [ksydwn ds fy, laLFkku dh Vheksa ds dIrku( vkSj 
+2- lHkh Nk=koklksa ds Nk= lfpo ¼[ksydwn lkslk;Vh½A
+Hkk-izkS-la- tks/kiqj dh [ksy lkslk;Vh Nk= fte[kkuk vkSipkfjd :Ik ls mu lHkh Nk= [ksydwn dks viukrh gS 
+ftUgsa okf’kZd varj& Hkk-izkS-la- Nk= [ksy izfr;ksfxrk esa “kkfey fd;k tkrk gSA bu [ksyksa esa “kkfey gSa% ,DosfVd]
+
+¼ 3½ fMtkbuZ vkSj dyk lkslk;Vh
+Nk= lkaL—frd ,oa lkfgfR;d xfrfof/k;ka ns”k ds vlk/kkj.k ukxfjd rS;kj djrh gS vkSj os Kkuoku
+,oa dq”ky ekuoksa dks iks’k.k dj ldrh gS ftUgksaus fuEu dk varjkZ’Vªh;dj.k fd;k gS%
+1- lHkh ds fy, lEeku ds lkFk Hkkjr dh fofo/k laL—fr;ka( vkSj 
+2- nwljksa ds lkFk lk>kk djus dh bPNk ds lkFk Hkkjr dh ikjaifjd ,oa vk/kqfud lkfgR; dh xgurkA
+bl Hkkouk ds lao/kZu ds y{; ds lkFk Hkk-izkS-la- tks/kiqj dk Nk= fte[kkuk lkaL—frd ,oa lkfgfR;d xfrfof/k;ksa 
+ds fy, dSEil leqnk; lqfo/kk,a iznku djrk gSA Hkk-izkS-la- tks/kiqj dh Nk= lkaL—frd ,oa lkfgfR;d lkslk;Vh 
+dk mn~ns”; izR;sd Nk= ds thou esa bls vfuok;Z Hkkx ds :Ik esa lekfgr djuk gSA 
+ ;g lkslk;Vh laLFkku ds Lrj ij lHkh lkaL—frd ,oa lkfgfR;d xfrfof/k;ksa dk lapkyu djrh gSA bldh 
+v/;{krk Nk= lfpo ¼ lkaL—frd ,oa lkfgfR;d lkslk;Vh½ }kjk dh tkrh gS vkSj blds lnL;ksa esa “kkfey gksrs 
+gSa%
+1- fofHkUu lkaL—frd ,oa lkfgfR;d xfrfof/k;ksa dh laLFkku dh lHkh Vheksa ds dIrku vkSj 
+2- lHkh Nk=koklksa ds Nk= lfpo ¼ lkaL—frd ,oa lkfgfR;d lkslk;Vh½A
+Hkk-izkS-la- tks/kiqj dh Nk= fte[kkuk lkaL—frd ,oa lkfgfR;d lkslk;Vh vkSipkfjd :Ik ls mu lHkh Nk= lkaL—
+frd ,oa lkfgfR;d xfrfof/k;ksa dks viukrh gS ftUgsa okf’kZd varj& Hkk-izkS-la- Lrj rFkk vU; jk’Vª Lrjh; lkaL—
+frd ,oa lkfgfR;d mRloksa esa “kkfey fd;k tkrk gSA buesa “kkfey gS Nk= laxhr xfrfof/k;ka] Nk= iz”u eap 
+xfrfof/k;ka] Nk= iqLrd xfrfof/k;ka vkSj ,d Dyc izR;sd ds :Ik esa Nk= lekpkj i= xfrfof/k;kaA
+fMtkbZu vkSj dyk xfrfof/k;ka ns”k ds dq”ky ukxfjd iznku djrh gS vkSj os dykRed ,oa dq”ky ekuoksa
+dks iks’k.k dj ldrh gS ftUgksus fuEu dk varjkZ’Vªh;dj.k fd;k gS%
+1- lHkh ds fy, leku lEeku ds lkFk Hkkjr dh fofo/k l`tukRed dyk vkSj f”kYi dyk rFkk 
+2- nwljksa ds lkFk lk>kk djus dh bPNk ds lkFk Hkkjr dh ikjEifjd ,oa vk/kqfud fMtkbZuksa dh xgurkA
+bl Hkkouk ds lao/kZu ds y{; ds lkFk Hkk-izkS-la- tks/kiqj dk Nk= fte[kkuk dSEil ds leqnk; dks lkaL—frd 
+,oa lkfgfR;d xfrfof/k;ksa ds fy, lqfo/kk,a iznku djrk gSA Hkk-izkS-la- tks/kiqj dh Nk= fMtkbZu vkSj dyk 
+lkslk;Vh dk mn~ns”; izR;sd Nk= ds thou ds vfuok;Z Hkkx ds :Ik esa bls lekfgr djuk gSA
+;g lkslk;Vh laLFkku ds Lrj ij lHkh fMtkbZu vkSj dyk xfrfof/k;ksa dk lapkyu djrh gSA bldh v/;{krk
+Nk= lfpo ¼ fMtkbZu vkSj dyk lkslk;Vh½ }kjk dh tkrh gS vkSj blds lnL;ksa esa “kkfey gSa%
+1- fofHkUu fMtkbZu vkSj dyk xfrfof/k;ksa dh laLFkku dh lHkh Vheksa ds dIrku vkSj 
+2- lHkh Nk=koklksa ds Nk= lfpo ¼ fMtkbZu vkSj dyk lkslk;Vh½A
+Hkk-izkS-la- tks/kiqj dh fMtkbZu vkSj dyk lkslk;Vh Nk= fte[kkuk vkSipkfjd :Ik ls fMtkbZu vkSj dyk dh lHkh 
+Nk= xfrfof/k;ksa dks viukrh gS ftUgsa okf’kZd varj& Hkk-izkS-la- Lrj vkSj vU; jk’Vª Lrjh; Nk= fMtkbZu vkSj 
+dyk mRloksa esa “kkfey fd;k tkrk gSA buesa “kkfey gSa Nk= ,fues”ku xfrfof/k;ka] Nk= fMtkbZu xfrfof/k;ka]
+
+¼ 4½ foKku vkSj izkS|ksfxdh lkls k;Vh
+¼ 5½ “kSf{kd vkSj dSfj;j lkslk;Vh
+Nk= QkbZu vkVZ xfrfof/k;ka] Nk= ,Q,e jsfM;ks xfrfof/k;ka] Nk= QksVksxzkQh] Nk= ehfM;k vkSj Dyc ds :i esa 
+flueSVksxzkQhA
+foKku vkSj izkS|ksfxdh xfrfof/k;ka ns”k ds dq”ky ukxfjd iznku djrh gS vkSj os dykRed ,oa dq”ky
+ekuoksa dks iks’k.k dj ldrh gS ftUgksus fuEu dk varjkZ’Vªh;dj.k fd;k gS%
+1- foKku dk fnypLi tknw vkSj ewy] ,Iyk;M rFkk yf{kr “kks/k dk egRo( vkSj 
+2- jk’Vª dh HkykbZ ds fy, izkS|ksfxdh fodkl dh pqukSfr;kaA
+Hkk-izkS-la- tks/kiqj ds Nk= fte[kkuk dk y{; foKku vkSj izkS|ksfxdh xrfof/k;ksa gsrq dSEil leqnk; lsokvksa dks 
+iznku djrs gq, foKku vkSj izkS|ksfxdh ds izfr bl ftKklk dk lao/kZu djuk gSA Hkk-izkS-la- tks/kiqj dh Nk= 
+foKku vkSj izkS|ksfxdh lkslk;Vh dk mn~ns”; laLFkku ds izfr Nk= ds vfuok;Z izf”k{k.k ds :Ik esa bls lekfgr 
+djuk gSA
+;g lkslk;Vh laLFkku ds Lrj ij lHkh foKku vkSj izkS|ksfxdh xfrfof/k;ksa dk lapkyu djrh gSA bldh
+v/;{krk Nk= lfpo ¼ oKku vkSj izkS|ksfxdh lkslk;Vh½ }kjk dh tkrh gS vkSj blds lnL;ksa esa “kkfey gSa%
+1- fofHkUu foKku vkSj izkS|ksfxdh xfrfof/k;ksa dh laLFkku dh lHkh Vheksa ds dIrku vkSj 
+2- lHkh Nk=koklksa ds Nk= lfpo ¼foKku vkSj izkS|ksfxdh lkslk;Vh½A
+“kSf{kd vkSj dSfj;j laLFkku esa Nk=ksa dh mifLFkfr ds nks ewy vk/kkj gSaA izR;sd Nk= ls fuEu ds
+1- iath—r dk;ZØe ds fo’k; esa ewy n{krk ¼Kku] dkS”ky vkSj o`fRr½( vkSj 
+2- ukSdjh vkSj dSfj;j ds chp fHkUurk ij Li’Vrk rFkk v/;;u ds fy, pqus x;s fo’k; esa lqfu;ksftr dSfj;j ds
+Hkk-izkS-la- tks/kiqj ds Nk= fte[kkuk dk y{; “kSf{kd vkSj dSfj;j lkslk;Vh ds ek/;e ls izfrfuf/kRo dk ra= 
+iznku djds f”k{kk dh izfØ;k ds nkSjku mudh bPNvksa] dfBukbZ;ksa vkSj fparkvksa dks O;Dr djus ds fy, Nk=ksa 
+dks ,d eap iznku djuk gSA Hkk-izkS-la- tks/kiqj dh Nk= “kSf{kd vkSj dSfj;j lkslk;Vh dk mn~ns”; laLFkku ds 
+“kSf{kd dk;kZy; ds ek/;e ls “kSf{kd dk;ZØeksa] ikB~;p;kZ] f“k{k.k vkSj volajpuk ds laca/k esa fopkj iznku djrk 
+gSA 
+;g lkslk;Vh laLFkku ds Lrj ij lHkh “kSf{kd vkSj dSfj;j xfrfof/k;ksa dk lapkyu djrh gSA bldh v/;{krk 
+Nk= lfpo ¼“kSf{kd vkSj dSfj;j lkslk;Vh½ }kjk dh tkrh gS vkSj blds lnL;ksa esa “kkfey gSa%
+1- fofHkUu “kSf{kd vkSj dSfj;j xfrfof/k;ksa dh laLFkku dh lHkh Vheksa ds dIrku vkSj
+
+¼ 6½ dSEil ykbZQ lkls k;Vh
+2- lHkh Nk=koklksa ds Nk= lfpo ¼“kSf{kd vkSj dSfj;j lkslk;Vh½A
+Nk=ksa ds dSEil HkkbZpkjs esa laLFkku esa thou ds “kSf{kd Lrj ds fuekZ.k ds mn~ns”; ls ijs Nk= ds thou
+1- Nr vkSj Hkkstu dh ewyHkwr vko”;drk,a vkSj 
+2- Lkqj{kk] LokLF; rFkk LoPNrk
+Nk=ksa dks okLrfod thou dk vuqHko izkIr djus vkSj ifjlj esa Nk=ksa ds lexz thou dh xq.koRrk esa lq/kkj gsrq 
+eap iznku djus ds fy, dSEil ykbZi lkslk;Vh dk xBu fd;k x;k FkkA lkFk gh Hkk-izkS-la- tks/kiqj dk Nk= 
+fte[kkuk rFkk Nk= jsxVk vko”;d laidZ vkSj vuqHko iznku djus esa lgk;rk iznku djrk gSA rkfd laLFkku 
+ls Lukrd gksus ds Ik”pkr dSfj;j pquus vkSj mldh rS;kjh esa lqfopkfjr fu.kZ; Nk= ys ldsaA Nk= dSEil ykbZQ 
+lkslk;Vh lfØ; :Ik ls laLFkku ds Nk= dk;kZy; ds lkFk dke djrh gSA 
+ ;g lkslk;Vh laLFkku ds Lrj ij Nk= dSEil ykbZQ ls lacaf/kr lHkh xfrfof/k;ksa dk dk;Z djrh gSA bldh 
+v/;{krk Nk= lfpo ¼dSEil ykbZQ lkslk;Vh½ }kjk dh tkrh gS vkSj blds lnL;ksa esa “kkfey gksrs gSa%
+1- fofHkUu Nk= dSEil ykbZQ lkslk;Vh dh laLFkku dh lHkh Vheksa ds dIrku vkSj 
+2- lHkh Nk=koklksa ds Nk= lfpo ¼ dSEil ykbZQ lkslk;Vh½ 
+3- ladk; lnL; ijke”kZnkrk 
+4- deZpkjh lnL; ijke”kZnkrk vkSj 
+5- ofj’B Nk= ijke”kZnkrk
+Hkk-izkS-la- tks/kiqj dh dSEil ykbZQ lkslk;Vh Nk= fte[kkuk vkSipkfjd :Ik ls “kSf{kd vkSj dSfj;j dh lHkh 
+Nk= xfrfof/k;ksa dks viukrh gS ftuesa “kkfey gSa Nk= yhxslh dk;Zdyki] Nk= “kgj VwfjLV lsok,a] Nk= Hkkstu 
+lsok,a] Nk= vukSipkfjd dk;ZØe] Nk= fidfud vkSj Dyc ds :Ik esa lkekftd lsok dk;ZdykiA
+pqus x;s Nk= izfrfuf/k laLFkku ds lkFk Nk=ksa ds voLFkkukRed baVjQsl dk xBu djrs gSa rkfd v/;;u
+vkSj dSEil esa thou ds lHkh vk;keksa esa ifjfLFkfr;ksa dks csgrj cuk;k tk lds vkSj Nk=ksa ds Lo;a vkSj ,d 
+leqnk; ds :Ik esa vkpj.k ds laLFkkxr rjhdksa dks lh[kk vkSj mUgsa viuk;k tk ldsA pqus x;s Nk= izfrfuf/k;ksa 
+dh lkslk;Vh lfØ; :Ik ls Mhu ¼Nk=½ ds lkFk dk;Z djrh gSA
+;g lkslk;Vh laLFkku ds Lrj ij izR;sd lewg ls fof”k’V lHkh Nk= ekeyksa ¼dk;ZØe okj vkSj o’kZ okj½
+dk dk;Z djrh gSA Nk= pquko vkSj Nk= vkpj.k xfrfof/k;ka bl pqus x;s Nk= izfrfuf/k lkslk;Vh ds eq[; 
+dk;Zdyki gSaA bldh v/;{krk pqus x;s Nk= izfrfuf/k lkslk;Vh ¼,lbZvkjlh½ ds Nk= lfpo }kjk dh tkrh gS 
+vkSj blesa Nk=ksa ds izR;sd lewg ds lHkh pqus x;s lHkh Nk= izfrfuf/k “kkfey gksrs gSaA
+
+Nk= mRlo vkSj dk;ZØe
+laLFkku dk Nk= fte[kkuk nksgjs mn~ns”; ds lkFk dk;ZØeksa dk vk;kstu djrk gSA ,d vksj ;s
+dk;ZØe Nk=ksa dks muds vkjke ds ?kaVksa ds nkSjku l`tukRed dk;Z esa “kkfey gksus esa lgk;d gksrs gSa ftlls 
+muesa dkS”ky vkSj :fp dk fuekZ.kgksrk gSA lkFk gh nwljh vksj ;s dk;ZØe Nk=ksa dks Lo;a dks laxfBr djus 
+vkSj vU;ksa ds fy, mR—‘Vrk dk eap iznku djus esa lgk;d gksrs gSaA
+fte[kkuk fnol ds vk;kstu ds vfrfjDr Nk= fte[kkuk }kjk vk;ksftr dk;ZØe nks fo’k;ksa esa ns[ks
+tk ldrs gSa] uker%] 
+1- varj&laLFkku mRlo vkSj VwukZesaV( vkSj 
+2- varj&laLFkku mRlo vkSj pSfEi;uf”ki
+izR;sd o’kZ dh Hkkafr foRrh; o’kZ 2018&19 ds nkSjku Hkh Nk= ÅtkZ vkSj igy ls ifjiw.kZ ,d laL—fr
+dk iks’k.k djus esa lQy jgsA mUgksaus dk;ZØeksa dks vk;kstu fd;k gS ftUgkSaus muds chp lapkj vkSj tqM+ko 
+ds ek/;e ls :Ik esa dk;Z fd;k gSA izeq[k mRloksa tSls fd tUek’Veh] x.ks”k prqFkhZ] uojkf=] fnokyh] laØkafr] 
+bZn vkSj gksyh dk vfr mRlkg ds lkFk vk;sktu fd;k x;kA [ksy Hkkouk ds izksRlkgu gsrq [ksy xfrfof/k;ksa 
+dk fu;fer :Ik ls vk;kstu fd;k x;k ftuesa ladk; lnL;ksa }kjk lgk;rk iznku dh xbZA
+nkSjku Hkk-izkS-la- tks/kiqj esa vk;kstu fd;k x;kA bls VSDuksQsLV esa dbZ rduhdh dk;ZØe “kkfey Fks ftuesa 
+fofHkUu laLFkkvksa ds izfrfuf/k;ksa us Hkkx fy;kA bl dk;ZØe esa fofHkUu jk’Vªh; vkSj varjkZ’Vªh; dykdkjksa }kjk 
+izn”kZu Hkh “kkfey FkkA
+
+Nk= lEeku
+foRrh; o’kZ 2018&19 ds nkSjku laLFkku ds Nk=ksa us fofHkUu lEeku izkIr fd;sA
+1- baVj&vkbZvkbZVh Vsd ehV 2018% 32 Nk=ksa ds tRFks us Hkk-izkS-la- eqEcbZ esa vk;ksftr baVj&vkbZvkbZVh
+Vsd ehV 2018 esa Hkkx fy;k vkSj ,d Li.kZ ind rFkk 2 dkaL; ind thrsA Lo.kZ ind bosaV 
+chbZVhvkbZlh buksos”ku pSysat esa thrk x;k] bl Vhe esa /kzqo —‘.k] veu xks;y] iq’iad dVkjs] nhid 
+vjtkfj;k] “kqHke lqjs”k xVkuh] HkkLdj fot;] eqds”k “kekZ vkSj vk”kqrks’k ikaMs “kkfey FksA dkaL; ind 
+dSEil lLVsusfcfyVh pSysat esa thrk x;k] bl Vhe ds ijke”kZnkrk MkW- fjrq xqIrk Fkh vkSj blesa dqynhi 
+flag tkaxhM+] Js;l egktu] oSHko feJk] v{k pksjfM;k] fuf[ky JhokLro] vk;Zu flag] f”kokax [kaMsyoky] 
+lafpr rikfM+;k] ih;q’k dqekj vkSj l{ke lat; caxk “kkfey FksA ,d vU; dkaL; ind dksfMax gSdkFku 
+esa thrk x;k] bl Vhe esa vtr izHkk] lkfgy gjh”k c=k] vfHkuo lqFkj] l{ke lat; caxk “kkfey FksA 
+Vsd ehV esa Hkk-izkS-la- tks/kiqj dk lexz LFkku lHkh izfrHkkxh Hkk-izkS-la- esa 10oka FkkA
+2- Mh,lVh vkSj VhbZ bafM;k buksos”ku pSysaTk fMtkbZu izfrLi/kkZ ¼vkbZvkbZlhMhlh½ 2018% gekjh nks Vhe
+Mh,lVh vkSj VhbZ bafM;k buksos”ku pSysaTk fMtkbZu izfrLi/kkZ ¼vkbZvkbZlhMhlh½ 2018 ds DokVZj Qkbuy 
+ds fy, DokyhQkbZ gqbZ gSaA bu Vheksa esa bZ”kku ftany] vafdr feRry] vgZe pksjfM;k] v{k; xks;y vkSj 
+vfues’k dqekj flag ¼muds vkVksesfVM DokfyVh daVªksy vkWQ ØkIl izkstsDV ds fy,½ vkSj dUuuh 
+vfy’kdqekj gjs”k dqekj] p{kq xqIrk] fl)kar Jhdkar lksth] lqeUFk ;w vkSj l`tu vxzoky ¼us=ghuksa ds 
+fy, us=&baMksj usohxsVj laca/kh muds izkstsDV ds fy,½ “kkfey FksA vkbZvkbZlhMhlh ds bl laLdj.k 
+esa Hkkjr ds lHkh jkT;ksa dh 10]146 Vheksa ds 26]511 Nk=ksa dh Hkkxhnkjh ns[kh xbZA gekjh nks Vhesa mu 
+346 Vheksa esa “kkfey Fkh tks DokVZj QkbZuy jkmaM esa vkxs tk,axhA
+3- ,lh,e vkbZlhihlh {ks=h; nkSj% gekjs laLFkku dh rhu Vhesa ,lh,e vkbZlhihlh {ks=h; nkSj esa DokfyQkbZ
+gqbZ ftuesa ls vuqjkx “kkg] l`tu vxzoky vkSj “kaHkw flag dks “kkfey djrs gq, Vhe us {ks=h; nkSj esa 
+30 jSad izkIr fd;kA
+4- vkbZbZbZbZ flXuy izkslsflax lkslk;Vh ;k=k vuqnku 2018% gekjs nks ih,p-Mh Nk=ksa us vkbZbZbZbZ flXuy
+izkslsflax lkslk;Vh ds nks izeq[k varjkZ’Vªh; lEesyuksa esa Hkkx ysus ds fy, vkbZbZbZbZ flXuy izkslsflax 
+lkslk;Vh ;k=k vuqnku 2018 ds Hkkx ds :Ik esa 1000 MkWyj izkIr fd;sA fgrs’kh tSu ¼ih,p-Mh Nk=] 
+lh,lbZ½ dks xzhl esa best izkslsflax laca/kh vkbZbZbZbZ varjkZ’Vªh; lEesyu ¼vkbZlhvkbZih½ 2018 esa Hkkx 
+ysus ds fy, ;k=k vuqnku izkIr fd;k x;k vkSj nhid ¼ih,p-Mh Nk=] bZbZ½ us dSfyQksfuZ;k] ;w,l, esa 
+flXuy ,oa lwpuk izkslsflax laca/kh vkbZbZbZbZ oSf”od lEesyu ¼Xykscy ,lvkbZih½ 2018 esa Hkkx ysus ds 
+fy, ;k=k vuqnku izkIr fd;kA
+5- vkfnR; jkt] ih,p-Mh Nk= tks vfuy dqekj frokjh] lgk;d izk/;kid] fo|qrh; vfHk;kaf=dh foHkkx
+ds Ik;Zos{k.k ds rgr dk;Z dj jgs gSa] dks iz[;kr U;qVu HkkHkk ih,p-Mh IyslesaV dk;ZØe 2019 ds fy, 
+pquk x;k gSA bl dk;ZØe ds varxZr os 4 ekg dh vof/k ds fy, izksQslj ekfj;k th-ekfVZuh ds 
+Ik;Zos{k.k ds varxZr fdaXlVu ;wfuoflZVh] yanu esa foftfVax “kks/kdrkZ ds :Ik esa dk;Z djsaxsA mudk 
+nkSjk tSo izkS|ksfxdh foHkkx ¼MhchVh½] Hkkjr vkSj fczfV”k dkmafly] ;wds }kjk foRriksf’kr gSA
+caxyq: esa vk;ksftr ekbØkslkW¶V ,,Dl,ybZ 2019 esa r`rh; iqjLdkj izkIr fd;kA muds izkstsDV esa 
+mUgksaus ,d forfjr vkbZvksVh vk/kkfjr gy fodflr fd;k ftls fdlh Hkou ds fcu d{kksa esa rSukr 
+fd;k tk ldrk gS vkSj ;g “kq:vkrh psrkouh iz.kkyh ds :Ik esa dk;Z djrk gS vkSj vkink dk irk 
+yxkus ds fy, lko/kkuh ds dne mBkrk gSA mnkgj.k ds fy, ;fn HkwdEi dk irk yxrk gS rks ;g 
+ikuh] xSl vkSj ikWoj dh vkiwfrZ dks can dj nsxkA mUgksusa ,d ,slh ,Iyhds”ku Hkh rS;kj dh tks Ropk 
+ds jksxksa dk irk yxk ldrh gS vkSj mudk funku dj ldrh gSA
+7- vCnqy xQwj “kSd] fo|qrh; vfHk;kaf=dh foHkkx ds lkFk dk;Zjr es?kk flag] ih,p-Mh Nk= us 1&2 twu]
+2018 dss nkSjku ,uvkbZVh] es?kky; }kjk vk;ksftr nwljs varjkZ’Vªh; ÅtkZ] ikWoj vkSj Ik;kZoj.k ¼LekVZ
+
+VSDuksykWth dh vksj½ lEesyu esa “kks/k ys[k **yksds”ku vkWQ fMQsfDVo fc;fjax bu Fkzh&Qst baMD”ku 
+eksVj ;wftax LVksdosy VªkalQksZe ,aM liksVZ osDVj e”khu** ds fy, ikWoj flLVe vkSj LekVZ fxzM dk 
+irk yxkus esa loksZRre ys[k iqjLdkj izkIr fd;kA
+8- vfuy dqekj frokjh] lgk;d izk/;kid] fo|qrh; vfHk;kaf=dh foHkkx ds lkFk dk;Zjr rq’kkj f”kans]
+ih,p-Mh Nk= dks ,Fksal] xzhl esa 7&10 vDrwcj 2018 ds nkSjku vk;ksftr best izkslsflax laca/kh IEEE 
+varjkZ’Vªh; lEesyu ¼vkbZlhvkbZih 2018½ esa muds “kks/k dk;Z ds laca/k esa mR—‘V Hkk’k.k ds fy, rhu 
+feuV dh fFkfll izfr;ksfxrk esa 1500 MkWyj dk fotsrk iqjLdkj iznku fd;k x;kA
+9- vuU;k nscukFk] lgk;d izk/;kid] jlk;u foHkkx ds lkFk dk;Zjr vfHkuo JhokLro] ih,p-Mh Nk=
+us Hkkjrh; izkS|ksfxdh laLFkku :M+dh esa 6&9 fnlEcj 2018 ds nkSjku vk;ksftr varjkZ’Vªh; dEI;qVs”kuy 
+¶ywbM lEesyu ¼dkEi¶yw&2018½ esa vius “kks/kdk;Z ds fy, jkW;y lkslk;Vh vkWQ dSfeLVªh ls loksZRre 
+iksLVj iqjLdkj izkIr fd;kA
+10- g’kZdkS”ky deys”k xka/kh] f}rh; o’kZ ch-Vsd ¼fo|qrh; vfHk;kaf=dh½ Nk= dks iksLVj izLrqfr esa mR—‘Vrk
+iqjLdkj iznku fd;k x;k gSA mUgsa ih;kyh fc”okl] fo’.kq ih- ikWy vkSj izks- lkseukFk ?kkS’k }kjk la;qDr 
+:Ik ls fyf[kr Vkbe&Mk;ukfed xsu&ykWl vflfLVM ehfM;k ds ek/;e ls “kh’kZd vkfLefVªd iYl 
+izksisxs”ku ys[k ds fy, iz”kfLr i= vkSj 10000 :- iznku fd;s x;s gSA mUgsa ;s iqjLdkj Hkk-izkS-la- 
+fnYyh esa 12&15 fnlEcj] 2018 dks vk;ksftr varjkZ’Vªh; lEesyu QksVksfuDl 2018% varjkZ’Vªh; QkbZcj 
+vkfIVDl vkSj QksVksfuDl lEesyu ds nkSjku iznku fd;s x;sA
+
+Nk= ijke”kZ lsok
+djus dk iz;kl djrh gS fd izR;sd Nk= dks laLFkku ds tfVy fooj.k izkIr gksa vkSj ;g Nk=ksa dh laLFkku 
+}kjk l`ftr lHkh voljksa dk ykHk mBkus esa lgk;rk iznku djrh gSA ;g u;s Nk=ksa dks muds ?kj ls laLFkku 
+rd dh ;k=k dks ;knxkj cukus esa dk;Z djrh gSA Nk= ijke”kZ lsok dk mn~ns”; u;s Nk=ksa dks dSEil esa 
+muds vkokl ds nkSjku mudh HkykbZ vkSj muds O;fDrRo vkSj oSf”od fodkl esa fe=or lgk;rk iznku djuk 
+gSA lkj :Ik ls Nk= ijke”kZ lsok rhu igyqvksa esa Nk=ksa ds fodkl dk lao/kZu djrh gS] uker% 
+d- “kSf{kd% ;g laLFkku ds fofHkUu “kSf{kd dk;ZØeksa ds ckjs esa tkudkjh iznku djrh gS vkSj l{ke le; izca/ku 
+vkSj v/;;u dkS”k 
+ 
+[k- f”k{k.ksrj xfrfof/k;ka% ;g Nk=ksa esa izfrHkk dk fodkl djus esa iz;kl djrh gS vkSj mUgsa mudh f”k{k.ksrj 
+:fp;ksa dk irk yxkus esa lgk;rk iznku djrh gSA lkFk gh ;g laLFkku ds dk;Zdykiksa ds lkFk laca/k iznku 
+djrh gS vkSj laLFkku ds laidZ gsrq ,d eap iznku djrh gS( vkSj 
+ 
+x- O;fDrxr% ;g gkse flDusl ds fo:) lgk;d gksrh gS vkSj u;s okrkoj.k ¼laLFkku esa muds fuokl ds 
+nkSjku gksus okyh fparkvksa vkSj dfBukbZ;ksa lfgr½ esa O;fDrxr ekxZn”kZu iznku djrs gq, lek;kstu esa lgk;rk 
+iznku djrh gSA lkFk gh ;g Nk=ksa dks euksoSKkfud&”kSf{kd vkSj xksiuh; lanHkZ lsok,a Hkh iznku djrh gSA 
+ 
+Nk= ijke”kZ lsok dh v/;{krk Nk= ijke”kZ lsok lfefr ds v/;{k ds :Ik esa ,d ladk; lnL; }kjk
+dh tkrh gS vkSj mudh lgk;rk ladk; lnL;ksa] deZpkjh lnL;ksa vkSj ofj’B Nk=ksa }kjk dh tkrh gSA ,d 
+iw.kZdkyhu Nk= ijke”kZnkrk xzksFk dksp] osychbax eksMjsVj vkSj lkbdksykWftdy dkmalyj dh Hkwfedk fuHkkrk 
+gSA blds vfrfjDr Nk= ijke”kZ lsok fuEu iz;kl Hkh djrh gS%
+1- jSfxx eqDr dSEil cuk;s j[kuk( 
+2- u;s Nk=ksa ds fy, laLFkku ls ifjfpr gksus ds fy, vfHkeq[kh dk;ZØe dk vk;kstu djuk( 
+3- fuEu fo’k;ksa ij ysDpj vkSj izf”k{k.kksa dk vk;kstu djuk( ¼d½ dSfj;j dkmalfyax] ¼[k½ ruko izca/ku]
+¼x½ VkbZe eSustesaV] ¼?k½ LokLF; ns[kHkky vkSj LOkPNrk] ¼M+½ O;kolkf;d izf”k{k.k] ¼p½ laca/k] ¼N½ gkse 
+fldusl dk eqdkcyk djuk ¼t½ vknr vkSj vU; rFkk iz[;kr oDrkvksa }kjk izsjd ysDpj(
+4- Nk=ksa ds “kSf{kd eqn~nksa dks gy djuk mnkgj.k [kjkc “kSf{kd izn”kZu] ewy vkbZVh dkS”ky vkSj xSj&vaxzsth
+5- fHkUu o’kksZa ds Nk=ksa vksj deZpkfj;ksa rFkk ladk; lnL;ksa ds chp laca/kksa dks izksRlkfgr djus ds fy,
+dk;ZØeksa dk vk;kstu djukA
+efgyk izdks’B }kjk foRrh; o’kZ 2018&19 ds nkSjku fuEufyf[kr xfrfof/k;ksa dk vk;kstu fd;k x;kA
+
+vfHkeq[kh dk;ZØe 2018 dk vk;kstu 23&29 tqykbZ] 2018 ds nkSjku fd;k x;kA Nk=ksa dk dkWyst
+esa Lokxr djrs gq, vkSj Ldwy ls dkWyst esa muds ikjxeu dks lqdj cukrs gq, lIrkg Hkj dh euksjatd 
+xfrfof/k;ksa dk vk;kstu fd;k x;kA vfHkeq[kh lIrkg esa “kkfey Fks vfrfFk oDrk vjfoan Hkê vkSj lferk 
+etwenkj }kjk izsjd okrkZ] esgjkux<+ fdys esa ,d euksjatd ;k=k] tks/kiqj ds utnhd ds xkao esa fofHkUu 
+ljdkjh Ldwyksa esa lkekftd vfHk;ku “kkfey FksA vjfoan HkV~V] funs”kd] laokn us Nk=ksa dks leL;kvksa ds 
+LFkku ij pquko ij /;ku dsafnzr djus dh lykg nhA mUgksaus dgk fd nwljksa dh iz”kalk mudh vkykspuk u 
+djuk vkSj vius fgrdkjh O;fDr;ksa ls vkykspuk dk Lokxr djuk pkfg,A Nk= ijke”kZ lsok us lhek lqj{kk 
+cy ¼lhlqc½ ds leUo; ls 7 vxLr] 2018] 18 vxLr] 2018 vkSj 23 flrEcj] 2018 dks u;s izos”k ysus okys 
+Nk=ksa ds fy, tSlyesj vkSj Hkkjr&ikd lhek dh ;k=k dk vk;kstu fd;kA vfer ykS<k] vkbZih,l vf/kdkjh 
+us mudh ;k=k ds nkSjku Nk=ksa dks lacksf/kr fd;k rFkk mUgsa Hkkjr dk ns”kHkDr ukxfjd cuus ds fy, izsfjr 
+fd;kA
+vfHkeq[kh lIrkg ds nkSjku Lokxr dk;ZØe 
+vfHkeq[kh dk;ZØe ds nkSjku ;ksx l=
+Nk= ijke”kZ Vhe dk lkewfgd QksVks 
+vfHkeq[kh dk;ZØe ds nkSjku oDrk
+Hkk-izkS-la- tks/kiqj esa 21 flrEcj 2018 dks fo”o —rKrk fnol dk vk;kstu fd;k x;kA bu
+xfrfof/k;ksa esa lks”ky ehfM;k iksLV] jkbZM vkSj vksiu fed dh J`a[kyk ds lkFk ,d dkuhZoky “kkfey FkkA
+
+dSEil ijke”kZ dk;ZØe 
+ 
+ 
+laLFkku us u, Nk=ksa ds fy, ,d dSEil ijke”kZ dk;ZØe izkjEHk ftlesa ladk; lnL;] deZpkjh lnL;
+vkSj ofj’B Nk= izR;sd u;s Nk= dh fuEu ds izfr lgk;rk iznku djrs gS% 
+d- ?kj ls nwj Nk=kokl dh thou esa rFkk mlds “kSf{kd thou esa lek;kstu] vkSj 
+[k- Nk=ksa ds lkFk rFkk mlds ifjokj ds lnL;ksa@vfHkHkkodksa ds lkFk laidZ esa jgukA 
+ 
+ 
+;s vkWu dSEil fe= rFkk xkbZM u;s Nk=ksa dks muds O;fDrxr thou vkSj “kSf{kd thou esa lgk;rk
+rFkk izjs.kk iznku djrs gSaaA lkFk gh bl ,lksfl,”ku ds ek/;e ls ladk; lnL; Nk=ksa ds thou esa vkarfjd 
+igyqvksa dk irk yxkrs gSaA ;g laidZ f”k{kdksa vkSj Nk=ksa nksuksa ds fy, ,d leqnk; ds :Ik esa mUufr esa 
+lgk;d gksxkA blds vfrfjDr dSEil ijke”kZ dk;ZØe ;g lqfuf”pr djrk gS fd Nk=ksa ds vfHkHkkod Hkh 
+laLFkku ds lkFk laidZ dk volj izkIr djsaA
+
+Nk= IyslesaV izdks’B
+Nk= IyslesaV dk;kZy; ¼vks,lih½ Nk= dSfj;j fodkl dsanz dk xBu djus dh fn”kk esa vxzlj gS
+ftldk mn~ns”; Nk=ksa ds fy, muds LoIu dSfj;j ds lkFk rkyesy esa l{kerkvksa dk fuekZ.k djus esa vR;f/kd 
+lgk;rk iznku djrs gq, Nk=ksa ds fy, izksRlkgtud okrkoj.k dk fuekZ.k djuk gS ftlls mudk O;kolkf;d 
+txr esa lqyHk izos”k fuf”pr gks ldsA ;g izdks’B dSfj;j vk;kstuk] fofHkUu daifu;ksa ds lkFk leUo; lfgr 
+lkW¶V dkS”ky mUufr] Nk=ksa ds lkFk muds laidZ] izh&IyslesaV okrkZvksa] ijh{kkvksa] lk{kkRdkjksa rFkk IyslesaV ls 
+tqM+s dk;Zdykiksa dk izca/k ds drZO; fuHkkrk gSA
+Ok’kZ 2018&19 esa dksj&vfHk;kaf=dh lwpuk ,oa lapkj izkS|ksfxdh rFkk cSafdax {ks= esa diafu;ksa us ljdkjh
+vkSj futh {ks= ds laxBuksa us IyslesaV ds fy, Hkk-izkS-la- tks/kiqj dk nkSjk fd;kA
+2018&19 esa voj Lukrd Nk=ksa dk 'kk[kk&okj fu;kstu
+
+lh,lbZ ,ebZ bZbZ
+1. bafM;u Lisl fjlpZ vkxsZukbts”ku ¼bljks½ 1 1 2
+2. ¶;wpj QLVZ 1 1
+3. eksxZu LVsuyh 3 1 1 5
+5. bUQksfll 1 1
+6. VkVk dalyVsla h lfoZlst 3 3
+7. lkbZQj 1 1 2
+9. ,u,Vh baQksVsd 2 2
+10. yos MkVk 2 2
+13. izksVksVsd 1 1
+14. vkWy vkWu cqd 2 1 3
+15. LihMysCl 1 1
+16. bUosLVesVa ;ksMyh 1 1 2
+18. fyda ckWy bad ¼tkiku½ 1 1
+19. ,l,e,l MkVk Vds ¼tkiku½ 1 1
+20. ,y,aMVh bZlhlh 1 1 2
+22. Vhosjk ,MqVsd 1 1
+23. dSfj;j ykapj 2 1 3
+24. jts ksusla 2 2
+27. ou vflLV 1 1
+28. jko vkbZvkbZVh 1 1
+29. bZ oSY;w lsjos 2 2
+31. lhohvkj,l ,tqds”ku izkbosV fyfeVMs 1 1
+32. fnYyh jkmaM~l 1 1
+33. xksYMeus lkPl 2 1
+daifu;ksa vkSj fu;kstu dk fooj.k fuEukuqlkj gS%
+
+2. , Yxh bfDoeasV~l 1 1
+4. , y,aMVh bath 4 4
+7. , evkbZlh bathfu;fjax dkWyst 3 3
+
+iwoZ Nk= laca/k
+laLFkku dh iwoZ Nk= laca/k lfefr ¼,vkjlh½ dh ifjdYiuk mn~ns”;iw.kZ laca/kksa }kjk laLFkku ds iwoZ
+Nk=ksa ds lkFk ijLij ykHkkFkZ laca/kksa dks fuekZ.k djuk gSA ;g lfefr ,slh xfrfof/k;ksa dks leFkZ vkSj lqyHk 
+cuk;sxh tks ¼1½ gekjs iwoZ Nk=ksa dks ykHk igqapk;s ¼2½ ijLij fodkl iSnk djsa vkSj ¼3½ O;kolkf;d vkSj 
+rduhdh mR—‘Vrk dk lao/kZu djsaA
+Hkk-izkS-la- tks/kiqj vius iwoZ Nk=ksa dks Hkkjr ds izkS|ksfxdh fodkl ds vafre y{; esa Hkkxhnkjksa ds :Ik
+esa ns[krk gSA laLFkku vius iwoZ Nk=ksa dk Bksl vkSj fo”oluh; lalk/ku ds :Ik esa iks’k.k vkSj lgk;rk dh 
+vis{kk djrk gSA ,vkjlh laLFkku ds bl mn~ns”; dks lqdj cuk;sxh rFkk ,d ,sls eap ds :Ik esa dk;Z djsxh 
+tgka gekjs iwoZ Nk=] laLFkku vkSj vU; izfrHkkxh jk’Vª ds fuekZ.k ds leku y{; dks izkIr djus esa ijLij dk;Z 
+djsaA
+foRrh; o’kZ 2018&19 ds nkSjku iwoZ Nk= laca/kh lfefr }kjk vk;ksftr dh x;s dqN dk;Zyki fuEukuqlkj
+Hkkjrh; izkS|ksfxdh laLFkku tks/kiqj dk igyk iwoZ Nk= izos”k vkSj vfHkeq[kh dk;ZØe dk vk;kstu laLFkku
+ds pkSFks nh{kkar lekjksg ds Ik”pkr 25 vxLr] 2018 dh nksigj dks fd;k x;kA iwoZ Nk= laca/kh lfefr ¼,vkjlh½ 
+}kjk vk;ksftr bl dk;ZØe esa laLFkku ds u;s Lukrdksa dk lfefr ds dk;Zdykiksa ds ckjs esa vfHkeq[khdj.k fd;k 
+x;kA izksQslj lh-oh-vkj- ewfrZ] funs”kd] Hkk-izkS-la- tks/kiqj us vius mn~?kkVu Hkk’k.k esa iwoZ Nk=ksa dks iwoZ 
+Nk=&laLFkku laca/k esa viuh ek«k laLFkk ds lkFk iqu% laca/k tksM+us vkSj ijLij vkdka{kkvksa dks lkj :Ik esa crkus 
+ds fy, izksRlkfgr fd;kA izksQslj “kadj euksgju] v/;{k] ,vkjlh us iwoZ Nk= laca/k lfefr ds ekStwnk Qksdl 
+ds ckjs esa oDrO; fn;k vkSj bldh izLrkfor xfrfof/k;ksa ds ckjs esa crk;kA bl volj ij fot; dqekj ikyhoky 
+vkSj fufru oh-] 2018 rFkk 2017 ds ch-Vsd esa Øe”k% jk’Vªifr Lo.kZ ind fotsrkvksa }kjk la;qDr :Ik ls ,Y;qfeuh 
+bZU;wtysVj ds izFke laLdj.k dks tkjh fd;kA rRi”pkr iwoZ Nk=ksa ds lkFk ,d iSuy fopkj foe”kZ dk vk;kstu 
+fd;k x;kA bl iSuy esa funs”kd] Hkk-izkS-la- tks/kiqj] ,vkjlh ds lnL; rFkk iwoZ Nk=ksa ds izfrHkkxh “kkfey FksA 
+iSuy us ,vkjlh dh orZeku vkSj Hkfo’; dh xfrfof/k;ksa ds laca/k esa fofHkUu iz”uksa ds mRrj fn;s lkFk gh iSuy 
+us iwoZ Nk=ksa dks ,vkjlh }kjk muds fy, vk;ksftr fd;s tkus okys dk;ZØeksa esa lfØ; :Ik ls Hkkx ysus ds fy, 
+izksRlkfgr Hkh fd;kA izfrHkkfx;ksa ls dbZ lq>ko vkSj fopkj izkIr gq, vkSj mUgsa fjdkWMZ fd;k x;kA izks- vIiy 
+uk;Mq xafM] lnL; lfpo] ,vkjlh us iSuy vkSj lHkh izfrHkkfx;ksa dk mudh mifLFkfr ds fy, /kU;okn fn;k 
+rFkk dk;ZØe ds fy, /kU;okn izLrko izLrqr fd;kA
+iwoZ Nk=ksa ds lkFk iSuy fopkj&foe”kZ 
+funs”kd] ,vkjlh inkf/kdkfj;ksa vkSj iwoZ Nk=ksa dk lkewfgd
+QksVks
+
+dk vk;kstu fd;k A vk;q’k jSuk] orZeku esa dkjust esyu ;wfuoflZVh ¼lh,e;w½ ds Lukrd Nk= us Nk=ksa ds lkFk 
+esyfeyki fd;kA vk;q’k us 2017 esa Hkk-izkS-la- tks/kiqj ls ;kaf=dh vfHk;kaf=dh esa viuh ch-Vsd izkIr dh FkhA 
+lh,e;w ds lesfdr fMtkbu uokpkj lewg ds Hkkx ds :Ik esa vc vk;q’k vkfVZfQ”k;y baVsyhtsal dk fodkl 
+djus esa dk;Zjr gSa ftls fdlh fMtkbu izfØ;k esa ekuo tSlh leL;k fuokj.k esa iz;ksx fd;k tk ldrk gSA
+Jksrk muds orZeku “kks/k] dSfj;j laHkkoukvksa] fons”kh fo”ofo|ky;ksa ls ih,p-Mh fMxzh v/;;u gsrq vkosnu
+izfØ;k vkSj lkekU; :Ik ls dsjust esyj ;wfuoflZVh rFkk fof”k’V :Ik ls lanHkZ ijh{kkvksa dh rS;kjh] izfrLi/khZ 
+okrkoj.k esa lQyrk dh j.kuhfr vkSj eflZMht cSat ds lkFk mudh baVuZf”ki ds nkSjku muds vuqHko ds laca/k 
+esa iz”uksa ds mRrj ls ykHkkfUor gq,A
+vkLd ,u ,yqfeul ls”ku ds nkSjku iwoZ Nk= laca/k lfefr ds lnL; vkSj Nk=
+
+dk;ZØe ukekadu dk o’kZ la[;k
+Hkk-izkS-la- tks/kiqj esa 31 ekpZ 2019 ds nkSjku laLFkku }kjk iznku fd;s tkus okys fofHkUu dk;ZØeksa esa
+dqy 994 Nk= iath—r gSA uhps nh xbZ rkfydk vkSj pkVZ laLFkku esa iath—r Nk=ksa dk dk;ZØe&okj fooj.k 
+iznku djrk gSA
+vkbZvkbZVh tks/kiqj esa iath—r Nk=ksa dk dk;ZØe&okj fooj.k

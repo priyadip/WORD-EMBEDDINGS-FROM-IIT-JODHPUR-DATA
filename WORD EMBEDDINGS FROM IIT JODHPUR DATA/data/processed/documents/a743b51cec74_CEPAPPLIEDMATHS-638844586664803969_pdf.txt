@@ -1,0 +1,17 @@
+an erm course on applied numerical analysis with ma tlab theory practice july continuing education programme of indian institute of echnology jodhpur the aim of this course is to introduce various numerical techniques and their applications in solving simple to complex problems of chemical engineering
+wide variety mathematical equations are involved in the design and analysis various equipment and processes
+choice of suitable numerical technique to simulate chemical process requires prior knowledge of various numerical techniques their practical implementations
+this course is intended to provide detailed principles and working of such numerical techniques for simulating specific chemical processes on computational platform
+iit jodhpur facultywilldeliverthe lecturesin onlinemode
+ug pg fellows course contents processmodels and simulationsinvolving equations applications equations of state calculation of friction factor calculation mass energy balances and steady state compositions in continuousflow reactors
+simultaneous linear equations applications to steady state solutions of systems of ordinarydifferentialequations
+ordinarydifferentialequations initialvalue problems dynamical iv
+ordinary differential equations boundary value problems applications to solutions of temperature distribution in slab concentrationprofilesin catalystpallet
+partial differential equations parabolic problems applications to solution of heat equationin two and threedimensions
+elliptic problems application of finite element techniques for steady state solutionof temperature distribution in two and three dimensionalslabs
+organized by department of chemical engineering indianinstituteof jodhpur karwar rajasthan course objective instructing faculty members registrationtype fees gst industry personnel scan qr for payment scan qr for registration course fee modern engineers and scientists across all disciplines are frequently faced with challenging mathematical models to handle with their solutions not always handy
+as technology continues to evolve most of these problems require applications of advanced mathematical concepts more than ever before
+unfortunately analytical mathematics taught as part of the majority of engineering and science undergraduate programs render the handling of niche problems very difficult
+clear and practical connection between abstract mathematical concepts and engineering problems can be brought about by the allied mathematical models
+the proposed short term course is intended detail numerical analysis of some important and highly applied topics of applied mathematics and demonstrate the working solutions via the use of matlab
+general information parag deshpande krunal gangawane santhosh kumar varanasi dr tara chand kumawat faculty members step payment link step register here inst name iit jodhpur branch name iit hands on practice tid

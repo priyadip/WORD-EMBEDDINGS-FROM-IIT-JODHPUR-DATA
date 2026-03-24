@@ -1,0 +1,511 @@
+bachelor of technology program in mechanical engineering july indian institute of technology jodhpur cat
+course title credits semester ii semester me111 system drawing me121 system workshop cs111 computer programming ee121 basic electronics engineering ma111 linear algebra and calculus me122 engineering mechanics cy211 chemistry ma121 complex analysis differential equation me112 engineering materials me212 fluid mechanics hs111 foreign language hs121 rights responsibility law constitution pe111 physical exercises pe121 physical exercise ii total total iii semester iv semester ee221 basic electrical engineering me221 manufacturing technology ph111 electromagnetism and optics ma221 probability statistics and random processes me211 thermodynamics me222 kinematics of mechanism and machines me213 mechatronics me223 heat and mass transfer me214 mechanics of solids me298
+project hs211 economics hs221 management total total semester vi semester me311 dynamics of machines mechanism me321 refrigeration and air conditioning me312 ic engines me322 turbomachinery me313 machining science me323 design of machine elements me314 metrology me324 industrial engineering me398
+project hs311 psychology hs321 writing in newspaper columns total total vii semester viii semester elective elective elective elective elective elective me498
+project hs411 leadership hs421 development of india total total grand total bachelor of technology
+program in information yet to be furnished
+category course category title total total credits experience basics compulsory electives project life skills games service total semester course title system exploration drawing course no
+me111 focus group offered for type compulsory to take effect from july objectives
+to explore from the first idea and intuitive concepts to the final development and evaluation of the quality of product
+helping students understand the role of engineering graphics in product design learning outcomes
+to distinguish between the different types of projections indicate the dimensions and tolerance of technical products read print and change drawings according to specific requirements
+to enable optimize and digitize manufacturing of devices and components through graphic modeling
+lettering two dimensional geometrical constructions conics representation of dimensional objects principles of projections standard codes projection of points
+projection of straight lines projection of planes projection of solids auxiliary projections
+spatial geometry for design and of solids and development of surfaces
+conversion of projections orthographic projection isometric projection of regular solids and combination of solids
+pictorial projection oblique projections and perspective
+general dimensioning practices limit dimensioning and cylindrical fits tolerances of designation of surface texture
+plan elevation and section of single storied residential or office building with with electrical wiring diagram
+fundamental practices of computer aided design and drafting
+introduction to solid works commands applied geometry using cad technical sketching editing techniques and commands in cad
+orthographic projection graphical analysis sectional views basic dimensioning methods primary and secondary auxiliary views in descriptive geometry
+definition of point line plane pictorial drawings drawings solid modeling
+electronic drawings typical block diagrams control circuit layouts wiring diagrams connection layout diagrams printed circuits
+bethune engineering graphics with autocad prentice hall computer programming course no
+cs111 focus group computer science and engineering
+type experience for cse to take effect from july
+to understand computer programming and its roles in problem solving
+to understand and develop programs using language
+to learn the basic data structures through implementing in language
+problem solving through computer programming
+familiarity of programming environment in linux operating system
+ability to use different memory allocation methods
+ability to deal with different methods
+ability to use different data structures
+introduction to digital computers number systems binary octal hexa and conversion between the number systems binary arithmetic
+introduction to programming problem solving and expression of solution through flow chart and algorithm
+parts of program primitive data types variables operators and their precedence expressions conditionals and branching looping statements
+functions storage classes scope and life time recursion
+arrays pointers user defined data types structures unions dynamic allocation file handling linear data structures list stack and queue time and space requirements
+lab understanding linux working environment practicing linux commands related to file system file handling editors gcc compiler gdb debugger ii basic data types variables input and output statements iii conditional and control structures iv arrays one and two dimensional functions and recursion vi structures unions and enumeration vii pointers viii file handling ix dynamic memory allocation linked structures
+kernighan and ritchie the programming language prentice hall of india
+balaguruswamy programming in ansi tata mcgraw hill
+gottfried schaum outline of programming with mcgraw hill
+lipschutz data structures schaum outlines series tata mcgraw hill
+horowitz sahni and fundamentals of data structures in freeman and company
+dromey how to solve it by computer of india linear algebra and calculus ma111 mathematics effect from
+to train the undergraduate students towards basic understanding of mathematics
+to provide student with sufficient knowledge in calculus which can be used by the students in their respective fields
+to develop working knowledge of central ideas of linear algebra
+understanding of different structures and their properties like dependence basis and
+linear transformations between two structures and its representation by matrices
+integration in higher dimension and vector calculus
+linear algebra fields matrices elementary matrices echelon form system of linear equations vector spaces subspaces linear independent set basis dimension direct sum quotient spaces linear transformations range space null space nullity theorem algebra of linear transformations inner product space orthogonal sets inequality orthonormal sets orthogonalization process
+eigenvalues and eigenvectors of linear operator characteristic polynomials minimal polynomial theorem diagonalization singular value decomposition
+sequences series power series limit continuity differentiability chain rule partial derivatives gradient directional derivative mean value theorems and applications linear approximation fundamental theorems of calculus newton and picard method taylors theorem approximation by polynomials bisection method false position method fixed point method method secant method critical points convexity maxima and minima trapezoidal and simpsons rule curve tracing length area volume double and triple integrals differentiability of vector functions arc length curvature continuity and differentiability of vector functions vector calculus greens theorem gauss theorem stokes theorems
+hoffman kunze linear algebra edition prentice hall of india
+strang linear algebra and its applications edition
+ghorpade limaye course in multivarible calculus and analysis springer verlag
+finney calculus and analytic geometry edition addison wesley publishing company chemistry cy211 core july objective
+this is course designed to relate the fundamental principles of chemistry with practical problems encountered for engineers
+emphasis will be placed on
+this course will enable the students to scientific logics of various laboratory safeties and fire in different type of labs
+laboratory will correlate with lecture material
+understanding the behavior of matter and materials using fundamental knowledge of their nature
+maintaining safe laboratory practice while working in lab and otherwise
+keep notebooks of laboratory experiments and be able to evaluate results based on their own notes
+thermodynamics of chemical processes concept of entropy chemical potential equilibrium conditions for closed systems phase and reaction equilibria maxwell relations real gas and real solution
+electrochemical systems electrochemical cells and emf applications of emf measurements steady state approximation chain reactions photochemical kinetics
+basic spectroscopy fundamentals of microwave ir and spectroscopy basic concepts of spectroscopy selection rule determination of molecular structure
+coordination chemistry coordination numbers chelate effect coordination complexes and application
+chemistry metal ions in biological systems environmental aspects of metals nox co co2
+organic reaction mechanism mechanisms of selected organic polymerization and catalytic reactions
+stereochemistry of carbon compounds selected organic compounds natural products and biomolecules
+organic material polymers synthetic and natural polymers and their applications
+lab aldol condensation preparation of tetra phenyl cyclo pentadienone ii preparation of complex salt of co en cl3 iii preparation of double salt crystal of ammonium copper ii sulphate hexahydrate iv saponification preparation of soap preparation of vi to prepare hexamine coblt iii chloride co nh3 cl3 vii determination of dissolved oxygen in water by winklers method viii to use fourier transform infrared spectroscopy in combination with attenuated total reflectance technique for bio analysis of caffine in tea coffee and also get ir spectrum of aldol product and analysis of the spectrum ix to plot the excitation and emission spectrum of curcumin in solvents respectively ethanol and hexaneand find stokes shift by using fluorescence spectroscopy to determine the heat capacity glass trasition temperature and the change in heat capacity for glass transition temperature for polystyrene by using differential scanning calorimetry dsc xi to understand the theory and working principle of cyclic voltammetery and to perform cv on ferricyanide solution and to know its electrical properties for example ep ip and diffuse rate etc xii determine of the enantiomeric purity of naproxen and ibuprofen xiii general chemistry laboratory experiment relating electron configuration and magnetic behaviour
+silberberg chemistry the molecular nature of matter and change edition mcgraw hill education
+mcmurry fay chemistry edition pearson
+hill finster laboratory safety for chemistry students laboratory safety for chemistry students wiley engineering materials me112 to gain an understanding of the relationship between the structure properties processing and application of metallic ceramic polymeric and electronic materials
+to understand and apply fundamental scientific and engineering principles to engineering problems in the context of between structure properties processing and performance of all classes of materials and material systems
+to have the ability to design conduct analyze and interpret behavior of materials
+introduction solid engineering classification and characteristic properties
+structure of solids crystal structure crystallographic planes and directions interstitial sites crystallinity in metals ceramics semiconductors and polymers
+defects in solids point line planar
+fundamentals of plastic deformation of metals deformation by slip and twin plastic deformation in polycrystalline metals anisotropy concept of cold working preferred orientation annealing recovery recrystallization and grain growth hot working
+phase changes in alloys ternary phase diagrams iron and steel making kinetics of metallurgical reactions
+definition units and common tests conducted to evaluate important engineering properties like physical chemical electrical magnetic optical and thermal properties in engineering materials
+microstructure and properties of different alloys in steel and cast iron types of cast iron their microstructures and typical uses
+concept of heat treatments of alloys annealing normalizing hardening and tempering microstructural effects brought about by these processes and their influence on mechanical properties
+effect of common alloying elements in steel concept of hardens ability factors affecting it
+common alloy steels stainless steel tool steel high speed steel high strength low alloy steel micro alloyed steel specifications of steels
+physical metallurgy of common alloys and based alloys
+engineering ceramics and polymers structure properties and application of common engineering ceramics and polymers
+composites principle structure and application of composites mechanism of creep ductile fracture brittle fracture fracture toughness transition fatigue fracture mechanisim of oxidation corrosion principles elastic anelastic and viscoelastic behavior
+laboratory work to investigate creep of given wire at room temperature ii to study the corrosion behavior of metallic materials iii to determine fiber and void fraction of glass fiber reinforced composite specimen iv to prepare two metallic specimens for metallographic examination and measure their grain size to study cooling curve of binary alloy vi experiments related to measurement of thermal electrical chemical and optical properties of engineering materials
+callister materials science and an introduction john wiley sons
+shackelford introduction to materials science for engineers mac millan publishing
+cottrell an introduction to metallurgy universities press
+smith materials science and engineering edition tata mcgraw hill
+van vlack elements of material science and engineering edition pearson education english language and communication skills course no
+hs111 focus group humanities and social sciences
+year type life skill
+to enable students to gain competence in english and to use language effectively in number of contexts
+the course focuses on the four basic skills of language learning reading writing listening and speaking and trains the student to employ the above skills in both personal and professional settings
+methodologies that are employed by the instructors include extensive use of audio visual and print medium exposes students from diverse backgrounds to both the creative and critical use of language
+the course helps students to speak and write better english
+the course helps to integrate classroom learning into an everyday communicative
+written work and interactive sessions facilitates the students to hone their communication skills in more ways than one
+english is crazy language by richard lederer
+the snake by lawrence
+kubla khan by coleridge
+short stories of sherlock holmes
+akeela and the bee film
+in pursuit of happiness film
+trumans show film
+language lab sessions
+meenakshi sharma technical communication principles and practice oxford university press
+regional institute of english english for engineers cambridge university press
+rizvi effective technical communication tata
+rutherford basic communication skills for technology pearson ii semester system exploration workshop course no
+me121 focus group mechanical engineering type experience for cse me ee biss ss
+to develop basic knowledge of handling tools in different areas of manufacturing
+to provide practical exposure to the vocational trades within basic practical activities associated with all branches of engineering
+to instill confidence to manufacture assess quality and to perform maintenance or correction in product design
+the importance of quality and design of the product with respect to material use design dimensions and tolerances
+understanding the activities and practical difficulties of skilled workman who ultimately are involved in producing all goods in any industry
+understanding the various aspects of materials
+introduction classification of engineering materials and their important mechanical and manufacturing properties phase diagrams gibbs phase rule lever rule carbide phase diagram diagram general classification of manufacturing processes selection of manufacturing processes manufacturing attributes of manufacturing processes
+introduction to bulk property enhancement and surface property enhancement processes
+casting principles metal casting alloy solidification homogenous and heterogeneous nucleation cooling curve concept of supercooling grain growth avrami equation patterns types of patterns pattern materials and pattern allowances types of sands characteristics of molding sand types of cores chaplets and chills their materials and functions casting defects
+geometric tolerance design concept of limits fits and tolerances hole based system shaft based system different types of fits
+metal forming and sheet metal operations basic operations and their description forging rolling drawing extrusion bending spinning stretching embossing and coining die and punch operation in press work shearing piercing and blanking notching lancing
+material removal processes principles of metal cutting introduction to orthogonal and oblique cutting chip formation cutting tools their materials and applications geometry and nomenclature of single point cutting tool tool life cutting fluids and their functions basic machine tools lathe milling machine drilling machine shaper planer and their applications introduction to grinding processes
+introduction to traditional machining processes edm usm chm ecm lbm ajm and wjm
+joining processes fundamentals of electric arc welding mmaw saw gmaw gtaw paw gas welding and cutting resistance welding and thermit welding soldering brazing and braze welding adhesive bonding mechanical fastening riveting screwing etc
+plastic processing plastics their types and manufacturing properties introduction to compression molding injection molding and blow molding additives in plastics
+modern trends in manufacturing introduction to numerical control nc and computerized numerical control cnc machines and rapid prototyping techniques
+laboratory work woodworking pattern making exercise preparation of aluminum casting machining exercise turning operations welding exercise preparation of square butt joints using arc welding sheet metal fabrication preparation of tray funnel etc
+fitting exercise and heat treatment of steels demonstration on cnc lathe cnc milling
+demonstration on rapid prototyping technique and electric discharge machine
+degarmo kohser and black materials and processes in manufacturing edition prentice hall of india
+kalpakjian and schmid manufacturing processes for engineering materials edition dorling kindersley
+chapman workshop technology vols
+edition cbs publishers distributors
+groover fundamentals of modern manufacturing prentice hall international
+campbell principles of manufacturing materials and processes tata mcgraw hill company basic electronics engineering ee121 electrical engineering
+to introduce different components used in electronic circuits and explain their terminal characteristics
+to teach various methods of electronic circuit analysis and design
+ability to do analysis of electronic circuits for various branch currents and node voltages
+ability to appreciate the use of discrete components in designing application specific circuits
+components and sources passive components resistance inductance capacitance lumped element model series parallel combinations kirchhoffs law voltage current linearity voltage and current sources non ideal sources representation under assumption of linearity controlled sources vcvs ccvs vccs cccs concept of gain transconductance transimpedance
+basic circuit and transient analysis node and loop analysis choice of nodes and branches for efficient analysis
+superposition theorm thevenin theorm norton theorem rl and rc circuits sinusoidal steady state analysis rlc circuits time domain response of rl and rc circuits networks and transfer function sinusoidal steady state response phasor impedance transfer function of two port networks
+frequency response concept amplitude and phase response bode plots
+discrete components and circuits discrete electronic devices diode zener diode bjt bipolar junction transistor led photodiode phototransistor varactor characteristics and operation using equivalent circuits diode circuits clipper clamper circuits
+dc power supply half wave full wave center tapped bridge zener regulated power supply regulation bjt biasing circuits operating point signal models of amplifier
+operational amplifiers basic model virtual ground concept inverting amplifier inverting amplifier integrator differentiator basic feedback theory and feedback concept of stability oscillator
+waveform generator for square wave triangular wave wien bridge oscillator schmitt trigger astable multivibrator introduction to active filters timer description and data sheet
+logic gates and applications numbering system or not and nor and nand universal gates xor and xnor gate truth tables combinational circuits
+designing combinational circuits sop pos form optimization multiplexer gate base implementation
+logic function representation using truth table sequential circuits jk master slave flip flop flop
+laboratory using laboratory instruments characterization of passive circuit elements time response of rc and rl circuits frequency response of rc and rlc circuits equivalent circuits and audio signals diode characteristics and dc power supply bipolar junction transistor bjt circuits inverter and common emitter amplifier operational amplifiers basic combinatorial circuits any new circuit
+dorf circuits devices and systems edition john wiley
+hayt kemmerly and durbin engineering circuit analysis edition tata mcgraw hill
+boylestad nashelsky electronic devices and circuit theory edition prentice hall
+sedra smith microelectronic circuits edition oxford university press engineering mechanics course no
+me122 focus group physics type basic for cse me ee ss biss
+to provide practice to apply knowledge in work energy and momentum to study rigid body mechanics
+to educate about the forces and inertia and its effect of motion of rigid bodies
+to analyse forces and moments on static rigid body moments on or between multiple static rigid bodies and internal forces or moment within them
+basic dimensions in mechanics law of dimensional homogeneity vector and scalar quantities elements of vector algebra
+moment of force about couple moment of couple about line
+free body diagram equations of equilibrium static indeterminacy equilibrium in three dimensions coulomb fraction surface contact friction transmission of power through belt
+screw jack screw thread
+moment of area and centroid theorems second moments and product of area transfer theorems principal axes
+inertial quantities terminology translation of coordinate axes
+kinematics of particles velocity and acceleration in terms of path variables simple relative motion motion of particle relative to pair of translating axes newtons laws of rectangular translation cylindrical force motion
+conservation of mechanical energy equations center of mass based kinetic energy principle of virtual work
+impulse and momentum relation of particles moment of momentum of particles of rigid bodies charles theorem time derivative of vector for different references
+three dimensional rotation moment of inertia tensor relation between angular momentum and torque in three dimensions gyroscopic forces
+simple harmonic oscillator phase and phase difference phasor diagram oscillator with constant dependent damping
+forced oscillations power adsorption lightly damped oscillator motion in frames centrifugal foce coriolis rate of change of vector in inertial and rotating frames
+experiments vector analysis with force table motion studies position vs time velocity vs time measuring acceleration due to gravity projectile launch centripetal motion of pendulum dynamics atwood machine dynamics experiments with friction sound waves frequency analysis
+meriam kraige engineering mechanics john wiley sons complex analysis and differential equations course no
+ma121 focus group mathematics type compulsory
+understanding of fundamentals of complex analysis
+techniques for differentiation and integration of complex valued functions
+finding analytical and series solution for ordinary and partial differential equations
+complex numbers algebra of complex numbers functions continuous and analytic functions cauchy riemann equations elementary functions integral of complex function theorem cauchys integral formula derivatives of analytic functions moreras theorem liouvilles theorem maximum modulus principle taylor series singularity types of singularities laurant series cauchys residue theorem jordans lemma evaluation of real integrals
+first order ordinary differential equations geometrical interpretation of solution solution methods for separable equations exact equations linear equations picards theorem for ivp picards iteration method eulers method improved eulers method
+second order linear differential equations general solution of homogeneous equation existence and uniqueness of solution of ivp wronskian and general solution of nonhomogeneous equations equation extensions of the results to higher order linear differential equations power series application to legendre equation legendre polynomials frobenius method bessel equation properties of bessel functions bvp orthogonal functions system of first order ode and its stability laplace transform and fourier series
+partial differential equations of first order solution to pde of first order cauchys method for first order pde charpits method classification of second order equations characteristics riemann method uniqueness theorem for hyperbolic equations with given initial and boundary conditions dirichlet and neumann problems poisson integral green and neumanns function heat equation
+ahlfors complex analysis edition tata mcgraw hill education
+brown churchill complex variables and applications edition
+lang complex analysis edition
+simmons differential equations with applications and historical notes edition tata mcgraw hill
+boyce diprima elementary differential equations and boundary value
+rao introduction to partial differential equations prentice hall of india fluid mechanics me212
+to inculcate the fundamental properties of fluids
+to explain applications of fluid statics conservation equation in fluid flow and viscous
+to exemplify concepts of similarity
+to evaluate hydrostatic forces on bodies within fluids
+to apply the fundamental knowledge in modeling and analysis of fluid flow problems in engineering
+interpreting data from experiments of fluid flows and solve using differential equations and charts
+introduction scope of fluid mechanics continuum approach definition and types of fluid differential and integral approaches
+fluid statics basic equation of fluid statics hydrostatic force on submerged surfaces
+integral analysis of fluid flow reynolds transport theorem conservation of mass conservation of linear momentum and angular momentum conservation of energy
+differential analysis of fluid flow motion of fluid particles derivation of continuity and equations analytical solutions to fully developed laminar flow problems introduction to stream function concept of streamline
+incompressible inviscid flow concept of inviscid flow euler equation bernoulli equation velocity potential laplaces equation superposition of elementary flows
+external incompressible flow external versus internal flows evolution and concept of boundary layer friction and form drag definitions of boundary layer thickness momentum integral equation concept of adverse pressure gradient and separation drag coefficients introduction to streamlining
+turbulent flow limitations of conventional differential approach decomposition of instantaneous velocities continuity and equations reynolds stresses turbulent viscosity velocity profile in turbulent pipe flow
+compressible flow propagation of sound waves isentropic stagnation properties for flow in ideal gas basic equations for one dimensional compressible flow diverging nozzles
+dimensional analysis and similitude advantages of buckingham pi theorem flow similarity
+laboratory friction in pipes and fittings due to fluid flow experiments determination of head loss in pipes having different diameters different materials and different roughness determination of pressure drop at different types of bends and valves wind tunnel experiments flow around aero foil and wake profile measurement lift and drag measurement tunnel air velocity velocity profile measurement using pitot static tube flow meter trainer devices working principle of different flow meters orifice plate venture meter turbine rota meter electromagnetic flow meter measurement and evaluation with reference flow meter electromagnetic flow meter particle image velocimetry piv flow measurement around an object or blockage using piv technique weather monitoring and prediction measurement of flow temperature and humidity for understanding and prediction of weather
+fox pitchard and mcdonald introduction to fluid mechanics edition john wiley sons
+white fluid mechanics edition iii semester electrical machines ee221 to understand construction principle of operation modeling testing and performance of various electrical machines used in industry provide knowledge of principles of operation of different electrical machines
+the student will be able to
+model various electrical machines and determine the performance under different loading conditions
+test various machines and their performance by the end of the semester
+transformers three phase transformers equivalent circuit performance parallel winding transformers
+basic concepts of rotating ac machines armature of rotating magnetic field in three phase and two phase ac development
+induction machines equivalent testing of phase induction motor circle torque cage induction generator
+synchronous machines in voltage operation with infinite starting applications testing
+special machines principle of operation characteristics and applications of reluctance pole phase synchronous series motor
+phase to phase conversion using scott connection
+parallel operation of transformer
+surnphers test on phase transformer
+predetermination of performance of phase induction motor using circle diagram
+load test on phase induction motor
+regulation of alternator using emf method
+regulation of alternator using zpf method
+parallel operation of alternator with infinite bus
+slip test and determination of xd and xq
+say alternating current machines pitman publishing
+langsdorf theory of alternating machines tata
+fitzgerald kingsley and umans electrical machinery edition tata
+puchstein lloyd alternating current machines john wiley sons electromagnetism and optics ph111 physics july to develop an understanding of the foundations of optics and electromagnetism
+the students will be able to relate theoretical concepts with problem solving approach in electrodynamics and optics
+electromagnetism vector calculus physical interpretation of gradient divergence and curl line surface and volume integrals
+electrostatics coulomb law gauss theorem electrostatic potential laplace equation conductors capacitors and dielectrics
+magnetostatics biot savart law ampere law lorentz force
+magnetic induction faraday law lenz law self and mutual inductance energy stored in magnetic field
+maxwell equations displacement current electromagnetic waves plane wave solutions of maxwell equation poynting vector
+optics wave nature of light interference fresnel and fraunhoffer diffraction ordinary and extraordinary rays plane circular and elliptically polarized light birefringence half wave plates
+ghatak optics tata mcgraw hill
+griffiths introduction to electrodynamics prentice hall of india thermodynamics course no
+me211 type basic for cse ee me ss biss
+to use the first law of thermodynamics to estimate the potential for mechanical energy conversion
+to recall and comprehend work producing and work consuming cycles
+to inculcate the importance of water and steam and change of state
+to exemplify how different heat engines work and identify the energy exchange
+to apply steady flow energy equation to thermodynamic devices
+to identify path and based processes and assess their thermodynamic
+basic concepts thermodynamic system properties state process thermodynamic equilibrium pressure measurement zeroth law temperature measurement
+concept of energy and energy transfer in the form of work and heat thermodynamic definition and evaluation of work work transfer and its value for different processes heattransfer equation of state for ideal and real gases gas mixtures
+thermodynamic properties of pure substance phase change process of pure substance and their property diagram use of steam table and mollier diagram
+energy analysis of closed and open systems first law analysis for closed systems undergoing cycle and process steady flow energy equation flow processes throttling process effect energy analysis of open systems analysis of first law for unsteady flow
+second law of thermodynamics and thermodynamic property relations and clausius statement heat engine heat pump refrigerator concept of entropy entropy principle change of entropy for various processes introduction to availability concept of irreversibility second law efficiency maxwell relations relation equation
+introduction to steam gas and refrigeration cycles carnot cycle and its limitation vapor power cycles simple rankine reheatand regeneration cycles gas power cycles otto diesel dual and brayton cycles refrigeration cycles vapor compression and vapor absorption cycles
+shapiro fundamentals of engineering thermodynamics edition wiley
+boles thermodynamics an engineering approach mcgraw hill education
+sonntag wylen fundamentals of thermodynamics wiley mechatronics me213
+to expose the learner to the fundamentals of hydraulic and pneumatic power control and their circuits with industrial applications
+to explore designing and control of systems
+to produce software solution for modern microprocessor based mechatronic systems
+have an appreciation of modern computing technology and the place that programming has within the engineering domain
+to apply knowledge of control sensors and actuators on mechansms
+introduction to systems system measurement systems control systems open and closed loops systems sequential controllers with water level controller shaft speed control washing machine control automatic camera and engine management systems
+introduction to sensors and principle and working of resistive capacitive inductive and resonant optical measurement encoders photo electric vision sensor fibre optic solid state sensors and measurements temperature chemical piezoelectric accelerometers ultrasonic sensors and flow distance velocity measurements
+introduction electromagnetic principles solenoids and relays electrical drives motors servo motors
+signal multiplexer operational and converters introduction to data acquisition system
+programmable logic controller basic programming input output mnemonics timers internal shift master and jump programming the plc using ladder simple example of plc application
+mechatronics in engineering design traditional and mechatronics design applications pick and place robots car park barriers bar code reader wind screen wiper wing stepper motor control
+case studies coin counters robot walking machine
+bolton mechatronics edition addison wesley
+bradley dawson burd loader mechatronics chapman and hall publications
+fraden handbook of modern sensors physics designs and applications edition springer verlag mechanics of solids me214
+to inculcate fundamental concepts of stress strain and deformation of solids
+fundamental of applying equilibrium compatibility and forced deformation relationships to structural elements
+apply the fundamentals to analyze determinate and indeterminate structures
+physical insight into distribution of stresses and strains in structural members
+ability design structural members using dimensions relationships boundary conditions loading and allowable stress
+concept of stress and strain normal stress shear stress state of stress at point ultimate strength allowable stress factor of safety normal strain shear strain hookes law poissons ratio
+generalized hookes law analysis of axially loaded members
+torsion torsion of cylindrical bars torsional stress modulus of rigidity and deformation
+flexural loading shear and moment in beams load shear and moment relationship shear and moment diagrams flexure formula shear stress in beams differential equation of the elastic curve deflection of beams
+transformation of stress and strain transformation of stress and strain principal stresses principal strains mohrs circle for stress and strain
+combined loading axial and torsional axial and bending axial torsional and bending
+column buckling of slender columns euler bucking load for different end conditions
+introduction of theory of analysis of stress and strain stress equation of equilibrium compatibility equations relations solution of elasticity function approach
+theories of yield criteria
+energy generalized forces and displacements reciprocal theorem reciprocal theorem castiglianos theorems theorem of virtual work
+tension tests impact tests hardness tests bending and torsion tests calibration of proving rings fatigue tests strain gage experiments study of bench calibration of materials wear of materials
+iv semester manufacturing technology
+to impart knowledge and train students in area of metal casting and welding processes by making them familiar with the basic design principles and metallurgical concepts involved and their application
+to provide fundamentals of metal forming processes
+to impart the knowledge and train the students in the area of machining science and make the students familiar with the various basic principles of machining science cutting tool materials and its wear mechanisms during the machining operation
+understanding of mechanism of chip formation in machining and grinding processes
+understanding of tool life role and types of cutting fluids machinability index and ability to measure tool life tool wear and flank wear during machining
+understanding of basic design principles involved in metal casting and understanding of fundamentals of arc welding
+understanding of different conventional machining processes
+conventional machining processes metal cutting with single point and multi point cutting tools selection of machining parameters taylors tool life equation machinability factors affecting machinability tool wear mechanisims factors influencing surface quality dimensional accuracy and material removal rate in machining calculation of economic cutting speed types of chips cutting tool temperature measurement cutting fluids cutting forces and power requirements in single point cutting tool merchant circle theory shear angle relationships friction and thermal aspects in machining nature of cutting with cutting tools mechanism of chip formation in drilling and milling grinding process and its specific features
+milling cutters and milling machines drilling tools and operations grinding and other abrasive finishing processes grinding wheel selection surface grinding centreless grinding abrasive finishing processes
+machining processes comparison conventional methods of machining process parameters material removal rate and application of machining edm machining ecm machining usm electron beam machining ebm laser beam machining lbm abrasive and water jet machining awjm chemical machining
+phase diagrams concept of phase phase rule eutectics phase diagram ttt diagram classification of steels
+arc welding fundamentals welding power sources and power source characteristics
+elementary theory of plasticity rate characteristics of materials yield criteria of metals formability high energy rate forming processes
+metal casting processes sand testing procedures machine moulding cupola furnace cupola charge estimation design of casting sprue design riser and gating system design
+nucleation and grain growth segregation inspection of castings casting defects shell moulding investment casting hot chamber and cold chamber die casting centrifugal casting powder metallurgy techniques
+introduction to computer aided manufacturing cam programmable automation numerical control of machine tools
+adaptive control of machine tools cnc design features introduction to manual part programming and computer assisted part programming
+shaw metal cutting principles edition oxford university press
+benedict nontraditional machining processes crc press
+heine loper and rosenthal principles of metal casting tata mcgraw hill
+dieter mechanical metallurgy rev
+edition mcgraw hill
+welding handbook welding technology edition american welding society probability statistics and random processes course no
+to equip the students with the broad perspective of probability theory
+to develop the understanding of various discrete and continuous distributions along with their properties
+to understand and differentiate among various statistical and random processes
+ability to analyze and differentiate between deterministic and random environment
+ability to select an appropriate distribution for analyzing data specific to an experiment
+understanding of various statistical and random processes techniques which can be applied to data arising in various applications
+introduction to probability axioms of probability conditional probability bayes theorem random variable discrete and continuous random variables distribution function and probability density mass function expectation and moments of random variables moment generation function and characteristic function jointly distributed random variable transformation of random variables special discrete distributions special continuous distributions chebyshevs inequality law of large numbers central limit theorem
+regression analysis parameter estimation maximum likelihood estimator confidence interval hypothesis testing goodness of fit test
+stochastic processes markov chain markov processes queuing models
+ross introduction to probability and statistics for engineers and scientists elsevier science
+rohatgi ehsanes saleh
+johnson miller freund probability and statistics for engineers phi learning
+pillai probability random variables and stochastic processes tata hill kinematics of mechanisms and machines course no
+to cover the kinematics and dynamics of planar single degree freedom mechanisms
+to develop skills for designing and analyzing linkages cams gears and other mechanisms
+to understand the implication of computed results in kinematics to improve design of mechanism
+to analyze position velocity and acceleration kinematics of mechanisms
+kinematics and mechanism definitions and basic concepts classification of links kinematic pairs diagram and inversion mobility range of movements equivalent linkage and spatial mechanism
+motion characteristics of mechanism displacement analysis of plane mechanisms graphical and analytical methods plane motion of rigid body instantaneous centre ic of velocity velocity analysis using ic velocity and acceleration diagrams velocity and acceleration images coriolis component of acceleration
+cam follower mechanism introduction comparison with lower pair classification of cam and followers nomenclature description and analysis of follower motion pressure angle determine of basic dimensions and synthesis of cam profiles graphical and analytical methods cams with specified contours
+gear and gear train spur gears and gear terminology fundamental law of gearing involute profile interference and undercutting minimum number of teeth contact ratio helical gears on parallel shafts crossed helical gears bevel helical spiral and worm gears
+simple compound epicyclic gear trains planetary gear trains
+forces torques and transmitted power in planetary train sliding gear boxes and synchronous gear boxes
+three dimensional kinematics of rigid body three dimensional kinematics of particle in term of inertial and frame of coordinates absolute velocity and acceleration of particle in different system of coordinates rotational and general motion of rigid body
+kinzel kinematics dynamics and design of machinery
+uicker pennock shigley theory of machines and mechanisms edition oxford university press
+mallik theory of mechanisms and machines edition east west press
+norton kinematics and dynamics of machinery tata mcgraw hill
+bevan theory of machines cbs publishers and distributors heat and mass transfer me223 to inculcate understanding formulation designing and solving problems with concepts in conduction convection and radiation
+analyze empirical situation of steady and transient conduction heat transfer
+evaluate transfer coefficients in natural and forced convection in and out of control areas
+assess performance of various heat exchangers
+to solve numerical problems related to conduction and radiation heat transfer
+introduction and basics of to heat transfer modes of heat transfer fouriers law conductivity diffusivity
+heat conduction equation heat conduction general heat conduction equation boundary and initial conditions heat generation
+steady heat conduction heat conduction in plane wall cylinder sphere network analysis critical radius of insulation heat transfer from fins
+transient heat conduction lumped system analysis transient heat conduction in large plane walls long cylinders and sphere with spatial effect heisler and grober charts
+numerical methods of heat conduction finite difference formulation numerical methods for and steady state heat conduction steady state shape factor method
+introduction to convection fundamentals velocity and thermal boundary layer laminar turbulent flows conservation equations for mass momentum and energy solution of boundary layer equations analogy between heat and momentum transfer numbers
+external heat transfer drag and heat transfer parallel flow over flat plates flow across cylinders and spheres
+internal heat transfer
+boiling and condensation
+introduction to radiation
+mass transfer fundamentals of temperature measurement evaluation of different temperature measurement devices such as pt100 ntc and type thermocouples bimetallic thermometer gas pressure thermometer and mercury thermometer with phase transition temperatures of water at with ice water and at with boiling water under stp testing and measurement using resistance thermometers calibration of thermocouple conduction in solids determination of thermal conductivity of given specimen metal considering both linear and radial conduction solar water heater demonstration demonstration of domestic solar water heating system using halogen lamp as light source estimation and measurement of thermal energy storage with water as storage medium free and forced convection evaluation of convective heat transfer coefficient heat transfer during free and forced convection over flat plate plate fins and pin fin bundle estimation of convective heat transfer coefficient cross checking with nusselt number reynolds number correlations heat exchangers design evaluation parallel flow heat exchanger counter flow heat exchanger cross flow heat exchanger laws of radiation lamberts distance law lamberts direction law stefan boltzmanns law kirchhoffs law investigation of the wavelength of light
+incropera dewitt fundamental of heat and mass transfer john wiley sons
+ghajar heat and mass transfer mcgraw hill
+holman heat transfer mcgraw hill semester dynamics of machines and mechanisms course no
+to teach students concepts of planar inverse newtonian dynamic analysis of mechanisms and machines
+to inculcate concepts of generalized forces and principle of virtual work
+to exemplify concepts of static and dynamic mass balancing and flywheels
+to teach linear vibration analysis of one and two degree of freedom rigid body systems
+identify and distinguish basic and advanced mechanisms in the study and control of motion
+evaluation of forces and torques in mechanism and machines in operation
+to perform static and dynamic balance of simple mechanisms
+dynamic force analysis and engine dynamics inertia and alembert principle the principle of superposition shaking forces and moment flywheel engine designs
+dynamics of rigid bodies kinetics of system of particles linear momentum and moment of momentum equations of motion and their first integrals kinetics of rigid body linear and angular momentum kinetic energy equations of motion dynamics parameter models of mechanical systems
+dynamics of cam and governors rigid and elastic body cam system effect of sliding friction analysis of cam with reciprocating follower kinetostatic force analysis of cam follower analysis of elastic cam systems types of governors characteristics of governor approximate analysis of speed load characteristics of an engine
+balancing static unbalance static balancing machines dynamics balancing balancing of single and engines balancing reciprocating engines balancing of linkage and balancing of machines
+vibration analysis introduction basic features of vibratory systems single degree freedom systems system with two degree freedom continuous systems and vibration measurement systems
+uicker pennock and shigley theory of machines and mechanisms edition oxford university press
+mallik theory of mechanisms and machines edition east
+thomson theory of vibrations with applications cbs publishers distributors
+meirovitch elements of vibration analysis international editions ic engines me312 to create an understanding about the different internal combustion engines and the measurement of its operational characteristics
+application of thermo fluids heat transfer to analyse the operation and performance of ic engines
+gain experience in component design and system matching such as turbo chargers introduction engine classification
+engine design and operating parameters engine geometry brake performance indicated performance friction relationships among performance parameters tests of operating characteristics
+combustion thermodynamics air and fuels combustion stoichiometry dissociation equilibrium combustion products practical chemical equilibrium first law analysis of closed reacting systems heating value and enthalpy of formation adiabatic flame temperature first law analysis of open reacting systems combustion efficiency
+thermodynamic properties of engine working fluids working fluids for engine processes ideal gas mixtures tables for species properties curve fits for species properties computer routines for properties and composition
+cycle analysis cycle computer simulation cycle results efficiency and performance comparison with actual cycles deviation from ideal cycle behavior
+ideal properties models of engine processes and cycles constant volume otto constant pressure diesel limited pressure dual comparisons of ideal cycle results ideal processes open cycle calculation with residuals
+engine combustion features of process flame structure and propagation factors affecting burning rate abnormal combustion and knock combustion chamber
+diesel engine combustion features of diesel combustion process ignition delay knock in diesel engines
+si and diesel engine emissions nature and extent of problem nitrogen oxides carbon monoxide hydrocarbons particulates emissions control strategies
+ic engines the future engine development prospects stratified charge direct injection systems homogeneous charge compression ignition low temperature diesel combustion advanced engines hybrids and fuel cells
+internal combustion engine fundamentals mit press
+taylor the internal combustion engine in theory and practice vol
+edition mit press
+pulkrabek engineering fundamentals of the internal combustion engine edition prentice hall machining science me313 to impart the knowledge and train the students in the area of machining science and make the students familiar with the various basic principles of machining science cutting tool materials and its wear mechanisms during the machining operation
+understanding of mechanism of chip formation and ability to measure cutting forces during chip formation
+understanding of economics of machining heat distribution in machining and its effects and ability to carry out temperature measurement during machining
+understanding of tool life role and types of cutting fluids machinability index and
+understanding of different grinding processes grinding wheel selection temperature and force measurement during grinding
+understanding of different conventional machining processes and ability to measure tool wear rate and material removal rate
+introduction basic mechanism of chip and thick zone of vs oblique velocity relationship for shear plane angle in orthogonal consideration in of merchant lee and shaffer comparison
+of tool nomenclature and conversion of rake of multi point tools like drills conventional vs climb milling mean cross sectional area of chip in cutting pressure
+heat distribution in machining effects of various parameters on cutting methods of cutting temperature measurement in machining cutting fluids
+essential requirements of tool in tool specification for inserts and tool and accelerated tool life of machinability of machining
+grinding and other abrasive finishing processes grinding wheel selection surface grinding centreless grinding abrasive finishing processes
+wear mechanisms and chatter in machining measuring techniques reasons for failure of cutting tools and forms of of in effecting chatter in of of chatter
+non conventional machining processes comparison of and
+jigs fixtures principles of design of jigs and fixtures
+laboratory work cutting force measurement in turning operation using component dynamometer cutting tool temperature measurement experiment tool wear measurement using taylor tool life equation effect of processes parameters on tool wear rate and material removal rate in edm experiment on surface roughness measurement during machining processes measurement of grinding ratio and temperature rise during grinding
+shaw metal cutting principles oxford claredon press
+boothroyd knight fundamentals of machining and machine tools marcel dekker
+fundamentals of machining processes conventional and nonconventional processes crc press
+benedict introduction to nontraditional machining processes asm metrology me314
+to appraise the students about the error that they can observe when measuring surface characteristics such as roughness flatness straightness and other parameters measurements such as diameters angularity and circularity
+to teach how to perform the measurement and sampling of parameters such as pressure temperature etc
+to identify errors and measurement of dimensions using noncontact techniques to develop skills for using measurement devices such as interferometer coordinate measurement and optical flats to evaluate the process capability and perform statistical sampling of data
+types of errors design of limit gauges and various comparative measurement fundamentals of gears thread measurements and measurements of surface finish non contact measurement techniques using optical methods and vision techniques coordinate metrology and form measurement use of control charts and acceptance sampling in sqc
+basic concepts legal metrology precision accuracy types of errors least square fit
+linear and angular standards of measurements calibration interchangeability and selective assembly gauges for inspection types gauge design taylor principle introduction to comparators types of comparators mechanical mechanical optical electrical and electronic flow pressure type
+internal and external screw threads measurements of various elements of thread best size wire two and three wire method
+gear measurements of various elements constant chord method base tangent method
+surface finish surface topography definitions measurement of surface texture methods evaluation of surface finish
+optical metrology and non contact measurement techniques principle of light wave interference light sources measurement with optical types of interferometers michelson twyman green specialisation of michelson npl flatness interferometers the pitter npl gauge laser interferometer laser micrometer surface roughness measurement using laser
+machine vision image processing techniques edge detection extraction applications
+coordinate measuring machine components of head types of alignment of error of performance integration measurement straightness flatness squareness parallelism circularity roundness and runout
+control charts acceptance sampling introduction definition of quality chance causes and assignable causes sqc benefits and of control charts control charts for variables charts run up run down process capability studies
+control charts for attributes chart np chart and chart
+acceptance oc curve aql ltpd aoql sampling plans simple double multiple and sequential sampling plans simple problems
+jain engineering metrology khanna publishers
+gupta statistical quality control khanna publishers course title
+project course no
+me398 focus group mechanical engineering offered for to semester type compulsory to take effect from july vi semester refrigeration and air conditioning me321 to study the characteristics and engineering design of heating ventilating air conditioning and refrigeration and to enable the students to achieve effective and efficient design solutions
+the students will learn to explain and analyze the refrigeration systems their various components and to apply them in real system analysis
+they will demonstrate the knowledge of basic principles of refrigeration cycle and
+introduction definition necessity methods of refrigeration coefficient of performance cop fundamentals refrigerants definition classification nomenclature desirable properties comparative study introduction to refrigerants
+air refrigeration systems carnot refrigeration cycle brayton refrigeration or the bell coleman air refrigeration cycle air craft refrigeration system simple cooling and simple evaporative types regenerative type comparison of different systems
+vapour compression vc refrigeration systems simple vcrefrigeration system limitations of reversed carnot cycle with vapor as the refrigerant analysis of vc cycle considering degrees of sub cooling and super heating effects of operating conditions on cop comparison of vc cycle with air refrigeration cycle multistage refrigeration systems necessity of compound compression compound vc cycle with liquid and or water inter cooler multistage compression with flash cooling water
+other refrigeration systems vapour absorption refrigeration system basic systems actual cop of the system performance relative merits and demerits electrolux refrigeration steam jet refrigerating system introduction analysis relative merits and demerits performance applications cascade refrigerating systems necessity selection of pairs of refrigerants for the system concept of cascade temperature analysis multi staging comparison with vc systems applications
+psychometry of air air conditioning processes properties of moist dalton law specific humidity dew point temperature degree of saturation relative humidity enthalpy wet bulb temperature wet psychometric chart psychometry of processes mixing process basic processes in conditioning of air
+load calculations outside and inside design conditions sources of heating and cooling load heat transfer through structure solar radiation electrical applications infiltration and ventilation heat generation inside conditioned space apparatus selection comfort chart
+air conditioning systems with controls accessories classifications layout of plants equipment selection air distribution system duct system design filters refrigerant piping design of summer and winter air conditioning systems temperature sensors pressure sensors humidity sensors actuators safety controls accessories
+refrigeration and air conditioning equipments type of compressors and their performance curves types of condensers heat transfer in condensers types of expansion devices types of evaporators cooling and dehumidifying coils
+jordan priester refrigeration air conditioning prentice hall of india
+arora refrigeration air conditioning tata mcgraw hill
+stocker jones refrigeration air conditioning tata mcgraw hill
+prasad refrigeration air conditioning wiley eastern limited
+arora domkundwar course in refrigeration air conditioning dhanpat rai sons turbomachinery me322
+to teach about different types of turbomachines used in energy transformations
+to introduce basic principles and equation governing the steady and unsteady fluid flow associated with turbomachinery
+to impart knowledge of designing turbines vanes using velocity triangles
+to analyze the flow behavior which depends on the geometric configuration of various turbomachines
+identify and analyze the thermal cycles related to turbomachines
+stage characterization using various design parameters overview of power prime movers turbomachines used for energy conversion classification of turbomachines eulers equation of turbomachines concept of velocity triangles for general case expression of eulers equation showing the components energy transfer dimensional analysis incompressible turbomachines concept of specific speed and specific diameter similarity laws and model testing
+introduction to pumping systems centrifugal pumps working principle and constructional details of volute and vortex casing efficiencies losses operating characteristics multistage pumps npsh priming and cavitation potential of hydropower and layout of hydropower plant hydraulic turbines efficiencies impulse and reaction machines analysis of francis turbine analysis of kaplan turbine analysis of performance characteristics of hydraulic turbines compressible flow turbomachines concept of static and stagnation states general idea of losses efficiencies review of and diagrams of turbines and compressors total total efficiencies effect of reheat and preheat
+dimensional analysis of compressible flow machines
+lift and drag nomenclature of aerofoil blade cascading concept turbine cascade compressor cascade layout of gas turbine power plant axial flow compressors construction details stage velocity triangles degree of reaction work done factors stalling and surging
+centrifugal compressors construction flow analysis stage pressure rise stage pressure coefficient stage efficiency gas turbines steam turbine overview impulse turbine speed ratio idea of velocity and pressure compounding
+reaction and reaction introduction to ventilation systems fans and blowers turbomachines used in power transmission fluid coupling torque converter
+dixon fluid mechanics thermodynamics of turbomachinery edition
+sheperd principles of turbomachinery mac millan
+kearton steam turbine theory and practice cbs publishers distributors
+cohen rogers and saravanamuttoo gas turbine theory longman publishing group design of machine elements me323 compulsory for me
+the design and creation of devices that consist of interrelated components used to modify force motion
+to inculcate the modes of stress concentration failure and fatigue in components at
+understanding for the different types of failure modes
+to know the different types of elements used in the machine design process and to graphically represent them
+introduction to engineering design design mechanical design design considerations design methods engineering materials and their mechanical properties use types of codes standards in design selection of preferred sizes behaviour of ductile brittle material diagram for various materials
+factor of safety
+design for strength failure criterion problems maximum normal and shear stress theory distortion energy theory stress concentration stress concentration factor stresses in members subjected to axial shear bending torsional eccentric loading fatigue failure endurance limit strength size effect surface effect reliability stress concentration effects etc
+problems on design of members for finite infinite life in members subjected to individual combined loading
+cumulative damage in fatigue
+design of shaft and couplings types design of solid hollow shaft on strength and rigidity basis with steady loading subjected to pure torsion
+design of shafts carrying pulleys gears combined loading
+asme code for shaft design
+cotter knuckle joints design procedure design of flange bush pin type flexible coupling
+design of riveted bolted and welded joints rivets types and uses riveted joints types and efficiency design procedures types of weldments and symbols strength of welded joints design of bolted eccentric loading of riveted welded and bolted joints
+design of mechanical springs and levers helical springs stresses and deflection design principles leaf springs stresses design principles levers types and design procedures general design principle
+mechanical drives classification and selection steps for main components of belt rope and chain drives
+design of clutches and brakes classification application and design consideration of clutches and brakes
+general principles of presentation bis code of practice for engineering drawing conventional representation of dimensioning and sectioning threaded parts gears springs and common features
+abbreviations and symbols used in technical drawings
+symbols and method of indication on the drawing for surface finish welding and riveted
+tolerance types and representation on the drawing fits types and selection for different applications basic hole systems basic shaft systems allowances
+geometric tolerances form and positional
+datum and datum features symbols used to represent geometric tolerances
+assembly drawing of joints coupling and bearings preparation of drawing for keys and keyways cotter joints knuckle joints and threaded fasteners
+preparation of drawing for couplings flange coupling and universal coupling bearings plummer block representation of tolerances in drawing
+assembly drawing of machine elements preparation of assembled views using parts details lathe tail stock lathe chuck connecting rod screw jack machine vice tool head of shaper
+jigs and fixtures jigs latch channel box post pot jigs automatic drill jigs lathe milling and broaching grinding planning shaping fixtures and welding fixtures
+preparation of fixtures for basic components
+shigley mischke nisbett and richard mechanical engineering design mcgraw hill education spotts shamp design of machine elements prentice hall sidheswar sastry machine drawing tata mcgraw hill industrial engineering me324 to impart knowledge and train students in area of industrial engineering by making them familiar with the basic concepts involved in productivity management production planning materials management work study and ergonomics and their application
+understanding of basics of production planning facility location and layout and ability to carry out forecasting analysis layout study
+understanding of basics of work study and ability to carry out time study
+understanding of materials management and maintenance concepts ability to carry out inventory costing
+understanding of ergonomics and ability to carry out posture analysis
+introduction to industrial engineering relevance of industrial engineering for achieving excellence industry
+productivity management measurement and improvement resource waste minimization lean manufacturing
+forecasting analysis need and benefits various qualitative and quantitative models error analysis in quantitative forecasting
+production planning aggregate production planning pure and mixed aggregate planning strategies master production scheduling material requirements planning and manufacturing resource planning mrp and mrp ii plant location layout factors effecting plant location selection of plant site quantitative techniques of plant location decision plant layout principles of layout design methods for evaluation of layout quantitative techniques of developing layouts
+materials management objectives and functions procurement types of inventories inventory costs inventory control models determination of eoq under deterministic conditions bill of materials
+product engineering product design considerations product development detailing value engineering and its role in product design and cost rationalization ipr patents copyright
+maintenance management objectives nature of maintenance problems maintenance strategies organization maintenance information systems spare parts management maintenance cost control introduction to total productive maintenance
+work science purpose and scope productivity and method study and work measurement principles of motion economy elements of work sampling predetermined motion time systems principles of work design
+ergonomics role of ergonomics in industry introduction to anthropometry task analysis to reduce skeletal disorders posture analysis introduction to effect of physical environment on performance lab exercises related to work study ergonomics plant layout exercises on facilities planning forecasting production planning materials management
+ilo work study geneva ilo
+curie introduction to work study mcgraw hill
+sanders mccormic human factors in engineering mcgraw hill
+monks management mcgraw hill course title
+me399 to take effect from july course title
+me498 focus group mechanical engineering to take effect from july vii semester course title
+me499 focus group electrical engineering viii semester course booklet for

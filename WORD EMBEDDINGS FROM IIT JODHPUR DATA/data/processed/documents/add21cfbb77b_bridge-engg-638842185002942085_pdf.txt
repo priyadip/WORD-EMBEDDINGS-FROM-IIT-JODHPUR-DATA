@@ -1,0 +1,28 @@
+concept note on in bridge engineering department of civil and infrastructre engineering indian institute of technology jodhpur introduction upscaling and modernization of built infrastructure in india are taking place at an unprecedented scale in line with its viksit bharat vision
+india has about bridges and they are one of the vital arteries of the transportation infrastructure
+bridges in their service life are susceptible to extreme events such as earthquakes wind fire and flood
+they are also prone to environmental conditions such as scouring and corrosion and these environmental conditions often deteriorate the service life
+the design and maintenance of bridges are governed by numerous factors for instance assessment of loads choice of materials analysis tools codal provisions connection detailing and maintenance manual
+bridge often requires less maintenance and should have enough resistance against previously mentioned durability concerns
+in recent decades there has been noticeable growth in the scale and complexity of bridge structures in india and abroad
+for example the rail hsr project is one of the lofty visions of the government of india which aims to develop rail transport network with operating speeds as high as
+in hsr the viaduct bridge structures are one of the critical components
+at the same time several bridges in india are aged and require frequent maintenance and assessment of their health
+therefore in the coming decades manpower training skill development and upgradation as well as indigenous technology developments are vital in the area of bridge engineering
+the bridge engineering academic curriculum in india is insufficient for the current civil engineering industry requirements
+it lacks the required rigor compared to the established civil engineering courses earthquake engineering construction technology etc
+for instance in undergraduate ug civil engineering programs students are usually given perspective on bridge structures in structural analysis and design courses without much attention to aforementioned critical factors
+the emphasis on codal provisions and construction practices is not on par with buildings and other critical structures
+it should be mentioned that postgraduate pg civil engineering programs of institutes of repute such as iits and nits offer few electives on bridge engineering
+however elective courses are subject to the availability of expert faculties
+consequently designers and civil engineering practitioners rely on computational software without proper understanding of bridge engineering
+this is an inappropriate practice and recently there have been many instances of bridge collapse during construction
+therefore rigorous curriculum aiming at developing graduate engineers in the domain of bridge engineering is the need of the hour
+this concept note presents the brief outline of an
+program structure the program structure will be as per the institute
+the coursework will include foundational courses and list of electives
+the foundational courses focus on topics in mathematics solid and fluid mechanics analysis and design category program core pc electives
+project mp courses credits that are relevant to bridge engineering
+the elective courses focus on various themes in bridge engineering bridge construction foundation finite element analysis monitoring and condition assessment durability and repair etc
+the tentative core and elective courses are outlined below subject to the approval of the institute senate
+program core courses pc mathematics for civil engineering advanced solid and fluid mechanics analysis of bridge structures design of bridge structures elective courses bridge site selection and foundation safety bridge materials construction and assessment finite element method structural dynamics advanced concrete technology prestressed concrete structures bridges bridge foundation introduction to structural health monitoring

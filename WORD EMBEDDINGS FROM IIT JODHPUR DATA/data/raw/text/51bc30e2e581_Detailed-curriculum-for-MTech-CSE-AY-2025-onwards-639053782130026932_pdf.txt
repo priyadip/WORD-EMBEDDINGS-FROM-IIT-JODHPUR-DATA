@@ -1,0 +1,110 @@
+SOURCE_PDF: 51bc30e2e581_Detailed-curriculum-for-MTech-CSE-AY-2025-onwards-639053782130026932.pdf
+
+C
+at. Course Number, Course Title L-
+T-
+P Credit
+s Ca
+t. Course Number, Course Title L-
+T-P Credit
+s
+I Semester II Semester
+C CSL7xx
+0 Mathematical
+Foundations for
+Computer Science 3-
+0-0 3 C CSL7xx
+0 Software & Data
+Engineering 3-
+0-0 3
+C CSL7xx
+0 Advanced
+Data
+Structures
+and
+Algorithms 3-
+0-0 3 E XXX7X
+X0 Elective 3-
+0-0 3
+C CSL7xx
+0 Advanced
+Architecture and
+OS 3-
+0-0 3 E XXX7X
+X0 Elective 3-
+0-0 3
+E XXX7X
+X0 Elective 3-
+0-0 3 E XXX7X
+X0 Elective 3-
+0-0 3
+N
+G
+1 HSN7X
+X0 Non-Graded I 1-
+0-0 S/X N
+G
+2 HSN7X
+X0 Non-Graded II 1-
+0-0 S/X
+Total 12 Total 12
+III Semester IV Semester
+T MET8X
+Xo Thesis 16 T MET8X
+X0 Thesis 16
+Total 16 Total 16
+S.No. Course Number Course Title
+1 CSL7XXX Cybersecurity 3-0-0 3
+2 CSL7XXX Complexity Theory 3-0-0 3
+3 CSL7XXX Advanced Algorithms 3-0-0 3
+4 CSL7XXX Emerging Network Technologies 3-0-0 3
+5 CSL7XXX Blockchain Technologies 3-0-0 3
+6 CSL7XXX Computer Vision 3-0-0 3
+7 CSL7XXX Distributed Database Systems 3-0-0 3
+8 CSL7XXX Virtualization and Cloud Computing 3-0-0 3
+9 CSL7XX0 Machine Learning 3-0-0 3
+10 CSL7XX0 Mobile and Pervasive Computing 3-0-0 3
+11 CSL7XX0 Natural Language Understanding 3-0-0 3
+12 CSL7XX0 High Performance Computing Architectures 3-0-0 3
+Department of Computer Science & Engineering
+Indian Institute of Technology Jodhpur
+N.H. 62, Nagaur Road, Karwar, Jodhpur-342030
+CSProposed Curriculum
+
+S.
+No
+. Categ
+ory Course Category Title Total
+Courses Total
+Credits
+1 C COMPULSORY 4 12
+2 E ELECTIVES 4 12
+3 T Thesis 2 (16+16) 32
+Total 56
+S.No Ph.D. in With Minimum courses required
+1. Engineering
+discipline M.Tech., M.E. or M.Sc.
+(Engineering) in an Engineering
+discipline 4 Compulsory
+M.Sc. degree in a Science
+discipline 4 Compulsory (Same as M.Tech.
+Compulsory) + 4 Electives
+B.Tech., B.S., B.E. or B.Sc.
+(Engineering) in an Engineering
+discipline 4 Compulsory (Same as M.Tech.
+Compulsory) + 4 Electives
+2. Science, Humanities
+or Social Science
+discipline M.Sc., M.A. and M.Phil. degree in
+a Science, Humanities or Social
+Science discipline 4 Compulsory
+3. Management, Design As per approved norms after 2
+years of Masters degree in
+appropriate discipline 4 Compulsory
+1. Departments can design various sets of compulsory courses based on their research themes. These courses can
+either be existing ones or new courses introduced by the department.
+2. The four compulsory courses account for a minimum of 12 credits as per the current regulations. 
+3. Direct Ph.D. students holding a B.Tech. degree can choose to pursue an additional M.Tech. degree by
+fulfilling the M.Tech. thesis requirements. The M.Tech. thesis work must be separate from the Ph.D. thesis. 
+The additional degree will be awarded alongside the Ph.D. degree only upon the completion of the Ph.D. 
+program.

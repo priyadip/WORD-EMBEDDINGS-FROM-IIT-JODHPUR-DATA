@@ -1,0 +1,50 @@
+item eigenvalue problem for optical bent waveguides no thumbnail available date researcher kumar rakesh supervisor hiremath kirankumar journal title journal issn volume title publisher indian institute of technology jodhpur abstract optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+nowadays with optical waveguides it is possible to have all the facilities for communication and transmitting data
+due to its importance researchers worldwide emphasize exploring optical waveguides and their different aspects including design properties applications and integration with other technologies
+the most prominent waveguides are straight waveguides and bent waveguides
+these waveguides are experimentally numerically and
+the mathematical aspects of the optical straight waveguides are explored very well
+in this thesis we presented the mathematical aspects of the dielectric optical bent waveguides
+the analysis was done by constructing an eigenvalue problem governing the bent waveguide model using maxwell equations in the appropriate space setting
+we restrict to the straight and bent waveguide model
+the main difficulty in studying the mathematical aspects of the bent waveguide model was the of the bent waveguide problem
+unlike theory for eigenvalue problems there is no general theory for eigenvalue problems
+it makes extracting information directly about the model associated with these problems challenging without conducting separate analysis
+in the we discussed the basics to understand how the optical waves propagate in the planner straight and bent waveguides
+the rigorous mathematical model of the straight and bent slab waveguides with constant profiles is discussed
+the main objective of the model is to understand the optical wave propagation analytically in the model
+the literature survey for the optical waveguides is also part of this chapter where one can find the work based on experimental numerical and studies
+for the mathematical study of the bent waveguide model in we discussed some primary results on the spectral theory of and operators
+we conducted literature survey focused on the spectral theory of various operators
+this survey aimed to provide insight into methodologies for analyzing different problems
+the analytic study of the straight waveguides showed that the corresponding eigenvalues problem is
+it has real eigenvalues
+also the eigenfunctions corresponding to distinct eigenvalues are orthogonal
+the analytical study of the bent waveguide was still missing due to the of the corresponding eigenvalue problem
+our study has addressed this gap part of chap
+the analytic work presented in this chapter showed the of an eigenvalue problem based on an operator theoretic setting
+here the of the bent waveguides problem is discussed by finding the adjoint operator of the problem
+the problem has eigenvalues which indicate the lossy nature of the bent waveguide modes
+this problem contains bent radius parameter
+the other studies show that when this parameter is large this problem transforms into straight waveguide problem
+in terms of the underlying mathematics we proved this using transformation showing that problem transforms into problem
+moreover the eigenvalues of the bent waveguide problem change into real eigenvalues of the corresponding equivalent straight waveguide problem
+an explicit relation between the real and imaginary parts of the propagation constants is constructed on detailed analysis
+based on this relation in chap
+the boundedness of both real and imaginary parts of the propagation constants is proved meaning they are confined within certain region in the complex plane
+furthermore problem has vorthogonal eigenfunctions corresponding to distinct eigenvalues
+for fixed bent radius study shows that the bent waveguide eigenvalue problem has orthogonal eigenfunctions corresponding to distinct eigenvalues
+to prove this analytically we use the adjoint operator and show the orthogonality behavior of the eigenfunctions
+for the bent waveguides the asymptotic behavior of the eigenfunctions bent modes dictates the distribution of electromagnetic energy in the radial directions
+in this work we showed mathematically that the asymptotic behavior of the eigenfunctions is proportional to
+this information helps to define the appropriate function space and the subsequent mathematical analysis of the wave several mathematical questions about the bent waveguide model demand further investigation
+the stability of the model for perturbations in the system parameters the nature of its pseudospectra etc
+the compactness of the operator for the bent waveguide eigenvalue problem needs to be explored to get more insights into the model
+moreover one can extend this work to the future of the bent waveguides description keywords citation kumar rakesh eigenvalue problem for optical bent waveguides doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses full item page item eigenvalue problem for optical bent waveguides eigenvalue problem for optical bent waveguides no thumbnail available date researcher kumar rakesh supervisor hiremath kirankumar journal title journal issn volume title publisher indian institute of technology jodhpur abstract optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+indian institute of technology jodhpur uri collections doctoral theses full item page no thumbnail available date researcher kumar rakesh supervisor hiremath kirankumar journal title journal issn volume title publisher indian institute of technology jodhpur no thumbnail available researcher kumar rakesh supervisor hiremath kirankumar hiremath kirankumar publisher indian institute of technology jodhpur indian institute of technology jodhpur abstract optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+indian institute of technology jodhpur uri collections doctoral theses full item page abstract optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides citation kumar rakesh eigenvalue problem for optical bent waveguides doctor thesis
+indian institute of technology jodhpur kumar rakesh eigenvalue problem for optical bent waveguides doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses

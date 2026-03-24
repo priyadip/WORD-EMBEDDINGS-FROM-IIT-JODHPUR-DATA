@@ -1,0 +1,39 @@
+microelectronics laboratory this lab was developed to support the fabrication of discrete devices
+it is mainly research laboratory focusing on low cost devices and sensors for various applications
+currently various devices such as organic transistors and gas sensors are routinely fabricated and characterized
+following is the summary of facilities of this laboratory me lab this lab was developed to support the fabrication of discrete devices
+following is the summary of facilities of this laboratory research themes
+organic and flexible electronics ofets circuits and sensors to reduce the detrimental impact of on the earth electronic products need to be developed which leave minimum footprints on earth at the end of their lifespan
+this technology offers advantages over inorganic electronics with the possibility of development of systems on unconventional substrates that can even be of biodegradable nature
+details of this work can be found on the page of flame research group
+device and sensor development sensors based on various materials including oxide metal semiconductors and materials such as are being fabricated for various applications using gases and pollutants
+eventual aim is to develop integrated sensors which can be enabled for iot applications
+other sensors such as biosensors and mems based sensors are also being explored
+new material and devices bandgap engineering and surface studies of semiconductors hemts compact modelling and simulation
+hybrid electronic sensor technology hestech research group develops hybrid semiconductor devices and sensors that synergistically integrate semiconductors with advanced functionalities driving the next generation of sensor bioelectronics and wearable technologies
+organic electrochemical transistors oects use coupling in electrolytes for highly sensitive biosensing in healthcare and environmental monitoring
+oect offers operation inherent signal amplification flexibility and biocompatibility ideal for wearable and implantable electronics
+flexible printed electronics made using conductive inks and nanomaterials enable bendable lightweight devices for various physical and chemical sensing applications
+hybrid electronic sensor technology hestech research group develops hybrid hestech research group facilities device fabrication mask aligner thermal evaporation system evaporation system chemical vapor deposition system rf sputtering atomic layer deposition mask aligner fume hoods characterization keithely scs probe station gas sensing characterization setup hall effect measurement profilometer sensor and transducer design and simulation tools device fabrication mask aligner thermal evaporation system evaporation system chemical vapor deposition system rf sputtering atomic layer deposition mask aligner fume hoods characterization keithely scs probe station gas sensing characterization setup hall effect measurement profilometer sensor and transducer design and simulation tools integrated software suite for designing and simulating mems sensors and actuators
+versatile fem and bem based tool set has material properties database creates or imports layout and can build models in conjunction with process flow information
+important modules consist of designer material properties editor process editor layout editor foundry design kits analyzer meshing memelectro memmech cosolve parametric simulations visualization advanced solvers and reduced order modelling mentor graphics hep software tanner mems design layout editor and ic design suite consist of tanner eldo and nitro soc etc
+integrated software suite for designing and simulating mems sensors and actuators
+sputtering characterization setup thermal evaporation profilometer characterization setup faculty memebers
+shree prakash tiwari research interests microelectronics organic electronics microfabrication device physics and characterization email office location room no
+department of electrical engineering phone web
+mahesh kumar research interests device technology electronic materials micro and nano device fabrications group quantum structures by mbe growth of thin films and nanostructures of wide bandgap semiconductors dielectrics and new chemical materials like graphene si and wide bandgap semiconductors for mems devices email office location room no
+department of electrical engineering phone web research interests device technology electronic materials micro and nano device fabrications group quantum structures by mbe growth of thin films and nanostructures of wide bandgap semiconductors dielectrics and new chemical materials like graphene si and wide bandgap semiconductors for mems devices office location room no
+department of electrical engineering
+saakshi dhanekar research interests for societal applications device development mems silicon technology email office location ee phone web research interests for societal applications device development mems silicon technology office location ee
+harshit agarwal research interests industry standard compact modeling devices transistors emerging memory technologies devices devices and circuits neuromorphic computing email office location department of electrical engineering room no
+phone web research interests industry standard compact modeling devices transistors emerging memory technologies devices devices and circuits neuromorphic computing office location department of electrical engineering room no
+ajay agarwal research interests microelectronics sensors devices and early diagnostics email office location department of electrical engineering phone research interests microelectronics sensors devices and early diagnostics office location department of electrical engineering phone
+akshay moudgil research interests nano electronics hybrid sensor systems wearable printed electronics biosensors bioelectronics photodetectors molecular electronics device fabrication and characterization email office location department of physics room no
+akshay moudgil research interests nano electronics hybrid sensor systems wearable printed electronics biosensors bioelectronics photodetectors molecular electronics device fabrication and characterization office location department of physics room no
+contact details room no
+the facilities are available in following room no
+please write to one of the following for more details room no
+please write to one of the following for more details important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated mar pm

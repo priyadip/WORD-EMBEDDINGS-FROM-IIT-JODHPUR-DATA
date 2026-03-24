@@ -1,0 +1,87 @@
+SOURCE_PDF: 4b870dc8cedc_brocheure-of-the-program-638887974141081700.pdf
+
+Admission to Executive M.Tech in Intelligent VLSI Systems for
+Working Professionals
+IIT Jodhpur invites applications for admission Part-time M. Tech. (Intelligent VLSI Systems) 
+program for the Semester commencing from September 2022. The proposed Executive M. Tech 
+program for Intelligent VLSI Systems of IIT Jodhpur includes state of the art semiconductor 
+devices and modeling techniques, analog and digital VLSI circuits and systems, mixed signal 
+circuits, testing and verification algorithms, issues with system integration for performance 
+considerations, covering wide aspects of embedded and computing systems, and emerging 
+applications. It will cover a wide aspect of fundamentals, design skills, hands on through 
+synchronous/asynchronous/campus-immersion mode and current trends in the industry. It will lead 
+the professionals to learn without a career break with classes conducted on weekends/weekdays 
+evening. The education delivery methodology combines classroom and experiential learning.
+Eligibility Criteria and Admission Process
+Eligibility
+B.Tech./B.E. (ECE/EE/CSE/EI/MSc. Physics/MSc. Electronics or equivalent) with at least 60% marks. At 
+least 2 years of professional work experience with sufficient hands-on experience.
+Selection Procedure
+Candidates must fill an online application at https://oa.iitj.ac.in/OA_PG_ADMISSION/. Selection will be 
+based on written test and/or interview and/or any other criteria deemed suitable by the admission committee. 
+Prior research exposure and/or industry experience in areas related to VLSI will be considered a plus. The 
+department reserves the right to set any cut off criteria for shortlisting the candidates. Mere fulfillment of 
+the eligibility criteria does not guarantee that the candidate will be shortlisted, as the shortlisting criteria are 
+often stricter than the eligibility criteria. Shortlisting criteria is decided after receiving the applications, and 
+is aimed at limiting the number of candidates considered for evaluation.
+Program Fee: Fee will be Rs 65,000/- per semester. The program is for min. 3-year (6 semesters) 
+duration. Fees once paid will not be refunded, if the candidate fails to join the program.
+Fees once paid will not be refunded, if the candidate fails to join the program.
+Written Test Topics: Basics of programming, basic mathematics, basics of electronics, circuit theory, 
+digital electronics
+Key Features of the Program:
+Class Schedule
+Classes will be conducted in the evening (e.g. from 5 PM to 7 PM IST) or on weekends at a convenient 
+time. There will be two to three lectures/labs every evening, each of duration 50 to 80 minutes. Typical 
+contact time for 1 credit: 14 lectures of 50 min each.
+
+Online Instruction
+Lectures will be webcast online and students will attend in a synchronous audio-visual mode. Students can 
+raise questions during the lecture. Recorded lectures and teaching material will be made available after the 
+sessions. Course management and offline discussions will be enabled via widely-used tools such as Google 
+classroom, Piazza and Moodle.
+Contact Weeks
+There will be mandatory two contact weeks in a semester. Students need to be present on campus during a 
+contact week and attend lectures and discussion sessions with instructors, and give a demonstration of 
+assignments. Alternatively, these contact weeks can be organized in remote locations, subject to higher 
+demand.
+The first contact week will align middle of the semester. The second contact week will align with the last 
+week of the semester (subjected to COVID19 pandemic situation). Institute may provide hostel 
+accommodation during the contact week, subject to availability.
+Assessment
+Grading will be based on examinations, online quizzes, theoretical assignments, etc. Institute policy will be 
+followed for the examination.
+Credit Requirements
+Students need to earn 62 credits as per the course structure in order to qualify for the degree over a minimum 
+period 
+of 
+3 
+years. 
+More 
+details 
+related 
+to 
+the 
+program 
+are 
+available 
+here:
+Faculty
+Instructors comprising of IITJ faculty members and industry experts.
+Important Dates
+Application Procedure
+Applicants are requested to use the following link to fill and submit the application form online: 
+https://oa.iitj.ac.in/OA_PG_ADMISSION
+Applicants are required to pay the processing fee of Rs. 500 online while submitting the application form. 
+The application fees is non-refundable.
+
+Cancellation of admission
+The Institute reserves the right to cancel, at any stage, the admission of a candidate admitted to a programme 
+and is later found that he/she is not entitled, being unqualified or ineligible in accordance with the 
+Regulations in vogue, or suspension/termination of programme. In case of cancellation/withdrawn of 
+admission after registration from programme, refund of fee will not be permissible.
+Contact us:
+In case of any query with respect to the online application, candidates may contact: Office of Automation 
+(oa_automation@iitj.ac.in) and other general queries may be directed to the office of the Department of 
+Electrical Engineering at the following phone number: 0291-2801352 or email address: 
+office_ee@iitj.ac.in.

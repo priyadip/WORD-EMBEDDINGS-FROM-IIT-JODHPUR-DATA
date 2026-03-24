@@ -1,0 +1,5 @@
+invited talk by matheus brito on december at pm speaker matheus brito title of the talk on tensor products of representations for lie algebras and quantum groups date time and venue december pm at seminar room dept
+of mathematics abstract we discuss tensor products of simple modules for quantum affine algebras and the problem of determining when such products remain simple
+after reviewing the classical and quantum affine case for the lie algebra sl2 we focus on type where combinatorial interval models help describe reducibility phenomena
+recent joint work establishes uniqueness of prime decomposition for modules whose drinfeld parameters have snake support providing new insight into the structure of simple and prime modules in the quantum affine setting
+speaker matheus brito title of the talk on tensor products of representations for lie algebras and quantum groups date time and venue december pm at seminar room dept

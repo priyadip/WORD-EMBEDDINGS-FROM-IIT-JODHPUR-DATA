@@ -1,0 +1,112 @@
+SOURCE_PDF: b5f8ece5f825_3_20B.Tech_20CSE_20Program_20structure_07102020.pdf
+
+Cat Course LTP CH N GC Cat Course LTP CH NC GC
+I Semester II Semester
+IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4 IE Engineering
+Mechanics 2-1-0 3 - 3
+IE Introduction to
+Computer Science 3-0-2 5 - 4 IS Chemistry 3-0-0 3 - 3
+IE Introduction to
+Bioengineering 3-0-2 5 - 4 IS Physics 3-0-0 3 - 3
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communication
+Skill I 0-0-2 2 1 - NH Communication
+Skill II 0-0-2 2 1 -
+NH Social Connect 0-0-1 1 0.
+5 - NH Social Connect 0-0-1 1 0.5 -
+and and
+responsibilities I responsibilities II
+NH Performing Arts I
+/Sports I 0-0-1 1 0.
+5 - NH Performing Arts
+II/Sports II 0-0-1 1 0.5 -
+2nd year B.Tech Computer Science & Engineering
+Program Structure
+For AY 2020-21
+
+Total 12-1-
+14 27 3 17 Total 11-2-12 24 3 16
+III Semester IV Semester
+IS Probability,
+Statistics and
+Stochastic
+Processes 3-1-0 4 - 4 IE Materials Science
+& Engineering
+(Electronic
+materials) 1-0-0 1 - 1
+IE MSE -
+(i) Energy
+materials
+(ii) Computational
+Material Design 2X 1-
+0-0 2 - 2 IE Thermodynamic
+s 3-1-0 4 - 4
+IE Signals and
+Systems 3-1-0 4 - 4
+IE Pattern 3-0-2 5 - 4
+PC Maths for
+Computing 3-1-0 4 4 PC Software 3-0-2 5 4
+PC Data Structures
+and Algorithms 3-0-2 5 - 4 PC Human-Machine
+Interaction 0-0-4 4 2
+LS Foundations of
+Quantum
+Information
+Processing
+(Program Linked
+Science Elective) 3-0-0 3 - 3
+PC Digital Design 2-0-2 4 3
+IH Humanities I 3-0-0 3 3
+NE Intro. To
+Profession 0-0-2 2 1
+Total 17-3-
+4 24 1 21 Total 15-1-10 23 - 21
+V Semester VI Semester
+PC Design and
+Analysis of
+Algorithms 3-1-0 4 4 PC Cyber Security 3-0-2 5 4
+PC Computer
+Architecture 3-0-0 3 3 PC Computer 3-0-3 6 4.5
+PC Operating
+Systems 3-0-2 5 4 PC Digital Systems 0-0-3 3 1.5
+
+PC Principles of
+Programming
+Languages 3-0-0 3 3 PC CS Core 3-0-0 3 3
+PC Database Systems 3-0-2 5 4
+IH Humanities II 3-0-0 3 - 3 PE Programme/Ope
+n Elective 6-0-0 6 6
+NH Professional 0-1-0 1 - NH Professional 0-0-2 1 -
+Ethics I Ethics II
+Total 18-2-
+4 23 1 21 Total 15-1-8 23 1 19
+VII Semester VIII Semester
+IH Humanities IV 3-0-0 3 - 3
+PP B. Tech. Project 0-0-6 6 - 3
+PE
+/
+OE Programme/Ope
+n Electives 6-0-0 6 - 6 PE
+/
+OE Programme/Ope
+n Electives 15-0-0 15 - 15
+IH Humaniti
+es III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 14-0-
+6 20 - 17 Total 18-0-0 18 - 18
+Total of Graded Credits - 150
+Total of Non-Graded Credits 9 -
+Non-Graded Design Credits 6 -
+Grand Total 165
+Note: ES are proposed Engineering Science compulsory courses

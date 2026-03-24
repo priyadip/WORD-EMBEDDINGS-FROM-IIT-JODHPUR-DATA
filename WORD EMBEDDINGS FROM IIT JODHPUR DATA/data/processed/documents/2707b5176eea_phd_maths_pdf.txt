@@ -1,0 +1,2 @@
+course number course title credits semester ii semester electives electives tota total iii semester iv semester ma799 thesis ma799 thesis total total semester vi semester vii semester viii semester semester semester ii ma754 algorithmic graph theory ma757 numerical partial differential equations ma755 chaos theory and its applications ma759 stochastic processes ma756 functional analysis
+category category title students with total courses total credits electives master degree bachelor degree thesis proposed curriculum electives

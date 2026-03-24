@@ -1,0 +1,21 @@
+iete awards winners iete main awards iete corporate awards iete best paper awards iete academic awards the following is list of the recipients of the iete awards
+iete would like to extend its congratulations to all of the recipients of this year awards
+the iete award ceremony will be held at the scientific instruments organisation csio sector chandigarh during the annual iete convention aic which will take place from september to
+the iete will send specific correspondence to each recipient which will include details of the event and schedule of the award ceremony
+iete best paper awards awardees iete sk mitra memorial the best research oriented modified automated system for glaucoma diagnosis by amit rawat maheshwari prasad singh and rishi raj sharma published in iete journal of research vol no
+july issue pp
+iete jc bose best engineering design and development of dof assistive feeding robot for the aged and people by priyam parikh reena trivedi jatin dave keyur joshi and dipak adhyaru published in iete journal of research vol no feb issue pp iete mn saha best application oriented paper designing of reduced switch standalone solar inverter suitable for water pump application by shubhajit pal avik bhattacharya and rubell sen goopta published in iete technical review vol no
+iete ks krishnan best system an technique for resource allocation in mobile internet of thing miot using selfish node ranking and an optimization algorithm by zhengbing zheng and habibeh nazif published in iete journal of research vol no
+apr issue pp
+iete cdil award for the best paper contributed by authors working in industry chiplets for integration of electronic systems by ravikumar published in iete journal of education vol no pp
+iete gowri best paper on topic of general metaheuristic algorithms in smart farming an analytical survey by aishwarya mishra and lavika goel no pp
+iete journal of education two best papers from iete journal of education
+experimental observation of chaotic attractors from the fpga implementation of chaotic systems by david jonathan daniel and esteban published in iete journal of education vol no pp
+iete academic awardees challenges and opportunities for photonics in next generation computing sukhdev roy department of physics and computer science dayalbagh educational institute agra india the anticipated demand for bandwidth communication and computing has given the impetus to develop the photonic technologies with the promise of higher performance at lower cost
+there is tremendous effort directed towards and links and switching routing and optical interconnect technologies to eliminate the electronic bottleneck and integration of photonics and electronics to enable new architectures
+this raises multitude of opportunities and challenges for research and innovation
+the advent of nano and bio technologies in the design synthesis and characterization of novel materials structures and devices and photonic integrated circuits have opened up exciting new possibilities
+the talk would provide broad overview of recent advances for high performance parallel and energy efficient photonic information processing that include nano photonics plasmonics organic and silicon photonics photonic crystals and metamaterials ultrahigh resonator structures and quantum photonics
+advances in conservative and reversible photonic logic and molecular quantum and neuromorphic photonics have also opened up new vistas for computing with light
+the talk would focus on some of our recent experimental and theoretical results on optical switching in variety of configurations that include graphene organometallics organic materials namely transition metal dichalcogenides heterostructures bodipy derivatives cotcpp surmof nanofilms natural photoreceptor proteins nanostructures such as silica and silicon microring resonators controlled neurons and neuromorphic devices to design wide range of ultrafast boolean reversible and reconfigurable computing circuits that include various logic gates counters encoder comparator ram and arithmetic logic unit alu
+the talk would review the status of current technologies highlight the importance of integrating them and identify important challenges that need to be overcome to realize the next generation information processing systems

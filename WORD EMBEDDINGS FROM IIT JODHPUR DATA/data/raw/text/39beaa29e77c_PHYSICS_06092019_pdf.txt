@@ -1,0 +1,926 @@
+SOURCE_PDF: 39beaa29e77c_PHYSICS_06092019.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Department of Physics
+Two-year M.Sc. Programme
+Curriculum
+
+Introduction
+Physics is one of the oldest disciplines of Science dealing with the development of a number of 
+theories that attempt to explain the origin of the Universe and also various forces that exist in 
+nature. Further, the genesis of most of the Engineering Disciplines is based on various principles 
+and theories of physics. Hence, the subject of physics, on one side deals with the development of 
+fundamental theories towards revealing various processes and forces in nature and on the other 
+hand, it seamlessly interfaces with almost all disciplines of engineering wherein outcome of the 
+research in physics can be translated into useful technologies and products thereby immensely 
+contributing to the wellbeing of mankind.
+Objective of the Programme
+The major objective of the programme is to bring out professionals having knowledge of basic laws 
+of nature together with strong fundamentals in the core area of physics viz. Classical Mechanics, 
+Quantum Mechanics, Condensed Matter Physics, Electromagnetism, Computational Physics, 
+Statistical Physics, Electronics, Atomic and Nuclear Physics and advanced level topics such as 
+Quantum Information Processing, Quantum Computing, High Energy Physics, Astrophysics, Plasma 
+Physics, Nanotechnology, Nonlinear Optics, etc. Further objective of the program is to inculcate 
+certain specific enabling skill sets to prepare the students to take up challenges in any one or more 
+functional domains viz. (i) Academics; (ii) Basic and Applied Research; (iii) Research & 
+Development; (iv) Engineering & Technology and (v) Industry.
+Expected Graduate Attributes
+1. In depth understanding of the fundamental concepts of physics. 
+2. Ability to undertake problems in multidisciplinary domains of Science & Technology viz.
+Space Science, Medical Physics, Plasma Science, Quantum Technologies, Advanced 
+Materials Science, Computational Techniques, etc.
+3. Ability to apply the acquired knowledge of Physics to Engineering Problems. 
+4. Understanding of basic tools of computational physics and their application in various
+domains of physics and engineering.
+5. Ability to perform the experiments and analyze the experimental data based on acquired
+knowledge in the domains of electronics, atomic and nuclear physics, condensed matter 
+physics, optics and Lasers, and other advanced topics.
+6. Skills to demonstrate basic principles of physics by use of simple experimental as well as
+high end experimental techniques.
+7. Ability to develop advanced functional materials and carry out their characterization. 
+8. Ability to design, fabricate and characterize device structures such as sensors, solar cells,
+optical components, etc. for various applications.
+9. Ability to make effective oral and written technical communication. 
+10. Appreciation and adherence to norms of professional ethics.
+Learning Outcomes
+1. Knowledge and deep understanding of principles of basic and applied physics. 
+2. Subject knowledge to pursue higher studies in the advanced physics areas, such as, High
+Energy Physics, Astrophysics, Quantum Information Processing, Nanotechnology, Plasma 
+Technology, Nonlinear Optics, Fibre Optics, etc.
+3. Knowledge of fabrication and characterization of devices, such as, solar cells, gas sensor,
+energy storage, magnetic data storage, etc.
+4. Skills in certain experimental techniques for characterization of materials for their structural,
+morphological, surface topology, electrical, magnetic, dielectric and optical properties.
+5. Knowledge and skills to use various vacuum based techniques for development of thin film
+based materials, structures, and plasma devices and systems.
+
+6. Technical knowledge and skills to understand and appreciate interdisciplinary research
+7. Skills in computational physics for wide range of applications ranging from the visualization
+of physical theories and process, design of functional materials, simulation and modeling of 
+optical processes, etc.
+8. Written and Oral technical communication skills.
+Program Structure:
+• 
+60% Core courses ~ 38 credits
+• 
+30% Program Electives (PE) (can be opted from a list specified by the department which can 
+include courses from sister departments which are relevant for the programme) ~ 18 credits
+• 
+10% Open electives (OE) (OE can be opted from any department as per student‟s choice); 
+~ 6 credits
+OE and PE can include lab courses as well as hands-on sessions
+• 
+Project ~ 15 credits
+• 
+Total Credits ~ 77
+
+Type L-T-P-D Distribution of contact and beyond contact Total Credits
+hours = TH/3
+Contact Beyond Total (TC)
+Hours Contact Hours
+1 hour of Lecture 1-0-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Lab/
+Hands On/ Seminar 0-0-1-0 1 hr 0.5 hr 1.5 hr 0.5
+1 hour of Project 0-0-0-1 1 hr 2 hr 3 hr 1
+Semester I Semester II
+Type Nos. CH BCH TH TC Type Nos. CH BCH TH TC
+Lecture 5×(3-0-
+0-0) 15 30 45 15 Lecture 5×(3-0-
+0-0) 15 30 45 15
+Hands
+On 1×(0-0-
+3-0) 3 1.5 4.5 1.5 Hands
+On 1×(0-0-
+3-0) 3 1.5 4.5 1.5
+Total 24 34.5 58.5 19.5 Total 24 34.5 58.5 19.5
+Semester III Semester IV
+Type Nos. CH BCH TH TC Type Nos. CH BCH TH TC
+Lecture 4×(3-0-
+0-0) 12 24 36 12 Lecture 3×(3-0-
+0-0) 9 18 27 9
+Lab 1×(0-0-
+3-0) 3 1.5 4.5 1.5 Project (0-0-0 -
+10) 10 20 30 10
+Semina
+r 1×(0-0-
+1-0) 1 0.5 1.5 0.5
+Project (0-0-0 -
+5) 5 10 15 5
+Total 22 35 57 19 Total 19 38 57 19
+Credit Structure for M.Sc. Programs
+Program Structure of M.Sc. Programmes
+In a week: 84 hrs of working time assuming 12 hrs per day available for active work; 
+after addressing curricular load demand students will have about 24 hrs of time for 
+extra-curricular and co-curricular activities per week.
+
+Cat. Course Number, Course Title L-T-P Credits
+MC PHL6XX0 Mathematical Physics 3-0-0-0 3
+MC PHL6XX0 Classical Mechanics 3-0-0-0 3
+MC PHL6XX0 Quantum Mechanics 3-0-0-0 3
+MC PHL6XX0 Electronics 3-0-0-0 3
+MC PHL6XX0 Statistical Physics 3-0-0-0 3
+MC PHP6XX0 Electronics Lab 0-0-3-0 1.5
+MC PHP6XX0 Condensed Matter Physics Lab 0-0-3-0 1.5
+MC PHP6XX0Hands-on 0-0-3-0 1.5
+Total 19.5
+Cat. Course Number, Course Title L-T-P Credits
+MC PHL6XX0 Electrodynamics 3-0-0-0 3
+MC PHL6XX0 Condensed Matter Physics 3-0-0-0 3
+MC PHL6XX0 Physics of Atoms & Molecules 3-0-0-0 3
+MC PHL6XX0Nuclear & Particle Physics 3-0-0-0 3
+ME Program Elective-1 3-0-0-0 3
+MC PHP6XX0Atomic & Nuclear Physics Lab 0-0-3-0 1.5
+MC PHP6XX0Optics & Lasers Lab 0-0-3-0 1.5
+MC PHP6XX0Hands-on 0-0-3-0 1.5
+Total 19.5
+Semester wise courses (Total credits – 77)
+I Semester
+II Semester
+
+Cat. Course Number, Course Title L-T-P Credits
+ME Program Elective-2 3-0-0-0 3
+ME Program Elective-3 3-0-0-0 3
+ME Program Elective-4 3-0-0-0 3
+ME Open Elective-1 3-0-0-0 3
+MC Computational Physics Lab 0-0-3-0 1.5
+MC Seminar 0-0-1-0 0.5
+MP Project 0-0-0-5 5
+Total 19.0
+Cat. Course Number, Course Title L-T-P Credits
+ME Program Elective-5 3-0-0-0 3
+ME Program Elective-6 3-0-0-0 3
+ME Open Elective-2 3-0-0-0 3
+MP Project 0-0-0-10 10
+Total 19.0
+III Semester
+IV Semester
+
+Topic Cloud
+
+Topic Cloud Details
+Fundamental Physics
+1. Mathematical Physics 
+2. Classical Mechanics 
+3. Quantum Mechanics 
+4. Statistical Physics 
+5. Electronics 
+6. Electrodynamics & STR 
+7. Condensed Matter Physics 
+8. Physics of Atoms & Molecules 
+9. Nuclear & Particle Physics
+Multidisciplinary Science and Technology
+1. Computational Physics (Fractals with ME & Maths) 
+2. High Energy Physics and Space Science
+● 
+Introduction to Space Science
+● 
+Particle Physics
+● 
+Neutrino Telescope
+● 
+X-ray Astronomy
+● 
+Cosmology
+3. Nanoscience & Nanotechnology (Fractals with MT & CY) 
+4. Advanced Condensed Matter Physics 
+5. Introduction to Materials Characterization (Fractals with MT) 
+6. Introduction to Medical Physics (Optical, radiation based, image analysis, MRI) (Fractals
+with BSBE, Electrical)
+7. Fundamentals of Plasma & Fusion Science 
+8. Introduction to Quantum Technologies 
+9. Laser Technologies 
+10. Computational Materials Science (Fractals with MT and CY) 
+11. Soft Matter Physics (Fractals with CY) 
+12. Statistical methods for data analysis (Maths and Computers) 
+13. Non-Perturbative Aspects of Quantum Field Theory 
+14. Critical Phenomena and Renormalization Group
+Engineering Physics
+1. Optical Fibre Technology (Fractals with EE) 
+2. Engineering Optics 
+3. Energy Harvesting Technologies (Fractals with ME) 
+4. Solar Energy Technologies (Fractals with ME) 
+5. Quantum Optics & Engineering 
+6. Cold Plasma Technologies 
+7. Nuclear Engineering (Fractals with ME & EE)
+Teaching Laboratories
+1. Atomic & Nuclear Physics 
+2. Condensed Matter Physics 
+3. Electronics Laboratory 
+4. Optics and Lasers 
+5. Computational Physics
+
+Core Courses
+
+Title Mathematical Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Classical Mechanics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Quantum Mechanics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+Title Electronics Number PHL6XX0
+
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Textbook
+1. Malvino, A., Bates, D., Electronic Principles, McGrawHill, 2016. 
+2. Leach, D. P., Malvino, A. P. and Saha, G., Digital Principles and Applications, TMH, 2014. 
+3. Horowitz, P. and Hill, W., The Art of Electronics, CUP, 2016.
+Self-Learning Materials
+1. Aggarwal, A., Circuits and Electronics, 2007, MIT Open Course Ware :
+Preparatory Course Materials
+1. Dube, D.C., Electronics, Department of Physics, IIT Delhi: http://nptel.iitm.ac.in.
+
+Title Statistical Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Electrodynamics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+2. Gut, 
+A., 
+Lecture 
+notes 
+on 
+Electromagnetism 
+II, 
+MIT 
+open 
+course 
+ware
+
+Title Condensed Matter Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+2. Wen, X-G., Physics of Solids I, MIT open course, https://ocw.mit.edu/courses/physics/8-
+Preparatory Course Material
+1. Simon, H., S. (2013), The Oxford Solid State Basics, Oxford University Press.
+
+Title Physics of Atoms and Molecules Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Nuclear and Particle Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Reference Books
+1. Cohen, B., Concepts of Nuclear Physics, McGraw Hill Education, 2017. 
+2. Wong, S. M., Introductory Nuclear Physics, Prentice Hall India Learning Pvt. Ltd., 1996.
+Online Course Material
+1. Verma, H. C., Nuclear Physics: Fundamentals and Applications, IIT Kanpur,
+
+Title Engineering Optics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Reference Course Material
+1. Ghatak, A., Optics, 2nd edition, Tata McGraw-Hill, 2000
+
+Title Computational Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Reference Course Material
+1. Landau, R. H. and Mejia, M. J. P., Computational Physics, John Wiley, 1997.
+2. Thijssen, J. M., Computational Physics, Cambridge Univ. Press, 1999.
+
+Title High Energy Physics Number PHL7XX0
+Department Physics L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+
+Text Books
+1. Griffiths, D., Introduction to Elementary Particles, Wiley-Vch 2010.
+2. Giunti, C. and Kim, C.W., Fundamentals of neutrino physics and Astrophysics, Oxford
+University Press; 1st edition 2007.
+Self-Learning Material
+1. Guth A., Lecture Notes MIT Course No. 8.323, Relativistic Quantum Field Theory I, Spring
+Preparatory Course Material
+1. Sakurai,J.J., Advanced Quantum Mechanics, Addison-Wesley 1967.
+
+Title Introduction to Space Science Number PHL7XX0
+Department Physics L-T-P [C] 3-0-0 [2]
+Offered for Type Elective
+
+Text Books
+1. Narlikar, J. V., An introduction to cosmology, Cambridge University Press 2002. 
+2. Carroll, S. M., Spacetime and Geometry, Pearson India Education Services 2018. 
+3. M.Longair, High Energy Astrophysics vol 1, Cambridge University Press.
+Self-Learning Material
+1. Bertschinger E. & Taylor E. F., Lecture Notes MIT Course No. 8.224, General Relativity and
+Astrophysics, Spring Sem., 2003.
+2. Rappaport, S. A., and Elliot, J., Introduction to Astronomy,
+Preparatory Course Material
+
+Title Nanoscience and Nanotechnology Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+(b) Nanotechnology in healthcare: Diagnostics using nanomaterials, i.e., biosensors, drug 
+delivery using magnetic nanoparticles, magnetic hyperthermia for cancer treatment. (6 
+lectures)
+Textbook
+1. Poole C.P. Jr. and Owens F.J., Introduction to nanotechnology, Wiley-Interscience, 2003 
+2. Shong C.W., Haur S.C. and Wee A. T. S., Science at the nanoscale, CRC Press, 2009 
+3. Davis J.H., The physics of low-dimensional semiconductors, Cambridge Uni Press, 2012
+Self-Learning Material
+1. Quereshi, M., Department of Chemistry, IIT Guwahati,
+2. Online review papers in various journals.
+Preparatory Course Material
+1. Balani, K. and Subramaniam, A., Department of Material Science and Engineering, IIT
+Kanpur, NPTEL Course: https://nptel.ac.in/syllabus/118104008/.
+
+Title Advanced Condensed Matter Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+2. Wen, X. G., Physics of Solids I, MIT open course, https://ocw.mit.edu/courses/physics/8-
+
+Title Introduction to Material Characterization Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Magnetization
+by force and by induction, Magnetic Hysteresis, Magnetic susceptibility, Principles of Electron
+Paramagnetic Resonance and Nuclear Magnetic Resonance (NMR).(9 lectures)
+Textbook
+1. Zhang, S., Li, L. and Kumar, A., Materials Characterization Techniques, CRC Press, 2008 
+2. Mertz, J., Introduction to Optical Microscopy, 2nd Edition, Cambridge University Press, 2019
+Self-Learning Material
+1. Shankaran, S., Materials Characterization, NPTEL Course Material, Department of
+Metallurgical 
+& 
+Materials 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+
+Title Magnetism and Superconductivity Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Textbook
+1. Culity B. D. and Graham, C. D., Introduction to magnetic materials, Addison-Wesley, 1972
+2. Blundell, S., Magnetism in Condensed Matter, Oxford University Press, 2001
+3. Annett, J. F., Superconductivity, Superfluids and Condensates, Oxford University Press, 2004
+Self Learning Material
+1. O‟Handley, R., Magnetic Materials, MIT Open Course-Materials Science and Engineering, 
+https://ocw.mit.edu/courses/materials-science-and-engineering/3-45-magnetic-materials-
+spring-2004/index.htm
+
+Title Introduction to Medical Physics Number PH7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Textbook
+1. Cho, Z-H., Jones, J. and Singh, M., Foundations of Medical Imaging, 1st EditionWiley
+2. Pryma, D. A., Nuclear Medicine, 1st Edition, Oxford University Press, 2015 
+3. Murphy, D. B. and Davidson, M. W., Fundamental of Light Microscopy and Electronic
+Reference Books
+1. Toyokuni, S., Ikehara, Y., Kikkawa, F. and Hori, M. (2018), Plasma Medical Science, 1st
+Edition, Academic Press.
+Self-Learning Material
+1. Department of Electrical Engg, IIT Kharagpur, https://nptel.ac.in/courses/108105091/ 
+2. Jasanoff, A., MIT Open courseware, Noninvasive Imaging in Biology and Medicine,
+https://ocw.mit.edu/courses/nuclear-engineering/22-56j-noninvasive-imaging-in-biology-
+and
+Preparatory Course Material
+1. Department of Physics, IIT Delhi, https://nptel.ac.in/syllabus/115102017/.
+
+Title Electronic Transport in Mesoscopic
+Systems Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Physics of Solar Cells Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+hot carrier solar cell, impact ionization solar cells. (2 lectures)
+Textbook
+1. J., Nelson, The Physics of Solar Cells, Imperial College Press, (2003),.
+Reference Books
+1. P.,Wurfel, U., Wurfel, (2016), Physics of Solar Cell, Willey VCH.
+2. S.,Fonash, (2010), Solar Cell Device Physics, Academic Press.
+Online Course Material
+1. Buonassisi, 
+T., 
+Fundamentals 
+of 
+Photovoltaics, 
+2011, 
+MIT 
+OpenCourseWare
+
+Title Fundamentals of Plasma and Fusion Science Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+1. R.J Goldston and Paul H. Rutherford, Introduction to Plasma Physics, Institute of Physics
+Publishing, Bristol 1995.
+2. R. Dendy, Plasma Physics: An Introductory Course, Cambridge, Cambridge University
+Online course material
+1. Tripathi, V.K.,Plasma Physics: Fundamentals and Applications , NPTEL Course Material,
+Department of Physics, Indian Institute of Technology Delhi, 
+https://nptel.ac.in/courses/115102020/.
+
+Title Introduction to Quantum Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Laser Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+2. Dexheimer. S. L., Terahertz Spectroscopy, CRC Press, 2008.
+Self-Learning course material
+1. Unique properties of lasers and their applications, Manabendra Chandra,
+Preparatory course material
+1. Understanding Lasers and Fiber Optics, Prof. Shaoul Ezekiel
+
+Title Computational Materials Science Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Online Course Material
+1. MIT Open Course Ware, 3.320 “Atomistic Computer Modeling of Materials (SMA 5107)”, by
+Ceder, G. and Marzari, N.; Spring 2005, https://ocw.mit.edu/courses/materials-science-
+and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/
+2. NPTEL course by Prof. Tembe, B. L., Department of Chemistry, IIT Bombay;
+“Computational Chemistry and Class Molecular Dynamics”; 
+https://nptel.ac.in/courses/104101095/.
+3. LAMMPS MD simulation package https://lammps.sandia.gov/index.html.
+
+Title Soft Matter Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Statistical Methods for Data Analysis Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Optical Fiber Technology Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Reference Course Material
+1. Crisp, J. and Elliot, B., Introduction to Fiber Optics, 3rd edition, Newnes, 2005.
+
+Title Energy Harvesting Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Reference Books
+1. Kazmierski, T. J., Beeby, S., Energy Harvesting Systems, Springer (2011). 
+2. Yang, B., Liu, H., Liu, J., Lee, C., Micro and Nano Energy Harvesting Technologies, Artech
+House (2015)
+Online Course Material
+1. W. Tester, Jefferson, Kazimi, Mujid S., Shao-Horn, Yang, Ghoniem, Ahmed F.
+Fundamentals 
+of 
+Advanced 
+Energy 
+Conversion,
+
+Title Solar Energy Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Quantum Optics and Engineering Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+1. Agarwal, G. S., Quantum Optics, Cambridge University Press, 2012.
+1. Satyanarayana, M. V., Department of Physics, IIT Madras, Quantum Optics,
+
+Title Cold Plasma Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Reference Books
+1. I. H. Huchinson, Principles of plasma diagnostics, Cambridge University Press, 1987 
+2. Michael Lieberman and Allan J. Lichtenberg, Principles of Plasma Discharges and Materials
+Processing, John Wiley, 2005.
+Online course material
+1. Tripathi, V.K.,Plasma Physics: Fundamentals and Applications , NPTEL Course Material,
+Department of Physics, Indian Institute of Technology Delhi, 
+https://nptel.ac.in/courses/115102020/.
+
+Title Critical Phenomena and Renormalization Group Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+1. Zinn-Justin., J., (1989), Quantum field theory and critical phenomena, Oxford University 
+Press, Oxford.
+Online Course Material
+1. Santra, S. B., Advanced Statistical Mechanics, NPTEL Course Material, Department of 
+Physics, Indian Institute of Technology Guwahati,http://nptel.ac.in/courses/115103028/.
+2. Kardar, M., 8.334 Statistical Mechanics II, Spring 2014, MIT OpenCourseWare 
+Massachusetts Institute of Technology,https://ocw.mit.edu
+
+Title Non-perturbative aspects of Quantum Field
+Theory Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Textbook
+1.Rajaraman, R., (1989), Solitons and Instantons, North-Holland.
+2.Abdalla, E., Abdalla, M. C. B., and Rothe, K. D., (2001), Non-perturbative methods in 2 
+Dimensional QFT, World Scientific, Singapore.
+Reference Books
+1. Zinn-Justin., J., (1989), Quantum field theory and critical phenomena, Oxford University 
+Press, Oxford.
+Online Course Material
+1. Govindarajan, S., Classical Field Theory, NPTEL Course Material, Department of Physics, 
+Indian Institute of Technology Madras,http://nptel.ac.in/courses/115106058/.
+2. Hanany, A., 8.871 Selected Topics in Theoretical Particle Physics: Branes and Gauge 
+Theory Dynamics, MIT OpenCourseWare Massachusetts Institute of 
+Technology,https://ocw.mit.edu
+
+Title Nuclear Engineering Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+1. Kannan, I., Department of Mechanical Engineering, IIT Bombay, Nuclear Engineering,
+
+Title Vacuum Systems and Thin Film Technology Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Introduction to Characterization & Advanced
+Condensed Matter Physics
+
+1. Ohring, M., The materials science of Thin films, Academic Press Ltd, 2nd Edition, 2002
+2. Chopra, K. L., Thin Film Phenomena, McGraw-Hill Book Company, 1969
+3. Smith D. L., Thin Film Deposition: Principles and Practice, McGraw Hill 1995
+Self-Learning Material
+1. Shekhar, S. and Gaur, A., Fundamentals of Material Processing Part 2 (Module 2), IIT 
+Kanpur, https://nptel.ac.in/courses/113104075/
+
+Title Plasma Diagnostics Number PHL8XX0
+Department Physics L-P-T (C) 3-0-0 [3]
+Offered for PhD
+Prerequisite Cold Plasma Technologies
+
+Reference Books
+1. Lochte-Holtgreven, Plasma Diagnostics, AIP Press American Institute of Physics, New York
+2. P.C. Stangeby, Plasma Diagnostics, Vol. 2, Surface analysis and interactions, Academic
+Press, Boston (1989)
+Preparatory Course Material
+1. Ram Prakash, Book Chapter “Recent Trends in Plasma Chemistry and Spectroscopy
+Diagnostics” Research Methodology in Chemical Sciences: Experimental and Theoretical 
+Approach, Applied Academic Press, USA (2016).
+
+Title Materials and device characterization Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Introduction to Material Characterization
+
+Textbook
+1. Schroder, D. K., Semiconductor material and device characterization, Wiley 3rd Edition,
+2. Zhang, S., Li, L. and Kumar, A., Materials characterization techniques, CRC press, 2008 
+3. Egerton, R. F., Physical principles of electron microscopy: An introduction to TEM, SEM and
+Self Learning Material
+1.Biswas, K., NPTEL course: Advanced Characterization Techniques, IIT Kanpur, 
+https://nptel.ac.in/syllabus/113104004/
+
+Title Computational Condensed Matter Physics Number PHL8XX0
+Department Physics L-T-P [C] 3–0–1 [4]
+Offered for Type Elective
+Prerequisite Computational Materials Science
+
+equations, Total energy functionals, Force & stress (5 lectures)
+Practical applications: Introduction to supercells, surfaces, interfaces, phonons and defects, 
+other material properties such as magnetic, ferroelectric and piezoelectric properties. Thermal 
+properties using phonon dispersion. (6 lectures)
+Textbook
+1. Marder, M. P., Condensed Matter Physics, Wiley, 2000 
+2. Sholl, D., and Steckel, J. A., Density Functional Theory: A Practical Introduction, Wiley-
+Reference Books
+1. Martin, R. M., Electronic Structure Basic Theory and Practical Methods, Cambridge
+University Press, 2004
+2. Kittel C. C., Quantum Theory of Solids, John Wiley & Sons Inc, 1987 
+3. Journal articles for relevant sections
+Self-Learning Material
+1. Online resources: http://www.quantum-espresso.org/ (For computational purpose and 
+online lectures and reading materials)
+
+Title Semiconductor Device Technology Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Advanced Condensed Matter Physics
+
+multilevel metal formation, comparison between bulk and SOI CMOS technologies. (2 
+lectures)
+Textbook
+1. Donald , A. N., Semiconductor Physics and Devices, Tata McGraw-Hill, 2007. 
+2. Sze, S.M., Physics of Semiconductor Devices, John Wiley & Sons, 2001. 
+3. James,P., Deal, M. and Griffin P., Silicon VLSI Technology, Prentice Hall, Electronics and
+VLSI series, 2000
+Self Learning Material
+1. Fonstad, C., Jr, MIT Open course: Microelectronic Devices and Circuits, 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-
+microelectronic-devices-and-circuits-fall-2009/index.htm
+
+Title Understanding Scanning Tunneling
+Microscope Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Electronic Transport in Mesoscopic Systems
+
+Teaching Laboratories
+
+S. No. Name of the Experiment
+1. Recording of Hydrogen Spectra
+2. Zeeman effect
+3. Gamma Ray Spectrometer (Energy resolved)
+4. Alpha particle spectrometer (Energy resolved)
+5. Radiation Counter for Alpha and Beta Particle (ZnSe for Alpha
+And Plastic scintillation counter for beta particle)
+6. Radiation Counter for
+Gamma and Beta Particle
+7. Finding the Plateau region of GM Tube
+8. Alpha particle counter (only for alpha particle)
+9. Compton Scattering
+S. No. Name of Experiment
+1 JFET biasing and its application as an amplifier.
+2 Differential Amplifier as double ended input and single ended output. Differential
+Amplifier as single ended input and double ended output.
+3 Op-Amp circuit and inverting and non-inverting amplifiers. Find out the output
+offset voltage, maximum output current, slew rate, and power bandwidth.
+4 Summing, subtractor, differentiator, and integrator.
+5 Four types of negative feedback such as VCVS, VCIS, ICVS, and ICIS will used to
+show the reduction of non-linear distortion and output offset voltage.
+6 Active Butterworth low-pass, high-pass, wide bandpass, and narrow bandpass
+filters.
+7 Active diode circuits and comparator as peak detector, limiter, DC clamper, limit
+detector.
+8 Wave shaping circuit by using Schmitt trigger.
+9 The Wien Bridge Oscillator, LC Oscillator circuit
+Atomic and Nuclear Physics Laboratory (Course No. PHP6XX0)
+Electronics Laboratory (Course No. PHP6XX0)
+
+10 Use of 555 timer for astable multivibrator, monostable multivibrator and construct
+an alarm circuit.
+11 Different logic gates such as NOT, AND, OR, NAND, NOR, XOR gates
+12 RS NAND latch, clocked D Latch, JK Flip Flop and verify frequency division
+function, T Flip-Flop,
+13 To study the performance of a quartz-controlled TTL clock oscillator.
+14 Monostable, astable multivibrator using TTL circuits.
+15 Half-adder, full-adder, subtractor, construction of four-bit adder, and four-bit
+adder-subtractor
+16 Use of Shift Register for showing SIPO, PIPO, and PIPO operation.
+17 Operation of a binary ripple up-counter, and down counter.
+18 Study the characteristics of a BCD to decimal decoder.
+19 To study the functioning of multiplexer and its application for the generation of
+Boolean functions.
+20 To demonstrate the functions performed by decoder using a seven segment LED
+display.
+21 To study the operation of a D/A converter based on a R/2R network
+
+S. No. Name of Experiment
+1 Hall effect with temperature
+2 Electrical Conductivity Measurements using four probe resistivity with
+temperature
+3 Vibrational spectroscopy (Raman)
+4 Phonon Dispersion curve
+5 Band gap measurements
+6 Photoluminescence Spectroscopy studies of Materials
+7 Solar cell characterization
+8 Studies on Thermoelectric properties of materials
+9 Thermoelectric Device Characterization
+10 ESR Spectroscopy
+11 Magnetic Susceptibility Measurements
+12 Study of Thermoluminescence of F-centres in Alkali Halide crystals
+S. No. Name of the Experiment
+1. To find the wavelength of monochromatic light
+To determine the spacing between the plates of fabry Perot etalon from the fringe
+Pattern
+To find the finesse and free spectral range (FSR) of etalon from the fringe
+calibration at different cavity thickness
+2. To find the refractive index of an unknown solution.
+3. To study the birefringence with respect to applied voltage in an electro optic liquid
+4. Numerical aperture, splice loss and bending loss measurement of multi-mode fiber
+. Numerical aperture and mode field diameter measurement of single mode fiber .
+Calculation of normalized frequency or V-number of single mode fiber .
+Determination of refractive index of transparent solids
+Condensed Matter Physics Laboratory (Course No. PHP6XX0)
+Optics & Lasers Laboratory (Course No. PHP6XX0)
+
+5. To calculate the peak wavelength and spectral bandwidth of LEDs. To analyze
+emission spectrum of laser and study the peak wavelength.
+6. To find out the difference in wavelength of D1 and D2 lines of sodium light. To
+determine the wavelength of monochromatic light
+7. To determine wavelength of laser beam.
+To find refractive index of a transparent material.
+8. To study Gaussian nature of the laser beam. To find diameter (beam spot size) of
+the laser beam. To determine divergence of the laser beam.
+9. Diffraction of light by single slit, double slit, single wire, cross wire and
+transmission grating
+10. Intensity measurement as a function of analyzer angle
+Polarization study by quarter wave plate - elliptical and circular polarization.
+Polarization study by half wave plate - change of polarization axis. Verification of
+Malus' law
+S. No. Name of Experiment
+1 Implementation of nonlinear root finding techniques
+2 Interpolation techniques
+3 Curve fittings
+4 Solving ordinary differential equations
+5 Simulations of physical systems, Monte Carlo technique etc
+6 Solution of Schrodinger like equation
+7 Solution of Helmohz equation (Propagation study)
+8 Quantum Simulation
+Computational Laboratory (Course No. PHP6XX0)
+
+Hands-on Experiments
+
+S. No. Topic
+1. Amplitude and frequency modulation circuits (Digital Storage Oscilloscope)
+2. Regulated power supplies and their performance evaluation (DSO)
+3. Solar cell construction and characterization (XRD, UV-VIS, SEM, etc.)
+4. Magnetic moment detection (MPMS, PPMS, etc.)
+5. Optoelectronic Properties of Materials (Raman, PPMS)
+6. Construction of coupled prism experimental set up and demonstration of tunneling
+phenomenon
+7. Construction of telescope and observation of stellar objects
+8. Measurement of speed of light using oscillations (DSO , Fast Photodiode)
+9. Life-time of muon (Scintillation detector, Data acquisition and processing system,
+Python coding)
+10. Optical fibre characterization (Laser source, Communication Fibre, Photodetector)
+11. Optical cloaking
+12. Nanomaterials Characterization (XRD, AFM, SEM, PPMS, etc.)
+13. Paschen Curve -Dependence of break-down voltage on the pressure and inter-
+electrode gap for a given gas in plasma discharge
+14. Measurement of Plasma parameters by electrostatic probe
+15. Characterization of DC magnetron discharge and estimation of sputtering yield
+16. Generation and characterization of non-thermal and non-equilibrium cold plasma
+Hands-on Experiments (High end equipments) (PHP6XX0)
+
+S. No. Topic
+1. Ray tracing for design of solar concentrator
+2. Use of COSMOL software for macroscopic multiphysics phenomena
+3. Rsoft software for visualization of optical components and devices
+4. Optifibre for visualization of optical communication through optical fibres
+5. Design of optoelectronic materials using DFT
+6. Molecular dynamics simulation using LAMMPS and GROMACS
+7. Simulation of magnetic domains using Micromagnetics
+8. Gamma ray burst (GRB) data analysis from the Fermi-GBM space telescope.
+Hands-on Experiments (Computational Tools) (PHP6XX0)
+
+Title General Theory of Relativity Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+3. Bertschinger, E. W., General Relativity, http://hdl.handle.net/1721.1/36859. 
+Preparatory Course Material
+
+Title Relativistic Quantum Mechanics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+1. Guth, A., Relativistic Quantum Field Theory - I, http://hdl.handle.net/1721.1/53412
+Preparatory Course Material
+
+Title Particle Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Textbook
+1. Schwartz, M. D., Quantum Field Theory and the Standard Model, Cambridge University
+2. Thomson, M., Modern Particle Physics, Cambridge University Press, 2016.
+Self Learning Material
+1. 
+ 
+Susskind, 
+L., 
+New 
+Revolutions 
+in 
+Particle 
+Physics: 
+Basic 
+Concepts,
+Preparatory Course Material
+
+Title Quantum Field Theory Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Photonics Number PHL7XX0
+Self Learning Material
+1. Tripathy, P. K., Quantum Field Theory, IIT Madras, https://nptel.ac.in/courses/115106065/
+2. 
+Tong 
+D., 
+Lectures 
+on 
+Quantum 
+Field 
+Theory, 
+University 
+of 
+Cambridge,
+Preparatory Course Material
+
+Department Physics L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+Pre-requisite To effect from
+
+Ghatak, A. K., and Thyagarajan, K., Optical Electronics, Cambridge University Press, 2002.
+Online Course Material
+Srinivasan, B., Introduction to Photonics, 
+https://onlinecourses.nptel.ac.in/noc19_ee20/preview
+
+Title Astrophysics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Self Learning Material
+2. https://www.edx.org/course/introduction-astrophysics-epflx-phys-209-enx 
+3. https://www.youtube.com/watch?v=nzmFc2gjUo4&list=PLE17CC91B39224675 
+Preparatory Course Material
+
+Title Physics of neutrinos Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Particle Physics
+
+Ultra-high energy Neutrinos: Neutrinos from Astrophysical objects: AGNs, GRBs, GZK 
+neutrinos, Neutrino Astronomy. (4 Lectures)
+Textbook
+1.Giunti, C., & Kim, C. W., Fundamentals of Neutrino Physics and Astrophysics, Oxford 
+University Press 2007.
+2. Kim, C. W., & Pevsner, A., Neutrinos in physics and astrophysics, Harwood Academic 
+1993.
+Reference Books
+1. Fukugita, M., & Yanagida, T., Physics of Neutrinos, Springer Verlag 2003.
+2.Boehm,‎
+ F., & Vogel, P., Physics of Massive Neutrinos, Cambridge University Press 1992.
+Self Learning Material
+1. Dighe, A., Neutrino Physics, Tata Institute of Fundamental Research Mumbai,
+Preparatory Course Material
+
+Title Gauge theory of weak interactions Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Particle Physics
+
+Interactions: Weak isospin and hypercharge, The SU(2) X U(1) group of the electroweak 
+interactions, quantum number assignments and W and Z masses, The leptonic currents and 
+massless neutrinos, The quark currents, simple tree-level predictions, Anomaly cancellations, 
+The discovery of the and at the CERN collider, The fermion mass problem, Quark and
+neutrino flavour mixing, Higher-order corrections, The top quark, The Higgs sector, Theoretical 
+considerations concerning Higgs mass, Higgs phenomenology, Discovery of Higgs Bosons. (15 
+Lectures)
+Textbook
+1. Aitchison, I. J. R. & Hey, A. J. G., Gauge Theories in Particle Physics, Volume II: A Practical
+Introduction : Non-Abelian Gauge Theories : QCD and the Electoweak Theory, Taylor & 
+Francis, 2003.
+2. Cheng, T. P. & Li, L. F., Gauge theory of elementary particle physics, Oxford University
+Self Learning Material
+1. Langacker, P., The Standard Model, Institute of Advanced Study Princeton, 
+https://www.youtube.com/playlist?list=PLNhSjK9aGXjq22HAdhjMdJM3Ig4KdLayP
+Preparatory Course Material
+1. Peskin, M. E. & Schroeder, D. V., An Introduction to Quantum Field Theory, Addison-Wesley 
+Pub. Co, 1995.
+
+Title Dark Energy Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite General Theory of Relativity
+
+Cosmic Acceleration without Dark Energy: Lemaître–Tolman–Bondi (LTB) models, Backreaction 
+of Cosmological Perturbations. (4 Lectures)
+Observational Methods: Type Ia Supernovae as Dark Energy Probe, Baryon Acoustic Oscillations 
+(BAO) as Standard Ruler, The Alcock–Paczynski Test, Weak Gravitational Lensing, Weak 
+Lensing Observational Results, Cluster Abundance as a Dark Energy Probe, X-Ray Gas Mass 
+Fraction as a Dark Energy Probe, Gamma Ray Bursts and Radio Galaxies as Cosmological 
+Probe.(12 Lectures)
+Textbook
+1.Amendola, L. & Tsujikawa, S., (2010), Dark Energy: Theory and Observations, 
+Cambridge University Press.
+2. Wang, Y., (2010), Dark Energy, Wiley-VCH.
+3. Dodelson, (2000), Modern Cosmology, Elsevier.
+Self Learning Material
+1.Turner, M., The Dark Side of the Universe: Dark Matter and Dark Energy, Department of 
+Astronomy 
+and 
+Astrophysics, 
+University 
+of 
+Chicago,

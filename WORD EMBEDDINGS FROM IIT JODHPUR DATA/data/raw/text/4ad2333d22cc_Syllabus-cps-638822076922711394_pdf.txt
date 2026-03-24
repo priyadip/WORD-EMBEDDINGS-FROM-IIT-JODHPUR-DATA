@@ -1,0 +1,17 @@
+SOURCE_PDF: 4ad2333d22cc_Syllabus-cps-638822076922711394.pdf
+
+Department Of Electrical Engineering 
+Indian Institute of Tehnology Jodhpur
+NH65, Nagaur Road, Karwar, Jodhpur 342037, INDIA
+Syllabus for the written examination
+Engineering Mathematics: Linear algebra: Matrices, determinants, Vector spaces, Linear 
+transformations and their matrix representations, rank and nullity; systems of linear equations, 
+eigenvalues and eigenvectors, Cayley-Hamilton Theorem, diagonalization, symmetric, skew-
+symmetric, Hermitian, skew-Hermitian, orthogonal and unitary matrices; Finite dimensional 
+inner product space; Differential equations: First order equations (linear and nonlinear), Higher 
+order linear differential equations, Initial and boundary value problems; Laplace transforms, 
+Numerical solutions of linear and non-linear algebraic equations, Probability and Random 
+variables; Numerical analysis: Newton-Raphson method, fixed point iteration; Interpolation: 
+error of polynomial interpolation, Lagrange and Newton interpolations; Numerical 
+differentiation; Numerical integration: Trapezoidal and Simpson’s rules; Numerical solution of a 
+system of linear equations: direct methods, iterative methods;

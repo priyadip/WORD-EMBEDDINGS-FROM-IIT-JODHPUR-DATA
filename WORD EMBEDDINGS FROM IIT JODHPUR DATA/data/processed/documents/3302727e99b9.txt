@@ -1,0 +1,11 @@
+congratulations to shubham garg and dr kirankumar hiremath for publishing their research paper in the journal of nonlinear dynamics title bifurcation analysis of classical nonlinear lc circuits with josephson junctions comparison of reduced and exact models authors shubham garg and kirankumar hiremath journal nonlinear dynamics bifurcation analysis of classical nonlinear lc circuits with josephson junctions comparison of reduced and exact models year publisher springer netherlands abstract this work investigates the dynamics of nonlinear lc circuit containing capacitor and the josephson junction connected in parallel
+the inclusion of josephson junction enables the circuit to exhibit phenomena like bursting and spiking which are significant in neural circuit modeling
+such circuits are fundamental in emerging domains like quantum computing
+we modeled classically the dynamics of the circuit with nonlinearity involving both forward and backward propagating waves by applying canonical transformations to the system hamiltonian
+the model dimension was then reduced using the relationships between these transformations
+the critical current of the josephson junction is considered for both positive and negative values
+bifurcation analysis of the reduced system containing critical current as parameter is carried out which gives pitchfork bifurcation in two dimensions
+the bifurcation analysis of the exact system is also carried out and compared with the reduced model
+such bifurcation studies provide insights into stability transitions in the exact and reduced nonlinear models
+it can be useful for designing reliable electronic devices and controlling neural circuits
+title bifurcation analysis of classical nonlinear lc circuits with josephson junctions comparison of reduced and exact models authors shubham garg and kirankumar hiremath journal nonlinear dynamics bifurcation analysis of classical nonlinear lc circuits with josephson junctions comparison of reduced and exact models publisher springer netherlands abstract this work investigates the dynamics of nonlinear lc circuit containing capacitor and the josephson junction connected in parallel

@@ -1,0 +1,140 @@
+SOURCE_PDF: f5f9c58333d4_Course-Contents-offered-by-Chemistry-Department-for-PhDs--638760759764128647.pdf
+
+Course Contents offered by Chemistry Department for PhDs
+Index
+Elective Courses
+1. Isolation and Synthesis of Natural Products 
+2. Spectroscopic Determination of Organic Compounds 
+3. Stereochemistry of Organic Compounds 
+4. Frontiers in Organic Chemistry 
+5. Heterocyclic Chemistry 
+6. Polymer Chemistry 
+7. Catalysis of Energy 
+8. Nanomaterials and Nanodevices 
+9. Compounds of p-block Elements and Applications 
+10.Advanced Materials Design 
+11.Characterization Techniques in Inorganic Chemistry 
+12.Advanced Catalysis 
+13.Water Chemistry 
+14.Sustainable Catalytic Systems 
+15.Frontiers in Organometallic Catalysis 
+16.Numerical Methods and Group Theory 
+17.Chemical Binding 
+18.Principles of Nuclear Magnetic Resonance 
+19.Quantum Information 
+20.Molecular Dynamics Simulations 
+21.Solid State NMR Methods for Materials 
+22.Quantum Computing 
+23.Group Theory and Molecular Spectroscopy 
+24.Modern Electronic Structure Theory 
+25.Chemical Reaction Dynamics 
+26.Biophysical Techniques: Theory and Applications 
+27.Stochastic problems in Biophysics 
+28.Polymer Dynamics 
+29.Statistical Mechanics and Molecular Simulations 
+30.Advanced Electrochemistry and Applications
+
+Electives
+
+Title Catalysis for Energy Number CY6xx
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for MSc./PhD (CY) Program Type Elective
+
+Title Nanomaterials and Nanodevices Number CY653
+Department Chemistry L-T-P [C] 2-0-1 [3]
+Offered for MSc/PhD (CY) Program Type Elective
+
+Title Compounds of p-block elements and Number CY6XX
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+
+Title Advanced Materials Design Number CY7xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+
+Course Title Characterization Techniques in
+Inorganic Chemistry Course No. CY 6xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc/PhD Program Type Elective
+
+Course Title Advance Catalysis Course No. CY6XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for MSc/PhD (CY) Program Type Elective
+
+Course Title Water Chemistry Course No. CY6XX
+Department Chemistry L-T-P [C] 2–0–1 [3]
+Offered for BTech/MTech/MSc/PhD(CY) Program Type Elective
+Pre-requisite Consent of Teacher
+
+Title Frontiers in Organometallic Catalysis Number MT6XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. and Ph.D Type Elective
+Prerequisite Consent of teacher
+
+Title Numerical Methods and Group Number CY515
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Elective
+
+Title Chemical Binding Number CY524
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./Ph.D (Chemistry) Type Elective
+Pre-requisite Pre-requisite CY 514 (Quantum Chemistry and
+
+Title Principles of Nuclear Magnetic Resonance Number CY6XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+Prerequisite CY211
+
+Title Quantum Information Number CY652
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Elective
+Prerequisite MA111
+
+Title Molecular Dynamics Simulations Number CY665
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Compulsory
+
+Course Title Solid State NMR Methods for Materials Number CY7XX
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for MSc./PhD (CY) Program Type Elective
+
+Title Quantum Computing Number CY751
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Ph.D. (CY) Program Type Elective
+Prerequisite MA111/CY514/PH513
+
+Title Group Theory and Molecular Spectroscopy Number CY6xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for MSc./Ph.D. (CY) Program Type Elective
+1. Engel, T. and Reid, P., (2012), Quantum Chemistry and Spectroscopy, 3rd Edition, Pearson
+
+Title Modern Electronic Structure Theory Number CY6XX
+Department Chemistry L-T-P [C] 3–0–3 [4]
+Offered for M.Sc./PhD (CY) Program Type Elective
+Prerequisite Prerequisite CY 514 (Quantum Chemistry and
+
+Title Chemical Reaction Dynamics Number CY764
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+Prerequisite Prerequisite CY 514 (Quantum Chemistry and
+
+Title Biophysical Techniques: Theory and Number CY5XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc/PhD Program, B.Tech Type Elective
+
+Course Title Stochastic Problems in Biophysics Number CY758
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for PhD (CY) Program Type Elective
+
+Course Title Polymer Dynamics Course No. CY760
+Department Chemistry L-T-P[C] 3-0-0 [3]
+Offered for PhD (CY) Program Type Elective
+
+Course Title Statistical Mechanics and Molecular Course No. CY758
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for PhD (CY) Program Type Elective
+
+Course Title Advanced Electrochemistry and
+Applications Number CY6xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc/PhD Program Type Elective

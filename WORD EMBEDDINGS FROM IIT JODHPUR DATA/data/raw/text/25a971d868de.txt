@@ -1,0 +1,50 @@
+SOURCE_URL: https://iitj.ac.in/electrical-engineering/en/communication-engineering
+
+Communication Engineering
+Communication Engineering
+Communication Engineering
+Communication Engineering
+Communication Systems Welcome to the Communications group of the Department of Electrical Engineering at IIT Jodhpur. image: 5G beyond
+Communication Systems
+Welcome to the Communications group of the Department of Electrical Engineering at IIT Jodhpur.
+Current Research Themes Satellite-based navigation receiver design Rate, reliability and complexity limits in MIMO communications Communication protocols for RF energy harvesting-based systems Performance improvement and security of Optical Wireless Communications
+Current Research Themes
+Satellite-based navigation receiver design
+Rate, reliability and complexity limits in MIMO communications
+Communication protocols for RF energy harvesting-based systems
+Performance improvement and security of Optical Wireless Communications
+Associated Technology Tracks 5G and Beyond Communication IoT Communications (AIoT)
+Associated Technology Tracks
+5G and Beyond Communication
+IoT Communications (AIoT)
+Ongoing Projects (1) Experimental Investigation and Performance Evaluation of HARQ Technique for Free-Space Optical Communication Systems Science and Engineering Research Board, DST, Government of India Aashish Mathur, PI 2019-22 (2) Design and Development of NavIC Receiver Ministry of Electronics and Information Technology, Government of India Arun Kumar Singh, PI 2017-20
+(1) Experimental Investigation and Performance Evaluation of HARQ Technique for Free-Space Optical Communication Systems
+Science and Engineering Research Board, DST, Government of India
+(2) Design and Development of NavIC Receiver
+Ministry of Electronics and Information Technology, Government of India
+Arun Kumar Singh, PI
+Laboratories Wireless Communications and Navigation Lab Wireless and Microwave Lab
+Wireless Communications and Navigation Lab
+Wireless and Microwave Lab
+Facilities and equipment Function Waveform Generator (300MHz) MXG Analog Signal Generator (100KHz-3GHz) MXG Analog Signal Generator (100KHz-20GHz) In addition there are RF Training Kit(Tx-Rx), Antenna Training Kit(Tx-Rx), Oscilloscope(200MHz), Single Channel Arbitrary/Function Generator(25MHz) etc. which are used for undergraduate course work. For utilization request, please email at gajrajsharma@iitj.ac.in
+Facilities and equipment
+Function Waveform Generator (300MHz)
+MXG Analog Signal Generator (100KHz-3GHz)
+MXG Analog Signal Generator (100KHz-20GHz)
+In addition there are RF Training Kit(Tx-Rx), Antenna Training Kit(Tx-Rx), Oscilloscope(200MHz), Single Channel Arbitrary/Function Generator(25MHz) etc. which are used for undergraduate course work.
+For utilization request, please email at gajrajsharma@iitj.ac.in
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

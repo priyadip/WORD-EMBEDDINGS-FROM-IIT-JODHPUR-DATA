@@ -1,0 +1,11 @@
+data and computational science introduction data science is the art of generating insight knowledge and predictions by processing of data gathered about system or process
+objective of the program to produce professionals with deep knowledge and innovative analytical and computational research skills to handle problems in variety of domains including governance finance security transportation healthcare energy management agriculture population studies weather prediction economics social sciences predictive maintenance structural health monitoring smart manufacturing and computational structural biology
+expected graduate attributes skill set to clean process analyse manage and handle security and privacy aspects of structured and unstructured data
+ability to identify design and apply appropriate pattern recognition and data mining methods for generating relevant insight from data knowledge and capability to develop and apply machine learning techniques for data driven modelling
+ability to develop models and simulation schemes based upon domain knowledge in chosen domains and possible combination with data driven models capability to follow uniquely interdisciplinary approach for solving problems using knowledge of mathematics statistics computing and one or more selected domains among physics chemistry biology and engineering sciences
+skill to use and design appropriate visualisation techniques for representation and presentation of insights and solutions
+ability to innovate and contribute towards next generation data driven technology development
+learning outcome strong understanding of fundamentals of data mining machine learning modelling simulation optimization and numerical techniques basic understanding of cryptographic and blockchain techniques
+skill set to develop applications using big data advanced analytical and data driven modelling and simulation skills to address technological challenges in one or more specialised knowledge domains like physics chemistry biology and engineering sciences
+data science is the art of generating insight knowledge and predictions by processing of data gathered about system or process
+strong understanding of fundamentals of data mining machine learning modelling simulation optimization and numerical techniques basic understanding of cryptographic and blockchain techniques

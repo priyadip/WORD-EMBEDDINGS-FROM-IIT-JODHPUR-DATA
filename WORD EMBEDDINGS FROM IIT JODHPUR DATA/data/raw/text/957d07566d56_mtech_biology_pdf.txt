@@ -1,0 +1,51 @@
+SOURCE_PDF: 957d07566d56_mtech_biology.pdf
+
+Semester 1 Semester 2
+Cat. Course L-T-P Credits Cat. Course L-T-P Credits
+C BB611 Introduction to
+Numerical methods
+and data analysis 3-0-3 4 C BB620 Advanced Genetic
+engineering 3-0-0 3
+C BB612 Bioprocess &
+Fermentation
+Technology 3-1-0 4 C BB621 Disease, Process,
+Diagnostic &
+Therapeutics 3-0-0 3
+C BB613 Biochemical
+Engineering 3-0-0 3 C BB619 Bioinformatics &
+Computational
+Biology 3-0-0 3
+E E Elective 1 3-0-0 3 E E Elective 2 3-0-0 3
+C BB614 Microbiology &
+diagnostic
+techniques-1 1-0-3 2 C BB622 Biochemical &
+Computational
+techniques 1-0-3 2
+C BB615 Introduction to
+profession 0-0-0 0 C BB616 Biosafety and IPR 0-0-0 0
+Total Credits 16 16 Total Credits 14
+Semester 3 Semester 4
+TH BB698 Thesis 15 TH BB699 Thesis 15
+Total Credits 15 Total Credits 15
+GRAND Total Credits 60
+Category Course Category Title Courses Credits
+C Compulsory 8 24
+E Electives 2 6
+TH Thesis 2 30
+Total 60
+Category Courses Course Category Title L-T-P Credits
+E BL758 Neuro Engineering Systems 3-0-0 3
+E BB627 Animal Biotechnology 3-0-0 3
+E BB628 Physiology & Neuroscience 3-0-0 3
+Category Courses Course Category Title L-T-P Credits
+E BB629 Environment biotechnology & 3-0-0 3
+E BB630 Bioimaging 3-0-0 3
+E BB631 Bioenergy systems Structure 3-0-0 3
+Master of Technology Program in
+Bioscience and Bioengineering
+Table 4: Share of compulsory and Elective courses to be credited as part of the Proposed M.Tech.
+(Bioscience and Bioengineering) Program at IIT Jodhpur
+Elective courses for 1st and 2nd semester were decided based on course load on existing faculty members in 
+respective semesters. 
+Semester 1-elective courses
+Semester 2-elective courses

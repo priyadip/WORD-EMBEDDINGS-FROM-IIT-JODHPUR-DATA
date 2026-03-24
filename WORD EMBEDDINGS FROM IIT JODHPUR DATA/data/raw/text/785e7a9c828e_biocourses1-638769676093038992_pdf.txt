@@ -1,0 +1,113 @@
+SOURCE_PDF: 785e7a9c828e_biocourses1-638769676093038992.pdf
+
+S.
+No Course Name Semester L-T-P Contact
+Hours Credit
+1 Biochemistry III 3-0-0 3 3
+2 Microbiology III 3-0-2 5 4
+3 Data Structures and Algorithms IV 3-0-2 5 4
+4 Concepts and Dynamics: Molecular
+Cell Biology IV 2-0-2 4 3
+5 The Human Immune System:
+Mechanisms to detect, defend and
+Attack IV 3-0-0 3 3
+6 Biochemistry Laboratory IV 0-0-2 2 1
+7 Computational and Systems Biology V 3-0-2 5 4
+8 The Human Machine for Engineers:
+Quantitative Physiology V 3-0-0 3 3
+9 Biophysics and Structural Biology VI 3-0-1 4 3.5
+10 Genetics and Gene manipulation V 3-0-2 5 4
+11 Biosensors V 3-0-2 5 4
+12 Bioimaging VI 3-0-0 3 3
+13 Introductory Omics VI 3-0-0 3 3
+14 Biomaterials Engineering VI 3-0-0 3 3
+15 Deep Learning VI 3-0-3 6 4.5
+Total 50
+S.
+No. Stream Courses L-T-P Credit
+1 Omics - Microbiomes and metagenomics (level 4)
+- Computational methods for multi-omics
+(level 4)
+- Microarray data analysis (level 4) 3-0-0 3
+2 Biomaterials
+Engineering - Cell-material interactions (level 3) 3-0-0 3
+- Tissue engineering (level 4) 3-0-0 3
+- Therapeutic delivery systems (level 4) 2-0-0 2
+- Principles of biomechanics (level 4; from 3-0-0 3
+- Additive manufacturing (level 7; from ME) 3-0-0 3
+- Bio-transport phenomena (level 4) 3-0-0 3
+3 Computational
+and Systems
+Biology - Mathematical biology (level 7; from MA)
+- Algorithms in biology (level 6)
+- Modelling of biological systems (level 3)
+- Design of experiments (level 4; from MA) - Mathematical biology (level 7; from MA) 3-0-0
+3-0-0
+2-0-2
+3-0-0 3-0-0 3
+- Algorithms in biology (level 6) 3-0-0 3
+- Modelling of biological systems (level 3) 2-0-2 3
+- Design of experiments (level 4; from MA) 3-0-0 3
+List of Programme Compulsory Courses
+Table 4 Programme Compulsory Courses
+Area-wise Programme Elective Courses
+Table 5 Stream-wise Programme Electives Courses
+
+4 Bioimaging - Electron microscopy for biology (level 4/6; 3-0-0
+3-0-0
+3-0-0 3
+3
+3
+5 Biosensors - Whole cell based biosensors (level 4)
+- Special topics in biosensors (level 4)
+- Microsystems fabrication technology (level
+7; from EE)
+- Chemosensors (level 6; from CY) - Whole cell based biosensors (level 4) 3-0-0 3
+3
+3
+3
+- Special topics in biosensors (level 4) 3-0-0
+- Microsystems fabrication technology (level 3-0-0
+- Chemosensors (level 6; from CY) 3-0-0
+6 Microbial
+systems for
+sustainable
+development - Microbial remediation and environmental
+biotechnology (level 4)
+- Microbes in food and sustainable agriculture
+(level 4)
+- Bioenergy (level 4) 3-0-0 3
+3
+3
+7 Drug design
+and
+development - Principles of drug discovery (level 4) 3-0-0
+3-0-0
+3-0-0 3-0-0 3
+3
+3
+- Medicinal chemistry (level 4) 3-0-0
+- Viral infection and antiviral drug 3-0-0
+S.
+No. Name of
+Specialization Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+1 Therapeutic
+engineering
+and drug
+discovery - Modern approaches of drug
+designing (3-0-0)
+- Introduction to Precision
+Medicine (3-0-0)
+- AI based drug discovery (2-0-
+0) - Principles of drug discovery
+2 Microbial
+systems
+engineering - Engineering Microbes (3-0-0)
+- Bioprocess Engineering and
+Fermentation (3-0-0)
+- Mathematical modelling of
+microbes (1-0-2) - Microbial nanotechnology (3-
+Specialization to be offered by the department
+Table 6 Specialization and courses

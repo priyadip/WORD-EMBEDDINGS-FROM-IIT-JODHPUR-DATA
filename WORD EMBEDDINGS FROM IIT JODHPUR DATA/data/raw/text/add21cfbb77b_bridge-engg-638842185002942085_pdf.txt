@@ -1,0 +1,74 @@
+SOURCE_PDF: add21cfbb77b_bridge-engg-638842185002942085.pdf
+
+A Concept Note
+On
+in
+Bridge Engineering
+DEPARTMENT OF CIVIL AND INFRASTRUCTRE ENGINEERING
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+
+Introduction
+Upscaling and modernization of built infrastructure in India are taking place at an 
+unprecedented scale in line with its Viksit Bharat 2047 vision. India has about 1,73,000 
+bridges, and they are one of the vital arteries of the transportation infrastructure. Bridges 
+in their service life are susceptible to extreme events, such as earthquakes, wind, fire, and 
+flood. They are also prone to environmental conditions such as scouring and corrosion, 
+and these environmental conditions often deteriorate the service life. The design and 
+maintenance of bridges are governed by numerous factors, for instance, assessment of 
+loads, choice of materials, analysis tools, codal provisions, connection detailing, and 
+maintenance manual. A well-designed bridge often requires less maintenance and should 
+have enough resistance against previously mentioned durability concerns. In recent 
+decades, there has been a noticeable growth in the scale and complexity of bridge 
+structures in India and abroad. For example, the high-speed rail (HSR) project is one of 
+the lofty visions of the Government of India, which aims to develop a rail transport 
+network with operating speeds as high as 350 km/hr. In HSR, the viaduct bridge 
+structures are one of the critical components. At the same time, several bridges in India 
+are aged and require frequent maintenance and assessment of their health. Therefore, in 
+the coming decades, manpower training, skill development, and upgradation, as well as 
+indigenous technology developments, are vital in the area of bridge engineering.
+The bridge engineering academic curriculum in India is insufficient for the current civil 
+engineering industry requirements. It lacks the required rigor compared to the well-
+established civil engineering courses (e.g., earthquake engineering, construction 
+technology, etc.). For instance, in undergraduate (UG) civil engineering programs, 
+students are usually given a perspective on bridge structures in structural analysis and 
+design courses without much attention to aforementioned critical factors. The emphasis 
+on codal provisions and construction practices is not on par with buildings and other 
+critical structures. It should be mentioned that postgraduate (PG) civil engineering 
+programs of institutes of repute, such as IITs and NITs offer a few electives on bridge 
+engineering. However, elective courses are subject to the availability of expert faculties. 
+Consequently, designers and civil engineering practitioners rely on computational 
+software without proper understanding of bridge engineering. This is an inappropriate 
+practice, and recently, there have been many instances of bridge collapse during 
+construction. Therefore, a rigorous curriculum aiming at developing graduate engineers 
+in the domain of bridge engineering is the need of the hour. This concept note presents 
+the brief outline of an M.Tech. program in bridge engineering. 
+ 
+Program Structure
+The program structure will be as per the Institute’s M.Tech. program norms. The 
+coursework will include foundational courses and a list of electives. The foundational 
+courses focus on topics in mathematics, solid and fluid mechanics, analysis and design,
+
+Category Program Core
+(PC) Electives M.Tech. Project
+(MP) Non-Graded
+Courses
+Credits 12 12 32 2
+that are relevant to bridge engineering. The elective courses focus on various themes in 
+bridge engineering, viz., bridge construction, foundation, finite element analysis, 
+monitoring and condition assessment, durability and repair, etc. The tentative core and 
+elective courses are outlined below, subject to the approval of the institute’s senate.
+Program Core Courses (PC)
+• Mathematics for Civil Engineering 
+• Advanced Solid and Fluid Mechanics 
+• Analysis of Bridge Structures 
+• Design of Bridge Structures
+Elective Courses
+• Bridge Site Selection and Foundation Safety 
+• Bridge Materials, Construction and Assessment 
+• Finite Element Method 
+• Structural Dynamics 
+• Advanced Concrete Technology 
+• Prestressed Concrete Structures 
+• Cable-Supported Bridges 
+• Bridge Foundation 
+• Introduction to Structural Health Monitoring

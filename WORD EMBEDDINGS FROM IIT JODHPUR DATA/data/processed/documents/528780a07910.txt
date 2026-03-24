@@ -1,0 +1,21 @@
+imaging magnetism with differential phase contrast method imaging magnetism with differential phase contrast method physical review devendra singh negi department of metallurgical and materials engineering iit jodhpur description the functional nano magnetic materials are indispensable for advanced electronic applications
+as the nanotechnology is rapidly advancing the size of these functional materials is also shrinking in the same proportion
+therefore to further develop and engineers the nano magnetic materials we require technique which can probe or image the magnetism at atomic scale sensitivity
+the transmission electron microscopy tem is one of the important instruments which can image and quantify the magnetism at atomic scale
+recently developed electron magnetic circular dichroism emcd and differential phase contrast dpc methods in tem has enabled to access the electromagnetic information of single atom
+the dpc method in tem probes the elastic deflection of the incident convergent electron probe with the electromagnetic filed of the atom
+the quantum of deflection is in proportion with the charge density or electromagnetic field of the atoms
+therefore dpc allows to image the charge density electromagnetism field at atomic scale
+this method also enhances the imaging contrast and allow to image the light atoms very efficiently
+in this work we have developed new method in tem to image the magnetism at atomic scale with energy filtered electron in dpc
+the energy filtered electron in tem are the electron which excite the core electron of an atom to unoccupied energy levels
+these electron carries the information of the magnetism of the atoms
+our develop method shows that the sensitivity of the inelastic electron is two orders of magnitude then the conventional elastic counterpart
+interestingly the dpc can probe the magnetism along the probe direction
+therefore this novel approach offers pathway to image the and magnetism simultaneously at atomic scale
+our work introduces new paradigm to image the magnetism at atomic scale sensitivity in tem
+physical review devendra singh negi department of metallurgical and materials engineering iit jodhpur the functional nano magnetic materials are indispensable for advanced electronic applications
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated nov pm

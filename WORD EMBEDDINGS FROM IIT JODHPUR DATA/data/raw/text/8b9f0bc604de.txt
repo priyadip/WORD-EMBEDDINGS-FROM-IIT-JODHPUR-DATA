@@ -1,0 +1,25 @@
+SOURCE_URL: https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=be7282d3-67d6-49c6-8086-934053dc808e
+
+Research Seminar by Dr. Gaurav Sood on Nov 13, 2025 at 12:00 PM
+Research Seminar by Dr. Gaurav Sood on Nov 13, 2025 at 12:00 PM
+Title of the talk: On Merge Resolution proof system for Quantified Boolean Formulas Date & Time: Nov 13,2025 at 12 noon (ONLINE) Abstract : We study proofs that a system of n-variable Diophantine linear equations (or Boolean Formulas) has no {0,1} solution. While a trivial proof checks all 2^n possible assignments, a major open question in Computational Complexity Theory asks whether shorter (i.e. of length polynomial in n) proofs exist. As a baby step, one fixes a specific proof format and asks whether all unsatisfiable systems have short proofs in that proof format. We study systems in which some variables are quantified universally and study a specific proof format called Merge Resolution. We show that there are systems which require long (i.e. exponential size) proofs in Merge Resolution. About the speaker: Dr. Gauarv Sood is an Assistant Professor  at IIT Mandi (School of Computing & Electrical Engg.). He obtained his PhD from The Institute of Mathematical Sciences, Chennai in 2023 and M. Tech in Computer Sci. & Engg. from National Institute of Technology Calicut in 2013. He was a Postdoctoral Fellow at Technion, Israel (Dept. of Computer Sci.) earlier.
+Title of the talk: On Merge Resolution proof system for Quantified Boolean Formulas
+Date & Time: Nov 13,2025 at 12 noon (ONLINE)
+Abstract : We study proofs that a system of n-variable Diophantine linear equations (or Boolean Formulas) has no {0,1} solution. While a trivial proof checks all 2^n possible assignments, a major open question in Computational Complexity Theory asks whether shorter (i.e. of length polynomial in n) proofs exist. As a baby step, one fixes a specific proof format and asks whether all unsatisfiable systems have short proofs in that proof format.
+We study systems in which some variables are quantified universally and study a specific proof format called Merge Resolution. We show that there are systems which require long (i.e. exponential size) proofs in Merge Resolution.
+About the speaker: Dr. Gauarv Sood is an Assistant Professor  at IIT Mandi (School of Computing & Electrical Engg.). He obtained his PhD from The Institute of Mathematical Sciences, Chennai in 2023 and M. Tech in Computer Sci. & Engg. from National Institute of Technology Calicut in 2013. He was a Postdoctoral Fellow at Technion, Israel (Dept. of Computer Sci.) earlier.
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

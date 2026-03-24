@@ -1,0 +1,15 @@
+research seminar by sandip saha on april at speaker sandip saha title of the talk exploring potential landscapes and velocity prediction date time and venue april pm pm at seminar hall dept of mathematics
+about the speaker sandip saha is currently working as career development fellow at the national centre for biological sciences bangalore india
+previously he did various postdoctoral positions at isi kolkata tu darmstadt in germany and kaust in saudi arabia
+his current work focuses on optimizing machine learning models for complex developmental processes supported by mathematical modelling
+he obtained his from the
+bose national centre for basic sciences
+abstract developing robust and predictive dynamical models such as odes pdes and boolean models remains key challenge in systems biology
+these models often face difficulties due to limited data leading to model structures and an extensive parameter space
+this presentation focuses on machine learning combining mathematical modeling and machine learning with fundamental physical principles
+by incorporating concepts like the variational principle lagrangian and hamiltonian into computational algorithms we aim to enhance the predictive capabilities for systems biology dynamics
+this includes creating pipeline to construct potential landscapes for analyzing disease dynamics and predicting velocity data from position data in non conservative models
+through this integrative approach which includes both modeling and simulation we seek to improve our understanding of the complex dynamics in biological systems speaker sandip saha title of the talk exploring potential landscapes and velocity prediction title of the talk date time and venue april pm pm at seminar hall dept of mathematics
+date time and venue about the speaker sandip saha is currently working as career development fellow at the national centre for biological sciences bangalore india
+about the speaker abstract developing robust and predictive dynamical models such as odes pdes and boolean models remains key challenge in systems biology
+through this integrative approach which includes both modeling and simulation we seek to improve our understanding of the complex dynamics in biological systems

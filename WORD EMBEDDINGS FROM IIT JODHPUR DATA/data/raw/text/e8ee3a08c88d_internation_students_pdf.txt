@@ -1,0 +1,13 @@
+SOURCE_PDF: e8ee3a08c88d_internation_students.pdf
+
+Sl Student ID
+21. HIRAK MONDAL
+22. SUDIPTO GHOSH
+23. PRIYANKA KUMARI
+24. ARYAN BARANWAL
+25. UMME TAIEBA MITASHA
+26. ANKITA KUMARI JHA
+27. KSHITIZ BUDHATHOKI
+Department of Computer Science & Engineering
+Indian Institute of Technology Jodhpur
+HELD ON 18 November 2024, (1:30 PM,IST) at IIT Jodhpur

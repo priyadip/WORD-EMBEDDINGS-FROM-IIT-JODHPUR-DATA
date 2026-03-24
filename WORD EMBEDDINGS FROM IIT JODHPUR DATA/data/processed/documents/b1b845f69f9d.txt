@@ -1,0 +1,16 @@
+research seminar by sahil gehlwat on april at speaker sahil gehlwat title of the talk singular hyperbolic riemann surface foliation date time and venue april pm at seminar hall dept of mathematics
+about the speaker sahil gehlawat did his phd and masters from iisc bangalore
+my area of specialization is complex analysis
+he is currently postdoc fellow in tifr cam bangalore
+before that he was postdoc fellow at the university of lille france and hri prayagraj as well abstract we consider singular holomorphic foliations of dimension on complex manifold with all leaves being hyperbolic riemann surfaces
+consider the poincare metric on each leaf
+it is conjectured to vary smoothly along the transverse directions
+there has been lot of work on achieving this regularity of this leafwise poincare metric for certain special cases most of this is for foliations with discrete singular sets
+the study of the regularity of this metric is equivalent to studying the verjovsky modulus of uniformization map which is positive map defined away from the singular set of the foliation
+in this talk we study this map for foliations without any restriction on the dimension of the singular set
+we will give some sufficient conditions for the continuity of the map on the set and also the continuous extension on the singular set
+speaker sahil gehlwat title of the talk singular hyperbolic riemann surface foliation date time and venue april pm at seminar hall dept of mathematics
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

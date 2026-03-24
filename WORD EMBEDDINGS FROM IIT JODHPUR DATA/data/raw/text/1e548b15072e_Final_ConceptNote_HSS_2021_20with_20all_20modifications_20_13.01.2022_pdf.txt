@@ -1,0 +1,1875 @@
+SOURCE_PDF: 1e548b15072e_Final_ConceptNote_HSS_2021_20with_20all_20modifications_20_13.01.2022.pdf
+
+Department of HSS
+Indian Institute of Technology Jodhpur
+
+1. Introduction
+The Department of Humanities and Social Sciences (HSS) plays a unique role in an Institute where 
+the ethos of Science and Technology is predominant. Within the coordinates of the IIT system, the 
+Department offers a unique scope to study and comprehend the critical role of technology within a 
+socio-cultural context. With faculty members who specialize in diverse disciplines and students from 
+a spectrum of backgrounds, the Department provides an enriching platform where technical education 
+can be complemented with human and social understanding. 
+ 
+Furthermore, the Department, with its faculty from a wide spectrum of diverse disciplines, paves the 
+way for learning and discussions on multiple issues ranging from the rigor of analysis to engagement 
+with multiple cultures, individual struggles, political trends, dialogue and reasoning. Thus, the 
+Department of HSS facilitates a well-rounded and expansive point of view amongst the student 
+community. These young minds that come in contact with varied knowledge systems are likely to 
+evolve into reflective and thinking individuals with refined sensibilities. Such a process is expected to 
+enable them to appreciate life more creatively, effectively, and holistically and contribute in a positive 
+way to the nation at large. 
+ 
+ 
+2. Objectives 
+The IIT system and fraternity was set up in order to create the scientific-technological sensibility that 
+was necessary for a newly independent developing nation. It has never been about a mere production 
+of technocrats. The humanities and social science disciplines offer IIT undergraduates a holistic and 
+self-reflective education, making them suitable for a changing global education and work ecosystem 
+where disciplinary boundaries perish and interdisciplinarity emerges as the new norm. To achieve that, 
+the HSS education in the IITs introduces students to processes of knowledge production in the 
+discipline and makes them reflect on the interconnectedness that exists between different disciplines. 
+What we seek to create is an exciting body of new knowledge that will allow us to operate from 
+unbiased –unconstrained – free thinking spaces. 
+ 
+ 
+3. Expected Graduate Attributes 
+A student who has completed HSS electives in the curriculum is expected to have the ability to:
+a. Develop finer sensibilities, experience the nuances of creativity and the power of
+imagination
+b. Appreciate and analyses modes of engagement with diverse aesthetic and cultural forms 
+c. Understand diversity of values, thought and accept differences. 
+d. Empathize with diverse aspects of human endeavor and to be sensitive to societal needs.
+4. Learning Outcomes 
+A student, after having HSS education in the IIT system, is supposed to:
+a. Identify and understand social issues and devise socio-technical solutions built on social
+awareness and informed imagination.
+b. Become a pragmatic individual who can contribute in creating sustainable futures. 
+c. Gain awareness of rights as a citizen and location within the wider social context 
+d. Reflect critically on own disciplinary biases 
+e. Develop a sense of interdisciplinarity and acquaint herself with the various processes of
+knowledge production
+5. Skillsets targeted 
+Creative Thinking, Empathy, Reflective Learning, Engaging with Society, Critical thinking, Logical 
+Reasoning, Argumentation, Metacognitive Ability, Imagination, Ethical Sensibility, Scientific Thinking 
+ 
+ 
+6. Topic clouds and Mapping of Topic clouds with proposed courses 
+ 
+HSS Bouquet I: Literature 
+Objectives: The courses at this level will
+
+SN Bouquet I Bouquet II Bouquet III Bouquet IV
+1. Short stories from
+around the world Introduction to
+sociology Microeconomics 1
+(AIDE-CMCE) Introduction to
+Philosophy
+2. Regional literature
+in translation Digital Society Microeconomics 2
+(AIDE-CMCE) Fundamentals of logic
+3. Creative writing Urban Sociology Health Economics Critical Thinking
+4. Postcolonial Fiction Indian Society: A
+sociological
+introduction Industrial Organization Cognitive Semantics
+5. Short Fiction from
+India Youth studies Health and
+Development Philosophical Problems
+a. Expose students to a global canvas in literature. 
+b. Inculcate an appreciation for diverse literary works including those from cultures outside the
+Anglophone world.
+Learning Outcomes: On completing courses at this level, students are expected to have the ability 
+to:
+a. Develop a sensibility for literature as an aesthetic form. 
+b. Critically analyze and locate literary texts within cultural contexts.
+HSS Bouquet II: Sociology, History, Political Science 
+Objectives: The courses at this level will
+a. Educate students about (global) society, history, politics and culture. 
+b. Sensitize students on issues of gender and social stratification. 
+c. Raise awareness on impact of science and technology on society.
+Learning Outcomes: On completing courses at this level, students are expected to have the ability 
+to:
+a. Critically conceptualize society, culture and politics. 
+b. Understand disciplinary biases in scientism, technology and engineering.
+HSS Bouquet III: Economics, Management, Public Health 
+Objectives: The courses at this level will
+a. Provide the basic foundation of Economics for understanding the interplay of demand and
+b. To use simple economic theories to analyse and understand decision making processes by
+governments, organizations and individuals.
+c. Provide understanding of India’s health care system with special focus on health economics
+and financing.
+Learning Outcomes: On completing courses at this level, students are expected to have the ability 
+to:
+a. Understand the functioning of the Economy: its structure and components. 
+b. Understand the economics behind the common phenomena like inflation, unemployment, GDP,
+c. Understand the health system and its various components in India.
+HSS Bouquet IV: Philosophy, Policy, Governance 
+Objectives: The courses at this level will
+a. Make students be sensitive to dilemmas in professional, personal and social life. 
+b. Develop logical and critical thinking. 
+c. Make students aware of the dynamics of policy deliberation and implementation.
+Learning Outcomes: On completing courses at this level, students are expected to have the ability 
+to:
+a. Develop ethical and aesthetic sensibility. 
+b. Nurture finer fibers that bind social harmony and integrity 
+c. Ability to imagine and propose structural changes that are conducive to sustainable
+Course list in HSS Bouquets
+
+6. Science Fiction Law and Society Indian Economic
+Development and
+Policy Introduction to Indian
+Philosophy
+7. Introduction to
+Theatre Sociology of Work
+and Industry Political and
+Institutional
+Economics of
+Development Theories of justice
+8. Short Fictions from
+South Asian
+Diaspora Development and
+Environment Foundations and
+Finance Gandhian Thought
+9. Classic Detective
+Fiction Social Stratification Individual and
+Strategic Decision
+Making (AIDE-CMCE) Role of Technology in
+Development
+10. Social and Economics
+Networks (AIDE-
+CMCE) Disasters, Risk
+Reduction, and
+Management
+11. Behavioral Economics
+and Decision Theory
+(AIDE-CMCE) Political and Cultural
+Ecology
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Literature Short story, short fiction, world literature,
+transnational literature, twentieth-century,
+Anglophone writing, modernism, magic realism Short Stories from around
+the World (IH)
+Regional literatures in translation, regional literature,
+comparative analysis, translation, transliteration,
+literary cultures, multilingual literary cultures Regional Literature in
+Translation (IH)
+Creative imagination, writing, creativity, genres of
+writing, writing workshop, composition, writing craft,
+plot, scene, dialogue, memoir, screenplay, short
+fiction, writing prompts, creative nonfiction,
+publishing Creative Writing (IH)
+British Colonialism, Indian writers in English, Indian
+novels, short stories by Indian writers, Indian
+diaspora fiction, Victorian era, globalization, Indian
+national identity, regional contestations,
+autobiographical novel, historical novel, Indian
+fantasy fiction, Independence and Partition, caste,
+identity politics, subaltern fiction, writing from the
+margins, postcolonial theories Postcolonial Fiction (IH)
+Short fiction, Creative imagination, South Asia,
+Brevity, Flash fiction, fiction, plot, scene, narrative,
+literary and popular fiction, genre fiction Short Fiction from India
+(IH)
+Science fiction, dystopia, apocalyptic fiction, world
+wars, time travel, man vs. machine, humanity and
+technology, progressivism and Science fiction, alien
+life, metaphorical thinking Science Fiction (IH)
+Table 1. Topics and Mapping of Topic with Courses
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Theatre/drama, text/performance, Aristotelian
+theatre, Brechtian/epic theatre, theatre of the absurd,
+biomechanics, poor theatre, theatre of the oppressed,
+third theatre, Indian theatre histories Introduction to Theatre
+(IH)
+South Asian diasporic literature, immigration of South
+Asians, cultural identity, notions of home and
+belonging, model minority, gender and sexual
+identity, experiences of dislocation and acculturation,
+queer diaspora. Short Fictions from South
+Asian Diaspora (IH)
+War literatures, Speculative fiction, Novel of Crime,
+Thrillers, Intrigue, Spy fiction, Espionage, War
+literatures. Classic Detective Fiction
+(IH)
+Popular literature, popular culture, from text to film,
+comparative analysis, literary genres, genre analysis,
+classical literature Popular classics (OE)
+Basic aspects of film aesthetics, film and other arts,
+film criticism and appreciation, film history (early
+cinema, classical Hollywood, Italian Neorealism,
+French New Wave), introduction to film theory
+(classical and post-classical), Third Cinema, Indian
+cinemas, digital cinema Introduction to Film Studies
+(OE)
+Dalit studies, Ambedkar’s writings, Gandhi-Ambedkar
+debate, concept of untouchability and its philosophical
+explorations (Aniket Jaaware and others), anti-caste
+movements in North, West and South India, dalit
+identity and politics, dalit literatures from
+Maharashtra (Namdeo Dhasal, Sharankumar Limbale)
+and South India Dalit Movement and
+Literature (OE)
+Introducing Emergency, historical trajectory,
+literature review, cinema, cine-politics and cultural
+politics, censorship, state sponsorship and film
+economy, Indian cinemas in the 1970s, globalization
+of the dictatorial in the 1970s, digital remembering Cine-politics under the
+National emergency (OE)
+Literary history, literary terms and genres, literary
+cultures in history, impact of technology on literature,
+history of publishing, linguistic analysis, discourse
+analysis, semantics, South Asian literatures, oral and
+print cultures in literature Perspectives in Language
+and Literary Studies (DH)
+(OE)
+Introduction to the world of publishing with both its
+practical and creative aspects. The course also
+prepares students for the different kinds of
+opportunities they could explore after the conclusion
+of their degrees, and the publishing industry, as an
+emerging field, could be one such avenue. Introduction to Editing and
+Publishing (OE)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Film history and historiography, colonial history,
+national history, ideological history, institutional
+history, biographical-historical, economic history,
+exhibitional history, global history, film
+anthropology/ethnography, genre, corporeal and
+spatial history Indian Cinemas: Many
+Histories (OE)
+Introduction to literatures from the eight ecological-
+rich states in India’s Northeast by weaving a narrative
+of political fragility, oral tradition, and collective
+memories while dispelling the misconceptions about
+this heterogeneous region Introduction to Literatures
+from India’s Northeast (OE)
+Introduction to visual arts, Art history and major art
+movements in Europe (from classical to modern),
+Histories of ancient and medieval Indian art,
+Renaissance perspective and Indian resistance, Major
+Indian artists and art groups, visual art, experimental
+cinema, installation art, new modes of exhibition Introduction to
+Contemporary Arts (OE)
+Introduction to performance, performance theories,
+performance history through the ages, classical
+drama, Renaissance drama, dramaturgy, playgoing
+cultures, theatre movements and modernism, acting
+styles, absurd theatre, theatre-cinema interface,
+classical Indian theatre, Indian theatre in colonial and
+postcolonial times Introduction to
+Performance Studies (OE)
+Post-Independence theatre and institutional histories,
+urban/folk, theatre in the long 1960s, major
+playwrights and select plays, production
+histories, film adaptation of theatrical texts, political
+theatre, third theatre, theatre after globalization Modern Indian Theatre
+(OE)
+Introducing different genre of Asian American
+literature, close textual reading and conversation. Asian American Literature
+(OE)
+Introducing world literature, World literature and its
+complexities, Cinema and the translation,
+Contemporary categories World Literature and Global
+Cinema (OE)
+Sociology,
+History,
+Political
+Science Sociological Theories and Perspectives; Social
+Structures, Social Institutions (Family, Marriage,
+Education, Religion, Economy); Social Stratifications
+(Ethnicity, Race, Class, Caste, Gender); Social
+Inequalities; Social processes (Migration and
+Mobilities); Community, Globalisation and
+Environment; People, Places, and Technology Introduction to Sociology
+(IH)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Digital components of a connected society; new forms
+of power; Data as sociomaterial objects; Digital
+identities; Urban informatics and sociological
+imagination; Digital healthcare, mobility, Digital
+heritage; Networks and cultural imaginary;
+Information capital, information management Digital Society (IH)
+History of Urbanization, Concept of urbanization, Re-
+settlement colonies, Urban poor, urban
+infrastructures, mobilities, Urban markets, Riots and
+the city, case study of New Delhi and its importance
+in urban studies Urban Sociology (IH)
+Caste, Class, social stratification, Indian economy and
+polity, traditional systems of administration, Tribes,
+Green revolution, Studies of urban areas, Rural
+sociology, Marriage, Family and Kinship, Mobility in
+cities Indian Society: A
+sociological introduction
+(IH)
+Youth movements, relationships, youth subcultures,
+youth and technology, social media, identity Youth studies (IH)
+Sociology of Law, Legal Language, Morality, Justice,
+Social Deviance, Multiple legalities Law and Society (IH)
+Industry, work, sociology of work, trade unions, labor,
+new work, technology and new forms of work and
+labor, labor rights today, labor and technology Sociology of Work and
+Industry (IH)
+Natural Resource Management, Gender, Policy,
+Governance, Law, Environment Movements,
+Development Discourses Development and
+Environment (IH)
+Class analysis and class structures, and
+transformations, Theories on caste with empirical
+focus on India, Stratification and Gender, Racem
+ethnicity and stratification Social Stratification (IH)
+Classical Sociological thinkers, Structural
+Functionalism, Conflict Theories, Modernity and
+postmodernism, Globalization, Cultural Theory,
+Materialism, Theories of Consumption Globalization and culture
+(OE)
+Science and Technology studies, Ethnography of a
+laboratory, social construction of reality, social
+construction of nature, Discrimination in science,
+Actor Network Theory, Anthropology of non-humans,
+ecological understanding of world, Science and
+technology is colonial India, Science and Governance
+in India, History and Philosophy of Science and
+Technology, Technology and Art Sociology of Science and
+Technology (OE)
+Concept of culture, cultural studies: theories and
+debates, popular culture, identity, visual and audio-
+visual cultures, heritage and conservation, intangible
+heritage, fine arts, music, literary arts, oral traditions Culture, Art and Heritage
+(OE)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Gender as social construction; Gender in Colonial
+History; Gender across geo-social scales; Gender and
+Migration; Feminisms; Gender, Science, and
+Technology (Household technologies; Medical
+technologies; Communication technologies); Video
+Games; Imagining and Representing Gender; Gender
+in Literature and Culture; Postcolonial Studies;
+Normativity, Subversions, and Queer Studies; Global
+Gender Politics Gender and Society (OE)
+Economic
+s,
+Managem
+ent, Public
+Health Preferences, utility theory, cardinal vs optimal
+approaches, utility maximization problem, cardinal vs
+ordinal approaches, expenditure minimization,
+demand analysis, integrability and recoverability,
+weak axiom of revealed preference, producer theory,
+welfare theorems, market structures, general
+equilibrium: introductory. Microeconomics 1 (AIDE-
+CMCE) (IH)
+Game theory: overview, information economics,
+auctions and mechanism design problems, general
+equilibrium theory Microeconomics 2 (AIDE-
+CMCE) (IH)
+Economics of health; Microeconomic and
+macroeconomic theory of health sector;
+Understanding health systems; Health insurance
+schemes. Health Economics (IH)
+Introduction to concepts for economic analysis;
+market structures and strategic techniques; price
+discrimination; static and dynamic competition;
+product differentiation; entry, accommodation and
+exit. Industrial Organization (IH)
+Concepts of health and development; Wellbeing of the
+world; Inequalities in health, and social determinants
+of health; Impact of globalization on health; Health,
+development and challenges in India. Health and Development
+(IH)
+Exploration of current and evolving policy debates in
+the backdrop of issues pertaining to economic
+development of India. Indian Economic
+Development and Policy
+(IH)
+Importance and role of institutions, politics and
+society in economic growth and development, Impact
+of intricately-related institutional and political aspects
+on decisions and actions, society and the economy. Political and Institutional
+Economics of Development
+(IH)
+Basics of Money, Banking and Financial Markets,
+basics of personal finance, working of finance Foundations of Finance (IH)
+Introduction to strategic games, strict and weak
+domination, rationalizability and iterated elimination,
+Nash equilibrium, correlated equilibrium, Bayesian
+games, extensive form games, games with imperfect Individual and Strategic
+Decision Making (AIDE-
+CMCE) (IH)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Introduction to networks, representing and
+measuring networks, random networks, network
+games, economic applications Social and Economic
+Networks (AIDE-CMCE)
+(IH)
+Rational choice, important axioms in choice theory
+and their relevance in characterizing choice, decision
+theory models with boundedly rational agents,
+stochastic choice models, decision making under
+uncertainty, applications of decision theory in AI. Behavioral Economics and
+Decision Theory (AIDE-
+CMCE) (IH)
+Principles, measurements, and diseases burden;
+Concepts of global health, and its relevance;
+Determinants of global health and policy; Medical
+technologies; Cross-cutting global health themes;
+Global health institutions. Global Health (OE)
+Making health policy; Evolution of India’s Health
+policy; Understanding health system; Healthcare
+financing. Health Policy, Systems and
+Financing (OE)
+Making Health Policy, Evolution of India’s Health
+Policy, Understanding Health System, Healthcare
+financing, National Level Secondary Health Data Sets Healthy Policy, Systems
+and Financing (OE)
+Philosoph
+y, Policy,
+Governan
+ce Wisdom, Insight, Foresight, Intellectual Traditions,
+Western Philosophy, Eastern Schools of Thought,
+Contemporary Philosophy, Major Philosophical Issues Introduction to Philosophy
+(IH)
+Truth and Validity, Reasoning, Propositional Logic,
+Predicate Logic, Aristotelian Logic, Fundamentals of logic (IH)
+Informal fallacies, cognitive biases, Cognitive
+Unconscious, Dual Processing Critical Thinking (IH)
+Language, Metaphors, Meaning and Conceptual
+Structure Cognitive semantics (IH),
+Epistemological problems, Metaphysical Problems,
+Theodicy, Ethical Dilemmas, Meaning of Life Philosophical Problems (IH)
+Indian Intellectual Tradition, Salient Features of
+Indian Philosophy, Major Schools of Thought,
+Classical and Contemporary Thinkers Introduction to Indian
+Philosophy (IH)
+Concepts of Justice, Distributive Justice, Procedural
+Fairness, Global Justice, Intergenerational Justice,
+Restorative Justice, Grounds of Justice Theories of justice (IH)
+Significance of Gandhian Thought; Major Works and
+Ideas of Gandhi; Gandhian Concept of Peace and
+Nonviolence; The Triad; Eleven Virtues; Idea of
+Progress and Development; Political Thought; Politics,
+Law and Morality; Contemporary Relevance Gandhian Thought (IH)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+History of development, Concept of Development,
+Planning in India, Technology as key for India’s
+development, Low carbon economy Role of technology in
+development (IH)
+Natural Disasters and Pandemics, Natural Resource
+Management, build back better, vulnerability,
+foresight, risk, resilience livelihoods, National-state
+policies, geo-politics, international aid, CSOs, GIS,
+emerging technologies Disasters, Risk Reduction,
+and Management (IH)
+Social construction of nature, natural resource
+management and conservation, development,
+degradation and marginalization, neoliberalism and
+environmental governance Political and Cultural
+Ecology (IH)
+Development of Intellectual Traditions; History of
+Sciences; Critical Thinking; Analytic Tradition;
+Paradigmatic Shifts; Scientific Temper; Limits of
+Scientific Explanations History and Philosophy of
+Science (OE)
+The idea of sustainability; emergence and scope of
+sustainability science; basic principles of sustainable
+development; seminal works, documents and
+declarations; technological imperatives and social
+imperatives; sciences, values and value of sciences;
+plausible applications of technologies and
+sustainability concerns; energy, society, and
+environment; global pollution and health risks;
+susceptibility assessment; evolutionary roots of
+environmental problems; Social benefits and
+technological risks; perceiving and justifying risks,
+cost-benefit analysis and right based approach;
+uncertainty assessment and precautionary principle;
+sustainable development goals Foundations of
+Sustainability (OE)
+Natural Resource Management, Food Security,
+Agriculture, Migration, Environment, health, Disasters Climate Change and
+Society (OE)
+Natural Resource Management, Conflict, Livelihoods,
+Migration, Agriculture, Emerging Technologies,
+pollution, geo-politics, energy, cost-benefit, SDGs Politics of water governance
+(OE)
+Other The nature of beauty and art; Platonic, Aritotelian,
+and Kantian concepts of beauty; aesthetic experience
+and judgment; the sublime; pleasure; existentialist
+perspectives; the genius and creativity; freedom and
+creative expressions; spectator’s vantage point;
+feminist perspectives; the body; postmodern art;
+aesthetics of design; factors in design; industrial
+culture and design of products Aesthetics (OE)
+Bioethical problems, professional dilemmas, animal
+and biosphere Bioethics (OE)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Theories of consciousness, Science and philosophy of
+consciousness, altered states of consciousness, self
+and free will Consciousness (OE)
+Introduction to emotion, intelligence, learning,
+memory, forgetting, personality, self, mastery, group
+behavior, stereotype, prejudices, attribution Principles of Psychology
+(OE)
+Leadership basics, leader and follower interaction,
+gender and leadership issues, power and leadership
+connection, sources of power, power and unethical
+behavior, development of leadership qualities Basics of Leadership (OE)
+Experiential learning-based discussion on soft skill
+like, self-awareness, empathy, emotional intelligence
+and regulation, unhelpful thinking styles,
+assertiveness, positive communication, delegation
+and group management Life and Professional Skill
+Development (OE)
+Concepts and issues related to happiness and
+flourishing, well-being, positive emotion, mindfulness
+and flow, character strength and virtues Positive Psychology and
+Wellbeing (OE)
+Consumption, markets, consumer society,
+commodity culture, consumption and class, material
+culture, overconsumption, consumer citizenship,
+global consumption, commodity flows Consumer Culture and
+Commodities (OE)
+History of Civilizations and role of technology;
+Narratives of Progress; Social Construction of
+Technology - Colonial Technology; Diffusion and
+transfer of technology; Rise of the Internet and Digital
+Societies; Basics of archaeology (concept, methods,
+practices) Civilizations, Cultures, and
+Technologies (DH) (OE)
+Visual Cultures; Images as Performative Space;
+Digital media and Global Image; Images, Power, and
+Resistance; Netnography / Digital Ethnography Image, Imaginations, and
+Digital Cultures (DH) (OE)
+Emerging contours of Digital Humanities, Data and
+Knowledge Representation, Digital Archives Fundamentals of Digital
+Humanities (DH) (OE)
+Introduction to New Media, its theories and histories,
+its social, political and cultural implications; public
+domain and digital commons, network society, online
+streaming and authorship debates, piracy and IP
+rights; media lab as research space; New Media and
+Indian/global politics New Media Studies (DH)
+(OE)
+End of celluloid, post-cinema, digital cinema and
+durational principles, slow cinema, emerging domains
+of exhibition and spectatorship, digital film archives
+and databases, streaming platforms and authorship
+debates, digital restoration and preservation,
+experimental cinema-visual art alliance in the days of
+the digital Digital Cinema (DH) (OE)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Introduction to the field of network cultures that
+revolves around the interaction between new forms of
+networked media technologies, its users, and the
+developing discourses Network Cultures
+Examine the societal structures and expectations
+through which the gendered individual emerges as an
+integrated physiological, psychological, and socio-
+political being while locating how the postcolonial
+nation state and masculine behaviours intersect in the
+Global South through in-depth case studies and
+analysis of policy reports as well as cultural artifacts
+related to current environments, health, family,
+relationships, and aging. Masculinities in/and the
+Global South
+Exploration of “Energy humanities” as a rapidly
+emerging field of scholarship that overcomes
+traditional boundaries between the humanities and
+natural sciences and between academic and applied
+research; highlighting the essential contributions,
+insights and methods that the humanities can make
+to areas of study and analysis that were once limited
+and siloed within the natural sciences: with special
+focus on the self-reflexive relationship between
+energy, rationality modernity Energy Humanities
+Psychological theories of intelligence, Social-
+Emotional Intelligence, Measuring intelligence,
+different basis of intelligence Theories of Intelligence
+(SOI) (OE)
+Study of advanced mental processes, such as
+organization of knowledge, reasoning, decision-
+making, language, problem solving, emotion etc. Advance Cognitive
+Processes (SOI) (OE)
+Modern human-machine systems, knowledge base of
+engineering Psychology, human factor and
+engineering Psychology Engineering Psychology
+(OE)
+Cognitive revolution, object perception and
+recognition, mental processes related to intelligence,
+memory and concept formation, higher mental
+process. Cognitive Psychology (OE)
+Basic of cognitive neuroscience, behavioral measures
+of cognition, neural basis of mental process Introduction to Cognitive
+Neuroscience (OE)
+The culture concept, culture industry, media and
+culture, culture in the digital age, globalization, mass
+culture, popular culture, visual and material culture,
+cultural preservation Introduction to Cultural
+Studies
+Network Concepts, Graph, Connectivity, Software
+tools, NetworkX, Pajek Analysis of Social Media
+Networks (DH) (OE)
+Digital Environment, Application in Teaching,
+Advertising, Training, Immersive Environment Digital Storytelling (DH)
+(OE)
+
+Area Topics Course [Humanities
+Electives (IH)/Open
+Electives
+(OE)/Specialization
+Core/Electives (SC/SE)]
+Anthropomorphism, Multimodal Interfaces, Cognitive
+aspects, Qualitative and Quantitative Evaluation. Human Factors in
+Interaction Design (DH)
+(OE)
+S. No. Stream Courses L-T_P Credit
+HSS1 (All
+courses at
+200 level) Literature Short stories from around the world 3-0-0 3
+Regional literature in translation 3-0-0 3
+Creative writing 3-0-0 3
+Postcolonial Fiction 3-0-0 3
+Short Fiction from India 3-0-0 3
+Science Fiction 3-0-0 3
+Introduction to Theatre 3-0-0 3
+Short Fictions from South Asian
+Diaspora 3-0-0 3
+Classic Detective Fiction 3-0-0 3
+HSS2 (All
+courses at
+300 level) Sociology,
+History,
+Political Science Introduction to sociology 3-0-0 3
+Digital Society 3-0-0 3
+Urban Sociology 3-0-0 3
+Indian Society: A sociological
+introduction 3-0-0 3
+Youth studies 3-0-0 3
+Law and Society 3-0-0 3
+Sociology of Work and Industry 3-0-0 3
+Development and Environment 3-0-0 3
+Social Stratification 3-0-0 3
+Economics,
+Public Health Microeconomics 1 (AIDE-CMCE) 2-0-0 2
+Microeconomics 2 (AIDE-CMCE) 2-0-0 2
+* Course in HSS I-IV is available as an open elective also. 
+ 
+ 
+ 
+ 
+7. Summary of Institute wide bouquet of Humanities Courses (Humanities I-4) 
+ 
+Table 2. Area-wise HSS Courses
+
+HSS3 (All
+course at
+300 level) Health Economics 3-0-0 3
+Industrial Organization 3-0-0 3
+Health and Development 3-0-0 3
+Indian Economic Development and
+Policy 3-0-0 3
+Political and Institutional Economics of
+Development 3-0-0 3
+Foundations and Finance 3-0-0 3
+Individual and Strategic Decision
+Making (AIDE-CMCE) 2-0-0 2
+Social and Economics Networks (AIDE-
+CMCE) 2-0-0 2
+Behavioral Economics and Decision
+Theory (AIDE-CMCE) 2-0-0 2
+HSS4 (All
+courses at
+400 level) Philosophy,
+Policy,
+governance Introduction to Philosophy 3-0-0 3
+Fundamentals of logic 3-0-0 3
+Critical Thinking 3-0-0 3
+Cognitive Semantics 3-0-0 3
+Philosophical Problems 3-0-0 3
+Introduction to Indian Philosophy 3-0-0 3
+Theories of justice 3-0-0 3
+Gandhian Thought 3-0-0 3
+Role of Technology in Development 3-0-0 3
+Disasters, Risk Reduction, and
+Management 3-0-0 3
+Political and Cultural Ecology 3-0-0 3
+S.N Courses L-T_P Credit Course level
+1. Popular classics 3-0-0 3 400
+2. Introduction to film studies 3-0-0 3 200
+3. Dalit Movement and Literature 3-0-0 3 700
+4. Cine-politics under the national emergency 3-0-0 3 700
+5. Perspectives in language and literary studies (DH) 3-0-0 3 600
+6. Introduction to Editing and Publishing 3-0-0 3 700
+8. Open Electives 
+Table 3.HSS Open Elective Courses
+
+7. Indian Cinemas: Many Histories 3-0-0 3 700
+8. Introduction to Literature from India’s Northeast 3-0-0 3 700
+9. Introduction to Contemporary Arts 3-0-0 3 400
+10. Introduction to Performance Studies 3-0-0 3 700
+11. Modern Indian Theatre 3-0-0 3 700
+12. Asian American Literature 3-0-0 3 700
+13. World Literature and Global Cinema 3-0-0 3 700
+14. Globalization and culture 3-0-0 3 400
+15. Sociology of Science and Technology 3-0-0 3 700
+16. Culture, Art and heritage 3-0-0 3 300
+17. Gender and Society 3-0-0 3 700
+18. Global Health 3-0-0 3 700
+19. Health Policy, Systems and Financing 3-0-0 3 700
+20. History and Philosophy of Science 3-0-0 3 700
+21. Foundations of Sustainability 3-0-0 3 400
+22. Climate change and society 3-0-0 3 700
+23. Politics of water governance 3-0-0 3 700
+24. Aesthetics 3-0-0 3 400
+25. Bioethics 3-0-0 3 400
+26. Consciousness 3-0-0 3 700
+27. Principles of Psychology 3-0-0 3 300
+28. Basics of Leadership 3-0-0 3 400
+29. Life and Professional Skill development 3-0-0 3 400
+30. Positive Psychology and Well-being 3-0-0 3 400
+31. Consumer culture and commodities 3-0-0 3 700
+32. Civilizations, Cultures, and Technologies (DH) 3-0-0 3 600
+33. Images, Imaginations, and Digital Cultures (DH) 3-0-0 3 600
+34. Fundamental of Digital Humanities (DH) 3-0-0 3 700
+35. New media studies (DH) 3-0-0 3 500
+36. Digital Cinema (DH) 3-0-0 3 500
+37. Network Cultures 3-0-0 3 700
+38. Masculinities in/and the Global South 3-0-0 3 700
+39. Energy Humanities 3-0-0 3 700
+
+40. Theories of Intelligence (SOI) 3-0-0 3 400
+41. Advance Cognitive Processes (SOI) 3-0-0 3 400
+42. Engineering Psychology 3-0-0 3 400
+43. Cognitive Psychology 3-0-0 3 400
+44. Introduction to Cognitive Neuroscience 3-0-0 3 700
+45. Introduction to Cultural Studies 3-0-0 3 700
+46. Analysis of Social Media Networks (DH) 3-0-0 3 700
+47. Digital Storytelling (DH) 3-0-0 3 700
+48. Human Factors in Interaction Design (DH) 3-0-0 3 700
+49. Selected Topics in HSS -I 1-0-0 1 700
+50. Selected Topics in HSS -II 2-0-0 2 700
+51. Selected Topics in HSS - III 3-0-0 3 700
+S.N. Name of
+Specialization Minor Core
+(8 credits) Topics Minor Elective
+(12 Credits) Topics
+1 Performing
+and Creative
+Arts Introduction
+to
+Contemporar
+y Arts (3
+credits, 400
+level, 3-0-0,
+Core)
+Approved Introduction to
+visual arts, Art
+history and
+major art
+movements in
+Europe (from
+classical to
+modern),
+Histories of
+ancient and
+medieval Indian
+art, Renaissance
+perspective and
+Indian
+resistance,
+Major Indian
+artists and art
+groups, visual
+art,
+experimental
+cinema,
+installation art,
+new modes of
+exhibition Indian Theatre
+(3 credits, 600
+level, 3-0-0,
+Elective) Natyashastra, Sanskrit
+drama, classical
+theatre,colonial theatre,
+folk performance
+traditions, Tagorean
+drama, Postcolonial
+theatre, Indian theatre in
+the 1960s, Third Theatre
+Introduction
+to
+Performance
+Studies (3 Introduction to
+performance,
+performance
+theories,
+9. Minor to be offered by the department of HSS 
+ Table 4. Specialization and courses
+
+credits, 400
+level, 3-0-0,
+Core)
+Approved performance
+history through
+the ages,
+classical drama,
+Renaissance
+drama,
+dramaturgy,
+playgoing
+cultures, theatre
+movements and
+modernism,
+acting styles,
+absurd theatre,
+theatre-cinema
+interface,
+classical Indian
+theatre, Indian
+theatre in
+colonial and
+postcolonial
+times
+Modern Indian
+Theatre (3
+credits, 700
+level, 3-0-0,
+Elective)
+Approved Post-Independence
+theatre and institutional
+histories, urban/folk,
+theatre in the long
+1960s, major
+playwrights and select
+plays, production
+histories, film adaptation
+of theatrical texts,
+political theatre, third
+theatre, theatre after
+globalization
+Project I (3
+credits, 600
+level, 0-0-6,
+Elective) Methodology workshop,
+selection of topics and
+areas, discussion
+sessions, final
+submission
+Minor Program (Performing and Creative Arts) 
+Philosophy: The minor program on Performing and Creative Arts introduces students to theatre and 
+performance, classical music, visual and audio-visual art practices (photography, film, installation) in 
+order to explore the creative potential that the students may have and also to engage actively with 
+Indian traditions in these domains. It is also interested in nurturing and developing the aesthetic 
+sensibilities of the students that may help them in sharpening their skills for appreciating art and also 
+in finding alternative career options. 
+ 
+Innovative Components: Some of the courses will have tutorials and practical sessions, workshops 
+etc. and resource persons from various art and culture industries will be invited for the latter. There 
+will be interactive sessions between resource persons and students. By the end of the program, there 
+will be two elective project courses and students will be allowed to choose any of the three areas 
+(visual arts, theatre and performance, classical music) for their respective projects.
+
+Objectives
+a. Nurturing and developing the aesthetic sensibilities of students 
+b. Exploring the creative potential of students 
+c. Encouraging students in exploring alternative career options 
+d. Introducing students to Indian traditions in the spheres of art
+Learning Outcomes: At the completion of this minor, students are expected to have the ability to:
+a. Have a basic grasp over performance and art histories/theories in India and abroad 
+b. Develop familiarity with modern/contemporary and traditional/classical art forms 
+c. Develop acquaintance with Indian art practices and traditions 
+d. Develop adequate aesthetic sensibilities to appreciate art 
+e. Find suitable methods for indulging in artistic practices of their choice
+
+10. Detailed Course Content
+of
+Institute Level Humanities Bouquets
+
+Title Communication Skill I Number HSN 1010
+Department HSS L-T-P [C] 0-0-1 [1]
+Offered for UG Type Compulsory
+Prerequisite None
+Institute vide Core Courses:
+
+Grammar &Composition. Revised by N.D.V. Prasad Rao.S.Chand Publishing Blackie.ELT 
+Books, New Delhi: India.
+4. Hewings, Martin (2008) Advanced Grammar in Use. Cambridge University Press.
+Online Course Material 
+1. Iqbal, Ayesha.English Language for Competitive Examinations.NPTEL Course Material, 
+Department of Humanities and Social Sciences, Indian Institute of Technology-Madras, 
+https://nptel.ac.in/courses/109106116/ 
+2. Choudhary, Shreesh. Better Spoken English. NPTEL Course Material, Department of 
+Humanities 
+and 
+Social 
+Sciences, 
+Indian 
+Institute 
+of 
+Technology-Madras,
+
+Title Communication Skill (II) Number HSN 1020
+Department HSS L-T-P [C] 0-0-1 [1]
+Offered for UG Type Compulsory
+Prerequisite None
+
+Title Professional Ethics I Number HSN3010
+Department HSS L-T-P [C] 0-0-1[1]
+Offered for UG Type Compulsory
+Prerequisite None
+
+Title Professional Ethics II Number HSN3020
+Department HSS L-T-P [C] 0-0-2[1]
+Offered for UG Type Compulsory
+Prerequisite None
+
+Institute Level Humanities Bouquets
+
+Course title Description Course no.
+Short stories from around the world Course content HSL2XXX
+Regional literature in translation Course content HSL2XXX
+Creative writing Course content HSL2XXX
+Postcolonial fiction Course content HSL2XXX
+Short stories from India Course content HSL2XXX
+Science fiction Course content HSL2XXX
+Introduction to Theatre Course content HSL2XXX
+Short Fictions from South Asian Diaspora Course content HSL2XXX
+Classic Detective Fiction Course content HSL2XXX
+Course title Description Course no.
+Introduction to sociology Course content HS455
+Digital societies Course content HSL4XXX
+Urban sociology Course content HSL4XXX
+Indian societies: A sociological introduction Course content HSL3070
+Youth studies Course content HSL4XXX
+Law and society Course content HSL4XXX
+Sociology of work and industry Course content HSL4XXX
+Development and Environment Course content HSL3060
+Social Stratification Course content HSL4XXX
+Course title Description Course no.
+Microeconomics I (AIDE-CMCE) Course content AIL4010
+Microeconomics II (AIDE-CMCE) Course content AIL4XXX
+Health economics Course content HSL4070
+Industrial Organization Course content HSL7XXX
+Health and Development Course content HSL4XXX
+
+Indian Economic Development and Policy Course content HSL7XXX
+Political and Institutional Economics of
+Development Course content HSL7460
+Foundations and Finance Course content HSL4XXX
+Individual and Strategic Decision Making (AIDE-
+CMCE) Course content AIL4XXX
+Social and Economics Networks (AIDE-CMCE) Course content AIL7XXX
+Behavioral Economics and Decision Theory (AIDE-
+CMCE) Course content AIL7XXX
+Course title Description Course no.
+Introduction to philosophy Course content HSL4XXX
+Fundamentals of logic Course content HSL4010
+Critical thinking Course content HSL4XXX
+Cognitive semantics Course content 32209/HSL4XXX
+Philosophical problems Course content HSL4020
+Introduction to Indian philosophy Course content HSL4XXX
+Theories of justice Course content HSL4XXX
+Gandhian Thought Course content HSL4XXX
+Role of technology in development Course content HS421/HSL4XXX
+Disaster, risk reduction and management Course content HSL4030
+Political and Cultural Ecology Course content HSL4XXX
+
+Title Short stories from around the World Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+HSS-I Literature
+
+Title Regional Literature in Translation Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Creative Writing Number HSL 2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Postcolonial Fiction Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Short fiction from India Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Science Fiction Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Introduction to Theatre Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Short fiction from South Asian Diaspora Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+8. Hua, Anh. “Diaspora and Cultural Memory.” Diaspora, Memory and Identity: A Search for
+Home, edited by Vijay Agnew, University of Toronto Press, 2005, pp. 191–208.
+9. Mishra, Sudesh. “From Sugar to Masala: Writing by the Indian Diaspora.” An Illustrated
+History of Indian Literature in English, edited by Arvind Krishna Mehrotra, Permanent Black, 
+2003, pp. 276–294.
+10. Mishra, Vijay. “The Diasporic Imaginary: Theorizing the Indian Diaspora.” Textual Practice,
+11. Chatterji, Joya and David Washbrook. Routledge Handbook of the South Asian Diaspora.
+London and New York: Routledge, 2013.
+Online Course Material
+1. Chattopadhyay, Sayan., Lecture 16: Diasporic Literature. NPTEL Course Material, Department
+of Humanities and Social Sciences, Indian Institute of Technology Kanpur,
+
+Title Classic Detective Fiction Number HSL2xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+10. Scott, Sutherland. Blood in their Ink: The March of the Modern Mystery Novel. London: Stanley
+Paul & Co., 1953.
+11. Stewart, R.F. And always a detective: Chapters on the history of Detective fiction. Newton
+Abbot & North Pomfret: David and Charles, 1980.
+12. Symons, Julian. Bloody Murder: From the Detective Story to the Crime novel: A History.
+Online Resources: 
+Prof. Andrew King. Introduction to Detective Fiction, Part 1 to 3. University of Greenwich. 
+https://www.youtube.com/watch?v=_AWsWYBY6Ec&t=124s.
+
+Course Title Introduction to Sociology Course No. HS455
+Department HSS Structure (L-T-P-C) 3-0-0 [3]
+Offered for UG Type Elective
+Pre-requisite None
+HSS - II Sociology, History, Political Science
+
+Title Digital Society Number HSL4XX0
+Department HSS L-T-P [C] 3–0–0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Urban Sociology Number HSL 4xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Indian Society: A Sociological Introduction Number HSL3070
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+1. Mallick, S., and Das, L., Indian Society: Issues and Problems. Department of Humanities &
+Social 
+Sciences, 
+Indian 
+Institute 
+of 
+Technology, 
+Guwahati
+
+Title Youth Studies Number HSL 4xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Law and Society Number HSL 4xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Sociology of Work and
+Industry Number HSL 4xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Development and Environment Number HSL3060
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Social Stratification Number HSL 4xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Microeconomics-1 Number AIL4010
+Department AIDE (CMCE) L-T-P [C] 3-0-0 [3]
+Offered for B. Tech. Type Core for minor, Elective for all others
+Prerequisite None
+HSS - III Economics, Public Health
+
+Title Microeconomics-2 Number AIL4XX0
+Department/School AIDE (CMCE) L-T-P
+[C] 3-0-0 [3]
+Offered for B. Tech (All Branches),
+P.G., Ph.D. Type Core for minor, Elective for
+others
+Prerequisite Microeconomics-1
+equilibrium, simultaneous move games and examples, games of perfect
+Game theory, Fudenberg, D., Tirole, J., MIT Press, 1991.
+Advanced microeconomic theory, Jehle, G.A., Reny, P.J., Pearson, latest edition.
+
+Title Health Economics Number HSL4070
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Industrial Organisation Number HSL7XX0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+Anindya Sen (1996). , Oxford University Press.
+Richard Schmalensee and R. Willig (1989). Handbook of Industrial Organization , vol. 1-2, 1
+
+5. Milgrom, Paul and Roberts, John, (1982), Limit Pricing and Entry under Incomplete
+Online resources:
+1. Industrial 
+Organisation 
+1, 
+MIT 
+Open 
+Courseware,
+
+Title Health and Development Number HSL4XX0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Indian Economic Development
+and Policy Number HS7XX
+Department HSS Structure (L-T-P-C) 3-0-0
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Political and Institutional
+Economics of Development Number HSL7460
+Department HSS Structure L-T-P (C) 3-0-0 (3)
+Offered for UG and PhD Type Elective
+Prerequisite None
+2.Chang, H. J. (2011). Institutions and economic development: theory, policy and history. Journal
+9.Gangopadhyay, S., & Santhakumar, V. (Eds.). (2013). Law and Economics: Volume I: Theory,
+Volume II: Practice . SAGE Publications India.
+
+Title Foundations of Finance Number HSL4XX0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type
+Prerequisite None
+
+Title Individual and strategic decision
+making: theory and applications Number AIL4XX0
+Department AIDE (CMCE) L-T-P [C] 2-0-0 [2]
+Offered for UG and PhD Type Core for minor, Elective for
+others
+Prerequisite None
+Exclusions Introduction to game theory
+MAL4310
+
+Title Social and Economic Networks Number AIL7XX0
+Department/School AIDE (CMCE) L-T-P [C] 3-0-0 [3]
+Offered for B. Tech./PG/Ph.D. Type Elective
+Prerequisite Individual and strategic decision
+making: theory and applications
+
+Title Behavioral Economics and Decision
+theory Number AIL7XX0
+Department/School AIDE (CMCE) L-T-P [C] 3-0-0[3]
+Offered for B. Tech./P.G./Ph.D. Type Elective
+Prerequisite Microeconomics-1
+
+Title Introduction to Philosophy Number HSL4XX0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+HSS - IV Philosophy, Policy, and Governance
+
+Title Fundamentals of Logic Number HSL4010
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Critical Thinking Number HSL4XXX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Cognitive Semantics Number 32209/HSL4xxx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Philosophical Problems Number HSL4020
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Introduction to Indian Philosophy Number HSL4xx0
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Theories of Justice Number HSL4xx0
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Gandhian Thought Number HSL4xx0
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Role of Technology in Development Number HS421/HSL4xx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Disaster risk reduction and management Number HSL4030
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite Interest in Policy, Governance, Sustainability,
+Law, Gender or Interdisciplinary/cross-
+discipline
+background
+
+Title Political and Cultural Ecology Number HSL4xx0
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+11. Detailed Course Content
+of
+Open Electives
+
+Course title Description Course no.
+Popular classics Course content HSL4XXX
+Introduction to film studies Course content HSL2010
+Dalit Movement and Literaturesss Course content HSL7XXX
+Cine-politics under the national emergency Course content HSL7330
+Perspectives in language and literary studies Course content DHL6010
+Introduction to Editing and Publishing Course content HSL7XXX
+Indian Cinemas: Many Histories Course content HSL7450
+Introduction to Literature from India’s Northeast Course content HSL7440
+Introduction to Contemporary Arts Course content HSL4XXX
+Introduction to Performance Studies Course content HSL7XXX
+Modern Indian Theatre Course content HSL7XXX
+World Literature and Global Cinema Course content HSL7XXX
+Globalization and culture Course content HSL4XXX
+Sociology of Science and Technology Course content HSL7XXX
+Culture, art and heritage Course content HS321
+Gender and society Course content HSL7360
+Global Health Course content HSL7XXX
+Health Policy, Systems and Financing Course content HSL7XXX
+History and philosophy of science Course content HSL7410
+Foundation of sustainability Course content HSL4040
+Climate change and society Course content HSL7XXX
+
+Politics of water governance Course content HSL7420
+Aesthetics Course content 32208/HSL4XXX
+Bioethics Course content HSL4080
+Consciousness Course content HS729
+Principles of psychology Course content HSL3010
+Basics of leadership Course content HS411
+Life and professional skill development Course content 32205/HSL4XXX
+Positive psychology and well-being Course content HSL4060
+Consumer culture and commodities Course content HSL7XXX
+Civilizations, Cultures, and Technologies (DH) Course content DJL6XXX
+Images, Imaginations, and Digital Cultures (DH) Course content DHL6XXX
+Fundamental of Digital Humanities (DH) Course content DHL7010
+New media studies (DH) Course content DHL5XXX
+Digital Cinema (DH) Course content DHL5XXX
+Network Cultures Course content HSL7XXX
+Masculinities in/and the Global South Course content HSL7XXX
+Energy Humanities Course content HSL7XXX
+Theories of Intelligence (SOI) (OE) Course content CG4XX
+Advance Cognitive Processes (SOI) (OE) Course content CGL4010
+Engineering Psychology Course content HS4XX
+Cognitive Psychology Course content HS4XX
+Introduction to Cognitive Neuroscience Course content HS7XX
+
+Introduction to Cultural Studies Course content DHL7XX0
+Analysis of Social Media Networks (DH) Course content DHL7XX0
+Digital Storytelling Course content DHL7XX0
+Human Factors in Interaction Design (DH) Course content DHL7XX0
+Selected topics in HSS I Course content HSL7XX0
+Selected topics in HSS II Course content HSL7XX0
+Selected topics in HSS III Course content HSL7XX0
+
+Title Popular Classics Number HS 3xx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Introduction to Film Studies Number HSL2XXX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Dalit Movement and Literature Number HSL7xx0
+Department HSS L-T-P [C] 3-0-0
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Cine-Politics under the National
+Emergency Number HSL7330
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Perspectives in Language and
+Literary Studies Number DHL6010
+Department IDRP: DH L-T-P-D [C] 3-0-0-1 [4]
+Offered for M.Sc. DH First Year only; B.Tech Electives;
+B.Tech Minor in DH Type Compulsory for DH and
+Elective for all others
+Prerequisite None
+
+Title Introduction to Editing and
+Publishing Number HS7XX
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+2. Dunham, Steve. The Editor’s Companion: An Indispensable Guide to Editing Books, Magazines, 
+Online Publications, and More. 2014. Blue Ash, OH: Writer’s Digest Books 
+3. Guthrie, Richard. Publishing: Principles and Practice. 2011. London: Sage 
+4. Truss, Lynne. Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation. 2004. New 
+York, NY: Gotham Books 
+5. Greene, Robert Lane. You Are What You Speak: Grammar Grouches, Language Laws, and the 
+Politics of Identity. 2011. New York, NY: Delacorte Press 
+ 
+Online Course Materials
+2. eDX course: The Book: The History of the Book in the 17th and 18th Century Europe at
+
+Title Indian Cinemas: Many
+Histories Number HSL7XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+4. Prasad, M. M., (1998), Ideology of the Hindi Film: A Historical Construction, Oxford University
+5. Sutoris, P., (2016), Visions of Development: Films Division of India and the Imagination of
+Progress, 1948-75, Oxford University Press.
+6. Rajagopalan, S., (2009), Indian Films in Soviet Cinemas: The Culture of Movie-Going after Stalin,
+Indiana University Press.
+7. Srinivas, S. V., (2009), Megastar: Chiranjeevi and Telugu Cinema after N. T. Rama Rao, Oxford
+University Press.
+8. Bhrugubanda, U. M., (2018), Deities & Devotees: Cinema, Religion, and Politics in South India,
+Oxford University Press.
+9. Pandian, A., (2015), Reel World: An Anthropology of Creation, Duke University Press. 
+10. Jaikumar, P., (2019), Where Histories Reside: India as Filmed Space, Duke University Press.
+Reference Books
+1. Grieveson, L., and MacCabe, C., (eds.) (2011) Film and the End of Empire, Bloomsbury. 
+2. Pandian, M. S. S., (2015), The Image Trap: M. G. Ramachandran in Film and Politics, Sage. 
+3. Iyer, U., (2020), Dancing Women: Choreographing Corporeal Histories of Hindi Cinema, Oxford
+University Press.
+4. Govil, N. (2015), Orienting Hollywood: A Century of Film Culture between Los Angeles and
+Bombay, New York University Press.
+5. Sen. M., and Basu, A., (eds.) (2013), Figurations in Indian Film, Palgrave Macmillan. 
+6. Sen, M., (2017), Haunting Bollywood: Gender, Genre, and the Supernatural in Hindi Commercial
+Cinema, Orient Blackswan.
+7. Mazumdar, R., (2007), Bombay Cinema: An Archive of the City, University of Minnesota Press. 
+8. Journal articles, book chapters, unpublished dissertations of Vasudevan, Rajadhyaksha, Srinivas,
+Athique, Tiwari, Mini, Radhakrishnan, Bhaumik will be provided by the instructor. 
+ 
+Online Course Material
+
+Title Introduction to Literatures from
+India’s Northeast Number HSL7440
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Introduction to Contemporary Arts Number HS 4XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+1. Guha-Thakurta, Tapati. Monuments, Objects, Histories: Institutions of Art in Colonial and Post-
+Colonial India 
+2. Upjohn, Everard M, et al. History of World Art 
+3. Foster,Gwendolyn Audrey and Wheeler W. Dixon. Experimental Cinema: The Film Reader 
+4. Cole, Bruce and Adelheid M. Gealt. Art of the Western World: From Ancient Greece to Post 
+Modernism 
+ 
+Online Course Material
+1. Asia Art Archive at: https://aaa.org.hk/en 
+2. NPTEL web course titled Modern Indian Art From the Colonial Period to the Present available
+3. NPTEL web course titled Visual Perception and Art: A Survey Across the Cultures available
+4. NPTEL web course titled Introducing Modern Western Art: Movements and Artists available
+5. NPTEL 
+web 
+course 
+titled 
+Folk 
+and 
+Minor 
+Art 
+in 
+India 
+available 
+at:
+6. NPTEL web course titled Introduction to Indian Art - An appreciation available at:
+7. NPTEL 
+web 
+course 
+titled 
+Elements 
+of 
+Visual 
+Representation 
+available 
+at:
+
+Title Introduction to Performance Studies in
+India Number HS 7XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+2. Shivaprakash, H S. Incredible India: Traditional Theatres 
+3. Lal, A. The Oxford Companion to Indian Theatre 
+4. William Egginton. How the World Became a Stage: Presence, Theatricality, and the Question
+of Modernity
+5. Bhatia, Nandi. Acts of Authority/Acts of Resistance: Theater and Politics in Colonial and
+Postcolonial India
+6. Varadpande, ML. The six-volume History of Indian Theatre 
+7. Panja, Shormishtha, et al. Performing Shakespeare in India: Exploring Indianness,
+literatures and cultures
+8. Jenon, Jisha. The Performance of Nationalism 
+9. --- and Milija Gluhovic (eds.). Performing the Secular 
+10. Lal, Anand. The Oxford Companion to Indian Theatre 
+11. Taylor, Diana. Performance.
+Online Course Material
+1. NPTEL web content on drama available at: https://nptel.ac.in/courses/109/106/109106054/
+
+Title Modern Indian Theatre Number HSL7XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+by Oxford University Press, Seagull, Penguin and DVDs of film-texts will be provided by the 
+instructor. 
+ 
+Reference Book
+1. 1. Lal, A., (ed.) (2004), The Oxford Companion to Indian Theatre, Oxford University Press. 
+2. 2. Dalmia, V., (2006), Poetics, Plays, and Performances: The Politics of Modern Indian Theatre,
+Oxford University Press.
+3. 3. Ghosh, A., (2012), A History of the Jana Natya Manch: Plays for the People, Sage. 
+4. 4. Katyal, A., (2012), Habib Tanvir: Towards an Inclusive Theatre, Sage. 
+5. 5. Kundu, M., (2016), So Near, Yet So Far: Badal Sircar’s Third Theatre, Oxford University Press.
+Online Course Material
+1. 1. Introduction to Modern Indian Drama by Dr. Kiran Keshavamurthy, IIT Guwahati, at
+
+Title Asian American Literature Number HSL7XXX
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+9. Kim, Elaine H. Asian American Literature: An Introduction to the Writings and their
+Social Context. Temple University Press, 1982.
+10. Lal, Brij V., et al. editors. The Encyclopaedia of the Indian Diaspora. Editions Didier
+11. Leiwei Li, David. Imaging the Nation: Asian American Literature and Cultural Consent.
+Stanford University Press, 1998.
+12. Ling, Amy. Between Worlds: Women Writers of Chinese Ancestry. Pergamon, 1990. 
+13. Radhakrishnan, R. Diasporic Mediations: Between Home and Location. University of
+Minnesota Press, 1996.
+14. Wong, Sau-Ling Cynthia. Reading Asian American Literature: From Necessity to
+Extravagance. Princeton University Press, 1993. 
+ 
+Online Course Material 
+ Dr. Aysha Iqbal Viswamohan, Contemporary Literature, Department of Humanities and 
+Social 
+Sciences, 
+IIT 
+Madras, 
+Lectures 
+35 
+to 
+38.
+
+Title World Literature and Global Cinema Number HSL7XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Globalization and Culture Number HSL4xx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Sociology of Science and Technology Number HSL7XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Culture, Art and Heritage Course No. HS 321
+Department HSS L-T-P[C] 3-0-0 [3]
+Offered for UG Type Elective
+Pre-requisite None
+
+Course Title Gender and Society Course No. HSL7360
+Department HSS Structure (L-T-P-C) 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Pre-requisite None
+
+Title Global Health Number HSL 7XXX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Health Policy, Systems, and Financing Number HSL7XXX
+Department HSS L-T-P [C] 3-0-0[3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title History and Philosophy of Science Number HSL7410
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Foundations of Sustainability Number HSL4040
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Climate Change and Society Number HS 7xx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+9. Scott, S., and Slovic, P (eds.) (2015), Numbers and Nerves: Information, Emotion, and Meaning in 
+a World of Data. Oregon State UP, www.arithmeticofcompassion.org 
+10.Ghosh, A., (2016), The Great Derangement: Climate Change and the Unthinkable. Penguin Books. 
+11.Narain, S., (2017), Conflicts of Interest: My journey through India’s Green Movement, 
+ 
+Penguin.
+12. Rangarajan, S., (2018), Ecocriticism: Big Ideas and Practical Strategies. OrientBlackswan. 
+13. Roy, S., (2018), We’re Doomed. Now What? Essays on War and Climate Change, Soho. 
+14. Jaquette Ray, S., (2020), A Field Guide to Climate Anxiety. University of California Press. 
+15. Discussion Papers, Research Reports and Policy Briefs from IPCC, The World Bank, UNDP. 
+ 
+Online Course Material 
+1. Kipgen, G., Ecology and Society, Department of Humanities & Social Sciences Indian Institute of 
+Technology, Guwahati. https://nptel.ac.in/courses/109103123 
+2. 
+ 
+Climate 
+Change 
+Online 
+Learning, 
+Open 
+learning 
+campus, 
+The 
+World 
+Bank.
+
+Title Politics of Water Governance Number HSL7420
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+7. Shah, M., and Vijayshankar, P.S., (2016), Water: Growing Understanding, Emerging
+Perspectives (Readings on the Economy, Polity and Society), Orient BlackSwan.
+Wesselink, A., (2017), Engaging with the politics of water governance. Wires Water, 4(6).
+9. Boelens, R., and Perreault, Vos, J., (2018), Water Justice, Cambridge University Press. 
+Online Course Material 
+1. Mukherjee, J., Water, Society and Sustainability. Department of Humanities & Social
+Sciences, 
+Indian 
+Institute 
+of 
+Technology, 
+Kharagpur,
+
+Title Aesthetics Number 32208
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+Existentialist Perspectives : Nietzsche, the ‘genius’ and creativity; Life: the ‘absurd’ and human
+Aesthetics of Design : The Methodology, Functionality and Aesthetics: the importance of design;
+
+Title Bioethics Number HSL4080
+Department HSS L-T-P [C] 3–0–0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Consciousness Number HS729
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Principles of Psychology Number HSL3010
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Basics of Leadership Number HS411
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Life and Professional Skill Development Number 32205
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Positive Psychology and Well-being Number HSL4060
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Title Consumer Culture and Commodities Number HS 7xx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Civilizations, Cultures, and
+Technologies Number DHL6XX0
+Department IDRP: DH L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. DH First Year only;
+B.Tech Electives; B.Tech Minor
+in DH Type Compulsory for DH and
+Elective for all others
+Prerequisite None
+
+Title Images, Imaginations, and
+Digital Cultures Number DHL6XX0
+Department IDRP: DH L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Sc., M.Tech, B.Tech Type Elective
+Prerequisite None
+
+Title Fundamentals of Digital Humanities Number DHL7010
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (Cr>=100); M.Sc. (Cr >=30);
+M.Tech. (Cr.>0); Ph.D. (Cr.>0) Type Elective
+Prerequisite None
+
+1. Ethnographic data collection and analysis: A case study 
+2. Ontology formation from Multimedia Data: A case study
+References Books
+1. Christopher Joseph Jenks (2011), Transcribing Talk and Interaction: Issues in the
+Representation of Communication Data, John Benjamins Publishing Company.
+2. Russel, S. & Norvig, P., (2009), Artificial Intelligence: A Modern Approach, Pearson Education 
+3. S. Chaudhury, A. Mallik, and H. Ghogh (2016), Multimedia Ontology Representation and
+Applications, CRC Press.
+Online-Course Materials
+1. Knowledge Representation and Reasoning
+Fractal 3: Digital Archives (DHL7013)
+Digital memory, Methods of archiving, Theorizing the archive, database [6 lectures] 
+Exhibition, installation, audio-visual essays [4 lectures] 
+Aesthetics of recreation/ Digital aesthetics, Digital Art [4 lectures]
+References Books
+1. Ernst, W., (2013), Digital Memory and the Archive, Minneapolis: University of Minnesota
+Press
+2. Grau, O., Coones, W., and Ruhse, V. (Eds.) (2017), Museum and Archive on the Move:
+Changing Cultural Institutions in the Digital Era, Berlin and Boston: De Gruyter
+Online-course material
+
+Title New Media Studies Number DHL5XX0
+Department IDRP: DH L-T-P [C] 3–0–2 [4]
+Offered for All M. Tech and PhD students
+<Shall also be considered for
+B.Tech Students> Type M.Sc. DH First Year
+Compulsory, Elective for all
+others
+Prerequisite None
+
+Title Digital Cinema Number DHL5XX0
+Department IDRP: DH L-T-P [C] 3–0–2 [4]
+Offered for All M. Tech and PhD students
+<Shall also be considered for
+B.Tech Students> Type M.Sc. DH First Year
+Compulsory, Elective for all
+others
+Prerequisite None
+
+Title Network Cultures Number HSL 7xx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+A curated course artifact with all the study material will be given to the students. 
+ 
+Reference Books 
+Galloway, A. R. (2006). Protocol: how control exists after decentralization. The MIT Press. 
+Lovink, G. (2013). Networks without a cause: a critique of social media. Polity Press. 
+Kitchin, R. (2021). Data lives: how data are made and shape our world. Bristol University Press. 
+ 
+Online Material 
+ https://networkcultures.org/publications/
+
+Title Masculinities in/and the Global
+South Number HSL 7xx
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Reference Books 
+Connell, R. W. (2009). Masculinities. Polity Press. 
+Dasgupta, R. K. (2014). Masculinity and its challenges in India: essays on changing perceptions. 
+Foucault, M. (2020). The history of sexuality. Penguin Classics. 
+Halberstam, J. (2018). Female masculinity. Duke University Press. 
+Kimmel, M. (2018). Guyland the perilous world where boys become men. Harper Perennial. 
+McKenzie, J. (2008). Perform or else: from discipline to performance. Routledge. 
+Mohanty, C. T. (2007). Feminism without borders: decolonizing theory, practicing solidarity. Point 
+Par Point. 
+Sinha, M. (1997). Colonial masculinity: the "manly Englishman" and the "effeminate Bengali" in the 
+late nineteenth century. Kali for Women. 
+ 
+Online Material 
+TillotomaProductions.(2015).-Mardistan/Macholand. 
+https://www.youtube.com/watch?v=tSrGuXTEHsk. 
+Media Education Foundation. (1999). Tough Guise. USA.
+
+Title Energy Humanities Number HSL7XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Prakash, G. (1999). Another reason: science and the imagination of modern India. Princeton
+University Press.
+Sieferle, R. P. (2010). The subterranean forest energy systems and the Industrial Revolution. White
+Huber, M. T. (2013). Lifeblood: oil, freedom, and the forces of capital. University of Minnesota Press. 
+Harding, S. G. (Ed.). (2011). The Postcolonial Science and Technology studies reader. Duke
+University Press.
+Szeman, I., & Boyer, D. (Eds.). (2017). Energy humanities: an anthology. Johns Hopkins University
+Allen, R. C. (2018). The British industrial revolution in global perspective. Cambridge University
+Mukherjee, R. (2020). Radiant infrastructures: media, environment, and cultures of uncertainty.
+Duke University Press.
+Mišík Matúš, and Kujundžić Nada (Eds.). (2021). Energy humanities: current state and future
+Online Course Material 
+1. 
+Carnegie 
+Mellon 
+University: 
+The 
+Imperative 
+of 
+Energy 
+Humanities
+
+Course Title Theories of Intelligence Course No. CG4xx
+Department Science of Intelligence Structure (L-T-P 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Course Title Advanced Cognitive Processes Course No. CG4xx
+Department Science of Intelligence L-T-P [C] 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Course Title Engineering Psychology Course No. HS 4XX
+Department HSS Structure (L-T-P [C]) 3-0-0 [3]
+Offered for UG Type Elective
+Prerequisite None
+
+Course Title Cognitive Psychology Course No. HS 7XX
+Department HSS Structure (L-T-P [C]) 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+automaticity , consciousness, awareness
+Module 3: Human and Artificial Intelligence, memory, visual and spatial memory, memory of
+3. Sternberg, R. J., Sternberg, K.,(2012). Cognitive psychology. Cengage Learning Press.
+
+Course Title Introduction to Cognitive Course No. HS 7XX
+Department HSS L-T-P [C] 3-0-0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+sssCourse
+Title Introduction to Cultural Studies Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-D 3-0-0-0 [3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100) Type Elective
+Prerequisite None
+1. Teach cultural studies as an interdisciplinary field which draws from and contributes to
+2. Equip students with methods and frameworks to look at the central preoccupations of the
+3. Critically interrogate the benefits of cultural studies for both inter- and intra-disciplinary
+
+Course Title Analysis of Social Media
+Networks Course No. DHL7XX0
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30);
+M.Tech. (Cr>=0);
+B.Tech. (Cr>=100) Type Elective
+Prerequisite None Anti-requisite Social Networks, Social
+Network Analysis
+
+Course Title Digital Storytelling Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-
+D [C]) 3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100) Type Elective
+Prerequisite None
+
+Course Title Human Factors in Interaction Design Course No. DHL7XX0
+Department IDRP-DH Structure (L-T-P-
+D [C]) 3-0-0-0
+[3]
+Offered for Ph.D. (Cr>=0); M.Sc. (Cr >=30); M.Tech.
+(Cr>=0); B.Tech. (Cr>=100) Type Elective
+Prerequisite None
+
+Title Selected Topics in HSS - I Number HSL7XX0
+Department HSS L-T-P [C] 1–0–0 [1]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Selected Topics in HSS - II Number HSL7XX0
+Department HSS L-T-P [C] 2–0–0 [2]
+Offered for UG and PhD Type Elective
+Prerequisite None
+
+Title Selected Topics in HSS - III Number HSL7XX0
+Department HSS L-T-P [C] 3–0–0 [3]
+Offered for UG and PhD Type Elective
+Prerequisite None

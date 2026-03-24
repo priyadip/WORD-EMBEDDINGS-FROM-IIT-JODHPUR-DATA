@@ -1,0 +1,46 @@
+publication dignostic system for hypertensive and diabetic retinopathy no thumbnail available date authors journal title journal issn volume title publisher indian institute of technology jodhpur research projects organizational units journal issue abstract retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+hr is retinal disease caused by elevated blood pressure for prolonged period
+diabetic etinopathy dr is progressive retinal disease caused by diabetes
+diabetic retinopathy npdr is an early stage of dr damages blood vessels of the retina
+moreover hr serves as biomarker for several illnesses including retinal diseases atherosclerosis strokes kidney disease and cardiovascular risks
+early identificahese diseases helps in the timely and proper treatment can prevent blindness
+manual diagnosis of these retinal diseases is resource demanding inconvenient costly and demands pecialized skills and experience
+on the other hand iagnosis cad and artificial intelligence ai based systems are expected to solve the challenges effectively
+this thesis proposes an efficient algorithm for hr detection
+further for effective management of these diseases we develop an effective algorithm for severity grading of hr and npdr
+to achieve this careful study of existing literature in the field of automatic diagnosis of hr and dr is conducted to identify important research gaps in this area
+it has been observed that the availability of public data sets for hr diagnosis is limited
+moreover there is no such public dataset available for hr grading
+severity grading helps in the timely and effective anagement of these diseases and reduces future risks
+however very limited research has been conducted for the severity grading of hr and npdr
+additionally previous studies mainly relied on arteriovenous ratio avr and the manual selection of regions of interest roi around the optic disc od for hr detection and its grading
+due to roi selection primarily around od these method had risk of missing several important clinical features present elsewhere resulting in less accurate diagnostic outcomes
+furthermore one of the key challenges observed in dr and hr severity grading is the imbalance imbalance
+such class imbalance makes the training of learning based recognition models very challenging as the majority of class samples predominate in the training process of the learning model
+to address these limitations novel hr detection approach has been proposed based on learning using pretrained initial baseline model to obtain ransferable knowledge for feature embedding on prediction
+this approach aims to reduce overfitting and improve generalization which is especially advantageous for smaller datasets
+unlike previous methods the proposed approach uses complete images to capture all clinical features
+experimental results demonstrate the effectiveness of the proposed hr detection method
+in this thesis work we develop hrsg hypertensive retinopathy severity grading dataset dataset encompassing fundus images and categorizing the severity into four classes normal mild moderate and severe
+the grading process is conducted by three experienced ophthalmologists affiliated with prestigious medical institutions in india including the all india institute of medical sciences aiims in jodhpur the aravind eye hospital in madurai and the sri aurobindo institute of medical sciences hospital in indore
+for effective severity grading of hr hybrid deep learning dl architecture is proposed that leverages the combined strengths of pretrained and modified vision transformer vit enhanced with both global and locality mechanisms enabling accurate grading into four classes normal mild moderate and severe
+the proposed method effectively captures both local and global contextual information across the input image leading to robust and resilient classification model
+further to address the class imbalance issue we introduce novel decouple representation and classifier drc based training method
+the proposed drc method effectively addresses the class imbalance by improving the module capacity to identify effective feature learning while maintaining the original dataset distributional properties leading to improved diagnostic accuracy
+the extensive experimental results demonstrate the effectiveness of the proposed method in accurately grading hr severity
+this thesis also presents reliable method for npdr severity grading into normal mild moderate and severe classes
+this method includes an initial image enhancement to improve quality for subsequent processing
+feature set is then developed using various descriptors capturing rich information to identify distinct and unique properties of npdr lesions
+to address the class imbalance we employ the synthetic minority oversampling technique smote and an random forest rf classifier to improve the model performance on the imbalance classes
+moreover the comparison results show that the proposed method performs better than existing methods making it suitable for the early diagnosis and effective management of npdr
+the contributions of this thesis aim to assist healthcare professionals in early hr detection regular screening risk stratification and patient categorization based on hr and npdr severity grading
+these developments aim to optimize clinical improve resource allocation and enhance overall disease management
+the proposed systems can assist clinicians in referral decisions and facilitate mass screening
+description keywords citation suman supriya dignostic system for hypertensive and diabetic retinopathy doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses full item page publication dignostic system for hypertensive and diabetic retinopathy dignostic system for hypertensive and diabetic retinopathy no thumbnail available date authors journal title journal issn volume title publisher indian institute of technology jodhpur research projects organizational units journal issue abstract retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+indian institute of technology jodhpur uri collections doctoral theses full item page no thumbnail available date authors journal title journal issn volume title publisher indian institute of technology jodhpur no thumbnail available publisher indian institute of technology jodhpur indian institute of technology jodhpur research projects organizational units journal issue abstract retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+indian institute of technology jodhpur uri collections doctoral theses full item page organizational units abstract retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+citation suman supriya dignostic system for hypertensive and diabetic retinopathy doctor thesis
+indian institute of technology jodhpur suman supriya dignostic system for hypertensive and diabetic retinopathy doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses

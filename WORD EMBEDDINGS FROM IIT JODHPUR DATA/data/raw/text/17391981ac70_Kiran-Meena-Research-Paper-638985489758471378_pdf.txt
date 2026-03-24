@@ -1,0 +1,1003 @@
+SOURCE_PDF: 17391981ac70_Kiran-Meena-Research-Paper-638985489758471378.pdf
+
+Contents lists available at ScienceDirect
+Bulletin des Sciences Mathématiques
+journal homepage: www.elsevier.com/locate/bulsci
+Geometry of Clairaut Riemannian warped product 
+submersions
+Arkadeepta Roy a, Kiran Meena b, Hemangi Madhusudan Shah a,∗
+a Department of Mathematics, Harish-Chandra Research Institute, A CI of HBNI, 
+Chhatnag Road, Jhunsi, Prayagraj, 211019, Uttar Pradesh, India
+b Department of Mathematics, Indian Institute of Technology Jodhpur, NH 62, 
+Nagaur Road, Karwar, Jodhpur, 342030, Rajasthan, India
+Article history:
+Received 15 August 2025
+Available online 7 November 2025
+MSC:
+primary 53B20
+secondary 53B25, 53C25, 53C35
+Keywords:
+Clairaut submersions
+Riemannian warped product 
+submersions
+Trivial warping
+Harmonic maps
+Conformal flatness
+Einstein manifolds
+In this paper, we introduce and study the concept of 
+Clairaut Riemannian warped product submersions
+ between 
+Riemannian warped product manifolds. By generalizing 
+the notion of Clairaut Riemannian submersions to the 
+setting of Riemannian warped product submersions, we 
+define such submersions via a warping function satisfying 
+a Clairaut relation along geodesics. We establish necessary 
+and suﬃcient conditions under which a Riemannian warped 
+product submersion satisfies the Clairaut condition, showing 
+that it holds if and only if the girth function defining the 
+Clairaut condition has a horizontal gradient, one component 
+of the fibers is totally geodesic, and the other is totally 
+umbilical with mean curvature vector governed by the warping 
+function. We examine the geometric consequences of this 
+structure, study the harmonicity conditions, and the behavior 
+of the Weyl tensor, etc. Additionally, we illustrate the theory 
+with several non-trivial examples. In the latter part of the 
+paper, we explore a detailed study of the curvature behavior 
+of such submersions. Explicit formulas for the Riemannian, 
+Ricci, and sectional curvature tensors of the source space 
+are derived in terms of the geometry of the target and fiber 
+manifolds, as well as the warping and girth functions. These 
+computations provide geometric insight into how warping and
+* Corresponding author.
+https://doi.org/10.1016/j.bulsci.2025.103764
+0007-4497/© 2025 Elsevier Masson SAS. All rights are reserved, including those for text and data mining, 
+AI training, and similar technologies.
+
+2 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+the Clairaut condition aﬀect curvature properties, such as 
+conformal flatness and the non-positivity of certain mixed 
+curvatures. We also analyze the conditions for a trivial 
+warping of the source manifold and for the fibers to be 
+locally symmetric. Furthermore, the Einstein condition has 
+been explored in various scenarios. Finally, we also extend 
+and answer a question posed in [2] to the setting of Clairaut 
+warped product submersion.
+© 2025 Elsevier Masson SAS. All rights are reserved, 
+including those for text and data mining, AI training, and 
+similar technologies.
+1. Introduction
+Isometric immersions and Riemannian submersions have been the subject of extensive 
+study and have wide applications, including Yang-Mills theory, Kaluza-Klein theory, 
+supergravity and superstring theories, among others [11]. They are also used to con­
+struct some Riemannian manifolds with positive or non-negative sectional curvature, 
+as well as Einstein manifolds. These notions become more interesting in the context of 
+product manifolds, as Riemannian warped product manifolds have applications in the 
+construction of Schwarzschild and Robertson-Walker cosmological models and in the 
+identification of new classes of Hamiltonian stationary Lagrangian submanifolds [3,8,26]. 
+Every Riemannian manifold, hence the warped product manifold, can be embedded in 
+some Euclidean space [21,22,9]. Let ϕ1 : M1 →N1 and ϕ2 : M2 →N2 be two smooth 
+maps between Riemannian manifolds, and let ρ : N1 →R+ and f := ρ ◦ϕ1 : M1 →R+
+be two smooth functions. Define a smooth map ϕ := (ϕ1, ϕ2) : M1 ×f M2 →N1 ×ρ N2
+between warped product manifolds such that ϕ(p1, p2) = (ϕ1(p1), ϕ2(p2)). Then we have 
+the following notions.
+1. If ϕ1 and ϕ2 are isometric immersions, then ϕ is also an isometric immersion, namely 
+warped product isometric immersion.
+2. If ϕ1 and ϕ2 are Riemannian submersions, then ϕ is also a Riemannian submersion, 
+namely Riemannian warped product submersion.
+We note that warped product isometric immersions have been signiﬁcantly explored in 
+the literature (see [5--7,24,31]). On the other hand, the notion of Riemannian warped 
+product submersion was recently introduced by Erken and Murathan [9]. Although Erken 
+et al. studied some properties of such mappings in [10], we still need to explore more 
+of the geometry of such submersions in depth. With that inspiration, the present paper 
+investigates various geometric properties and their applications to such submersions.
+The Clairaut relation states that for every geodesic c on a surface of revolution M,
+(eψ ◦c) sin ω is constant, where eψ is the distance of a point of M from the axis of 
+rotation and ω is the angle between the tangent vector of the geodesic and the meridian 
+[29,1]. Motivated by the importance of the Clairaut relation and geodesics, Bishop [4] 
+introduced the concept of a Clairaut Riemannian submersion as follows.
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+3
+Deﬁnition 1.1. [4] A Riemannian submersion ϕ between two Riemannian manifolds M
+and N is said to be a Clairaut Riemannian submersion, if there exists a function r :
+M →R+ such that for any geodesic c on M, the function (r ◦c) sin ω is constant, where 
+at any t, ω(t) is the angle between ˙
+c(t) and the horizontal space at c(t).
+Furthermore, Meena and Zawadzki extended this notion to the notion of Clairaut 
+conformal submersion in [18]. However, for a particular dilation, both become the same. 
+In this paper, we generalize the concept of Clairaut Riemannian submersions to the no­
+tion of Clairaut Riemannian warped product submersions, and explore various geometric 
+properties of such submersions to fill the gap. Clairaut Riemannian warped product maps 
+have been recently explored in [32], which are particular Riemannian warped product 
+maps [20]. Very recently, [13] explored whether Riemannian submersions preserve geo­
+metric quantities, such as the intermediate Ricci curvature.
+The paper is organized as follows. In Section 2, we recall some basic information 
+that is needed for subsequent sections. Section 3 is dedicated to the notion of Clairaut 
+Riemannian warped product submersion with non-trivial examples. It also covers such 
+submersions with some conformally changed metrics. Section 4 covers harmonic condi­
+tions for Clairaut Riemannian warped product submersions. Further, in Section 5, we 
+derive the curvature relations, mainly for the Riemannian, scalar, and Ricci curvature 
+tensors. Finally, Section 6 covers various geometric implications and important results, 
+such as symmetry, conformal flatness, trivial warping, Einstein condition, etc.
+2. Preliminaries
+In this section, we review some key notions and results that will be required for our 
+investigation throughout the paper.
+Let ϕ : (M m, g) →(N n, g′) be a smooth map between two Riemannian manifolds, 
+and let ϕ∗p : TpM →Tϕ(p)N be its derivative map at p. For each regular value q ∈N, 
+ϕ−1(q) is an (m −n) dimensional submanifold of M. The submanifolds ϕ−1(q), q ∈N, 
+are called fibers of ϕ. If we assume ϕ∗p is surjective for all p ∈M, then considering 
+𝒱p = ker ϕ∗p for any p ∈M, we obtain an integrable distribution 𝒱corresponding to the 
+foliation of M determined by the fibers of ϕ such that 𝒱p = Tpϕ−1(q), where ϕ(p) = q. 
+Each 𝒱p is called the vertical space
+ at p, 𝒱the vertical distribution, and the sections of
+𝒱the vertical vector fields. At any p ∈M, we have TpM = 𝒱p ⊕ℋp; ℋp is called the 
+horizontal space
+ at p, ℋthe horizontal distribution, and the sections of ℋthe horizontal 
+vector fields. Thus, a vector field on M is called vertical
+ if it is always tangent to the 
+ﬁbers. Consequently, a vector field on M is called horizontal
+ if it is always orthogonal to 
+the fibers. Moreover, a vector field X on M is called basic
+ if X is horizontal and ϕ-related 
+to a vector field X′ on N, i.e. ϕ∗(Xp) = X′
+ϕ(p) for all p ∈M. In addition, we denote the 
+projection morphism on the distributions ker ϕ∗and (ker ϕ∗)⊥by 𝒱and ℋ, respectively. 
+Then we have the following notion of a Riemannian submersion.
+
+4 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Deﬁnition 2.1. Let ϕ : (M m, g) →(N n, g′) be a smooth map between two Riemannian 
+manifolds. The map ϕ is called a Riemannian submersion
+ if it satisfies the following 
+properties:
+(i) ϕ is onto.
+(ii) (ϕ∗)p is a surjective mapping of maximal rank n at any point p ∈M.
+(iii) ϕ∗preserves the lengths of the horizontal vectors.
+O’Neill [25] defined the fundamental tensors of a Riemannian submersion ϕ defined 
+as above. These tensors are extensively used to study the geometry of Riemannian sub­
+mersions. They are (1, 2)-tensors on M, and are given by the following formulae:
+for any vector fields E and F on M, where ∇denotes the Levi–Civita connection of 
+(M, g). We also have the following lemmas from [25].
+Lemma 2.2. For any vertical vectors U, W and horizontal vectors X, Y on M, the tensor 
+ﬁelds T, A satisfy:
+Lemma 2.3. If X, Y are basic vector fields on M, ϕ-related to X′, Y ′ respectively, then:
+(ii) ℋ[X, Y ] is basic, ϕ-related to [X′, Y ′],
+(iii) ℋ(∇XY ) is a basic vector field corresponding to ∇′
+X′Y ′, where ∇′ is the connection 
+on N,
+(iv) for any vertical vector field U, [X, U] is vertical.
+Moreover, if X is basic and U is vertical, then ℋ(∇UX) = ℋ(∇XU) = AXU.
+In addition, from (1) and (2), we have
+for X, Y ∈Γ(ℋ) and V, W ∈Γ(𝒱), where ˆ
+∇V W = 𝒱∇V W. On any fiber ϕ−1(q), q ∈N,
+ˆ
+∇coincides with the Levi–Civita connection with respect to the metric induced by g on 
+ﬁber ϕ−1(q).
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+5
+Observe that T acts on the fibers as the second fundamental form. Restricted to 
+vertical vector fields, it can be seen that T = 0 is equivalent to the condition that the 
+ﬁbers are totally geodesic. A Riemannian submersion is called Riemannian submersion 
+with totally geodesic fibers
+ if T vanishes identically.
+Let {U1, . . . , Um−n} be an orthonormal frame of 𝒱. Then the horizontal vector field
+i=1 
+TUiUi
+is called the mean curvature vector field of the fibers. A Riemannian submersion is called 
+Riemannian submersion with totally umbilical fibers
+ if
+for U, W ∈Γ(𝒱). For any E ∈Γ(TM), TE and AE are skew-symmetric operators on 
+(Γ(TM), g) that reverse horizontal and vertical distributions, in the following sense:
+g(TEF, G) + g(TEG, F) = 0 and
+g(AEF, G) + g(AEG, F) = 0,
+for any D, E, G ∈Γ(TM). According to Lemma 2.2, the horizontal distribution ℋis 
+integrable
+ if and only if A = 0.
+We denote the Riemannian curvature tensor of M, N, the vertical and horizontal 
+distributions by R, R′, ˆ
+R, and R∗respectively. Then we have the following equations 
+that provide curvature relations between them [30, p. 27-28]:
+where X, Y, Z, H ∈Γ(ℋ) and U, V, W, F ∈Γ(𝒱).
+Now, we recall the notion of a warped product manifold.
+
+6 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Deﬁnition 2.4. Let (M m1
+1
+, g1) and (M m2
+2
+, g2) be two Riemannian manifolds. Let f : M1 →
+R be a positive smooth function. Then warped product
+ M1 ×f M2 of M1 and M2 is the 
+Cartesian product M1 × M2 with the metric g = g1 + f 2g2.
+More precisely, the Riemannian metric g on M1 ×f M2 is defined for vector fields X, Y
+on M1 × M2 by
+where π1 : M1 × M2 →M1 and π2 : M1 × M2 →M2 are projections. We recall that 
+these projections are submersions. In this case, it can be easily seen that the fibers 
+{x} × M2 = π−1
+1 (x) and the leaves M1 × {y} = π−1
+2 (y) are Riemannian submanifolds of
+M1 ×f M2. For more details, we refer to [26] and [6].
+The following lemma describes the Levi-Civita connection on a warped product man­
+Lemma 2.5. Let M = M1×f M2 be a warped product manifold and ∇, ∇1, and ∇2 denote 
+the Levi-Civita connections on M, M1, and M2, respectively. If E1, F1 are vector fields 
+on M1 and E2, F2 are vector fields on M2, then:
+(i) ∇E1F1 is the lift of ∇1
+E1F1,
+(iv) tan(∇E2F2) is the lift of ∇2
+E2F2,
+where ∇f denotes the gradient of f.
+The fundamental tensors associated with Riemannian submersions play a central role 
+in the study of Riemannian warped product submersions, in particular. They give rise 
+to the fundamental equations involving these tensors as follows.
+Lemma 2.6. [9] Let ϕ = (ϕ1, ϕ2) : M = M1 ×f M2 →N = N1 ×ρ N2 be a Rieman­
+nian warped product submersion between two Riemannian warped product manifolds. If 
+Ui, Vi ∈Γ(𝒱i) and Xi, Yi ∈Γ(ℋi), i = 1, 2, then we have
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+7
+3. Clairaut Riemannian warped product submersions
+In this section, we define Clairaut Riemannian warped product submersions and dis­
+cuss some non-trivial examples. First, we introduce
+ the notion of Clairaut Riemannian 
+warped product submersion, motivated by Bishop’s idea of Clairaut Riemannian sub­
+mersion [see Deﬁnition 1.1].
+Deﬁnition 3.1. A Riemannian warped product submersion ϕ between two Riemannian 
+warped product manifolds M = M1×fM2 and N = N1×ρN2 is said to be a Clairaut 
+Riemannian warped product submersion, if there exists a function r : M →R+ such that 
+for any geodesic c on M, the function (r ◦c) sin ω is constant, where at any t, ω(t) is the 
+angle between ˙
+c(t) and the horizontal space at c(t).
+The following proposition gives necessary and suﬃcient conditions for a curve on a 
+warped product manifold to be geodesic. This will be used to prove the main result of 
+this section.
+Proposition 3.2. Let ϕ : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a Riemannian 
+warped product submersion. Let c : I →M be a regular curve on M such that U(t) =
+(U1(t), U2(t)) = 𝒱˙
+c(t) and X(t) = (X1(t), X2(t)) = ℋ˙
+c(t), i.e. Xi ∈Γ(ℋi), Ui ∈Γ(𝒱i),
+i = 1, 2. Then c is geodesic on M if and only if
+and
+Proof. Let c : I →M, c = (α, β) be a regular curve on M = M1×fM2, parametrized 
+by arc length such that ˙
+c(t) = U(t) + X(t), where U(t) = 𝒱˙
+c(t) and X(t) = ℋ˙
+c(t). Let
+X = X1 + X2 and U = U1 + U2, where Xi ∈Γ(ℋi), Ui ∈Γ(𝒱i), i = 1, 2. We know that 
+c is a geodesic on M if and only if ∇˙
+c ˙
+c = 0, that is,
+
+8 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Then, applying Lemma 2.6 and separating the horizontal and vertical parts, we obtain 
+the required conditions. □
+Now, we state and prove the main result of this section.
+Theorem 3.3. (The Clairaut condition for Riemannian warped product submersion) Let 
+ϕ = (ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a Riemannian warped product 
+submersion with connected fibers. Then ϕ is Clairaut with r = eψ, where ψ : M →R is 
+a smooth function (called girth function), if and only if
+(i) ∇ψ is horizontal,
+(ii) the fibers of ϕ1 are totally umbilical with mean curvature vector field H1 =
+−∇ψ|M1 = −∇ln f, and
+(iii) the fibers of ϕ2 are totally geodesic.
+Proof. Let c : I →M be a geodesic and for t ∈I, ˙
+c(t) = U(t) + X(t) = U1(t) + U2(t) +
+X1(t) + X2(t). Let ω(t) denote the angle in [0, π
+2 ] between ˙
+c(t) and X(t). Then, similar 
+to the proof of [18, Theorem 5] and [19, Theorem 3.2], one can show that ϕ is Clairaut 
+with r = eψ if and only if we have, along c:
+where U(t) = (U1(t), U2(t)) = 𝒱˙
+c(t) and X(t) = (X1(t), X2(t)) = ℋ˙
+c(t) are vertical and 
+horizontal components of ˙
+c(t), respectively.
+Now we proceed to show that ∇ψ is horizontal.
+For ψ : M1 × M2 →R, let ∇ψ = W1 + W2, where Wi ∈Γ(Mi), i = 1, 2. If we consider 
+any geodesic c : I →M with initial vertical tangent vector, that is, assuming X = 0, 
+equivalently, X1 = 0, X2 = 0, then from (10), we have g(U, U)g(U, ∇ψ) = 0, which 
+implies that, U(ψ) = 0. Hence, ψ is constant on any fiber, as the fibers are connected. 
+Hence, ∇ψ is horizontal, that is, W1, W2 are both horizontal. Thus (10) becomes
+Here g(X, ∇ψ) = g(X1 + X2, W1 + W2) = g(X1, W1) + g(X2, W2) and g(U, U) =
+g(U1, U1) + g(U2, U2). So we have,
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+9
+In the following steps, we establish the remaining statements.
+Let us consider the geodesic with initial tangent vector U1+X1+λ(U2+X2), for arbitrary 
+λ ̸= 0. Then from (11), we have
+Subtracting (11) and (12), we obtain
+which must hold for all λ ̸= 0, so we must have
+and
+Using (13), (14) and (15) in (11), we have
+Since we have assumed that U1, U2, X1, X2 are all non-zero, from (13), we aﬃrm 
+g(X2, W2) = 0. Since W2 is horizontal, we have W2 = 0, thus ∇ψ = W1. From (14), we 
+conclude
+which gives
+Since ∇ψ and ∇ln f are both horizontal vector fields on M1, we have
+
+10 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+From (15), we aﬃrm
+As W2 = 0, we have
+But T2(U2, U2) is a horizontal vector field on M2, we have
+This shows that ϕ2 has totally geodesic fibers, as if the dimension of the fibers is one; 
+this is immediate. And if the fibers are of dimension ≥2, if V and W are orthogonal 
+vertical vectors in M2, then g(V, W) = 0 and T(V, W) = T(W, V ). Then for U2 = V +W
+by (17), we have
+Similarly, U2 = V −W in (17) yields
+Taking the diﬀerence of (18) and (19), we have for any two orthogonal vertical vector 
+ﬁelds V and W on M2, T2(V, W) = 0. Thus we can write for any vertical V , W and 
+horizontal X2 on M2,
+and hence T2(V, W) = 0, which shows that ϕ2 has totally geodesic fibers. Again, from 
+(16), we have
+This gives
+By the same lines as above, for any vertical vector fields V , W on M1,
+Consequently, the above equation shows that ϕ1 has totally umbilical fibers with mean 
+curvature vector field
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+11
+This proves our theorem. □
+Now, we have the following immediate corollaries.
+Corollary 3.4. Let ϕ = (ϕ1, ϕ2) : M = M1 ×f M2 →N = N1 × N2 be a Clairaut Rie­
+mannian warped product submersion with r = eψ and horizontal integrable distribution. 
+Let Lℋ1, Lℋ2 denote the leaves of the horizontal foliation of ℋ1 and ℋ2, and ℱ𝒱1, ℱ𝒱2
+denote the fibers of ϕ1 and ϕ2, respectively. Then we have the following:
+(i) M1 locally splits as a twisted product M1 = Lℋ1 ×ψ ℱν1 and consequently ˜︂
+M1, the 
+universal cover of M1, splits as ˜︂
+M1 = ˜︃
+Lℋ1 ×ψ ˜︃
+ℱν1. In addition, M2 locally splits as 
+a product M2 = Lℋ2 × ℱν2 and consequently 
+˜︂
+M2 = ˜︃
+Lℋ2 × ˜︃
+ℱν2. Hence, M locally 
+splits as
+(ii) If Hess(ψ) ≡0, then we have local splitting of M1 as M1 = Lℋ1 × ℱν1. Hence, 
+locally
+Proof. The proof follows from [28, Proposition 3]. □
+Corollary 3.5. Let ϕ = (ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a Clairaut 
+Riemannian warped product submersion with connected fibers and r = eψ. Let θ be a 
+function on N such that for all x ∈M, we have θ(ϕ(x)) = 1, then ϕ = (ϕ1, ϕ2) :
+(M, g) →(N, θ2g′) is a Clairaut Riemannian warped product submersion with r = eψ.
+Proof. Clearly, for X, Y ∈ℋp,
+and hence,
+is a Riemannian warped product submersion. In fact, it is a Clairaut Riemannian warped 
+product submersion by Theorem 3.3. □
+Corollary 3.6. Let ϕ = (ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a Clairaut 
+Riemannian warped product submersion with connected fibers and r = eψ. Let θ be a
+
+12 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+positive function on M such that 𝒱∇θ = 0, then ϕ = (ϕ1, ϕ2) : (M, θ2g) →(N, g′) is a 
+Clairaut Riemannian warped product submersion with r = θeψ.
+Corollary 3.7. Let ϕ = (ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a Clairaut 
+Riemannian warped product submersion with connected fibers and r = eψ. Then ϕ =
+(ϕ1, ϕ2) : (M, e−2fg) →(N, g′) is a Clairaut Riemannian warped product submersion 
+with r = 1.
+Corollary 3.8. Let ϕ = (ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a Clairaut 
+Riemannian warped product submersion with r = eψ. Then, we have the Laplacian of ψ,
+Proof. Since ϕ is a Clairaut Riemannian warped product submersion, the fibers of ϕ are 
+connected, ∇ψ is horizontal, and ∇ψ|M2 = 0. Now, in some neighborhood of a fixed point 
+p ∈M, we choose a parallel basis {E1
+1, . . . , E1
+m1−n1, ˜
+E1
+m1−n1+1, . . . , ˜
+E1
+m1, E2
+1, . . . , E2
+m2−n2, 
+˜
+E2
+m2−n2+1, . . . , ˜
+E2
+m2}, where {E1
+i }m1−n1
+i=1
+⊂Γ(𝒱1), { ˜
+E1
+j }m1
+j=m1−n1+1 ⊂Γ(ℋ1), {E2
+i }m2−n2
+i=1
+⊂Γ(𝒱2) and { ˜
+E2
+j }m2
+j=m2−n2+1 ⊂Γ(ℋ2) denote the orthonormal frames of the vertical 
+and horizontal distributions of ϕ1 and ϕ2, respectively. Then
+Now, we construct some examples of the Clairaut Riemannian warped product sub­
+Example 3.9. Let ϕ2 : (M, g) →(N, g′) be a Riemannian submersion with connected and 
+totally geodesic fibers. Let θ be a function on N and the metric gθ on M given by:
+for any X, Y ∈𝒳ℋ(M), U, V ∈𝒳𝒱(M). This makes ϕ1 : (M, gθ) →(N, g′) a Clairaut 
+Riemannian submersion, where ϕ1 = ϕ2 on M. Similarly to [11, Example 1.8], it is 
+easy to see that the fibers of ϕ1 are totally umbilical with the mean curvature vector 
+ﬁeld H1 = ∇(θ ◦ϕ2). Now consider ϕ = (ϕ1, ϕ2) : (M1×fM2, h) →(N1×ρN2, h′), with 
+M1 = (M, gθ), M2 = (M, g), N1 = N2 = (N, g′), equipped with warped product metrics 
+h = gθ +f 2 g and h′ = g′+ρ2 g′, where f = eθ◦ϕ2 and ρ is given by ρ◦ϕ2 = f. Then ϕ is a 
+Clairaut Riemannian warped product submersion with r = eψ, where ∇ψ|M1 = ∇(θ◦ϕ2)
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+13
+and ∇ψ|M2 = 0. This gives a wide class for examples of Clairaut Riemannian warped 
+product submersions, where one can vary ϕ2 and get new examples.
+Example 3.10. Consider a map ϕ1 :
+(︁
+R4, g1
+)︁
+→
+(︁
+R3, g′
+1
+)︁
+, where g1, g′
+1 both are standard 
+metrics, defined by
+Then ϕ1 is a Clairaut Riemannian submersion with r = eθ for θ = ln
+(︂√︁
+. The 
+ﬁbers of ϕ1 are totally umbilical with mean curvature vector field
+Also consider the projection map ϕ2 :
+(︁
+Rn+k, g2
+)︁
+→(Rn, g′
+2), where g2, g′
+2 both are the 
+standard metrics, defined by
+Then ϕ2 is a Riemannian submersion with totally geodesic fibers, and hence a Clairaut 
+Riemannian submersion trivially. Now consider ϕ = (ϕ1, ϕ2) : (R4×fRn+k, g) →
+(R3×ρRn, g′), with g = g1 + f 2 g2 and g′ = g′
+1 + ρ2 g′
+2, where f and ρ are given by
+ρ ◦ϕ1 = f. Then ϕ is a Clairaut Riemannian warped product submersion with r = eψ, 
+where ∇ψ|M1 = ∇θ and ∇ψ|M2 = 0.
+Now we classify all the Clairaut Riemannian warped product submersions from Rn, 
+considered as a warped product manifold. We will use the following notation to describe 
+a bundle map. A fiber bundle (E, B, π, F) is indicated as
+where B is the base space, E is the total space, F is the fiber, and π is the bundle map 
+of the fiber bundle.
+Example 3.11. Let M = Rm+1, M1 = R+ = [0, ∞), M2 = Sm. Then M = M1 ×f M2, 
+where f : R+ →R+ : r ↦→r is the warping function and the warped product metric 
+is g = dr2 + r2dθ2. Then any Clairaut Riemannian warped product submersion ϕ =
+(ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) with r′ = eψ is classified as follows:
+(1) N1 = [a, b), for some a, b ∈R and ρ : [a, b) →R+ given by ρ(y) = y −a
+b −y
+ . Then, from
+the relation ρ ◦ϕ1 = f, we have ϕ1 : R+ →[a, b) defined by ϕ1(x) = a + bx
+
+14 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+(2) N1 = [0, ∞) = R+ and ρ : R+ →R+ is a diﬀeomorphism. Then, from the relation
+ρ ◦ϕ1 = f, ϕ1 : R+ →R+ is also a diﬀeomorphism.
+In both cases, we have at any p ∈R+, 𝒱p = ker(ϕ1∗p) = {0} and ℋp = (ker(ϕ1∗p))⊥=
+{ ∂
+∂r}, where { ∂
+∂r} is the basis of TpR+ ∼ 
+= R. Also,
+Now, we want ϕ2 : Sm →N2 to be a Riemannian submersion with totally geodesic fibers. 
+Assuming 1 ≤dim(ﬁber of ϕ2) ≤m −1, then as a fiber bundle ϕ2 is one of the following 
+types, as classified in [14]:
+(a) S1 →S2n+1
+ϕ2 
+−
+→CP(n) for n ≥2
+(b) S3 →S4n+3
+ϕ2 
+−
+→QP(n) for n ≥2
+4. Harmonicity
+In this section, we study the harmonicity for Clairaut Riemannian warped product 
+submersions. To obtain harmonic conditions, we need their second fundamental form, 
+the tension field, etc. We recall these concepts here. The second fundamental form
+ ∇ϕ∗
+of a map ϕ : (M, g) →(N, g′) between two Riemannian manifolds is defined as in [23]
+for any local vector fields X, Y on M, where ∇is the Levi-Civita connection of M and
+˜
+∇is the pullback of the connection ∇′ of N to the induced vector bundle ϕ−1(TN). 
+Furthermore, the tension field
+ τ(ϕ) is defined as the trace of ∇ϕ∗, that is
+where {Ei}1≤i≤m is a local orthonormal frame around a point p ∈M. Moreover, we say 
+that ϕ is a harmonic map
+ if and only if τ(ϕ) vanishes at each point p ∈M. Using these 
+concepts, we have the following result.
+Proposition 4.1. Let ϕ = (ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a 
+Clairaut Riemannian warped product submersion with r = eψ. Then ϕ is harmonic if 
+and only if either H1 = 0 = ∇ψ or (m1 −n1) = (m2 −n2) = 0.
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+15
+Proof. Here
+where {E1, . . . , Em1+m2} is a basis of (M1 ×f M2). Hence,
+This implies that τ(ϕ) = 0 if and only if ϕ∗(−{(m1 −n1) + (m2 −n2)}∇ψ) = 0, that 
+is, either (m1 −n1) + (m2 −n2) = 0 or ∇ψ = 0. But ϕ1 and ϕ2 are Riemannian 
+submersions, so m1 −n1 ≥0 and m2 −n2 ≥0, and thus (m1 −n1) + (m2 −n2) = 0 gives 
+(m1 −n1) = (m2 −n2) = 0. □
+Thus, we conclude that:
+
+16 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Corollary 4.2. Let ϕ = (ϕ1, ϕ2) : (M = M1×fM2, g) →(N = N1×ρN2, g′) be a Clairaut 
+Riemannian warped product submersion with r = eψ. Then ϕ is harmonic if and only if 
+either M is a product or dim(M1) = dim(N1) and dim(M2) = dim(N2).
+5. Curvature relations
+In this section, we derive formulae for the Riemann curvatures, Ricci curvatures, 
+and sectional curvatures for the source manifold M of a Clairaut Riemannian warped 
+product submersion ϕ with r = eψ. In the sequel, ϕ = (ϕ1, ϕ2) : M = M1 ×f M2 →N =
+N1×ρN2 will denote a Clairaut Riemannian warped product submersion with r = eψ and 
+Xi, Yi, Zi, Hi ∈Γ(ℋi), Ui, Vi, Wi, Fi ∈Γ(𝒱i), 1 ≤i ≤2. In addition, {E1
+i |i = 1, . . . , m1 −
+n1} ⊂Γ(𝒱1), { ˜
+E1
+j |j = m1 −n1 + 1, . . . , m1} ⊂Γ(ℋ1), {E2
+a|a = 1, . . . , m2 −n2} ⊂Γ(𝒱2)
+and { ˜
+E2
+b |b = m2−n2+1, . . . , m2} ⊂Γ(ℋ2) denote the orthonormal frames of the vertical 
+and horizontal distributions of ϕ1 and ϕ2, respectively, in some neighborhood of a fixed 
+point p ∈M.
+In what follows, R, R1, and R2 denote the Riemannian curvature tensors of M, M1, 
+and M2, respectively, and ˆ︁
+R, ˆ︂
+R1 and ˆ︂
+R2 denote the Riemannian curvature tensors of 
+ﬁbers of ϕ, ϕ1 and ϕ2, respectively. Then, by [6], we have the following lemma.
+Lemma 5.1. Let M = M1 ×f M2 be a warped product manifold. Let Hessf denote the 
+Hessian of f. If E1, F1, G1 ∈Γ(M1) and E2, F2, G2 ∈Γ(M2), then:
+(ii) R(E1, F2)F1 = Hessf (E1,F1)
+Using appropriate applications of Lemmas 2.5, 2.6, 5.1, and Clairaut condition of The­
+orem 3.3 together with the curvature relations mentioned in Section 2, and performing 
+some straightforward computations, we obtain the following relations.
+Theorem 5.2. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a Clairaut 
+Riemannian warped product submersion with r = eψ. Then for any Xi, Yi, Zi, Hi ∈
+Γ(ℋi), Ui, Vi, Wi, Fi ∈Γ(𝒱i), 1 ≤i ≤2, the following relations hold:
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+17
+f Hessf(U1, X1)g(U2, V2),
+f Hessf(X1, U1)g(U2, V2),
+f Hessf(X1, Y1)g(U2, V2),
+f Hessf(U1, X1)g(X2, Y2),
+f Hessf(X1, V1)g(X2, Y2),
+(19) R(U1, U2, V1, E1) = 0, for any E1 ∈Γ(TM1),
+(20) R(U1, U2, V1, X2) = 0,
+(21) R(X1, X2, Y1, E1) = 0, for any E1 ∈Γ(TM1),
+(22) R(X1, X2, Y1, U2) = 0,
+(23) R(E2, G2, E1, F) = 0, for any E1 ∈Γ(TM1), E2, G2 ∈Γ(TM2) and F ∈Γ(TM),
+(24) R(U1, U2, V2, X2) = 0,
+(25) R(U1, U2, Y2, V2) = 0,
+(26) R(U1, U2, Y2, Y1) = 0,
+(27) R(U1, U2, Y2, Y2) = 0,
+(28) R(X1, U2, V2, E2) = 0, for any E2 ∈Γ(TM2),
+(29) R(X1, U2, Y2, E) = 0, for any E ∈Γ(TM).
+Remark 5.3. From Theorem 5.2, we observe that for Ui, Vi, Wi ∈𝒱i, i = 1, 2, we have
+
+18 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Let sec, sec1, and sec2 denote the sectional curvatures of M, M1, and M2, respectively, 
+and ˆ
+sec, ˆ
+sec1 and ˆ
+sec2 denote the sectional curvatures of the fibers of ϕ, ϕ1 and ϕ2, 
+respectively. Then, by direct computation using Theorem 5.2, the following relations for 
+the sectional curvature can be obtained.
+Corollary 5.4. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a Clairaut 
+Riemannian warped product submersion with r = eψ. Then for any Xi, Yi, Zi, Hi ∈
+Γ(ℋi), Ui, Vi, Wi, Fi ∈Γ(𝒱i), 1 ≤i ≤2, the following relations hold:
+Now, we compute the Ricci curvatures using Theorem 5.2. Let Ric, Ric1, and Ric2
+denote the Ricci curvatures of M, M1, and M2, respectively. And ˆ
+Ric, 
+ˆ
+Ric1 and 
+ˆ
+Ric2
+denote the Ricci curvature of fibers of ϕ, ϕ1 and ϕ2, respectively. And Ricℋi(Xi, Yi) =
+Ricrange ϕi∗(ϕi∗Xi, ϕi∗Yi), for i = 1, 2. Then, we have the following relations.
+Corollary 5.5. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a Clairaut 
+Riemannian warped product submersion with r = eψ. Then for any Xi, Yi, Zi, Hi ∈
+Γ(ℋi), Ui, Vi, Wi, Fi ∈Γ(𝒱i), 1 ≤i ≤2, the following hold:
+(2) 
+Ric(U2, V2) = ˆ
+Ric2(U2, V2) + traceℋ2 [︂
+g(A(., U2), A(., V2))
+]︂
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+19
+Proof. Recall that {E1
+i |i = 1, . . . , m1 −n1} ⊂Γ(𝒱1), { ˜
+E1
+j |j = m1 −n1 + 1, . . . , m1} ⊂
+Γ(ℋ1), {E2
+a|a = 1, . . . , m2 −n2} ⊂Γ(𝒱2) and { ˜
+E2
+b |b = m2 −n2 + 1, . . . , m2} ⊂Γ(ℋ2)
+denote the orthonormal frames of the vertical and horizontal distributions of ϕ1 and ϕ2, 
+respectively, in some neighborhood of a fixed point p ∈M. Then,
+Using Theorem 5.2, we compute
+and
+Substituting the values from (21), (22), (23) and (24) in (20) we obtain
+
+20 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+This implies (1). Similarly, we can establish (2), (3) and (4). □
+6. Geometric implications of curvature relations
+This section is dedicated to the applications of the curvature relations obtained in the 
+previous section. We present each case individually in the subsections.
+6.1. Local symmetry
+In this subsection, we discuss the local symmetry of the fibers of a Clairaut Rieman­
+nian warped product submersion ϕ. We know that a Riemannian manifold is locally 
+symmetric
+ if and only if ∇R ≡0 [27]. Using this fact, we have the following result.
+Theorem 6.1. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a Clairaut 
+Riemannian warped product submersion with r = eψ and ∥∇ψ∥= 1. If M is locally 
+symmetric, then the fibers of ϕ1 and ϕ2 are also locally symmetric.
+Proof. Since M is symmetric, we have (∇ER)(U, V, W) = 0 for all E, U, V, W
+∈
+Γ(ker ϕ∗). This implies that
+𝒱(∇ER)(U, V, W) = 0 and
+ℋ(∇ER)(U, V, W) = 0.
+Thus, for any E1, U1, V1, W1 ∈Γ(ker ϕ1∗), we have
+Employing Equation (3), Lemma 2.5, and Theorem 3.3, the above equation yields
+Using Remark 5.3 and the fact ∥∇ψ∥2 = 1 into the above equation, we get
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+21
+Since we have T1(E1, ℋR(U1, V1, W1)) = 0, we conclude that
+Hence, the fibers of ϕ1 are locally symmetric. In addition, proceeding similarly, using 
+Remark 5.3, Lemma 2.5, and Theorem 5.2, we can show that the fibers of ϕ2 are also 
+locally symmetric. □
+Corollary 6.2. In the setting of the above theorem, the fibers of ϕ1 and ϕ2 are locally 
+symmetric subspaces of M. Moreover, if we suppose that the leaves of the horizontal 
+spaces of ϕ1 and ϕ2 are integrable and complete, then they must also be locally symmetric 
+subspaces of M. Consequently, locally,
+and the universal covering space of M can be written as a warped product
+Proposition 6.3. Suppose that the fibers of ϕ1 and ϕ2 are complete. If M is a space form 
+having sectional curvature κ, then the fibers of ϕ1 and ϕ2 are also space forms having 
+sectional curvature (κ + 1) and (κ + 2), respectively. In addition, if the horizontal spaces 
+of ϕ1 and ϕ2 are integrable and complete, they are also space forms having sectional 
+curvatures κ and (κ + 1), respectively.
+Corollary 6.4. Under the hypothesis of the above proposition, additionally assuming that 
+the leaves of the horizontal spaces of ϕ1 and ϕ2 are integrable and complete, we get to 
+the following classification:
+(i) If k = 0, that is, ˜︂
+M is isometric to Euclidean space Rm1+m2, then ˜︁
+ℱ𝒱1 and ˜︁
+ℱ𝒱2 are 
+isometric to Sm1−n1(1) and Sm2−n2
+(︂
+1 
+√
+respectively. Also, ˜︁
+ℒℋ1 and ˜︁
+ℒℋ2 must be
+totally geodesic submanifolds of Rm1+m2, so they must be isometric to Rn1 and 
+Sn2(1) respectively. Hence, we get
+
+22 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+(ii) If k = 1, by a similar argument, we get
+6.2. Local conformal flatness
+Now we turn to establish the relationship between the local conformal flatness of M
+and that of the fibers of M1 and M2. First, we recall that a Riemannian manifold (M, g)
+is said to be locally conformally flat
+ if every point p ∈M has a neighborhood that is 
+conformally equivalent to an open subset of Euclidean space. Now, we prove the following 
+result.
+Theorem 6.5. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a Clairaut 
+Riemannian warped product submersion with r = eψ. Assume that the fibers of ϕ1 and 
+ϕ2 are of dimension ≥4. If M is locally conformally flat, then the fibers of ϕ1 and ϕ2
+are also locally conformally flat.
+Proof. To prove our claim, we use an equivalent criterion given in [16, Theorem 3.2 (6)], 
+which says that: the local conformal flatness of (M n, g), n ≥4 is equivalent to: at every 
+point p ∈M and for every quadruple of orthogonal vectors {e1, e2, e3, e4},
+Let p = (p1, p2) ∈M and {U1, V1, W1, F1} ⊂ker(ϕ1∗p1) be four orthogonal vectors in 
+TpM. Since M is locally conformally flat, we have
+Using Corollary 5.4 in the aforementioned equation, we obtain
+Note that, as ϕ1 is a Riemannian submersion, its fibers are submanifolds of M1. Hence, 
+using the preceding criterion, we conclude that the fibers of ϕ1 are locally conformally 
+ﬂat. In addition, one can show the local conformal flatness of the fibers of ϕ2 along 
+similar lines. □
+We know that a Riemannian manifold (M m, g), m ≥4 is locally conformally flat if 
+and only if its Weyl tensor is identically zero (for details, see [17]). Hence, we conclude 
+that:
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+23
+Corollary 6.6. Under the hypotheses of Theorem 6.5, if M is locally conformally flat, 
+then the Weyl tensors of M, ϕ1, and ϕ2 are identically zero. In other words, M, ϕ1, and 
+ϕ2 is Weyl flat.
+6.3. Trivial warping
+In this subsection, as another application of Theorem 5.2, we discuss some of the 
+cases where the source manifold M of ϕ admits trivial warping. In what follows, we let 
+ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a Clairaut Riemannian 
+warped product submersion with connected fibers and r = eψ. Recall that dim(M1) =
+m1, dim(M2) = m2, dim(N1) = n1, and dim(N2) = n2.
+Theorem 6.7. If ϕ is a Clairaut Riemannian warped product submersion between (M =
+M1 ×f M2, g) and (N = N1 ×ρ N2, g′) with r = eψ, then the warping function f is trivial 
+if
+(i) ψ attains maximum (minimum), provided sec(U, X) ≤0 
+(︂
+≥0
+)︂
+and X ∈Γ(ℋ1) for m1 > n1,
+(ii) ψ attains maximum (minimum), provided sec(X1, X2) ≤0 
+(︂
+≥0
+)︂
+for all Xi ∈
+Γ(ℋi), i = 1, 2 for m1 = n1.
+Proof. From Theorem 5.2, we have
+where U1, V1 ∈Γ(𝒱1) and X1, Y1 ∈Γ(ℋ1). Consider parallel orthonormal bases 
+{E1
+i |i = 1, . . . , m1 −n1} ⊂Γ(𝒱1), { ˜
+E1
+j |j = m1 −n1 + 1, . . . , m1} ⊂Γ(ℋ1) of Γ(M1)
+in a neighborhood of some fixed point p ∈M. Then the aforementioned equation yields,
+
+24 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+We have Δψ = Δℋ1ψ [by Corollary 3.8] and A( ˜
+E1
+j , E1
+i ) = ℋ∇˜
+E1
+j E1
+i = 0. Also, recall 
+that ∇ψ|2 = 0. Thus, we have
+By hypothesis, sec(U, X) ≤0 for all U ∈Γ(𝒱1) and X ∈Γ(ℋ1), then sec(E1
+i , ˜
+E1
+j ) ≤0
+for all i = 1, . . . , m1 −n1 and j = m1 −n1, . . . , m1. Then from (26), we have
+Fix a smooth function θ : M →R. Then consider the elliptic operator acting on C∞(M)
+with respect to θ, defined in [12] as Δθ := Δ −∇θ. In particular, choosing θ = −ψ, we 
+obtain
+Then from (27), we have
+Since ϕ1 is a Riemannian submersion, we know m1 −n1 ≥0.
+(i) If (m1 −n1) > 0, then from (28), we have Δ−ψψ ≥0 (that is, ψ is subharmonic 
+with respect to Δ−ψ). Then, invoking the strong maximum principle, we have that 
+if ψ attains a maximum, then ψ is constant.
+(ii) If m1 = n1, we use Theorem 5.2 (17), which states that for any Xi, Yi ∈Γ(ℋi), i =
+1, 2, we have
+Proceeding similarly to above, we get
+By hypothesis, sec(X1, X2) ≤0 for all Xi ∈Γ(ℋi), i = 1, 2, then ∑︁
+j,b sec( ˜
+E1
+j , ˜
+E2
+b ) ≤
+0 for all j = 1, . . . , m1 and b = m2 −n2 + 1, . . . , m2, and consequently we have 
+Δ−ψψ ≥0, that is, ψ is subharmonic. Then, invoking the strong maximum princi­
+ple, we see that if ψ attains a maximum, then ψ is constant.
+Hence, in both cases M = M1 × M2. □
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+25
+Thus, we have the following immediate corollary.
+Corollary 6.8. Within the framework of Theorem 6.7, if M1 is compact, then M has 
+trivial warping and becomes a product manifold.
+Theorem 6.9. Let ϕ be a Clairaut Riemannian warped product submersion between (M =
+M1×f M2, g) and (N = N1×ρN2, g′) with r = eψ. Suppose that M has constant sectional 
+curvature κ and M1 is compact. Then the warping function f is trivial, and in this case 
+M and consequently, M1 and M2 are flat.
+Proof. Without loss of generality, we assume that κ > 0. If κ < 0, then the argument 
+follows in a similar way. Since M1 is compact, ψ reaches a maximum and a minimum. 
+Then by Theorem 6.7, f is trivial and thus M becomes a product. To prove the flatness, 
+we argue as follows:
+For any Ei, Fi ∈Γ(Mi), i = 1, 2, we have from Lemma 5.1,
+Since f is constant, Hessf(E1, F1) = 0. Also, M having constant sectional curvature κ
+implies that
+Then, (29) gives κ g(E1, F1) g(F2, E2) = 0. Thus, κ = 0 and therefore, M is flat. More­
+over, Lemma 5.1 ensures that M1 and M2 are flat. 
+In addition, if κ = 0, then by a similar argument, f is constant. Consequently, M, M1
+and M2 are flat by virtue of Lemma 5.1. □
+Remark 6.10. Let ˜︂
+M denote the universal cover of M. In the aforementioned setup, we 
+have ˜︂
+M = Rm1/Γ1 × Rm2 or ˜︂
+M = Rm1/Γ1 × Rm2/Γ2, where Γi = Iso(Rmi), i = 1, 2.
+Corollary 6.11. Let ϕ = (ϕ1, ϕ2) : M = M1 ×f M2 →N = N1 ×ρ N2 be a Clairaut 
+Riemannian warped product submersion with connected fibers. Under the hypothesis of 
+Theorem 6.9, if M1 is compact, then N has non-positive sectional curvature.
+6.4. Einstein condition
+This subsection is devoted to exploring the geometry of Clairaut warped product 
+submersion when M is Einstein. By [2], we know that a Riemannian manifold (M, g) is 
+Einstein if its Ricci tensor satisfies Ric = λg, where λ is a constant. Finally, we conclude 
+the section by investigating a question posed in [2] as an extended set-up of Clairaut 
+warped product submersion. We start with the following results.
+
+26 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Theorem 6.12. Let ϕ = (ϕ1, ϕ2) : (M = M1×f M2, g) →(N = N1×ρN2, g′) be a Clairaut 
+Riemannian warped product submersion with connected fibers, integrable horizontal dis­
+tribution, and r = eψ. If M has a constant sectional curvature, then the fibers of ϕi are 
+Einstein if mi −ni ≥3, for i = 1, 2.
+Proof. For any U1, V1 ∈Γ(𝒱1), from Corollary 5.5 we have
+Using the fact that M has constant sectional curvature sec, we have
+Also, from the assumption that the horizontal distribution is integrable, we have A = 0. 
+Thus, from the above equation, we have the following:
+If dimension of the fibers of ϕ1 is m1 −n1 ≥3, then invoking Schur’s Lemma, we can 
+conclude that the fibers of ϕ1 are Einstein and consequently,
+By a similar argument, the fibers of ϕ2 are Einstein if dimension of the fibers of ϕ2 is 
+m2 −n2 ≥3 and we get,
+Corollary 6.13. In the same set-up of Theorem 6.12, we find that ψ is a distance function 
+(that is, ∥∇ψ∥2 = 1) with constant Δψ.
+Proof. Comparing the equations (30) and (31), we get Δψ = C (constant) and
+which shows that ψ is a distance function. □
+Theorem 6.14. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a 
+Clairaut Riemannian warped product submersion with r = eψ with connected fibers. If 
+M is Einstein, then the fibers of ϕ1 and ϕ2 have constant scalar curvatures. Moreover, 
+the scalar curvature restricted to the horizontal space of ϕ2 is also constant.
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+27
+Proof. From Corollary 5.5, we have for U1, V1 ∈Γ(𝒱1),
+If M is Einstein with Ric = λg, that is Ric(U1, V1) = λg(U1, V1), then we aﬃrm,
+Taking trace over the basis {E1
+i |i = 1, . . . , m1 −n1} of 𝒱1, we have
+Diﬀerentiating with respect to U1, we have
+which shows that ∇U1 ˆ
+sec1 = 0 and hence ˆ
+sec1 is constant. That is, the fibers of ϕ1 have 
+constant scalar curvature. Similarly, we can show that the fibers of ϕ2 also have constant 
+scalar curvature.
+Now we proceed to prove the last statement.
+From Corollary 5.5, we have for X2, Y2 ∈Γ(ℋ2),
+If M is Einstein with Ric = λg, that is, Ric(X2, Y2) = λg(X2, Y2), then
+
+28 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Taking trace over the basis { ˜
+E2
+b | b = m1 −n1 + 1, . . . , m2} ⊂ℋ2, we have
+Diﬀerentiating along X2 ∈Γ(ℋ2), we get
+Now, let us take the divergence of (32). Then divℋ2 Ricℋ2(X2) = 0, which implies that 
+∇2
+X2 secℋ2 = 0 and hence secℋ2 = constant. □
+Corollary 6.15. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a 
+Clairaut Riemannian warped product submersion with r = eψ with connected fibers. If 
+ψ attains the minimum (maximum), then M = M1 ×f M2 is a Riemannian product
+manifold, provided M is Einstein and m2 −(m1 −n1) ≤0
+(︂
+≥0
+)︂
+Proof. By Theorem 6.14, secℋ2 is constant. Then employing (33) we obtain,
+Assuming that the leaves of ϕ1, that is, Lℋ1 are integrable and compact, we have
+which implies that
+As Lℋ1 is compact, there exists some point p = (p1, p2) ∈M with p1 ∈Lℋ1 such 
+that ∇ψ(p) = 0, which implies ∥∇ψ(p)∥2 = 0 and consequently, μ = λ n2. Hence, using 
+Corollary 3.8, we have from (34),
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+29
+Thus, Δψ ≥0 as m2+(m1−n1) ≥0, that is, ψ is subharmonic. Then, using the fact that 
+Lℋ1 is compact, we find that ψ attains a maximum, and consequently, we establish that 
+ψ is constant. If ∇ψ = 0, we find that ψ is constant, which implies that f is constant, 
+and hence M admits a trivial warping. □
+Question posed in [2]:
+ In order to build new compact Einstein manifolds from the given 
+ones, it was questioned in [2]: Does there exist a compact Einstein warped product 
+manifold with a non-constant warping function? Indeed, Proposition 5 of [15] answers 
+this question by constructing a non-trivial compact Einstein warped product space. 
+In analogy, we can ask: Does there exist a compact Einstein warped product manifold 
+M = M1 ×f M2 admitting a Clairaut Riemannian warped product submersion with 
+r = eψ? We attempt to answer this question in the following theorem.
+Theorem 6.16. Suppose that (Lℋ1, g1) is a manifold and f is a smooth function on Lℋ1
+satisfying, for a constant λ ∈R and m1, m2, n1 ∈N,
+then f satisfies
+for a constant μ ∈R. Hence, for a compact Einstein space (Lℋ2, g2) of dimension (m1 +
+m2 −n1) with
+we can make a compact Einstein warped product space Lℋ1 ×f Lℋ2 with
+where g = g1 + f 2 g2, g1, g2 being the Riemannian metrics on Lℋ1 and Lℋ2 respectively. 
+Moreover, if we take compact Einstein manifolds ℱ𝒱1 of dimension (m1 −n1) and ℱ𝒱2
+of dimension (m2 −n2) satisfying
+and
+
+30 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+respectively, then
+is a compact Einstein warped product manifold admitting a Clairaut Riemannian warped 
+product submersion ϕ = (ϕ1, ϕ2) with integrable horizontal distribution, whose fibers are 
+ℱ𝒱1 and ℱ𝒱2 and the leaves of the horizontal spaces are Lℋ1 and Lℋ2 respectively.
+To prove the above theorem, we need to prove the following proposition.
+Proposition 6.17. Let ϕ = (ϕ1, ϕ2) : (M = M1 ×f M2, g) →(N = N1 ×ρ N2, g′) be a 
+Clairaut Riemannian warped product submersion with r = eψ with connected fibers. If 
+M is Einstein, then the following identity holds for any X1 ∈Γ(ℋ1):
+Proof. For X1, Y1 ∈Γ(ℋ1), from Corollary 5.5, we have
+Since M is Einstein, Ric(X1, Y1) = λ g(X1, Y1). Thus, we have
+which reduces to
+Also, we can choose a parallel basis while taking the trace and get
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+31
+Diﬀerentiating (36) along X1 ∈Γ(ℋ1), we get
+Again, using the parallel basis argument, we have
+Also from (35), we get
+which shows that
+Now we take the divergence of (38) and get
+When acted on X1 ∈Γ(ℋ1), this reduces to
+Comparing (37) and (39), we get
+
+32 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+Now we come to the proof of Theorem 6.16. We prove the theorem by extending [15, 
+Proposition 5], using a similar technique. The required steps follow from Corollary 5.5, 
+Equation (40), and the fact that A ≡0 for a horizontal integrable distribution.
+CRediT authorship contribution statement
+Conceptualization, methodology, investigation, validation, writing draft, review, edit­
+ing, and reading have been performed by all the authors of the paper.
+Ethics approval
+The submitted work is original and not submitted to more than one journal for si­
+multaneous consideration.
+Consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Code availability
+Not applicable.
+Funding
+Not applicable.
+Declaration of competing interest
+The authors have no conflict of interest and no financial interests in this article.
+Acknowledgements
+Arkadeepta Roy gratefully acknowledges Harish-Chandra Research Institute, Praya­
+graj, India, for its doctoral research fellowship. In addition, all the authors are thankful 
+to the reviewer for his/her comments towards improvement.
+
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764 
+33
+Dedication
+The author, Kiran Meena, dedicates this paper to celebrate the birth of her first child 
+(Madhav Meena).
+Data availability
+No data was used for the research described in the article.
+References
+[1] K. Aso, S. Yorozu, A generalization of Clairaut’s theorem and umbilical foliations, Nihonkai Math.
+[2] A.L. Besse, Einstein Manifolds, Springer-Verlag, Berlin, Heidelberg, New York, 1987.
+[3] R.L. Bishop, B. O’Neill, Manifolds of negative curvature, Trans. Am. Math. Soc. 145 (1969) 1--49.
+[4] R.L. Bishop, Clairaut submersions, in: Diﬀerential Geometry (in Honor of K. Yano), Kinokuniya,
+[5] B.Y. Chen, Warped product immersions, J. Geom. 82 (2005) 36--49.
+[6] B.Y. Chen, Diﬀerential Geometry of Warped Product Manifolds and Submanifolds, World Scientific
+Publishing Co. Pte. Ltd, Singapore, 2017.
+[7] B.Y. Chen, Geometry of warped products as Riemannian submanifolds and related problems, Soo­
+chow J. Math. 28 (2) (2002) 125--156.
+[8] B.Y. Chen, F. Dillen, Warped product decompositions of real space forms and Hamiltonian­
+stationary Lagrangian submanifolds, Nonlinear Anal. 69 (10) (2008) 3462--3494.
+[9] I.K. Erken, C. Murathan, Riemannian warped product submersions, Result. Math. 76 (2021) 1--14.
+[10] I.K. Erken, C. Murathan, A.N. Siddiqui, Inequalities on Riemannian warped product submersions
+for Casorati curvatures, Mediterr. J. Math. 20 (2) (2023) 1--18.
+[11] M. Falcitelli, S. Ianus, A.M. Pastore, Riemannian Submersions and Related Topics, World Scientific,
+River Edge, NJ, 2004.
+[12] D. Gilbarg, N.S. Trudinger, Elliptic Partial Diﬀerential Equations of Second Order, Springer, Berlin,
+[13] H.M. El-Hasan, R. Phelan, F. Wilhelm, Do Riemannian submersions preserve positive intermediate
+Ricci curvature?, arXiv preprint, arXiv:2507.17839 [math.DG].
+[14] R. Escobales Jr, Submersions from spheres, Bull. Am. Math. Soc. 79 (1) (1973) 71--74.
+[15] D.-S. Kim, Y.H. Kim, Compact Einstein warped product spaces with nonpositive scalar curvature,
+[16] R.S. Kulkarni, Curvature structures and conformal transformations, J. Diﬀer. Geom. 4 (4) (1970)
+[17] J.M. Lee, Introduction to Riemannian Manifolds, 2nd ed., Springer, Cham, 2018.
+[18] K. Meena, T. Zawadzki, Clairaut conformal submersions, Bull. Malays. Math. Sci. Soc. 47 (4) (2024)
+[19] K. Meena, H.M. Shah, B. Şahin, Geometry of Clairaut conformal Riemannian maps, J. Aust. Math.
+[20] K. Meena, B. Şahin, H.M. Shah, Riemannian warped product maps, Result. Math. 79 (2) (2024)
+[21] J.D. Moore, Isometric immersions of Riemannian products, J. Diﬀer. Geom. 5 (1971) 159--168.
+[22] J.F. Nash, The imbedding problem for Riemannian manifolds, Ann. Math. 63 (1956) 20--63.
+[23] T. Nore, Second fundamental form of a map, Ann. Mat. Pura Appl. 146 (1) (1986) 281--310.
+[24] S. Nölker, Isometric immersions of warped products, Diﬀer. Geom. Appl. 6 (1996) 1--30.
+[25] B. O’Neill, The fundamental equations of a submersion, Mich. Math. J. 13 (4) (1966) 459--469.
+[26] B. O’Neill, Semi-Riemannian Geometry with Applications to Relativity, Academic Press, New York,
+[27] P. Petersen, Riemannian Geometry, third edition, Springer, London, 2016.
+[28] R. Ponge, H. Reckziegel, Twisted products in pseudo-Riemannian geometry, Geom. Dedic. 48 (1)
+
+34 
+A. Roy et al. / Bull. Sci. math. 206 (2026) 103764
+[29] A. Pressley, Elementary Diﬀerential Geometry, Springer, London, 2010.
+[30] B. Şahin, Riemannian Submersions, Riemannian Maps in Hermitian Geometry, and Their Applica­
+tions, Academic Press, 2017.
+[31] R. Tojeiro, Conformal immersions of warped products, Geom. Dedic. 128 (2007) 17--31.
+[32] J. Yadav, H. Kaur, G. Shanker, On the geometry of Riemannian warped product maps, arXiv

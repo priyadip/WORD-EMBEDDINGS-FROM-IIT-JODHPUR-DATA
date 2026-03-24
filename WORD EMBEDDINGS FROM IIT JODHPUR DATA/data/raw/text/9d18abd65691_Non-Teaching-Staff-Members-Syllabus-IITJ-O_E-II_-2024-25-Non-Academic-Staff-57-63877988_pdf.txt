@@ -1,0 +1,63 @@
+SOURCE_PDF: 9d18abd65691_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT (Computer Science & Engineering)
+(WRITTEN TEST & SKILL TEST)
+Basics of Web
+- 
+Internet and World Wide Web
+- 
+HTTP Servers
+- 
+HTTP Sessions
+- 
+SSL Certificates
+- 
+HTTP and HTTPS Protocols
+- 
+Web Browsers
+- 
+HTTP Error Codes
+Front End Technologies:
+- 
+JavaScript and DOM
+- 
+JQuery and TypeScript
+- 
+Ajax
+- 
+CSS, Responsive Design, and Bootstrap
+- 
+Layout
+- 
+PHP, Asp.Net, JSP, Ruby on Rails,
+- 
+REST API, XML, JSON
+Platforms and Servers:
+- 
+Linux and Window Hosting
+- 
+Working with Virtual Machines,
+- 
+Understanding of Chrome and Firefox Developer Tools
+Programming Languages:
+- 
+PHP, C#, Java, Python
+- 
+Object-Oriented Design Principles
+Library and Framework:
+- 
+WordPress or any CMS
+- 
+ReactJS, AngularJS
+- 
+Basic SEO techniques, URL Routing
+- 
+Knowledge of SQL Query and Connectivity with frontend
+- 
+MySQL, PGSQL, MS SQL Server
+- 
+NoSQL Databases, MongoDB
+Source Control and Versioning:
+- 
+Git Commands

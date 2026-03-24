@@ -1,0 +1,1006 @@
+SOURCE_PDF: 380061d6e378_2024-02-06-65c1ff923563c-1707212690.pdf
+
+Postgraduate Diploma
+in
+Next Generation OMICS Technologies and
+Applications
+
+Program Structure
+Certificate and Diploma Course in Next Generation OMICS Technologies
+and Applications
+1. Introduction
+The certificate and diploma course in next generation OMICS technologies and applications is a holistic
+training program designed to meet the requirements of people from different backgrounds such as
+healthcare professional, post-graduate students, people from industry or academia as well as a service
+provider. The program would cater to the needs of upskilling, training and orientation of different
+multi-omics based techniques, and the analysis of data and their applications towards healthcare,
+pathogens, clinical, nutrition and agriculture. Recent advancements and wide use of high-throughput
+technology are producing an explosion of biological datasets that serve as a source for computational and
+statistical modeling of diseases and biological processes. The analysis of various omics datasets can
+provide better understanding of the underlying disease mechanism, prevention and prediction. Moreover,
+high-throughput sequencing data analysis helps medical professionals in clinical applications as well as
+enable advanced understanding of basic biological problems. This program provides an overview of the
+high-throughput technologies for massively parallel (so-called next-generation) sequencing & multi-omics
+technologies for addressing different biological questions. Moreover, this program will focus on concepts
+for developing and implementing computational methods for learning from omics data, managing those
+data, and using the data for biological research to improve human health.
+2. Objective of the Programme
+The objective of this programme is to cultivate an understanding of multi-omics studies, technologies and
+state-of-the-art computational methods for analysis of multi-omics datasets. The course aims to provide
+the cutting edge skill sets to efficiently plan for multi-omics experiments, generate the different layers of
+biological data, analyze and interpret the outcomes.
+3. Expected Attributes
+●
+Ability to understand different next-generation multi-omics technologies.
+●
+Capability to design the experiment for conducting OMICS studies.
+●
+Gain an aptitude to apply the knowledge for different OMICS applications.
+●
+Ability to apply machine learning, statistics and computational methods for analysis of the
+different OMICS data.
+4. Learning Outcome
+●
+Knowledge of available high-throughput multi-omics technologies, including their comparison in
+terms of advantages and disadvantages for specific applications.
+●
+Design a multi-omics study efficiently, including effective budget planning.
+●
+Knowledge of different NGS and microarray experiments and their possible applications.
+●
+Knowledge of computational and statistical concepts for analysis of OMICS datasets.
+●
+Develop skills to interpret the analysis results for biological inference.
+●
+Efficiently plan and manage technical projects in different OMICS domains.
+5. Offered for:
+●
+Working professionals from pharma, sports, nutrition and health and wellness, diagnostic
+industries
+
+Certificate 1 Certificate 2 (ONLY) Diploma
+NIL Should have completed 13
+credits (or ~150 hours) of
+coursework or equivalent in
+these topics:
+●Experiment design
+approaches for OMICS study
+●Multi-OMICS Resources and
+Technologies
+●Basics of OMICS Data
+Analysis Entry through Certificate 1: NIL
+Entry through Certificate 2:
+Prerequisites same as for Certificate 2
+(ONLY)
+Certificate 1 Certificate 2 (ONLY) Diploma
+13 credits 15 credits 28 credits
+Option 1 (entry through Certificate 1)
+: 13 credits from Certificate 1 and 15
+from Certificate 2
+●
+Researchers from R&D and academic institutions
+●
+Clinicians and service providers
+●
+PhD, Medical graduates, BTech or Master's in any sciences.
+
+Topic Content
+Experimental Design Basic principles of experiment design, steps for planning, conducting
+and analyzing an experiment, simple comparative experiments,
+sample size and power determination, blocking scenarios, factorial
+designs, foldover designs, crossed array design, random effects
+models, nested and split plot designs
+OMICS Technologies Introduction to NGS technology, NGS run setup, NGS run monitoring,
+microarray and SNP typing technology, sample QC and call rate
+identification, introduction to single cell technologies and spatial
+transcriptomics, sample preparation, for single cell gene expression,
+single cell immune profiling, fixed RNA profiling, Single Cell Assay for
+transposase-accessible chromatin using sequencing (ATAC -seq),
+single cell multiome ATAC + Gene Expression, spatial gene
+expression for FFPE, spatial gene expression for as well as fresh and
+frozen, introduction to proteomics, Mass spectrometry, 2D gel
+electrophoresis, DNA-Protein interaction studies, proteomics and drug
+designing platforms
+OMICS Data Science Introduction to bioinformatics, data driven discovery with examples in
+healthcare, Introduction to genomic variations & mutations, data
+6. Program Modules
+i.
+OMICS experiments and technologies
+a.
+Basics of experiment design
+b.
+OMICS study design
+c.
+Next generation sequencing technologies
+d.
+Microarrays & SNP typing
+e.
+Single cell technologies
+f.
+Spatial transcriptomics
+ii.
+OMICS data science
+a.
+Basic of data science
+b.
+NGS data analysis
+c.
+OMICS data types
+d.
+Data science methods for OMICS datasets
+e.
+AI & ML applications in OMICS
+iii.
+OMICS applications
+a.
+Modern approaches of drug designing
+b.
+Precision medicine
+c.
+Drug target and drug discovery
+d.
+Clinical genomics
+7. Topics Cloud for Compulsory Courses
+
+Course name Credit Category Course name Credit Category
+Semester 1 Semester 2
+Design of OMICS
+Experiments 3-0-0 [3] C Sample QC and Processing
+Techniques for NGS 2-0-2 [3] C
+Next Generation OMICS
+Technologies 3-0-0 [3] C Advanced OMICS Data
+Analysis 2-0-2 [3] C
+Basics of OMICS Data
+Analysis 2-0-2 [3] C Multi-omics Research
+Applications 3-0-0 [3] C
+OMICS Databases 1-0-0 [1] C Mini Project 3 C
+Elective I 3 E Elective II 3 E
+Total Credits = 13 Total Credits =15
+S.NO. Course name L-T-P Hours Credits
+1 Introduction to Non-Clinical NGS Applications
+and Genomics Analysis Tools 3-0-0 42 3
+2 Statistics for Clinical Interpretation from Omics
+Data 2-0-2 56 3
+3 Microbial Genomes & Microbiomes 3-0-0 42 3
+4 Principles of Drug Discovery 3-0-0 42 3
+5. Transcriptome Data Analysis 3-0-0 42 3
+6 Proteomics and Metabolomics 3-0-0 42 3
+8. Program Structure
+9. Elective courses
+9.1 Elective courses for semester 1:
+Note: elective courses listed in below table are available for both certificate and diploma participants.
+
+S.NO. Course name L-T-P Hours Credits
+1 Protocols for Clinical Next Generation
+Sequencing ApplicationsBBL7140 2-0-2 56 3
+2 OMICS-Based Precision Medicine 2-0-2 56 3
+3 Computational Personal Genomics 2-0-2 56 3
+4 Artificial Intelligence (AI) in Healthcare 2-0-2 56 3
+5 AI/ML based Rational Drug Discovery 2-0-2 56 3
+6 Computational Structural Bioinformatics 2-0-2 56 3
+7 Applications of OMICS in Plant Science 3-0-0 42 3
+S.NO. Course name L-T-P Hours Credits
+1 Protocols for Clinical Next Generation
+Sequencing Applications 2-0-2 56 3
+2 OMICS-Based Precision Medicine 2-0-2 56 3
+3 Computational Personal Genomics 2-0-2 56 3
+4 Artificial Intelligence (AI) in Healthcare 2-0-2 56 3
+5 AI/ML based Rational Drug Discovery 2-0-2 56 3
+6 Computational Structural Bioinformatics 2-0-2 56 3
+S.N. Course Name Type
+1 Design of OMICS Experiments Compulsory
+2 Next Generation OMICS Technologies Compulsory
+3 Basics of OMICS Data Analysis Compulsory
+9.2 Elective courses for semester 2:
+Note: elective courses listed in below table are available for Certificate 2 / diploma participants.
+9.3 Mini project for semester 2:
+Participants will complete a mini project co-supervised by IIT Jodhpur Faculty and partners, or can opt for
+any of these courses as a part of their mini project:
+10.
+Summary of courses
+
+4 Sample QC and Processing Techniques in OMICS Compulsory
+5 Advanced OMICS Data Analysis Compulsory
+6 Multi-omics Research Applications Compulsory
+7 Introduction to Non-Clinical NGS Applications and
+Genomics Analysis Tools Elective
+8 Statistics for Clinical Interpretation from Omics Data Elective
+9 Protocols for Clinical Next Generation Sequencing
+Applications Elective
+10 OMICS-based Precision Medicine Elective
+11 Computational Personal Genomics Elective
+12 Computational Structural Bioinformatics Elective
+13 Applications of OMICS in Plant Science Elective
+14 AI/ML based Rational Drug Discovery Elective
+15 OMICS Databases Compulsory
+16 Microbial Genomes & Microbiomes Elective
+17 Principles of Drug Discovery Elective
+18 Artificial Intelligence (AI) in Healthcare Elective
+19 Transcriptome Data Analysis Elective
+20 Proteomics and Metabolomics Elective
+Title Design of OMICS Experiments Number BBL6340
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Compulsory
+Prerequisite None
+11.
+Detailed courses contents
+11.1 Compulsory courses for semester 1
+
+Title Next Generation OMICS Technologies Number BBL6400
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Compulsory
+Objectives 
+The Instructor will:
+1. Provide an understanding of how OMICS experiments should be designed so that when the data are
+collected, these shortcomings are avoided.
+2. focus on the design of the experiment and not on the analysis.
+Learning Outcomes
+The students are expected to have the ability to:
+1.
+understand the issues and principles of design of experiments for multi-omics studies
+2.
+understand experimentation designs and follow the guidelines for designing experiments
+Contents
+Basic Design Principles [14 lectures]: steps in planning of an experiment, exploratory vs. hypothesis
+driven studies, deductive, inductive and abductive reasoning, biological and analytical variance, study
+design considerations for discovery and validation studies, data driven discovery with examples from
+different domains e.g. predictive, preventive, personalised and participatory (P4) and precision medicine,
+overview of molecular diagnostics and treatment development, design issues in omics experiments,
+randomization in omics experiments, multi-level replication in omics experiments, sample size and power
+determination, resource allocation, pooling biological samples
+Designs for Multi-omics Experiments [14 lectures]: experiments with one factor and multiple levels,
+two sample experiments, completely randomized design (CRD), complete block design, randomized
+complete block design (RCBD), blocking scenarios in multi-omics experiments, incomplete block design,
+reference
+design,
+loop design, crossover designs, factorial designs with two treatment factors,
+unreplicated factorial designs, confounding and blocking in factorial designs, blocking in unreplicated
+design, 2-level fractional factorial designs
+Study designs [7 lectures]: family-based designs, population-based designs, case-studies, descriptive
+studies, ecological studies, case-control design, case-only design, cross-sectional studies, cohort studies
+Multi-omics data modelling [7 lectures]: types of variables, modelling process, model assumptions,
+simple linear regression, multiple linear regression, ANOVA, interpreting the coefficients, inferences
+about the population slope, examples from multi-omics studies
+Textbook
+1. Montgomery, D. C. (2020). Design and Analysis of Experiments, 10th Edition, John Wiley & Sons
+Reference Books
+1. Kaltenbach H.M., (2021), Statistical Design and Analysis of Biological Experiments, Springer
+Online Course Material
+https://online.stat.psu.edu/statprogram/stat503
+
+Prerequisite NIL
+
+Title Basics of OMICS Data Analysis Number BBL6410
+Department Bioscience and Bioengineering L-T-P [C] 2-0-2 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Compulsory
+Prerequisite NIL
+1. Manuel J.
+Tavares R. S. and Tapia J.C., (2018). Next Generation Sequencing: Applications and
+Challenges. Elsevier.
+2. Calogero R.A. and Benes V., (2023) Single cell Transcriptomics: Methods and Protocols.
+Springer
+ISBN: 978-1-0716-2756-3
+3. Mount D.W., (2004) Bioinformatics: Sequence and Genome Analysis. CSHL Press,
+Online Course Material
+1. Vikash Kumar Dubey, Proteomics & Genomics, NPTEL Course Material, Department of
+Biosciences & Bioengineering, Indian Institute of Technology Guwahati,
+https://nptel.ac.in/courses/102103017/
+2. S. Ganesh, Functional Genomics, NPTEL Course Material, Indian Institute of Technology
+Kanpur, https://nptel.ac.in/courses/102104056/
+3. Sanjeeva Srivastava, Proteomics: Principles and Techniques, NPTEL Course Material,
+Department of Biosciences & Bioengineering, Indian Institute of Technology Bombay,
+https://nptel.ac.in/courses/102101007/6
+
+Title Omics Databases Number BBL7121
+Department Bioscience and Bioengineering L-T-P [C] 1-0-0 [1]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Compulsory
+Introduction to Metagenomic Data Analysis [3 Lectures]: data preprocessing and quality control,
+metagenomic data analysis workflow, taxonomic profiling and community composition analysis
+Introduction to Transcriptomic Data Analysis [4 Lectures]: gene expression profiling, tools for
+preprocessing and quality control, assembly and annotation, differential gene expression analysis,
+pathway analysis, functional enrichment analysis
+Introduction to Proteomic and Metabolomic Data Analysis [5 Lectures]: Analysis of Mass Spec data
+- peptide mass fingerprinting, NMR data analysis, differential proteomics/metabolomics, qualitative
+proteomics/metabolomics, detecting post-translational modifications
+Introduction to OMICS Data Integration
+[10 Lectures]: multi-omics data examples, challenges with
+high-throughput data, batch effect correction, normalization and transformation, horizontal integration
+schemes,
+meta-analysis
+methods, vertical integration schemes including parallel integration and
+hierarchical integration, example case-studies on multi-omics data integration
+Laboratory Experiments [14 sessions]:
+Introduction to R Programming, genomic data analysis using R: variant calling, functional annotation,
+sequence alignment, phylogenetic analysis, visualization tools for the phylogenetic composition of
+microbial communities based on 16S rRNA, Transcriptomic Data Analysis: quantification of gene
+expression, generation and interpretation of multiQC report, differential gene expression analysis,
+pathway analysis
+Textbook
+1.
+1. Tseng G, Ghosh D, Zhou XJ (2015), Integrating Omics Data, Cambridge University Press
+2. Barh D, Azevedo V (2017), Omics Technologies and Bio-engineering, Elsevier
+Reference Books:
+1.
+Nardini C, Dent JE, Tieri P (2019), Multi-omic Data Integration, Frontiers Media SA
+2.
+Arivaradarajan P. and Gauri M. G., (2018), Omics Approaches, Technologies and Applications:
+Integrative Approaches For Understanding OMICS Data, Springer
+3.
+Schneider M.V. and Orchard S, (2016), Bioinformatics for Omics Data: Methods and Protocol.,
+Humana Press
+Online Course Material
+1.
+BigOmics Analytics, https://bigomics.ch/tutorials/
+2.
+Omics Data Analysis and Integration, https://www.altexsoft.com/blog/omics-data-analysis/
+3.
+Computational Genomics with R, https://compgenomr.github.io/book/
+
+Prerequisite NIL
+Title Sample QC and Processing Techniques for NGS Number BBL7140
+Department Bioscience and Bioengineering L-T-P [C] 2-0-2 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Compulsory
+Prerequisite NIL
+11.2 Compulsory courses for semester 2
+
+Objectives
+The instructor will:
+1.
+Provide an overview sampling approaches and methods to be considered while planning an NGS
+experiment.
+2.
+Discuss
+various
+aspects
+of
+sample
+collection,
+storage,
+shipment,
+risk
+assessment
+and
+appropriate handling of biological samples
+3.
+Provide insights into the importance of sample processing and quality control in NGS studies
+Learning Outcomes
+The students are expected to have the ability to:
+1.
+Plan and execute NGS experiments following proper sample collection, extraction and quality
+control protocols
+2.
+Follow all safety protocols when handling biological samples to minimize exposure and loss of
+sample integrity
+Contents
+Introduction to biological sample collection [10 lectures]: Types of biological samples - Simple,
+complex,
+mixed;
+Appropriate controls; Replications, Documentation, metadata collection, record
+maintenance & anonymization; Ethics of biological sample collection; Biosafety regulations, equipment &
+practices; Stabilization and preservation of samples; Transportation; Short-term & long-term storage;
+Effects of preservation & storage; Waste management; Standards (ISO/NABL etc.)
+Sample processing & Quality Control [10 lectures]: Avoiding biases during sample processing;
+Nucleic acid extraction - Lysis methods; Nucleic acid quantification & quality assessment for next
+generation sequencing - Spectrophotometry, electrophoresis based approaches, fluorescence based
+approaches, relevant instrumentation, strengths & limitations of various quality control methods,
+Automation of sample processing.
+Designing a sample collection and processing workflow seminar series [8]: Presentations by the
+class on a comprehensive pipeline for sample collection, processing and quality control
+Laboratory Experiments [14 sessions]:
+1.
+General lab safety, Biosafety equipment and practices
+2.
+Sample collection, documentation, storage, stabilization, packaging & shipping
+3.
+Nucleic acid extraction from
+a.
+Simple - Gram-negative bacteria
+b.
+Complex - Tissue / Yeast
+c.
+Mixed samples - Soil / Stool
+4.
+Nucleic acid quality control - Differences between stored, fresh & stabilized samples
+a.
+Spectrophotometry & agarose gel electrophoresis
+b.
+Fluorescence-based assays
+5.
+Nucleic acid fragmentation & assessing size distribution of fragmented DNA
+6.
+Size selection of fragmented DNA
+a.
+Left sided selection
+b.
+Right sided selection
+Textbook
+1.
+Barker K., (2004). At the Bench, Cold Spring Harbor Laboratory Press.
+
+Title Advanced OMICS Data Analysis Number BBL7150
+Department Bioscience and Bioengineering L-T-P [C] 2-0-2 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Compulsory
+Prerequisite Basics of OMICS data analysis
+2.
+Kappelmann-Fenzl E.M., (2021). Next Generation Sequencing and Data Analysis, Springer,
+Reference Books
+1.
+Pahuja M.,(2021) ICMR Guidelines for Good Clinical Laboratory Practices (GCLP), ICMR
+2.
+Centers for Disease Control and Prevention (2009). Biosafety in Microbiological and Biomedical
+Laboratories. U.S. Government Printing Office.
+Online Course Material
+1.
+Research / review articles provided by the Instructor
+
+Title Multi-OMICS Research Applications Number BBL7160
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Compulsory
+Prerequisite None
+regions of ribosomal RNA, microbiome variability and composition analysis, functional metagenomics,
+single-cell RNA-seq analysis, case-studies
+OMICS Data Integration [7 Lectures]: matrix factorisation, factorisation with components and loading
+vectors, Canonical Correlation Analysis (CCA), network-based methods of integration
+Laboratory Experiments [14 sessions]:
+Perform genomics data retrieval from public repositories, perform pre-processing and quality assessment
+using Trimmomatic tool, annotation of vcf file using R, QIIME2 pipeline for taxonomy classification,
+perform alpha & beta diversity analysis, perform genome-wide association analysis, perform functional
+enrichment analysis, perform single cell transcriptomic data analysis, perform N-integration of two or more
+datasets that are measured across the same N samples using mixOmics package.
+Textbook
+2.
+1. Tseng G, Ghosh D, Zhou XJ (2015), Integrating Omics Data, Cambridge University Press
+2. Lê Cao KA, Welham ZM (2022), Multivariate Data Integration Using R Methods and Applications
+with the mixOmics Package, CRC Press
+Reference Books:
+1.
+Nardini C, Dent JE, Tieri P (2019), Multi-omic Data Integration, Frontiers Media SA
+2.
+Arivaradarajan P. and Gauri M. G., (2018), Omics Approaches, Technologies and Applications:
+Integrative Approaches For Understanding OMICS Data, Springer
+3.
+Schneider M.V. and Orchard S, (2016), Bioinformatics for Omics Data: Methods and Protocol.,
+Humana Press
+Online Course Material
+1.
+BigOmics Analytics, https://bigomics.ch/tutorials/
+2.
+Omics Data Analysis and Integration, http://mixomics.org/
+3.
+Computational Genomics with R, https://compgenomr.github.io/book/
+4.
+Vahabi N, Michailidis G. Unsupervised Multi-Omics Data Integration Methods: A Comprehensive
+Review.
+Front
+Genet.
+2022
+Mar
+22;13:854752.
+doi:
+10.3389/fgene.2022.854752.
+PMID:
+
+Title Introduction to Non-Clinical NGS Applications and
+Genomic Analysis Tools Number BBL7170
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Elective
+Prerequisite NIL
+Learning Outcomes
+The students are expected to have the ability to:
+1. understand the various applications of multi-omics technologies
+2. explores applications of omics in bioinformatics, cancer research and therapy, molecular biology, and
+neurosciences
+Contents
+Application areas of NGS sequencing: Functional Genomics (4 lectures), Epigenomics (2 lectures),
+Hereditary diseases, Diagnostics and Prenatal testing (5 lectures), Plant Genomics (3 lectures),
+Population genomics (4 lectures), Complex diseases (6 lectures), Metagenomics (4 lectures), Gene x
+Environment interaction (4 lectures),
+Nutrigenomics (2 lectures), Pharmacogenomics (2 lectures),
+Sociogenomics (2 lectures), Ayurgenomics (2 lectures), Structural genomics and drug discovery (2
+lectures)
+Textbook
+1.
+Barh D., Blum K., and Madigan M.A. (2012). OMICS Biomedical Perspectives and Applications.
+Taylor & Francis
+Reference Books
+1.
+Barh D., Azevedo V., Zambare V., (2013). OMICS Applications in Biomedical, Agricultural, and
+Environmental Sciences. Taylor & Francis
+2.
+Romualdi C., Calura E., Risso D., Hautaniemi S, Finotello F. (2020) Multi-Omic Data Integration in
+Oncology. Frontiers Media SA.
+Online Course Material
+3.
+Morales J., (2022). Multi-omics for Health and Disease: https://youtu.be/Orr_qez58ZE. Open
+session of the 95th annual meeting of the National Advisory Council for Human Genome
+Research (NACHGR)
+4.
+Hu, C., and Weiping J. (2021). Multi-Omics Profiling: The Way toward Precision Medicine in
+Metabolic. Journal of Molecular Cell Biology. Oxford Academic.
+11.3 Elective courses for semester 1
+
+Title Statistics for Clinical Interpretation from
+OMICS data Number BBL7180
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Elective
+The students are expected to have the ability to:
+1.
+Independently choose the appropriate NGS experiments for their specific research applications
+2.
+Perform appropriate library preparation protocols that are required to address different research
+objectives.
+Contents
+Fundamentals of NGS library construction [12 Lectures]: Features of NGS libraries, Library preparation
+technologies, Indexing and multiplexing, Library validation, and quality control, Library normalization and
+pooling, Common challenges in library preparation, Best practices for library construction.
+Non-clinical library preparation methods [14 Lectures]: Ligation-based workflow, Tagmentation based
+workflow, Target enrichment workflow, Whole genome sequencing for large and small genome, Whole
+Exome sequencing, Whole transcriptome sequencing, Small RNA sequencing, Gene expression
+profiling,
+RNA
+exome
+enrichment,
+Ribosome
+profiling,
+Protein-DNA
+interactions,
+Protein-Protein
+NGS Experimental Design [10 Lectures]: Case Study 1 - Metagenomics Experiment Design, Case Study
+2 - Transcriptomics Experiment Design, Case Study 3 - Whole Genome Sequencing Experiment Design,
+Experimental Design Challenges, and Troubleshooting.
+Insights on onboard Instrument analysis solutions [6 Lectures]: Benchtop sequencer local manager
+introduction, Analysis modules, Dashboard introduction, Result folder file structure, Analysis files details.
+Textbook
+1. Wang X. (2016). Next generation sequencing and data analysis. CRC Press.
+2. Woyke T. and Fierer N, (2021). Metagenomics: Methods and Protocols, Springer Protocols.
+Reference Book:
+1. Richards J.E. and Hawley R.S. (2010). The Human Genome: A User's Guide, Academic Press
+2. Lesk M. (2018). Introduction to Genomics, Oxford University Press.
+Online Course Material
+1. Hess, J., Kohl, T., et.al. (2020). Library preparation for next generation sequencing: A review of
+automation strategies. Biotechnology Advances, https://doi.org/10.1016/j.biotechadv.2020.107537.
+2. Ho, C.K., Cui, X., etal.(2016). Whole-genome sequencing analysis using next-generation sequencing
+data. Current Protocol. Essential Lab. Tech. https://doi.org/10.1002/cpet.2.
+
+Prerequisite Basics of OMICS Data Analysis
+
+Title Microbial Genomes & Microbiomes Number BBL7370
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Elective
+Prerequisite NIL
+
+Title Principles of Drug Discovery Number BBL7140
+CSL7XX1
+CSL7XX2
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Elective
+Prerequisite NIL
+Review & Research articles as prescribed by the Instructor
+Online Course Material
+Ganesh S., Functional Genomics, NPTEL Course Material, Department of Biological Sciences and
+Bioengineering, Indian Institute of Technology, Kanpur, http://nptel.ac.in/courses/102104056/
+
+Title Transcriptome Data Analysis Number BBL7150
+Department Bioscience & Bioengineering L-T-P
+[C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Elective
+Prerequisite Nil
+1. Department of Computer Science, Stanford University
+
+Objectives
+The Instructor will:
+1.
+Illustrate the intricacies involved in choosing the right transcriptomic platform and will
+highlight the key steps of data analysis
+Learning Outcomes
+The students are expected to have the ability to:
+1. Analyse various types of transcriptomic dataset and draw biological meaning from the data
+Contents
+Fractal 1:
+Introduction to Microarray Data: Gene expression biology, The technical foundations,
+Types of microarrays- two-channel cDNA arrays, single-channel Affymetrix genechips,
+microarray platforms, Designing a microarray experiment-The basic steps (4 lectures)
+Pre-processing
+steps:
+Importance
+of
+microarray
+data
+pre-processing,
+Background
+correction, Data normalization (5 lectures)
+Analysis: Identification of differentially expressed genes, Classifying samples from two
+populations, grouping co-expressed genes (3 lectures).
+Fractal 2:
+Introduction to RNA Sequencing Data: Sequencing chemistries, choosing the right method
+for an application, principal considerations while designing an RNA sequencing experiment
+(2 lectures)
+Quality Control: Sequence quality scores, pre-processing steps & considerations, FastQC,
+filtering & trimming of low-quality reads, detecting contaminants, removing adapters, red
+flags & troubleshooting (3 lectures)
+Reference mapping: Alignment tools, assessment of alignment statistics, manipulating
+alignments, visualizing alignments (2 lectures)
+De novo assembly: Transcriptome reconstruction & inherent complexities (3 lectures),
+pre-processing considerations for de novo assembly (2 lectures), de Bruijn graph,
+assembly tools, R & bioconductor for data analysis (4 lectures)
+Fractal 3:
+Gene
+expression
+analysis:
+Annotation,
+counting reads per transcript (2 lectures),
+differential gene expression, importance of biological & technical replicates, graphical
+representation (5 lectures)
+Detecting Non-coding RNAs: Methods for detecting non-coding RNAs (2 lectures)
+Applications of RNA sequencing: Transcriptome response profiling, finding splice variants,
+detecting allele specific expression in disease (5 lectures)
+Textbook
+1. Simon R. M., Korn E. L., McShane L. M., Radmacher M. D., Wright G. W., Zhao Y.
+
+Title Metabolomics and Proteomics Number BBL7160
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Elective
+Prerequisite Nil
+(2003), Design and Analysis of DNA Microarray Investigations, Springer-Verlag New York.
+2. Korpelainen E., Tuimala J., Somervuo P., Huss M., Wong G., (2015), RNA-Seq Data
+Analysis: A Practical Approach, CRC Press
+3. Wang X., (2016), Next-Generation Sequencing Data Analysis, CRC Press
+Reference Books
+Hackenberg
+M.
+And
+Aransay
+A.
+M.
+(2011),
+Bioinformatics
+for
+High
+Throughput
+Sequencing, Springer New York
+Self-learning Material
+1. Microarray based DNA Detection---- http://nptel.ac.in/ courses/104103018/41
+2.RNA-Seq
+Analysis
+tutorial
+by
+University
+of
+Minnesota:
+
+Objectives
+The Instructor will:
+1. Introduce metabolomics as a discipline highlighting some methods for data generation,
+analysis and interpretation
+2. Introduce the biological databases commonly encountered in proteomics research and
+will highlight how different data types are used across biology
+Learning Outcomes
+The students are expected to have the ability to:
+1. Choose the appropriate method to qualitatively or quantitatively analyze the metabolome and
+proteome from different biological samples
+2. Store / retrieve biological data in / from relevant databases and process it for analyses
+Contents
+Metabolomics
+Technologies
+&
+Data
+analysis
+[16 lectures]: Mass spectrometry for
+metabolite profiling (3 lectures), liquid & gas chromatography separation technologies (3
+lectures); capillary electrophoresis based separation technology (2 lectures); nuclear magnetic
+resonance in profiling (2 lectures); single cell metabolomics (2 lectures), processing of data for
+analysis, statistical analysis (2 lectures), lifestyle disease biomarker identification, lipidomics (2
+lectures)
+Mass spectrometry for proteomics [14 lectures]: Basic principles (2 lectures), ionization
+methods (2 lectures), mass analyzers & mass spectrometers (4 lectures), analysis of MS data,
+analysis of MS/MS data (4 lectures), simple vs complex samples (2 lectures)
+Applications
+[6
+lectures]:
+Clinical
+samples,
+extraction
+methods,
+sample
+preparation,
+metabolic markers of disease, comparative metabolomics, metabonomics
+Case
+studies
+[6
+lectures]:
+Qualitative
+proteomics,
+differential
+proteomics,
+detecting
+post-translational modifications, interactomics
+Textbook
+1.
+Lovric, J., (2011), Introducing Proteomics: From Concepts to Sample Separation, Mass
+Spectrometry and Data Analysis. 11th Edition, Wiley-Blackwell.
+2.
+Fan T.W.M., Lane A.N., Higashi R.M., [Eds], (2012), The Handbook of Metabolomics,
+Springer
+Reference Books
+1.
+Twyman R., (2013), Principles of Proteomics, 2nd Edition, CRC Press
+2.
+Conn P.M., [Ed.] (2003), Handbook of Proteomic Methods, Springer
+3.
+Sussulini A., [Ed] (2017), Metabolomics: From Fundamentals to Clinical Applications,
+
+Title Protocols for Clinical Next Generation
+Sequencing Applications Number BBL7190
+Department Bioscience and Bioengineering L-T-P [C] 2-0-2 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Elective
+Prerequisite Nil
+Springer
+Online Course Material
+1.
+Sanjeeva Srivastava, Proteomics: Principles and Techniques, NPTEL Course Material,
+Department of Biosciences & Bioengineering
+11.4 Elective courses for semester 2
+
+Title OMIC-Based Precision Medicine Number BBL7200
+Department Bioscience and Bioengineering L-T-P [C] 2-0-2 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Elective
+Prerequisite Basics of OMICS data analysis
+Indexing PCR DNA Cleanup & Size Selection, Library Pooling, Library QC, denaturation, and dilution, NGS
+run set up, Onboard data analysis.
+Exome Library preparation: DNA isolation, purification & QC, Library preparation for targeted enrichment,,
+Library QC, Denaturation and dilution, Sequencing run set up, Onboard data analysis.
+Textbook
+1.
+Sivasubbu S, Scaria V. (2015), Exome sequencing analysis and interpretation: Handbook for
+clinicians. J Pract Cardiovasc Sci.
+2.
+Kulkarni S, Pfeifer J. (2015), Clinical Genomics. A Guide to Clinical Next Generation Sequencing.
+Elsevier Inc., Academic Press.
+Reference book:
+1.
+Wong L. (2015), Next Generation Sequencing, translation to Clinical Diagnostics, Springer
+2.
+Boegel S. (2018), HLA typing, Methods and Protocols, Springer.
+Online Course Materia
+1. Melton R. and Spirk,T. (2016). Obtaining high quality DNA from diverse clinical samples. Current.
+Protocol. Microbiol. https://doi.org/10.1002/9780471729259.mc01e09s40
+2. Wolf, K. (2016). Next-generation sequencing library preparation from FFPE tissue samples. Current.
+Protocol. Mol. Biol. https://doi.org/10.1002/0471142727.mb0724s113
+
+Learning Outcomes
+1.
+Apply genomics data analysis approach to determine treatment response.
+2.
+Leverage public repositories to explore data to apply personalized technologies for precision
+treatment.
+3.
+Learn about translational precision medicine
+Contents
+Fundamentals of Precision Medicine [7 Lectures]: Understanding human genome variability and
+phenotype consequences, Germline and Somatic Mutations, Clinical Relevance of Mutations, ACMG and
+AMP guidelines for variant classification, ethical, legal and social implications, precision approaches for
+oncology, infectious diseases, metabolic disorders and neurosciences, objectives of precision oncology,
+variability in drug response.
+Genomics for Precision Medicine [7 Lectures]:
+Monogenic disease diagnosis, molecular classification of tumors, drug response prediction and selecting
+optimal treatments, Drug-target identification, Disease Classification, Pathway analysis, Monitoring disease
+progression, predicting disease risk
+Practice of genomic medicine in clinic [5 Lectures]:
+Basics of genetics and genomics, from variants affecting health and disease to medicine.
+Pharmacology, mechanism of action,clinical decision making, research and advancements in the
+field, population health, introduction to integrative clinical and multi-omics data analysis
+Targeted Drug Discovery and Development: [5 Lectures]
+Introduction to cheminformatics, Target identification, Structure Prediction & variant analysis, Chemical &
+Protein Databases, Virtual and targeted screening, precision docking and downstream analysis.
+Pharmacovigilance: [4 Lectures]
+Identification of target population, data collection on the use of precision medicine with reported effects,
+monitoring adverse effects, data analysis, identification of potential safety concerns, risk benefit profile,
+reporting of findings to regulatory agencies, mitigating risk associated with the use of precision medicine,
+medicine withdrawal, need of continuous monitoring of precision medicine usage.
+Laboratory Experiments [14 sessions]:
+Perform molecular biology techniques in a simulated environment, such as RT-PCR, Next Generation
+Sequencing, expression of therapeutic proteins. Explore big data repositories for multi omics data, variant
+analysis, patient drug response based on genetic profile, clinical interpretation, Application of tools for 3D
+structure analysis
+Textbook
+1.
+Jain K.K., 2021. Textbook of Personalized Medicine, Springer
+2.
+McCarthy J.J. and Mendelsohn B.A., (2017) Precision Medicine: A Guide to Genomics in Clinical
+Practice, McGraw Hill
+Reference Textbook
+1.
+Aydogan B. and Radosevich J.A., 2020. Precision Medicine in Oncology, Wiley
+2.
+Hariharan R., 2018. Genomic Quirks, IISc Press and Strand Life Sciences
+Online Course Material
+1.
+Kosorok, Michael R., and Eric B. Laber. “Precision Medicine.” Annual Review of Statistics and
+
+Title Computational Personal Genomics Number BBL7210
+Department Bioscience and Bioengineering L-T-P [C] 2-0-2 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Elective
+Prerequisite NIL
+Its Application, vol. 6, no. 1, Mar. 2019, pp. 263–86. DOI.org (Crossref),
+5.
+Modeling Cancer Precision Medicine
+6.
+TCGA Liver Cancer - Precision Oncology
+
+Title Artificial Intelligence (AI) in Healthcare Number SHL7140
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Elective
+Prerequisite NIL
+interpretation, Confounder correction and imputed association, PRS calculation, estimate heritability
+using LD-score regression
+Textbook
+1. Hartl D. and Clark A.G., 2006. Principles of Population Genetics. Sinauer Associates. ISBN:
+978-0878933082
+Reference Books
+1. Foulkes A.S., 2009. Applied Statistical Genetics with R: For Population-based association studies.
+Springer, ISBN: 978-0387895536 (available as an E-Book)
+Self learning materials
+1. https://canvas.ucsd.edu/courses/27425/modules
+
+Title AI/ML based Rational Drug Discovery Number BBL7220
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for PG Diploma in Next Generation OMICS
+Technologies and Applications Type Elective
+Prerequisite Nil
+study gene expression regulation using DNN (3 labs); protein classification using DNN/RNN (3 labs); design
+and implement algorithm for protein structure prediction (2 labs); apply DNN/CNN to classify cancer
+subtypes using imaging or signal data (3 labs)
+Textbook
+1. Wu, G., (2016), Machine Learning and Medical Imaging, Elsevier.
+2. Shortliffe E.H., James J. Cimino, (2013) Biomedical Informatics, 4th Edition,
+Reference Books
+1.
+Arjun P., (2019). Machine Learning and AI for Healthcare: Big Data for Improved Health Outcomes,
+2.
+Eric Topol (2019). Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,
+Basic Books, NY .
+Self-Learning Material
+1.
+AI in Healthcare Specialization: https://www.coursera.org/specializations/ai-healthcare
+
+Course Title Computational Structural Bioinformatics Number BBL7230
+Department Bioscience and Bioengineering L-T-P [C] 2-0-2 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Elective
+Prerequisite NIL
+PDB, AlphaFold Db, ZINC, PubChem, ChEMBL, UCSF Chimera, for Biomolecular Visualization, Open
+Targets
+Genetics,
+Cheminformatics
+using
+R:
+SMILES
+Notation,
+SMARTS:
+Highlight
+substructural
+patterns/Pharmacophores bold text, Highlight atoms based on attributes, Substructure/pharmacophore
+search, Chemical databases, In-silico toxicity prediction/assessment using pkCMS, Molecular docking using
+Autodock/Autodock vina,
+Drug likeness and ADMET analysis using SwissADME,Toxicity Drug-Target
+Interaction Prediction
+Textbook
+1. N. Brown, (2020) Artificial Intelligence in Drug Discovery, Royal Society of Chemistry, 1st edition.
+2. M. Chang,(2020) Artificial Intelligence for Drug Development, Precision Medicine, and Healthcare,
+Taylor & Francis Group, 1st edition.
+Reference Books
+1. A.R R. Leach, (2001) Molecular Modelling: Principles and Applications, Prentice Hall, , 2nd edition.
+2. B. Ramsundar, P. Eastman, P. Walters, V. Pande, (2019) Deep Learning for the Life Sciences: Applying
+Deep Learning to Genomics, Microscopy, Drug Discovery, and More, "O'Reilly Media, Inc. , 1st
+edition.
+Self-Learning Material
+1.
+AI
+in
+Drug
+Discovery
+Decision
+Support,
+IBM
+Watson
+Health,
+2. Deep Learning for Drug Discovery, BayesGroup.ru, https://www.youtube.com/watch?v=Xf2uI4S9IMo
+
+Title Applications of OMICS in Plant Science Number BBL7240
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for PG Diploma in Next Generation OMICS Technologies
+and Applications Type Elective
+Introduction
+to
+Structural
+Biology
+and
+related
+resources
+[6
+lectures]:
+Fundamentals-
+Structure
+of
+macromolecules
+(protein/DNA/RNA),
+RNA
+structural
+diversity,
+polypeptide
+conformation,
+secondary
+structures, folds, interactions, and stability. State-of-the-art structure determination methods. Macromolecule
+structure data resources- PDB, PISA, EPPIC, QSalignWeb, PFam, RFam.
+Structure modeling, interactions, and docking [10 lectures]: Computational structure prediction methods/
+algorithms- Homology modeling, threading, de-novo (AlphaFold), diversity of protein-protein interactions,
+docking (protein-protein/DNA/ligand), PPI databases (Biogrid, STRING)
+Structure
+Analysis
+and
+Dynamics
+[12
+lectures]:
+Structure
+comparison/alignment
+(MMalign,
+KPAX),
+evolutionary studies (sequence and structure conservation) (6 lectures). Protein/DNA structure dynamics and
+flexibility,
+Simulating
+biomacromolecules-
+predicting
+suitable
+in-silico
+conformations
+of
+proteins/DNA/protein-protein/protein-DNA complexes (6 lectures).
+Laboratory Experiments [14 sessions]
+1. Accessing Macromolecular Structure data from PDB and Visualizing in PYMOL/ MOL*
+2. Prediction of protein 3D structure model from amino acid sequence
+3. Docking and analysis – Protein-protein/DNA/small molecule docking and analysis
+4. Analysis of the effect of mutation(s) in protein interactions / mutation modeling
+5. Structure alignment and comparison
+6. Protein/DNA structure flexibility
+7. Predicting suitable in-silico conformations of protein-peptide complexes
+Textbook
+1. Mount D.W.,(2004). Bioinformatics: Sequence and Genome Analysis. CSHL Press,
+2. Lesk A., (2019). Introduction to Bioinformatics, Oxford University Press,
+3. Leach A.R., (2001). Molecular Modelling: Principles and Applications, Prentice Hall,
+Reference Books
+1. Encyclopedia of Bioinformatics and Computational Biology, Elsevier, 2019
+
+Prerequisite NIL
+
+SNO. Certificate 1 Certificate 2 Diploma
+(Certificate 1 & Certificate
+2 together)
+1 Fee (for Indian) 1.20 lakhs 1.50 lakhs 2.50 lakhs
+Self-Learning Materials
+12.
+Program fee structure
+Certificate 1: Basics of Next Generation OMICS Technologies and Applications
+Certificate 2: Advanced Next Generation OMICS Technologies and Applications
+1.
+Fee for a foreigner participant will be 20% higher than that for Indian participant
+2.
+Immersion fee of INR 10,000 will be charged. Immersion fee covers administrative costs. It does
+not include students' lodging and food costs. Immersion is mandatory for Certificate 2 and
+diploma students.

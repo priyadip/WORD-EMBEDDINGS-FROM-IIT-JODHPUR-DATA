@@ -1,0 +1,670 @@
+SOURCE_PDF: 679f4a48d5bd_TENDER-FOR-EMPANELMENT-OF-IP-LAW-FIRMS-638850165396541055.pdf
+
+Indian Institute of Technology Jodhpur
+TENDER FOR EMPANELMENT OF IP LAW FIRMS
+Bids to be submitted online (CPPP)
+For
+(Technical and Financial bid as per tender document)
+NIT No: IITJ/SPS/R/25-26/IPR/01 dated 08 May 2025
+Office of Stores & Purchase
+IIT Jodhpur, Institute Building (East),
+NH-62, Nagaur Road, Karwar,
+Jodhpur-342030, Rajasthan
+
+Name of Organization Indian Institute of Technology Jodhpur
+Open Tender Notice No. (NIT) IITJ/SPS/R/25-26/IPR/01 dated 08 May 2025
+Tender Type
+(Open/Limited/EOI/Auction/Single) Open
+Tender Category (Services/Goods) Services
+Type/Form of Contract (Supply/ Auction/
+Service/ Buy/ Empanelment/ Sell) Empanelment
+Product Category Empanelment of IP Law Firms
+Is Multi Currency Allowed No
+Date of Issue/Publishing 08/05/2025 (15:00 Hrs)
+Document Download/Sale Start Date 08/05/2025 (15:00 Hrs)
+Document Download/Sale End Date 29/05/2025 (15:00 Hrs)
+Last Date and Time for Uploading of Bids 29/05/2025 (15:00 Hrs)
+Date and Time of Opening of Technical Bids 30/05/2025 (15:00 Hrs)
+No. of Covers (1/2/3/4) 02
+Bid Validity days (180/120/90/60/30) 180 days
+Period of Contract 1 Year
+Address for Communication Office of Stores & Purchase, Institute
+Building (East), IIT Jodhpur, NH-65, Nagaur
+Road, Karwar, Jodhpur-342030
+Contact No. 0291-2801 108/ 0291-2801 105
+Email Address for Correspondence sps@iitj.ac.in
+SCHEDULE
+
+Indian Institute of Technology Jodhpur (hereinafter referred to as the “Institute”), an Educational 
+Institute of National Importance, invites online Bids in two-bid format for “Empanelment of IP Law 
+Firms” at the Institute as per the scope provided. All offers should be made in English and should be 
+written in both figures and words. Tender forms can be downloaded from the CPP Portal 
+(http://eprocure.gov.in/eprocure/app) 
+& 
+Institute 
+website
+http://www.iitj.ac.in/tenders/index.php?id=equipment. The bidders are requested to read the tender 
+document carefully and ensure compliance with all specifications/instructions herein. Non-compliance 
+with specifications/instructions in this document may disqualify the bidders from the tender exercise. 
+The Director, IIT Jodhpur reserves the right to select the item (in single or multiple units) or to reject 
+any quotation wholly or partly. Incomplete tenders, amendments and additions to tender after opening 
+or late tenders are liable to be ignored and rejected. 
+ 
+1. INSTRUCTIONS FOR ONLINE BID SUBMISSION:
+1.1. 
+There are various search options built in the CPP Portal, to facilitate bidders to search active 
+tenders by several parameters. These parameters could include Tender ID, organization name, 
+location, date, value, etc. There is also an option of advanced search for tenders, wherein the 
+bidders may combine a number of search parameters such as organization name, form of contract, 
+location, date, other keywords etc. to search for a tender publishing on the CPP Portal.
+1.2. 
+Bidder should take into account any corrigendum published on the tender document before 
+submitting their bids.
+1.3. 
+Bidder will go through the tender advertisement and the tender document carefully to understand 
+the documents required to be submitted as part of the bid. Please note the number of covers in 
+which the bid documents have to be submitted, the number of documents – including the names 
+and content of each of the document that need to be submitted. Any deviations from these may 
+lead to rejection of the bid.
+1.4. 
+The tenders will be received online through portal http://eprocure.gov.in/eprocure/app. In the 
+Technical Bids, the bidders are required to upload all the documents in .pdf format. All bids both 
+Technical and Financial should be submitted in the e-Procurement portal.
+1.5. 
+Possession of a Valid Class II/III Digital Signature Certificate (DSC) in the form of smart card/e-
+token in the company's name is a prerequisite for registration and participating in the bid 
+submission activities through http://eprocure.gov.in/eprocure/app. Digital Signature Certificates 
+can be obtained from the authorized certifying agencies, details of which are available in the web 
+site https://eprocure.gov.in/eprocure/app under the link “Information about DSC”.
+1.6. 
+The Institute will not be responsible for any type of technical issue regarding uploading of Tender 
+on website.
+2. SEARCHING FOR TENDER DOCUMENTS
+2.1. 
+Once the bidders have selected the tenders they are interested in, they may download the required 
+documents / tender schedules. These tenders can be moved to the respective ‘My Tenders’ folder. 
+This would enable the CPP Portal to intimate the bidders through SMS / e-mail in case there is 
+any corrigendum issued to the tender document.
+2.2. 
+The bidder should make a note of the unique Tender ID assigned to each tender, in case they want 
+to obtain any clarification / help from the Helpdesk.
+
+3. PREPARATION OF BIDS
+3.1. 
+Bidder, in advance, should get ready the bid documents to be submitted as indicated in the tender 
+document / schedule and generally, they can be in PDF / XLS formats. Bid documents may be 
+scanned with 100 dpi with black and white option.
+3.2. 
+To avoid the time and effort required in uploading the same set of standard documents which are 
+required to be submitted as a part of every bid, a provision of uploading such standard documents 
+(e.g. PAN card copy, annual reports, auditor certificates etc.) has been provided to the bidders. 
+Bidders can use “My Space” are available to them to upload such documents. These documents 
+may be directly submitted from the “My Space” area while submitting a bid, and need not be 
+uploaded again and again. This will lead to a reduction in the time required for bid submission 
+process.
+4. Earnest Money Deposit (EMD):
+The bidder will upload the Scanned copy of receipt of deposition of Earnest Money Deposit 
+(EMD) of Rs. 4,00,000.00/- (Rupees Four Lakhs only) in favour of The Director, I.I.T. Jodhpur 
+in the form of Bank Guarantee, Fixed Deposit or Demand Draft of a scheduled bank in the name 
+of Director, IIT Jodhpur valid for 90 days from the date of opening of the tender. For online 
+payment of EMD, please follow/ click the link https://oa.iitj.ac.in/ePay . The EMD will be 
+Refundable without interest. Bids without EMD shall not be considered. The bidder will upload 
+scanned copy of the receipt of deposition of Earnest Money & will also submit an undertaking 
+for submission of original EMD on firm’s letter head duly sealed & signed by the authorized 
+person of the firm. However, in addition to the above as per Rule 170 of GFR--- “Micro and 
+Small Enterprises (MSEs) as defined in MSE Procurement Policy (as amended form time to time) 
+issued by Department of Micro, Small and Medium Enterprises (MSME)” are exempt from 
+submission of EMD (Bid security), but the firm has to submit valid MSME registration documents 
+for exemption in EMD
+5. Performance Bank Guarantee:
+The successful bidder shall be required to deposit a Performance Security Deposit of Rs 
+10,00,000/- (Ten Lakhs Only) in the form of Bank Guarantee from any Scheduled Commercial 
+Bank drawn in favour of “The Director, IIT Jodhpur” covering the period of contract and 60 days 
+beyond the contract period. In case, the contract is further extended the Bank Guarantee will 
+have to be accordingly extended/renewed by the successful vendor. All incidental charges 
+whatsoever such as premium, commission etc. with respect to the Bank Guarantee shall be borne 
+by the successful bidder. Non deposit of Bank Guarantee within the stipulated time shall render 
+the contract invalid at the discretion of IIT Jodhpur.
+6. Requirement of Registration
+I. 
+Any bidder from a country which shares a land border with India will be eligible to bid 
+in this tender only if the bidder is registered with the Competent Authority.
+II. 
+“Bidder” (including the term ‘tenderer’, ‘consultant’ or ‘service provider’ in certain 
+contexts) means any person or firm or company, including any member of a consortium 
+or joint venture (that is an association of several persons, or firms or companies), every
+
+artificial juridical person not falling in any of the descriptions of bidders stated 
+hereinbefore, including any agency branch or office controlled by such person, 
+participating in a procurement process.
+III. 
+“Bidder from a country which shares land border with India” for the purpose of this Order 
+means: -
+a. An entity incorporated, established or registered in such a country; or
+b. A subsidiary of an entity incorporated, established or registered in such a country; or
+c. An entity substantially controlled through entities incorporated, established or
+registered in such a country; or
+d. An entity whose beneficial owner is situated in such a country; or
+e. An Indian (or other) agent of such a country; or
+f. Natural person who is a citizen of such a country; or
+g. A consortium or joint venture where any member of the consortium or joint venture
+falls under any of the above.
+IV. 
+The beneficial owner for the purpose of (iii) above will be as under:
+1. In case of a company or Limited Liability Partnership, the beneficial owner is the
+natural person(s), who, whether acting alone or together, or through one or more 
+juridical person, has a controlling ownership interest or who exercises control 
+through other means.
+a. “Controlling ownership interest” means ownership of or entitlement to more that
+twenty-five percent of shares or capital or profits of the company;
+b. “Control” shall include the right to appoint majority of the directors or to control
+the management or policy decisions including by virtue of their shareholding or 
+management rights or shareholders agreements or voting agreements;
+2. In case of partnership firm, the beneficial owner is the natural person(s) who, whether
+acting alone or together, or through one or more juridical person, has ownership of 
+entitlement to more than fifteen percent of capital or profits of the partnership;
+3. In case of an unincorporated association or body of individuals, the beneficial owner
+is the natural person(s), who, whether acting alone or together, or through one or 
+more juridical person, has ownership of or entitlement to more than fifteen percent 
+of the property or capital or profits of such association or body of individuals;
+4. Where no natural person is identified under (1) or (2) or (3) above, the beneficial
+owner is the relevant natural person who holds the position of senior managing 
+official;
+5. In case of a trust, the identification of beneficial owner(s) shall include identification
+of the author of the trust, the trustee, the beneficiaries with fifteen percent or more 
+interest in the trust and any other natural person exercising ultimate effective control 
+over the trust through a chain of control or ownership.
+
+V. 
+An agent is a person employed to do any act for another, or to represent another in 
+dealings with third person.
+Certificate for Tenders
+“I have read the clause regarding restrictions on procurement from a bidder of a country which shares a 
+land border with India; I certify that this bidder is not from such country or, if from such a country, has 
+been registered with the Competent Authority. I hereby certify that this bidder fulfils all requirements in 
+this regard and is eligible to be considered.”
+7. Scope of Work:
+1. Assessment, preparation, drafting, filing, submission, prosecution, opposition, and maintenance
+of Indian patent applications and granted patents.
+2. Assessment, preparation, submission, drafting, filing, prosecution, opposition, and maintenance
+of international patent applications and granted patents.
+3. Obtaining registration and ensuring maintenance of copyrights, industrial designs, trademarks,
+and semiconductor integrated circuit layout designs.
+4. Managing IP infringement matters. 
+5. Securing approvals under the National Biodiversity Act or any other applicable legal provisions.
+1. The empanelment will be for a duration of initially one year and extendable upto additional three
+years based on satisfactory performance.
+The tender comprises two sections: the Technical Bid and the Financial Bid. Both bids must be submitted 
+simultaneously but in separate e-envelopes.
+1. Envelope 1 should include:
+a. Technical specifications as outlined in Annexure-I. 
+b. All required documents, declarations, and information specified in annexure I in
+annexure II.
+2. Envelope 2 should include:
+a. The Financial Bid in the prescribed BOQ_XXXX.xls format.
+
+Note: The Financial Bid must not be submitted or uploaded along with the Technical Bid or any 
+technical documents. It should be submitted exclusively as the Price Bid (Envelope-2) in the 
+specified Excel format. Non-compliance with this requirement will result in the rejection of the 
+bid.
+10. Evaluation Process:
+1. The Technical Bid consists of two sections: Prequalification Criteria and Technical Capability
+(as per Annexure I).
+2. The Tenderer must fulfill all prequalification criteria, while technical capability will be evaluated
+and scored.
+3. Technical parameters will be assessed as per the criteria outlined in Annexure I. 
+4. If a Tenderer fails to meet the minimum requirement for any technical parameter, the score for
+that parameter will be zero.
+5. Only Tenderers scoring more than 60 marks in the Technical Bid will qualify for the Financial
+6. In the Financial Bid, quotes must be provided for all activity heads; no field should be left blank. 
+7. Charges 
+quoted 
+in 
+the 
+Financial 
+Bid 
+will 
+be 
+scored 
+using 
+the 
+formula:
+Total Charges (₹) = (Indian Patents × 0.4) + (Foreign Patents × 0.3) + (Design × 0.1) + 
+(Copyright × 0.1) + (Trademark × 0.1)
+8. The Top 10 Tenderers will be selected for empanelment based on the lowest total charges, ranked
+as L1, L2, … L10. Parameters with percentage-based quotes will not be included in the scoring 
+formula.
+1. The Firm must be registered in India. 
+2. The Firm must possess a valid PAN and GST number (RCM). 
+3. The Firm must have an annual turnover of at least INR 5 Crore per year and have not incurred
+any loss in the last three financial years.
+4. At the time of the bid submission, the Firm should have been associated with at least 25 clients
+for the past three years.
+5. The Firm must have at least 10 years of experience in IPR as an Indian entity at the time of bid
+6. The Firm must have filed at least 300 patent applications in India in the last five years. 
+7. The Firm must have filed at least 30 foreign patent applications in the last five years. 
+8. The Firm must have at least five patent agents on regular payroll. Details include appointment
+letters/associate agreements and their Patent Agent Registration Numbers.
+
+9. The Firm must not be blacklisted by any Central/State Government, Public Sector Undertaking,
+or Government of India.
+10. The Firm must not be involved in any major litigation that could impact or compromise service
+11. The Firm must be directly active or have an association in foreign countries at the time of bid
+
+FIRM DETAILS YES/NO DOCUMENTS REQUIRED
+1 Is the firm legally registered in India? Company Incorporation Certificate
+& Office Address Proof.
+(Document(s) to be attached in
+Annexure-II)
+2 Whether the firm has a valid PAN
+and GST number? GST certificate and PAN card
+copy
+(Document(s) to be attached in
+Annexure-II)
+3 Whether the firm has a valid
+PAN and GST number? To be provided along with the
+audited balance sheet and profit &
+loss statements for the last three
+years, duly attested and notarized.
+(Document(s) to be attached in
+Annexure-II)
+4 Whether the firm has been
+associated with at least 25
+clients over the past three years
+at the time of bid submission? List of clients with their point of
+contact
+(Document(s) to be attached in
+Annexure-II)
+Annexure I
+TECHNICAL SPECIFICATION
+
+5 Whether the firm has a minimum of
+ten years of experience in IPR as an
+Indian entity at the time of bid
+submission? Self-declaration on the
+company’s letterhead.
+(Document(s) to be attached in
+Annexure-II)
+6 Has the firm filed 300 patent
+applications in India over the last five
+years? Copy of Power of Attorneys as
+evidence.
+(Document(s) to be attached in
+Annexure-II)
+7 Has the firm filed at least 30 foreign
+patent applications in the last five
+years? Copy of Power of Attorneys as
+evidence.
+(Document(s) to be attached in
+Annexure-II)
+8 Has the firm appointed at least five
+patent agents on a regular payroll
+basis? Copy of appointment letters.
+(Document(s) to be attached in
+Annexure-II)
+9 Has the firm been blacklisted or de
+barred by any Central or State
+Government, Public Sector
+Undertaking, or the Government of
+India? Self-declaration on the firm’s
+letterhead.
+(Document(s) to be attached in
+Annexure-II)
+10 Has the firm been involved in any
+major litigation that could impact or
+compromise the delivery of services? Self-declaration on the firm’s
+letterhead.
+(Document(s) to be attached in
+Annexure-II)
+11 Is the firm directly active or
+associated in any foreign countries at
+the time of bid submission? Relevant supporting
+document.
+(Document(s) to be attached in
+Annexure-II)
+
+Technical Capability Marks
+for scoring Numbers to be provided in this
+column and details to be
+provided as
+Annexure II.
+12 Previous Experience with
+Organizations
+The Firm/Attorney must have
+ongoing working experience with
+institutions such as IITs, IISERs, or
+IISC, handling all types of IP,
+including Patents, Designs,
+Copyrights, Trademarks, and Service
+Marks. Additionally, the
+Firm/Attorney should have expertise
+in filing and prosecuting patent
+applications in countries outside India
+(e.g., USA/PCT).
+(A minimum empanelment with at
+least one IIT or IISER, or IISC
+presently will be considered.)
+Maximum Marks: 10 1-2: 6 Marks
+3-4: 8 Marks
+5-6: 10 Marks Empanelment documents are to be
+provided as evidence.
+(Document(s) to be attached in
+Annexure-II)
+13 Number of Employees/Associates on
+Payroll
+(A minimum of 20 employees enrolled
+continuously for a period of ≥ 1 year
+will be considered) 20-30: 4 Marks
+31-40: 6 Marks
+>40: 8 Marks No. =
+List of employees (maximum 41).
+(Document(s) to be attached in
+
+Maximum Marks: 8 Annexure-II)
+14 Number of IP Professionals Handling
+IP Applications
+Must include experts across various
+branches of science and engineering,
+specifically in biology, chemistry,
+biotechnology, electrical and
+electronics, civil, mechanical, IT, and
+computer sciences.
+(A minimum of 15 IP professionals
+will be considered.)
+Maximum Marks: 8 15-20: 4 Marks
+21-25: 6 Marks
+>25: 8 Marks No. =
+List of IP professionals (maximum
+26).
+(Document(s) to be attached in
+Annexure-II)
+15 Number of Patent Agents on Payroll
+(A minimum of 5 Patent Agents on
+payroll continuously for a period of
+≥ 1 year will be considered.)
+Maximum Marks: 1 5-8: 6 Marks
+9-11: 8 Marks
+>11: 10 Marks No. =
+List of patent agents (maximum
+12).
+(Document(s) to be attached in
+Annexure-II)
+
+16 Number of Indian Patent
+Applications Filed
+Must have filed Indian patent
+applications within the last three
+years from the publication date of the
+Tender.
+(A minimum of 300 patent
+applications will be considered.)
+Maximum Marks: 8 300-350:4 Marks
+351-400:6 Marks
+>400:8 Marks No. =
+List of cases (maximum 401).
+(Document(s) to be attached in
+Annexure-II)
+17 Number of Indian Patents Granted
+Must have received Indian patent
+grants within the last three years from
+the publication date of the Tender.
+(A minimum of 300 granted patents
+will be considered. Applications
+taken over by the firm, wherein
+complete application drafting and
+filing is made by other firm/attorney
+shall not be included.)
+Maximum Marks: 8 300-350:4 Marks
+351-400:6 Marks
+>400: 8 Marks No. =
+List of cases (maximum 401 ).
+(Document(s) to be attached in
+Annexure-II)
+18 No. of professionals on the
+payroll for filing copyrights,
+trademarks, design, and other
+forms of IP (other than patent
+agents)
+(Minimum 4 professionals on
+payrolls for a continuous period
+of ≥ 1 year will be considered)
+Maximum Marks – 8 4-6: 3 Marks
+7-8: 5 Marks
+>8: 8 Marks No. =
+List of professionals (maximum 9).
+(Document(s) to be attached in
+Annexure-II)
+
+19 No. of applications (other IPs
+apart from patent applications
+i.e. copyright, Design,
+trademarks) filed in the last
+three years from the publication
+date of the Tender.
+(Minimum 200 applications will
+be considered)
+Maximum Marks – 8 200-250: 4
+Marks
+251-300: 6
+Marks
+>300: 8 Marks No. =
+List of cases (maximum 301).
+(Document(s) to be attached in
+Annexure-II)
+20 No. of foreign countries wherein
+the firm is operational or has
+association with?
+(Minimum 5 countries of
+operation/ association will be
+considered) Maximum Marks – 8 5-10: 4 Marks
+11-15: 6 Marks
+>15: 8 Marks No. =
+List of foreign IP firms/ partners
+and countries of operation/
+association.
+(Document(s) to be attached in
+Annexure-II)
+21 No. of Foreign patent applications
+filed in the last three years from the
+publication date of the Tender in
+different countries FOR INDIAN
+CLIENTS)
+(Minimum 30 foreign
+patent applications will be
+considered) Maximum Marks – 8 30-50: 4 Marks
+51-100: 6 Marks
+>100: 8 Marks No. =
+List of Foreign patent applications
+(maximum 101).
+(Document(s) to be attached in
+Annexure-II)
+
+22 No. of Foreign patents (US and
+EP only) granted in the last three
+years from the publication date
+of the Tender.
+(Minimum 30 foreign
+granted patents will be
+considered) Maximum Marks –
+8 30-60: 4 Marks
+61-70: 6 Marks
+>70: 8 Marks No. =
+List of foreign patents (maximum
+71).
+(Document(s) to be attached in
+Annexure-II)
+23 No. of PCT applications filed in
+the last three years from the
+publication date of the Tender.
+(Minimum 30 PCT applications
+will be considered)
+Maximum Marks - 8 30-40: 4 Marks
+41-50: 6 Marks
+>50: 8 Marks No. =
+List of PCT applications
+(maximum 51).
+(Document(s) to be attached in
+Annexure-II)
+I have attached all relevant supporting documents (As annexure II) for my claims.
+
+S.
+No. Activity *Charges
+1 Brief IP report
+2 Prior Art Search and Patentability Assessment
+3 Drafting and filing of provisional specification
+4 Drafting and filing of complete specification
+5 Drafting and filing complete specification after provisional
+6 Drafting and filing a Patent of addition
+7 Drafting and filing a Divisional patent
+8 Preparation and filing of PCT application
+9 Drafting and Filing response to search report and written
+opinion of the ISA
+10 Filing a Demand for International Preliminary Examination to
+International Preliminary Examining Authority for carrying out
+an additional patentability analysis, usually on amended
+application (after amending your invention in light of the search
+report and written opinion of the ISA)
+Scope of Work and Charges
+(To be filled by the bidders and sent in a separate sealed envelope for financial bid evaluation)
+Patent
+
+11 Submission of Form-3 after every update in status of
+PCT/corresponding foreign applications (Convention and
+National phase)
+12 Preparation and filing of Form 4
+13 Preparation and filing of Form 8
+14 Preparation and filing of Form 9
+15 Preparation and filing of Form 13
+16 Filing of Request for Expedite Examination (Form 18A)
+17 Preparation and filing of Working Statement (Form 27)
+18 Preparation and filing of other forms
+19 Preparation and filing of Form III for submission to National
+Biodiversity Authority
+20 Preparation and filing of response to First Examination Report
+21 Filing petition u/r 138 or 137 or 46
+22 Processing the taking over of an application
+23 Attending a Hearing, preparing and filing written submissions
+24 Obtaining a certified copy of priority document from IPO for
+PCT application or Convention application
+25 Processing of renewal fee (Annuity Payment)
+26 Preparation and filing of Form 28
+
+27 Procuring & forwarding patent certificate from Indian Patent
+Office
+28 Drafting, filing and attending hearing in Pre-grant opposition
+29 Drafting, filing and attending hearing in Post-grant opposition
+30 Preparing and filing NBA application including all the follow
+ups
+31 Drafting and filing of Patent Assignment along with Form-6 /
+Form-16 as required
+32 Drafting and filing of foreign provisional specification
+33 Drafting and filing of foreign complete specification
+34 Preparation and filing of foreign filing license (Form-25)
+35 Response to office action for foreign application (Prosecution:
+Final or Non-final)
+36 Payment of issue fee in US after notice of allowance from
+USPTO
+37 Procuring & forwarding certified copy of Priority application
+from USPTO
+38 Reporting grant of foreign patent with patent certificate
+39 Payment of annuity for foreign patent
+40 Filing a Form-16 to update the patent register in case of
+Licensing out a granted Indian patent
+41 Filing request for Withdrawal of Application from IPO
+
+42 Filing a request for post-dating
+43 Filing application for Restoration of a patent under section 60
+44 Freedom to Operate (FTO) Analysis
+45 Patent Landscaping
+46 Valuation of Technology
+S.
+No. Activity *Charges
+1 Preparation and filing of an application
+2 Preparation and filing of Form 4
+3 Preparation and filing of response to FER/office action
+4 Attending hearing & filing written submission in design matter
+5 Procuring & forwarding registration certificate
+6 Filing of petition u/r 46
+Design
+
+S.
+No. Activity *Charges
+1 Preparation and filing a new application
+2 Drafting and filing of an affidavit
+3 Preparation and submission of response to examination report
+4 Attending hearing & filing written submission
+5 Pursuing the application at the Indian Trademark registry and
+forwarding copy of the advertisement
+6 Procuring & forwarding registration certificate
+7 Filing a Trademark Opposition
+8 Filing a Response to Trademarks Opposition
+9 Renewal of a registered Trademark
+S.
+No. Activity *Charges
+1 Preparation and filing of an application
+Trademark
+Copyright
+
+2 Preparation and filing of copyright application for software
+3 Drafting, filing and submission of response to Examination Report
+4 Procuring & forwarding registration certificate
+12. Indemnity: The vendor shall indemnify, protect and save IIT JODHPUR against all claims, losses,
+costs, damages, expenses, action suits and other proceeding, resulting from infringement of any law 
+pertaining to patent, trademarks, copyrights etc. or such other statutory infringements in respect of 
+all the materials supplied by him.
+13. Code Of Integrity:
+No official of a procuring entity or a bidder shall act in contravention of the codes which includes
+(i) prohibition of
+a. making offer, solicitation or acceptance of bribe, reward or gift or any material benefit,
+either directly or indirectly, in exchange for an unfair advantage in the procurement 
+process or to otherwise influence the procurement process.
+b. any omission, or misrepresentation that may mislead or attempt to mislead so that
+financial or other benefit may be obtained or an obligation avoided.
+c. any collusion, bid rigging or anticompetitive behaviour that may impair the transparency,
+fairness and the progress of the procurement process.
+d. improper use of information provided by the procuring entity to the bidder with an intent
+to gain unfair advantage in the procurement process or for personal gain.
+e. any financial or business transactions between the bidder and any official of the procuring
+entity related to tender or execution process of contract; which can affect the decision of 
+the procuring entity directly or indirectly.
+f. any coercion or any threat to impair or harm, directly or indirectly, any party or its
+property to influence the procurement process.
+g. obstruction of any investigation or auditing of a procurement process. 
+h. making false declaration or providing false information for participation in a tender
+process or to secure a contract;
+(ii) disclosure of conflict of interest.
+
+(iii) Disclosure by the bidder of any previous transgressions made in respect of the provisions of
+(i) with any entity in any country during the last three years or of being debarred by any 
+other procuring entity.
+14. Force Majeure:
+a) The Supplier shall not be liable for forfeiture of its performance security, liquidated damages or
+termination for default, if and to the extent that, it’s delay in performance or other failure to 
+perform its obligations under the Contract is the result of an event of Force Majeure.
+b) For purposes of this Clause, "Force Majeure" means an event beyond the control of the Supplier
+and not involving the Supplier's fault or negligence and not foreseeable. Such events may 
+include, but are not limited to, acts of the Purchaser either in its sovereign or contractual capacity, 
+wars or revolutions, fires, floods, epidemics, quarantine restrictions and freight embargoes.
+c) If a Force Majeure situation arises, the Supplier shall promptly notify the Purchaser in writing
+of such conditions and the cause thereof. Unless otherwise directed by the Purchaser in writing, 
+the Supplier shall continue to perform its obligations under the Contract as far as is reasonably 
+practical, and shall seek all reasonable alternative means for performance not prevented by the 
+Force Majeure event.
+15. Arbitration and Laws:
+In case of any dispute or difference arising out of or in connection with the tender conditions / 
+order and Contract, the Institute and the Supplier will address the dispute / difference for a mutual 
+resolution and failing which, the matter shall be referred for arbitration to a sole Arbitrator to be 
+appointed by the Institute. The Arbitration shall be held in accordance with the provisions of the 
+Arbitration and Conciliation Act, 1996 and the venue of arbitration shall be at Jodhpur only. The 
+resolution of the Arbitrator shall be final and binding on both the parties. 
+ 
+In case of any ambiguity / dispute in the interpretation of any of the clauses in this Tender 
+Document, Director, IIT JODHPUR’s interpretation of the clauses shall be final and binding 
+on all parties 
+ 
+ 
+ 
+16. Jurisdiction:
+The courts at Jodhpur alone will have the jurisdiction to try any matter, dispute or reference 
+between parties arising out of this tender / contract. It is specifically agreed that no court outside 
+and other than Jodhpur court shall have jurisdiction in the matter.

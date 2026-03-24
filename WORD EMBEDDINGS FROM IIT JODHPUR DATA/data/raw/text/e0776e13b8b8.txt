@@ -1,0 +1,5 @@
+SOURCE_URL: https://ir.iitj.ac.in/forgot
+
+Forgot Password Enter the email address associated with the account.
+Forgot Password Enter the email address associated with the account.
+Enter the email address associated with the account.

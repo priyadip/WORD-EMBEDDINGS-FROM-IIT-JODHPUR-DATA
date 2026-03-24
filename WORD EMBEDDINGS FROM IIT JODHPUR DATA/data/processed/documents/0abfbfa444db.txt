@@ -1,0 +1,23 @@
+electronic circuit simulation and vlsi systems lab this lab was developed to support the fabless design activities
+it hosts various design and simulation tools related to vlsi design and tcad simulations with the aim of designing low power systems for future iot applications
+following are the summary of resources
+many of the the vlsi design tools are supported through project from ministry of information technology govt
+of india in addition to the tools supported by institute
+vlsi design and circuit simulation various vlsi design tools and fpga kits with workstations obtained under project
+workstations are hosted as part of electronic circuits simulations and systems laboratory device simulation synopsys tools for simulation of conventional as well as novel devices this lab was developed to support the fabless design activities
+workstations are hosted as part of electronic circuits simulations and systems laboratory device simulation synopsys tools for simulation of conventional as well as novel devices academic activities this lab is used for research as well as conducting lab experiments related to vlsi design to our
+in sensors and iot
+this lab is used for research as well as conducting lab experiments related to vlsi design to our
+shree prakash tiwari research interests microelectronics organic electronics microfabrication device physics and characterization email office location room no
+department of electrical engineering phone web research interests microelectronics organic electronics microfabrication device physics and characterization email office location room no
+jai narayan tripathi phd smieee designations assistant professor iit jodhpur adjunct research professor carleton university canada
+research interests vlsi circuits and systems signal integrity power integrity design of experiments metaheuristic optimization techniques email phone web designations assistant professor iit jodhpur adjunct research professor carleton university canada
+research interests vlsi circuits and systems signal integrity power integrity design of experiments metaheuristic optimization techniques phone web
+arpit khandelwal research interests fiber optics integrated optics optical sensors email office location room no
+department of electrical engineering phone web research interests fiber optics integrated optics optical sensors office location room no
+amandeep kaur indian institute of technology delhi research interests analog and circuit design data converters adc dac circuits cmos image sensors compression email office location room no
+first floor department of electrical engineering phone web specialized lab smdp lab link indian institute of technology delhi research interests analog and circuit design data converters adc dac circuits cmos image sensors compression office location room no
+first floor department of electrical engineering specialized lab smdp lab link
+harshit agarwal office location department of electrical engineering room no
+research interests industry standard compact modeling devices transistors emerging memory technologies devices devices and circuits neuromorphic computing email phone web office location department of electrical engineering room no
+research interests industry standard compact modeling devices transistors emerging memory technologies devices devices and circuits neuromorphic computing contact details room no

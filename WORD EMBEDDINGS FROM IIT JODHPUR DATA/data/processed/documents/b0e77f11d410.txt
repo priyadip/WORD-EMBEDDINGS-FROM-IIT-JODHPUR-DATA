@@ -1,0 +1,15 @@
+departmental seminar by rakesh arora on october at speaker rakesh arora title of the talk large class of nonlocal elliptic equations with singular nonlinearities date and time october about the speaker assistant professor department of mathematics abstract in this talk we address the questions of existence uniqueness and boundary behavior of the positive solution of posed in smooth bounded domain rn with homogeneous dirichlet or outer boundary conditions
+the operator belongs to general class of nonlocal operators including typical fractional laplacians restricted fractional laplacian rfl censored fractional laplacian cfl and spectral fractional laplacian sfl
+the nonlinear term covers three different amalgamations of singular nonlinearities with singular exponent in particular purely singular nonlinearity singular nonlinearity with source term and singular nonlinearity with an absorption term
+based on precise analysis of the green kernel we developed new unifying approach that empowered us to construct theory for nonlocal elliptic equations involving singular nonlinearities
+in particular we show the existence of critical singular exponents and which provides fairly complete classification of nonlocal elliptic equations with singular nonlinearities via subtle boundary behavior of the solution
+various types of nonlocal operators are discussed to exemplify the wide applicability of our theory
+this is joint work with
+vicent adulescu faculty of applied mathematics agh university of science and technology krakow poland
+department of mathematics university of craiova craiova romania
+simion stoilow institute of mathematics of the romanian academy calea grivitei street bucharest romania
+nguyen department of mathematics and statistics masaryk university brno czech republic speaker rakesh arora title of the talk large class of nonlocal elliptic equations with singular nonlinearities date and time october about the speaker assistant professor department of mathematics abstract in this talk we address the questions of existence uniqueness and boundary behavior of the positive solution of posed in smooth bounded domain rn with homogeneous dirichlet or outer boundary conditions
+nguyen department of mathematics and statistics masaryk university brno czech republic important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

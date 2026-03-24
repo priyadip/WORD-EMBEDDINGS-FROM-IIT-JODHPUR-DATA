@@ -1,0 +1,529 @@
+SOURCE_PDF: 9a65f2ea728a_Minor_Department_Interdisciplinary_20Specialization_31082020.pdf
+
+S.N. Course Type Credits
+1 Core 8
+2 Electives 12
+Total for award of
+Minor/Interdisciplinary/Department Specialization 20
+S.N. Course Type L-T-P Credits
+1 Machine Learning 1 3-0-0 3
+2 Artificial Intelligence 2# 3-0-0 3
+3 Real-time Autonomous Systems 2-0-0 2
+S.N. Course Type L-T-P Credits
+1 Machine Learning II 3-0-0 3
+2 Algorithms for Big Data 2-0-0 2
+3 Computer Vision 3-0-0 3
+4 Stream Analytics 3-0-0 3
+5 Machine Learning with Big Data 3-0-0 3
+6 Digital Image Analysis 3-0-0 3
+7 Edge and Fog Computing 3-0-0 3
+8 Natural Language Processing 3-0-0 3
+9 GPU Programming 3-0-0 3
+10 Data Visualization 3-0-0 3
+11 Introduction to Augmented
+Reality and Virtual Reality 3-0-0 3
+12 Dependable AI 3-0-0 3
+13 Resource Constrained AI 3-0-0 3
+14 Special Topics in Artificial
+Intelligence - I 3-0-0 3
+15 Special Topics in Artificial
+Intelligence - II 3-0-0 3
+16 Special Topics in Artificial
+Intelligence - III 3-0-0 3
+17 Graph Theory and Applications 3-0-0 3
+18 Social Network Analysis 3-0-0 3
+19 Computational Optimization 3-0-0 3
+20 Computer Graphics 3-0-0 3
+21 Advanced Computer Graphics 3-0-0 3
+22 Neuromorphic Computing and
+Design 3-0-0 3
+23 Bio-image Computing 3-0-0 3
+24 Project 0-0-12 6
+5 Minor/Department/Interdisciplinary Specialization for
+batches undergoing transition plan
+Note: Project credit should be less than or equal to 6 out of 12 elective credits except for
+Engineering Innovation and Entrepreneurship
+5.1 Artificial Intelligence (CS/EE/ME/BB) 
+A. Core Courses
+Note: #ME, EE and BB students will take Artificial Intelligence 1 as a compulsory course and 
+Artificial Intelligence 2 as an elective course. 
+ 
+B. Elective Courses
+
+S.N. Course Type L-T-P Credits
+1 Digital VLSI Design 3-0-0 3
+2 Analog and Interfacing Circuits 3-0-0 3
+3 Integrated Circuits Design Lab 1-0-2 2
+S.N. Course Type L-T-P Credits
+1 Flexible and Printed Electronics 3-0-0 3
+2 RF IC Design 3-0-0 3
+3 Active Filter Design 3-0-0 3
+4 Image Sensor Design and
+Applications 3-0-0 3
+5 Physics of Transistors 3-0-0 3
+6 IC Technology 3-0-0 3
+7 Neuromorphic Computing and
+Design 3-0-0 3
+8 Project 6
+S.N. Course Type L-T-P Credits
+1 Introduction to Internet of Things 1-0-0 1
+2 Sensors and Measurement 3-0-0 3
+3 Data communication and
+Networking 3-0-0 3
+4 Sensors and IoT Lab 1-0-0 1
+S.N. Course Type L-T-P Credits
+1 Digital and Systems-on-Chip
+Design 3-0-0 3
+2 Active Filter Design 3-0-0 3
+3 Embedded Systems Design 3-0-0 3
+4 Image Sensor Design and
+Applications 3-0-0 3
+5 Antenna Engineering 3-0-0 3
+6 Wireless Communication 3-0-0 3
+7 Advanced Digital Signal
+Processing 3-0-0 3
+8 Analog and Interfacing Circuits 3-0-0 3
+9 Machine Learning - I 3-0-0 3
+10 Fog and Edge Computing 3-0-0 3
+11 Resource Constrained AI 3-0-0 3
+12 Project 6
+5.2 VLSI (CS/EE)
+A. Core Courses
+B. Elective Courses
+5.3 Internet of Things (CS/EE)
+A. Core Courses
+B. Elective Courses
+
+S.N. Course Type L-T-P Credits
+1 Introduction to Cyber physical
+Systems 3-0-0 3
+2 Embedded System Design 3-0-0 3
+3 Embedded System Design
+Laboratory 0-0-2 1
+4 Introduction to Modelling (Fractal
+offered by Dept. Of Mathematics) 1-0-0 1
+S.N. Course Type L-T-P Credits
+1 Computer Vision 3-0-0 3
+2 Advanced Digital Signal
+Processing 3-0-0 3
+3 Vehicular Ad-Hoc
+Networks(VANETs) 3-0-0 3
+4 Edge & Fog Computing 3-0-0 3
+5 Robotics : Fractal 1 Robot
+Modelling 1-0-2 2
+6 Robotics : Fractal 2 Control 1-0-0 1
+7 Robotics : Fractal 3 Motion
+Planning and Programming 1-0-0 1
+8 Machine Learning I 3-0-0 3
+9 Digital and Systems-on-Chips
+Design 3-0-0 3
+10 Introduction to Virtual Reality 3-0-0 3
+11 Smart Grid 3-0-0 3
+12 Adaptive Signal processing 3-0-0 3
+13 Computer Architecture 3-0-0 3
+14 Digital Twin 3-0-0 3
+15 Advanced Control System 3-0-0 3
+16 Security of CPS 2-0-0 2
+17 Machine Learning II 3-0-0 3
+18 Artificial Intelligence I 3-0-0 3
+19 Artificial Intelligence II 3-0-0 3
+20 Smart Manufacturing 1-0-2 2
+21 Resource Constrained AI 3-0-0 3
+22 Machine Learning II 3-0-0 3
+23 Industry 4.0 Applications in
+Manufacturing Systems 1-0-0 1
+24 Optimization 1-0-0 1
+S.N. Course Type L-T-P Credits
+1 Estimation Theory 1-0-0 1
+2 Multiple Parameter Estimation 1-0-0 1
+3 Wireless Communications 3-0-0 3
+4 Data Communication and
+Networking 3-0-0 3
+5.4 Cyber Physical Systems (CS/EE/ME/BB)
+A. Core Courses
+B. Elective Courses
+5.5 Communications and Signal Processing (EE)
+A. Compulsory Courses
+
+S.N. Course Type L-T-P Credits
+1 Advanced Digital Signal
+Processing 3-0-0 3
+2 MIMO Wireless Communications 3-0-0 3
+3 Antenna Engineering 3-0-0 3
+4 Network Information Theory 3-0-0 3
+5 Statistical Decision Theory 2-0-0 2
+6 Multi-rate Digital Signal
+Processing 2-0-0 2
+7 Digital Image Processing and
+Applications 3-0-0 3
+8 Digital Video Processing 3-0-0 3
+9 RF IC Design 3-0-0 3
+10 Adaptive Signal Processing 3-0-0 3
+11 Optical Fiber Communications 3-0-0 3
+12 Image sensor Design and
+Application 3-0-0 3
+13 Applied Optimization for Wireless
+Communication 3-0-0 3
+14 Machine Learning for
+Communications 3-0-0 3
+15 Machine Learning 1 3-0-0 3
+16 Physical Layer Security 3-0-0 3
+17 Compressive Sensing 3-0-0 3
+18 Bio-Image Computing 3-0-0 3
+19 Selected Topics in Signal
+Processing I 1-0-0 1
+20 Selected Topics in Signal
+Processing II 2-0-0 2
+21 Selected Topics in Signal
+Processing III 3-0-0 3
+22 Multimedia Communications 3-0-0 3
+23 Free Space Optical
+Communications 3-0-0 3
+24 GNSS Signal Processing 3-0-0 3
+25 Backhaul Networks for Wireless
+Systems 3-0-0 3
+26 Selected Topics in Communication
+I 1-0-0 1
+27 Selected Topics in Communication
+II 2-0-0 2
+28 Selected Topics in Communication
+III 3-0-0 3
+29 Neuromorphic computing and
+design 3-0-0 3
+30 Machine Learning 2 3-0-0 3
+31 Real Time Communications 3-0-0 3
+32 Millimeter Wave Technology 3-0-0 3
+33 Digital Image and Video
+Processing Lab 1-0-2 2
+34 RF IC Design Lab 1-0-2 2
+35 Network Information Theory 3-0-0 3
+36 Wavelets 3-0-0 3
+37 Computational Imaging 3-0-0 3
+38 Speech and Audio Processing 3-0-0 3
+39 Data Compression 3-0-0 3
+40 Machine Learning for
+Communication Lab 1-0-2 2
+B. Elective Courses
+
+S.N. Course Type L-T-P Credits
+1 EE: Introduction to Sensors (Fractal
+Course) 1-0-0 1
+2 MEL7XX0: Geometric Modeling & CAD 2-0-2 3
+3 MA: Optimization (Fractal course) 1-0-0 1
+4 MEL7XX0: Advanced Mechanics of Solids 3-0-0 3
+S.N. Course Type L-T-P Credits
+1 MEL7XX0: Robotic 3-0-2 4
+2 MEL7XX0: Theory of Vibrations 3-0-0 3
+3 MEL7XX0: Mechanical Vibrations 3-0-0 3
+4 MEL7XX0: Helicopter Dynamics 3-0-0 3
+5 MEL7XX0: Modeling and Control of
+Mechanical Systems 3-0-0 3
+6 MEL7XX0: Multibody Dynamics 3-0-0 3
+7 MEL7XX0: Finite Element Methods in
+Engineering 3-0-0 3
+8 MEL7XX0: Rotor Dynamics 3-0-0 3
+9 AVL7XX0: Autonomous Mobile Robots 3-0-2 4
+10 BBXXX: Biomechanics 3-0-0 3
+11 MEL7XX0: MEMS and Microsystems
+Technology 3-0-2 4
+12 MEL7XX0: Applied Ergonomics 3-0-0 3
+13 MEL7XX0: Mechatronic Systems Design 3-0-0 3
+14 MEL7XX0: Additive Manufacturing 3-0-0 3
+15 MEL7XX0: Design for X 3-0-0 3
+16 MEL7XX0: Computer Aided Inspection
+and Quality Control 3-0-0 3
+17 MEL7XX0: Microfluidics Technology 3-0-0 3
+18 BBXXX: Medical Devices and Implants 3-0-0 3
+19 MTXXX: Light Metals and Alloys 3-0-0 3
+20 MTXXX: Corrosion Engineering 3-0-0 3
+21 MAXXX: Statistics I 1-0-0 3
+22 MAXXX: Statistics II 2-0-0 3
+23 MAXXX: Reliability Theory 3-0-0 3
+24 CSXXX: Artificial Intelligence I 3-0-0 3
+25 CSXXX: Machine Learning I 3-0-0 3
+26 MEL7XX0: Probabilistic Methods in
+Engineering Design 3-0-0 3
+27 PHL7XX0: Energy Harvesting
+Technologies 3-0-0 3
+S.N. Course Type L-T-P Credits
+1 EE: Introduction to Sensors (Fractal
+Course) 1-0-0 1
+2 CS: Introduction to Machine Learning
+(Fractal course) 1-0-0 1
+3 MEP7XX0: Smart Manufacturing 1-0-2 2
+4 MEL7XX0: Materials & Manufacturing
+Processes 2-0-1 3
+5.6 Design (ME)
+A. Core Courses
+B. Elective Courses
+5.7 Smart Manufacturing (ME)
+A. Core Courses
+
+5 MEL7XX0: Industry 4.0 Applications in
+Manufacturing Systems 1-0-0 1
+S.N. Course Type L-T-P Credits
+1 MEL7XX0: Geometric Modeling & CAD 2-0-1 3
+2 MA: Optimization (Fractal course) 1-0-0 1
+3 MEL7XX0: Robotic 3-0-2 4
+4 MEL7XX0: Computer Aided
+Manufacturing 3-0-2 4
+5 MEL7XX0: Mechanical Metallurgy 3-0-0 3
+6 MEL7XX0: Theory of Arc Welding 3-0-0 3
+7 MEL7XX0: Welding Metallurgy 3-0-0 3
+8 MEL7XX0: MEMS and Microsystems
+Technology 3-0-2 4
+9 MEL7XX0: Precision and Micro-
+Manufacturing 3-0-0 3
+10 MEL7XX0: Applied Ergonomics 3-0-0 3
+11 MEL7XX0: Mechatronic Systems Design 3-0-0 3
+12 MEL7XX0: Additive Manufacturing 3-0-0 3
+13 MEL7XX0: Design for X 3-0-0 3
+14 MEL7XX0: Computer Aided Inspection
+and Quality Control 3-0-0 3
+15 MEL7XX0: Welding: Metallurgy, Defects
+and Testing 3-0-0 3
+16 MEL7XX0: Non-Conventional Welding
+Processes 3-0-0 3
+17 MEL7XX0: Welding inspection and
+Quality Control 3-0-0 3
+18 MEL7XX0: Microfluidics Technology 3-0-0 3
+19 BBXXX: Medical Devices and Implants 3-0-0 3
+20 MTXXX: Solidification Processing 3-0-0 3
+21 MTXXX: Light Metals and Alloys 3-0-0 3
+22 MTXXX: Powder Metallurgy 3-0-0 3
+23 MTXXX: Thermo-Mechanical Processing 3-0-0 3
+24 MTXXX: Near-Net Forming 3-0-0 3
+25 MTXXX: Plastic Deformation and
+Microstructure Evaluation 3-0-0 3
+26 MTXXX: Corrosion Engineering 3-0-0 3
+27 MAXXX: Statistics I 3-0-0 3
+28 MAXXX: Statistics II 3-0-0 3
+29 MAXXX: Reliability Theory 3-0-0 3
+30 CSXXX: Artificial Intelligence I 3-0-0 3
+31 CSXXX: Machine Learning I 3-0-0 3
+32 EEXXX: Introduction to CPS 3-0-0 3
+33 MEL7XX0: Probabilistic Methods in
+Engineering Design 3-0-0 3
+34 PHL7XX0: Nanoscience and
+Nanotechnology 3-0-0 3
+35 PHL7XX0: Introduction to Material
+Characterization 3-0-0 3
+36 PHL7XX0: Physics of Solar Cells 3-0-0 3
+37 PHL7XX0: Laser Technologies 3-0-0 3
+38 PHL7XX0: Computational Materials
+Science 3-0-0 3
+39 PHL7XX0: Statistical Methods for Data
+Analysis 3-0-0 3
+40 PHL7XX0: Energy Harvesting
+Technologies 3-0-0 3
+B. Elective Courses
+
+S.N. Course Type L-T-P Credits
+1 MEL7XX0: Applied Heat and Mass
+Transfer 3-0-0 3
+2 MEL7XX0; Incompressible Fluid Flow 3-0-0 3
+3 MEL7XX1: Multi Phase Systems and
+Chemical Reactions 1-0-0 1
+4 MEL7XX2: Kinetic Theory 1-0-0 1
+S.N. Course Type L-T-P Credits
+1 MEL7XX0: Experimental Techniques in
+Thermofluids 3-0-0 3
+2 MA: Matrix Computations 1-0-0 1
+3 MA: Numerical Methods in ODE 1-0-0 1
+4 MA: Numerical Methods for PDE 1-0-0 1
+5 MEL7XX0: Conduction and Radiation 3-1-0 4
+6 MEL7XX0: Convective Heat and Mass
+Transfer 3-1-0 4
+7 MELXXX0: Combustion Technology 3-0-0 3
+8 MEL7XX0: Turbulent Flows 3-0-2 4
+9 MEL7XX0: Jet and Rocket Propulsion 3-0-0 3
+10 MEL7XX0: Computational Fluid Dynamics
+and Heat Transfer 3-1-0 4
+11 MEL7XX0: Two Phase Flow and Heat
+Transfer 3-1-0 4
+12 MEL7XX0: Design of Heat Exchange
+Equipment 3-1-0 4
+13 MEL7XX0: Compressible Fluid Flows 3-0-2 4
+14 MEL7XX0: Optical and Laser Based
+Measurements in Thermofluids 3-0-0 3
+15 MEL7XX0: Fluid dynamics and Acoustics
+of Turbulent Jets 3-0-0 3
+16 MEL7XX0: Heating, Ventilation and Air-
+Conditioning 3-0-0 3
+17 MEL7XX0: Microfluidics Technology 3-0-0 3
+18 MEL7XX0: Fluid Flow in Biological
+Processes 3-0-0 3
+19 MEL7XX0: Nanosensors 3-0-0 3
+20 MEL7XX0: Water Energy Nexus 3-0-0 3
+21 MEL7XX0: Soil and Water Conservation
+Engineering 3-0-0 3
+22 MEL7XX0: Probabilistic Methods in
+Engineering Design 3-0-2 4
+S.N. Course Type L-T-P Credits
+1 Disease, processes, diagnostics &
+therapeutics 3-0-2 4
+2 Systems Biology 3-0-2 4
+5.8 Thermofluids Engineering (ME)
+A. Core Courses
+B. Elective Courses
+5.9 Smart Healthcare (CS/EE/ME/BB)
+A. Core Courses
+
+S.N. Course Type L-T-P Credits
+1 Bioimaging 3-0-0 3
+2 Artificial Intelligence for healthcare 3-0-0 3
+3 Biosensors 3-0-0 3
+4 Multiomics technologies 3-0-0 3
+5 Biomaterials 3-0-0 3
+6 Immunotechnology 3-0-0 3
+7 Quantitative Physiology lab 0-0-2 1
+8 Statistics and Data analysis 3-0-2 4
+9 Principles of drug discovery 3-0-0 3
+10 Principles of Nuclear Magnetic 3-0-0 3
+11 Theory & Applications of Spectroscopy 3-0-0 3
+12 Project work 0-0-8 4
+S.N. Course Type L-T-P Credits
+1 Marketing Management-I 2-0-0 2
+2 Managing Human Capital 2-0-0 2
+3 Management Accounting 2-0-0 2
+4 Operations Management 2-0-0 2
+S.N. Course Type L-T-P Credits
+1 Macroeconomic Environment of
+Business 2-0-0 2
+2 Corporate Finance-I 2-0-0 2
+3 Statistics for Management 2-0-0 2
+4 Decision Sciences-I 2-0-0 2
+5 Managerial Economics 2-0-0 2
+6 Managing Digital Enterprises 2-0-0 2
+7 Legal Aspects of Business 2-0-0 2
+8 Strategy Formulation 2-0-0 2
+9 Econometrics 2-0-0 2
+10 Managing New Ventures 2-0-0 2
+11 Managing Innovation 2-0-0 2
+12 Strategy Execution 1-0-0 1
+13 Corporate Finance-II 1-0-0 1
+14 Business Research Methods 1-0-0 1
+15 Global Economy 1-0-0 1
+16 Marketing Management-II 1-0-0 1
+17 Decision Sciences-II 1-0-0 1
+B. Elective Courses
+5.10 Management (CS/EE/ME/BB)
+A. Core Courses
+B. Elective Courses
+Maximum 4 credits can be earned through workshop 
+ 
+Note:
+ 
+As this plan is only for transition, the course on Principles of Management and Economics 
+is not included here. Existing students have already done these courses as a life skill 
+course. Generally Principles of Management and Economics is a core component.
+
+S. N. Course Name L-T-P Credits
+1 Starting up New Venture 2-0-0 2
+2 Ideation & Prototyping 2-0-0 2
+3 New Venture Financing 2-0-0 2
+4 Business Plan Phase-I: Problem
+Selection, Concept Development and
+Commercial Viability Assessment
+(Ideation, Product Concept
+Development, Product Viability, Costing
+and Pricing & Market Traction) (Project-
+based course) 0-0-8 4
+5 Business Plan Phase–II: Prototype
+Development and Business Model
+Development
+(Prototype Development [Development
+of Minimum Viable Product (MVP) for
+Customer Discovery and Product-
+Market Fit], Business Model
+Development, IP strategy formulation)
+(Project-based course) 0-0-16 8
+6 IPR & Legal Issues for Startups 1-0-0 1
+7 Systems Engineering and Project
+Management 1-0-0 1
+S.N. Course Type L-T-P Credits
+1 RMXX Introduction to Robotics 3-0-0 3
+2 RMXX Autonomous Systems 3-0-0 3
+3 RMXX Experimental Robotics 0-1-2 2
+5.11 Entrepreneurship (CS/EE/ME/BB)
+A. Core Courses
+ 
+'Minor in Entrepreneurship' will be mostly project-based involving hands-on exercise in 
+the classroom and experiential learning in the lab/field. While students will earn 08 
+credits from theory courses, 12 credits can be garnered from project work spread across 
+two semesters (one-year)
+ 
+As project ideas are expected to be technology-driven, faculty members from 
+Engineering/Technology departments will contribute to developing and executing the 
+core-courses as well as business plans along with the faculty from SME. The endeavour 
+will be made to involve relevant entrepreneurs in the delivery of these courses.
+ 
+The students keen to pursue business plans that have a market potential may get the 
+opportunity to enter MTech in Entrepreneurship programme (it is yet to be planned).
+ 
+Only motivated students (or students group) will be admitted for the 'Minor in 
+Entrepreneurship' based on initial scrutiny by a committee. Interested students will have 
+to make a presentation demonstrating their interest and commitment for minor in 
+entrepreneurship.
+5.12 Robotics (CS/EE/ME/BB)
+B. Core Courses
+
+S.N. Course Type L-T-P Credits
+1 RM7XX Advanced Robotic Manipulation 3-0-0 3
+2 RM7XX Mobile Robots 3-0-0 3
+3 RM7XX Aerial Robots 2-0-2 3
+4 RM7XX Robot Operating System 3-0-0 3
+5 RM7XX Selected Topics on Robotics 3-0-0 3
+6 RM7XX Planning and Decision Making for
+Robots 3-0-0 3
+7 AI3XX Artificial Intelligence (Non AI)/
+AI4XX Advanced Artificial Intelligence
+(AI) 3-0-0 3
+8 AI3XX Deep learning (Non AI)/
+AI4XX Advanced Machine Learning (AI) 3-0-0 3
+9 AI3XX Optimization (Non AI) 3-0-0 3
+10 EE4XX Nonlinear Systems and Adaptive
+Control 3-0-0 3
+11 EE7XX Networked Dynamical Systems
+and Control 3-0-0 3
+12 EE7XX Advanced Control System 3-0-0 3
+13 CS7XX Computer Vision 3-0-0 3
+14 CS7XX Introduction to AR VR 3-0-0 3
+15 EE7XX Introduction to Haptics 3-0-0 3
+17 EE7XX Wireless Communication (CS/EE) 3-0-0 3
+18 EE7XX UAV Assisted Wireless Networks
+(CS/EE) 3-0-0 3
+19 Social Robotics 3-0-0 3
+20 SH7XX Introduction to Medical Robotics 3-0-0 3
+21 EE7XX Introduction to Cyber Physical
+Systems 3-0-0 3
+22 AI4XX Introduction to Industry 4.0 3-0-0 3
+23 ME7XX Smart Manufacturing 1-0-2 2
+24 RM6XX Robotics Project (3 to 6 Credits) 0-0-12
+(Max) 6
+(Max)
+C. Elective Courses
+1. Students should take at least total two courses from two baskets out of Robotics
+foundation, Learning and Control or Perception and Communication.
+2. Students of transition batch can take
+● 
+Artificial Intelligence 1(ME/EE/BB)/Artificial Intelligence 2 (CS) in lieu of courses 
+under Sr. No. 7.
+● 
+Machine Learning 1 in lieu of courses under Sr. No. 8.
+5.13 Engineering Innovation (CS/EE/ME/BB) 
+ 
+Department Area Specialization in Engineering Innovation is aimed at making students Industry 
+Ready by offering five months Practical Project in an Industry or R & D organization. It focuses 
+on use of technology knowledge to create products and processes which have usability value. 
+Objective of this specialisation is to recognise such creative engineering endeavour. This activity 
+is not expected to aim only publication of papers. It must happen in collaboration with IIT J faculty 
+member, and expected to have an industrial or User agency as partner. Each project carried out 
+by students will have both a company supervisor and an institute supervisor. Students get real-
+world experience working for an industry or R & D organization on a project that complements 
+their academic experience. Projects are aimed to enable them for meaningful careers and provide 
+them with an opportunity to engage with industry before graduation. 
+ 
+In Engineering Innovation as a part of the curriculum from the beginning of the 8th Semester. A 
+student would be required to complete a minimum of five months in industries or R & D 
+organization or Institute for Department Area Specialization in Engineering Innovation.

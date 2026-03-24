@@ -1,0 +1,130 @@
+SOURCE_PDF: f54a2ec23912_Course_Structure-Executive-MTech-AI.pdf
+
+1 Program Core 18 credits
+2 Program Electives 18 credits
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-graded 4 credits
+Total 62 credits
+Tentative Course Structure for
+Executive M. Tech. AI
+List of Compulsory Courses
+1.
+Bridge Course on DSA
+2.
+Optimization for Data Science (2 credit)
+3.
+Artificial Intelligence (3 credit)
+4.
+Advanced Data Structures and Algorithms (2 credit)
+5.
+Machine Learning (3 credit)
+7.
+Deep Learning (3 credit)
+9.
+Core Bucket (Advanced Artificial Intelligence / Autonomous Systems) (3 credit)
+10. Technical Communication (Non-graded) (1 credit)
+11. Ethics and Professional Life (Non-graded) (1 credit)
+12. System Engineering and Project Management (Non-graded) (1 credit)
+13. Intellectual Property (Non-graded) (1 credit)
+14. Major project (16 credit)
+List of Elective Courses
+Please refer to the list below for the elective courses which may be offered by IIT Jodhpur. A total 6
+program electives (18 credits) and 2 open electives need to be completed.
+
+Animation
+Advanced Artifciial Intelligence
+Advanced Computer Graphics
+Advanced ML
+Advanced Biometrics
+Advancements in Computer Vision
+Advanced Human-Machine Interaction
+Algorithms for Big Data
+Bio-image computing
+Bioimaging
+Blockchain
+Cryptography
+Computer Graphics
+Computer Vision
+Computational Learning Theory
+Computer Architecture
+Crowd-sourcing and Human Computing
+Data Visualization
+Dependable AI
+Digital Image Analysis
+Edge and Fog Computing
+Ethics, Policy, Law and Regulation in AI
+Embedded Systems
+GPU Programming
+Graph Theory and Applications
+Graph Theoretic Algorithms Health Informatics
+Information Retrieval
+Introduction to AR and VR
+Machine Learning with Big Data
+Medical Image Analysis
+Natural Language Processing
+Neuromorphic Computing and Design
+Principles of Biological Vision
+Autonomous Systems
+Reliability Engineering and Life Testing
+Resource Constrained Artifciial Intelligence
+Scalable Machine Learning
+Selected Topics in AI - I/II/III
+Selected Topics in CS - I/II/III
+Selected Topics in ML - 1/2/3
+Social Network Analysis
+Social Networks (700)
+Software and Data Engineering
+Security and its Applications
+Speech Understanding
+Stream Analytics
+Vehicular Ad-hoc Networks
+Visual Perception
+Virtualization and Cloud Computing
+Advanced Data Structures and Algorithms (Fractal 3)
+Adaptive Signal Processing
+Advanced Digital Signal Processing
+Compressive Sensing
+Computational Imaging
+Digital Signal Processing and Applications
+Data Compression
+Cyber Physical System Modelling and Simulation lab Digital Video Processing
+Introduction to Haptics
+Introduction to Cyber-Physical Systems
+Machine Learning for Communication
+Introduction to Smart Grid
+Speech and Audio Signal Processing
+Statistical Decision Theory
+Wavelets
+Robotics Planning and Decision Making for Robots
+Bioinformatics Computational Biology
+Advanced Topics in Computational PDE
+AI for Finance Linear Algebra with Data
+Linear Algebra for Data Science
+
+Computational fni ance
+Computational Game Theory
+Evolutionary Optimization
+Data Engineering
+Introduction to Data Science Statistics for Data Science
+Stochastic Processes
+Mathematical modeling and simulations
+Markov Models
+Time Series Analysis
+Quantum Information Processing Quantum Cryptography and Coding
+Analysis of Social Media Networks
+Human Factors in Interaction Design
+Digital Methods and Tools Fundamentals of Digital Humanities: Fractal - 2 (Data
+and Knowledge representations)
+Cognitive Architectures
+Introduction to Financial Engineering
+Computational Neuroscience
+Connectomics
+Computational Cognition & Behavior Modelling Difefrential Geometry
+Introduction to Game Theory
+Machine Learning for Epidemiology
+Nonlinear Dynamics and Chaos
+Optimization in ML
+Special Topics in Data Science - 1/2/3
+AI for Risk Analysis Risk Management Analytics
+Stochastic Modelling

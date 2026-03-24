@@ -1,0 +1,36 @@
+intelligent communication systems introduction during the past few years there has been an exponential growth in the usage of communication technologies
+the fast development of economy and society requires modern and communications systems that can cater for massive deployment of connected devices while still offering acceptable levels of energy consumption equipment cost and network deployment and operation cost
+emerging communication systems need to support wide variety of applications and services requiring increased spectral efficiency higher data rates low latency and high reliability and security
+for latency or high reliability cases and new applications for the industry opening up new development path also for operators
+the development of communications technology has vastly relied on theories and models from information theory to channel modelling and theory
+the traditional approaches are showing serious limitations especially in view of the increased complexity of communication networks and the diversified services that the mobile networks are expected to offer with the introduction of network virtualization implementation of iot immersive multimedia with varied quality of experience etc
+the advent of conceptualization and modelling of are introducing new challenges and possibilities for mobile and other communications service providers
+integration of artificial learning techniques into networks is one way the industry is addressing these complexities
+advances in artificial intelligence particularly taking advantage of rapidly increasing network and user behaviour data indicates new technological frontier of communications and networking not only in new methodology in systems and network design but also in new network architecture accommodating machine learning for broader and efficient services through network deployments
+the cloud computing paradigms are further evolving with the introduction of fog computing and edge computing therefore changing the nature of edge devices as combination of communication devices and computing devices and this continues in heterogeneous manner hardware software and protocols used in multiple participating networks
+further current and future industry trends indicate increased involvement of visual computing and multimedia processing for various automation processes healthcare transportation and entertainment
+dual degree programme in intelligent communication systems prepares students for an advanced engineering career by understanding of modern communication networks on all layers of the system and their associated signal processing methods
+objectives of the program the program aims at imparting critical awareness and knowledge of the new trends approaches methods systems standards as well as communication network architectures and protocols immersive multimedia and application of joint framework to address communication network management issues
+the program prepares the students for variety of career paths including an industrial path to take up the role of technical leader or manager through strong fundamentals and applied technology concepts an academic path to conduct research in the telecommunication networks and information processing systems and eventually pursue research or academic profession
+expected graduate attributes graduates of the pg program in intelligent communication systems are expected to have the following attributes strong fundamentals in communications and signal processing methods and its applications to next generation communication and multimedia systems
+understanding of technologies including massive mimo massive machine type communications immersive multimedia software defined networking for future generations of wireless communication and networking for devices that not only communicate but also engage in computing
+edge device intelligence
+understanding of evolving standards their adoption by industry and in particular how standards evolve using several building blocks of modern communication systems
+such knowledge is essential for developing products based on interoperable standards
+analytical modeling computational and experimental skills required to design and implement communication systems for various applications that require different quality of service of experience for the end users
+preparedness to develop components of the entire value chain
+modem chipsets network software user experiences information centric networks etc
+ability to do critical and creative thinking and to conduct independent and original research and scholarship
+ability to apply existing skills and knowledge to identify and formulate new problems produce new ideas approaches or actions
+ability to teach and express ideas in both written and oral formats
+learning outcomes the graduates of the program will be able to characterize and evaluate the performance of communication systems
+to develop understanding of technologies on future generations of wireless communication and networking through the core courses
+to develop understanding of standards development and research necessary for building next generation standards for interoperable requirements including candidate technologies selection appreciation of evolutionary versus revolutionary approaches on new technology standards
+to develop unique skill sets through specifically designed bouquet courses to analyze networks and understanding of techniques used in systems such as interference management spectral efficiency improvements energy efficient communications information centric networks evolving multimedia content communications
+to implement communication systems based on evolving standards with focus on various mimo technologies multicarrier communication low latency designs energy efficiency network function virtualization network slicing etc
+to develop systems that can quantify perceptual effects of multimedia signal capture and processing on end user experience
+to master specific set of methods appropriate to their dissertation with the depth needed to produce methodologically rigorous research
+to carry out research work demonstrating scientific problem solving and generate ipr
+detailed curriculum download file kb
+during the past few years there has been an exponential growth in the usage of communication technologies
+the graduates of the program will be able to characterize and evaluate the performance of communication systems

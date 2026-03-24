@@ -1,0 +1,303 @@
+SOURCE_PDF: 95fede60e1d3_IDRP_20SMART_20HEALTHCARE_06092019.pdf
+
+Indian Institute of Technology
+Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Ph.D. Programme
+In
+Smart Healthcare
+Inter Disciplinary Research Platform
+
+PhD program in IDRP Smart healthcare
+The Smart Health Care IDRP aspires to create significant scientific and technological 
+advancements in the area of Healthcare by bringing together a multidisciplinary team of 
+scientists working in the interface of Biology, Chemistry, healthcare & Engineering. The 
+research is intended to focus on designing and developing sustainable solutions for 
+point-of-care health devices, drug discovery, affordable diagnostics, bio-compatible 
+implants, and remote health care, including telemedicine. The IDRP platform is expected 
+to support the development of various eHealth and mHealth based solutions for 
+improving the quality of healthcare and making it available to large segments of the 
+society.
+2. The major objectives are:
+ Augmenting existing methods for medical research using machine learning and
+artificial intelligence based approaches
+ Designing new and optimizing existing point-of-care health devices 
+ Identifying novel methods for early diagnosis and personalized treatments 
+ Creating a platform to use various electronic, mechanical, and bio-sensors for
+improving the remote health care facilities
+3. Expected Graduate Attributes
+Graduates will
+1. Be able to think critically and solve problems that are necessary for employment
+in biomedical, biotechnology, pharmaceutical industries, National research labs 
+and Academic institutions at the global level.
+2. Develop a sense of ownership on the National missions for technology
+development, which will cater to societal needs in the area of affordable 
+healthcare.
+3. Be exceptionally well trained in the laboratory enabling them to conduct high-
+quality, reproducible research.
+4. Be able to read, understand and review intellectual property documents and
+recognize their rights.
+5. Be able to express their research ideas and present their data clearly in written
+and spoken format.
+6. Develop a strong work ethic and understand ethical considerations in biological
+research, which are both necessary for high-quality research.
+7. Develop healthy time management skills to plan and manage laboratory work as
+well as other miscellaneous research-associated demands on their time to 
+effectively meet deadlines.
+
+Drug
+Development Point of care
+diagnostic device Systems
+Biology Artificial
+Intelligence &
+Machine
+learning Biomedical
+devices &
+implants
+Searching
+Microbiomes for
+novel antimicrobials
+Organic synthesis
+Drug screening &
+testing Sensor materials
+Biomarkers
+Biomolecular
+interactions
+Surface Immuno-
+technology
+Disease
+processes
+diagnostics
+therapeutics
+Synthetic Biology Machine learning
+Artificial
+Intelligence Tissue
+engineering
+Biomechanics
+Artificial Organs
+4. Learning outcome:
+Graduates will
+• 
+Be introduced to cutting-edge, interdisciplinary research areas like Diagnostics & 
+Therapeutics development, Machine learning and Artificial Intelligence for 
+healthcare, Novel drug development, Biomedical Instrumentation design, 
+Biomedical Imaging& Image processing, Systems & Synthetic Biology, Biosensors 
+and Biomaterials Engineering.
+• 
+Be exposed to common problems that are prevalent in the domains of affordable 
+healthcare such as sustainable point of care diagnostic devices, personalized 
+medicine, remote healthcare, bioimaging for specific diagnosis, and medical 
+devices & implants
+• 
+Receive effective, hands-on laboratory training as a part of laboratory courses 
+and short-term research projects that are designed to teach research 
+methodology and common lab techniques.
+• 
+Be introduced to Patents and other intellectual property documents, the rights 
+that they grant and necessary considerations while filing patents / technology 
+that is protected by patents.
+• 
+Develop their research communication skills by participating in seminars, journal 
+clubs; manuscript writing and research grant writing workshops.
+• 
+Receive training on building a work ethic by being a part of research groups 
+working towards a common goal. Graduates will also appreciate the ethical and 
+safety considerations while conducting biomedical research.
+• 
+Be taught how to prioritize items on their schedule and how to budget time across 
+the spectrum of activities including research and other necessary tasks.
+5. Essential Topic clouds
+
+Animal Models
+Personalized
+medicine
+AI for healthcare functionalization
+Sensor
+development
+Qualitative and
+Quantitative Assay
+Biosignals
+Biosignal
+Processing Vaccine
+development
+Identification of
+novel biomarkers
+Understanding
+disease
+development Biomaterials
+Cat Course Title L-T-P Credits Cat Course Title L-T-P Credits
+I Semester II Semester
+PE Elective 1 3-0-0 3 PE Elective 1 3-0-0 3
+PE Elective 2 3-0-0 3 PE Elective 2 3-0-0 3
+PE Elective 3 3-0-0 3 PE Elective 3 3-0-0 3
+PE Elective 3 3-0-0 3 PE Elective 3 3-0-0 3
+Total 12 Total (Graded + Non-graded) 12
+III Semester IV Semester
+PE Elective 2-0-0 2
+6. Program Structure
+
+TH Thesis 0-0-
+20 10 TH Thesis 0-0-24 12
+Total 12 Total 12
+V Semester VI Semester
+TH Thesis 0-0-
+24 12 TH Thesis 0-0-24 12
+Total 12 Total 12
+VII Semester VIII Semester
+TH Thesis 0-0-4 2
+Total 2
+Student with M Sc Students with M Tech Students with B Tech
+Course work credits 30
+Thesis 48 Course work 12
+Thesis 48 Course work credits 30
+Thesis 48
+
+Title Software and Data Engineering Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Compulsory
+Courses
+(In addition to the courses mentioned below, a student can opt for any course floated in other IDRP 
+programs relevant to the thesis)
+
+Title Algorithms for Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+1. Department of Computer Science, Stanford University, 
+ https://see.stanford.edu/Course/CS229
+
+Title Machine Learning II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Machine Learning-1
+
+Title Artificial Intelligence I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Artificial Intelligence II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Artificial Intelligence-1
+
+Title Mechanical Behavior of Materials Number MTL7320
+Department Metallurgical and Materials Engineering L-T-P-D [C] 3–0–2-0
+[4]
+Offered for M.Tech. and Ph.D. Type Elective
+Prerequisite None
+
+Title Frontiers in Organic Chemistry Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+1. G ive an in-depth exposure to the latest advances in organic synthesis
+Advanced Enolate Chemistry: Diastereoselective aldol reactions, Evan’s chiral auxiliary,
+1. Punniyamurthy,T., Catalytic Asymmetric Synthesis, NPTEL Course Material, Department
+
+Title Theory and Applications of Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Principles of Drug Discovery Number BBL7XX1
+CSL7XX1
+CSL7XX2
+Department Bioscience & Bioengineering and Computer
+Science and engineering L-T-P [C] 3-0-0 [2]
+Offered for M.Tech Type Elective
+Prerequisite None
+
+Title Introductory Chemical Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Elective
+Prerequisite None
+
+Title Algorithms in Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Microbes as sensors Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 1-0-0 [1]
+Offered for Type Compulsory
+
+Title Immunodiagnostics and therapeutics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for M.Tech. (MT) Program Type Elective
+
+2. Stanier, R. Y., General Microbiology, W.H. Freeman and Co., 2009.
+3. Pelczar, M.J., Chan, E. C. S., Krieg, N.R., Microbiology, Tata McGraw – Hill Education, 2001
+Reference Books
+New York: Garland Science.
+2. Madigan, M.T., Martinko, J.M., Brock, Biology of Microorganisms, Prentice-Hall, Inc.,
+Online Course Material
+1 NPTEL Video Lectures on Essentials in Immunology by Prof. R. Manjunath, Prof.
+Dipankar Nandi , Prof. Anjali Karande, Indian Institute of Science Bangalore 
+(http://nptel.ac.in/courses/104108055/)
+2. NPTEL Video Lectures on Cellular and Molecular Immunology by Prof. Sachin Kumar,
+Indian Institute of Technology Guwahati (http://nptel.ac.in/courses/102103038/)
+
+Title Flux Balance Analysis Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P
+[C] 3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Textbook
+1.Palsson B. O., (2006), Systems Biology: Properties of Reconstructed Networks, cambridge 
+Press.
+Self Learning Material
+1. Utah State University, https://systemsbiology.usu.edu/syllabus.php
+Preparatory Course Material
+1. 
+Department 
+of 
+Biotechnology, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+
+Title Systems Biology in Personalized Genomics Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P
+[C] 3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Textbook
+1. Ma'ayan A. and MacArthur B. D. (eds.) (2012), New Frontiers of Network Analysis in Systems 
+Biology, Springer.
+Reference Books
+Research literature
+Self learning materials
+1. Mount Sinai Center for Bioinformatics, https://www.coursera.org/learn/network-biology
+
+Title Artificial Intelligence in Bioengineering
+Lab Number BBP7XX0
+Department Bioscience & Bioengineering L-T-P [C] 0-0-2 [1]
+Offered for Type Open
+Elective
+Prerequisite Machine Learning-1
+
+Course Title Advances in Food Safety and Technology Course No. CYP6XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Textbooks: Fundamentals of Food Engineering by Stanley Charm.
+1. Introduction to Food Engineering - R. Paul Singh, Dennis R. 
+2. Food microbiology: fundamentals and frontiers. 2nd ed. Washington (DC):
+American Society for Microbiology
+Reference Book:
+1. S. Damodaran, K.L. Parkin, and O. R. Fennema, Fennema’s Food Chemistry,
+fourth edition, 2007, CRC Press
+2. Heldman, D.R., Food Process Engineering, The AVI Publishing Co; Westport, 1975
+Online Course Material

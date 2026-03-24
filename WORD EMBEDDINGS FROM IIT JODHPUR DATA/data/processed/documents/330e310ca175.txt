@@ -1,0 +1,7 @@
+congratulations to moumita mandal for the acceptance of their research article in the journal international journal of computer mathematics title discrete legendre spectral methods for hammerstein type weakly singular nonlinear fredholm integral equations
+authors moumita mandal kapil kant gnaneshwar nelakanti journal international journal of computer mathematics volume in press year publisher taylor francis abstract in this article we study the discrete version of legendre spectral and iterated legendre spectral techniques to solve the second kind hammerstein type weakly singular integral equations
+to obtain the convergence analysis we use appropriate numerical quadrature rule and obtain the order discrete legendre spectral method
+if the quadrature rule is minimal then optimal rate is obtained in iterated form of discrete legendre spectral collocation method in and uniform norms
+numerical aspects are given to verify the hypothetical results
+title discrete legendre spectral methods for hammerstein type weakly singular nonlinear fredholm integral equations
+authors moumita mandal kapil kant gnaneshwar nelakanti journal international journal of computer mathematics volume in press publisher taylor francis abstract in this article we study the discrete version of legendre spectral and iterated legendre spectral techniques to solve the second kind hammerstein type weakly singular integral equations

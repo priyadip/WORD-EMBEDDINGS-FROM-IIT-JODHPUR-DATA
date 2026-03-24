@@ -1,0 +1,230 @@
+SOURCE_PDF: 90dd4e3a8292_Gross_20Salary_FM_September_2022.pdf
+
+Sr. No. Name of Employee Designation Total Earnings
+1 V V M Sarma Chandramouli Associate Professor 259,475
+2 B. Ravindra Associate Professor 318,135
+3 Vivek Vijay Assistant Professor Grade I 259,017
+4 Rakesh Kumar Sharma Associate Professor 267,113
+5 Anil Kumar Tiwari Associate Professor 267,113
+6 Gaurav Harit Associate Professor 320,506
+7 Subhasish Banerjee Associate Professor 308,448
+8 Amit Kumar Mishra Associate Professor 291,555
+9 Sandeep Kumar Yadav Associate Professor 251,508
+10 Harinarayanan V. Associate Professor 275,056
+11 K.J. George Associate Professor 267,113
+12 Deepak M. Fulwani Associate Professor 262,475
+13 Shree Prakash Tiwari Associate Professor 259,475
+14 Monika Sinha Assistant Professor Grade I 251,684
+15 Barun Pratiher Associate Professor 251,990
+16 Ambesh Dixit Associate Professor 237,783
+17 Meenu Chhabra Associate Professor 267,113
+18 Ashutosh Kumar Alok Associate Professor 259,475
+19 Rahul Chhibber Associate Professor 283,153
+20 V. Narayanan Assistant Professor Grade I 259,475
+21 Anand K Plappally Associate Professor 251,990
+22 Atul Kumar Associate Professor 240,783
+23 Sushmita Jha Associate Professor 267,113
+24 Vidya Sarveswaran Associate Professor 251,990
+25 Puneet Sharma Associate Professor 251,990
+26 Kirankumar R. Hiremath Associate Professor 290,977
+27 Samanwita Pal Associate Professor 237,783
+28 Satyajit Sahu Assistant Professor Grade I 251,990
+29 Manikandan Paranjothy Associate Professor 251,990
+30 Ankita Sharma Associate Professor 240,783
+31 Mahesh Kumar Associate Professor 246,684
+32 Ananya Debnath Associate Professor 251,990
+33 Arun Kumar Singh Associate Professor 237,783
+Monthly Gross Salary_Faculty Members_September 2022
+
+34 Shaik Abdul Gafoor Associate Professor 266,552
+35 Gaurav Bhatnagar Associate Professor 262,475
+36 Prodyut Ranjan Chakraborty Associate Professor 244,810
+37 Kaushalkumar Desai Associate Professor 251,990
+38 Suril Vijaykumar Shah Associate Professor 244,810
+39 Ritu Gupta Assistant Professor Grade I 231,062
+40 Rajlaxmi Chouhan Assistant Professor Grade I 169,258
+41 Sushmita Paul Assistant Professor Grade I 174,082
+42 Ramesh K. Metre Associate Professor 218,077
+43 Somnath Ghosh Assistant Professor Grade I 231,062
+44 Sudipto Mukhopadhyay Assistant Professor Grade I 217,771
+45 Soumava Mukherjee Assistant Professor Grade II 174,082
+46 Priyanka Singh Assistant Professor Grade I 217,771
+47 Sandip Murarka Associate Professor 224,493
+48 Nirmal Kumar Rana Assistant Professor Grade I 217,771
+49 Appala Naidu Gandi Assistant Professor Grade I 217,771
+50 Shankar Manoharan Assistant Professor Grade I 217,771
+51 Aashish Mathur Assistant Professor Grade II 174,082
+52 Arpit Arvind Khandelwal Assistant Professor Grade II 166,958
+53 Kothadia Hardikkumar Bhupendra Assistant Professor Grade II 166,958
+54 Durgamadhab Mishra Assistant Professor Grade I 205,551
+55 Sampat Raj Vadera Professor 325,954
+56 Sumit Kalra Assistant Professor Grade II 164,458
+57 Abir Bhattacharyya Assistant Professor Grade I 211,508
+58 Ravi K. R. Associate Professor 267,113
+59 Professor Santanu Chaudhury Director 316,500
+60 Arani Ali Khan Assistant Professor Grade II 123,366
+61 Yashaswi Verma Assistant Professor Grade II 164,458
+62 Chandan Pandey Assistant Professor Grade II 125,866
+63 Prasenjeet Tribhuvan Assistant Professor Grade II 123,366
+64 Shrutidhara Sarma Assistant Professor Grade II 164,458
+65 Prabhat Kumar Jaiswal Assistant Professor Grade I 189,664
+66 Rohan Diliprao Erande Assistant Professor Grade I 176,582
+67 Santosh Mogurampelly Assistant Professor Grade I 181,993
+68 Nitin Bhatia Assistant Professor Grade II 169,194
+
+69 Neha Jain Assistant Professor Grade I 184,317
+70 B.M. Krishna Mariserla Assistant Professor Grade I 184,317
+71 Manish Narwaria Assistant Professor Grade I 174,082
+72 Debasis Das Assistant Professor Grade I 174,082
+73 Ram Prakash Associate Professor 259,475
+74 Reetanjali Moharana Assistant Professor Grade I 179,123
+75 Nil Kamal Hazra Assistant Professor Grade I 176,582
+76 Arun Kumar R. Assistant Professor Grade II 164,458
+77 Parichay Patra Assistant Professor Grade II 164,458
+78 Subrata Chakraborty Assistant Professor Grade I 176,582
+79 Ankur Gupta Assistant Professor Grade I 179,123
+80 Pankaj Yadav Assistant Professor Grade I 174,082
+81 Suman Kundu Assistant Professor Grade II 164,458
+82 Surajit Ghosh Professor 270,474
+83 Amrita Puri Assistant Professor Grade II 123,366
+84 Moumita Mandal Assistant Professor Grade II 123,366
+85 Anand Mishra Assistant Professor Grade II 169,194
+86 Dilpreet Kaur Assistant Professor Grade I 181,623
+87 Rajendra Nagar Assistant Professor Grade II 123,366
+88 Farhat Naz Associate Professor 218,077
+89 Abhishek Sarkar Assistant Professor Grade I 179,123
+90 Himanshu Kumar Assistant Professor Grade II 123,366
+91 Anoop Jain Assistant Professor Grade II 169,194
+92 Sudipta Bhattacharyya Assistant Professor Grade I 184,317
+93 Amit Bhardwaj Assistant Professor Grade II 169,194
+94 Shahab Ahmad Assistant Professor Grade I 179,123
+95 Deepak Mishra Assistant Professor Grade II 123,366
+96 Saakshi Dhanekar Assistant Professor Grade I 184,317
+97 Amandeep Kaur Assistant Professor Grade II 123,366
+98 Dibyendu Kumar Sasmal Assistant Professor Grade I 174,299
+99 Nipun Arora Assistant Professor Grade II 164,458
+100 Shobhana Singh Assistant Professor Grade I 192,164
+101 Jaiveer Singh Assistant Professor Grade I 176,582
+102 Jai Narayan Tripathi Assistant Professor Grade I 189,664
+103 Sukhendu Ghosh Assistant Professor Grade I 174,082
+
+104 Richa Singh Professor 278,417
+105 Mayank Vatsa Professor 281,917
+106 Indranil Banerjee Associate Professor 247,810
+107 Niladri Sekhar Tripathy Assistant Professor Grade II 164,458
+108 Harshit Agarwal Assistant Professor Grade II 169,194
+109 Debanjan Guha Roy Assistant Professor Grade II 119,700
+110 Deepika Bhattu Assistant Professor Grade I 169,194
+111 Raviraj Vankayala Assistant Professor Grade I 184,317
+112 Deepak Arora Associate Professor 234,062
+113 Romi Banerjee Assistant Professor Grade II 119,852
+114 Pradeep Kumar Dammala Assistant Professor Grade II 115,028
+115 G.Venkat Ram Reddy Assistant Professor Grade I 169,194
+116 Atul Kumar Sharma Assistant Professor Grade II 122,352
+117 Yerasani Sinjana Assistant Professor Grade II 115,028
+118 Srijan Sengupta Assistant Professor Grade II 123,366
+119 Pallavi Jain Assistant Professor Grade II 164,458
+120 Venkatesh Murthy R Assistant Professor Grade I 237,477
+121 Angan Sengupta Assistant Professor Grade I 174,082
+122 Amit Kumar Rathi Assistant Professor Grade II 119,852
+123 Manish Aggarwal Associate Professor 275,056
+124 Ranju Mohan Assistant Professor 169,194
+125 Anuj Pal Kapoor Assistant Professor 119,852
+126 Amit Sharma Assistant Professor 122,352
+127 Sauarbh Sanjay Nene Assistant Professor 169,194
+128 Krishna Kumar Balaraman Associate Professor 231,062
+129 Sankalp Pratap Associate Professor 267,113
+130 Prasenjit Sarkar Assistant Professor 169,194
+131 Ramesh Asapu Assistant Professor 123,366
+132 Devi Prasad Das Assistant Professor 174,082
+133 Vikky Anand Assistant Professor 119,852
+134 Prashant Kumar Gupta Assistant Professor 119,852
+135 Somitra Kumar Sanadhya Professor 273,974
+136 Nirmalya Bachhar Assistant Professor 169,194
+137 Dip Sankar Banerjee Assistant Professor 179,123
+138 Suchetana Chakraborty Assistant Professor 179,123
+
+139 Praveen Kumra Sappidi Assistant Professor 169,194
+140 Alok Ranjan Assistant Professor Grade-II 123,366
+141 Suman Dhaka Assistant Professor Grade-II 166,958
+142 Ruhi Sonal Assistant Professor Grade-II 116,339
+143 Natasa Thoudam Assistant Professor Grade-II 122,909
+144 Bhupendra Singh Assistant Professor Grade-II 123,366
+145 Tekcham Gishan Singh Assistant Professor Grade-II 119,852
+146 Neeraj Jain Professor 362,159
+147 Tuhina Mukherjee Assistant Professor Grade-II 118,542
+148 Patnayakuni Ravi Prakash Assistant Professor Grade-II 130,350
+149 Jayant Kumar Mohanta Assistant Professor Grade-II 130,350
+150 Malyala Pavana Ravi Sai Kiran Assistant Professor Grade-II 116,339
+151 Ashish Pathak Assistant Professor Grade-I 173,863
+152 Ajay Agarwal Professor 270,474
+153 Mitali Mukerji Professor 356,202
+154 Angshuman Paul Assistant Professor Grade-II 130,350
+155 Binod Kumar Assistant Professor Grade-II 122,909
+156 Ravi Yadav Assistant Professor Grade-II 126,629
+157 Malvika Tyagi Assistant Professor Grade-II 119,852
+158 Sucharita Dey Assistant Professor Grade-I 164,458
+159 Dweepobotee Brahma Assistant Professor Grade-II 130,350
+160 Nishant Kumar Assistant Professor Grade-II 134,070
+161 Abhinba Lahiri Assistant Professor Grade-I 173,863
+162 Abhilasha Maheshwari Assistant Professor Grade-II 116,339
+163 Nitin Kumar Sharma Assistant Professor Grade-I 173,863
+164 MD. Abu Talhamainuddin Ansary Assistant Professor Grade-II 130,350
+165 Kunwar Aditya Assistant Professor Grade-I 164,458
+166 Dipanjan Roy Associate Professor 258,949
+167 Manoj Choudhary Professor 266,183
+168 Shilpa Dang Assistant Professor Grade-II 123,366
+169 Sk MD Hasan Assistant Professor Grade-II 130,350
+170 Devendra Singh Negi Assistant Professor Grade-I 174,082
+171 Pranay Ranjan Assistant Professor Grade-II 130,350
+172 Saran Aadhar Assistant Professor Grade-II 122,909
+173 Amitava Banerjee Assistant Professor Grade-I 173,863
+
+174 Trishikhi Raychoudhury Associate Professor 251,508
+175 Sangeeta Sahney Professor 274,968
+176 Mithu Rani Kuiti Assistant Professor Grade-II 123,366
+177 Sumit Kamal Assistant Professor Grade-II 126,629
+178 Tara Chand Kumawat Assistant Professor Grade-I 173,863
+179 Jitesh Mohnot Assistant Professor Grade-II 126,629
+180 Deepak Kumar Saxena Assistant Professor Grade-I 169,010
+181 Lawqueen Kanesh Assistant Professor Grade-II 116,492
+182 Amit Singh Assistant Professor Grade-II 116,492
+183 Monika Tanwar Assistant Professor Grade-I 169,010
+184 Akolekar Harshal Deepak Assistant Professor Grade-II 123,071
+185 Ayan Sadhukhan Assistant Professor Grade-II 159,875
+186 Aali Pant Assistant Professor Grade-II 123,071
+187 Mayank Suman Assistant Professor Grade-II 123,071
+188 Dinesh Kumar Ahirwar Assistant Professor Grade-I 169,010
+189 Tanmay Kundu Assistant Professor Grade-II 126,629
+190 Bhargab Chattopadhyay Associate Professor 258,949
+191 Pradip Sasmal Assistant Professor Grade-I 169,010
+192 Kshitij Gajjar Assistant Professor Grade-II 126,629
+193 S. Srivatsa Srinivas Assistant Professor Grade-II 119,512
+194 Ganesh Manjhi Assistant Professor Grade-II 126,629
+195 Bimal Mandal Assistant Professor Grade-I 169,010
+196 Tonisha Guin Assistant Professor Grade-II 124,762
+197 Mriganka Mandal Assistant Professor Grade-II 116,492
+198 Rachel Philip Assistant Professor Grade-II 116,492
+199 Gurujegan M Assistant Professor Grade-I 169,010
+200 Akanksha Choudhary Assistant Professor Grade-II 119,852
+201 Pratik Mazumder Assistant Professor Grade-II 85,309
+202 Gopakumar K U Assistant Professor Grade-I 168,401
+203 Subhash Bhagat Assistant Professor Grade-I 159,875
+204 Sreedevi D Assistant Professor Grade-I 159,875
+205 Riby Abraham Boby Assistant Professor Grade-I 169,010
+206 Palash Das Assistant Professor Grade-II 113,131
+207 Vimal Raj Sharma Assistant Professor Grade-II 99,830
+208 Sunita Assistant Professor Grade-I 117,361
+
+209 Bhagwati P. Kashyap Visiting Professor 161,050
+210 C. Venkatesan Visiting Professor 175,692
+211 Kamaljit Rangra Visiting Professor 133,100
+212 Pradip Kumar Tewari Visiting Professor 225,000
+213 Amitava Mitra Visiting Professor 181,500
+214 Ravi Bhandari Young Faculty Associate -
+215 Chhanda Chakraborti Visiting Professor in Department of HSS 192,500
+216 Ashok Joshi Visiting Professor ME 153,217
+217 Siddharth Srivastav Professor of Practice 150,000
+218 Bijnan Bandyopadhyay Visiting Professor EE 175,000
+219 Nimish Vohra Professor of Practice 160,000
+220 Kanak Yadav Young Faculty Associate 75,000

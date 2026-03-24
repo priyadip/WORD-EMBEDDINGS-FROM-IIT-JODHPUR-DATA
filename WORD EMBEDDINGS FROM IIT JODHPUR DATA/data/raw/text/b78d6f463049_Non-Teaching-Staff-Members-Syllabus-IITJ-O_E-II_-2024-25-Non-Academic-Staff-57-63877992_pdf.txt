@@ -1,0 +1,30 @@
+SOURCE_PDF: b78d6f463049_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877992.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of ASSISTANT WORKSHOP MANAGER
+WRITTEN TEST & SKILL TEST
+1. Foundry Shop: Understanding of basic steps in casting operation, terminology, process flow; mould
+making process and tools; sand testing equipment; working and operation of equipment using in
+casting shop; Safety precautions for foundry.
+2. Machine Shop: Standard machine tools and their operations; Cutting tools for various machines,
+cutting tool materials, tool geometry; Cutting fluids, classification; Grinding machine types and
+operations, types of grinding wheels, specifications; Safety precautions for machine shop
+3. Assembly Shop: Processes in fitting shop; Equipment; Layout procedure; File work; Thread cutting
+tools; Operation and types of chisels, scrapers, dividers, calipers.
+4. Welding Shop: Welding processes and equipment; operations of welding machines; selection of
+consumables such as electrode, flux, nozzles, gas etc.; types of welds, joints and positions; Safety
+precautions for welding
+5. Smithy, Forging and Sheet Metal Work: Knowledge of equipment and tools for smithy, forging and
+sheet metal work; Operations related to Smithy, forging and sheet metal work; Knowledge of control
+parameters to achieve defect-free parts; Safety precautions
+6. Metrology: Understanding related to operation and working principles of measuring equipment and
+tools used for inspection on shop floor; Knowledge of standards of measurement; Measurement of
+Surface roughness
+7. Advanced Manufacturing: Understanding related to operation and working principles of advanced
+manufacturing and inspection equipment such as CNC Machines, 3-D Printers, Coordinate
+Measuring Machine; Knowledge of computational tools for component fabrication; Knowledge of
+Programming for component fabrication; Reverse Engineering of components on CMM
+8. General Skills: Planning & performing simple repair, overhauling of different machines and
+checking functionality, skills to execute pipe joints, dismantling and assembling valves and fittings.
+Testing for leakages, planning and performing basic day to day preventive maintenance, safety
+aspects, Knowledge of GFR.

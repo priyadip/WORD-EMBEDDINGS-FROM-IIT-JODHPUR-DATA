@@ -1,0 +1,31 @@
+SOURCE_PDF: 0861b28eda93_phd_ee.pdf
+
+Curriculum
+NEW Program
+Indian Institute of Technology Jodhpur
+
+Cat. Course Number: Course Title L-T-P Credits Cat. Course Number: Course Title L-T-P Credits
+I Semester II Semester
+E Electives E Electives
+Tota l Total
+III Semester IV Semester
+H EE799 Ph.D. Thesis H EE799 Ph.D. Thesis
+Total Total
+V Semester VI Semester
+H EE799 Ph.D. Thesis H EE799 Ph.D. Thesis
+Total Total
+VII Semester VIII Semester
+H EE799 Ph.D. Thesis H EE799 Ph.D. Thesis
+Total Total
+EE751 Bandgap Engineering 3-0-0 4
+EE752 Multiuser MIMO Communications 3-0-0 4
+EE753 Robust Control 3-0-0 4
+S.No. Category Category Title Students with Total
+Courses Total
+Credits
+1 E ELECTIVES Master’s Degree 4 12
+M. Sc. Degree 10 30
+Bachelor’s Degree 10 30
+2 H Thesis - - -
+Proposed Curriculum
+NEW Program

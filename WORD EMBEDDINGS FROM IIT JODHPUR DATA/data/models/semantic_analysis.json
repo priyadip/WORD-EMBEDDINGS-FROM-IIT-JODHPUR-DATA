@@ -1,0 +1,1258 @@
+[
+  {
+    "architecture": "cbow",
+    "vocab_size": 19495,
+    "nearest_neighbours": {
+      "research": [
+        [
+          "collaborative",
+          0.4517
+        ],
+        [
+          "imparting",
+          0.4256
+        ],
+        [
+          "entrepreneurial",
+          0.4233
+        ],
+        [
+          "outreach",
+          0.4141
+        ],
+        [
+          "transdisciplinary",
+          0.4091
+        ]
+      ],
+      "student": [
+        [
+          "students",
+          0.5648
+        ],
+        [
+          "semesters",
+          0.4114
+        ],
+        [
+          "academics",
+          0.3992
+        ],
+        [
+          "candidate",
+          0.3811
+        ],
+        [
+          "scholar",
+          0.3689
+        ]
+      ],
+      "phd": [
+        [
+          "msc",
+          0.5615
+        ],
+        [
+          "doctoral",
+          0.5282
+        ],
+        [
+          "ay",
+          0.4926
+        ],
+        [
+          "dcs",
+          0.473
+        ],
+        [
+          "bsc",
+          0.4684
+        ]
+      ],
+      "exam": [
+        [
+          "examination",
+          0.7249
+        ],
+        [
+          "syllabus",
+          0.6318
+        ],
+        [
+          "exams",
+          0.6193
+        ],
+        [
+          "interview",
+          0.6135
+        ],
+        [
+          "entrance",
+          0.6066
+        ]
+      ],
+      "department": [
+        [
+          "dept",
+          0.4635
+        ],
+        [
+          "institute",
+          0.3613
+        ],
+        [
+          "departments",
+          0.3551
+        ],
+        [
+          "sola",
+          0.3516
+        ],
+        [
+          "institution",
+          0.3313
+        ]
+      ]
+    },
+    "analogies": [
+      {
+        "label": "UG : btech :: PG : ?",
+        "positive": [
+          "pg",
+          "btech"
+        ],
+        "negative": [
+          "ug"
+        ],
+        "explain": "If UG corresponds to BTech, what does PG correspond to?",
+        "answers": [
+          [
+            "mtech",
+            0.6246
+          ],
+          [
+            "tfe",
+            0.5536
+          ],
+          [
+            "bsc",
+            0.547
+          ],
+          [
+            "bb",
+            0.5392
+          ],
+          [
+            "mmt",
+            0.5137
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "professor : teaching :: researcher : ?",
+        "positive": [
+          "researcher",
+          "teaching"
+        ],
+        "negative": [
+          "professor"
+        ],
+        "explain": "If a professor's role is teaching, what is a researcher's role?",
+        "answers": [
+          [
+            "experienced",
+            0.4073
+          ],
+          [
+            "researchers",
+            0.3867
+          ],
+          [
+            "scientist",
+            0.3801
+          ],
+          [
+            "scholars",
+            0.3749
+          ],
+          [
+            "top",
+            0.3665
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "mtech : postgraduate :: btech : ?",
+        "positive": [
+          "btech",
+          "postgraduate"
+        ],
+        "negative": [
+          "mtech"
+        ],
+        "explain": "If mtech is postgraduate, what level is btech?",
+        "answers": [
+          [
+            "undergraduate",
+            0.7192
+          ],
+          [
+            "bsc",
+            0.5981
+          ],
+          [
+            "bachelors",
+            0.5839
+          ],
+          [
+            "masters",
+            0.5534
+          ],
+          [
+            "ug",
+            0.5494
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "mishra : assistant :: das : ?",
+        "positive": [
+          "assistant",
+          "das"
+        ],
+        "negative": [
+          "mishra"
+        ],
+        "explain": "If Anand Mishra holds Assistant Professor rank, what rank does Debasis Das hold? (expected: associate)",
+        "answers": [
+          [
+            "palash",
+            0.5114
+          ],
+          [
+            "mithu",
+            0.4613
+          ],
+          [
+            "sajal",
+            0.4481
+          ],
+          [
+            "talhamainuddin",
+            0.443
+          ],
+          [
+            "swapnil",
+            0.4426
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "gaurav : harit :: debasis : ?",
+        "positive": [
+          "debasis",
+          "harit"
+        ],
+        "negative": [
+          "gaurav"
+        ],
+        "explain": "If 'gaurav' pairs with surname 'harit', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Gaurav Harit, Debasis Das)",
+        "answers": [
+          [
+            "palas",
+            0.7244
+          ],
+          [
+            "limbasiya",
+            0.7004
+          ],
+          [
+            "sajal",
+            0.6633
+          ],
+          [
+            "sikarwar",
+            0.624
+          ],
+          [
+            "das",
+            0.6164
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "gate : pg :: jee : ?",
+        "positive": [
+          "jee",
+          "pg"
+        ],
+        "negative": [
+          "gate"
+        ],
+        "explain": "If GATE is the entrance for PG programs, what is the entrance for UG programs?",
+        "answers": [
+          [
+            "ug",
+            0.5803
+          ],
+          [
+            "postgraduate",
+            0.5442
+          ],
+          [
+            "programs",
+            0.437
+          ],
+          [
+            "diploma",
+            0.4309
+          ],
+          [
+            "masters",
+            0.4287
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "jee : btech :: gate : ?",
+        "positive": [
+          "gate",
+          "btech"
+        ],
+        "negative": [
+          "jee"
+        ],
+        "explain": "If JEE leads to BTech, what degree does GATE lead to?",
+        "answers": [
+          [
+            "bb",
+            0.5808
+          ],
+          [
+            "mtech",
+            0.577
+          ],
+          [
+            "specialization",
+            0.5442
+          ],
+          [
+            "ee",
+            0.5192
+          ],
+          [
+            "mt",
+            0.4934
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "iitm : madras :: iitj : ?",
+        "positive": [
+          "iitj",
+          "madras"
+        ],
+        "negative": [
+          "iitm"
+        ],
+        "explain": "If IIT Madras is in Madras (Chennai), IIT Jodhpur is in which city?",
+        "answers": [
+          [
+            "jodhpur",
+            0.5656
+          ],
+          [
+            "tisc",
+            0.4765
+          ],
+          [
+            "park",
+            0.3841
+          ],
+          [
+            "campus",
+            0.3608
+          ],
+          [
+            "kanpur",
+            0.3505
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "iitb : bombay :: iitd : ?",
+        "positive": [
+          "iitd",
+          "bombay"
+        ],
+        "negative": [
+          "iitb"
+        ],
+        "explain": "If IIT Bombay is in Bombay (Mumbai), IIT Delhi is in which city?",
+        "answers": [
+          [
+            "mandi",
+            0.6321
+          ],
+          [
+            "guwahati",
+            0.6259
+          ],
+          [
+            "gandhinagar",
+            0.624
+          ],
+          [
+            "kharagpur",
+            0.624
+          ],
+          [
+            "indore",
+            0.6156
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "exam : written :: viva : ?",
+        "positive": [
+          "viva",
+          "written"
+        ],
+        "negative": [
+          "exam"
+        ],
+        "explain": "If a regular exam is written, what mode is a viva (viva voce)?",
+        "answers": [
+          [
+            "voce",
+            0.5814
+          ],
+          [
+            "gambling",
+            0.4915
+          ],
+          [
+            "bifma",
+            0.4628
+          ],
+          [
+            "dexterity",
+            0.4542
+          ],
+          [
+            "evidences",
+            0.4374
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "conference : paper :: journal : ?",
+        "positive": [
+          "journal",
+          "paper"
+        ],
+        "negative": [
+          "conference"
+        ],
+        "explain": "If a conference publishes papers, what does a journal publish?",
+        "answers": [
+          [
+            "article",
+            0.5532
+          ],
+          [
+            "papers",
+            0.4383
+          ],
+          [
+            "publishing",
+            0.4313
+          ],
+          [
+            "volume",
+            0.426
+          ],
+          [
+            "abstract",
+            0.4106
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "conference : proceedings :: journal : ?",
+        "positive": [
+          "journal",
+          "proceedings"
+        ],
+        "negative": [
+          "conference"
+        ],
+        "explain": "If a conference has proceedings, what does a journal have?",
+        "answers": [
+          [
+            "articles",
+            0.4435
+          ],
+          [
+            "prosecution",
+            0.4236
+          ],
+          [
+            "volume",
+            0.4216
+          ],
+          [
+            "issue",
+            0.4094
+          ],
+          [
+            "journals",
+            0.3867
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "international : conference :: national : ?",
+        "positive": [
+          "national",
+          "conference"
+        ],
+        "negative": [
+          "international"
+        ],
+        "explain": "If a large-scale event is an international conference, what is a smaller national-level event called?",
+        "answers": [
+          [
+            "symposium",
+            0.5044
+          ],
+          [
+            "congress",
+            0.468
+          ],
+          [
+            "convention",
+            0.4347
+          ],
+          [
+            "summit",
+            0.4346
+          ],
+          [
+            "china",
+            0.4343
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "anand : mishra :: debasis : ?",
+        "positive": [
+          "debasis",
+          "mishra"
+        ],
+        "negative": [
+          "anand"
+        ],
+        "explain": "If 'anand' pairs with surname 'mishra', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Anand Mishra, Debasis Das)",
+        "answers": [
+          [
+            "das",
+            0.6795
+          ],
+          [
+            "sikarwar",
+            0.6727
+          ],
+          [
+            "limbasiya",
+            0.63
+          ],
+          [
+            "vishwakarma",
+            0.5941
+          ],
+          [
+            "sajal",
+            0.5728
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "anand : mishra :: gaurav : ?",
+        "positive": [
+          "gaurav",
+          "mishra"
+        ],
+        "negative": [
+          "anand"
+        ],
+        "explain": "If 'anand' pairs with surname 'mishra', what surname does 'gaurav' pair with? (IIT Jodhpur faculty: Anand Mishra, Gaurav Harit)",
+        "answers": [
+          [
+            "harit",
+            0.6204
+          ],
+          [
+            "bhatnagar",
+            0.5923
+          ],
+          [
+            "agrawal",
+            0.5339
+          ],
+          [
+            "chattopadhyay",
+            0.5147
+          ],
+          [
+            "sikri",
+            0.5111
+          ]
+        ],
+        "missing_words": []
+      }
+    ]
+  },
+  {
+    "architecture": "skipgram",
+    "vocab_size": 19495,
+    "nearest_neighbours": {
+      "research": [
+        [
+          "safari",
+          0.5154
+        ],
+        [
+          "niser",
+          0.5116
+        ],
+        [
+          "expanding",
+          0.4964
+        ],
+        [
+          "collaborative",
+          0.4897
+        ],
+        [
+          "strengthened",
+          0.4827
+        ]
+      ],
+      "student": [
+        [
+          "moderators",
+          0.5002
+        ],
+        [
+          "gymkhana",
+          0.4855
+        ],
+        [
+          "students",
+          0.4852
+        ],
+        [
+          "shan",
+          0.4794
+        ],
+        [
+          "nominations",
+          0.4729
+        ]
+      ],
+      "phd": [
+        [
+          "fms",
+          0.4597
+        ],
+        [
+          "parttime",
+          0.452
+        ],
+        [
+          "sharanya",
+          0.4462
+        ],
+        [
+          "mitacs",
+          0.4389
+        ],
+        [
+          "july2025",
+          0.4366
+        ]
+      ],
+      "exam": [
+        [
+          "examination",
+          0.6344
+        ],
+        [
+          "cbt",
+          0.6151
+        ],
+        [
+          "exams",
+          0.5894
+        ],
+        [
+          "entrance",
+          0.5595
+        ],
+        [
+          "postcode",
+          0.5448
+        ]
+      ],
+      "department": [
+        [
+          "epartment",
+          0.5635
+        ],
+        [
+          "csl7xx1",
+          0.4904
+        ],
+        [
+          "mal1010",
+          0.49
+        ],
+        [
+          "csl7xx2",
+          0.4814
+        ],
+        [
+          "ltpc",
+          0.4807
+        ]
+      ]
+    },
+    "analogies": [
+      {
+        "label": "UG : btech :: PG : ?",
+        "positive": [
+          "pg",
+          "btech"
+        ],
+        "negative": [
+          "ug"
+        ],
+        "explain": "If UG corresponds to BTech, what does PG correspond to?",
+        "answers": [
+          [
+            "mtech",
+            0.4928
+          ],
+          [
+            "decc",
+            0.4928
+          ],
+          [
+            "sit",
+            0.4538
+          ],
+          [
+            "ppos",
+            0.4343
+          ],
+          [
+            "bsc",
+            0.4308
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "professor : teaching :: researcher : ?",
+        "positive": [
+          "researcher",
+          "teaching"
+        ],
+        "negative": [
+          "professor"
+        ],
+        "explain": "If a professor's role is teaching, what is a researcher's role?",
+        "answers": [
+          [
+            "pursuits",
+            0.3583
+          ],
+          [
+            "performers",
+            0.3399
+          ],
+          [
+            "learners",
+            0.3389
+          ],
+          [
+            "safari",
+            0.3348
+          ],
+          [
+            "expanding",
+            0.3303
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "mtech : postgraduate :: btech : ?",
+        "positive": [
+          "btech",
+          "postgraduate"
+        ],
+        "negative": [
+          "mtech"
+        ],
+        "explain": "If mtech is postgraduate, what level is btech?",
+        "answers": [
+          [
+            "undergraduate",
+            0.5236
+          ],
+          [
+            "pgd",
+            0.4633
+          ],
+          [
+            "diplomas",
+            0.4597
+          ],
+          [
+            "bsc",
+            0.4429
+          ],
+          [
+            "pgc",
+            0.4248
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "mishra : assistant :: das : ?",
+        "positive": [
+          "assistant",
+          "das"
+        ],
+        "negative": [
+          "mishra"
+        ],
+        "explain": "If Anand Mishra holds Assistant Professor rank, what rank does Debasis Das hold? (expected: associate)",
+        "answers": [
+          [
+            "professor",
+            0.5312
+          ],
+          [
+            "debasis",
+            0.5087
+          ],
+          [
+            "gagan",
+            0.4801
+          ],
+          [
+            "sinjana",
+            0.4733
+          ],
+          [
+            "praveenkumar",
+            0.4724
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "gaurav : harit :: debasis : ?",
+        "positive": [
+          "debasis",
+          "harit"
+        ],
+        "negative": [
+          "gaurav"
+        ],
+        "explain": "If 'gaurav' pairs with surname 'harit', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Gaurav Harit, Debasis Das)",
+        "answers": [
+          [
+            "das",
+            0.6968
+          ],
+          [
+            "sajal",
+            0.5473
+          ],
+          [
+            "nahar",
+            0.5434
+          ],
+          [
+            "bhumika",
+            0.5387
+          ],
+          [
+            "amritesh",
+            0.5171
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "gate : pg :: jee : ?",
+        "positive": [
+          "jee",
+          "pg"
+        ],
+        "negative": [
+          "gate"
+        ],
+        "explain": "If GATE is the entrance for PG programs, what is the entrance for UG programs?",
+        "answers": [
+          [
+            "ug",
+            0.4931
+          ],
+          [
+            "diplomas",
+            0.4159
+          ],
+          [
+            "phds",
+            0.412
+          ],
+          [
+            "pgc",
+            0.402
+          ],
+          [
+            "iits",
+            0.3941
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "jee : btech :: gate : ?",
+        "positive": [
+          "gate",
+          "btech"
+        ],
+        "negative": [
+          "jee"
+        ],
+        "explain": "If JEE leads to BTech, what degree does GATE lead to?",
+        "answers": [
+          [
+            "mtech",
+            0.4492
+          ],
+          [
+            "siot",
+            0.4045
+          ],
+          [
+            "boys",
+            0.4032
+          ],
+          [
+            "specialization",
+            0.4003
+          ],
+          [
+            "mel6xx0",
+            0.3982
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "iitm : madras :: iitj : ?",
+        "positive": [
+          "iitj",
+          "madras"
+        ],
+        "negative": [
+          "iitm"
+        ],
+        "explain": "If IIT Madras is in Madras (Chennai), IIT Jodhpur is in which city?",
+        "answers": [
+          [
+            "tisc",
+            0.3527
+          ],
+          [
+            "iit",
+            0.3041
+          ],
+          [
+            "sharman",
+            0.2727
+          ],
+          [
+            "aiimsj",
+            0.2691
+          ],
+          [
+            "angel",
+            0.2679
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "iitb : bombay :: iitd : ?",
+        "positive": [
+          "iitd",
+          "bombay"
+        ],
+        "negative": [
+          "iitb"
+        ],
+        "explain": "If IIT Bombay is in Bombay (Mumbai), IIT Delhi is in which city?",
+        "answers": [
+          [
+            "rutag",
+            0.5408
+          ],
+          [
+            "lazar",
+            0.5003
+          ],
+          [
+            "bhart",
+            0.4992
+          ],
+          [
+            "chitilappilly",
+            0.4972
+          ],
+          [
+            "rtdd",
+            0.4671
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "exam : written :: viva : ?",
+        "positive": [
+          "viva",
+          "written"
+        ],
+        "negative": [
+          "exam"
+        ],
+        "explain": "If a regular exam is written, what mode is a viva (viva voce)?",
+        "answers": [
+          [
+            "voce",
+            0.6537
+          ],
+          [
+            "pleadings",
+            0.5142
+          ],
+          [
+            "reconsideration",
+            0.5008
+          ],
+          [
+            "qop",
+            0.4942
+          ],
+          [
+            "tpc",
+            0.4897
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "conference : paper :: journal : ?",
+        "positive": [
+          "journal",
+          "paper"
+        ],
+        "negative": [
+          "conference"
+        ],
+        "explain": "If a conference publishes papers, what does a journal publish?",
+        "answers": [
+          [
+            "publisher",
+            0.3827
+          ],
+          [
+            "article",
+            0.3381
+          ],
+          [
+            "papers",
+            0.3372
+          ],
+          [
+            "nelakanti",
+            0.3325
+          ],
+          [
+            "congratulation",
+            0.3221
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "conference : proceedings :: journal : ?",
+        "positive": [
+          "journal",
+          "proceedings"
+        ],
+        "negative": [
+          "conference"
+        ],
+        "explain": "If a conference has proceedings, what does a journal have?",
+        "answers": [
+          [
+            "vol",
+            0.3724
+          ],
+          [
+            "publisher",
+            0.3723
+          ],
+          [
+            "toxic",
+            0.3479
+          ],
+          [
+            "visualised",
+            0.3411
+          ],
+          [
+            "editor",
+            0.3376
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "international : conference :: national : ?",
+        "positive": [
+          "national",
+          "conference"
+        ],
+        "negative": [
+          "international"
+        ],
+        "explain": "If a large-scale event is an international conference, what is a smaller national-level event called?",
+        "answers": [
+          [
+            "chiao",
+            0.3935
+          ],
+          [
+            "tung",
+            0.3906
+          ],
+          [
+            "seoul",
+            0.385
+          ],
+          [
+            "ming",
+            0.3806
+          ],
+          [
+            "academy",
+            0.3764
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "anand : mishra :: debasis : ?",
+        "positive": [
+          "debasis",
+          "mishra"
+        ],
+        "negative": [
+          "anand"
+        ],
+        "explain": "If 'anand' pairs with surname 'mishra', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Anand Mishra, Debasis Das)",
+        "answers": [
+          [
+            "das",
+            0.593
+          ],
+          [
+            "bhumika",
+            0.4923
+          ],
+          [
+            "sajal",
+            0.4795
+          ],
+          [
+            "lokendra",
+            0.4762
+          ],
+          [
+            "amritesh",
+            0.4735
+          ]
+        ],
+        "missing_words": []
+      },
+      {
+        "label": "anand : mishra :: gaurav : ?",
+        "positive": [
+          "gaurav",
+          "mishra"
+        ],
+        "negative": [
+          "anand"
+        ],
+        "explain": "If 'anand' pairs with surname 'mishra', what surname does 'gaurav' pair with? (IIT Jodhpur faculty: Anand Mishra, Gaurav Harit)",
+        "answers": [
+          [
+            "harit",
+            0.5551
+          ],
+          [
+            "bhatnagar",
+            0.5083
+          ],
+          [
+            "bhuvnesh",
+            0.3981
+          ],
+          [
+            "jajoo",
+            0.3944
+          ],
+          [
+            "megha",
+            0.3855
+          ]
+        ],
+        "missing_words": []
+      }
+    ]
+  }
+]

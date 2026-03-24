@@ -1,0 +1,301 @@
+query image target video qdetrv detr for object localization in videos yogesh kumar1 saswat mallick1 anand mishra1 sowmya rasipuram2 anutosh maitra2 roshni ramnani2 institute of technology jodhpur india labs abstract in this work we study video object localization problem that aims to localize instances of unseen objects in the target video using single query image of the object
+ward addressing this challenging problem we extend ular and successful object detection method namely detr detection transformer and introduce novel approach detection transformer for videos qdetrv
+distinctive feature of qdetrv is its capacity to exploit formation from the query image and text of the target video which significantly aids in precisely pinpointing the desired object in the video
+we incorporate mechanisms that capture temporal ships across adjacent frames to handle the dynamic context in videos effectively
+further to ensure strong initialization for qdetrv we also introduce novel unsupervised training technique tailored to videos
+this involves training our model on synthetic object trajectories with an analogous objective as the localization task
+during this pretraining phase we incorporate recurrent object queries and loss functions that encourage accurate patch feature construction
+these additions enable better temporal standing and robust representation learning
+our experiments show that the proposed model significantly outperforms the competitive baselines on two public benchmarks vidor and extended for tion tasks
+introduction the field of computer vision has long been engaged in the pursuit of localizing objects of interest within videos
+in the past the primary emphasis has been localizing the fied object within single frame on the entire video sivic and zisserman
+additionally efforts have been made towards recognizing individuals based on their facial tures sivic everingham and zisserman or ing characteristics brunelli and falavigna
+in more novel direction some research has explored using natural language or queries to precisely locate jects within images minderer et al
+sadhu chen and nevatia kumar and mishra tripathi et al
+as visual comprehension continues to advance there is need for localization methodologies that can effectively copyright association for the advancement of artificial intelligence all rights reserved
+figure illustration of the proposed task
+given an seen query image and target video the model is expected to localize all instances of objects present in the query image on the target video
+pinpoint unfamiliar objects in the video that were not countered during the training phase and unexpectedly peared during testing
+this is particularly relevant in various application areas including surveillance systems and trial automation
+we illustrate our object localization goal in figure
+to address the challenge posed by ject localization our goal is to develop model that once trained can localize any object query that might arise expectedly during testing
+as noted in some of the recent works hsieh et al
+osokin sumin and lomakin such model should maintain its ture even during the training process
+our requisites distinct from approaches necessitate prior access to the list of gory names during both training and testing fan tang and tai du et al
+liang et al
+to this end we extend popular and successful object detection method namely detr detection transformer carion et al
+and introduce novel detection transformer for videos qdetrv
+the qdetrv leverages the visual representation of the query image to better localize the target object in the video frames
+to handle the temporal context in videos we incorporate that captures mation from neighboring frames of the video
+the key and value matrices of the are obtained from the contextual and target frames and the query matrix is derived from the query image
+the operation duces the final feature representation which inputs the detr
+to ensure stronger ization of qdetrv for our targeted task we introduced an unsupervised pretraining approach
+during the pretraining phase we employed feature reconstruction loss combined with recurrent object queries to enhance resentation quality and temporal learning
+to facilitate our study we have extended two ing datasets vidor shang et al
+and vidvrd shang et al
+by splitting them into train and test sets such that there are no common object categories between the two sets
+we obtain query images from each object category from the google kuznetsova et al
+this dataset preparation ensures istic evaluation of learning performance on videos containing unseen objects
+here we must highlight that we employ splits to conduct experiments
+ever our model remains entirely during the training and testing phases
+our experimental results strate the effectiveness of our proposed video ject localization approach on the extended vidor shang et al
+and shang et al
+by combining the detr with the context module our method exhibits robust performance in localizing instances of unseen objects in get videos
+the contributions of this work are twofold we posed novel and extension to detr
+our proposed model qdetrv incorporates poral module capitalizing on temporal context for superior object localization within videos
+ii we introduced novel unsupervised pretraining for qdetrv
+this pretraining objective is analogous to our downstream shot localization task resulting in notable improvement in the localization performance
+related work object detection over the last few years there has been significant progress in object detection largely due to the adoption of sophisticated strategies such as attention mechanisms formers and learning techniques sun et al
+fan tang and tai
+these strategies have been successful in variety of domains compassing both and object tection thus broadening the scope and application of these advanced detection methods
+recently coae hsieh et al
+and os2d osokin sumin and lomakin have shown significant advancements toward object tection in images
+the coae hsieh et al
+makes ingenious use of and mechanisms to generate region proposals and highlight correlated ture channels thereby improving the accuracy and efficiency of object detection
+on the other hand the os2d osokin sumin and lomakin model stands out as versatile system that simultaneously performs localization and recognition tasks proving its effectiveness in various detection scenarios
+in the realm of object tion recent innovations have resulted in the development of models like the feature model kang et al
+the feature enhancement mfe model wu et al
+the nguyen et al
+model for object counting and detection and the fast hierarchical learning she et al
+model signed to address the catastrophic forgetting issue
+these models each exploring different aspects of ing have contributed to improved performance across ous datasets and settings
+in the context of video object tection models like the tube proposal network with poral matching network nguyen et al
+and the thaw method yu et al
+for learning in video ject detection have been proposed
+both models harness the power of attention mechanisms transformers and learning techniques to achieve compelling results
+there have been several successful advances towards developing detr carion et al
+variants in recent years for dressing different objectives for example in dong et al
+authors proposed an incremental detr that can eralize to novel classes with finetuning on few examples
+proposed different variants of object query and jia et al
+proposed an auxiliary many matching branch during training to enhance the formance of detr for object detection in images
+proposed method that enhances the original detr carion et al
+model by introducing unsupervised pretraining with random query patch tion pretext task demonstrating considerable performance improvement
+the advancements in these areas suggest that the continuous refinement of these techniques can lead to substantial improvements in object detection across image and video domains with limited supervision
+pretraining pretraining methods based on transformers such as bert kenton and toutanova and gpt brown et al
+for natural language processing and vit skiy et al
+for computer vision have revolutionized the landscape of various tasks including object detection
+these methods leverage mechanisms to learn semantic features from data resulting in models with robust generalization capabilities
+by training on data with diverse modalities such as pairs minderer et al
+these models can hance the quality of representation learning and also enable the transfer of this knowledge to downstream tasks even when data are scarce thereby circumventing some of the limitations of traditional methods
+furthermore unsupervised pretraining techniques such as the random query patch detection proposed by dai et al
+have shown promise in enhancing the performance of object detection models
+by capitalizing on the strengths of the transformer architecture in capturing pendencies and spatial localization these techniques offer exciting avenues for future research and development in ject detection
+value concat conv softmax figure illustration of the proposed qdetrv
+the process begins with the feature extraction of query image and video frames using cnn encoder
+mechanism and attention are used to create an attention map transforming target frame features
+the output is integrated into detr encoder and predictions for bounding boxes are generated using the detr decoder
+detr for videos qdetrv given query image iq featuring an unseen object the jective is to spatiotemporally localize all instances of the seen object within target video
+videos with their tricate interplay of spatial and temporal dimensions present both opportunities and challenges for localization
+ing this complexity effectively ensures high precision and reduces false localization
+to this end in this work we posed qdetrv that effectively harnesses the temporal text from the neighboring frames for better localization of unseen objects
+in this work we utilize query image iq frame it and set of adjacent frames from the target video
+these frames are defined as where to with poral context window for the tth frame of the video
+feature encoding the query image target and tual frames are processed through convolutional ral network cnn encoder to generate corresponding ture representations
+this results in the dimensions iq it and where and are the height and width of the cnn feature maps and ck and ct are the channel dimensions
+mechanism for temporal context in our work we utilize the nism vaswani et al
+to encode temporal context within the target frame and enable interaction between the query image and the target frame
+as part of this process we first generate query key and value matrices using convolution tions of kernel size
+subsequently we apply the product attention vaswani et al
+between query and key which results in an attention map
+the latter serves as storage of correspondences between the visual feature of the query image and the temporal context extracted from the video
+this attention map is then used to transform the get frame features represented by value
+this process leads to output features which can be defined by the following equations here multiplication
+the put features are enriched by adding positional embedding and are then integrated into the encoder of detr carion et al
+this allows the localization of unseen objects within the target frame which is treated as direct set lem similar to detr carion et al
+the decoder role is to generate pairs of predictions yi to rately determine the bounding box of the query object in the current frame
+further we leverage the hungarian algorithm to calculate the matching cost between the prediction and the ground truth yi
+here signifies the index of yi as computed by optimal bipartite matching
+loss formulation the predicted result yi ci r2 bi pi comprises three elements ci this binary classification determines whether match with the query object is found ci or not ci for each object query
+bi this vector is responsible for defining the box center coordinates along with its width and height represented as pi is feature reconstruction used during pretraining for additional supervision
+taking into count these definitions we define the hungarian loss for all matched pairs as match match match box box box feature feature feature rec rec rec ffn memory ffn memory ffn memory enc
+positional encoding positional encoding positional encoding patch context frame target frame patch context frame target frame patch context frame target frame match box feature rec fn memory fn memory ec
+fn memory patch co ntext frame targ et frame patch context frame ta rget frame patch ontext frame ta rget frame figure unsupervised video pretraining each frame along with its associated query patch and context frame is fed into qdetrv
+the model detects the patch on every frame using decoded object queries responsible for predicting the bounding box
+these decoded queries are then forwarded to the next frame as object queries for the decoder
+containing the semantic information extracted from previous frames for patch objects they facilitate the detection in subsequent frames
+during this phase an unsupervised query reconstruction loss is also applied as an extra supervisory mechanism
+the model has been trained on synthetically created dataset to enhance its performance
+in this equation is the number of frames lmatch refers to the binary loss over two classes match the query object not match and symbolizes the class ance weight
+the lbox is combination of l1 loss and the generalized iou loss with the weight ing the same as those in detr carion et al
+unsupervised pretraining of qdetrv inspired by dai et al
+we introduce pretraining strategy suitable for qdetrv
+this pretraining strategy is designed to locate specific query patch within each frame process that aligns closely with our main objective
+we devised synthetic dataset based on the ucf101 soomro zamir and shah dataset inspired by wang et al
+our pretraining aims to identify and locate the query patch in every video frame mimicking our main video frame ization task as visualized in figure
+to ensure our training approach is effective and aligns well with our mary task we have added two additional mechanisms we integrated an unsupervised query reconstruction loss as suggested in dai et al
+this additional loss proves training signals and ensures embeddings are formed
+the combined loss for this pretraining phase is represented as here lrec represent the reconstruction loss defined low ii to enhance the temporal context further we used rent object queries
+we fed decoded object queries from the decoder which localizes the query patch into the decoder again for predicting the patch in the subsequent frame as picted in figure
+to incorporate recurrent queries we used memory module
+the memory is matrix where is the number of object queries used in detr with each object query having dimension of
+during ing for every frame it stores decoded object queries current queries responsible for localization
+the recurrent queries carry temporal context from the previous frames and help to localize the object in the subsequent frames
+their utility is quantitatively evaluated in table
+we also incorporated an unsupervised ing for dai et al
+during this pretraining phase the primary objective is to localize domly selected patch within the input image
+for this training stage we employed the imagenet russakovsky et al
+method shang et al
+vidvrd shang et al
+seen unseen coae hsieh et al
+osokin sumin and lomakin minderer et al
+dai et al
+ours qdetrv table comparative performance of different baselines and our method on shang et al
+the metric for evaluation is map
+qdetrv methods outperform other baselines across both datasets and splits with pertaining significantly boosting the performance
+split vidvrd train videos train object queries train object categories test videos test object queries test object categories table overview of the shang et al
+datasets summarizing the tribution of training and testing videos object queries and object categories for both seen and unseen splits
+experiments and results datasets and performance measure in this work we employed three primary datasets dor shang et al
+shang et al
+and open images kuznetsova et al
+we further refined vidor and annotations segregating like fruits and vegetables
+tracted target frames from both datasets were paired with open images
+some classes were excluded during training but all frames were used in testing
+note that our method is and does not use the class information during training and testing
+dataset statistics are provided in table
+dataset for pretraining for effective visual representation learning synthetic datasets are crucial given the challenging task of annotating real object movements in videos
+we gin by generating simulated trajectory resembling object movement
+consistency is ensured using bounding boxes at chosen keyframes with positions filled by ear interpolation
+patches from real video frames are then superimposed on this trajectory
+the ucf101 soomro mir and shah dataset featuring videos with diverse complexities was employed for pretraining given its suitability to improve our approach
+performance measure we have utilized the mean average precision map at an intersection over union iou of as our primary evaluation metric
+our evaluation operates temporal context window size figure ablation study on the temporal context window size using the vidor dataset
+positive correlation is served between the window size and the map
+framewise considering each frame as separate detection problem
+baselines and implementation details the absence of prior work on based object localization methods inclines us to benchmark our proposed method against techniques in fashion
+however such models might not be able to capture temporal aspects of the video
+approach naive approach would volve combining an object detector that detects all objects as one class coupled with an image retrieval system for detection
+this system utilizes the object tor detections as database and class objects as queries to search for relevant images
+inspired by baselines in okin sumin and lomakin we utilized object tors with identical architectures
+coae hsieh et al
+it uses operations to explore the embodied in each pair and yield region proposals accounting for the uation
+it then formulates that adaptively emphasizes correlated feature channels to help uncover relevant proposals and eventually the target jects
+this method intentionally casts the learning tion such that it does not solely rely on the label information of training data but instead explores correlated evidence vealed by the pairs
+recurrent query vidvrd vidor window size window size window size window size bear carrot coconut frisbee kangaroo lemon leopard melon orange stop sign coae table performance comparison
+each column indicates performance for distinct object categories
+larger objects like bears kangaroos and leopards are better detected than smaller ones like coconuts and lemons
+table ablation studies on recurrent queries during training showed improved performance
+this highlights the importance of adding temporal context in the pretraining phase
+minderer et al
+we used it as the object detection method for the video by applying it at each frame
+used sion transformer architecture and contrastive pretraining
+it refines the detr model via unsupervised pretraining using random query patch tection task
+by selecting random image patches as queries and training the model to detect them addresses challenges like balancing classification with localization by freezing the cnn backbone and managing multiple query patches with attention masks
+this approach significantly boosts performance in object tion leveraging pretraining to achieve enhanced accuracy with minimal labeled data
+implementation details we and our models using the adam optimizer kingma and ba with an initial learning rate
+the initialization of our frame and query encoders leverages weights of on the imagenet dataset russakovsky et al
+we train the model for epochs with batch size
+our implementation was done using the pytorch brary
+we trained the model on three a6000 gpus
+results and discussions the results presented in table showcase the mance comparison of various methods applied for both of the datasets shang et al
+and vrd shang et al
+the methods assessed include baselines osokin sumin and lomakin minderer et al
+qdetrv without poral module and our qdetrv with the latter two being tested both with and without pretraining
+performance of qdetrv for the dataset trv with video pretraining yielded the best performance figure visualization on test frame with varying window size
+attention improves on objects of terest with an increase in window size
+with for seen and for unseen classes passing its performance without pretraining which scored and respectively
+it important to note that unsupervised video pretraining improved the results icantly highlighting its effectiveness as strategy for this task
+we get similar observations for the dataset
+ablation study on temporal context module to uate the effectiveness of the temporal context module grated into qdetrv we conducted an ablation study where this module was removed
+we exclusively adopted an level approach for unsupervised pretraining eliminating the recurrent queries and leveraging the imagenet sakovsky et al
+without context module with pretraining our method becomes similar to dai et al
+the results from this lation demonstrated notable performance boost for qdetrv without pretraining
+furthermore with ing there was enhancement in performance on dor shang et al
+dataset for the unseen test set as shown in table
+with varied temporal context windows as we progressed to the stage we explored ent temporal context windows spanning range from to as depicted in figure
+interestingly our results indicated that as the temporal context window expanded there was corresponding enhancement in performance
+this trend derscores the pivotal role of temporal context in improving localization accuracy
+visualization for varied temporal text figure shows the visualization on the test frame for different window sizes
+the attention to the object of interest improves with an increase in the window size showing the efficacy of temporal context being utilized from context frames of the video
+ablation on recurrent queries table presents an figure qualitative results
+in the green box results qdetrv accurately localizes objects from the query image on the left
+the red box highlights the model limitations with missed localization in videos where the object is only partially visible in the query image
+figure failure cases
+we observed the following major failure types the occluded object is missed ii visually similar object is detected as dear on the top left iii few small instances of the hammer are missed iv an overlapping instance is commonly detected as single object
+tion study focusing on the impact of recurrent queries during the pretraining phase
+when recurrent queries are employed indicated by there noticeable performance ment on both datasets on shang et al
+and on vidor shang et al
+pared to when these queries are omitted
+while ingly modest these increments emphasize the added value of recurrent queries in capturing intricate temporal tion during pretraining
+performance table shows the formance on vidor dataset
+intriguingly jects like bear kangaroo and leopard generally achieve ter performance compared to relatively smaller objects such as coconut and lemon
+qualitative results qdetrv effectively localizes query objects both spatially and temporally within the videos as shown in the first two rows of figure
+notably in the ond video qdetrv adeptly identifies multiple instances of the object
+failure case analysis while our proposed methodology has shown promising results it does come with few tations our model qdetrv highly relies on the quality of the query image for object localization in videos
+as shown in figure red box occluded query images often lead to weak or missing localization
+further we observe the lowing major failure cases occlusion ii visually similar object iii small object and iv overlapping instances on randomly selected video frames
+figure shows selection of these examples
+we leave addressing these limitations of the current model as the future scope of this work
+conclusions we introduced the novel detr for videos qdetrv effectively enhancing video object localization using query image and temporal context
+we showed evaluations on two extended datasets that displayed superior and consistent performance of qdetrv particularly when paired with unsupervised pretraining
+while showing promise our approach has few limitations including limited success in localizing small or occluded object instances
+further it struggles to differentiate between visually similar objects
+we leave addressing these limitations as future work and firmly believe this work will open up new research avenues in video object localization
+acknowledgment this work is supported by gift grant from accenture labs project number
+yogesh kumar is supported by ugc fellowship
+references brown mann ryder subbiah kaplan dhariwal neelakantan shyam sastry askell et al
+language models are learners
+brunelli and falavigna
+person identification using multiple cues
+carion massa synnaeve usunier kirillov and zagoruyko
+object detection with transformers
+supervised for object detection with ers
+dong zhang ding and lee
+incremental object tion via learning
+dosovitskiy beyer kolesnikov weissenborn zhai unterthiner dehghani minderer heigold gelly uszkoreit and houlsby
+an image is worth words transformers for image recognition at scale
+aware object detection learning what you don know from videos in the wild
+video object detection
+fan zhuo tang and tai
+shot object detection with and detector
+lo chen and liu
+object detection with and excitation
+detrs with hybrid matching
+kang liu wang yu feng and darrell
+object detection via feature reweighting
+kenton and toutanova
+bert of deep bidirectional transformers for guage understanding
+adam method for stochastic optimization
+kumar and mishra
+referring tionships in videos
+kuznetsova rom alldrin uijlings krasin kamali popov malloci kolesnikov duerig and ferrari
+the open images dataset v4
+liang xue liu zhong and ming
+unknown sniffer for object detection don turn blind eye to unknown objects
+minderer gritsenko stone neumann weissenborn dosovitskiy mahendran arnab dehghani shen wang zhai kipf and houlsby
+simple object tection
+nguyen pham nguyen and hoai
+shot object counting and detection
+osokin sumin and lomakin
+os2d stage object detection by matching anchor features
+russakovsky deng su krause satheesh ma huang karpathy khosla bernstein berg and
+imagenet large scale visual recognition challenge
+sadhu chen and nevatia
+grounding of objects from natural language queries
+shang di xiao cao yang and chua
+annotating objects and relations in generated videos
+shang ren guo zhang and chua
+video visual relation detection
+in acm national conference on multimedia
+she bhat danelljan and yu
+fast archical learning for object detection
+sivic and zisserman
+video google text retrieval approach to object matching in videos
+sivic everingham and zisserman
+person spotting video shot retrieval for face sets
+soomro zamir and shah
+ucf101 dataset of human actions classes from videos in the wild
+sun li cai yuan and zhang
+fsce object detection via contrastive proposal encoding
+tripathi dani mishra and chakraborty
+multimodal object localization
+media tools and applications
+vaswani shazeer parmar uszkoreit jones gomez kaiser and polosukhin
+tention is all you need
+wang zhou luo xie zeng and xiong
+unsupervised visual representation learning by tracking patches in video
+wang huang gonzalez darrell and yu
+frustratingly simple object detection
+wu liu huang and wang
+positive sample refinement for object detection
+yu wang chen raschka and luo
+when learning meets video object detection

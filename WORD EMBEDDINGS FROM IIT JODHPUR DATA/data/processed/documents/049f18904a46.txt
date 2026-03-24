@@ -1,0 +1,3 @@
+the research theme on computing systems focuses on novel approaches to processing and computation for and hardware
+with the availability of massive data acquisition and data processing the research in future computing systems is oriented towards computing ai architectures
+research themes advanced processor technologies neuromorphic computing scheduling algorithms for multicore processors and heterogeneous platforms advanced processor technologies neuromorphic computing scheduling algorithms for multicore processors and heterogeneous platforms facilities keil professional arm development studio development boards for different processors arm development studio development boards for different processors associated lab control computing lab control computing lab

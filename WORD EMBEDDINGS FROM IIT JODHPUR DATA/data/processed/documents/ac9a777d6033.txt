@@ -1,0 +1,25 @@
+seminars and meetings diving deep into physics colloquium series from empirical to machine learning potentials modeling liquid ethylene glycol by anjali gaur jncasr bengaluru india on jan at pm ist title of the talk from empirical to machine learning potentials modeling liquid ethylene glycol speaker anjali gaur jncasr bengaluru when
+jan from ist where
+kothari seminar hall department of physics
+abstract refining empirical force field ff parameters for accurate structural and dynamic properties is challenging especially for complex systems like ethylene glycol eg
+even for very simple system like water there are over ffs available and each has its benefits and drawbacks
+refined ff enables studying chemical systems over nanosecond to microsecond timescales unlike ab initio molecular dynamics md which is limited to few of picoseconds
+combining dft calculations ab initio md and classical md simulations we developed an empirical ff that accurately matches the liquid structure and dynamics of eg with experimental data
+additionally interesting conformational changes of eg molecules in its aqueous solutions and at interfaces were observed
+however traditional ffs fail to capture electronic polarization limiting their ability to reproduce properties like dipole moment and dielectric constant
+to address this potentials trained on bulk quantum dft data offer more accurate alternative without the need for manual parameterization
+given the simplicity and efficacy of the potential models presented here they are ideal for investigating mixtures of eg with other fluids including deep eutectic solvents and solutions
+pathirannahalage et chem
+visit link gaur and balasubramanian phys
+visit link gaur and balasubramanian chemistryopen
+visit link gaur and balasubramanian langmuir
+visit link about the speaker anjali gaur completed her under the guidance of balasubramanian sundaram at jncasr bengaluru
+her doctoral research focused on force field development for liquids and investigating their physical properties using ab initio and classical molecular dynamics simulations
+currently she is working on the development of machine learning potentials for liquid ethylene glycol
+as postdoctoral researcher she will join the phenix cnrs lab to work with mathieu salanne on the development of machine classical force fields for battery electrolytes
+all are welcome
+flyer here download file title of the talk from empirical to machine learning potentials modeling liquid ethylene glycol speaker anjali gaur jncasr bengaluru when
+flyer here download file important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb pm

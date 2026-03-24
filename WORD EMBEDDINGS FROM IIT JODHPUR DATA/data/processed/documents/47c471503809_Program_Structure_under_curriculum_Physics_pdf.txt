@@ -1,0 +1,9 @@
+course number course title credits ph5xx mathematical physics ph5xx classical mechanics ph5xx quantum ph5xx electronics ph5xx statistical physics electronics lab condensed matter physics lab total ph5xx electrodynamics ph5xx condensed matter physics ph5xxphysics of atoms molecules ph5xxnuclear particle physics program elective atomic nuclear physics lab optics lasers lab program elective program elective program elective computational physics lab seminar project total program elective program elective project total program structure
+physics semester program electives multidisciplinary science and technology
+introduction to materials characterization
+introduction to medical physics optical radiation based image analysis mri fundamentals of plasma fusion science
+statistical methods for data analysis
+nonlinear dynamics and chaos engineering physics
+fibre optics communication
+energy harvesting technologies
+solar energy technologies

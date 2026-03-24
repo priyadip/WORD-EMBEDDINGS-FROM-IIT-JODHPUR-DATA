@@ -1,0 +1,30 @@
+the digital infrastructure automation the digital infrastructure automation dia commonly known as computer center of the indian institute of technology jodhpur stands as testament to the institution commitment to research innovation and technological development
+as pivotal hub for computing and information technology the computer center has played crucial role in shaping the academic landscape and the advancement of the institute
+since its inception the computer center has undergone remarkable development and growth aligning itself with advancements in the field of computing
+equipped with infrastructure and team of highly skilled professionals the center has fostered an environment conducive to research and learning
+the computer center hosts modern data center that is capable of hosting more than forty server racks
+that is the data center has ample capacity to accommodate future growth and expansion
+the data center is equipped with precision cooling systems that ensure optimal performance and reliability and redundant power backups that guarantee uninterrupted operations
+the data center already houses an array of virtualization clusters which are used for all automation erp eoffice websites etc
+needs at the institute
+this cluster is powered by eight modern servers and tb storage system
+the computer center serves as an epicenter for academic and technical training programs
+it enables its faculties to offer workshops seminars and training sessions on different technologies and tools
+further the computer center engages students of iit jodhpur in challenging projects that provide exposure to different modern technologies at the data center
+through this initiative the computer center established its openstack cluster and data center monitoring and tracking system
+these initiatives not only enhance the knowledge and skills of students but also promote innovation
+the entire campus network at iit jodhpur runs on backbone with capacity of up to gbps
+the dia manages internet leased lines with bandwidths of up to gbps from nkn bsnl airtel and pgcil ensuring reliable and fast internet access for students faculty staff guests and visitors from other institutions
+lan and services are available throughout the campus including both academic and residential areas
+additionally the dia supports an telephony system for communication among faculty group officers departments and various offices
+to ensure the security of the campus network iit jodhpur is equipped with strong network firewall and regularly conducts cybersecurity awareness programs
+in terms of its current status the dia of iit jodhpur continues to evolve and adapt to the changing technological landscape
+it developed infrastructure to remain at the forefront of research and development addressing challenges in areas such as artificial intelligence data science cybersecurity and computing
+furthermore the center places strong emphasis on software and promotes its usage across the institute
+it encourages students and faculty members to use and contribute to the community fostering culture of sharing and collaboration
+the future vision for the dia of iit jodhpur is to enhance its capabilities such as upgradation of hpc and new software are under procurement
+evolution of computer center the digital infrastructure automation dia commonly known as computer center of the indian institute of technology jodhpur stands as testament to the institution commitment to research innovation and technological development
+evolution of computer center important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated mar pm

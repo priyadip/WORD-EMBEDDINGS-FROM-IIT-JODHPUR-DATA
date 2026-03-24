@@ -1,0 +1,61 @@
+SOURCE_PDF: 53640e850611_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877993.pdf
+
+Indian Institute of Technology Jodhpur
+HEAT TRANSFER: Fundamentals of Heat Transfer, Steady State Heat Transfer by conduction 
+through various geometric configuration, Heat Transfer by Convection and Measurement, Heat 
+Transfer by Phase Change, Thermal Radiation and measurement, Heat Exchangers, Evaporation, 
+Unsteady state heat transfer, Equipment set-up and maintenance. 
+ 
+FLUID FLOW OPERATION: Fluid Statics, Fluid dynamics, Behaviour of different types of fluids, 
+Transportation of fluids, Fluidization, Fluidised and Packed bed flow, Flow and Level 
+measurement, Drag coefficients and measurements, fluid friction measurement, Pumps, NPSH, 
+Cavitation, Boundary Layer theory, Types of flow & Reynolds Apparatus, Equipment set-up and 
+maintenance. 
+ 
+MASS TRANSFER: Introduction, Molecular Diffusion of Solids and Fluids, Prediction of Diffusion 
+Coefficient Interphase Mass Transfer, Gas Absorption, Packed Bed Absorption, Liquid-Liquid 
+Extraction, Leaching and Solid-Liquid Extraction, Batch and Sieve Plate Distillation, Humidification 
+and Cooling Tower, Drying and Dryers and Adsorption, Equipment set-up and maintenance. 
+ 
+INSTRUMENTATION AND CONTROL: Introduction to Instrumentation, Temperature 
+Measuring Devices, Measurement of Pressure & Vacuum, Measurement of Head & Level, Process 
+Recording Instruments, Distributed Control Systems, Interacting & Non-Interacting Systems, Single 
+and Two-Tank Systems, Equipment set-up and maintenance. 
+ 
+THERMODYNAMICS: Introduction and First law of thermodynamics, Second law of 
+thermodynamics, Introduction to refrigeration and liquefaction, Vapour-Liquid equilibrium of pure 
+and substance and mixtures. 
+ 
+REACTION ENGINEERING: Introduction to reaction engineering, Kinetics of homogeneous 
+reaction, Interpretation of ideal and non-ideal reactor data, Introduction to reactors in series, PBR 
+and Semi-batch reactor, RTD, Equipment set-up and maintenance. 
+ 
+ENGINEERING MEASUREMENTS: Introduction to Physical Quantities and Units, Linear 
+Measurements, Precision Measurements, Measurement of Area, Measurement of Electrical Energy, 
+Measurement of frictional coefficient, Measurement of volumetric flow rate & Mass flow rate, 
+Measurement of pH, Measurement of hardness of water, Measurement of Specific Gravity, 
+Measurement of Viscosity. 
+ 
+PROCESS CALCULATIONS: Introduction, Basic Chemical Calculations, Material Balance with 
+and without chemical reaction, Energy Balance, Combustion, ideal gas law. 
+ 
+ENGINEERING MATERIALS: Corrosion, Coatings and Polymer Materials.
+
+MECHANICAL OPERATION: Introduction and concepts of Mechanical Operations, particulate 
+solids, Screen Analysis, Size Reduction, Sedimentation, Filtration, Agitation and Mixing, Equipment 
+set-up and maintenance. 
+ 
+INDUSTRIAL SAFTY AND ENVIRONMENTAL ENGINEERING: General Introduction & 
+Concept of Safety, Chemical & Fire Hazards & their Control, Other hazards & occupational diseases, 
+Personal Protective Devices, Introduction to pollution, Air Pollution, Water pollution, Solid waste 
+of disposal. 
+ 
+PLANT UTILITIES AND ENERGY ENGINEERING: Introduction, Conventional fuels, Non- 
+conventional sources of energy, Water & Steam, Air & Refrigeration, Equipment set-up and 
+maintenance. 
+ 
+COMPUTER AWARENESS: Applications of computers in Chemical Instrumentation and Process 
+Control, Basic knowledge of Computer Applications, viz. MS Word, MS Excel, Power Point etc. 
+Internet, MS-DOS, LINUX, Windows. 
+ 
+COMMUNICATION SKILLS: English grammar, vocabulary, oral and written communication.

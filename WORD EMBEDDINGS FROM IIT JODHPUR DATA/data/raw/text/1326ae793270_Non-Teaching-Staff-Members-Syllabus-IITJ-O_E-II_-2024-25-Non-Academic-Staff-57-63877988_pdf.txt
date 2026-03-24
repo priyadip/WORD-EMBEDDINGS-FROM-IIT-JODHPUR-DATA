@@ -1,0 +1,29 @@
+SOURCE_PDF: 1326ae793270_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL ASSISTANT (Inter-Disciplinary Research Platform)
+(WRITTEN TEST & SKILL TEST)
+(Suitable for candidates with Mechanical/Mechatronics Engineering background)
+WRITTEN TEST & SKILL TEST
+Prototyping using CAD/CAM: Standard machine tools and their operations like turning, drilling, milling 
+and finishing operations; basics of CAD software for designs, understanding related to the operation and 
+working principles of advanced manufacturing and inspection equipment such as CNC Machines, 3-D 
+Printers, knowledge of computational tools for component fabrication; knowledge of programming for 
+component fabrication; reverse Engineering of components using 3D measurements.
+Kinematics and dynamics of mechanisms and machines: Transmission system, gears and gear trains; Statics 
+and Dynamic Balancing; Single-DoF Vibration; spatial transformations; geometrical parameters of robots; 
+forward kinematics of robots.
+Control of mechatronic systems: Basic characteristics of the feedback system, open/closed-loop control and 
+structures; PI, PD and PID controller design, actuators, sensors; basic computer programming, 
+programming of embedded systems, e.g., Arduino.
+General Skills: Planning & performing simple repairs, overhauling different machines and checking 
+functionality, knowledge of different apparatus/machines, preventive maintenance, basic geometrical 
+measurements for inspection and quality control
+(Suitable for candidates with Electronics and Communication Engineering/ Electronics and Electrical
+Engineering/ Instrumentation/ Electronics/Electrical Engineering background)
+WRITTEN TEST & SKILL TEST
+Basic Circuit Analysis KVL-KCL; Circuit Theorems; Semiconductor Devices diode, transistor, Different diode 
+rectifiers; filters; biasing circuits of Transistors; basics of power electronics circuits, SCR controlled rectifier; 
+Basics of Electrical Machines, Operational amplifier and its circuits; Digital Electronics and basics of 8085 
+Microprocessors; Different modulation techniques; feedback control systems; transfer function and block 
+diagram reduction technique; Basic programming using C, Assembly.

@@ -1,0 +1,13 @@
+intelligent vlsi systems in the current era of iot artificial intelligence ai and circuits there are multiple prototypes being proposed and demonstrated these days for smart and applications
+to support this are required which should be able to handle high bandwidth requirements of these applications
+over the decades very large scale integration vlsi technologies have been robust way to implement the required functionality through digital systems implementation and make it very easy for the designers at different abstraction levels to transfer the intellectual properties
+for meeting timing and power requirements in these systems various aspects of integrated implementation of digital and analog is required
+this program aims to provide the students an exposure by making them understand the functioning designing and testing of vlsi circuits and system as well as their performance assessment criteria
+the program includes variety of detailed courses on analog circuits digital circuits circuits synthesis verification and testing
+these courses address art design methodologies as well as current trends in the industry such as design issues and techniques
+the brochure of the program can be downloaded here
+the brochure for the executive project sponsored category can be downloaded here
+detailed curriculum can be downloaded here
+for any query please refer to the faq download file
+in the current era of iot artificial intelligence ai and circuits there are multiple prototypes being proposed and demonstrated these days for smart and applications
+detailed curriculum can be for any query please refer to the faq download file

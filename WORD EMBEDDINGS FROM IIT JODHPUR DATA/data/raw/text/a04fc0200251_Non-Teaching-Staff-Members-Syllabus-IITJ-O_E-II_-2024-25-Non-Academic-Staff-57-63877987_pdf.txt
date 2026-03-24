@@ -1,0 +1,91 @@
+SOURCE_PDF: a04fc0200251_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877987.pdf
+
+1. Basic concepts of organic chemistry, Basic mechanistic concepts – kinetic versus thermodynamic
+control, Hammond’s postulate and Curtin-Hammett principle, identification of products,
+intermediates and isotopic labelling.
+2. Addition reactions to carbon-carbon and carbon-heteroatom (N, O) multiple bonds. Elimination
+reactions. Reactive intermediates – carbocations, carbanions, carbenes, nitrenes, arynes and free
+radicals. Molecular rearrangements involving electron deficient atoms, and name reactions.
+Synthesis and reactions, of following classes of compounds – alkenes, alkynes, arenes, alcohols,
+phenols, aldehydes, ketones, carboxylic acids, esters, nitriles, halides, nitro compounds, amines
+and amides. Selectivity in organic synthesis – chemo-, regio- and stereoselectivity. Protection and
+deprotection of functional groups.
+3. Isomers and their classifications. Chirality of organic molecules with or without chiral centres
+and determination of their absolute configurations. Homotopic, enantiotopic and diastereotopic
+atoms, groups and faces. Optical /Specific rotation. Stereo-selective and stereospecific synthesis.
+Conformational analysis of acyclic and cyclic compounds.
+4. Structure, preparation, properties and reactions of heterocyclic molecules, e.g., furan, pyrrole,
+thiophene, pyridine, indole, quinoline and isoquinoline etc.
+5. Pericyclic reactions and their classifications. Orbital correlations - FMO and PMO treatments.
+Photochemistry of alkenes, arenes and carbonyl compounds. Photooxidation and
+photoreduction. Di-π-methane rearrangement, Barton reaction.
+6. Synthesis and properties of natural and synthetic polymers, e.g., polythene, nylon polyesters,
+bakelite, rubber. Biodegradable and nonbiodegradable polymers.
+7. Applications of UV-visible, IR, NMR and Mass spectrometry in the structural determination of
+organic molecules.
+8. Common laboratory techniques/methods, such as crystallization, decolorization, extraction,
+purifications and separation etc. 1. Basic concepts of organic chemistry, Basic mechanistic concepts – kinetic versus thermodynamic
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT (Chemistry)
+
+(B) SKILL TEST
+1. Safety in Chemistry Lab
+(a) Operation of fire extinguisher. 
+(b) Use of personal protective equipments. 
+(c) Introduction to Material Safety Data Sheet 
+(d) (MSDS) and personal protection equipments 
+(e) General laboratory safety rules
+2. General laboratory Practices
+(a) Preparation of solutions of solids, liquids, volatile, non-volatile, etc. substances. 
+(b) Preparation of standard & primary standard solutions. 
+(c) Purification & separation of liquid mixture by distillation
+3. Titrations
+(a) Analysis of acids & bases (Acidimetric titrations and Alkali metric titration). 
+(b) Acid, base, salt, Atomic Weight, Molecular Weight, Equivalent Weight, Normality,
+Molarity, Molality , ppm, ppb, density, Specific gravity Weight - volume relationship.
+(c) Precipitation titration. Complexometric titrations.
+4. Organic Synthesis and Quantitative analysis
+(a) Preparation of organic compounds Nitration Laboratory preparation of nitro benzene And
+percentage yield determination.
+(b) Saponification 
+(c) Aldol reaction 
+(d) Analysis of organic compounds to determine: a) elements present b) functional group c)
+melting point
+5. Inorganic Synthesis and quantitative analysis
+(a) Preparation of copper sulphate and determination of percentage purity and percentage
+yield
+(b) Preparation of metal complexes and its determinations.
+6. Instrumental analysis
+(a) Determination the pH of given solution by using pH meter. 
+(b) Determination of optical rotation of sugar solution using polarimeter 
+(c) Study of Micro scope 
+(d) Melting point determination 
+(e) Operation of High end equipment such as NMR, HRMS, TEM, etc.
+7. English Literacy and general computer skills
+(a) Pronunciation 
+(b) Accentuation on simple words, Diction (use of word and speech) 
+(c) Functional Grammar Transformation of sentences, Voice change, Change of tense,
+(d) Reading and understanding simple sentences about self, work and environment 
+(e) Writing Construction of simple sentences Writing simple English and Speaking / Spoken
+English
+(f) Basics of Computer Introduction, Computer and its applications, Hardware and
+peripherals
+(g) Computer Operating System Basics of Operating System, WINDOWS, The user interface
+of Windows OS, Create, Copy, Move and delete Files and Folders, Use of External memory 
+like pen drive, CD, DVD etc, Use of Common applications.
+
+(h) Word processing and Worksheet Basic operating of Word Processing, Creating, opening
+and closing Documents, use of shortcuts, Creating and Editing of Text, Formatting the Text, 
+Insertion & creation of Tables. Printing document.
+(i) 
+Basics of Excel worksheet, understanding basic commands, creating simple worksheets, 
+understanding sample worksheets, use of simple formulas and functions, Printing of 
+simple excel sheets
+(j) 
+Computer Networking and INTERNET Basic of computer Networks (using real life 
+examples), Definitions of Local Area Network (LAN), Wide Area Network (WAN), 
+Internet, Concept of Internet (Network of Networks), Meaning of World Wide Web 
+(WWW), Web Browser, Web Site, Web page and Search Engines. Accessing the Internet 
+using Web Browser, Downloading and Printing Web Pages, Opening an email account and 
+use of email. Social media sites and its implication. Information Security and antivirus 
+tools, Do's and Don'ts in Information Security, Awareness of IT - ACT, types of cyber crimes

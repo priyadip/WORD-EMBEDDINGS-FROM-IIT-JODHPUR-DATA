@@ -1,0 +1,8 @@
+am an assistant professor of computer science and engineering at the indian institute of technology jodhpur
+graduated with in cse from the indian institute of technology bombay in advised by ashwin gumaste
+my research was focused on various modeling experimentation and analytical aspects of network management in networks
+am currently focused on developing network infrastructure for the efficient training and inference of deep neural networks dnns including the complex requirements of large language models llms
+am also working on designing and networks
+am looking for motivated students to join my research group
+please send me your cv if you are interested in doing phd in my research interests
+network systems for ai at scale and resilient networks network softwarization performance modelling

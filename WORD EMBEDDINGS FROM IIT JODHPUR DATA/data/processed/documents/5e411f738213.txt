@@ -1,0 +1,20 @@
+research seminar by rahul singh on july at am title of the talk moduli spaces and integrable systems date time venue july am seminar hall dept
+of mathematics abstract recently higgs bundles have received lot of attention
+higgs bundle over an algebraic curve is vector bundle with twisted endomorphism which roughly speaking can be thought of as matrix of on the curve
+an important question is to calculate the volume of the groupoid of higgs bundles over finite fields
+in schiffmann succeeded in finding the corresponding generating function and together with mozgovoy reduced the task to counting pairs of vector bundles and nilpotent endomorphisms
+it was recently generalized by mellit to the case of vector bundles with nilpotent endomorphisms preserving flags at marked points
+an important part of mellit calculation is counting in the case of and marked points that allows him to relate the corresponding generating function with the macdonald polynomials
+it is natural and important question to generalize mellit calculations to arbitrary reductive groups
+in this talk will start by discussing the generalization to the counting of principal with nilpotent sections in the case of and two points for an arbitrary split reductive group and show that we get an explicit formula in this case
+after that will give summary of my other completed projects explicit formulas of mixed hodge polynomials of character varieties of nilpotent groups joint work with li and and tropical geometry joint work with zeitlin
+will then mention the projects that am currently working on motivic classes of moduli spaces of quiver representations joint work with li mozgovoy and reineke and on formal punctured disc joint work with kashyap and sage
+finally will mention projects that am planning to work on in the coming future
+about the speaker rahul singh completed his from the university of pittsburgh in
+his research areas are algebraic geometry representation theory and integrable systems
+he will be joining ymsc tsinghua university in aug as postdoc after completing his postdoc at louisiana state university usa aug may
+title of the talk moduli spaces and integrable systems date time venue july am seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

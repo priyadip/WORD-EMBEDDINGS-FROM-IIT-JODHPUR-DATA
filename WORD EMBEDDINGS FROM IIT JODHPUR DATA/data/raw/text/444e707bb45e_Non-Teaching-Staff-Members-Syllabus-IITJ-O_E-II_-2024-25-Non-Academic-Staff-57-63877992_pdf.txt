@@ -1,0 +1,75 @@
+SOURCE_PDF: 444e707bb45e_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877992.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT (Physics)
+(A) WRITTEN TEST 
+ 
+(A) Electronics: 
+Diodes, Transistors, Differential amplifiers and Operational Amplifiers Linear Op-Amp Circuit 
+Applications, Oscillators, Digital Principle and Digital Logic, Data Processing Circuit, JFET, 
+transconductance, JFET amplifiers, JFET switch, biasing in Ohmic region and active region, depletion mode 
+MOSFET, enhancement mode MOSFET, active filters, ideal responses, approximate responses, passive 
+filters, first order stages. 
+ 
+(B) Condensed Matter Physics: 
+Crystal structure, Symmetry, Unit Cell, Miller indices, Reciprocal Lattice, Brillouin Zone, X- ray diffraction, 
+Optical and dielectric properties of materials, Resistivity, Hall Measurement, Magnetic measurements, 
+Electron heat capacity and conductivity, Energy bands, Direct and indirect band gap semiconductor, 
+working principle of solar cell, photodetectors and LEDs, Types of magnetism, domains and hysteresis, 
+magnetic susceptibility. 
+ 
+(C) Modern Physics: 
+Failure of classical physics, UV catastrophe, Radiation physics, black body radiation, basic quantum 
+physics, Rutherford model, alpha particle scattering, Bohr atom model, Bohr's interpretation of H atom, 
+Wave-particle duality, Schrödinger equation (time-dependent and time-independent). Eigenvalue 
+problems, Quantum Tunneling, Wave-function, Commutators and Heisenberg uncertainty principle, 
+Concepts of special theory of relativity, Properties of nucleus: charge, spin, magnetic moment; Radioactive 
+decay: Alpha decay, beta decay and neutrino hypothesis, Nuclear models: Liquid drop model, Semi-
+empirical mass formula, Shell model; Nuclear force: deuteron problem, spin dependence of nuclear force, 
+nuclear potential; classification of elementary particles, mesons and baryons, conservation laws, particle 
+accelerators and detectors. 
+ 
+(D) Optics: 
+Reflection, Refraction, Fermat principle, focal plane, Image formation and magnification, F- number, Depth 
+of the focus and depth of the field, aberrations, Snell’s law, Polarization, collimation, optical components 
+and their geometry effect on ray propagation. Basics of Interference. 
+ 
+(E) Classical Mechanics: 
+Newton’s law of motion, Central force, motion under inverse square law of force, Linear and angular 
+momentum, Two-body problem, Gravitational potential; Constraints and their classification, Principle of 
+least action, D’alembert’s principle, Lagrange’s equations of motion, Generalized force, Application of 
+Lagrangian formulation; Basic principles of special relativity, The Lorentz transformation, Length 
+contraction, Time dilation. 
+ 
+(F) Electromagnetism: 
+Coulomb’s law, Electric field, Superposition principle, electrostatic potential, Electric flux, Gauss’s law, 
+Poisson’s and Laplace’s equation, Electric fields in matter, dielectrics, induced dipoles, polarization, bound 
+charges, Lorentz Force law, Biot-Savart law, Ampère’s law, Magnetic fields in matter, types of magnetism, 
+Electromagnetic induction, Maxwell’s equations.
+
+(G) Thermodynamics and Statistical Physics : 
+Laws of thermodynamics, thermodynamic potentials, Chemical potential, micro- and macro- states, 
+Entropy - Change in entropy in reversible and irreversible processes, Entropy of ideal gas, Temperature- 
+entropy diagram, entropy and second law of thermodynamics. Maxwell's Thermodynamics relations. 
+Clausius - Clapeyron equation, Phase diagram, first order phase transition, Free energy and its connection 
+with thermodynamic quantities, Ideal Bose and Fermi gases, Principle of detailed balance, Blackbody 
+radiation and Planck's distribution law. 
+ 
+(H) Mathematical Physics: 
+Vector Calculus Vector differentiation, Gradient, divergence and curl, Solenoidal and irrotational vector 
+point functions. Vector integration, Line, surface and volume integration, Gauss theorem and Stokes 
+theorem (statements) Physical interpretation. Matrices inverse of matrices, adjoint matrices (complex 
+conjugate transpose) orthogonal, symmetric, skew symmetric, Hermitian and skew Hermitian matrices, 
+elementary transformations of a matrix. 
+ 
+(B) SKILL TEST 
+ 
+Hands-on based on the following experiments (Tentative) : 
+1. Traveling Microscope 
+2. Multimeter (Oscilloscope & Circuit Testing) 
+3. e/m Ratio 
+4. Hall Effect 
+5. Newton’s Ring 
+6. Fresnel Biprism 
+7. Prism Spectrometer 
+8. Moment of Inertia based experiments

@@ -1,0 +1,1523 @@
+SOURCE_PDF: 1923ae409b6d_Related-provisions_-acts_-rules-etc.-1-638779811432688015.pdf
+
+Norms for Stores and Purchase
+Indian Institute of Technology Jodhpur 
+ 
+Document No.
+
+Norms for Stores and Purchase
+
+Norms for Stores and Purchase
+1. SCOPE 
+This manual outlines the procedures to be adopted for a purchase of equipment and 
+stores from Grant-in-Aid, Extra-Mural Research Grants and Consultancy Project Funds. It 
+excludes purchases made by the Central Library and works undertaken by the Institute Works 
+Department. 
+ 
+2. 
+ ABBREVIATIONS AND DEFINITIONS 
+ 
+2.1 Abbreviations 
+ 
+AS 
+Account Section
+BOG 
+Board of Governors
+CA 
+Competent Authority
+CS 
+Consumable Stores
+CFA 
+Competent Financial Authority
+C (R&D) 
+Coordinator: Research and Development
+FC 
+Finance Committee
+GFR 
+General Financial Rules
+IA 
+Internal Audit
+IR 
+Inspection Report
+NCS 
+Non-Consumable Stores
+PI 
+Project Investigator
+R&D 
+Research and Development Office
+RC 
+Rate Contract
+SPS 
+Stores & Purchase Section
+IW 
+Institute Works 
+ 
+2.2 Definitions 
+ 
+Administrative Unit: Centre or any recognized office of the Institute, which has a separate budget 
+allocated for it. 
+ 
+Project: A research, consultancy or special activity financially supported by any external agency 
+or the Institute, and bearing a valid registration number given by the office of R&D. 
+ 
+Project Investigator: A regular employee of the Institute, who is authorized by the Institute as the 
+person with the primary responsibility to steer the objectives of a project. 
+ 
+Purchaser/Indenter: The individual authorized by the Institute to acquire the needed material or 
+service.
+
+Norms for Stores and Purchase
+Stores: Generally, all articles, material, commodities, livestock, furniture, raw material, spares 
+instruments, machinery, equipment, industrial plant, etc., purchased or otherwise acquired for 
+use at the Institute, but excluding books, publications, periodicals, etc., for library and 
+procurement done by the office of Institute Works. 
+ 
+Supplier: The company, vendor, dealer, agent or individual from which/whom the Institute 
+procures goods or services. 
+ 
+Temporary Contingent Advance: A loan of a small sum of money taken to make small purchases 
+within the appropriate budget head. 
+ 
+Rate Contract: An agreement between the Institute and the suppliers for supply of specific 
+goods and allied services, if any, at specified price and terms and conditions during the period 
+covered by the Rate Contract.
+
+Norms for Stores and Purchase
+3. 
+ CLASSIFICATION OF STORES 
+All stores to be procured shall be classified into two categories, namely: 
+(1) Non-Consumable Stores and 
+(2) Consumable Stores 
+ 
+3.1 Non-Consumable Stores 
+Non-Consumable Stores (NCS) are those stores, which are intended to be used over the 
+prolonged period before becoming unserviceable, unusable or obsolete, and having significant 
+disposal value. Also, those stores, which are sub-systems or parts of equipment potentially 
+repaired or reused and stores which are fabricated equipments or assembled equipment bought 
+as a single item, are classified as NCS. The following are some examples, which are indicative but 
+the list is not exhaustive: plant machinery, equipment, fabricated equipment, instruments, 
+assembled instruments, motors, gas cylinder, workshop machines, furniture, books, computers, 
+computer accessories (disk and other peripheral drives), software, printers, monitors, UPS, 
+telephones, and mobiles. 
+ 
+All NCS shall be entered into the Asset Register of the Institute or the Centre or formally 
+recognised unit of the Institute. For writing off and disposal of stores, approval of Competent 
+Authority is necessary. 
+ 
+3.2 Consumable Stores 
+Consumable Stores (CS) are those Stores, which are not the NCS, or those stores which 
+satisfy one of the following conditions: 
+(a) exhaust with lapse of time, 
+(b) rendered unserviceable or unusable due to normal wear and tear, 
+(c) do not have significant disposal value, and 
+(d) spare parts purchased for replacing of any damaged part of any equipment/machine; such 
+spares are considered not to have any replacement value. The following are some indicative 
+but not exhaustive examples: all paper licenses and security licenses, locks, chemicals, 
+glassware, medicines, stationery items, printer ribbons and cartridges, pen drive, keyboard, 
+mouse, floppies, CD ROMs, magnetic tapes, Chips and Electronic Components (like resistors, 
+capacitors, and connectors), electrical components (like wire switches, plugs, bulbs, cells, tool-
+bits and hand tools). 
+ 
+All CS shall be entered in the Consumable Store Stock Register of the concerned 
+administrative unit of the Institute. CS purchased from funds of Sponsored or Consultancy 
+Projects shall be entered in the Consumable Store Stock Register separately maintained for the 
+Project. 
+ 
+In case of a dispute regarding the classification of an item of purchase, the decision of Director 
+shall be final.
+
+S.No. Designatories Financial Limit (in Rupees)
+up to which approval can be given for
+Non-Recurring Recurring Temporary
+Advance
+1. Coordinator
+(a) Faculty
+(b) Academics - UG Programme
+(c) Academics – PG Programme
+(d) Students Nil 1,50,000 50,000
+(e) Library
+(for Books & eResources only) 5,00,000
+(f) Automation Nil
+(g) Centre (E)
+(h) Centre (ICT)
+(i) Centre (SS)
+(j) Centre (BISS) 5,00,000 on
+recommendation
+of Coordinator
+(Laboratories)
+2. Chairman
+(a) Placement Committee
+(R&D Project No.
+INST/TPA/20120006) Nil 50,000 50,000
+(b) Extra Mural Lecture Committee Nil 50,000 50,000
+(c) Alumni Relations Committee
+(R&D Project No.
+INST/ALUMNI/20120003) Nil 50,000 50,000
+(d) Health Services Committee
+(R&D Project No.
+INST/HC/20110002A1) Nil 50,000 50,000
+(e) Council of Wardens
+(R&D Project No.
+INST/CoW/20110002) 1,50,000 50,000 50,000
+(f) Examinations Committee Nil 50,000 50,000
+3. Officers
+(a) Green Officer Nil 50,000 50,000
+(b) Public Relation Officer Nil 1,50,000 50,000
+4. Deputy Librarian Nil 20,000 10,000
+5. Assistant Registrar 50,000 50,000 50,000
+(a) Medical Advance for
+Outstation Hospitalization Nil Nil 1,50,000
+(b) Medical Advance for
+Local Hospitalization Nil Nil 50,000
+6. Director Cases not covered above
+Norms for Stores and Purchase
+4. FINANCIAL SANCTIONING POWERS 
+The Competent Financial Authority (CFA) is the person, who has the authority to 
+approve purchases within the allocated budget of the administrative unit of the Institute or the 
+Project. It is the responsibility of the CFA to ensure that sufficient funds are available for the 
+purchase. The powers to sanction expenditures are shown in Table 1 for purchases made from 
+Grant-in-Aid and Table 2 for purchases made from funds from Sponsored and Consultancy 
+Projects. 
+ 
+Table 1: Financial Powers to various designatories for approving expenditure from Grant-in-Aid
+
+S.No. Designatories Financial Limit (in Rupees)
+upto which approval can be given for
+Non-Recurring Recurring Temporary Advance
+1 Principal Investigator 1,50,000 50,000 50,000
+2 Coordinator (R&D) 5,00,000 5,00,000 5,00,000
+3 Director > 5,00,000 > 5,00,000 Not Applicable
+Norms for Stores and Purchase
+Table 2: Financial Powers to various designatories for approving purchases from Sponsored 
+Projects and Consultancy Projects
+4.2 Fundamental Principles of Purchase 
+ 
+(1) All purchases of furniture should be done through office of Stores Purchase after duly 
+approved by the Competent Financial Authority. 
+ 
+(2) The limits of Financial Powers mentioned in Table 1 apply to indigenous purchase as well as 
+import. For the purposes of imports, the Indian Rupee equivalent of the foreign currency 
+should be considered on the date of sanction. 
+ 
+(3) All temporary contingent advances should be adjusted within 15 days of taking the advance. 
+ 
+(4) For the purposes of this manual, Acting Coordinator of Centres or Acting Coordinator (R&D) 
+shall NOT exercise any financial power as the incumbent. In such instances, the relevant 
+papers shall be put up to the Director for consideration.
+
+Norms for Stores and Purchase
+5. REGISTRATION & BLACKLISTING OF FIRMS 
+ 
+5.1 Local (within municipal area of Jodhpur) general suppliers, authorized agents/distributors 
+of the manufactures/service providers, and firms undertaking job works can be registered with 
+the Institute by inviting proposals in the prescribed format as given in Annexure A. 
+ 
+Registration of firms shall be done by the Institute in the following categories for 
+inviting quotations for procurement, namely materials, services, equipments, and instruments. 
+The credentials of the Firms (including manufacturing capacity, quality control facilities, past 
+performance, after sales services, and financial background) shall be verified by the Institute. 
+The firms obtaining the registration should have valid registration for CST, VAT, Service Tax, 
+TIN and/or PAN. 
+ 
+The registration of firms will be valid for a period up to 3 years, depending on the 
+nature of the supplies to be made by them. If required, it can be extended further, considering 
+their performance. At the end of the period, the firms willing to continue their registration with 
+the Institute are required to apply afresh for renewal of registration as per procedure given in 
+Annexure B. New firms may be considered for registration at any time, provided they fulfill all 
+the required conditions. 
+ 
+5.2 The registered firms shall be liable to be removed from the list of approved firms, if (a) they 
+fail to abide by the Terms and Conditions, (b) they fail to supply the goods on time, (c) they 
+supply sub-standard services, items or goods, (d) they make any false declaration to the 
+Institute, or (e) for any other ground, which in the opinion of the Institute is considered to be 
+against the public interest. 
+ 
+5.3 Blacklisting of Firms 
+A firm can be blacklisted on the recommendation of Officer-in-charge of any 
+administrative unit of the Institute. Officer-in-charge (Stores and Purchase) shall process such 
+recommendation, and place the same before a committee duly constituted by the Director for 
+the purpose. 
+ 
+On the recommendations of the Committee, a final decision will be taken by the 
+Director. The information of such blacklisted firms, shall be widely circulated by the Officer-in-
+charge, (Stores and Purchase), to all the concerned.
+
+Norms for Stores and Purchase
+6. GENERAL PROCEDURES AND RULES FOR PURCHASE 
+All the purchases should be made in a transparent, competitive and fair manner to 
+secure best value. This will enable bidders to formulate and send their competitive bids with 
+confidence. The procedure given in Figure 1 will be applied generally to all purchases of the 
+Institute, except books and publications acquired by the Library. 
+ 
+All purchases shall be initiated with the approval of Competent Financial Authority. An 
+indent (Annexure C) for an item required will be raised alongwith detailed specifications of the 
+item and estimated value, for the approval of Director. Director may re-delegate powers at 
+appropriate level of officers.
+
+Norms for Stores and Purchase
+Figure 1: Summary of Process to be adopted for Purchases at the Institute
+GFR Rule 150 Through Open Tender 
+ 1. Advertisement for such purchase should be given in Indian Trade Journal 
+ and at least one national daily newspaper having wide circulation. Also, it 
+ should be published on Institute's website 
+ 2. Indenter to make generic technical requirements. 
+ 3. Recommendation of Purchase Committee regarding goods and 
+ preparation of technical specification. 
+ 
+ GFR Rule 152 
+ 4. For purchasing high value plant, machinery etc., of a complex and 
+ technical nature, TWO - BID tender enquiry system shall be followed as 
+ per GFR Rule 152. 
+ 5. Financial bids of technically acceptable offers should be opened. 
+ 
+ GFR Rule 154 
+ Purchases with Single Quotation may be resorted to in the following 
+ circumstances 
+ 6. On production of Proprietary Article Certificate (PAC) 
+ 7. In case of emergency 
+ 8. For spare parts of the Existing Equipment 
+ 9. Processing of Tender by Stores and Purchase Section- 
+ a. Floating of Tender 
+ b. Receipt of Tender 
+ c. Evaluation of financial bids form Comparative Statement of 
+ Technically qualified vendors 
+ d. Award of Work to lowest evaluated responsive bidder 
+ 10. Receipt of Goods and Stock Entry 
+ 11. Inspection of Goods by the Indenter
+INDENT
+Purchase
+up to 
+Rs.50,000
+GFR Rule 145
+1. Direct Purchase by Indenter after 
+ Market Survey. 
+ 2. Certified for Quality, Specifications 
+ and reasonability of Price by 
+ Indenter 
+ 3. Amount of GFR Rule 145 of 
+ Rs.15,000 enhanced as Rs. 50,000 in 
+ IITJ Purchase Manual as approved 
+ by BOG.
+Purchase 
+between 
+Rs. 50,000 
+and
+Purchase 
+between 
+Rs.1,50,000 
+and
+Indent Checklist 
+1. Approval of the Budget from 
+ Competent Authority 
+ 2. Indent to be submitted mentioning 
+ type of material. (CS or NCS) with 
+ detailed specification
+GFR Rule 146
+1. Purchase Through Local Purchase 
+ Committee ( to be constituted by the 
+ Competent Authority) or inviting 
+ quotations. 
+2. Certified for Quality, Specifications 
+ and reasonability of Price by the 
+ committee members. 
+ 3. Amount of GFR Rule 146 of 
+ Rs. 100000.00 enhanced as 
+ Rs.150000.00 in IITJ Purchase 
+ manual as approved by BOG.
+GFR Rule 151 
+Through Limited Tender Enquiry 
+ 1. Indenter to make generic technical 
+ requirements 
+ 2. Recommendation of Purchase Committee 
+ regarding goods and preparation of 
+ technical specification 
+ 3. Approval of Competent Authority 
+ 4. Processing of Tender by Sore and Purchase 
+ Section 
+ a. Floating of Tender to Registered 
+ Suppliers (GFR Rule 142) 
+ b. Receipt of Tenders 
+ c. Evaluation of financial bids form 
+ Comparative Statement to get lowest 
+ responsive bidder 
+ d. Award of Work to lowest evaluated 
+ responsive bidder 
+ 5. Receipt of Goods and Stock Entry 
+ 6. Inspection of Goods by the Indenter
+GFR Rule 147 Rate Contract 
+Goods and Items of Standard type identified as common user 
+recurring items. 
+ 
+GFR Rule 148 
+A demand of goods should not be divided into small quantities to 
+make piece meal purchases to avoid necessity of obtaining the 
+sanction of higher authority / Inviting Tender. 
+ 
+GFR Rule 159 Advance Payment to Supplier 
+In case of maintenance contract, the amount should not exceed the 
+amount payable for six months under the contract. 
+ 
+GFR Rule 162 Buy Back Offer 
+With the approval of the competent authority to replace an existing 
+old item(s) with a new and better version the department may trade 
+the existing old item while purchasing new one. 
+Further, suitable clause is to be incorporated in the bidding 
+document. 
+ 
+GFR Rule 163 Procurement of Services 
+Institute may hire external professionals, consultancy firms or 
+consultants for a specific jobs as per procedure laid down under 
+Rule 163. 
+ 
+GFR Rule 292 Purchases through Temporary Advance 
+1. Indenter needs to draw an advance from sanctioned budget 
+ with approval from Competent Authority. 
+2. In case of Non-consumable items, intimation must be sent to 
+ Stores and Purchase Section for entry in Asset Register. 
+3. The amount of expenditure being higher than the Advance 
+ cannot be met out of it. 
+4. The purchase or other purpose can not be managed under the 
+ normal procedures, envisaging post- procurement payment 
+ system. 
+5. Advance be settled within 15 days failing which the advance 
+ or balance shall be recovered from Indenter's next salary. But, 
+ purchases to be made following the rules contained in GFR 
+ Rule 146.)
+Notes 
+1. Stock Entry of all Non-consumable 
+ items shall be made in stores and 
+ purchase section. 
+2. For any details and clarification, 
+ GFR should be referred. 
+ 
+3. GFR Rule 192 
+ Fixed assets and consumables should 
+ be verified at least oncein a year and 
+ the outcome of the verification 
+ should be recorded in corresponding 
+ register. Discrepancies, if any, shall 
+ be promptly investigated and brought 
+ to account. 
+ 
+4. GFR Rule 194 
+ Physical verification of library 
+ books should be done every year.
+Purchase
+larger than 
+Rs. 25,00,000
+Payment to Supplier
+
+Norms for Stores and Purchase
+The procedures given in the sub-section below shall apply to all purchases, except where 
+stated otherwise. 
+ 
+6.1 Purchase of Goods without a Quotation or with a Single Quotation (GFR: Rule 145) 
+Purchase of goods costing up to Rs.50,000 (Rupees Fifty Thousand only) on each 
+occasion, may be made by the Competent Authority without inviting or on single quotation on 
+the basis of a certificate recorded by her/him as per format given in Annexure D. 
+ 
+Such purchases shall be made in one of three ways, namely: 
+(1) The purchase can be made directly by the purchaser through an advance drawn for the 
+purpose (GFR: Rule 292). This advance shall be subsequently adjusted by using the 
+contingent advance adjustment form, duly supported by a Cash Memo, Bill or Receipt and a 
+Proof of entry in the appropriate Stock Register. For NCS items, intimation must be sent to 
+office of Stores Purchase stating that the items are entered in the Asset Register. Otherwise, 
+bills will not be passed for payment by Office of Accounts, and it shall become a matter of 
+observation by Internal Audit. 
+ 
+(2) When a Purchaser makes a direct purchase from a Supplier and payment is to be made by 
+the Office of Accounts for a project or non-project purchase, the Payment shall be made only 
+against (a) the proper invoice, bill and / or tax invoices, (b) proof of challan or transfer 
+invoice of the item by the purchaser, and (c) entry in the appropriate stock register and 
+Asset Register (wherever relevant). Even when a NCS purchase is made through the office 
+of Stores Purchase, intimation must be sent to office of Stores Purchase that the item is 
+entered in the Asset Register. Otherwise, bills will not be passed for payment by office of 
+Account, and it shall become a matter of observation by Internal Audit. 
+ 
+(3) The purchase can be made through the office of Stores Purchase for which the quotations 
+(duly signed together with the purchase proposal approved by the Director) shall be sent to 
+office of Stores Purchase for placing the order and further processing. 
+ 
+6.2 Purchase of goods by Purchase Committee (GFR: Rule 146) 
+Purchase of goods costing more than Rs.50,000 (Rupees Fifty Thousand only) and up to 
+Rs.1,50,000 (Rupees One Lakh Fifty Thousand only) on each occasion may be made on the 
+recommendations of a duly constituted Local Purchase Committee consisting of at least three 
+Members of an appropriate level (as approved by the Competent Authority). The Members of 
+the Committee will survey the market to ascertain the reasonableness of rate, quality and 
+specifications and identify the appropriate supplier. Before recommending to place the 
+purchase order, the Members of the Committee will jointly record a certificate as given in 
+Annexure E. 
+ 
+6.3 Purchase of Goods with Quotation (GFR: Rule 149) 
+Purchases of Goods costing more than Rs.1,50,000 can be made by inviting quotations. A 
+minimum three quotations are required for making the recommendation. 
+ 
+6.3.1 Through Open Tender (GFR: Rule 150) 
+If the estimated cost of the item is above Rs.25 lakh, the following procedure shall be 
+adopted: 
+(1) Indenter should prepare generic technical requirements; 
+(2) Purchase Committee should recommend the purchase regarding goods and prepare the 
+technical specification; and
+
+Norms for Stores and Purchase
+(3) Officer-in-charge of Office of Stores Purchase should advertise for such purchase in Indian 
+Trade Journal and at least one national daily newspaper having wide circulation. Also, it 
+should be published on the website of the Institute. 
+(4) Tender should be processed by office of Store Purchase 
+(a) Float Tender to Registered Suppliers (GFR Rule 142); 
+(b) Receive Tenders; 
+(c) Evaluate financial bids through preparation of a Comparative Statement to identify lowest 
+responsive bidder; 
+(d) Award work to lowest evaluated responsive bidder; 
+(5) Receive goods and make entry in Stock Register; and 
+(6) Seek inspection of goods by the Indenter. 
+ 
+6.3.2 Through Limited Tender Enquiry (GFR: Rule 151) 
+If the estimated cost of the item is below Rs.25 lakh, the following procedure shall be 
+adopted: 
+(1) Indenter should prepare generic technical requirements; 
+(2) Purchase Committee should recommend the purchase regarding goods and prepare the 
+technical specifications; 
+(3) Competent Authority should be approached for approval; 
+(4) Tender should be processed by office of Store Purchase 
+(a) Float Tender to Registered Suppliers (GFR Rule 142); 
+(b) Receive Tenders; 
+(c) Evaluate financial bids through preparation of a Comparative Statement to identify lowest 
+responsive bidder; 
+(d) Award work to lowest evaluated responsive bidder; 
+(5) Receive goods and make entry in Stock Register; and 
+(6) Seek inspection of goods by the Indenter. 
+ 
+6.3.3 General Requirements 
+Enquiry should be floated to as many vendors as possible (almost all available vendors) 
+to have competitive rates. Quotation can be called and received by Registered Post, Speed Post, 
+Courier services or by hand, but must be in sealed cover. Typically, the Call for Quotation should 
+mention the following: 
+(1) Specification of the item and end use of the required goods; 
+(2) Quantity be purchased; 
+(3) Date and time by which the quotation should be received; 
+(4) Date by which deliveries are expected; 
+(5) Date on which the quotation will be opened (wherever necessary); 
+(6) Warranty requirements; 
+(7) Requirement of test certificate, if any; 
+(8) Requirement of type approval for compliance of statutory requirements with respect to 
+pollution, emission, noise, etc; 
+(9) Training, technical support, after sales service and annual maintenance contract 
+requirements, if any; 
+(10) Period of validity of quotation; 
+(11) Special requirements of packing and marking, if any; 
+(12) Normal payment terms of the Institute; 
+(13) Tax exemptions applicable; and 
+(14) Any other special terms and conditions which are applicable. An Approved format 
+available for this shall be used.
+
+Norms for Stores and Purchase
+If the value of the enquired items is be more than Rs.50,000, a copy of all enquiry letters 
+shall be displayed on the Website of the Institute and Notice Board. Quotations received from 
+firms on the basis of this notice will be considered, if these are from any of the categories of the 
+registered firms. 
+ 
+Quotation must be opened in the presence of All Members of the Purchase Committee 
+(as approved by Director). All Quotations must be signed by All Members of the Committee 
+(along with date). Signatures are necessary on the covering envelope, financial part of the bid 
+and the part which contains the Terms and Conditions. Negotiations should be done only with 
+L-1 bidder to further reduce the price(s) quoted. 
+ 
+Committee should prepare a Report consisting of the following: 
+(a) A comparative statement of the prices quoted by all dealers/sellers, indicating all taxes, 
+freight, forwarding, etc., i.e., the total cost of the purchase. 
+(b) The dealer from whom purchase is recommended. 
+(c) In the event purchase is recommended not on the basis of lowest quotation, the reason 
+thereof shall be explicitly stated. 
+(d) Any other relevant information. 
+The report complete in all respects along with associated documents shall be sent to the 
+office of Stores Purchase for placing purchase order, irrespective of the source of funding of the 
+purchase. 
+ 
+6.4 For purchases which are directly initiated by the office of Stores Purchase, irrespective of the 
+amount, the Director shall constitute a Committee for a period of one year comprising of at least 
+three members, including one from the office of Stores Purchase. This procedure should be 
+followed especially when bulk purchase of stores is involved (e.g. medicines, stationery items, 
+chemicals & liveries) or when the same item is required by multiple purchasers. 
+ 
+6.5 Purchase of goods on single quotation basis (Proprietary Article: GFR: Rule 154) 
+Purchase of goods costing more than Rs.1,50,000 (Rupees One Lakh Fifty Thousand 
+only) can be done only on single quotation basis under the following circumstances: 
+(a) Item which do not have any substitutes, or items that are spare parts of already existing 
+equipment for which substitute replacements are not available, can be done on the basis of a 
+single quotation irrespective of the value of the item. In such cases, the purchaser/indenter 
+must furnish a Proprietary Certificate (Annexure F) countersigned by the Competent 
+Authority (respective Centre: Coordinator). 
+(b) If the total value of the item is more than Rs.50,000, a Proprietary Certificate must be 
+obtained from the supplier stating that they are the only source of supply /manufacture of 
+the item. 
+(c) In case of emergency, the required goods are necessarily to be purchased from a particular 
+source and reason for such decisions is to be recorded, and prior approval of the Competent 
+Authority should be obtained before initiating the purchase. 
+(d) As per GFR Rule 148, a demand of goods should not be divided into small quantities to 
+make piece meal purchases to avoid necessity of obtaining the sanction of higher authority 
+or to avoid inviting the Tender. 
+ 
+6.6 Repeat Orders 
+Repeat orders can be processed, provided the repeat order is 
+(a) made with no change in the rates, specifications as well as terms & conditions of supply; 
+(b) placed within 180 days time from the date of the quotations; 
+(c) made after ensuring that there is no significant reduction (more than 10%) in the cost of the 
+item(s);
+
+Norms for Stores and Purchase
+(d) no buy-back is involved in the purchase; and 
+(e) no amendment is made in the repeat order. 
+ 
+6.7 Purchase of Rate Contract Goods (GFR: Rule 147) 
+A Rate Contract (commonly known as RC) is an agreement between the Purchaser and 
+the Suppliers for supply of specific goods (and allied services, if any) at specified price and 
+terms and conditions during the period covered by the Rate Contract. 
+ 
+Based on requirement identified by the office of Stores and Purchase, the Institute may 
+enter into rate contract arrangement with one or more Supplier for specified period. The details 
+of such arrangement shall be negotiated by Purchase Committee. But, items available on valid 
+Rate Contract of DGS&D can be procured directly by placing order to the firm listed therein at 
+the listed price. 
+ 
+6.8 e Procurement 
+e Procurement refers to purchase of goods through electronic mode of interface with 
+tenders and IT enabled management of the entire procurement process (notice inviting tenders, 
+supply of tender documents, receipt of bids, evaluation of bids, award of contract, and 
+execution of contract through systematic enforcement of its various clauses and tracking claims, 
+counter-claims and payments. To cut down the transaction costs and improve efficiency and 
+transparency, the Government aims to make it mandatory for all organizations. 
+ 
+As such, all purchasers are advised to proactively engage themselves in articulating user 
+needs in the development of IT system for e Procurement. The system should be secure, capable 
+of maintaining complete confidentiality at appropriate stages of the bidding process, so that the 
+tenders feel confidence in electronically transmitting their queries and bids. Until a full fledged 
+system for e Procurement is developed by the Institute, the purchaser may receive quotations 
+through hard copies as well as by e Mail, provided the quotations received via e Mail shall be 
+included, only when a hard copy (duly completed in all respects) is received from the 
+concerned tenders before the date of opening of the bid. It is in this context that all purchasers 
+are advised to display all enquiry letters on the website and notice boards of the Institute so that 
+the registered firms are able to submit their quotations to the purchaser within the specified 
+period. After finalization of the e Procurement system, Institute will implement the same. 
+ 
+6.9 Purchase under buy back scheme (GFR: Rule 162) 
+When it is decided with the approval of the Competent Authority to replace the existing 
+old item(s) with a new and better version, the purchaser may trade the existing old item while 
+purchasing the new one. For this purpose, quotations are to be invited clearly mentioning the 
+specification of old and new item asking the buy back offer from the vendor. 
+ 
+After finalizing the deal, a condemnation report is to filled up on GFR 17 form for old 
+item, signed by all Members of Committee constituted for condemning and write-off the old 
+items (as approved by Director) and finally to be sent along with purchase indent. It is to be 
+mentioned on GFR 17 in the column of mode of disposal that item is being given to the firm 
+under buy back scheme. 
+ 
+6.10 Two bid system (GFR: Rule 152) 
+For purchasing capital equipment, high value plant, machinery, etc., of complex and 
+technical nature, tender enquiry document, complete in all respects, may be issued as usual. 
+But, the Tenderers should be asked to bifurcate their quotation into two parts: the first part 
+(known as ‘Technical Bid’) should contain the relevant technical specifications and allied
+
+Norms for Stores and Purchase
+commercial details as required in terms of the tender enquiry documents, and the second 
+(known as ‘Financial Bid’) only the price quotation. 
+ 
+The Technical Bid and the Financial Bid should be sealed by the Tenderer in separate 
+covers. The Technical Bids should be opened first at the prescribed time and date; the same will 
+be scrutinized and evaluated by the Competent Committee / Authority with reference to the 
+parameters prescribed in the tender documents and the offer received from the Tenderers. The 
+Committee shall identify the tenders that technically acceptable. Thereafter, the Financial Bids 
+should be opened of only the technically acceptable offers (as decided in the first stage above) 
+for further scrutiny, evaluations, ranking and placement of contract. 
+ 
+All the purchases exceeding Rs.50,000 (Rupees Fifty Thousand only) must be pre-
+audited through the Internal Audit of the Institute. This will be applicable for direct purchases 
+as well as purchase through SPS. 
+ 
+6.11 Lack of Competition (Manual on Policies and Procedures for Purchase of Goods, Ministry of 
+Finance: Rule 11.7.4) 
+Sometimes, the purchase organization may not receive sufficient number of tenders. A 
+situation may also arise where, after analyzing the tenders, the purchase organization ends up 
+with one responsive tenderer. In such situations, the purchase organization is first to check 
+whether, while floating/issuing the tender enquiry, all necessary requirements like standard 
+tender enquiry conditions, industry friendly specification, wide publicity, sufficient time for 
+formulation of tenders, etc. were fulfilled. If not, the tender is to be re-issued/re-floated after 
+rectifying the deficiencies. However, if after scrutiny it is found that all such aspects were fully 
+taken care of and in spite of that the purchaser ends up with one responsive tender only, then 
+contract may be placed on that tenderer provided the quoted price is reasonable. 
+ 
+6.12 Indenter will fill the Purchase Requisition Form (Annexure G) / Purchase Requisition Form 
+for Import Items (Annexure H) and submit to the office of Stores Purchase along with 
+committee reports, comparative statement, all original bids, budget approval and other related 
+documents, for placing the Purchase Order, irrespective of the source of funding of the 
+purchase.
+
+Norms for Stores and Purchase
+7. PAYMENT TERMS 
+The payment terms must be approved by the Director in the sanction sheet. The normal 
+terms of payment for indigenous purchases shall be 80% on delivery of the items, 10% after 
+satisfactory installation/inspection and approval, and balance 10% after the submission of the 
+Performance Security. 
+ 
+Terms of payments may be changed from item to item. For example, for liveries, 
+stationery and furniture, the payment may be made 100% against delivery subject to the 
+inspection and approval by the Competent Authority. For purchases upto Rs.50,000 of any item, 
+100% payment against delivery and inspection may be done. 
+ 
+7.1 Advance payment to supplier (GFR: Rule 159) 
+ 
+7.1.1 Ordinarily, payments for services rendered or supplies made should be released only after 
+the services have been rendered or supplies made. But, it may become necessary to make 
+advance payments in the following cases: 
+(i) Advance payment demanded by firms holding maintenance contracts for servicing of air 
+conditioners, computers, other costly equipment, etc. 
+(ii) Advance payment demanded by firms against fabrication contracts, turn-key contracts, etc. 
+Such advance payments should not exceed the following limits: 
+(a) 30% of contract value to private firms against valid bank guarantee of requisite amount; 
+(b) 40% of contract value to a State or Central Government agency or a Public Sector 
+Undertaking; or 
+(c) in case of maintenance contract, the amount should not exceed the amount payable for six 
+months under the contract. 
+The Institute may relax, in consultation with its Finance Committee, the ceilings 
+(including percentage laid down for advance payment for private firms) mentioned above. 
+While making any advance payment as above, adequate safeguards should be obtained from 
+the firm in the form of bank guarantee, etc. 
+ 
+7.1.2 Part payment to suppliers: Depending on the terms of delivery incorporated in a contract, 
+part payment to the supplier may be released after it dispatches the goods from its premises in 
+terms of the contract. 
+ 
+7.1.3 Penalty clause is applicable, for Indigenous order, which is 1% of order value per week 
+subject to a maximum of 10% of order value. For Import order, it is 0.5% of order value per 
+week subject to a maximum of 10% of order value. 
+ 
+If the payment term is against delivery or cash on delivery (COD), then after receiving 
+the goods, indenter after being satisfied shall inform Office of Stores Purchase to release the 
+payment. 
+ 
+For balance payment, after receipt of satisfactory Inspection Report (IR) from the 
+Indenter, the items must be entered in appropriate stock and asset register. The Office of Stores 
+Purchase will submit the necessary document within one week to Office of Accounts for release 
+of payment. The Office of Accounts will ensure that the payment due is released within 7 days 
+through cheque or draft directly to the Supplier by registered post or courier.
+
+Norms for Stores and Purchase
+8. LIQUIDATED DAMAGES (LATE DELIVERY) 
+There should be a suitable provision in the terms & conditions of the contract for 
+claiming liquidated damages of appropriate amount from the supplier to take care of delays in 
+supplies and performance, for which the supplier is responsible. Such recovery (through 
+liquidated damages) should be without prejudice to the other remedies to the purchaser under 
+the terms of the contract. 
+ 
+The penalty clause of 1% of the delivered price of the delayed goods for each week or 
+part thereof subject to a maximum of 10% of the delivered price, should be incorporated in the 
+contract terms. If the payment term is 100% against delivery, and if there is delay in supplying 
+the material, then a cheque of penalty amount must be taken from the Supplier in favour of the 
+“Director, IIT Jodhpur”, at the time of making the payment.
+
+Norms for Stores and Purchase
+9. PURCHASE SANCTION AND RECEIPT OF ITEMS 
+ 
+9.1 The sanction sheet for all the purchases (except those which are less then Rs.50,000) must be 
+approved by the Director. The sanction sheet prepared along with all associated documents 
+shall be sent for pre-audit to Internal Audit Officer prior to seeking approval of the Director. 
+Based on the approved sanction sheet, the purchase order shall be prepared and released. 
+ 
+If for any reason, a financial change is required in the purchase order, the request for 
+such a change shall be thoroughly examined by the Internal Audit Officer and shall be 
+approved by the Competent Financial Authority before the change is issued, as an amendment 
+to the original Purchase Order by the Officer-in-charge, Stores Purchase. 
+ 
+9.2 All purchases shall be made through a Purchase Order placed to the Supplier by the Officer 
+in-charge, Stores Purchase of the Institute, who shall be responsible for receipt of goods and the 
+subsequent dispatch of the same to the purchaser/indenter along with forms of Inspection 
+Report. The purchaser shall return the Inspection Report within 15 days after recording 
+appropriate comments. 
+ 
+9.3 If the Inspection Report is not returned to SPS within fifteen days, it will be presumed that 
+materials supplied are acceptable to the purchaser/indenter and necessary action will be taken 
+for making the payment to the firm. 
+ 
+9.4 The Officer-in-charge, Stores Purchase, shall be responsible for clearance of all consignments 
+at railway stations, sea, airport, and transport godowns and safe transportation and storage. 
+Insurance of items shall be arranged before dispatch either by the Supplier or Officer-in-charge, 
+Stores Purchase. 
+ 
+9.5 Normally, delivery of items purchased shall be done at the Office of Stores Purchase. But, in 
+exceptional situations, the suppliers may be required to deliver the items directly to the 
+purchaser/indenter. In such a case, the purchaser/indenter must be responsible to inform the 
+Officer-in-charge, Stores Purchase about such delivery, prior to the receipt of the items. 
+ 
+9.6 In the event of any shortage/damage/wrong supply, prompt action will be initiated by 
+Officer-in-charge, Stores Purchase to rectify the same. In case the supplier fails to rectify the 
+shortage/damage/wrong supply in a reasonable time, the matter shall be referred to the legal 
+cell to recover the full cost paid. Officer-in-charge, Stores Purchase, shall lodge Insurance 
+claims, and pursue them vigorously to realize the sum insured. 
+ 
+9.7 Once the purchase has materialized satisfactorily, the items must be entered in the 
+appropriate Stock Register of the Centre/Project and in the Asset Register of the Institute, 
+where relevant. 
+ 
+9.8 Any increase in the price of item(s) ordered, which is directly and entirely attributable to 
+fresh imposition or increase in Government levies and taxes, may be allowed subject to 
+furnishing of sufficient valid written proof by the Supplier. 
+ 
+9.9 The Director may at his discretion permit deviations from any of the above provision, if he is 
+satisfied that such deviation will be in the interest of the Institute and that the insistence on the 
+above provisions can cause inconvenience and delay.
+
+Norms for Stores and Purchase
+9.10 The rates should preferably be quoted both in words and figures. All cuttings, overwriting 
+should be duly initialed, failing which the quotation, tender or bid shall be liable to be 
+rejected. 
+ 
+10. DUTIES & TAXES 
+ 
+10.1 Presently, the applicable concessional custom duty for educational Institute is 5.15%, which 
+is payable for imported items. In case the order is on Ex-works or FOB basis, the Institute may 
+be required to pay freight and insurance charges as per prevailing rate. 
+ 
+10.2 As per the prevailing taxation policy of the Government, VAT/CST shall be payable for all 
+indigenous items. The service tax shall be applicable for service and for Annual Maintenance 
+Contract (AMC). 
+ 
+10.3 The Institute is partially exempted from paying custom or excise duty for all import and 
+indigenous items, for which an excise or custom duty exemption certificate shall be provided by 
+the Institute. 
+ 
+10.4 Whenever any item is purchased through high sea sale agreement, the concessional custom 
+duty certificate will be issued to the supplier, and the amount of custom duty paid by the 
+Supplier will be reimbursed by the Institute. But, sales tax shall not be reimbursed by the 
+Institute in such purchases. 
+ 
+10.5 Any concession on taxes and levies (such as excise duty, custom duty and sales tax granted 
+by the State or Central Government) must be availed in procurement of any item. The Office of 
+Stores Purchase shall obtain all such information and apprise from time to time all concerned 
+about the applicability of tax or levy rates and charges brought about, if any. 
+ 
+The Officer-in-charge, Stores Purchase, shall issue the required declaration or certificate 
+to this effect for all purchases on demand and account for all such issues and furnish the 
+required report to the Government Agencies, as and when required.
+
+Norms for Stores and Purchase
+11. ANNUAL MAINTENANCE CONTRACT (GFR: RULE 156) 
+Depending on cost and nature of the goods to be purchased, it may be necessary to enter 
+into maintenance contracts for a suitable period, either with the Supplier of the goods or with 
+any other Competent Firm, not necessarily the supplier of the subject goods. Such maintenance 
+contracts are specially needed for sophisticated and costly equipment and machinery. Usually, 
+equipment or machinery is maintained free of charge by the Supplier during its warranty 
+period or such other extended periods, as the terms of contract may provide for; the paid 
+maintenance should commence only there afterwards. 
+ 
+11.1 The annual maintenance contract or repair contract may be entered into by the Competent 
+Authority with the Manufacturer or Manufacturer’s Authorized Supplier, in respect of various 
+equipment in the Institute, for maximum of 10% of the equipment cost or Rs.1,00,000, 
+whichever is less. In all other cases, quotations should be invited and normal purchase rules 
+adhered to. 
+ 
+11.2 In case of renewal of the Annual Maintenance Contract (AMC), the following points may be 
+taken care of while sending the proposal for renewal of Annual Maintenance Contract; 
+(a) AMC should be from a prospective date. To ensure this, the Competent Authority shall 
+initiate action for renewal of AMC at least 90 days before the expiry of previous AMC. 
+(b) In case of renewal, the service report or log book (or photocopies) should be sent along with 
+the proposal. 
+(c) In case of any increase in the AMC cost when compared to previous AMC, necessary 
+justification should be obtained for increase in price from the firm and enclosed along with 
+the indent. 
+(d) Advance payment should be paid against bank guarantee, if the amount is more than 
+Rs.1,00,000. 
+ 
+11.3 Only, frequently used machines shall be entered in the Annual Maintenance Contract, not 
+occasionally used machines.
+
+Norms for Stores and Purchase
+12. PURCHASING OF IMPORT ITEMS 
+The procedure outlined for the indigenous purchase shall be followed for the 
+procurement of items through import also. In addition, additional requirements shall be 
+applicable for the import orders, which are given in this section. 
+ 
+12.1 Any category of stores can be purchased from foreign suppliers subject to restrictions on 
+imports as imposed by the Government of India from time to time. 
+ 
+12.2 Normally, the import of the items should be made directly from the foreign principals. 
+When purchase is made through an Indian Agent of the foreign supplier, the documentary 
+evidence of the same should be obtained from the Indian Agent, stating that they are authorized 
+to sell the item on behalf of the foreign principals. Any agency commission payable to the 
+Indian Agent, shall be paid only in Indian rupees. 
+ 
+12.3 The Office of Stores Purchase shall ensure that the imported items do not fall under the 
+restricted, negative or abandoned category as per the Government of India. 
+ 
+12.4 Provision of exemption in customs duty must be availed and necessary certificate issued 
+along with purchase order. 
+ 
+12.5 Request for quotation should be sent by email, in addition to by registered post, speed post, 
+courier or fax. 
+ 
+12.6 Normally, payment for import shall be made through a Letter of Credit or Telegraphic 
+Transfer. But, payment can be made by a demand draft also. 
+ 
+12.7 The terms of shipment shall be on FOB price of that country and not CIF, as IIT Jodhpur has 
+hired the services of a Freight Forwarder. But, CIF price may be accepted in special instances, 
+on case to case basis depending on the situation as approved by the Director. 
+ 
+12.8 Wherever required, the Institute shall avail the services of clearing or consolidation agents 
+for foreign consignments arriving by air or sea. Such clearing agents shall be hired on the basis 
+of agreed terms or single consignment basis, whichever is advantageous to the Institute. 
+ 
+12.9 Officer-in-charge, Stores Purchase, is responsible for placing orders, opening/amending 
+extending letters of credit, insurance, clearance and transportation of goods, and processing for 
+short shipped or damaged goods. 
+ 
+12.10 The Officer-in-charge, Stores Purchase, shall maintain a stock register in which all 
+imported items received shall be entered. Delivery of foreign consignment to the Purchaser will 
+be made against the signature in this register. All imported items shall be appropriately entered 
+in the stock register and asset register. 
+ 
+12.11 Inspection Report must be returned to Office of Stores Purchase duly approved, or rejected, 
+within three days, failing which it will not be possible to lodge the claim of damage to the 
+Insurance Company, and it will be presumed that materials supplied are acceptable to the 
+Indenter. 
+ 
+12.12 Import of items through individual International Credit Card 
+The Indenter or purchaser must take the approval of CFA before placing the order for 
+buying consumable/part of machine/accessories, by credit card and inform Office of Stores 
+Purchase also. Limit of payment for individual credit card is only up to Rs.50,000 or equivalent 
+in any foreign currency, including Customs and freight charges of the items.
+
+Norms for Stores and Purchase
+13. MAINTENANCE OF RECORD 
+This section describes the records pertaining to stores that must be maintained by the 
+Institute, offices and laboratories so as to facilitate proper stock verification, write-off and 
+revaluation of stores, besides the transfer of stores from one office to another. 
+ 
+13.1 The Institute shall maintain a record of all purchases in the NCS category in the Asset 
+Register of the Institute. Each entry must contain at least the following information: 
+(a) Purchase order number and date; 
+(b) Brief specification of the item; 
+(c) Date of entry in the Asset Register; 
+(d) Name of the centre for whom purchased; and 
+(e) Cost and project number (if applicable). 
+The total value of all the assets entered in the Asset Register during the financial year 
+shall indicate the value of the assets to be capitalized in the balance sheet of the corresponding 
+financial year. 
+ 
+13.2 Each office at the Institute shall maintain the following two separate registers, namely Non-
+Consumable Stock (NCS) Register, and Consumable Stock (CS) Register. Items in the different 
+categories purchased by the office shall be entered in the appropriate register. 
+ 
+13.3 For projects, the Project Investigators shall maintain separate stock registers. All CS items 
+purchased from the project shall be entered in CS register, but all NCS items shall be entered in 
+the NCS Stock register of the associated office and Institute Assets Register. Each register must 
+have consecutively numbered pages after the certificate page and the index, which shall be at 
+the beginning of the register. 
+ 
+13.4 The register should have certificate shown in Annexure I on the first page. 
+ 
+13.5 The Officer-in-charge, Stores Purchase, shall be the custodian of all Stores, Purchase 
+Records pertaining to NCS items of the Institute (including those acquired through projects). All 
+original documents related to any such purchase (including for inquiries, report of purchase 
+committee, sanction sheet, purchase order, invoice/bill, delivery challan, and inspection reports 
+etc) shall remain with Officer-in-charge, Stores Purchase after purchase is complete. These 
+records and documents will be maintained for such periods as may be stipulated by 
+Government Financial Rules of the Central Government. After the stipulated period, the record 
+or documents may be destroyed with the specific approval of the Director. 
+ 
+13.6 All Officers-in-charge or PIs shall appoint a Committee to conduct an Annual Physical 
+Stock Verification of all items on the previous stock register of the office/ project at the end of 
+financial year. The Committee shall submit survey report of all NCS stores and recommend 
+write-off for NCS item(s) that are not serviceable, unusable or obsolete. 
+ 
+For NCS, the Committee shall record the justified reason for recommending write-off / 
+revalue the items and report all those items that may be considered to be of no value with 
+reasons recorded. Officer-in-charge or PI shall forward the report to the Director for approval. 
+Subsequently, this report shall be sent to Officer-in-charge, Stores Purchase for necessary action.
+
+Norms for Stores and Purchase
+14. TRANSFER OF STORES 
+ 
+14.1 To transfer stores within the Institute or outside the Institute, a written permission of the 
+Director is required. Inter-office transfer can be done using approved form (Annexure J) and 
+must be duly recorded in the relevant register of both the centre. 
+ 
+14.2 In case of project purchase, the transfer of stores on specific instructions of the Sponsoring 
+Agency can be done with the explicit approval of the Director. Subsequent to transfer of stores 
+as mentioned above, the appropriate Stock and Asset Registers shall be suitably updated. The 
+value of stores so transferred shall be deducted from the capitalized assets of the Institute as 
+indicated in the balance sheet. 
+ 
+15. RECORDS OF CONSUMABLE AND NON-CONSUMABLE ITEMS RECEIVED BY THE 
+INSTITUTE AS GIFTS, DONATIONS AND SAMPLES 
+The Institute may receive various types of gifts, donations and non-returnable 
+samples/components under various schemes as complimentary, under sales promotion or in 
+kind, etc., from various universities, laboratories, manufacturers, suppliers and even persons. A 
+consolidated record in this regard shall be maintained by the Stores & Purchase Section. The 
+concerned offices are required to maintain the inventory or details of such items, gifts and 
+samples in their own records and a confirmation to this effect is to be sent to the office of Stores 
+Purchase within one month of receipt of such items, gifts or samples.
+
+S. No. Competent Authority Financial Limit (Rs.)
+1. Director Up to 2,00,000
+2. Board of Governors More than 2,00,000
+Norms for Stores and Purchase
+16. WRITE-OFF, CONDEMNATION AND DISPOSAL 
+An item may be declared surplus or obsolete or unserviceable, if the same is of no use to 
+the Institute or when the item is beyond economical repair. An item may be rendered surplus, 
+obsolete or unserviceable in the process of upgrading or replacing Institute property or when 
+Institute property or equipment no longer serves a functional use due to programme, procedure 
+or other changes. Under such circumstances, the property and equipment be disposed off in the 
+best interest of the Institute, as per the following guidelines with prior approval of the Director: 
+a) Wherever possible, the stores or equipment shall be traded under buy back scheme, so as to 
+reduce the cost impact on the new stores or equipment. 
+b) If the above option is not available, the property and equipment shall be sold out rightly 
+with due procedures. 
+c) Obsolete, unusable materials beyond economic repair shall be disposed off as per procedure. 
+ 
+16.1 Financial Powers 
+Table 3 gives the financial limits for writing-off of the unserviceable items/materials 
+with an individual value.
+Table 3: Financial Limits for Writing-off Items 
+ 
+16.2 General Procedure for writing-off 
+The items to be declared the obsolete, surplus or unserviceable should be examined by 
+the Condemnation Committee, to be constituted by the Director, and their disposal 
+recommended. The Committee should take into account the prescribed or stipulated life period 
+of the stores. In case, such period is not prescribed or stipulated or it is not over, the Committee 
+should examine the conditions of stores and record suitable reasons. If an item has become 
+obsolete, surplus or unserviceable on account of negligence, fraud or mischief on the part of 
+employee, the same should be brought out clearly. 
+ 
+16.3 Procedure for Auction 
+The following procedure may be adopted for auction: 
+(1) After approval of the Director on the recommendations of Condemnation Committee, 
+Officer-in-charge of the office shall forward a copy of the Director’s approval to the Auction 
+Committee, headed by Member Secretary, to be constituted by the Director. 
+ 
+(2) The concerned office shall make arrangement to remove the condemned articles or materials 
+from the office concerned to the place earmarked for their temporary storage, within a week 
+from the date of receipt of the copy of the Condemnation Report. Items to be disposed-off 
+shall be under the custody of Member Secretary, Auction Committee, until their disposal. 
+ 
+(3) The unserviceable materials shall be disposed of periodically through open or sealed 
+tendering. 
+ 
+(4) The Auction Committee shall decide the mode of auction. As far as possible, the disposal 
+would be through Institute tender notice or press tender notice, where interested parties 
+would be issued tender forms to quote the rate under sealed cover.
+
+Norms for Stores and Purchase
+(5) The tenders should be submitted in sealed covers, superscribed “Tenders for Unserviceable 
+Materials”, and opened in the presence of all Members of the Auction Committee and 
+Tenderer, who may wish to be present. 
+ 
+(6) The tenders shall be accompanied with earnest money deposit for items or stores, by way of 
+demand draft drawn in favour of the “Director, IIT Jodhpur”. Tender received without 
+Earnest Money Deposit shall not be entertained. 
+ 
+(7) The tender forms along with the terms and conditions may be obtained from the Office of 
+Stores Purchase as stipulated in Notice Inviting Tender (NIT)/website of the 
+Institute/Central Public Procurement Portal. 
+ 
+(8) The party whose tender is accepted will be required to deposit the balance amount (after 
+adjustment of earnest money deposit) within a period of five days of the receipt of the order 
+or notification. If the amount is not deposited within the aforesaid period, the acceptance of 
+offer shall stand cancelled and the earnest money forfeited. 
+ 
+(9) After depositing the balance amount, the party should lift the goods within a period of 
+seven days. If the goods are not removed within the said period, the tenderer shall have no 
+right or claim to the goods and whatever money has been deposited shall be deemed to 
+have been forfeited. The Institute shall be free to dispose of the goods in any other manner 
+as it may deem fit. 
+ 
+(10) The sale account of auction shall be prepared (in triplicate) in the prescribed form (GFR 18) 
+and shall be submitted to the Director, duly signed by the Chairman, Members and 
+Member-Secretary of Auction Committee. 
+ 
+(11) The Institute shall reserve the right to reject all or any tender without assigning any reason. 
+The decision of the Director in this behalf on all other matters relating to the disposal shall 
+be final and binding. 
+ 
+(12) On receipt of the sale account, the office concerned shall write-off the auction items from 
+the inventory or Asset Register. 
+ 
+(13) The Member-Secretary of the Auction Committee shall arrange for the handing over of 
+unserviceable materials to the successful tenderer after the deposit of the auction money in 
+the office of Accounts of the Institute. 
+ 
+(14) In case of any dispute, the jurisdiction of the matter should invariably remain with the 
+courts situated at Jodhpur, Rajasthan. 
+ 
+(15) The tender should be completed in all respects and should be duly signed. Late and 
+delayed tenders due to any reason (including postal delays) should not be considered. 
+Incomplete and unsigned tenders should not be considered at all. Offers through fax or 
+email will not be accepted. 
+ 
+(16) Cases not covered in this document will be decided by the Director in the interest of 
+Institute. 
+ 
+17. CHANGES 
+The contents of this document can be changed with the due approval of the Board of 
+Governors as and when found necessary.
+
+Norms for Stores and Purchase
+ANNEXURE A
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR 
+STORES & PURCHASE SECTION
+Supplier Registration Form
+Firm’s Name 
+: 
+___________________________________________________ 
+ 
+ 
+Owner’s Name 
+ 
+:
+Full Postal Address 
+: 
+1. _________________________________________________
+____________________________PIN__________________ 
+2.__________________________________________________ 
+____________________________PIN__________________ 
+ City: State: 
+ 
+E-mail address 
+ 
+:
+___________________________________________________ 
+ 
+ 
+Website address
+Contact Person’s Name 
+ 
+:
+___________________________________________________ 
+ 
+Contact No. 
+ 
+:
+Phone No:__________________Mobile No:._______________ 
+ 
+Fax No._____________________________________________ 
+Sale Tax Registration No. 
+(Enclosed Xerox Copy) 
+: 
+ 
+___________________________________________________ 
+PAN No. 
+(Enclosed Xerox Copy) 
+: 
+ 
+___________________________________________________
+Shop Act Registration No. 
+(Enclosed Xerox Copy) 
+:
+___________________________________________________ 
+Excise Registration No. 
+(Enclosed Xerox Copy) 
+:
+Current Bank Account 
+No. 
+ 
+___________________________________________________ 
+(Statement of last twelve months should be enclosed)
+Manufacture or Supplier 
+:
+( In case of supplier, please enclose authorization of your 
+Principal) 
+ 
+List of the organizations to whom the materials have been supplied Item(s) name you want to 
+supply: (Major category) Computer NNFurniture NNChemical NNGlassware NNElectronic 
+NNLiveries 
+NNMedicines 
+NNScientific 
+Equip. 
+NNStationery 
+NNetc. 
+ ________________________________________ 
+ 
+Signature with Seal 
+Note: Supplier must print CST/VAT No. /TIN No. /PAN No. / Service Tax No. on their Letter 
+Head/Bill/Quotation
+
+Norms for Stores and Purchase
+ANNEXURE B
+Renewal Registration Form 
+ 
+Registration No.________________________________.
+Firm’s Name 
+: ___________________________________________________
+Owner’s Name 
+: ___________________________________________________ 
+ 
+Full Postal Address 
+: 1. _________________________________________________ 
+ ____________________________PIN__________________ 
+2.__________________________________________________ 
+ ____________________________PIN__________________ 
+ City: State: 
+ 
+E-mail address 
+: ___________________________________________________ 
+ 
+Contact Person’s Name 
+ 
+:
+Contact Details
+Phone No:_____________________Mobile No.____________ 
+Fax No.____________________________________________ 
+ 
+TIN No 
+ 
+:
+___________________________________________________ 
+ 
+PAN(Enclosed Xerox copy)
+Shop Act Registration No 
+(Enclosed Xerox Copy)
+Current Bank Account No. 
+: ___________________________________________________
+Manufacturer or Supplier 
+ 
+:
+___________________________________________________ 
+(In case of supplier please enclose authorization of your 
+Principal) 
+ 
+ 
+List of the organizations to which the materials have been supplied Item(s) name you want to 
+supply: (Major category) NNComputer NNFurniture NNChemical NNGlassware 
+NNElectronic 
+ NNLiveries 
+NNMedicines 
+NNScientific 
+Equip. 
+NNStationery 
+NNetc. 
+_________________________________________ 
+ 
+Signature with Seal 
+ 
+Note: Supplier must print CST/VAT No. /TIN No. /PAN No. / Service Tax No. on their Letter 
+Head/Bill/Quotation
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR 
+STORES & PURCHASE SECTION
+
+Norms for Stores and Purchase
+ANNEXURE C
+Administrative and Fund Approval for Purchases from Grant-in-Aid 
+ 
+ 
+ 
+Indenter’s Name & P.F. No.: 
+ 
+Centre Name: 
+ 
+Name of Equipment with its Specifications: 
+ 
+Cost of Equipment (approximate): 
+ 
+Centre’s Budget Head: 
+ 
+Purpose for the Procurement: 
+ 
+ 
+ 
+ Signature of the Indenter 
+ 
+ 
+ 
+ 
+ 
+ (Recommended by Centre: Coordinator) 
+ (Forwarded by Laboratory Coordinator)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approved 
+ 
+ 
+ 
+Competent Financial Authority* 
+ 
+ 
+ 
+* As per the Financial Sanctioning Powers (clause 4) of ‘Norms for Stores and Purchase’
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+
+Norms for Stores and Purchase
+ANNEXURE D 
+ 
+ 
+Certificate for Purchasing of Goods without a Quotation or with a Single Quotation (GFR: Rule 145) 
+ 
+ 
+“I am personally satisfied that these goods purchased are of the requisite quality and 
+specifications, and are being purchased from a reliable supplier at a reasonable price.”
+Signature of Purchaser
+
+Norms for Stores and Purchase
+ANNEXURE E 
+ 
+ 
+Certificate for Purchasing of goods by Purchase Committee (GFR: Rule 146) 
+ 
+ 
+“Certified that we members of the purchase committee are jointly and individually satisfied 
+that the goods recommended for purchase are of the requisite specification and quality, priced 
+at the prevailing market rate and the supplier recommended is reliable and competent to 
+supply the goods in question.” 
+ 
+ 
+ 
+ 
+ Member 1 
+ 
+ 
+ 
+ Member 2 
+ 
+ 
+ 
+Member 3
+
+Norms for Stores and Purchase
+ANNEXURE F 
+ 
+ 
+PROPRIETARY CERTIFICATE FORM 
+ 
+I hereby certify to the best of my knowledge and belief that the stores indented are proprietary 
+item of 
+ 
+M/s. ……………………………………………………………………………………………………… 
+ 
+…………………………………………………………………………………………………………… 
+ 
+and the requirement of the centre will not be met by any substitute stores due to the following 
+reasons: 
+ 
+1. ……………………………………………………………………………………………….………… 
+ 
+ 
+2. …………………………………………………………………………………………………............. 
+ 
+ 
+This 
+is 
+against 
+purchase 
+indent 
+No…………………………………….. 
+Dated 
+………………………… 
+ 
+ 
+ 
+________________
+Indenter’s Signature
+Signature of Centre: Coordinator
+
+Type of Material Purchase Order Type
+Consumable Normal
+Non-Consumable Repeat Order
+S. No Complete Description of Items
+(Specification, Model, Catalogue No.)
+Use Separate sheet if required Quantity
+Required Purpose Unit Price Total
+Cost
+S. No. Centre Name/ Project No. Budget Head Budget Amount
+S. No. Name Address
+Norms for Stores and Purchase
+ANNEXURE G
+Indenter’s Signature_________________ 
+ 
+ 
+ 
+ Recommended 
+Name: __________________________ 
+PF . No.__________________________ 
+ 
+ 
+Email: __________________________ 
+ 
+ 
+ 
+ Signature of Centre: Coordinator
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+
+S.N
+O. Particulars/Description of
+the Items as given in
+Quotation/Invoice of the
+Supplier (USE CAPITAL
+LETTERS) Qty. Country
+of Import Value in
+Foreign
+Currency Value
+in
+Indian Rupees
+(INR)
+Norms for Stores and Purchase
+ANNEXURE H
+Purchase Requisition Form for Import Items
+Centre Name: Centre Indent No.. …………………… & Date ………………...
+Mode of Shipment: Air / Sea
+Type of Material: Non-Consumable / Consumable
+Particulars of Goods Requested For Import:
+____________________________________________________________________________________ 
+ 
+Supplier’s Full Address
+( IN CAPITAL LETTERS)
+Local Agent’s Full Address 
+ (IN CAPITAL LETTERS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recommended 
+Indenter’s Signature_________________ 
+Name: __________________________ 
+P.F . No.__________________________ 
+ 
+ Signature of Centre: Coordinator 
+ 
+Enclosures :- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. proforma invoice valid for days . 
+2. list of goods 
+3. End User Certificate, 4. NMIC 
+5. Check list duly signed.
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+
+Norms for Stores and Purchase
+END-USER CERTIFICATE 
+ 
+ 
+The following items ______________________________________________against the Indent No. 
+________________________ dated ________________ are required for doing Lab and research 
+work in the Center: _______________ of IIT Jodhpur.
+These items are specialized items and cannot be obtained locally. These items will be used at 
+Center: _______________ in our Institution for the purpose of Academic / Teaching / Research 
+work only. 
+ 
+ 
+ 
+ 
+________________
+Indenter’s Signature
+Signature of Centre: Coordinator
+
+Norms for Stores and Purchase
+NON MANUFACTURE IN INDIA CERTIFICATE 
+(N.M.I.C.) 
+ 
+ 
+ 
+To the best of my knowledge, the required items ____________________________________, as
+per 
+indent 
+no. 
+______________________________ 
+dated 
+_________________are 
+not
+manufactured in India and its equivalent substitute is also not available in India, which can
+serve our purpose.
+Indenter’s Signature
+Signature of Centre: Coordinator
+
+1. Whether budget provision is clearly mentioned /approved for budgetary
+control.
+2. Whether indent is approved by competent authority.
+3. Whether the Quotation has been signed by the Committee members.
+4. Whether certificate relating to NMIC (Non manufacturing in India) is
+attached
+5. Whether proper justification given when single offer (quotation) is
+considered
+6. Whether valid authorization letter from Principal Supplier in favour of
+Indian Agent attached
+7. Whether Agency Commission has been specifically mentioned which is to
+be paid in Indian Currency
+8. Whether the guarantee period of equipment has been specified
+9. Whether the quotation is valid for …… days from the date of issue
+10. Whether quotation value is in Foreign Currency
+Norms for Stores and Purchase
+Indenter’s Signature
+Signature of Centre: Coordinator
+__________________________________________________________________________________ 
+(For Office Use Only) 
+………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………
+…………………………………………………………………………………………………… 
+Dealing Assistant (S&P)
+
+Norms for Stores and Purchase
+ANNEXURE I 
+ 
+ 
+Certificate for maintaining a Stock Register 
+ 
+ 
+“Certified that this register contains a total of ------------- pages and each page has been 
+consecutively numbered on both sides from _____ to _____”.
+Signature of Officer-in-charge
+
+Sl.
+No. Description of
+Stores
+1 Quantity
+Transferred
+2 From
+Whom
+Received
+3 Ref. P.O.
+No. &
+Date of
+Receipt
+4 Reason of
+Transfer
+5 Recipient’s
+Ledger
+Folio No.
+6 Remarks
+of SPS
+7
+Norms for Stores and Purchase
+ANNEXURE J
+Signature of C: Centre: (Transferer) ……………………………… 
+ 
+ 
+ Approved 
+ 
+Signature of C: Centre: (Transferee) ……………………………… 
+ 
+Handed over by ……………………….. Taken over by ………………………….. 
+ Director 
+ 
+ 
+ 
+Note: 1. This form should be filled in the triplicate form, col. 1 to 6 by the transferer Centre. 
+2. After obtaining Director’s approval, the 7th col. and taking certificate be got signed by 
+the transferee Centre. 
+3. Original copy to be sent to central store, duplicate for transferee Centre and triplicate 
+copy for the transferer Centre.
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR

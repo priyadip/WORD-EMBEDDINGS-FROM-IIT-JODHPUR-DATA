@@ -1,0 +1,92 @@
+SOURCE_PDF: 05f6861748b3_7._20B.Tech_20MT_20Program_20Structure_01_05102020.pdf
+
+Cat Course LTP C N GC Cat Course LTP C NC GC
+I Semester II Semester
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 2 - 1
+NE Engineering Design 0-0-2 2 1 - NE Engineering Design 0-0-2 2 1 -
+N Communication 0-0-2 2 1 - N Communication Skill 0-0-2 2 1 -
+N Social Connect and 0-0-1 1 0.5 - N Social Connect and 0-0-1 1 0.5 -
+H responsibilities I H responsibilities II
+N Performing Arts I 0-0-1 1 0.5 - N Performing Arts 0-0-1 1 0.5 -
+H /Sports I H II/Sports II
+Total 11-2-
+12 25 3 16 Total 12-1-
+14 27 3 17
+III Semester IV Semester
+LS Scientific
+Computations 3-1-0 4 - 4 IE Materials Science &
+Engineering
+Fractal 1: Physical
+Metallurgy
+Fractal 2: Polymers
+Fractal 3: Corrosion 3 ×
+1-0-0 3 - 3
+IE Thermodynamics 3-1-0 4 - 4 PC Data Structure and 3-0-2 5 4
+PC Mechanics of Solids 3-1-0 4 - 4 PC Materials at 3-1-0 4 4
+IE Introduction to
+Machine Learning 3-0-2 5 - 4 PC Materials for Energy 3-0-0 3 3
+LS Condensed Matter
+Physics 3-0-0 3 - 3 IE Signals and Systems 3-1-0 4 - 4
+NE Intro. To Profession 0-0-2 2 1 IH Humanities I 3-0-0 3 - 3
+Total 15-3-
+4 22 1 19 Total 15-1-
+4 23 - 21
+2nd year B.Tech. Materials Engineering
+Program Structure
+For AY 2020-21
+
+V Semester VI Semester
+PC PC Electronic Materials Electronic Materials 3-0-0 3 3 3 PC PC Computational 3-0-0 3 3 3
+PC Mechanical 3-0-0 3 3 PC Materials Processing
+and Manufacturing Materials Processing 3-0-0 3 3
+Behavior of and Manufacturing
+PC Phase 3-0-0 3 3 PC Extraction of 3-0-0 3 3
+Transformations Nonferrous Metals
+PC Materials 3-0-0 3 3 PC Iron and Steel 3-0-0 3 3
+Characterization Making
+PC Electronic Materials 0-0-3 3 1.5 PC Smart Materials Smart Materials 3-0-0 3 3
+PC Physical Metallurgy
+Lab Physical Metallurgy 0-0-3 3 1.5 PC Computational 0-0-2 2 1
+Lab Modelling of
+PC Energy Materials
+Lab 0-0-3 3 1.5 PC Materials Processing 0-0-3 3 1.5
+PC Materials 0-0-2 2 1
+IH Humanities II 3-0-0 3 - 3 PE Programme/Open
+Elective 3-0-0 3 3
+N Professional Ethics I 0-1-0 1 - N Professional Ethics II 0-1-0 1 -
+Total 15-1-
+11 26 1 20.5 Total 18-1-
+5 24 1 20.5
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE
+/
+OE Programme/Open
+Electives 10-0-
+0 10 - 10 PE
+/
+OE Programme/Open
+Electives 15-0-
+0 15 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 15-0-
+6 21 - 18 Total 18-0-
+0 18 - 18
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 15 165

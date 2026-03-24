@@ -1,0 +1,33 @@
+SOURCE_PDF: 54c238da925b_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877992.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR ASSISTANT
+(A) WRITTEN TEST 
+ 
+General English
+1. Comprehension Passage (Short Passage) 
+2. Grammar – Tenses, Active & Passive Voice, Direct-Indirect speech, Punctuation, Correction of
+Sentences etc.
+3. Precis writing. 
+4. Noting/Drafting 
+5. Letter/E-mail Communication on a given context
+General Knowledge
+1. Current Affairs 
+2. Indian History, Indian Polity, Indian Constitution, General Economics & Geography
+Simple Arithmetic (10th Standard)
+1. Simplification of Fractions 
+2. Simple/Compound Interest 
+3. Profit/Loss & Percentages 
+4. Other Basic Arithmetic Related Matters
+(B) COMPUTER SKILL TEST
+1. Elementary MS Word 
+2. Elementary MS Excel 
+3. PowerPoint Presentation 
+4. E-Mail 
+5. Typing Test English/Hindi
+A. MS Word 
+-Word document writing (to test the formatting/editing of various components of MS word 
+to be applied in paragraph to be given like Header, Footer, Bold, Italics, Line spacing etc.) 
+ 
+B. MS Excel 
+-Formulae, Functions, Arithmetic elementary on Excel.

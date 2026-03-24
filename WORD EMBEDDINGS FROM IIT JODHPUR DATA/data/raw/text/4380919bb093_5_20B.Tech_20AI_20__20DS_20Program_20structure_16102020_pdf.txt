@@ -1,0 +1,79 @@
+SOURCE_PDF: 4380919bb093_5_20B.Tech_20AI_20__20DS_20Program_20structure_16102020.pdf
+
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+I Semester II Semester
+IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4 IE Engineering
+Mechanics 2-1-0 3 - 3
+IE Introduction to
+Computer
+Science 3-0-2 5 - 4 IS Chemistry 3-0-0 3 - 3
+IE Introduction to
+Bioengineering 3-0-2 5 - 4 IS Physics 3-0-0 3 - 3
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communication 0-0-2 2 1 - NH Communication 0-0-2 2 1 -
+Skill I Skill II
+NH Social Connect 0-0-1 1 0.5 - NH Social Connect 0-0-1 1 0.5 -
+and and
+responsibilities I responsibilities II
+NH Performing Arts 0-0-1 1 0.5 - NH Performing Arts 0-0-1 1 0.5 -
+I/ Sports I II/ Sports II
+Total 12-1-14 27 3 17 Total 11-2-12 25 3 16
+III Semester IV Semester
+LS PSSP 3-1-0 4 - 4 IE Materials Science
+& Engineering
+(Electronic
+materials) 1 ×
+1-0-0 1 - 1
+PC Data Structures 3-0-2 5 - 4 IE Pattern 3-0-2 5 - 4
+and Algorithms Recognition and
+PC Maths for 3-1-0 4 0 4 IE Thermodynamics 3-1-0 4 - 4
+IE Signals and
+Systems 3-1-0 4 - 4 PC HMI 0-0-4 4 - 2
+LS Quantum Info
+Processing 3-0-0 3 - 3 PCS-2 3-0-2 4 - 4
+NE Intro. To 0-0-2 2 1 IH Humanities I 3-0-0 3 - 3
+Total 17-3-4 24 1 21 Total 15-1-10 24 - 21
+V Semester VI Semester
+2nd year B.Tech AI & Data Science
+Program Structure
+For AY 2020-21
+
+PC DA of 3-1-0 4 4 PC Data 3-0-3 6 4.5
+Algorithms - Visualization -
+Artificial 3-0-0 3 - 3 Deep Learning 3-0-3 6 - 4.5
+Intelligence 3-0-3 6 - 4.5 AI+X / DS+ X 3-0-0 3 - 3
+Optimization in Dependable AI 3-0-0 3 3
+IH Humanities II 3-0-0 3 - 3 PE Programme/
+Open Elective 6-0-0 6 6
+NH Professional 0-1-0 1 - NH Ethics, Policy, 0-0-2 1 -
+Ethics I Law and
+Total 15-2-6 22 1 19 Total 18-0-4 24 1 21
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PCPE
+/
+OE AI+X / DS+ X
+Programme/
+Open Electives 3-0-0
+6-0-0 3
+6 - 3
+6 PE/
+OE Programme/
+Open Electives 15-0-0 15 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Sci 2-0-0 2 - 2
+Total 14-0-6 21 - 17 Total 18-0-0 18 - 18
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 165
+Note: ES are proposed Engineering Science compulsory courses

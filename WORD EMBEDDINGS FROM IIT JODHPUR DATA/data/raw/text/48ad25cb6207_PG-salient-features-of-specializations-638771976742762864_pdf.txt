@@ -1,0 +1,47 @@
+SOURCE_PDF: 48ad25cb6207_PG-salient-features-of-specializations-638771976742762864.pdf
+
+Salient features of specialization
+i. 
+Focus on advanced concepts in fluid flow and heat transfer with emphasis on various applied 
+problems
+ii. 
+State of the art exposure to computational techniques for fluid flow and heat transfer problems
+iii. 
+Hands on exposure to various advanced experimental techniques in fluid flow and heat 
+transfer
+iv. 
+Industry internship and project collaborations
+v. 
+The active classroom learning methodology
+M.Tech (Advanced Manufacturing and Design)
+i. 
+Focus areas of Advanced Manufacturing include Smart manufacturing and Industry 4.0, 
+Multiscale Manufacturing and Processing of novel materials
+ii. 
+These programs offer state of the art exposure to Advanced Manufacturing processes which 
+will prepare students to contribute to global research problems.
+iii. 
+Advanced manufacturing students under this specially designed curriculum will be able to 
+commence academic and industrial research in thematic areas using analytical, computational 
+and experimental tools.
+iv. 
+Dual degree program aims to impart knowledge of fundamentals required to understand the 
+recent manufacturing trends and approaches using the Internet of things, machine learning, 
+sensors, etc. for problem-solving required in modern manufacturing industries.
+v. 
+Students will acquire knowledge of hybrid processing methodologies, research capabilities 
+associated with miniaturization/smart manufacturing, novel engineering materials, 
+microsystems fabrication, Industry 4.0 and most importantly, will be trained to perform 
+collaborative work with an interdisciplinary approach.
+vi. 
+Facilities to design, develop and manufacture new or modified components for mechanical 
+systems using computer-aided design/modeling software/additive manufacturing
+vii. 
+Focus areas include advanced mechanics of solids, robotics, dynamics of land and aerial 
+vehicles, vibration and experimental modal analysis, acoustics, development of noise control 
+methods, diagnostics and prognostics of dynamic systems, Computer-aided design, Finite 
+element analysis, design, and optimization, MEMS/NANO
+viii. 
+Hands-on exposure through experiments and design complemented with exposure to state of 
+the art tools like MATLAB, Ansys, Abaqus, Adams, SolidWorks, Creo, Pro/E, Multi-physics 
+software & Multi-body simulator.

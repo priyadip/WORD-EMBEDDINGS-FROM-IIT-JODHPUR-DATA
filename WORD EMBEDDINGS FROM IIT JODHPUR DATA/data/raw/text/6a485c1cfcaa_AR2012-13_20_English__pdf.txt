@@ -1,0 +1,4517 @@
+SOURCE_PDF: 6a485c1cfcaa_AR2012-13_20_English_.pdf
+
+Indian Institute of Technology Jodhpur
+Annual Report
+
+CONTENTS
+ Foreword 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+ Organization
+o Board of Governors 
+ 
+ 
+ 
+ 
+ 
+6
+o Finance Committee 
+ 
+ 
+ 
+ 
+ 
+7
+o Building and Works Committee 
+ 
+ 
+ 
+8
+o Institute Committees 
+ 
+ 
+ 
+ 
+ 
+9
+ Academics
+o Academic Programmes 
+ 
+ 
+ 
+ 
+ 
+14
+o Centres of Excellence 
+ 
+ 
+ 
+ 
+ 
+15
+o International Relations 
+ 
+ 
+ 
+ 
+ 
+25
+o R & D Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+28
+o Undergraduate Research & Innovation Programme (UGRI) 
+31
+o High School Summer Camp 
+ 
+ 
+ 
+ 
+31
+o Conferences and Workshops 
+ 
+ 
+ 
+ 
+32
+o Innovation & Incubation 
+ 
+ 
+ 
+ 
+37
+o Short-Term Courses 
+ 
+ 
+ 
+ 
+ 
+38
+o Weekly Academic Seminars 
+ 
+ 
+ 
+ 
+40
+o Scholarship for Students 
+ 
+ 
+ 
+ 
+40
+o Foreign Language Training 
+ 
+ 
+ 
+ 
+40
+o Internships of Students 
+ 
+ 
+ 
+ 
+ 
+41
+ Facilities
+o Present Campus 
+ 
+ 
+ 
+ 
+ 
+ 
+46
+ Academic Campus 
+ 
+ 
+ 
+ 
+46
+ Residential Area 
+ 
+ 
+ 
+ 
+ 
+46
+o Permanent Campus 
+ 
+ 
+ 
+ 
+ 
+ 
+47
+o Computer Centre 
+ 
+ 
+ 
+ 
+ 
+ 
+48
+o Library 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49
+o Laboratories 
+ 
+ 
+ 
+ 
+ 
+ 
+52
+o Health Centre 
+ 
+ 
+ 
+ 
+ 
+ 
+73
+o Sports Facilities 
+ 
+ 
+ 
+ 
+ 
+ 
+73
+o SC/ST and OBC Cell 
+ 
+ 
+ 
+ 
+ 
+73
+o Hindi Cell 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+74
+o Office Automation 
+ 
+ 
+ 
+ 
+ 
+75
+ Scholalry Activities
+o Invited Lectures 
+ 
+ 
+ 
+ 
+ 
+ 
+76
+o Publications in Academic Journals 
+ 
+ 
+ 
+76
+
+o Conference Presentations and Publications 
+ 
+ 
+82
+ Faculty Members & Areas of Research Interest 
+ 
+ 
+85
+ Institute Staff 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+93
+ Student Activities
+o Unique Governance System (SCHoD) 
+ 
+ 
+97
+o Major Student Events 
+ 
+ 
+ 
+ 
+ 
+100
+o National Festivals 
+ 
+ 
+ 
+ 
+ 
+104
+o Parivartan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+106
+o Counselling Service 
+ 
+ 
+ 
+ 
+ 
+108
+o Student Placement Cell 
+ 
+ 
+ 
+ 
+ 
+109
+o Alumni Association 
+ 
+ 
+ 
+ 
+ 
+111
+o List of Students 
+ 
+ 
+ 
+ 
+ 
+ 
+112
+ Financial Brief 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+130
+
+Foreword
+This annual report presents the developments that took place in the institute 
+in the year 2012-13. It was an year of steady progress in all spheres ranging 
+from academics to gaining momentum in the construction of our permanent 
+campus. At present, the institute offers B.Tech. programme in Computer 
+Science and Engineering, Electrical Engineering, Mechanical Engineering, and 
+Systems Science, and M.Tech. and Ph.D. programmes in Centre of Excellence 
+in Energy, Centre of Excellence in Information and Communication 
+Technology (ICT), and the Centre of Excellence in Systems Science (SS). The 
+institute is looking forward to offering a B.Tech. and a Ph.D. programme in 
+Biologically-inspired Systems Science from the ensuing academic year.
+Promoting inter-disciplinary culture in each and every academic activity has 
+been our tradition. Therefore, the institute has not adopted the structure of 
+academic departments based on the individual disciplines. Accordingly, IIT 
+Jodhpur is committed to developing state of the art, research-led and 
+multidisciplinary centres of excellence where scholars from different 
+disciplines carry out productive research on emerging and technological, 
+scientific, and social issues that characterize the challenges faced by the 
+contemporary world. The CoEs create a distinctive interdisciplinary and 
+collaborative learning environment, giving our students a global outlook and 
+holistic problem-solving approach. We aim to produce students who are 
+highly innovative and entrepreneurial, and are proud that last year some of 
+our students were hired by some of the best national and international 
+companies. Our four Centres of Excellence in - Energy, Information and 
+Communication Technology, Systems Science, Biologically-inspired Systems 
+Science mark our distinctive inter-disciplinary culture.
+The institute remains a locus of vibrant academic activities. Academic 
+seminars, workshops, and lectures from experts belonging to various fields 
+contribute substantially to the intellectual vigour prevailing in the campus. 
+The research at IIT Jodhpur is focused on solving socio-economic problems 
+and creating cost-effective technological solutions. With the help of our 
+collaborators, the vision of our faculty, and a team of highly motivated 
+students we aim to make IIT Jodhpur one of the premier institutes in the 
+world. We are very proud of our students, faculty, and visiting faculty from 
+around the country and the world.
+
+At present, the institute is functioning from a temporary campus in MBM 
+Engineering College, Ratanada, Jodhpur. We are looking forward to our own 
+campus near Nagaur in Jodhpur which will be coming up soon. While being 
+in temporary campus we are committed to making steady progress in the 
+areas of excellence we have prioritized for ourselves. However, much remains 
+to be done to uphold our mark of a premier educational institute in India. 
+This calls for shouldering of responsibilities in their right earnest perspective 
+from each and every individual associated with our institute. Following 
+sections in this report present the academic and administrative steps taken in 
+the direction of development.
+Prof. Prem K. Kalra
+Director
+
+ORGANIZATION
+BOARD OF GOVERNORS
+Chairman 
+Professor Goverdhan Mehta (FNA, FRS) 
+University of Hyderabad 
+Department of Organic Chemistry, 
+Central University PO, 
+Hyderabad - 500 046, 
+Andhra Pradesh
+Director (Ex-officio) 
+Professor Prem K. Kalra 
+Director, IIT Jodhpur 
+Old Residency Road, Ratanada, 
+Jodhpur – 342011
+Member-Nominees of the IIT Council
+Professor Pankaj Chandra 
+Indian Institute of Management, 
+Bangalore 560076
+Dr. K. Vijay Raghavan 
+Director, 
+National Centre for Biological Science 
+Bangalore 560076
+Mr. Kiran Karnik 
+Former President of NASSCOM, 
+New Delhi 110016
+Mr. D. R. Mehta 
+Founder & Chief Patron, 
+Bhagwan Mahavir Viklang Sahayta Samiti, 
+13a-Gurunanak Path, Malviya Nagar, 
+Jaipur – Rajasthan
+
+State Government Nominee 
+Mr. Rajeev Swarup 
+Principal Secretary, Higher & Technical Education 
+Government of Rajasthan Jaipur, Rajasthan
+FINANCE COMMITTEE
+Chairman 
+Professor Goverdhan Mehta (FNA, FRS) 
+University of Hyderabad 
+Department of Organic Chemistry, 
+Central University PO, 
+Hyderabad - 500 046, 
+Andhra Pradesh
+Members
+Professor Prem K. Kalra 
+Director, IIT Jodhpur 
+Old Residency Road, Ratanada, 
+Jodhpur - 342011
+Mr. G. S. Sood 
+CMD National Scheduled Tribe, 
+NBCC Tower, Finance & Development 
+Hall No 1, 5th Floor, 15 Bhikaji Cama Place 
+New Delhi 110 066
+Mr. Umesh Kumar (IAS) 
+N-1, Ghandinagar 
+Bajaj Nagar Road, 
+Jaipur 302015
+Bureau Head (Technical Education) 
+Additional Secretary 
+Department of Higher Education 
+Ministry of Human Research Development, Shastri Bhawan 
+New Delhi - 110001
+
+Financial Advisor, MHRD 
+Additional Secretary & Financial Advisor, 
+Department of Higher Education 
+Ministry of Human Research Development, Shastri Bhawan 
+New Delhi - 110001
+BUILDING AND WORKS COMMITTEE
+Chairman 
+Professor Prem K. Kalra 
+Director, IIT Jodhpur 
+Old Residency Road, Ratanada, 
+Jodhpur – 342011
+Members
+Mr. N.M.D. Jain 
+ADG, CPWD (Retd.), 
+170, 1st Floor, Jagriti Enclave, 
+Delhi
+Ms. Usha Kasana 
+Chief Architect, 
+Public Works Department 
+Government of Rajasthan 
+Jacob Road 
+Jaipur
+
+INSTITUTE COMMITTEES
+Academic Committee
+The committee co-ordinates all UG programmes with representatives from 
+each discipline and PG programmes through the respective CoEs. Library 
+matters also fall under this purview.
+Members 
+Dr. B. Venkata Ramana (Coordinator) 
+Dr. Deepak M. Fulwani (Coordinator, PG Programmes) 
+Dr. Barun Pratiher (CoE Energy) 
+Dr. Ambesh Dixit (CoE Energy) 
+Mr. Anupam Gupta (CoE ICT) 
+Dr. Arnab Datta (CoE ICT) 
+Dr. Satyabrata Adhikari (CoE SS) 
+Dr. Subhashish Banerjee (CoE SS) 
+Dr. Meenu Chhabra (CoE BISS) 
+Dr. Sushmita Jha (CoE BISS) 
+Dr. Laltu Chandra (Coordinator, Library) 
+Dr. Anand Plapally (International Student Exchange) 
+Dr. Gourishankar Hiremath 
+Two Student Represetatives: Mahesh Chand Gurjar and Heena Rathore
+Student Affairs 
+Dr. Rahul Chhibber (Coordinator) 
+Dr. Amit Mishra (WAVES) 
+Dr. P. Pradeep Kumar (NUTS) 
+Dr. Vidya Sarveswaran and Dr. Sushmita Jha (Counselling Service) 
+Dr. Shree Prakash Tiwari and Dr. S. Harinipriya (SAGE) 
+Dr. V.V.M.S. Chandramouli (PROM) 
+Student Representatives: Shivam Verma, Narendra Kumar, Aditya Ranjan, 
+Prince Gupta, Manu Agrawal, and Sidharth Jain
+Library Committee 
+Dr. Mainak Mazumdar (Coordinator) 
+Dr. Subhashish Banerjee (Member from Systems Science CoE) 
+Dr. Anil Kumar Tiwari (Member from ICT CoE) 
+Dr. Laltu Chandra (Member from Energy CoE)
+
+Dr. Ansu Louis (Member from BISS CoE) 
+Dr. Kshema Prakash (Deputy Librarian)
+Council of Wardens: Hostels, House Allotment and Guesthouse 
+Dr. Akhilesh Mohan (Chairman) 
+Dr. Satyabrata Adhikari 
+Dr. Meenu Chhabra 
+Dr. Sushmita Jha 
+Dr. Anand Krishnan Plapally 
+Dr. Gourishankar Hiremath 
+Dr. Rahul Chhiber 
+Dr. V. Narayanan 
+Dr. V. Hari Narayanan 
+Dr. Atul Kumar 
+Dr. K. J. George 
+Dr. Ashutosh Kumar Alok 
+Dr. S. P. Tiwari
+Placement: Student Placement and Internships 
+Dr. Gaurav Harit (Coordinator) 
+Dr. P. Pradeep Kumar 
+Dr. Mainak Mazumdar 
+Dr. Anand Krishnan Plapally 
+Two Student Representatives: Tanmay Sethi, Manish Jain
+Administration
+This committee deals with media and public relations, non-academic staff 
+recruitment, RTI, Hindi Cell, Health/Medical, space allocation, security, legal 
+cell, finance, stores and purchases, institute functions, outreach activities, 
+facility management.
+Members 
+Dr. Rajiv Shekhar (Coordinator) 
+Dr. K. J. George (Security) 
+Dr. Anil Kumar Tiwari (Health)
+
+Dr. Rahul Singhal (Non-academic staff recruitment) 
+Dr. Atul Kumar (Facility management) 
+Dr. Atul Dubey (Legal Cell) 
+Dr. C. M. Nagaraja (RTI) 
+Dr. Ashutosh Kumar Alok (Outreach) 
+Dr. Vivek Vijayvargiya (Media and Public) 
+Dr. Bibhas Adhikari (Institute Functions) 
+Dr. Puneet Sharma (Hindi Cell) 
+Dr. Tanmay Paul
+Research and Development
+All project management (consultancy, sponsored, testing services, IPR, MoUs, 
+Enterpreneurship, incubation and innovation, workshops and conferences, 
+continuing education, tech transfer.
+Members 
+Dr. B. Ravindra (Coordinator) 
+Dr. V. Narayanan (Sponsored workshops) 
+Dr. Ravindra Arora (Policy issues) 
+Dr. Rakesh Kumar Sharma (Recruitment and Automation) 
+Dr. Sonam Mehrotra (IP, MoUs, Corporate Communications) 
+Dr. Rakesh Saxena (Stores and Purchases) 
+Dr. S. Harinipriya and Dr. Sandeep Kumar Yadav (Innovation and 
+Incubation)
+Faculty Affairs
+Faculty recruitment, probation and regularization, students feedback, CPDA 
+approvals, LTC and Leave, faculty meetings.
+Members 
+Dr. Vivek Vijayvargiya (Coordinator) 
+Dr. V. Hari Narayanan (CPDA) 
+Dr. Shaligram Tiwari (LTC and Leave) 
+Dr. Manish Shrimali (Faculty Meetings and Students Feedback) 
+Dr. Ansu Louis (Faculty Exchange)
+Coordinators of each CoE: Dr. Bibhas Adhikari, Dr. Vivek Vijayvargiya (SS), 
+Dr. B. Venkata Ramana, Dr. Sandeep Kumar Yadav (ICT), Dr. Manish
+
+Shrimali, Dr. Meenu Chhabra (BiSS), Prof. Rajiv Shekhar, and Dr. B. Ravindra 
+(Energy)
+Lab Development
+This committee looks after development of UG and PG Labs in the institute. 
+Dr. Sandeep Kumar Yadav (Coordinator) 
+Dr. Ashutosh Kumar Alok (CoE SS) 
+Dr. Deepak Fulwani (CoE SS) 
+Dr. Amit Mishra (CoE BiSS) 
+Dr. Meenu Chhabra (CoE BiSS) 
+Dr. C. M. Nagaraja (CoE Energy) 
+Dr. P. Pradeep Kumar (CoE Energy) 
+Dr. Anil Kumar Tiwari (CoE ICT) 
+Mr. Anupam Gupta (CoE ICT)
+Automation 
+Dr. Rakesh Kumar Sharma (Coordinator) 
+Dr. C. M. Nagaraja 
+Dr. Atul Dubey 
+Dr. Ambesh Dixit 
+Dr. Kiran Kumar Rajashekhar Hiremath 
+Dr. Pushkar Shripad Joglekar 
+Dr. Gaurav Harit
+Student Council 
+President, SCHoD 
+ 
+ 
+ 
+ 
+Ranveer Singh
+General Executive, SAGE 
+ 
+ 
+ 
+Sudhir Singh
+General Executive, NUTS 
+ 
+ 
+ 
+Rahul Kumar
+General Executive, MAD 
+ 
+ 
+ 
+Wins Goyal
+General Executive, WAVES 
+ 
+ 
+ 
+Rahul Rathore
+General Executive, PROM 
+ 
+ 
+ 
+Akhil Arora
+Fourth Year Senators 
+ 
+ 
+ 
+ 
+Saurabh Singh
+Vinith Vemana
+Third Year Senators 
+ 
+ 
+ 
+ 
+Kalpnath Rao
+Yeravothula Rohith
+Second Year Senators 
+ 
+ 
+ 
+ 
+Navneet Mittal
+Saurabh Pandey
+First Year Senator 
+ 
+ 
+ 
+ 
+ 
+Tarun Devi Reddy
+Girls Senator 
+ 
+ 
+ 
+ 
+ 
+Snehlata Joshi
+M.Tech. Senator 
+ 
+ 
+ 
+ 
+ 
+Zeeshan Ahmed
+Ph.D. Senator 
+ 
+ 
+ 
+ 
+ 
+Belal Usmani
+
+Academics
+ Academic Programmes 
+ Centres of Excellence 
+ International Relations 
+ R & D Projects 
+ Undergraduate Research & Innovation Programme (UGRI) 
+ High School Summer Camp 
+ Conferences and Workshops 
+ Innovation & Incubation 
+ Short-Term Courses 
+ Weekly Academic Seminars 
+ Scholarship for Students 
+ Foreign Language Training 
+ Student Internship
+
+Classical Areas Emerging Areas
+Computer Science and Engineering Biologically-Inspired Systems Science
+Electrical Engineering Energy
+Mechanical Engineering Information and Communication Technologies
+Mathematics Systems Science
+Academic Programmes
+IIT Jodhpur offers five Bachelor of Technology (B.Tech.) programmes, 
+namely:
+(1) B.Tech. Computer Science and Engineering 
+(2) B.Tech. Electrical Engineering 
+(3) B.Tech. Mechanical Engineering 
+(4) B.Tech. Systems Science 
+(5) B.Tech. Biologically Inspired Systems Science
+The duration of B. Tech programmes is 4 years. The objectives of these 
+undergraduate programmes are to:
+1. To provide fundamental concepts to students in technology and
+2. To promote spirit of free and objective enquiry in the field of study,
+and
+3. To contribute towards development of skilled technical manpower to
+address the technological needs of the nation.
+In addition to the B. Tech. programme, the Institute also offers two-year 
+M.Tech. programmes in the following centres:
+1. Centre for Energy 
+2. Centre for Information and Communication Technologies (ICT) 
+3. Centre for Systems Science (SS)
+The aim of the Ph.D. programme at IIT Jodhpur is to develop graduates 
+having good knowledge and research training in classical and emerging 
+areas. IIT Jodhpur has organized the research activity in two sets, in namely, 
+(a) Classical Areas: individual disciplines of engineering, science and 
+humanities and social sciences, and (b) Emerging Areas: domains of research 
+centers of the Institute.
+Ph.D. programmes currently offered by IIT Jodhpur:
+
+Centres of Excellence
+IIT Jodhpur is committed to developing state of the art, research-led and 
+multidisciplinary centres of excellence where scholars from different 
+disciplines carry out productive research on emerging and technological, 
+scientific, and social issues that characterize the challenges faced by the 
+contemporary world. In order to promote the inter-disciplinary culture in 
+each and every academic activity, IIT Jodhpur does not adopt the structure of 
+establishing the academic departments based on the individual disciplines. 
+Only undergraduate programmes are offered in the individual disciplines.
+Presently, IIT Jodhpur has four Centres of Excellence in the following areas:
+1. Energy 
+2. Information and Communication Technology 
+3. Systems Science, and 
+4. Biologically-inspired Systems Science
+Centre of Excellence in Energy
+Introduction
+The objective of CoE in Energy is to provide diverse energy solutions with a 
+significant focus on solar energy. The goals include globalized research and 
+development activities, indigenisation of technology for various subsystems 
+and realization of product development in the areas of Solar Thermal and 
+Photovoltaic research.
+With an interdisciplinary approach that combines sciences and engineering, 
+the research activities of the centre fall under four different areas namely:
+1. Solar Thermal Design and Analysis 
+2. Material Design and Fabrication 
+3. Smart Grid for Photovoltaic and Solar Thermals 
+4. Structural Design
+Academic Curriculum
+The academic curriculum has compulsory and elective components. 
+Compulsory courses expose students to (i) different mechanical and electrical 
+processes related to power generation and transmission, (ii) physics of
+
+semiconductor devices associated with solar photovoltaics, and (iii) concepts 
+of systems engineering for designing complex projects by integrating 
+knowledge from different sub-systems. Extensive laboratory experiments and 
+projects supplement the compulsory courses. The electives allow students to 
+choose from a variety of courses based on their interests: solar and nuclear 
+power, bioenergy systems, electrochemical power sources, power electronics, 
+energy materials, structural dynamics, two-phase flow, and solar refrigeration 
+and air-conditioning. Summer bridge courses are offered to students 
+immediately after their admission to prepare them for the multi-disciplinary 
+compulsory courses offered in the first semester.
+Research and Development
+Research and development efforts focus on the development of low-cost 
+technology initiatives to implement renewable energy generation and usage 
+through extensive industry-academia collaboration. Being located in Jodhpur, 
+the sun city of India, harnessing solar energy for power generation and 
+cooling/heating has been the primary focus of the R&D efforts under the 
+auspices of the Centre for Solar Energy Technologies (CSET).
+
+CSET has been designated as a Centre of Excellence in Solar Thermal Energy 
+by the Ministry of New and Renewable Energy (MNRE), Govt. of India. IIT 
+Jodhpur has earmarked a 200 acre land on its permanent campus for creating 
+a solar park, comprising various technologies under one roof. The CSET will 
+consist of (i) Solar thermal and solar PV Technology Demonstration Units 
+(TDUs), (ii) facilities for R&D for developing value-added applications of 
+solar energy technologies, (iii) facilities for testing, calibration and 
+benchmarking for both solar thermal and solar PV technologies, and (iv) HRD 
+and knowledge services. CSET is geared to giving its students a vibrant, 
+laboratory-to-plant scale research experience. Major grants to CSET have 
+been received from MNRE and the Asian Development Bank.
+The institute has Memoranda of Understanding (MoU) with AREVA, CEA 
+France, Indian Oil Limited, BHEL, Thermax, NFTDC-Hyderabad for 
+collaboration in R&D in energy. Further, the centre has Academic and 
+Research collaboration agreements with the University of Waterloo, 
+University of California, Merced, University of Western Ontario, URV 
+Tarragona, Spain.
+Major Research Themes and Goals
+ Solar absorber coatings and thermic fluids 
+ Volumetric air receivers for heat and power generation 
+ Thermal storage 
+ DC smart micro-grid 
+ Characterization 
+of 
+crystalline 
+and 
+amorphous 
+silicon 
+based
+photovoltaic power systems.
+ Electrochemical power sources and storage focussing on lithium ion
+batteries and fuel cells
+ Hydrogen generation by water splitting 
+ Solar cooling
+Associated Faculty as on 31 March 2013
+ Dr. Ambesh Dixit 
+ Dr. Anand Krishnan Plapally 
+ Dr. Barun Pratiher 
+ Dr. Gourishankar Hiremath 
+ Dr. Laltu Chandra 
+ Dr. V. Narayanan
+
+ Dr. P. Pradeep Kumar 
+ Dr. Prodyut Ranjan Chakraborty 
+ Dr. Rahul Chhibber 
+ Dr. Rajiv Shekhar 
+ Dr. Rakesh Saxena 
+ Dr. B. Ravindra 
+ Dr. Ravindra Arora 
+ Dr. Shaligram Tiwari 
+ Dr. Vidya Sarveswaran
+Centre of Excellence in Information and Communication Technology
+Introduction
+Education, knowledge, information, and communication are at the core of 
+human 
+progress, 
+endeavour, 
+and 
+well-being. 
+Information 
+and
+Communication Technology (ICT) has an immense impact on virtually all 
+aspects of our lives. The rapid progress of ICT opens up completely new 
+opportunities to attain higher levels of development. For the first time in 
+history, the capacity of these technologies to reduce many traditional 
+obstacles, especially those of time and distance, has been recognized in such a 
+way that millions of people in all corners of the world would benefit. Yet this 
+Centre of Excellence holds the view that ICT should be regarded as a tool and 
+not as an end in itself. Under favourable conditions, the technology can be a 
+powerful instrument for increasing productivity, generating economic 
+growth, for job creation and employability, and also for improving the quality 
+of life of all.
+The CoE in ICT strives for developing innovative and sustainable Information 
+and Communication Technology (ICT) based solutions for addressing the 
+socio-economic and environmental problems. Centre of Excellence in 
+Information 
+and 
+Communication 
+Technology 
+(CoE 
+in 
+ICT) 
+offers
+multidisciplinary research and academic programmes in the domain of 
+Information 
+and 
+Communication 
+Technology 
+and 
+their 
+theoretical
+foundations. The research activities are broadly categorized under three 
+research axes:
+
+ Communication and Networks 
+ Device Technology 
+ Multimedia and Software Systems
+Major Goals of the Centre
+ 
+To develop skilled and competitive human resources through high 
+quality academic programmes in ICT.
+ 
+To conduct fundamental and applied research in the areas of ICT in 
+collaboration with Government, Private Sector and International 
+organizations.
+ 
+To develop functionality driven low-cost ICT solutions for building 
+inclusive societies.
+Research Themes
+ 
+Developing low-cost networking solutions - cheaper internet 
+everywhere.
+ 
+Developing low-cost access devices.
+ 
+Developing low-cost e-Healthcare solutions.
+o Computer Vision/ Signal Processing/ Medical Imaging
+ 
+Hardware Design and Benchmarking.
+o Embedded Systems
+ 
+Low cost Access Devices for Education/Health 
+Monitoring
+ 
+EDA tools
+o Instrumentation and Testing
+o Robotics and Automation
+o Biomimetics
+ 
+Sustaining environment through ICT
+ 
+Networks/ Sensor Networks
+
+The CoE in ICT is an inter-disciplinary venture. It hosts the top-notch 
+scientists with a background ranging from mathematical sciences, natural 
+sciences to applied fields of systems engineering, and other disciplines of 
+engineering. It works to solve social problems, and these problems are highly 
+inter-disciplinary in nature.
+The centre started M. Tech. Programme in ICT in the academic year 2011-12. 
+Twenty-six students were admitted to the programme. Thirteen Ph.D. 
+students also joined the centre in this academic year. The centre also initiated 
+two laboratories—Networking Technologies Lab and SOC Lab. The centre’s 
+achievements include providing the right hardware and software tools for 
+many industry consultancy projects, including the development of 
+DRM/DRM+ IP for digital radio standards.
+Associated Faculty as on 31 March 2013
+ Dr. Abhishek Mishra 
+ Dr. Akhilesh Mohan 
+ Dr. Ananya Debnath 
+ Dr. Anil Kumar Tiwari 
+ Dr. Arnab Datta 
+ Dr. Gaurav Harit 
+ Dr. Mahesh Kumar 
+ Dr. Sandeep Kumar Yadav 
+ Dr. Shanmuganathan Raman 
+ Dr. Shree Prakash Tiwari 
+ Dr. Venkata Ramana Badarla 
+ Dr. Vivek Dixit
+
+Centre of Excellence in Systems Science
+Introduction
+The Centre of Excellence in Systems Science IIT Jodhpur from its very 
+inception in 2011 has aimed to promote and implement interdisciplinary 
+education and research by adopting a holistic systems thinking approach. The 
+Centre upholds its vision of transforming students into young trained 
+graduates who are imbibed with the spirit of systems thinking in diverse 
+domains of engineered systems, natural systems, and financial systems. At 
+present, there are 18 energetic and dedicated faculty members in the Centre. 
+The areas of research of the Centre include quantitative finance, quantum 
+information, complex networks and systems, nonlinear dynamics and chaos, 
+chemical reaction dynamics, graph algorithms, and image processing. The 
+Centre has been actively engaged in organizing conferences, workshops both 
+at the national and international level.
+The Centre had started Ph.D. and B. Tech. programme in 2011, and 
+subsequently commenced M. Tech. programme in 2012. The programmes aim 
+at creating systems thinkers, who can develop, construct, model, operate, 
+redesign, verify and integrate various systems. The Centre collaborates with 
+other Centres of Excellence at IIT Jodhpur in research and courses at B. Tech. 
+and M. Tech. level in various semesters of programmes hosted by those 
+Centres.
+ 
+Evaluate the cost effectiveness of the engineered systems and 
+manufacturing processes that are becoming increasingly complex;
+ 
+Develop rigorous mathematical frameworks that give a deeper insight 
+into a lot of interesting and complex problems in natural sciences;
+ 
+Investigate the isomorphy of ideas, laws, and models in various fields 
+of science and engineering;
+ 
+Develop new methods for the forecasting and quantification of 
+uncertainties in lieu of societal concerns that have led to regulatory 
+actions for more stringent requirements for the safety and reliability of 
+products demand;
+ 
+Process large scale data in order to extract better information and 
+knowledge.
+However, keeping in mind factors such as the emerging challenges for the 
+Indian economy due to globalization, the growing concern for sustainable
+
+development because of the limited availability of resources, and the 
+increasing sensitivity to anthropogenic effects on the environment, the CoE 
+would also continually analyze and evaluate its activities in a broader social 
+context, over and above the basic concerns presented above.
+Research Themes
+ Quantitative Finance 
+ Quantum Information 
+ Nonlinear Dynamics and Chaos 
+ Complex Networks and Systems
+Academic Programmes
+Since one of the principal objectives of the CoE is to undertake cutting-edge 
+research, the centre has developed curriculum in System Science to provide 
+high quality academic training to students and make them distinguished 
+scholars in the field of SS. To fulfill this objective the centre offers B.Tech., 
+M.Tech., and Ph.D. programmes in Systems Science. The curriculum of 
+B.Tech. programme has been developed after conducting several brain-
+storming sessions or ‘discussions hours’ organized regularly in the year 2011. 
+After a few rounds of discussions the present curriculum for B.Tech. was 
+finalized in the brain-storming session organized from 9-10 December 2011. 
+Several experts from reputed industries and distinguished scholars from 
+various academics institutes in India were invited in these sessions to develop 
+a coherent and balanced curriculum for B.Tech. and M.Tech. programmes 
+keeping in view the requirement of the industry and what is ‘state-of-the-art’ 
+in the discipline of Systems Science.
+Further, in the workshop on Systems Science: Complex Networks & 
+Applications, conducted from 7-9 May, 2012 the course curriculum of 
+M.Tech. and Ph.D. programmes were further debated and discussed before 
+they were finalized and launched. Given the interdisciplinary nature of the 
+subject, the Systems Science centre of IIT Jodhpur has an agglomeration of 
+faculty members from various disciplines such as Mathematics, Physics, 
+Chemistry, Economics, System & Control, and Mechanical Engineering etc. 
+Systems Science core programme has a rich blend of courses focusing on:
+ Networks 
+ Systems Dynamics, Design and Management 
+ Financial Engineering
+
+Associated Faculty Members as on 31 March 2013
+ Dr. Ashutosh Kumar Alok 
+ Dr. Atul Kumar 
+ Dr. Bibhas Adhikari 
+ Dr. Kiran Kumar Rajashekhar Hiremath 
+ Dr. Mainak Mazumdar 
+ Dr. Manikandan Paranjothy 
+ Dr. Puneet Sharma 
+ Dr. Pushkar Shripad Joglekar 
+ Dr. Rakesh Kumar Sharma 
+ Dr. S. Harinipriya 
+ Dr. Satyabrata Adhikari 
+ Dr. Subhashish Banerjee 
+ Dr. Vivek Vijayvargiya 
+ Dr. V.V.M.S. Chandramouli
+Introduction
+The broad objective of the centre is to design novel, adaptive, and sustainable 
+technological solutions inspired by biological systems and processes. 
+Understanding biological systems will help an engineer to design adaptive 
+intelligent systems for the ever changing environment. The major 
+characteristic of this centre is its strong interdisciplinary approach. With such 
+an interdisciplinary approach, the centre seeks to promote holistic
+
+development of innovative technological solutions. The area of research in the 
+centre are development of environmentally compatible materials, smart 
+sensors with advanced surveillance systems, improved diagnostic and better 
+therapeutic technology.
+Major Research Themes and Initiatives
+1. Biological information processing and propoagation in a network; 
+2. Neuroscience and the role of protein assemblies for therapeutics &
+3. Cognitive studies through philosophy and psychology; 
+4. Emergent phenomenon of consciousness; 
+5. Bio-inspired modelling and designing, algorithms, mechanics, real
+world applications;
+6. Cellular 
+and Molecular Neuroscience 
+and 
+Computational
+The CoE BiSS is looking forward to offering a four year bachelor’s (B. Tech.) 
+programme and a doctoral programme starting from July 2013.
+
+Associated Members as on 31 March 2013
+ Dr. Amit Mishra 
+ Dr. Ananya Debnath 
+ Dr. Ankita Sharma 
+ Dr. Ansu Louis 
+ Dr. K. J. George 
+ Dr. Manish Shrimali 
+ Dr. Meenu Chhabra 
+ Dr. Monika Sinha 
+ Dr. Samanwita Pal 
+ Dr. Satyajit Sahu 
+ Dr. Sonam Mehrotra 
+ Dr. Sushmita Jha 
+ Dr. V. Hari Narayanan
+International Relations
+Memoranda of Understanding (MoU) between IIT Jodhpur and
+International and National Institutions, and Agencies
+1. University of Western Ontario, Canada (09/08/2010)
+To explore the possibilities for cooperation in education, training, and 
+research and also to encourage direct contact and mutual cooperation 
+between faculty members, departments, and research centres.
+2. Universitat Rovira I Virgili, Tarrgona, Spain (29/08/2010)
+Development of mutually beneficial academic programme and courses; 
+coordination of academic staff travel for the purposes of teaching, 
+research, and training; cooperation of student mobility programme for 
+study, research, and for joint academic activities such as research 
+publications, conferences and symposia; exchange of documentation 
+and research materials in the field of mutual interest provided that 
+there are no legal barriers against exchange and collaboration in 
+international master’s and doctoral programmes between both the 
+institutions.
+
+3. The Commissariat a I’Energie Atomique et aux Energies Alternatives
+France (22/11/10) 
+Cooperation in the areas of solar energy research, such as Concentrated 
+Solar Power (CSP) and Concentrated Photovoltic (CPV), water 
+production by using solar energy, renewable energy storage and smart 
+management, integration of solar energies and energy efficiency in 
+buildings.
+4. University of Waterloo, Canada (25/11/2010)
+Collaborative measures to foster international experience and 
+advancement of knowledge on the basis of reciprocity, mutual benefit, 
+interaction and exchange of students in graduate programmes.
+5. University of Manitoba, Canada (09/12/2010)
+Development of mutually beneficial programmes for student 
+internships and graduate study in order to provide students 
+opportunities for advancement of knowledge and international 
+experience.
+6. Embassy of France in India (28/03/2011)
+For exploring prospective domains for students and scholars to learn 
+French language effectively.
+7. University of California, Merced (26/04/2011)
+Development of mutually beneficial relationships for promoting 
+academic exchange, scholarly cooperation, and collaborations under 
+mutually agreeable terms and conditions: the exchange of faculty 
+members, scientists and students and scientific material, access to 
+library resources, pursuit of joint meetings, symposia and/or 
+conferences and access to laboratories as may be appropriate and 
+feasible in the two institutes.
+8. Arid Forest Research Institute, Jodhpur, India (15-08-2011)
+Development of sheltering belt plantation as urban forestry model for 
+at a selected site at IIT Jodhpur.
+9. Institute of Science and Technology, Nara, Japan (28/02/2012)
+To promote academic exchanges in fields where each party needs to 
+enhance its educational and academic programmes: the academic 
+exchanges will include, implementation of collaborative research, joint 
+symposia, lectures and education and exchange of scholars, 
+researchers, and administrative staff; exchange of information in fields
+
+which are of interest to both parties and exchange of graduate students 
+in fields of interest to both parties.
+Memoranda of Understanding (MoU) with Industries
+1. National Instruments (NI) Systems (India) Pvt. Ltd. Bangalore (dated
+25/11/2010) 
+National Instruments and IIT Jodhpur work together through research 
+and development to develop the Institute as well-recognized centre of 
+excellence in the fields of wireless communication and physical layer 
+technologies. Furthermore, National Instruments, being the supplier of 
+computer-based instrumentation hardware and software product 
+developed by its affiliated both from the academia and industry, 
+expressed its desire to establish a graphical system design centre for 
+students and professionals across the nation.
+2. Areva Renouvelable, France (dated 06/12/2010)
+Cooperation in R&D area, such as characterization of reflector, dirtying 
+rates and soiling materials in relationship with local air quality; 
+development of a DNI measurement survey laboratory and techniques 
+for assaying the date to predict and optimize CSP performance; clouds 
+detection and anticipation methods and techniques to adapt CSP 
+process 
+control 
+operating 
+conditions 
+for 
+maximizing 
+energy
+production; development of a testing and bench marking laboratory 
+for solar systems with due attention to Areva Renouvelable technology 
+in the Indian context.
+3. C-Wet and SRRA (dated 10/05/2011)
+Collaboration in establishing a solar radiation resource assessment 
+station.
+4. Bharat Heavy Electricals Limites (BHEL), Indian Oil Corporation
+Limited (IOC) (dated 17/10/2011) 
+Collaborate for the promotion of research, innovation, and education 
+and providing a model for industry-academia partnership in the 
+following broad objectives: Basic research in solar energy and up-
+scaling performance validation of solar technologies.
+
+5. ITI Limited (dated 16/12/2011)
+To introduce co-operative development and research in areas such as 
+Optical Communication including free space Optical communication, 
+Encryption technologies, embedded systems, SCADA and NMS 
+system, and radio and microwave communications.
+6. Amaitha Wireless Technologies (dated 02/02/2012)
+Cooperation in the conceptualization, design and development of 
+computing, communication, and converged devices associated 
+software and required functionality affordable in optimum cost.
+7. Quad Electronics Private Limited ( dated 14/01/2012)
+Cooperation 
+in 
+research 
+and 
+development 
+computing 
+and
+communication devices that can be of interest to the entire population 
+and can serve to bridge digital divide of India.
+8. Steag Energy Services (SESI) (dated 23/04/2012)
+Mutual agreement for the development of a dynamic solar thermal 
+simulator and collaboration for research and training on the solar 
+thermal simulator.
+R& D Projects
+Faculty members at IIT Jodhpur are also engaged in various projects that relate to 
+research and development, and consultancy with other national and international 
+organizations. Ongoing project and projects sanctioned during 2012-13 are:
+Spondored Projects
+1. The Village Community Network: Technology Development and Pilot Roll out Plan
+for Low Cost Opportunistic Communication Networks for Rural Areas of India. 
+Sponsored by the Ministry of Human Resources Development (MHRD). 
+Principal Investigator: Prof. P.K. Kalra, Dr. K.S. Daya.
+2. E-Books on Introduction to High Energy Physics, Introduction to Astroparticle
+Physics and Instrumentation Methods in Astroparticle Physics. Sponsored by the 
+Ministry of Human Resources Development (MHRD). Principal Investigator: 
+Prof. P.K. Kalra, Dr. S. Bhatnagar.
+3. Development of Low Cost Mobile Robots - Robotics for Education. Sponsored by
+the Ministry of Human Resources Development (MHRD). Principal 
+Investigator: Dr. Swagat Kumar, Dr. Sandeep Kumar Yadav.
+4. Development of Analysis and Indexing Tools for Harnessing Educational Videos.
+Sponsored by the Ministry of Human Resources Development (MHRD). 
+Principal Investigator: Dr. Gaurav Harit, Dr. Anil K. Tiwari.
+
+5. Language, Cognition & the Human Mind. Sponsored by the Indian Council of
+Philosophical Research & MHRD. Principal Investigator: Dr. V. Hari 
+Narayanan.
+6. Conceptualization and Design Study for Freespace Material Characterization
+Facility. Sponsored by Defence Research & Development Organization, 
+Jodhpur. Principal Investigator: Dr. Akhilesh Mohan.
+7. Identification, assessment and Characterization of E3 Ubiquitin Ligases and
+Molecular Chaperones Implicated in Neurogenerative Diseases. Sponsored by the 
+Department of Science & Technology (DST). Principal Investogator: Dr. Amit 
+Mishra
+8. Establishment of the Centre of Excellence in Solar Thermal Research and Education.
+Sponsored by the Ministry of New & Renewable Energy. Principal 
+Investigator: Prof. Rajiv Shekhar
+9. Study of Aligned CNT/Polymer Nanocomposites for Hydrogen Storage. Sposored
+by the Science and Engineering Research Board (DST). Principal Investigator: 
+Dr. Balram Tripathi
+10. Generation, Storage and Distribution of Solar Hydrogen. Sponsored by the
+Department of Science & Technology. Principal Investigator: Dr. Rakesh 
+Kumar Sharma
+11. Advancement in Nuclear Reactor Design Pertaining to NRFCC. Sponsored by the
+Department 
+of 
+Atomic 
+Energy. 
+Principal 
+Investigator: 
+Dr. 
+Vivek
+Vijayvargiya
+12. Reproductive Child Health. Sponsored by UNICEF, Jaipur Branch. Principal
+Investigator: Dr. Sandeep Kumar Yadav
+13. Molecular Sensors: Synthesis and Anion Recognition Studies. Sponsored by the
+Science & Engineering Research Board (DST). Principal Investigator: Dr. 
+Rakesh Kumar Sharma
+14. IOC-BHEL-IITJ CSP Plant. Sponsored by the Indian Oil Corporation Limited.
+Principal Investigator: Prof. Rajiv Shekhar
+15. Development of Programmable Emulator for Photovoltaic Plant to Facilitate Complex
+Testing Requirements. Sponsored by the Science and Engineering Research 
+Board (DST). Principal Investigator: Dr. Deepak M. Fulwani
+16. Innovation and Incubation Centre. Sponsored by the Rajasthan State
+Government with IIT Jodhpur. Principal Investigator: Dr. Sandeep Kumar 
+Yadav
+17. Asymmetric Hydrogenation on Carbon Nanotube Surface. Sponsored by the
+Department of Science & Technology (DST). Principal Investigator: Dr. 
+Rakesh Kumar Sharma
+18. Hunting of New Physics through b-> S Transitions. Sponsored by Council of
+Scientific & Industrial Research, New Delhi. Principal Investigator: Dr. 
+Ashutosh Kumar Alok
+19. Developing Dielectric Semiconductor Combinations and Processes for Flexible
+Organic Electronics. Sponsored by the Science and Engineering Research 
+Board (DST). Principal Investigator: Dr. Shree Prakash Tiwari
+
+20. Performance of Solar Power Plants in India-Data Collection, Analysis and
+Interpretation. Sposored by Shakti Sustainable Energy Foundation, New Delhi. 
+Principal Investigator: Dr. S. Harinipriya
+21. Link Budget Estimator Project. Sponsored by Weapons & Electronics Systems
+Engineering Establishment, Ministry of Defence. Principal Investigator: Dr. 
+Sandeep Kumar Yadav
+22. Synchrony Based Evolution of Various Biological and Artificial Systems to
+Understand Complex Computational Aspects. Sponsored by the Department of 
+Science & Technology (DST). Principal Investigator: Dr. Satyajit Sahu
+23. Development of III-Nitrides this Film(s) for High Frequency Saw Device
+Applications. Sponsored by the Department of Space. Principal Investigator: 
+Dr. Ambesh Dixit
+24. Heritage Erasmus Mundus Programme. Sponsored by A.C. DEL, ECOLE,
+Germany. Principal Investigator: Dr. Kiran Kumar Rajashekhar Hiremath.
+Consultancy Projects
+1. One Stop Educational Portal. Sponsored by Chattisgarh Infotech & Biotech
+Promotion Society. Principal Investigator: Prof. P.K. Kalra, Dr. Sandeep 
+Kumar Yadav.
+2. Development of Intelligent Instrumentation and Cellular Communication Courses.
+Sponsored by NI Systems (I) Pvt. Ltd., Bangalore. Principal Investigator: Dr. 
+Sandeep Kumar Yadav.
+3. Development of DRM/DRM+ Standards. Sponsored by NI Systems (I) Pvt. Ltd.,
+Bangalore. Principal Investigator: Dr. Sandeep Kumar Yadav.
+4. Development of Prototype of Microbial Fuel cells. Sponsored by Panasonic R&D
+Centre of India. Principal Investigator: Dr. S. Harinipriya
+5. Barmer. Sponsored by World BPO Forum, US. Principal Investigator: Dr.
+Sandeep Kumar Yadav
+6. Design of Circular Waveguide to Coaxial Transition and Dipole Probe for E-Field
+Measurement. Sponsored by Defence Research & Development Organization, 
+Jodhpur. Principal Investigator: Dr. Akhilesh Mohan
+7. Energy Efficiency Investigations in Shree Cement Plant. Shree Cement Plant,
+Kolkata. Principal Investigator: Prof. Rajiv Shekhar.
+
+professional developments. This year the institute received nearly 730
+2012. Students were selected purely on the basis of academic achievements
+Undergraduate Research & Innovation Programme (UGRI- 2012)
+This year’s UGRI programme began on May 8, 2012 and ended on July 20, 
+2012 (for duration of 10 weeks). Selected students were provided 
+accommodation in students’ hostel at IIT Jodhpur. During this period, a 
+remuneration of Rs. 8000 per month was offered as financial assistance to the 
+participants. Furthermore, the students received an additional Rs. 2000 for 
+preparing posters and interim reports. The students worked on projects 
+related to Energy, Health, Environment, and ICT (Information and 
+Communication Technologies).
+High School Summer Camp
+During summers IIT Jodhpur invites applications from senior secondary 
+students (Class XI or XII) from schools in Jodhpur with an intention to 
+nurture their curiosity to know the unknown. In doing so, the faculty 
+members of the institute answer their queries and expose them to state-of-the-
+art technologies. Students possessing Class X marksheet are eligible to apply. 
+Upon successful completion of the programme, a certificate is awarded to 
+each participant.
+In the summer of 2012, twenty one students were selected through a 
+screening process based mainly on their Class X academic records. The 
+selected students spent almost one month at IIT Jodhpur— from 2nd to 30th of 
+June—participating in lectures, workshops, lab sessions, group works and 
+field visits. At the end of the programme, all these students participated in a
+
+poster presentation which displayed their learning during their stay at IIT 
+Jodhpur.
+Conferences and Workshops
+Workshop on Systems Science: Complex Networks and Applications
+May 07-09, 2012
+
+IIT Jodhpur organized this workshop to explore recent trends in complex 
+network and to make a bridge between academia and industry. The 
+workshop provided a broad overview of the area with illustrative 
+applications from various fields.
+Major Topics of Discussion were the following:
+ 
+Complex Networks: Theory and Applications
+ 
+Random Graphs and Complex Networks
+ 
+Topology and Dynamics of Complex Networks
+ 
+Evolutionary Dynamics on Complex Networks
+ 
+Information and Communication Networks
+ 
+Social Networks, Biological Networks, etc
+Delegates 
+from 
+Industries 
+and 
+R&D 
+organizations 
+and
+Researchers/Academicians from all over the India participated in the 
+workshop. Through lectures, presentation of case studies and interactive 
+sessions, participants were be exposed to the emerging field of complex 
+networks.
+Solar Radiation Resource Assessment and Modelling Workshop
+August 07 – 09, 2012
+The commercial viability of a solar power plant is critically dependent on the 
+accuracy of predicting solar insolation on a daily/hourly basis over several 
+years. This requires a good working knowledge of solar radiation 
+measurement techniques, data mining, and developing mathematical models 
+based on statistical and artificial intelligence techniques. This workshop was 
+organized to (i) understand solar measurements, (ii) evaluate the quality of a 
+data set, and (iii) model radiation data. The focus of the workshop was an 
+understanding of how to design and deploy a measurement campaign, how 
+to avoid many pitfalls of solar measurements, techniques to identify 
+measurement problems and keep a measurement station producing the best 
+possible data, and develop a predictive mathematical model for radiation for 
+use in designing solar projects. The topics discussed in this workshops are,
+ Solar Radiation Concepts and Methods 
+ Solar Radiation Data Quality and Use of Data in Projects 
+ In Depth Station Set Up and Operations
+
+The participants included Mr. Stephen Wilcox, Prof. Prem K. Kalra, Prof. 
+Neeraj Misra, Prof. Amit Mitra, Prof. Laxmidhar Behera, Dr. Vivek Vijay.
+National Workshop on Biologically Inspired System Science
+September 29 - 30, 2012
+The purpose of this workshop “Biologically Inspired System Science”is to seek 
+inputs from educationalists and researchers in designing the undergraduate 
+and postgraduate course curriculums for Biologically Inspired System Science 
+(BISS) programme. The topics discussed in the workshops are as follows,
+ 
+Neuroscience and Cognition
+ 
+Psychology and Neuropsychology
+ 
+Quantum Information and Physics of Consciousness
+ 
+History and Philosophy of Science
+ 
+Biosignal Processing
+ 
+Machine learning and Intelligent Systems
+ 
+Dynamical Systems
+ 
+Hierarchical Systems
+The organizing committee included Dr. Ambesh Dixit, Dr. Amit Mishra, Dr. 
+Ansu Louis, Dr. Hari Narayan, Dr. K. J. George, Dr. Manish Shrimali 
+(Convener), Dr. Meenu Chhabra, (Convener), Dr. Rahul Singhal, Dr. Sonam 
+Mehrotra and Dr. Sushmita Jha. The participants are Dr. A S Majumdar, Dr. 
+Arun Murthi, Dr. Arvind Mathur, Dr. Dulal Panda, Dr. Harish Karnick, Dr. 
+Jamuna Rajeswaran, Dr. Karmeshu, Dr. Nandini Singh, Dr. Nirmalangshu 
+Mukherjee, Dr. Raju Bapi, Dr. R. Srikanth, Dr. Sangeetha Menon, Dr. Sanjeev 
+Misra, Dr. Shobini Rao, Dr. Sneha Anand and Dr. Tanusree Dutta.
+International Workshop on Art, Culture and Heritage
+December 08-10, 2012
+IIT Jodhpur is committed to the development of state of the art, research-led, 
+multidisciplinary centre. Scholars from diverse disciplines engage in a 
+spectrum of research activities ranging from the scientific to the aesthetic. This 
+workshop is an attempt to study and understand the syntheses that can occur 
+between fine arts and technology. The workshop aimed at formulation of
+
+curriculum in the broad areas of Art, Culture and Heritage with a 
+technological perspective. The topics discussed during the workshop are:
+ Architecture 
+ Literature 
+ Music 
+ Visual Arts 
+ Performing Arts
+The participants included Prof. David Rosenboom, Dr. Matteo Dellepiane, 
+Prof. Pallabi Chakravorty, Prof. Joan Erdman, Prof. S N Balagangadhara, Prof. 
+Nina Sabnani, Prof. S. Swaminathan, Mridangam Maestro Shri T R Rajamani, 
+Prof. Roberto Scopigno, Prof. Marcello Balzani, Dr. M. Nandini, Dr. M. 
+Lalitha, Prof. V.Sanil, Dr. Shantala Hegde, Prof. Subhendu Ghosh, Prof. Kiran 
+Seth, Dr. Srinivasan Krishnaswamy, Dr. Koumudi P Patil, Prof. Sunita Singh 
+Sengupta. The organizing committee was Prof. Prem K. Kalra, Dr Ansu Louis, 
+Dr Anand K Plappally, Dr Hari Narayanan, Dr Mainak Mazumdar, Dr Rahul 
+Singhal, Dr Bibhas Adhikari, Dr Vidya Sarveswaran, Dr Puneet Sharma, Dr 
+Atul Kumar, Dr Rahul Singhal, Dr Shanmuganathan Raman, Dr Ashutosh 
+Alok, Dr Vivek Vijay, Prof K. K. Dua; Dr S P Tiwari; Dr Manish Shrimali; Dr 
+Sonam Mehrotra, Dr Sushmita Jha; Dr Satyabrata Adhikari; Dr VVMS 
+Chandramouli; Dr Gaurav Harit, Dr K J George, Dr Gourishanker Hiremath 
+and Dr. S. Harinipriya.
+Quantum Biology Workshop
+January 25 – 27, 2013
+This international workshop to witness and evaluate the interaction, 
+transformation and integration that occur between Quantum mechanics and 
+biological sciences. The analysis and characterization of biological systems 
+from the perspective of quantum mechanics is a nascent area of research. The 
+workshop attempts to cover a gamut of themes ranging from understanding 
+the mechanism of photo-synthesis, quantum tunnelling, quantum processes 
+related to olfactory functions for the development of better performing 
+artificial systems.At IIT Jodhpur, this workshop not only provides exciting 
+insights in these new areas of research, but also provides a platform to initiate 
+this interdisciplinary research both at the national and international levels. 
+The following were the broad areas of discussion at the workshop:
+
+ The possible reasons behind the efficieny of photo-synthesis 
+ Artificial photo synthetic systems & production of bio-fuels 
+ Quantum mechanics, decoherence in biological systems & applications
+to quantum computing
+ Quntum consciousness 
+ Role of DNA in storing information
+The participants included Prof. Jasper Knoester, Prof.Andreas Buchleitner, 
+Prof. Pramod S. Joag, Prof. Prem Kalra, Dr. Satyajit Sahu, Dr. Ashutosh 
+Kumar Alok, Dr. Atul Kumar, Dr. Satyabrata Adhikari, Dr. Sonam Mehrotra, 
+Prof.Jayendra N Bandyopadhyay, Prof.Makis Skoulakis, Prof.Akihito Ishizaki, 
+Prof.Jack Tuszynski, Prof. R. Srikanth, Prof. Yasser Omar, Prof. Susana 
+Huelga, Prof. Rienk Van Grondelle, Prof.Karoline Weisner, Prof.Sisir Roy, 
+Prof. Apoorva D. Patel, Prof. K L Sebastian.
+All participants appreciated the unique approach of the centre to integrate 
+different disciplines of engineering, science, and humanities. Based on the 
+expert feedback the proposed curriculum was modified.
+International Workshop on Computational Materials Design and Engineering
+February 08-10, 2013
+The recent advances in the development of novel materials and coexistence of 
+multifunctionality in the same system may exhibit potential for novel devices 
+based on new concepts and engineering over conventional materials. The 
+conventional approach for such developments relies on time consuming
+
+iterative processes to address the right solution. This demands new modeling 
+methodologies to understand and engineer the material’s properties at 
+atomic, molecular and crystal levels. This workshop aimed at focusing new 
+approaches in conjunction with multi-scale modelling which allows 
+mimicking real systems to handle the challenges in designing novel materials 
+for applications. The valuable suggestions from invited experts were used to 
+envisage and design a relevant academic programme, in accordance with the 
+multidisciplinary approach at IIT Jodhpur. The major topics of discussions 
+were as follows:
+ Materials design through experiments and simulations 
+ Electronic Structure Theory 
+ Spectroscopy of Complex Materials 
+ Thermoelectrics 
+ Hydrogen Storage 
+ Functional Nanomaterials
+The participants wereProf. Indarnil Manna, Prof. G. P. Das, Prof. Shobhana 
+Narsimhan , Prof. Sushil Auluck, Prof. Dilip G. Kanhere, Prof. Abhishek 
+Singh, Dr. Vijay Kumar, Prof. Manoj Harbola, Prof Priya Mahadevan, Prof. 
+Indra Dasgupta, Porf. Charles Patterson, Dr S. Pannala, Dr. David J Singh, 
+Prof G P Srivastava, Prof Arun Bansil, Prof Richard Martin, Prof Shiraishi 
+Kenji, Prof. Dr. Arno Schindlmayr, Prof. Mattias Klintenberg, Prof. Seiji 
+Yunoki, Prof. Hiroshi Mizuseki, Dr. Sandro Scandolo, Dr. Luca Ghiringhelli.
+Innovation and Incubation Centre
+Established in August 2011, the Innovation and Incubation Centre, under the 
+name 
+I.D.E.A.S. 
+(Innovators 
+Destination 
+for 
+Entrepreneurship 
+and
+Amelioration of Society), of IIT Jodhpur seeks to provide a continuous 
+momentum towards promoting innovation in entrepreneurship. For the next 
+ten years, I.D.E.A.S. has entered into collaboration with the State Government 
+of Rajasthan, which has agreed to partially fund the incubatees.
+The Innovation and Incubation Centre of IIT Jodhpur seeks to provide 
+continuous momentum toward promoting innovation in entrepreneurship. 
+IIT Jodhpur seeks to be an academic incubator and provides support to 
+students in developing business ideas that address the unattended issues 
+prevalent in our society. It aims to provide young talented students with a 
+platform where they can bring forward their ideas in the field of science and
+
+Sl. No. Name of the Course Conducting Faculty
+1. Mathematics-I Dr. Kiran Hiremath
+2. Physics-I Dr. V. Narayanan
+3. Physics-II Dr. V. Narayanan
+4. Mathematics-II Dr. Kiran Hiremath,
+Dr. Puneet Sharma
+5. Chemistry Dr. Rakesh Sharma
+6. Engg. Economics Dr. Pratibha Bhargava
+7. Introduction to Biology Dr. Sushmita Jha,
+Dr. Amit Mishra
+8. Engg. Graphics Dr. P. R. Chakraborty,
+Barun Pratiher
+9. Probability & Statistics Dr. Vivek Vijayvargiya,
+Dr. Venkat Appal Raju
+10. Advanced Mechanics of Solids Prof. Rakesh Saxena,
+Dr. Bimal Roy
+engineering and showcase the same to industry experts to get their assistance 
+in developing a model. The centre intends to nurture young minds and help 
+their ideas gain ground through channelized guidance and mentorship by 
+industry experts. We wish to give engineering students and industry 
+practitioners an opportunity to interact and build a community of innovative 
+potential.
+Short-Term Courses
+IIT Jodhpur conducts several short courses for the students during summer 
+and winter breaks. As the institute receives visiting experts from a wide 
+variety of background, the students derive benefit of such visiting and serving 
+faculties by exposing themselves to different areas of academics and research 
+by means of these short courses. Following are the summer and winter short 
+courses that were delivered during 2012-13:
+Summer Courses
+
+11. Computer Networks Dr. Venkata Ramana
+12. Physics-III Dr. S. Banerjee,
+Dr. A. Alok
+13. Introduction to Electrical Engg. Dr. Vivek Dixit,
+Dr. Neeraj Gupta
+14. Information Theory Dr. Anupam Gupta
+15. Electric Stress Dependent Behaviour of Dielectrics Prof. Ravindra Arora
+16. Optoelectronics Dr. Mahesh Kumar
+17. Principles of Quantum Mechanics Dr. P. Manikandan
+18. Introduction to Numerical Heat and Fluid flow Dr. P. R. Chakraborty
+19. Modeling and Analysis of Biological Complex
+Systems Dr. Ganesh Bagler
+20. History and Philosophy of Science Dr. K J George
+21. Solar Resource Assesment and Forecasting Dr. B Ravindra
+22. Introduction to Art and Science of Negotiation Dr. Harinipriya
+23. Technical Communication Dr. Ansu Louis,
+Dr. Vidya
+24. Research Methodology Dr. S. Banerjee,
+Dr. K. J. George
+25. System Design and Integration Lab Dr. Rahul Chhibber,
+Dr. Ganesh Bagler
+26. Enery-Water Nexus Dr. Anand Krishnan
+Plapally
+Sl. No. Name of the Course Conducting Faculty
+1. Technical Communications Dr. Ansu Louis
+2. Research Methodology Dr. Sushmita Jha
+3. Cloud Computing Dr. Amey P. Ghokhle
+4. Basics of Sustainable Development Dr. Vittarino Belpoliti
+5. Noise and Vibration: A Practical Approach Dr. Neil Popplewell
+6. Multivariate Data Analysis Dr. Herb Debban
+Winter Courses
+
+congruity between technology, society, and humanity. Beyond the
+Weekly Academic Seminars
+constrained frame of the graduate curriculum, the institute envisions the 
+holistic development of students along with their attaining of a deeper insight 
+into manifold academic disciplines. The institute has been conducting three 
+kinds of weekly academic seminars. In order to provide students exposure to 
+cutting edge research, recent developments in industrial and business sectors, 
+social work, arts and culture, the institute conducts Institute Seminars by 
+renowned professionals and experts in different fields. To promote 
+interdisciplinary research and interaction between and among faculty 
+members and students, the faculty members present and discuss their 
+research interests at weekly faculty seminars. And to provide students and 
+faculty a platform to present their insights and recent academic activities, 
+each CoE has its own weekly seminars.
+Scholarship for Students
+IIT 
+Jodhpur 
+awards 
+Merit-Cum-Means 
+(MCM) 
+scholarship 
+to 
+the
+undergraduate students belonging to General and OBC categories. The 
+selection is based on both merit and parental income. Any student with a 
+parental income of less than Rs. 4.5 lakhs per annum may be eligible for the 
+scholarship. MCM scholarship involves full tuition fee waiver and an 
+additional amount of Rs 1000/-per month. In the academic year 2011-2012
+Students belonging to SC/ST categories are given, in addition to tuition fee 
+waiver, exemption from hostel dues (both mess and room charges) and a 
+pocket allowance of Rs. 250/-per month. In the academic year 2011-2012, 30 
+MCM scholarships were awarded in the GEN/OBC category, and 8 in the 
+SC/ST category. And 24 free tuitionships were also awarded.
+Foreign Language Training
+With support from the French Embassy, IIT Jodhpur offers a zero credit 
+compulsory course in French language for first year students. Furthermore, 
+the state-of-the-art language lab of the institute could now help students in 
+learning major foreign languages.
+
+Roll Name of student Institute / Project Title
+No. Organization
+J09001 Abhinav Dadhich Panasonic R&D Labs NFC based android app for
+health care
+J09002 Abhinav Piprotar Escorts Agri
+Machinery, Faridabad Fatigue testing of components
+UG2010
+12001 Abhinav Panwar Hindustan Engine Components
+Manufacturing Systems Engine Components
+Aeronautics Limited, Manufacturing Systems
+J09004 Abhishek Verma Panasonic R&D Labs Prototype development of
+“NFC based Android
+Application” for Healthcare
+J09006 Akanksha Saran École Polytechnique
+Fédérale De Lausanne,
+Switzerland The Frugal FPGA: Design and
+analysis of a resource efficient
+FPGA architecture
+J09007 Akash Deep University of Manitoba Multi Terminal HVDC
+Control
+J09009 Akshay
+Harikumar Tata Johnson Control
+Ltd., Chennai Time analysis of fragment
+cutting process.
+J09011 Amit Lonkar Motilal Oswal Asset
+Management, Mumbai Optimisation in multi-asset
+class portfolio
+J09026 Amulya Sai, B. National Instruments,
+Bangalore Automatic Inspection Of
+Automated Clusters
+Internships of Students
+Summer internships provide opprotunities for students to gain experience in 
+their discipline, determine if they have an interest in a aparticular career, and 
+create a network of contacts. Internship is an integral part of curriculum for 
+the pre-final year students, nevertheless, all B.Tech. and M.Tech. students are 
+encouraged to take up internships to add to their educational experience. 
+When students do an eight-week summer training in reputed organizations, 
+in India or abroad, they learn newer skills and technology; adopt them in 
+theory undergraduate projects and use them to bring a change and serve the 
+community. In this way, the companies offering them internships also gain 
+extensively due to the availability of novel perspectives, fresh ideas and 
+specialized strengths and skill sets of the incoming students that are sure to 
+augment the abilities of the company workforce.
+In the 2012-13 many of our students were placed for summer internships in 
+several reputed companies and for research projects in universities abroad. 
+Some of our students participated in research projects in other IITs as well. 
+Details of 2012-13 Summer Internships are as follow:
+
+J09016 Ankit Gupta University of
+Manitoba, Winnipeg Frequency response
+characterization of Nafion
+using electrostatic force
+microscopy
+J09019 Anurup Ganguli University of Western
+Ontario, Canada Design and fabrication of
+offshore Wind turbine and its
+wind tunnel testing
+J09020 Ashish Aseri DRDO, Defence
+Laboratory, Jodhpur 3D Visualisation using VTK
+J09022 Ashok Banjara Non Ferrous Materials
+Technology
+Development Centre
+(NFTDC), Hyderabad Testing and analysis of die
+cast copper rotor induction
+motor
+J09027 Bhaskar Puri Panasonic R&D Labs Scalable Distributed Water
+Management System
+J09029 Boobalan, G. Non Ferrous Materials
+Technology
+Development Centre
+(NFTDC), Hyderabad Testing and Analysis of
+Copper Rotor Induction
+Motor
+J09034 Gaurav Kumar Escorts Agri Fatigue testing of components
+Machinery, and strain measurement
+Knowledge during loading, Noise &
+Management Centre, vibration testing of engine
+Faridabad and tractor
+J09035 Gaurav Siwach Nara Institute of
+Technology, Japan Adaptive Robotic Clothing
+Assistance
+J09036 Gautam Bajaj Hi-Tech Robotics
+Systemz Ltd, Autonomous Navigation
+Using ROS
+J09038 Govind Agarwal Nara Institute of
+Technology, Japan Human Position Tracking
+J09040 Gundre Vaibhav
+Pralhad Advanced Systems
+Laboratory, DRDO,
+Hyderabad Thermal analysis of a diffuser
+section
+UG2010
+12017 Hemant Verma IIT Roorkee Design and Development of
+J09043 Jatin Goyal Fiat India Ltd. Analysis of Lean
+Manufacturing System and
+Production Line
+J09044 Jatin Rustagi Panasonic R&D Labs Display prototype of water
+classification
+J09053 Kunal Chelani University of British
+Columbia, Vancouver Analysis of Harmonics in DC
+Smart Grid
+J09054 Lakhan Singh
+Jatav Thermax, Pune Generalised solar tracking
+system of solar parabolic
+trough
+J09057 Manish Kumar
+Jain National University of
+Ireland, Maynooth Optimal Contention Window
+for 802.11 Protocol
+
+UG2010
+11012 Manu Agarwal IIT Delhi Clustering on data points
+satisfying (c,e) approximation
+stability
+J09061 Mohammed
+Aquibuddin
+Ahmed Non Ferrous Materials
+Technology
+Development Centre
+(NFTDC), Hyderabad Testing, modeling and
+analysis of three phase
+Induction Motor
+J09065 Nikita Chopra University of Western
+Ontario, London
+(Ontario) Algorithm development for
+lung brachytherapy
+J09069 Prafful Gupta IIT Bombay Design of Bandgap Voltage
+Reference for ultra-low
+supply voltage
+J09070 Pranay Balar Pontiflex India Pvt.
+Ltd., Bangalore Configuration Service of the
+sign-up ad project
+J09073 Prashant Shukla Non Ferrous Materials
+Technology
+Development Centre
+(NFTDC), Hyderabad Analysis of high heat flux
+transfer on tungsten mono-
+blocks
+J09074 Pratesh Jhari Panasonic R&D Labs Efficiency Analysis of Wind
+catchers for Earth air Heat
+Exchanger
+J09075 Prem Raj University of
+California, Merced Development of an
+embedded system for
+automation of HVAC
+UG2010
+11019 Prince Gupta Electronics For You,
+New Delhi Designing Low-Cost AVR
+UG2010 Rajat Jain North Central
+11023 Railways, Agra
+J09062 Rajni Yadav University of Ulster Tinnitus cancellation
+algorithm
+J09089 Rameshwar
+Prasad Meghwal Non Ferrous Materials
+Technology
+Development Centre
+(NFTDC), Hyderabad Daily activity tracking system
+of employees of NFTDC
+using expert system concept
+UG2010
+10007 Ravi Kiran
+Godgu Centre for Artificial Spatio Temporal Datamining
+J09025 Rishi Kalyan
+Ayyer Motilal Oswal Asset
+Management, Mumbai Optimized Portfolio Creation
+UG2010
+11027 Rishi Kumar Patratu Thermal Power Generation Techniques
+J09084 Ruchi Toshniwal Nucleus Software,
+Noida Data De-duplication Software
+UG2010 Sachin Gupta Eicher Engines, Alwar Reduction in Tool Inventory
+
+J09088 Satyesh Jha Panasonic R&D Labs Efficiency Analysis of
+Windcatchers for Earth Air
+Heat Exchangers
+UG2010 Saurabh Santosh Bokaro Thermal Power Power Generation Training
+11031 Plant, Bokaro
+J09092 Shashank Kumar IIT Bombay Design and Implementation
+of a Hardware In The Loop
+[HILS] Simulator for Micro
+Aerial Vehicles [MAV] using
+Open Source Software
+JSBSim.
+UG2010 Snehlata Joshi IIT Bombay Bubble Size Measurement
+J09097 Surendra
+Choudhary Non Ferrous Materials
+Technology
+Development Centre
+(NFTDC), Hyderabad Hydrogen Storage and
+Sorption Cooling using Waste
+Heat
+J09099 Sushant Gaurav Nara Institute of
+Technology, Japan Grouping People and
+Recognizing their attributes
+J09100 Syed Faizul Hai National Instruments,
+Bangalore Created a Labview VI to
+generate Chromaticity
+diagram and XYY color space
+(Summer Intern)
+UG2010
+12039 Tanmay Sethi The Energy &
+Resources Institute,
+New Delhi Solar Biomass Hybrid
+Cooling Cum Power
+Generation
+J09102 Tokala Sai Teja Nucleus Software,
+Noida Data Deduplication
+UG2010
+10005 Trivikram
+Chaudhary Centre for Artificial Spatio-Temporal Data Mining
+J09104 Vaibhav Jain National University of
+Ireland, Maynooth Measuring Capture effect in
+wireless networks
+UG2010 Vasu Goenka Tata Motors Limited Wheel Alignment
+J09016 Vinay Kumar University of
+California, Merced
+UG2010
+10038 Vinith Vemana Centre for Artificial Spatio-Temporal Data Mining
+UG2010
+11044 Vivek Dubey Nuclear Power In-plant training
+J09107 Vivek Sharma Innovation Labs, TCS,
+Gurgaon Crowd Size Estimation using
+Image Processing
+J09109 Zubin Sortee Pontiflex India Ltd.
+Bangalore Development of Help Module
+
+Facilities
+ Present Campus
+o Academic Capmpus 
+o Residential Area
+ Permanent Campus 
+ Computer Centre 
+ Library 
+ Laboratories 
+ Health Centre 
+ Sports Facilities 
+ SC/ST and OBC Cell 
+ Hindi Cell 
+ Office Automation
+
+Present Campus
+Presently, the institute functions 
+from a temporary campus at 
+Ratanada, in Jodhpur, Rajasthan. 
+The campus has three blocks, 
+Administrative Block, Academic 
+Block-I, and Academic Block-II. In 
+addition 
+to 
+the 
+major
+administrative 
+offices 
+of 
+the
+institute, a few laboratories are 
+situated in the Administrative 
+Block. In Academic Block-I are located several laboratories, computer centre, 
+and the library. Academic Block-II has several halls for lectures, tutorial 
+rooms, language laboratory, and cabins for Ph.D. students. The campus also 
+has mess facility for students. The institute has already procured all the basic 
+facilities required for its effective functioning and is consistently in the course 
+of further development.
+Residential Area
+The residential area of IIT Jodhpur is situated by the New Pali Road in the 
+outskirts of Jodhpur city. The area is divided into several student hostels, 
+residential apartments of the Director, faculty, and staff, VVIP guest house, 
+visitors’ hostels etc. Round the clock security services keep the residential area 
+safe and secure. A well-equipped health centre also functions here. In 
+addition, the students enjoy facilities for both indoor and outdoor games at 
+this area.
+The residential area has a computer centre and all hostels are Wi-Fi enabled. 
+And there is also a library, television rooms, and student activities centre to 
+hosts several events. Moreover, the residential complex also houses several 
+students-run clubs which nurture the creativity of students and initiate the 
+celebration of several festivals. Also, one of the two student messes of IIT 
+Jodhpur function here (the other one in the academic area). The mess offers 
+good quality food at very affordable rates. The messes are regularly 
+monitored by wardens to ensure hygiene and nutritional value.
+
+The residential campus has a fully equipped visitors’ hostel which provides 
+boarding and lodging facilities for all the institute’s guests, parents and 
+guardians of students, and newly appointed faculty members. All rooms are 
+air conditioned. The residential area has a branch of State Bank of India with 
+an ATM counter. The institute has a bus service running between the 
+Residential and Academic areas at regular intervals, exclusively for the 
+students, faculty, and staff of the institute. And shops catering to various 
+needs of the students, two general stores, one medical store, stationery, and a 
+mobile phone accessories store operate in front of the residential area.
+Permanent Campus
+In the forthcoming years, the 
+institute will be shifted to its own 
+residential campus near Nagaur 
+in Jodhpur. The government has 
+acquired 872 acres of land for the 
+institute and the construction of 
+the 
+boundary 
+wall 
+is 
+being
+completed, and so is the 33 KV 
+electric substation. An MoU has 
+been signed with Arid Forest Research Institute for designing and developing 
+an urban forestry model for the institute. The institute has successfully 
+completed the selection of the campus master planner. It is envisioned that 
+the new campus of IIT Jodhpur would stand as a symbol of academic 
+excellence while creating a multi-cultural ethos with centres such as an Eco 
+Village, an Arts and Culture Centre and an International Inter-Cultural 
+Activity Centre, all of which would contribute to a holistic development of its 
+community.
+
+Computer Centre
+The institute has a computer centre, presently running on a gigabit LAN with 
+1Gbps internet bandwidth. It provides all computing facilities for students 
+and staff. There are several terminals running on Windows and GNU/Linux 
+operating systems. The computer centre provides access to several licensed 
+softwares like Matlab, Mathematica, Cadence, Mentor-Graphic, Ansys, 
+PSCAD, Solidworks, orCad, etc. 802.11/b/g/n Wi-Fi is enabled in both the 
+academic area and residential area, the computer centre hosts a high 
+performance computing cluster for scientific research.
+Computing Facilities
+● Server E7-8837 processor 4*10 Core with 128 GB Ram (Fujitsu RX600 S6) – 4 
+● Workstation E5-2640 processor 2*6 Core With 64 GB Ram (fujitsu Celsius
+● MAC Pro 21” Desktop - 1 
+● Printer ( HP Laserjet 9040dn) – 1
+Online Services (Automation)
+● Ph.D and M.Tech Admission 
+● Transit hostel booking 
+● Faculty leave 
+● Student leave 
+● Student Bonafide 
+● Vehicle booking 
+● Centralized authentication server (LDAP)
+
+Network Facilities
+● Gigabit Network switch (Cisco 2960-s) – 6 
+● Internet access authentication
+Library
+The Library supports all teaching and research activities of the institute by 
+facilitating- acquisition, organization and dissemination of knowledge 
+resources, and also providing library & information services to IIT Jodhpur 
+community at large. It is located on the ground floor in room nos. 1001 and 
+1011, Academic Block I of the academic campus of IIT Jodhpur. The Library 
+works under the guidance of the Institute’s Library Committee.
+Library Collection
+Books: The library has rapidly growing collection of more than 10,000 
+volumes of books (approx). These include the textbooks, reference & research 
+materials.
+
+Collection Collection Additions in Total collection
+2012-13 (as on March 31, 2013)
+Central Library 1561 7975
+Book Bank 205 1986
+GPRA Library 360 520
+Total no. of books added during 2012-13 2126
+Journals& Databases: The Library subscribes to a wide range of scholarly 
+journals/databases from various sources, as detailed in Digital Library section 
+of this document. More details of these resources are available on the library 
+website. The Library also subscribes to some of the popular magazines and 
+dailies.
+Services and Facilities
+Member Services: The library provides facilities and services to all registered 
+students, faculties, staff members of IIT Jodhpur. Additionally, the library 
+also provides services and facilities to visiting faculties to IIT Jodhpur. 
+Assistance in locating reading material, orientation to new users is also 
+provided by the Library staff.
+Circulation Services: One of the major services that the library offers is 
+circulation of books and other reading material among the users. All IIT 
+Jodhpur faculty, staff and students are entitled to borrow reading material 
+from library.
+Reference & Information Service: The library houses a number of 
+reference books and also has access to information resources in electronic 
+form. Library staffs are always available for guidance and help with the 
+reference material, and also for answering the related queries.
+Inter Library Loan & Document Delivery Service: Library arranges for 
+borrowing books and scholarly articles that are not available in the library, 
+from other libraries in India. 
+Course Reserves: The recommended textbooks by the faculties for different 
+courses are available in the Course Reserves section. These books are for 
+consultation in the library premises against the Identity Card. However, these 
+are issued overnight during the examination period at IIT Jodhpur.
+
+Current Awareness Service: Information about new arrivals of books and 
+journals is made available on the library- website, catalogue and by way of 
+an email newsletter sent periodically.
+Book Bank Facility: The library has a special collection of textbooks for 
+students belonging to SC/ST category, as per GoI rules. They are issued to 
+the students, who can apply as per the announced schedule by the Book 
+Bank student volunteers.
+Online Catalogue: The library operations are completely computerized. 
+Online catalogue can be accessed in both academic and residential 
+campuses. It can be accessed at http://172.16.100.55:8081/newgelibctxt. 
+The same software also functions as institutional repository.
+Library Website:The library website (http://library.iitj.ac.in/) provides 
+information about the services and facilities that can be availed and also acts 
+as a gateway to a range of electronic resources including subscribed and open 
+access.Indent forms for recommending books and journals for library are 
+hosted on the library website.
+Digital Library Facility: The library extension in room no. 1011 serves as 
+the digital library with computer terminals facilitating access to various 
+academic resources, viz., journals, databases etc. Some of the major 
+electronic resources licensed by IIT Jodhpur Library are:
+Journal resources:
+ ACM Digital Library 
+ American Chemical
+Society
+ American Institute of
+Physics
+ American Physical Society 
+ Annual Reviews 
+ ASME Digital Library 
+ Elsevier’s Science Direct 
+ IEL Online 
+ IMechE 
+ Institute of Physics 
+ Nature Publishing Group 
+ Optical Society of America 
+ Royal Society of Chemistry
+
+ Proceedings of the National Academy of Sciences 
+ Project MUSE 
+ Science Online 
+ Society for Industrial & Applied Mathematics 
+ Springer Link 
+ Taylor & Francis 
+ Wiley Online Library 
+ Some miscellaneous titles from Cambridge University Press, Begell House,
+Rinton Press, SAE, University of Manchester Press etc.
+Fulltext Databases:
+ JStor 
+ EBSCO Academic Search 
+ EBSCO Econlit
+Scientometric Databases:
+ Mathscinet 
+ Scopus 
+ SciFinder Scholar
+Library Networks: IIT Jodhpur Library is a member of professional library 
+networks like Indian National Digital Library for Engineering, Science & 
+Technology (INDEST), INFormation & LIBraries NETwork (INFLIBNET), and 
+DEveloping Libraries NETwork (DELNET). As a member the library benefits 
+in terms of subscriptions of journal resources and inter library loans and 
+resource sharing.
+Laboratories
+Right from its inception, IIT Jodhpur has been striving to achieve an ideal 
+synthesis of teaching and research. This spirit reflects most clearly in the 
+variety and scope of the laboratories the institute has established so far. Now 
+the institute has a number of state-of-the-art laboratories and research centers 
+trying to elevate students from minimalist academic concerns to the 
+inquisitive world of scientific arena. These labs and research centers help 
+well-trained faculty members and students work for s better future by 
+supplementing and improving existing technologies and bodies of 
+knowledge, using competence, creativity, and imagination. To accomplish
+
+such goals, IIT Jodhpur has already made collaborations with several leading 
+academic and research centers across the world.
+Advanced Manufacturing Laboratory
+CAD Laboratory
+The CAD Lab of the institute provides facilities for undergraduate students 
+and faculty members to work with 2-D & 3-D design and analysis software 
+for their academic and research work. The 3-D Modeling Software and FE 
+Analysis softwares available in the CAD lab include:
+ 
+CATIA
+ 
+SolidWorks
+ 
+ANSYS
+CAM Laboratory
+In the CAM Lab undergraduate students learns to control machine tools and 
+related machinery in the manufacturing of work pieces with help of computer 
+programing and software. The CAD model of object is prepared in 3D 
+modelling software and then its FE analysis is done with help of Analysis 
+software and then manufactured using CNC programing and CNC machines. 
+With help of CNC machines the object is manufactured with lesser time with 
+higher dimensional accuracy with optimum uses of material, energy and cost. 
+The CAM lab of the institute is equipped with following machines:
+
+ 
+EMCO Concept Mill 250
+ 
+EMCO Concept Mill 105
+ 
+EMCO Concept Turn 105
+In addition, a rapid prototyping machine based on the Fused Deposition 
+Modelling was acquired for the CAD/CAM lab from Stratasys Inc., USA. It 
+works seamlessly with STL files generated from a number of CAD software 
+programs. First year students of all engineering branches have been taught to 
+create STL files of the product designed such that 3D model in ABS material 
+can be printed for purposes of visualization and design communication. It is 
+proposed to conduct workshops and training programs for external industry 
+participants using this technology in the next academic year.
+Central Workshop
+Central workshop is a facility where the students are trained to convert raw 
+material into finished products. Here, the students learn about various 
+manufacturing processes such as metal cutting, metal forming, metal casting, 
+and metal joining. The central workshop is equipped with different types of
+
+welding machines which aid students in understanding the basic welding 
+processes and in utilising the facilities for fabrication works for academic 
+purposes.
+The following are the machines and equipments available in central 
+workshop:
+1. Welding fume extraction down draft
+table
+2. Multi process welding equipment 
+3. Portable single phase MIG/MAG 
+4. AC/DC welding equipment 
+5. MIG/MAG welding equipment 
+6. Treadle operated shearing Machine 
+7. Hand operated Folding Machine 
+8. Kaizen Muffle Furnace 
+9. Hand operated Jeeny or Burying
+Machine
+10. Motorized Circle cutting Machine 
+11. Hand operated Circle cutting Machine 
+12. Hydraulic shearing Machine 
+13. Portable Heating Plant 
+14. Portable hardening plant 
+15. Forging Heating Plant 
+16. Aluminium Melting Plant 
+17. Fitting Table 
+18. Mould Making Facility 
+19. Portable Tool Grinder
+
+Biosciences and Neuroscience laboratory
+The Advanced Biosciences and Neuroscience laboratory is a part of the center 
+of excellence in biologically inspired systems science (BISS). The goal of this 
+laboratory is to provide cellular and molecular investigative tools for UG and 
+PG teaching and research in neuroscience. We utilize cell culture studies 
+along with molecular biology, biochemistry and microscopy approaches to 
+elucidate the molecular mechanisms underlying molecular and cellular 
+interactions underlying inflammation and repair. Inflammation is a key 
+component of many diseases including traumatic brain injury, cancer, 
+multiple sclerosis, stroke, asthma, Parkinson’s disease and Alzheimer’s 
+disease. Inflammation is characterized by accumulation and proliferation of 
+innate immune cells. This is followed by clearance of dead cells and cellular 
+debris along with enhanced expression of molecular mediators called 
+cytokines and chemokines, which cause migration and proliferation of 
+immune cells and may even lead to cell death. Understanding the 
+mechanisms by which inflammation occurs, and the molecular mediators 
+involved in this process, is necessary for identification of potential therapeutic 
+targets.
+Biomolecular Information Processing laboratory
+The 
+laboratory 
+is 
+involved 
+in 
+the
+understanding of information processing by 
+various kinds of biomolecules and related 
+synthetic molecules. The process involves in 
+using a single molecule first and then a 
+group of molecule on a given interface. The 
+interaction among the molecules in a given 
+external stimuli will help us understanding 
+the communication among them.
+
+Chemical Biology Laboratory
+Research themes:
+Organisms at the cellular level possess a well-established protein quality 
+control mechanism which the lab team is trying to understand at present. The 
+role of E3 ubiquitin ligases was reported in such mechanisms so far. Our 
+laboratory is dedicated to a qualitative research in the field of protein quality 
+control mechanisms. We have recently found that a HECT domain containing 
+E3 ubiquitin ligase E6-AP helps in Amyotrophic Lateral Sclerosis diseases 
+suppression through its association with the misfolded protein aggregates 
+formed by SOD1 mutants. Such findings support that an E3 ligase can have a 
+capability to clear the misfolded protein aggregation. However, while 
+appreciating the incredible efficiency of cellular systems, we must recognize 
+the crucial role of chaperones which are supposed to work preferentially 
+compared to E3 ubiquitin ligases in order to refold the misfolded proteins, 
+and hence conserving the energy utilized during the translation of those 
+proteins. Various examples made us think that we could explore the role of 
+both the chaperones and E3 ubiquitin ligases in the clearance of misfolded 
+proteins. Therefore, now we are working not only with E3 ubiquitin ligases 
+but also with the chaperones and even in their functional association to confer 
+an efficient quality control mechanism to the cell.
+Chemistry Laboratory
+The core objective of the 
+chemistry laboratory of 
+IIT Jodhpur is to train 
+students 
+in 
+scientific
+
+methods that would solve real problems at the frontier of our understanding 
+of the matter. This is a multi-use laboratory and provides a number of 
+resources to assist undergraduate, graduate and PhD students in planning 
+their professional careers after completing their academic program at IIT 
+Jodhpur.
+This laboratory maintains a 
+broad spectrum of state-of-
+the-art 
+instrumentation
+including basic laboratory set 
+up (for organic, inorganic, 
+organometallic and material 
+synthesis), Nitrogen, Oxygen 
+and 
+LPG gas 
+line, 
+Inert
+atmosphere boxes, vacuum 
+line work, fume hood pH, 
+conductivity, 
+BOD, 
+COD,
+meters, Rotary evaporator, Vacuum pumps, centrifuges, High pressure 
+reactor system, Chiller, microbalances, Orbital Shaker, GC, HPLC and 
+Radleys ready reactor. In the academic year 2012-2013, the lab procured 
+equipments such as Polarimeter, Melting point Instrument, Solar Simulator, 
+Digital Titrator, Kugalrohr, Electrochemical work stations, and Battery 
+analysers.
+Control / DSP / Microprocessor Laboratory
+The lab provides software and hardware infrastructure for carrying out 
+experiments in the field of Control Systems, Microprocessor and DSP. 
+Broadly, the lab includes the following experimental setup:
+a. Control Systems
+1. Ball & Beam System from Quanser 
+2. Magnetic Levitation System from Quanser 
+3. Inverted Pendulum System from Quanser 
+4. Softwares include Scilab / Matlab
+b. DSP Lab Equipments
+c. Microprocessor Labs
+
+Digital Language Laboratory
+The Digital Language Laboratory provides resources, facility, and support for 
+foreign language instruction and learning to the entire student community of 
+IIT Jodhpur. The lab is the multilingual computing and assessment center of 
+the institute. The lab team explores and implements methods through which 
+multimedia technology renders learning a foreign language a more authentic 
+experience. Here, for language learning purposes one could seek recourse to 
+most advanced technologies including the Internet and interactive video, 
+audiovisual techniques, multi-modal iconic approach, and speech recognition. 
+Some other exercises include listening and comprehension, grammar-based 
+exercises, placement solutions, and mastery tests. The main features of this 
+state-of-the-art facility include top-rated Smart Class Symposium LL from 
+Robotel and New Dynamic English Learning Program from Dyned
+
+International. All the facilities at the Digital Language Laboratory are 
+proficiency-oriented and standard-based, and nurture the 
+students’
+enthusiasm for gaining global exposure and proficiency in a foreign language.
+Electronic Circuit Laboratory
+In this laboratory the students make and test their analog and digital circuits 
+by using all kinds of circuit components like diode, transistor, opamps, and 
+clocks. The lab has following equipments:
+1. Arbitrary Function Generator from Agilent 
+2. Digital Oscilloscope from Agilent 
+3. Programmable Power Supply from Scientific 
+4. 6 1/2 BIT DMM from Agilent
+Electro Mechanical Energy Conversion Laboratory
+In 
+order 
+to 
+familiarize
+students 
+to 
+Electrical
+Machines 
+properties 
+&
+characteristics, IIT Jodhpur 
+has 
+established 
+“Electro
+Mechanical 
+Energy
+Conversion Laboratory” and
+
+has continually been developing the potential of its lab facility. In this lab, 
+state-of-the-art “Electrical Engineering” facilitates the students to empower 
+their potentials by familiarizing themselves with the fundamental of electro-
+mechanical energy conversion process, including several practical & 
+industrial applications of machines in true applicable environment. This lab 
+occupies conventional as well as modern equipments to fulfil the basic and 
+modern technological requirements with continual developing efforts.
+Renewable Energy Laboratory
+To resolve most daunting 
+challenge of this world—
+energy needs—and also 
+our 
+nation’s 
+heavy
+reliance on fossil fuels, 
+Renewable 
+Energy
+Laboratory 
+(REL)
+promotes rigorous and 
+objective 
+empirical
+research at IIT Jodhpur 
+on 
+issues 
+related 
+to
+energy and environment. 
+REL focuses on designing, testing, and disseminating renewable and efficient 
+energy system. The mission of REL is to help these technologies to realize 
+their full potential to contribute to environmentally sustainable development 
+in industrial and developing countries. In the renewable energy field, expert 
+faculty and students at this Laboratory are currently striving to create an 
+innovative system to efficiently harness energy from sunlight and wind 
+power. Recently, a work on solar and wind system for household 
+development has been planned and our research effort at REL draws on 
+ongoing work in variety of fields, including energy engineering, and 
+environmental risk analysis. REL has computer interfaced systems and 
+approximately 30 students can work at a time. Students are the greatest 
+resource of REL and IIT Jodhpur has made substantial commitment to the 
+area of renewable energy and been providing all required resources to 
+execute a viable plan and innovative research at REL. One aspect of the 
+evolution of REL is the development of collaborative partnership with other 
+academic and industrial groups. In the near future, it will be a hub for
+
+training and public-private sector collaboration. Recently, the lab has started a 
+consultancy project, with Panasonic R & D India Pvt Ltd, on the prototyping 
+of microbial fuel cells. In addition, the lab has started work on data collection, 
+interpretation, and analysis of PV power plants less than 5 MW in Rajasthan 
+and Gujarat.
+Equipment
+1. Wind power of 2KW Charge controller ~12V, Synchronous generator
+with permanent magnets ~12V, Lamp board ~12V, Off grid inverter etc .
+2. PEM Fuel cell Fuel cell with DC converter, Electronic load, Metal hydride
+storage cell, Electrolyser, 200W/20V/10A.
+3. Advanced Photovoltaics Solar module simulation model 23V/2A, Solar
+module with solar altitude emulator, Solar charge controller 12/24V, 6A, 
+Solar accumulator 12V, 7Ah, Off grid inverter 230V, 275VA etc.
+4. Combined RF/DC Sputtering Unit for Coatings Applications
+Fluid Mechanics and Heat Transfer Laboratory
+At Fluid Mechanics Laboratory students learn:
+ 
+Analyses and evaluation of experimental data
+ 
+Comparison between theoretical models and experimental data
+ 
+How to design a fluid mechanical and heat transfer system e.g. a 
+piping system considering various technical aspects, heat exchanger, 
+thermal energy storage, receiver, wind catcher, volumetric air receiver.
+In addition to the above, this laboratory aims at generating innovative ideas 
+in students by promoting the design of experiments and small scale projects. 
+At present in the fluid mechanics laboratory are conducted experiments on 
+losses in pipes (smooth/rough) and fittings (e.g. valves, bends), comparison 
+between different flow meters, particle image velocimetry technique, Hot-
+wire anemometer, labscale sub-sonic wind tunnel for- pressure distribution 
+around a cylinder/air-foil, lift and drag balance, boundary layer 
+development, weather monitoring. Furthermore the lab provides training on 
+standard software, such as, CFAST for fire simulation.
+
+Currently the Heat Transfer Laboratory is equipped with the demonstration 
+of various thermometry techniques, heat exchange system, ventilation system, 
+Natural and forced convection system, heat conduction unit for different 
+materials, lab and industrial-scale solar water heater system, and thermal 
+radiation unit. All these equipment are installed with respective software.
+For testing, calibration and research purpose in these laboratories, various 
+equipments, such as, Laser Doppler Velocimeter with Particle Analyzer, 
+pressure and temperature calibration, blower with variable flow, pressure 
+transducers, differential pressure transducers, turbine test rig, turbo-machine 
+test rig, IC engine test rig etc. are being procured.
+Moreover, multi-purpose test set up is being indigenously designed and the 
+components / sub-systems involved are being fabricated locally. This system 
+aims at investigation and evaluation of solar thermal sub-systems such as 
+volumetric air receiver, thermal energy storage, air-water heat exchange 
+systems and their simultaneous operation. Devices such as earth air heat 
+exchange system, wind catcher, and air-cooled heat exchange systems are 
+being fabricated and tested for certain applications.
+Material Testing and Solid Mechanics
+The material testing lab of the institute provides facilities to test samples of 
+different types of materials to find out their mechanical properties like 
+modulus of elasticity, tensile and compressive strength, stress strain curve, 
+bending properties, hardness etc. The lab is equipped with following test 
+equipments:
+
+1. Universal testing Machine 5-50 kN 
+2. Rockwell Tester 
+3. Brinell Tester 
+4. Vickers Tester 
+5. Poldi Hardness Tester 
+6. Portable hardness tester 
+7. Material Testing and Solid Mechanics
+Materials Analysis Laboratory
+The research focuses on the 
+development of novel materials 
+for 
+different 
+applications
+including materials for energy 
+generation and storage. The 
+current 
+work 
+includes 
+the
+development 
+of 
+solution
+processable 
+CIGS 
+compound
+semiconductor 
+materials 
+for
+solar 
+cell 
+applications 
+and
+transition metal oxide based materials for lithium ion batteries and 
+supercapacitor applications. The laboratory is equipped with synthesis of 
+bulk and thin films techniques such as sputtering, sol-gel process assembly 
+etc and numerous characterization techniques such as X-ray diffraction, 
+Scanning electron microscope, Optical spectroscopic techniques, LCR meter, 
+ferroic measurement system for bulk samples etc.
+In addition, the group is also focusing on the development of multifunctional 
+materials for different applications such as solar selective coatings, ferroic 
+materials for high frequency absorbing system, and magnetic particles for 
+different applications."
+The laboratory is equipped with state-of-the-art facilities to carry out thermal 
+analysis, electrochemical analysis, surface morphology studies, separation 
+techniques for chemicals, electrical conductivity measurement devices, glove 
+box etc.
+
+Microscopy Laboratory
+The Microscopy Laboratory at IIT Jodhpur is located in Academic block 1, 
+Room Number 1107. This burgeoning laboratory is committed to procuring 
+all specific Equipment and is about to gain the level of state-of-the-art 
+laboratories at IIT Jodhpur. Experienced faculty nurtures students’ 
+enthusiasm about the morphological analysis of biological samples and also 
+assists them to operate scientific instruments. Currently, this laboratory 
+houses different microscopes and a number of common pieces of sample 
+preparation equipment.
+Multimedia Laboratory
+The Media Laboratory provides facilities to carry out work related to E-
+learning, image processing, and computer vision. The thrust areas of research 
+in this lab are: Semantic analysis of video/image content, video surveillance, 
+human motion analysis, document image analysis, content based image 
+retrieval etc. E-learning related activities include video recording, audio-video 
+digitization, video editing, etc. In the academic year 2011-2012, a research on 
+Indian sign language recognition using Kinect has been initiated.
+Equipments: 
+Scanners: Book Drive Mini, UMAX Powerlook. Cameras: Sony 177PD, Sony 
+Camcorder, Cannon 500D VCR: Sony DSR 45AP Tripods: Manfrotto, iMac.
+
+Networking Technologies Laboratory
+Networking Technologies Laboratory has been started functioning in the 
+Academic Year 2011-2012. It aims at enabling undergraduate and graduate 
+students, who pursue their interest in the area of computer networks, to 
+understand the concepts of computer networks and work with contemporary 
+networking equipment in a realistic setting. In addition, the lab aims at 
+providing necessary infrastructure to carry out research activities on 
+advanced topics, such as wireless mesh networks, sensor networks, 
+communication on power lines, from computer networks.
+Proposed Activities:
+ Prototyping of networking hardware (Example, Ethernet switch, IPV4
+router etc) using NetFPGA.
+ Developing packet processors using Click router modular software
+ Establishing infrastructure for the mini-Internet, single-hop wireless
+networks, multi-hop wireless mesh and sensor networks, power line 
+communication networks, home phone line networks.
+ Studies related to the performance analysis of various protocols over
+on different network configurations.
+ Development of novel routing algorithms, transport layer mechanisms,
+and services for next generation networks.
+ Setting up planet-lab infrastructure (which will essentially become part
+of the global distributed computing platform created over the Internet 
+by connecting over 500+ sites). This allows the students and 
+researchers not only to understand the traffic patterns on the Internet 
+but also to develop new technologies/applications on the Internet for 
+distributed storage, networking mapping, peer-to-peer systems, 
+content distribution service, and cloud computing.
+
+Physics Laboratory
+The mission of the Physics laboratory at IIT Jodhpur is to provide students 
+with experiential knowledge in basic physics. This laboratory has state-of-the-
+art facilities including specific equipments and is currently offering different 
+experiments in Mechanics, Waves, Electricity, Magnetism, and Optics. Now 
+the lab has facilities for experimenting with Speed of Light, Zeeman Effect, 
+and Michelson Interferometer.
+Power Electronics Laboratory
+The 
+power 
+electronics
+laboratory 
+is 
+used 
+for
+undergraduate 
+studies 
+and
+research in the area of power 
+electronics 
+based 
+power
+conversion 
+systems, 
+control
+systems 
+and 
+drives. 
+The
+laboratory facilitates for faculty 
+and 
+students 
+to 
+conduct
+research in the areas power
+converters and AC/DC micro-grid. The laboratory is equipped with state-of-
+art test and measurement instruments, converters, power supplies and 
+programming boards.
+
+Major Equipments:
+1. High Precision power Analyzer –YOKOGAWA WT3000. 
+2. DSO- Tektronix 200MHz (DPO 2024) and 1GHz (DPO 4104B). 
+3. Function Generator-Tektronix AFG 3021B. 
+4. Power Supply: 0-30V, 1A; 0-32V, 3A; 0-32, 10A. 
+5. Three phase inverter drive. 
+6. Three phase inverter stacks. 
+7. DC-DC converters. 
+8. Differential currents Probes. 
+9. Current clamps. 
+10. Isolation Transformers. 
+11. FPGA training kits and programming boards.
+Robotics Laboratory
+IIT Jodhpur has an advanced robotics laboratory for PG/UG education and 
+research.
+The infrastructure includes the following:
+1. Vicon Motion Tracking System 
+2. Mobile Manipulator comprising of Barret WAM ARM mounted on a
+PowerBot Mobile robot platform
+3. Pioneer P3-DX mobile robots - 10 units 
+4. Turtlebot 
+5. Wheel Chair
+
+6. Force Plate 
+7. Infrastructure for Mobile Robotics - Navigation, Path-planning, SLAM 
+8. Dynamic and Kinematic Control problem, Redundancy Resolution,
+Inverse Kinematics of Manipulators and Mobile Manipulators, Visual 
+Servoing
+9. GAIT Analysis and Robot Assisted Rehabilitation
+Solar Radiation Laboratory
+The Ministry of New and 
+Renewable Energy (MNRE) 
+has selected the IIT Jodhpur 
+campus site as one of their 
+solar radiation centers. Solar 
+radiation 
+measurement
+(Global 
+and 
+Direct),
+Humidity, 
+Ambient
+temperature, 
+Rain 
+gauge
+and 
+wind 
+speed
+measurement are carried out 
+at this center and the data is 
+transmitted via a satellite 
+link to the MNRE nodal 
+center C-WET in Chennai. 
+The 
+instruments 
+in 
+this
+laboratory are powered by a
+couple of solar panels. The data collected from this center enables the solar 
+resource assessment required for the setting up of solar thermal and solar 
+photovoltaic power plants as outlined in the Jawaharlal Nehru National Solar 
+Mission (JNNSM).
+Instrumentation and Communication Laboratory
+The mission of Instrumentation and Communication Laboratory is to provide 
+platform for UG and PG students on research and hands-on learning in 
+Measurement and Automation Technology. The state-of-the-art facilities at
+
+this laboratory offer innovative research opportunities in the astronomical 
+space of communication and real time measurement technology. The 
+experienced Lab team nurtures students' talent in research and offers an 
+opportunity for developing sophisticated measurement, test, control systems, 
+data analysis system and next generation communication technologies.
+Students also develop theoretical and practical competence in (i) building 
+baseband communication circuits, (ii) the application of NI LabVIEW 
+graphical programming software, (iii) the PXI based NI RF/Wireless 
+measurement stand, (iv) evaluating NI WSNs and LabVIEW software, 
+adjusting a software-defined radio system, measuring the parameters of 
+studied antennas and (v) the operation of analog modulation schemes.
+NI-Lab contains software and hardware subsystems which enable rapid 
+prototyping and development of embedded systems for various applications. 
+Currently, this lab constitutes the following setups:
+ NI ELVIS based Communication Systems and Theory Teaching Stand 
+ Large MIMO Stand for Spectral, Channel Efficiency Studies and New
+Standard Development
+ Protocols Stand for WLAN, WiMAX, GPS, RFID, Zigbee, GSM, CDMA,
+WCDMA, Bluetooth
+ FPGA-enabled Software Defined Radio Stand for Custom
+Communication Scheme Development and Research
+ Basic Analog and Digital Communication Techniques Teaching Stand 
+ Wireless Sensor Networks Stand 
+ Signal Intelligence and Wireless Spectral Monitoring Stand 
+ Wireless Prototype Characterization and Testing Stand 
+ FPGA based protocol development for base-band studies and signal
+processing
+ VNA based Antenna Characterization Stand
+
+ Fiber Optic Communication Stands 
+ Network Based Manufacturing 
+ USRP (Universal Software Radio Peripheral) based wireless
+communication system for physical layer design, record and playback, 
+signal intelligence, algorithm validation and more.
+ Network Communication and Manufacturing Control Stand
+After three years of its formation, this lab has contributed immensely to the 
+learning and research activities at IIT Jodhpur. Communications and 
+Networking Lab, Intelligent Instrumentation, System Analysis Techniques 
+and Bio-Sensors courses are being offered through this lab for both graduate 
+and undergraduate students. The lab has provided the right hardware and 
+software tools for many industrial consultancy projects, including the 
+development of DRM/DRM+ IP for digital radio standards, Link budget 
+design for Marine environment, DRFM based Radar echo simulator and Blind 
+Signal Demodulator. Other projects being done in the lab are development of 
+affordable wireless video transmission systems, cognitive radio and Zigbee 
+protocol development.
+High Temperature Solar Thermal Laboratory
+Six laboratories are being set-up under the MNRE funded project entitled as 
+“Establishment of Center of Excellence in Solar Thermal Research and 
+Education at IIT Jodhpur”. High Temperature Solar Thermal Laboratory is 
+one of these specialized laboratories. The aim of this laboratory:
+ Fundamental aspects of fluid flow and heat transfer related problems,
+like, dust deposition
+ Design and analysis of sub-systems for concentrated solar thermal
+systems
+Some of the sub-systems being designed and analyzed in this laboratory are:
+ Open Volumetric Air Receiver for process heat applications 
+ Compact heat exchanger 
+ Solar Convective Furnace
+This laboratory includes test facility, such as, Solar Air Tower Simulator 
+(SATS) facility, advanced research grade equipment like Laser Doppler 
+Velocimetry. SATS facility includes, open volumetric air receiver, thermal
+
+energy storage, air-water heat exchanger and is being extended with solar 
+convective furnace.
+
+Health Centre
+IIT Jodhpur provides round the clock health care facilities to students and 
+institute staff members at the residential campus. The Health Centre has now 
+three doctors and four supporting staff members. The institute also has tie-
+ups with some hospitals in the city to cater to the medical needs of the 
+students and staff. The Health Centre at the residential area has all the 
+necessary infrastructure, facilities, and equipment needed for basic health 
+care. Essential medicines are stocked and provided to patients undergoing 
+treatment.
+Health Centre coordinates and supervises the treatment of students, 
+employees, and their dependents during hospitalization in other hospitals 
+which are accredited to the institute to provide in-patient care. Health Centre 
+arranges for ambulance on call during medical emergencies.
+Health Centre extends its health care services on request to visitors of the 
+institute during their stay in transit hostels in the residential area. Under 
+emergency circumstances medical services are also extended to the residents 
+at the campus who do not belong to IIT community. Patient records, details of 
+medicine procurement/disbursement, assets, equipment of Health Centre etc. 
+are all computerized. The institute is looking forward to procure facilities for 
+some common emergency health situations such as ECG machine, ambulance, 
+etc.
+Sports Facilities
+The institute provides facilities for sports and games at four places: hostel 
+premises, academic campus, Vidyashram playground, and JNVU new 
+campus. Also, the institute has arranged conveyance for those students who 
+wish to go to Vidyasham playground and JNVU new campus. Further, a 
+gymnasium at the residential area functions for the students.
+SC/ST and OBC Cell
+IIT Jodhpur has created the SC/ST and OBC Cell for ensuring the proper 
+utilization and adaptation of reservation policies and guidelines issued by the 
+Government of India. The Cell has also been entrusted with work related to 
+grievances received from SC/ST and OBC employees and students. The Cell 
+also needs to communicate relevant information to the Ministry of Human
+
+Hindi Cell
+The Hindi cell of IIT Jodhpur aims to promote the use of Hindi as a medium 
+of official communications and personal relations. The goal of the cell is to 
+reach out to a wider audience and to motivate the IIT Jodhpur community to 
+develop the basic language skill sets in Hindi. It also encourages and assists 
+the students to conduct various competitions and activities related to Hindi 
+language and literature.
+Office Automation
+The Office Automation Cell of the institute takes care of the IIT website, CoE 
+websites, web pages of faculty members, and so on. The mission of the Office 
+Automation division is to render all office procedures automated so their 
+timely completion could be ensured and account keeping would become 
+simpler and easier. The institute has already automated procedures for 
+booking transit hostel; faculty, staff, and students leave; vehicle booking for 
+official purposes; and bona fide certificate for students.
+
+Scholalry Activities
+ Invited Lectures 
+ Publications in Academic Journals 
+ Conference Presentations and Publications 
+ Faculty Members& Areas of Research Interest
+
+Invited Lectures
+1. Shree 
+Prakash 
+Tiwari: 
+Keynote 
+Speech: 
+"Introduction 
+to
+Microelectronics & VLSI", in Short Term Training Programme on 
+"Advance Trends in VLSI", June 11 - 16, 2012, JIET Jodhpur, India.
+2. Kshema Prakash: “Changing Roles and Responsibilities of Library &
+Information Professionals in the Knowledge Society”, in UGC 
+Sponsored Refresher Course in Library & Information Science, 
+December 06-08, 2012, Jai Narayan Vyas University, Jodhpur, India.
+3. Kshema Prakash: “Library 2.0” Web 2.0 Applications in Libraries”, in
+UGC Sponsored Refresher Course in Library & Information Science, 
+December 06-08, 2012, Jai Narayan Vyas University, Jodhpur, India.
+Publications in Academic Journals
+Centre of Excellence on Biologically-inspired Systems Science
+[1] 
+N. Garg, N. Bieler, T. Kenzom, M. Chhabra, M. Ansorge-
+Schumacher, and S. Mishra, “Cloning, sequence analysis, expression 
+of Cyathus bulleri laccase in Pichia pastoris and characterization of 
+recombinant laccase.,” BMC Biotechnol., vol. 12, no. 1, p. 75, Jan. 2012.
+[2] 
+A. Louis, “Transgression and Oedipal Politics in Philip Roth’s 
+SABBATH'S THEATER,” Explic., vol. 70, no. 2, pp. 87–91, Apr. 2012.
+[3] 
+D. Chhangani, N. Jana, and A. Mishra, “Misfolded Proteins 
+Recognition 
+Strategies 
+of 
+E3 
+Ubiquitin 
+Ligases 
+and
+Neurodegenerative Diseases,” Mol. Neurobiol., vol. 47, no. 1, pp. 302–
+312, 2013.
+[4] 
+D. Chhangani, A. Joshi, and A. Mishra, “E3 Ubiquitin Ligases in 
+Protein Quality Control Mechanism,” Mol. Neurobiol., vol. 45, no. 3, 
+pp. 571–585, 2012.
+[5] 
+M. Sinha, B. Mukhopadhyay, and A. Sedrakian, “Hypernuclear 
+matter in strong magnetic field,” Nucl. Phys. A, vol. 898, pp. 43–58, 
+Jan. 2013.
+[6] 
+S. Sahu, S. Ghosh, K. Hirata, D. Fujita, and A. Bandyopadhyay, 
+“Multi-level memory-switching properties of a single brain 
+microtubule,” Appl. Phys. Lett., vol. 102, no. 12, p. 123701, 2013.
+
+[7] 
+J. P. Hill, N. K. Subbaiyan, F. D’Souza, Y. Xie, S. Sahu, N. M. 
+Sanchez-Ballester, G. J. 
+Richards, T. Mori, 
+and 
+K. 
+Ariga,
+“Antioxidant-substituted tetrapyrazinoporphyrazine as a fluorescent 
+sensor for basic anions,” Chem. Commun., vol. 48, no. 33, pp. 3951–
+3953, 2012.
+[8] 
+S. Sahu, H. Oono, S. Ghosh, A. Bandyopadhyay, D. Fujita, F. Peper, 
+T. Isokawa, and R. Pati, “On Cellular Automata rules of molecular 
+arrays,” Nat. Comput., vol. 11, no. 2, pp. 311–321, 2012.
+Centre of Excellence on Energy
+[9] 
+F. Roelofs, V. R. Gopala, L. Chandra, M. Viellieber, and a. Class, 
+“Simulating fuel assemblies with low resolution CFD approaches,” 
+Nucl. Eng. Des., vol. 250, pp. 548–559, Sep. 2012.
+[10] Kamal Sharma, Harshit Kumar Khandelwal, Vivek Bhasin, R.
+Chhibber, "Application of Ball Indentation Technique for Mechanical 
+Properties Estimation of Bi-Metallic Weld", Advanced Materials 
+Research, 585, 342-346, 2012.
+[11] R. Chhibber, H. Singh, N. Arora, and B. K. Dutta, “Micromechanical
+modelling of reactor pressure vessel steel,” Mater. Des., vol. 36, pp. 
+258–274, Apr. 2012.
+[12] R. 
+Chhibber, 
+Yogesh 
+Kumar 
+Singla, 
+Bijan 
+Kumar 
+Dutta,
+"Optimization of Process Parameters for Friction Welding of 
+Bimetallic Welds", Advanced Materials Research, 585, 440-444, 2012.
+[13] S. Jindal, R. Chhibber, and N. P. Mehta, “Investigation on flux design
+for submerged arc welding of high-strength low-alloy steel,” Proc. 
+Inst. Mech. Eng. Part B J. Eng. Manuf. , vol. 227 , no. 3 , pp. 383–395, 
+Mar. 2013.
+[14] Sandeep Jindal, R. Chhibber, N.P. Mehta, "Effect of Flux
+Constituents and Basicity Index on Mechanical Properties and 
+Microstructural Evolution of Submerged Arc Welded High Strength 
+Low Alloy Steel", Materials Science Forum, 738-739, 242-246, 2013.
+[15] B. Tiwari, A. Dixit, R. Naik, G. Lawes, and M. S. Ramachandra Rao,
+“Dielectric and optical phonon anomalies near antiferromagnetic 
+ordering 
+in 
+LaCrO3: 
+A 
+possible 
+near 
+room 
+temperature
+magnetodielectric system,” Appl. Phys. Lett., vol. 103, no. 15, p. 
+152906, 2013.
+
+[16] B. Tiwari, M. S. R. Rao, A. Dixit, "Ground state electronic and
+magnetic properties of LaCrO3 system", Advanced Materials Research, 
+585, 274 - 278, 2012.
+Mondal, V. Narayanan, I. Srivastava, N. Koratkar, J. Pasley, a. K. 
+Sood, and G. R. Kumar, “Macroscopic Transport of Mega-ampere 
+Electron Currents in Aligned Carbon-Nanotube Arrays,” Phys. Rev. 
+Lett., vol. 108, no. 23, p. 235005, Jun. 2012.
+W. M. Wang, Z. M. Sheng, S. Sengupta, P. Kaw, A. Das, and G. R. 
+Kumar, “Direct observation of turbulent magnetic fields in hot, dense 
+laser produced plasmas.,” Proc. Natl. Acad. Sci. U. S. A., vol. 109, no. 
+21, pp. 8011–5, May 2012.
+[19] P. K. Pandey, S. L. Gupta, V. Narayanan, and R. K. Thareja, “Air
+plasma waveguide using pico-sec and nano-sec laser pulses,” Phys. 
+Plasmas, vol. 19, no. 2, p. 023502, 2012.
+[20] R. Rajeev, T. Madhu Trivikram, K. P. M. Rishad, V. Narayanan, E.
+Krishnakumar, and M. Krishnamurthy, “A compact laser-driven 
+plasma accelerator for megaelectronvolt-energy neutral atoms,” Nat 
+Phys, vol. 9, no. 3, pp. 185–190, Mar. 2013.
+[21] A. K. Plappally and J. H. Lienhard V, “Energy requirements for
+water production, treatment, end use, reclamation, and disposal,” 
+Renew. Sustain. Energy Rev., vol. 16, no. 7, pp. 4818–4848, Sep. 2012.
+Obwoya, F. Nyongesa, A. Maiga, A. Soboyejo, S. Logothetis, and W. 
+Soboyejo, “Porosity, Flow, and Filtration Characteristics of Frustum-
+Shaped Ceramic Water Filters,” J. Environ. Eng., vol. 139, no. 7, pp. 
+986–994, Oct. 2012.
+[23] A. K. Plappally and J. H. Lienhard, “Costs for water supply,
+treatment, end-use and reclamation,” Desalin. Water Treat., vol. 51, no. 
+1–3, pp. 200–232, Jan. 2013.
+[24] A. K. Plapally, Ankur Hasija, “Water Use and Related Costs at
+Households in Western and Northern Parts of India,” J. Waste Water 
+Treat. Anal., vol. 04, no. 03, 2013.
+[25] B. Pratiher, “Tuning the Nonlinear Behaviour of Resonant MEMS
+Sensors Actuated Electrically,” Procedia Eng., vol. 47, pp. 9–12, Jan. 
+2012.
+
+[26] S. K. Dwivedy and B. Pratiher, “Reply to the ‘Comments on
+parametric instability of a cantilever beam with magnetic field and 
+periodic axial load,’” J. Sound Vib., vol. 331, no. 6, pp. 1465–1466, Mar. 
+2012.
+[27] B. Pratiher and S. Bhowmick, “Nonlinear dynamic analysis of a
+Cartesian manipulator carrying an end effector placed at an 
+intermediate position,” Nonlinear Dyn., vol. 69, no. 1–2, pp. 539–553, 
+2012.
+Centre of Excellence on Information & Communication Technologies
+[28] D. J. Leith, P. Clifford, V. Badarla, and D. Malone, “WLAN channel
+selection without communication,” Comput. Networks, vol. 56, no. 4, 
+pp. 1424–1441, Mar. 2012.
+[29] D. Fulwani, B. Bandyopadhyay, and L. Fridman, “Non-linear sliding
+surface: towards high performance robust control,” IET Control 
+Theory Appl., vol. 6, no. 2, p. 235, 2012.
+[30] S. Bag and G. Harit, “A survey on optical character recognition for
+Bangla and Devanagari scripts,” Sadhana, vol. 38, no. 1, pp. 133–168, 
+2013.
+[31] P. K. Mishra, A. Mishra, K. S. Mishra, and A. K. Tripathi,
+“Benchmarking 
+the 
+clustering 
+algorithms 
+for 
+multiprocessor
+environments using dynamic priority of modules,” Appl. Math. 
+Model., vol. 36, no. 12, pp. 6243–6263, Dec. 2012.
+[32] V. S. Chourasia, A. K. Tiwari, and R. Gangopadhyay, “Spectral
+analysis of fetal heart sounds in healthy and pathological subjects.,” 
+IJMEI, vol. 4, no. 2, pp. 125–139, 2012.
+[33] P. K. Mishra, K. S. Mishra, A. Mishra, and A. K. Tripathi, “A
+randomized scheduling algorithm for multiprocessor environments,” 
+Parallel Process. Lett., vol. 22, no. 04, p. 1250015, Dec. 2012.
+[34] V. S. Chourasia, A. K. Tiwari, Ranjan Gangopadhyay, "Adaptive
+Neuro-Fuzzy inference system for antepartum antenatal care using 
+phonocardiography", International Journal of Biomedical Engineering & 
+Technology, vol. 8, no. 4, 357-374, 2012.
+[35] V. 
+S. 
+Chourasia, 
+A. 
+K. 
+Tiwari, 
+Ranjan 
+Gangopadhyay,
+"Implementation of fetal e-health monitoring system through 
+biotelemetry", International Journal of Electronic Healthcare, vol. 7, 
+no. 1, 36-52, 2012.
+
+P. Tongwa, D. K. Hwang, S. Singh, H. Wang, S. P. Tiwari, Y.-L. Loo, 
+J.-L. Brédas, B. Kippelen, T. Timofeeva, and S. R. Marder, “Benzo[1,2-
+b:6,5-b′]dithiophene(dithiazole)-4,5-dione 
+derivatives: 
+synthesis,
+electronic properties, crystal packing and charge transport,” J. Mater. 
+Chem. C, vol. 1, no. 7, p. 1467, 2013.
+Barlow, S. R. Marder, and B. Kippelen, “Complementary-like 
+inverters based on an ambipolar solution-processed molecular 
+bis(naphthalene diimide)-dithienopyrrole derivative,” Org. Electron., 
+vol. 13, no. 7, pp. 1166–1170, Jul. 2012.
+Kippelen, and S. R. Marder, “Polynorbornenes with pendant 
+perylene diimides for organic electronic applications,” Polym. Chem., 
+vol. 3, no. 10, p. 2996, 2012.
+Centre of Excellence on Systems Science
+[39] B. Adhikari, “Vector space of linearizations for the quadratic two-
+parameter matrix polynomial,” Linear Multilinear Algebr., vol. 61, no. 
+5, pp. 603–616, Jul. 2012.
+[40] A. Kumar, S. Adhikari, and P. Agrawal, “Generalized form of
+optimal teleportation witnesses,” Quantum Inf. Process., vol. 12, no. 7, 
+pp. 2475–2485, 2013.
+[41] T. Pramanik, S. Adhikari, A. S. Majumdar, and D. Home, “Testing
+nonlocality of single photons using cavities,” Phys. Lett. A, vol. 376, 
+no. 4, pp. 344–348, 2012.
+[42] N. Ganguly, S. Adhikari, and A. S. Majumdar, “Common
+entanglement witnesses and their characteristics,” Quantum Inf. 
+Process., vol. 12, no. 1, pp. 425–436, 2013.
+[43] A. K. Alok and S. Gangal, “b→s decays in a model with Z-mediated
+flavor changing neutral current,” Phys. Rev. D, vol. 86, no. 11, p. 
+114009, Dec. 2012.
+[44] C. M. Chandrashekar, S. K. Goyal, and S. Banerjee, “Entanglement
+Generation in Spatially Separated Systems Using Quantum Walk,” 
+vol. 2012, no. June, pp. 15–22, 2012.
+
+[45] S. N. Sandhya and S. Banerjee, “Geometric phase: an indicator of
+[46] S. Omkar, R. Srikanth, and S. Banerjee, “Dissipative and non-
+dissipative single-qubit channels: dynamics and geometry,” Quantum 
+Inf. Process., vol. 12, no. 12, pp. 3725–3744, 2013.
+[47] H. Shekhar, S. Banerjee, and A. Chatterjee, “Controllable quantum
+correlations of two-photon states generated using classically driven 
+three-level atoms,” Ann. Phys. (N. Y)., vol. 331, pp. 97–109, 2013.
+[48] S. Adhikari and S. Banerjee, “Operational meaning of discord in
+terms of teleportation fidelity,” Phys. Rev. A, vol. 86, no. 6, p. 062313, 
+Dec. 2012.
+[49] S. Banerjee, C. M. Chandrashekar, and A. K. Pati, “Enhancement of
+geometric phase by frustration of decoherence: A Parrondo-like 
+effect,” Phys. Rev. A, vol. 87, no. 4, p. 042119, Apr. 2013.
+[50] S. Valiavalappil and S. Harinipriya, “Electrically conducting nylon
+6,6–polyaniline short composite fibres synthesised by the solvent 
+coagulation method,” Synth. Met., vol. 162, no. 23, pp. 2027–2032, 
+Dec. 2012.
+[51] K. R. Hiremath, L. Zschiedrich, and F. Schmidt, “Numerical solution
+of nonlocal hydrodynamic Drude model for arbitrary shaped nano-
+plasmonic structures using Nédélec finite elements,” J. Comput. Phys., 
+vol. 231, no. 17, pp. 5890–5896, Jul. 2012.
+[52] E. F. Franchimon, K. R. Hiremath, R. Stoffer, and M. Hammer,
+“Interaction of whispering gallery modes in integrated optical 
+microring or microdisk circuits: hybrid coupled mode theory model,” 
+J. Opt. Soc. Am. B, vol. 30, no. 4, p. 1048, Mar. 2013.
+[53] M. Mazumdar and D. S. Banerjee, “On price discrimination, parallel
+trade and the availability of patented drugs in developing countries,” 
+Int. Rev. Law Econ., vol. 32, no. 1, pp. 188–195, Mar. 2012.
+[54] M. D. Shrimali and S. Banerjee, “Commun Nonlinear Sci Numer
+Simulat Delayed q-deformed logistic map,” Commun. Nonlinear Sci. 
+Numer. Simul., vol. 18, no. 11, pp. 3126–3133, 2013.
+
+Conference Presentations and Publications
+1. Rakesh K. Sarma, Piyush Sharma, Digpal Kumar, Laltu Chandra, P.
+Pradeep Kumar and Rajiv Shekhar, “On the applications of heat and fluid 
+flow 
+for 
+designing 
+solar 
+thermal 
+sub-systems”, 
+Proceedings 
+of
+International 
+Congress 
+on 
+Renewable 
+Energy 
+2012, 
+PDPU,
+2. Agarwal, R. V. Maitri, P. Garg, Laltu Chandra, “Design and Analyses of
+Earth-air Heat Exchange Systems for Space Cooling”, Proceedings of IEEE 
+Third International Conference Sustainable Energy Technologies 
+(10.1109/ICSET.2012.6357430, 385 - 390 , 2012, IEEE) 2012, Kathmandu, 
+Nepal .
+3. Ambesh Dixit, Brajesh Tiwari, M. S. Ramachandran Rao, “Non-collinear
+Weak Ferromagnetism in LaCrO3: a Theoretical Study”, Proceedings of the 
+DAE-BRNS 4th Interdisciplinary Symposium on Materials Chemistry, 
+11-15 Dec, 2012, BARC Mumbai.
+4. E. Abdelhamid, R. Mukherjee, D. Mishra, Ambesh Dixit, B. Nadgorny,
+G. Lawes, “UV induced stable conductivity in Indium Oxide films”, APS 
+March Meeting, V. 58, No. 1, 18-22 Mar, 2013, Baltimore, USA.
+5. Ching Eng Png ; Vivek Dixit ; Soon Thor Lim and Er-Ping Li,
+"Accurate high-speed eye diagram simulation of silicon-based modulators ", 
+Proceedings of the SPIE 8629, Silicon Photonics VIII, 86290S (March 14, 
+2013);
+6. Kensuke Ogawa ; Kazuhiro Goi ; Hiroyuki Kusaka ; Yoshihiro Terada ;
+Tsung-Yang Liow, Vivek Dixit et al., "Low-loss high-speed silicon Mach-
+Zehnder modulator for optical-fiber telecommunications ", Proceedings of 
+the SPIE 8629, Silicon Photonics VIII, 86290U (March 14, 2013);
+7. Soon Thor Lim ; Maoqing Xin ; Ching Eng Png ; Vivek Dixit and
+Aaron J. Danner, "Hybrid silicon organic high speed electro-optic phase 
+shifter ", Proceedings of the SPIE8619, Physics and Simulation of 
+Optoelectronic Devices XXI, 86191K (March 14, 2013)
+8. Udit Roy, Gaurav Harit, “Text Detection on Camera Acquired Document
+Images using Supervised Classification of Connected Components in Wavelet 
+Domain”, Proceedings of the International Conference on Pattern 
+Recognition (ICPR), 11-15 Nov, 2012, Tsukuba Science City, Japan.
+
+9. Gaurav Harit, Anukriti Bansal, “Table Detection in Document Images
+using Header and Trailer Patterns”, Proceedings of the Indian Conference 
+on Computer Vision, Graphics and Image Processing (ICVGIP), 16-19 
+Dec, 2012, Mumbai.
+10. K. R. Hiremath, L. Zschiedrich, S. Burger, and F. Schmidt, “Nonlocal
+hydrodynamic Drude resonances of nano-plasmonic scatterers: Modeling and 
+simulations”, Proceedings of the ECIO, 18-20 April, 2012, Sitges, Spain.
+11. Sushmita Jha, “Debris clearance in the brain: Implications for inflammation
+and repair”, Proceedings of the Young Investigator’s Meeting (YIM) 
+Jodhpur, India bioscience.org, 09-13 Feb, 2013.
+12. Pura Ram, A.K. Plapally, George, K.J.“Assessment of Household Water
+Use Based on Personal Values, Social Influence and Daily Routines of People 
+at Jodhpur near Thar Desert in India”, Proceedings of Watech Asia, 1, 11-
+18, 13-14 Feb, 2013, Mumbai.
+13. Barun Pratiher, “Tuning the Nonlinear Behaviour of Resonant MEMS
+Sensors Actuated Electrically”, Proceedings of EUROSENSORS , 
+Wroclaw University of Technology , 09-12 Sep, 2012, Krakow, Poland.
+14. B. Ravindra, “Amorphous silicon based roof top and building integrated
+photovoltaic plants”, Proceedings of National conference on advances in 
+nanomaterials and nanotechnology for renewable energy conversion 
+and storage devices, ANNRECSO-12 held at Kukas, Jaipur, 2012.
+15. Ashutosh Singla, Jaya Shukla, Anil Kumar Tiwari, Sunil Prasad
+Jaiswal, Vinit Jakhetiya, “Adaptive Predictor Structures for Lossless 
+Compression of Videos”, 22nd IEEE Data Compression Conference, 410, 
+10-12 April, 2012, Salt Lake City, USA.
+16. Ashutosh Singla, Anil Kumar Tiwari, Sunil Prasad Jaiswal, Vinit
+Jakhetiya, “Adaptive Predictor Structures for Lossless Compression of 
+Videos”, Proceedings of the IEEE Data Compression Conference (DCC), 
+410, 10-12 April, 2012, Salt Lake City, USA.
+17. Vinit Jakhetiya, Sunil Prasad Jaiswal, Ashutosh Singla, Anil Kumar
+Tiwari, “A Lossless Image Prediction Algorithm using Slope Estimation and 
+Least Square Optimization”, Proceedings of 29th IEEE International 
+Instrumentation and Measurement Technology Conference, 1567 - 
+1570, 13-16 May, 2012, Graz, Austria.
+
+18. Vinit Jakhetiya, Sunil Prasad Jaiswal, Ayush Kumar, Anil Kumar
+Tiwari, “A Low Complex Context Based Image Interpolation Algorithm For 
+Natural 
+Images”, 
+Proceedings 
+of 
+the 
+29th 
+IEEE 
+International
+Instrumentation and Measurement Technology Conference, 969-972, 
+13-16 May, 2012, Graz, Austria.
+19. Sunil Prasad Jaiswal, Vinit Jakhetiya, Ayush Kumar, Anil Kumar
+Tiwari, “A Low Complex Context Adaptive Image Interpolation Algorithm 
+For Real-Time Applications”, Proceedings of the IEEE International 
+Instrumentation and Measurement Technology Conference (I2MTC), 1-
+4, 13-16 May, 2012, Graz, Austria.
+20. Vinit Jakhetiya, Sunil Prasad Jaiswal, Anil Kumar Tiwari, Oscar C.
+AU, “Interpolation Based Symmetrical Predictor Structure For Lossless 
+Image Coding”, Proceedings of the IEEE International Symposium on 
+Circuits and Systems, 2913 - 2916, 20-23 May, 2012, Seoul, Korea.
+21. Vinit Jakhetiya, Sunil Prasad Jaiswal, Anil Kumar Tiwari, Oscar C. Au,
+“Interpolation Based Symmetrical Predictor Structure For Lossless Image 
+Coding”, Proceedings of the IEEE International Symposium on Circuits 
+and Systems, 2913-2916, 20-23 May, 2012, Seoul, Korea.
+22. Gaurav Mittal, Vinit Jakhetiya, Sunil Prasad Jaiswal, Anil Kumar
+Tiwari, Oscar C. Au, “Bit-Depth Expansion Using Minimum Risk Based 
+Classification, IEEE Visual Communication and Image Processing”, 27-30 
+Nov, 2012, San Deigo.
+23. Juhi Bhadviya, Sunil Prasad Jaiswal, Vinit Jakhetiya, Anil Kumar
+Tiwari, “Exploitation of Temporal Redundancy for Lossless Video Coding”, 
+Proceedings of the biennial IEEE APCCAS 2012, 663-666, 02-05 Dec, 
+2012, Taiwan.
+24. Ayush Kumar, Nimisha Agarwal, Juhi Bhadviya, Anil Kumar Tiwari,
+“An efficient 2-D jacobian iteration modeling for image interpolation”, 
+Proceedings of the 19th IEEE International Conference on Electronics, 
+Circuits and Systems, 977-980, 09-12 Dec, 2012, Seville, Spain.
+
+Prem Kumar
+Kalra Professor
+&
+Director University of
+Manitoba,
+Canada Electrical Engineering: Power
+Abhishek
+Mishra Assistant
+Professor IIT BHU Computer Science and
+Akhilesh
+Mohan Assistant
+Professor IIT Kanpur Electrical Engineering: RF and
+Ambesh Dixit Assistant
+Professor Wayne State
+University Physics: Semiconductors,
+Amit Mishra Assistant
+Professor National Cellular and Molecular
+Neuroscience, Cell Cycle
+Regulation and Cancer Cellular and Molecular
+Brain Neuroscience, Cell Cycle
+Research Regulation and Cancer
+Faculty Members and Specializations
+
+Anand
+Krishnan
+Plappally Assistant
+Professor Ohio State
+University Mechanical Engineering:
+Ananya
+Debnath Assistant
+Professor Indian
+Institute of
+Science,
+Bangalore Multi-scale Modeling, Protein-
+Ankita Sharma Assistant
+Professor BHU Psychology:Gerontology,
+Anil Kumar
+Tiwari Assistant
+Professor IIT
+Kharagpur Electrical Engineering: Image
+Ansu Louis Assistant
+Professor IIT Kanpur English: American Literature,
+Arnab Datta Assistant
+Professor IIT Bombay Electrical Engineering:Electrical
+Ashutosh
+Kumar Alok Assistant
+Professor IIT Bombay Physics: Particle Physics and
+Cosmology Physics: Particle Physics and
+
+Atul Dubey Assistant
+Professor Rutgers
+University,
+USA Mechanical Engineering:
+Atul Kumar Assistant
+Professor IIT Madras Chemistry: Quantum
+Information Processing Chemistry: Quantum
+Ravindra
+Brammajyosula Associate
+Professor IIT Kanpur Mechanical Engineering:
+Barun Pratiher Assistant
+Professor IIT Guwahati Mechanical Engineering:
+Bibhas
+Adhikari Assistant
+Professor IIT Guwahati Mathematics & Statistics:
+Deepakkumar
+M. Fulwani Assistant
+Professor IIT Bombay Electrical Engineering: Control
+Gaurav Harit Assistant
+Professor IIT Delhi Computer Science &
+Gourishankar S
+Hiremath Assistant
+Professor University of
+Hyderabad Economics:Financial
+
+Hari
+Narayanan, V. Assistant
+Professor IIT Kanpur Philosophy: Cognitive Studies,
+Evolutionary Theory, Analytic
+Philosophy and Mindfullness
+George Assistant
+Professor IIT Kanpur Philosophy:Applied Ethics,
+Ethics of Technology, Bioethics
+Kamal Kumar
+Dua Kamal Kumar Visiting
+Faculty Zoology(Environmental
+Pollution), Bioethics
+Kirankumar
+Rajshekhar
+Hiremath Assistant
+Professor University of
+Twente (The
+Netherlands) Mathematics & Statistics:
+Laltu Chandra Assistant
+Professor Forschungsze
+ntrum
+Karlsruhe
+GmbH &
+University of
+Karlsruhe,
+Germany Mechanical Engineering : Solar
+Mainak
+Mazumdar Assistant
+Professor Instiute for
+Social and
+Economic
+Change
+(ISEC) Economics: Intellectual
+Mahesh Kumar Assistant
+Professor IISc
+Bangalore Physics:Group III-V quantum
+
+Manikandan
+Paranjothy Assistant
+Professor IIT Kanpur Chemistry: Theoretical and
+Manish Dev
+Shrimali Assistant
+Professor JNU Physics: Nonlinear Dynamics
+and Chaos, Complex Systems,
+Computational Neuroscience Physics: Nonlinear Dynamics
+Meenu
+Chhabra Assistant
+Professor IIT Delhi Biological Science & Bio-
+Monika Sinha Assistant
+Professor Jadavpur
+University Physics: Astrophysics,
+Astroparticle physics Physics: Astrophysics,
+Pradeep
+Kumar, P. Assistant
+Professor IIT Bombay Mechanical Engineering:
+Thermal hydraulics, Solar
+thermal system, Microfluidics
+Puneet Sharma Assistant
+Professor IIT Delhi Mathematics & Statistics:
+Topological Dynamics, Low
+Dimensional Chaos
+Pushkar
+Shripad
+Joglekar Assistant
+Professor Institute of Computer Science &
+Engineering: Computational
+Complexity, Algorithms.
+Prodyut Ranjan
+Chakraborty Visiting
+Faculty IISc
+Bangalore IISc Mechanical Engineering:Heat
+Bangalore and mass transfer, Latent heat
+Rahul Chhibber Assistant
+Professor IIT Roorkee Mechanical Engineering:
+Rahul Singhal Visiting Delhi
+University Energy, Biosensors Energy, Biosensors
+
+Rajiv Shekhar Visiting University of
+California Energy
+Rakesh Kumar
+Sharma Assistant
+Professor Assistant Indian
+Institute of
+Science Chemistry: Water splitting
+Professor catalysis, solar hydrogen
+Ravindra Arora Professor TU Dresden,
+Germany Electrical Engineering:
+Rakesh Saxena Visiting Mechanical Engineering Mechanical Engineering
+Samanvita Pal Assistant
+Professor Assistant IIT Madras Chemistry: Solution and solid
+Professor state NMR and NQR
+Sandeep
+Kumar Yadav Assistant
+Professor IIT Kanpur Electrical Engineering: Signal
+Satyabrata
+Adhikari Assistant
+Professor Bengal Mathematics & Statistics:
+Quantum Information Mathematics & Statistics:
+Engineering Quantum Information
+Satyajit Sahu Assistant Jadavpur Physics: Information Processing
+Professor University in Biological Systems
+
+Shaligram
+Tiwari Visiting
+Faculty IIT Kanpur Mechanical Engineering: Heat
+Harinipriya
+Seshadri Assistant
+Professor IIT Madras Chemistry: Lithium ion
+batteries, fuel cells, electro-
+deposition, Thermal storage
+systems, Monte Carlo
+simulations, Materials synthesis
+and characterisation
+Shanmuganath
+an Raman Assistant
+Professor IIT Bombay Electrical Engineering :
+Shree Prakash
+Tiwari Assistant
+Professor IIT Bombay Electrical Engineering:
+Sonam
+Mehrotra Assistant
+Professor Rutgers, New
+Brunswick,
+U.S.A Biological Science & Bio-
+Subhashish
+Banerjee Assistant
+Professor JNU Physics: Open Quantum
+Sushmita Jha Assistant
+Professor University of Cellular and Molecular
+Neuroscience: Cellular and
+molecular Neuroscience, Cell
+and molecular Physiology Cellular and Molecular
+North Neuroscience: Cellular and
+Carolina at molecular Neuroscience, Cell
+Chapel Hill, and molecular Physiology
+
+VenkataRamana
+Badarla Assistant
+Professor IIT Madras Computer Science &
+V. Narayanan Assistant
+Professor IIT Kanpur Physics: Optics and Solar Field
+Vidya
+Sarveswaran Assistant
+Professor IIT Madras English: Literature and
+Vivek
+Vijayvargiya Assistant
+Professor IIT Madras Mathematics & Statistics:
+Vivek Dixit Assistant
+Professor National
+University of
+Singapore Electrical Engineering:
+
+V.V.M. Sarma
+Chandramouli Assistant
+Professor SUNY at Mathematics & Statistics:
+Smooth Dynamical Systems,
+Renormalization of Unimodal
+maps and Henon-like maps
+Institute Staff
+Name Designation
+Dr. Kshema Prakash 
+Deputy Librarian
+Amardeep Sharma 
+Assistant Registrar
+Balu Ram Jat 
+Audit Officer
+Ashish Kachhawaha 
+Account Officer
+Gaurav Nigam 
+Superintendent
+Sandeep Singh Chandel 
+Superintendent
+Sudesh Kumar Agnihotri 
+Jr. Superintendent
+Sandeep Pareek 
+Jr. Superintendent
+Himanshu Sharma 
+Jr. Superintendent
+Sharabh Pradhan 
+Jr. Superintendent
+Naresh Chauhan 
+Jr. Account Officer
+Swati Kushwaha 
+Jr. Assistant
+Dhani Ram 
+Jr. Assistant
+Vinay Kumar 
+Jr. Engineer
+Chandresh Pareek 
+Jr. Engineer
+Rajendra Vaishnav 
+Jr. Accountant
+Sharad Srivastava 
+Jr. Accountant
+
+Dr. Leela Dhar Sanwal 
+Medical Officer
+Dr. M.M. Purohit 
+Medical Officer
+Dr. M.S. Charan 
+Medical Officer
+Apesh Singh Deora 
+P.T.I.
+Kamal Kumar 
+P.T.I.
+Rimpesh Katiyar 
+Technical Superintendent
+Narendra Kumar Singh 
+Technical Superintendent
+Amit Kumar Soni 
+Sr. Library Information Assistant
+Dheerendra Yadav 
+Junior Technical Superintendent
+Sanjay 
+Junior Technical Superintendent
+Vijay 
+Junior Technical Superintendent
+Bharat Pareek 
+Junior Technical Superintendent
+Rinkesh K. Mangal 
+Junior Technical Superintendent
+Shailendra Pratap Singh 
+Junior Technical Superintendent
+Poonam Chand Sankhala 
+Junior Technical Superintendent
+Raju Peta 
+Junior Technical Superintendent
+Vivek Verma 
+Jr. Lab Assistant
+Amit Gupta 
+Jr. Lab Assistant
+Pankaj Singh 
+Jr. Technical Lab Assistant
+Anurag Gupta 
+Jr. Technical Lab Assistant
+Praveen Suthar 
+Jr. Technical Lab Assistant
+Ganpat Choudhary 
+Jr. Technical Lab Assistant
+
+Staff appointed through Standing Committee
+Name of Person 
+Designation
+K. K. Mathur 
+Asst.Project Officer
+S. R. Pandey 
+Adviser
+Bimal Roy 
+Project Officer
+Kundan Kumar 
+Project Assistant
+Kavita Dadhich 
+Staff Nurse
+Leena Goyal 
+Staff Nurse
+Neeraj Gupta 
+Consultant
+Gaurav Mathur 
+Asst.Project Officer
+Rajendra Prasad Utrelia 
+Technical Assistant
+Radheshyam 
+Sr Project Associate
+Krishan Kumar 
+Junior Assistant
+Priyanka Choudhary 
+Health Assistant
+R. K. Jain 
+Technical Assistant
+D. D. Singh 
+Technical Assistant
+Chanchal Khandelval 
+Dy.Project Manager
+
+Student Activities
+ Unique Governance System (SCHoD)
+ Major Student Events 
+ National Festivals 
+ Parivartan 
+ Counselling Service 
+ Student Placement Cell 
+ Alumni Association 
+ List of Students
+
+Unique Governance System: SCHoD
+Students’ Council for Holistic Development (SCHoD) is the regulatory body 
+which facilitates and governs all student activities at IIT Jodhpur. With 
+advisory support from the faculty, the SCHoD is run entirely by students. The 
+elected leader of the SCHoD is the president. Apart from acting as the 
+governing body for all the concerns of the students, SCHoD coordinates the 
+activities of five different councils:
+1. NUTS: Nurturing and Understanding Technology and Science 
+2. PROM: Promotion Relations Occasion Management 
+3. WAVES: Writing Awareness Vocal Entertainment Social Awareness 
+4. SAGE: Sports Adventure Games And Exploration 
+5. MAD: Media Arts & Designing
+These councils work collectively together and is headed and run by the 
+students for the students. The councils run the extra-curricular activities in the 
+campus. Each council has various clubs through which it functions and 
+performs it various activities.
+Cultural, Technical, Sports, Media and Management constitute the entire 
+activities of SCHoD. SCHoD has something to catch the attention of each and 
+every student of IIT Jodhpur. The SCHoD is responsible for planning, 
+designing and executing intra as well as inter collegiate events.
+Nurturing and Understanding Technology and Science (NUTS)
+NUTS is a part of Student’s body SCHoD and provides students an 
+opportunity to explore the amazing world of technology, in order to innovate, 
+to learn, to create, and to try out new things and at the same time have loads 
+and loads of fun. This is a platform for one to realize his/her dream and to 
+develop the next generation technology.
+NUTS urges everyone to think beyond conventional boundaries. It also 
+provides support and opportunity to help one unleash his/her imagination 
+and an ideal platform to showcase one’s talent. NUTS members rightly say, 
+“We make things fly, we build electronic gadgets, our own communication 
+devices, we dare to stare deep into the sky not only to admire the cosmic 
+wonder, but a lot more; we write our own codes, and we do make our own 
+robots”.
+
+Media, Arts and Designing (MAD)
+“Media, Arts and Designing” is one of the most active students’ councils of 
+IIT Jodhpur. Under the MAD council five clubs function very efficiently and 
+smoothly with the help of an official coordinator and an assistant coordinator 
+besides the student volunteers. All the clubs are under the direct supervision 
+of the General Executive of the council. The following clubs function under 
+the MAD Council:
+ 
+Photography and Photo-editing Club.
+ 
+Video Editing Club
+ 
+Fine Arts Club
+ 
+Media Screening
+ 
+Animation
+
+Writing, Awareness, Vocals, Entertainment and Social awareness (WAVES)
+The WAVES cell is responsible for conducting several events and for 
+providing several avenues for students to express their freedom and 
+creativity. These events include workshops and competitions, helping 
+students showcase, as well as hone their talents. The following clubs function 
+under the WAVES cell:
+ 
+The Music Club: It is the haven for the musically inclined, dealing with the 
+entire musical spectrum, from Hindustani to Western, vocals and 
+instrumentals.
+ 
+The Dance Club: It consists of an extremely competitive team that has 
+performed at festivals across the country.
+ 
+The Drama Club: It produces a wide variety of plays, including comedy and 
+Nukkad (street plays) that raise awareness about burning social issues.
+Sports, Adventures, Games, and Explorations (SAGE)
+Sports, Adventures, Games and Explorations is an organization dedicated to 
+the improvement of traditional sports education and to the configuring of a 
+unique sports culture through various competitions, festivals, disciplines, and 
+social integration programmes. The SAGE seeks to develop a system that 
+brings a healthier way of life to our student athletes, helps them make better 
+decisions, feel a winning attitude, and assists them in developing their skills 
+and abilities, thereby making them better human beings.
+Sports council with its fabulous performance in consecutive four Inter IIT 
+festivals has motivated each and every student of the institute to be a part of it 
+and contribute to it even further. The SAGE has been successfully organizing 
+various inter college and intra college festivals in every academic session like 
+Varchas and Kridansh. The SAGE also has the recreational clubs such as 
+Adventure Club, Carom Club, Chess Club, Bridge Club, Skating Club, and 
+the Yoga Club.
+Promotion Relation Occasion Management (PROM)
+Promotion Relation Occasion Management, (PROM), is the 5th and newest cell 
+of IIT Jodhpur’s Students Council for Holistic Development. A very non-
+technical cell, PROM deals with the managerial and social aspects of a 
+student’s life in IIT Jodhpur. In today’s overly competitive world, a student
+
+not only needs to be technically sound, but also has to be capable of putting 
+the deal across the table, and making a generally good impression among 
+their peers, superiors and juniors. A successful person today is recognised by 
+the ease of communication, body language, punctuality, self-confidence and 
+motivational capabilities, as well as proficiency in their field of interest. At IIT 
+Jodhpur, students, through their academics and other extra-curricular 
+activities, attain technical proficiency of the highest level. With the inception 
+of PROM, it is absolutely certain that the students walking out of this campus 
+will also be able to take control and execute activities and jobs as required 
+from them. At IIT Jodhpur, a student will, thus, participate in events 
+technical, cultural, or sporty in nature, while also learning how to plan, 
+organise, conduct and execute such events. Students will also get an 
+opportunity to express and experience as they move from under-graduate 
+students to mature, full-grown individual personalities. PROM provides a 
+platform for budding businessmen, entrepreneurs, and managers. It 
+inculcates in the individual a sense of responsibility and purpose, and helps 
+them decide a plan of action to go about tackling various obstacles.
+Major Student Events
+The students were successful in nurturing a culture filled with energy and 
+initiative. Students have organized several events, which served as a medium 
+of communication and bonding amongst themselves, given their variegated 
+background and ethnicity. Several major festivals like Diwali, Sankranti, Eid, 
+Holi and Ganesh Chaturthi were celebrated with great enthusiasm. Various 
+sports activities were also regularly conducted to encourage sportsmanship. 
+The faculty members were greatly supportive and promoted these activities. 
+The following are some of the major student activities that had taken place in 
+the campus in the year 2012-2013.
+Spandan
+Spandan, the annual intra-college cultural fiesta of Indian Institute of 
+Technology, Jodhpur was organized from the 17-19 September, 2012. The 
+theme for this year’s festival was 'Scary'. The beginning of the event was 
+marked by a wonderful musical extravaganza by Grammy Award winner, the 
+guitar player, Pandit Vishwa Mohan Bhatt followed by an astounding music 
+show by famous Sarangi player, Dr. Deepak Paramashivan Kaundinya.
+
+The fest had a plethora of events & competitions, and filled with a surfeit of 
+literature and musical events, besides other creative activities like movie 
+scene spoofing, debates and skit presentations. The fest culminated into a 
+grand event with the visit of an Indian filmmaker, a fashion designer, a poet, 
+an artist, a music-lover, a revivalist, and a social worker, Rajah Mujaffar Ali 
+along with his wife Meera Ali which triggered the sensation of love and 
+respect towards the rich and varied Indian cultural heritage. In Mr. Ali's 
+words, "Faith in god sets you free of all fears. Art and all that relates to art 
+creates a spell binding impact on individuals. It has the power and energy to 
+relieve all humanity of terror and generate confidence and peace." With these 
+words, he guided us with his experience and ideas to begin with the new 
+branch on "Art, Culture and Heritage" in IITJ.
+NiMBLE
+The intra-college technical festival of IIT Jodhpur, NiMBLE was celebrated 
+from 02-04 November, 2012. It was a worth remembering time and an 
+opportunity to get people acquainted with the open web technologies. A few 
+days just before Nimble 2012, a session for people to get to know the ways in 
+which they can start contributing to Mozilla was organized. The student 
+enthusiasm and participation was unmatched. Major events in this techno-fest 
+were Kill Flash, Web Clone, etc.
+
+This event saw a real quality of ideas that emerged from young minds. It has 
+been a first-hand experience to students in carving out some useful apps 
+purely on web technologies.
+Ignus
+Ignus 2013 was the third annual socio-techno-cultural festival of IIT Jodhpur 
+which took place from Feb 21-24, 2013 organized in association with Bank of 
+India. This year Ignus saw huge participation from students, corporate houses 
+and government bodies. More than 4000 students from 22 cities across the 
+nation participated in the festival. Living to its tradition of classical melody 
+this year the Sitar Maestro Shubendra Rao performed at the opening 
+ceremony. The performance of Hindi Band ‘Agnee’ and the famous 
+Bollywood singer ‘Rabbi Shergill’ on the subsequent nights were the key 
+attraction of the whole festival. The competition ‘Clash of Band’ emerged as 
+the largest Semi Professional Rock Band Competition of Rajasthan. This year 
+Ignus held its first ever Technical Expo which enjoyed huge participation 
+from students as well as corporate bodies. Industry leaders like Bosch, Tata 
+Motors, DRDO presented their exhibits during the expo. Ignus also witnessed 
+talk by Nobel Prize winner Dr. Adam Guy Riess in the guest lectures. More 
+than 70 cultural and technical events were organized during the four days of 
+the festival. In its spirit to promote entrepreneurship, IIT Jodhpur also hosted 
+IITJ E- Conclave in association with the government of Rajasthan during 
+Ignus. This year Ignus also took the challenge to create environment 
+awareness through its social initiative ‘Prakriti’ in association with the 
+Jodhpur Development Authority where the team spanned across schools in 
+Jodhpur to sensitize students about the impact of our activities on 
+environment.
+
+The event involved participation in various sports from more than 100
+Varchas
+Varchas is the annual sports festival of IIT Jodhpur. Being the largest sports 
+festival of Rajasthan, Varchas celebrates the spirit of sportsmanship and 
+serves as a platform to showcase the countless hours of perspiration put in by 
+teams to achieve excellence in their sports. Varchas encompasses several 
+sports competitions under its banner.
+Besides sports events, IIT Jodhpur also organizes a social initiative and a 
+health initiative under the banner of VARCHAS. They are:
+
+ Soch: It is a social initiative of Varchas where we have successfully
+developed a platform to spread awareness and motivate citizens to 
+take a collective stand against contemporary social issues prevailing in 
+our society and come up with practical solutions.
+ City Marathon: IIT Jodhpur has been successful in starting a trend of
+organising a city marathon every year with a vision to spread social 
+awareness and solidarity among the individuals. The concluding year 
+marathon was organised in association with Rajasthan Police and was 
+flagged by Mr. Gaurav Goyal, collector and DM, Jodhpur.
+VARCHAS has truly justified its credo year after year – “Vigour Valour 
+Victory”.
+National Festivals
+Independence Day Celebrations
+Independence 
+Day 
+was
+celebrated in the Institute on 15 
+August 2012 with a great spirit of 
+patriotism. The Director, faculty 
+members, 
+staff 
+and 
+students
+participated in it. The function 
+started at 9.15 am on the morning 
+of August 15 at the Academic 
+campus 
+with 
+the 
+Director
+hoisting 
+our 
+national 
+flag,
+followed by our national anthem 
+and 
+Director’s 
+address. 
+The
+students 
+organized 
+various
+cultural 
+programmes 
+like
+performance of IITJ musical band 
+‘Sangam’, recitation of patriotic 
+poems, 
+speeches, 
+dance 
+and
+street play performance by our 
+students’ dance and dramatics 
+club, etc. Prizes were distributed
+to students who aced in academics and extra-curricular activities.
+
+Gandhi Jayanthi Celebrations
+IIT Jodhpur community gathered on 02 October 2012 to celebrate the birthday 
+of the father of the nation Mahatma Gandhi, and Lal Bahadur Shastri. The 
+function was illuminated by the inspiring speeches of faculty members and 
+student representatives.
+
+Republic Day Celebrations
+The Republic Day celebration 2013 started with a parade of the security wing, 
+followed by the Director’s hoisting of the national flag. The Director’s address 
+emphasized the significance of the day.
+The celebration witnessed several cultural programmes organized by the 
+students. The best performers among students in various academic and extra-
+curricular activities were felicitated on this occasion.
+Parivartan
+“Parivartan” means to change. PARIVARTAN is an initiative undertaken by 
+IIT Jodhpur Students Community to improve education level and awareness 
+in the poor and deprived section of society through teaching, youth
+
+counselling and parent counselling. Its mission is "To Bridge the Inequality in 
+Society Through Education." These youngsters are working in the direction of 
+making an educated and well informed society around us. It is an initiative to 
+improve education level and awareness in the poor and deprived section of 
+society through teaching, youth counselling, and parent counselling. This 
+team adopts a village which is very poor, where literacy rate is very low, and 
+where basic facilities of life like health, water, shelter, education etc. are not 
+easily available. The objective is to convert that village into a developed 
+village in such a manner that it will represent an ideal model of a developed 
+village in 21st century.
+Parivartan has three verticals around which all its activities revolve which 
+comprises of:
+1. Awareness 
+2. Helping deprived people 
+3. Research and development for a sustainable model of the lesser
+established areas of society.
+Groups of student under the Parivartan team regularly visits nearby areas, 
+conduct activities and study sessions for small children, organize plays to 
+increase awareness among people about various issues related to their beliefs 
+and directly affecting their lifestyle through our inventiveness.
+In 2012, a youth campaign for the nearby villagers, as a part of the 
+“Parivartan” programme.
+
+Counselling Service
+Studying at IIT will bring about tremendous academic growth and overall 
+development; however, it will also be accompanied by significant challenges 
+and considerable stress. Our counselling services team provides personalized 
+guidance and necessary resources to help students under duress to achieve 
+their goals. The counselling service is a voluntary organization formed by a 
+group of dedicated students guided by faculty members. It helps students 
+deal with various problems both personal and academic, and plays a 
+significant role in enriching their experiences as students in the institute.
+The counselling service was formed in the year 2009 by the first batch of 
+students under the supervision of a faculty advisor. Over the years it has 
+evolved into a significant body comprising of seven faculty members and a 
+total of 25 students. Student guides and members of the counselling team are 
+selected through an annual election process. Each student guide is responsible 
+for the wellbeing of 8-10 students from the 1st year undergraduate batch. The 
+counselling service strives for the wellbeing of all students and assists in their 
+academic and personal growth. It provides voluntary, confidential and free 
+counselling for a wide range of issues that include:
+ Academic support: Provides information about the different academic
+programmes of the institute, efficient time management skills, study 
+skills, exam anxiety etc.
+ Personal: Overcoming home-sickness, adjustment to new environment
+
+Company Name Roll No.
+Microsoft India Pvt. Ltd. Akanksha Saran J09006
+Kumar Ashayam Gupta J09052
+Shah Chintan Chirag J09091
+Mayank Agarwal J09059
+Naveen Shrivastava J09064
+Shashank Kumar J09092
+Sumit J09095
+National Instruments Ety Mittal PG201172026
+Ayyer Rishi Kalyan J09025
+Flipkart Akshay Hari Kumar J09009
+Anurup Ganguli J09019
+Satyesh Jha J09088
+Cisco Amit Ranjan Trivedi J09012
+Amol Pol J09014
+Aswin Siva J09023
+Gautam Bajaj J09036
+Vaibhav Jain J09104
+Samsung Software Engineering Lab Ankit Karwasra J09015
+Eshan Jain J09032
+Jogendra Singh J09045
+ Counselling advocacy, psycho-education and referral services to
+students
+ Interaction with the institute and the existing body of students 
+ Encourages students discover extra-curricular interests/hobbies
+Student Placement Cell
+The Student Placement Cell (SPC) is entirely run and managed by the 
+students in harmony with the official authorities, thereby taking care of the 
+entire placement and internship procedure. The students coordinate the job of 
+contacting various companies, their interaction with the students, arranging 
+pre-placement talks, tests, interviews.
+A goof number of companies in core engineering, IT, and banking sector, 
+including Microsoft, National Instruments, Samsung, Flipkart, Infosys, TCS 
+etc. have visited IIT Jodhpur since then. Public sector companies have also 
+participated in campus placements.
+Placement details of 2012-13 are:
+
+Pranay Balar J09070
+Rahul Nahata J09077
+Sonal Gupta J09094
+Zubin Sortee J09109
+Ittiam Systems Pvt. Ld. Syed Faizul Hai J09100
+Larsen & Toubro Kasuvojula Devendar J09048
+Kshitij Kumar J09051
+Honda Cars Bhaskar Puri J09027
+Surendra S Choudhary J09097
+3DPLM Software Solutions Limited Ashish Pandey J09021
+Bhuwanesh Kumawat J09028
+Infosys Ltd. Amrik Singh PG201172001
+Deepak Kumar Gupta PG201172004
+Govind Ram J09039
+Nakul Shashikant Goud PG201172012
+Nikita Chopra J09065
+Prashant Babu J09071
+Saurabh Heda PG201172019
+Shantanav Chakraborty PG201172027
+Zafar Ahmed Ansari PG201172025
+Tata Consultancy Services Rajendra Nagar J09079
+Rajni Yadav J09062
+Cognizant Technology Solutions Abhishek Verma J09004
+Amit Srivastava J09013
+B. Amulya Sai J09026
+Anurag Mitttal J09018
+Darshan Joshi J09046
+Kunal Chelani J09053
+Saurabh Garg J09089
+Y2CF Digital Media Pvt. Ltd. Abhinav Dadhich J09001
+Garima Jain PG201172006
+Naman Joshi PG201172013
+Shobhit Mandloi J09093
+Yatin Mehandiratta PG201172024
+Freescale Semiconductor Sarthak Sharma J09087
+Samsung India Software Center Ankita Samariya PG201172002
+Govind Salvi PG201172008
+Prem Raj J09075
+Rahul Sachan J09078
+Ravi Bhandari PG201172016
+Ravin Kumar Jain J09082
+Umesh Tanwar PG201172023
+
+Nucleus Software Exports Ltd. Ruchi Toshniwal J09084
+Tokala Sai Teja J09102
+CMC Ltd. Rajput Shailendra Shesh
+Kumar J09080
+NTT Data FA Insurance Systems (India) Pvt.
+Ltd. Govind Salvi PG201172008
+Cairn India Jatin Rustagi J09044
+Prashant Kumar Shukla J09073
+Hindustan Petroleum Corporation Limited Akash Deep J09007
+Jatin Goyal J09043
+Nithin Kumar Kokkisa J09067
+Vinay Kumar J09106
+Yogesh Kumar Verma J09108
+DRDO / ADA Akash Deep J09007
+Gaurav Siwach J09035
+Jatin Goyal J09043
+Kiran Kumari J09050
+M.Vidhya Sagar J09055
+Manvendra Singh
+Chauhan J09058
+Mohammed Aquibuddin
+Ahmed J09061
+Pawan Kumar Sharma J09068
+Prafful Gupta J09069
+Sushant Gaurav J09099
+Vinay Kumar J09106
+Samsung India Software Operations Pawan Kumar Sharma J09068
+Mahindra & Mahindra, AFS Pallavi Kar PG201171007
+Indian Oil Corporation Limited Naveen Kumar Gautam J09063
+Prashant Godara J09072
+Pratesh Jhari J09074
+Sanjay Kumar Rajak J09085
+Sunil Saini J09096
+Whizdom Educare Pvt Ltd Himanshu Singhvi PG201172009
+Alumni Association
+An Alumni Association was formed after the first batch of B.Tech. students 
+completed their programme in April 2012, in order to provide them with a 
+platform where they can stay connected to the institute, their fellow alumni, 
+and junior students.
+
+Roll. No. Name Centre
+PG201081501 Belal Usmani Energy
+PG201081502 Dharmendra Singh Rajpurohit Energy
+PG201081504 Suresh Kumar Energy
+PG201082502 Deepak Kumar Chhangani ICT
+PG201181001 Deepesh Patidar Energy
+PG201181003 Pura Ram Energy
+PG201181004 Vikas Pratap Singh Energy
+PG201181005 Vikash Chandra Janu Energy
+PG201181501 Lokesh Saini Energy
+PG201181502 Surendra Singh Barala Energy
+PG201182001 Abhay Samant ICT
+PG201182003 Heena Rathore ICT
+PG201182005 Puneet Kumar Jain ICT
+PG201182006 Ram Niwash Mahia ICT
+PG201182007 Ravi Raj Choudhary ICT
+PG201182009 Sapana Ranwa ICT
+PG201182010 Saurabh Maheshwari ICT
+PG201182011 Sibani Bisoyi ICT
+PG201182501 Amit Bhati ICT
+PG201182502 Kapil Sharma ICT
+PG201182504 Kuldeep Goswami ICT
+PG201182505 Mohd Najim ICT
+PG201182506 Shrivishal Tripathi ICT
+PG201183001 Rohan Sharma SS
+Office of Alumni Relations is the primary co-ordinating centre for all official 
+communication, events and other activities on behalf of the Chairman, 
+Alumni Relations. The Office along with the Students' Alumni Cell is 
+responsible for organizing the Annual Alumni Meet, Distinguished Alumni 
+Awards (during Convocation) and other alumni related events.
+The office works hard to build strong alumni relations and develop a unique 
+platform for an effective communication between the alumni, faculty, 
+students and the institute. The Alumni Relations Office is managed by its 
+Chairman, Dr. Anand Krishnan Plapally along with Coordinator (Students), 
+Dr. Mainak Mazumdar, one staff member and two student members.
+List of Students
+Doctoral Students
+
+PG201183501 Parmod Kumar SS
+PG201183502 Preeti Yadav SS
+PG201281001 Ajay Jain Energy
+PG201281002 Dharmesh Kumar Energy
+PG201281003 Poonam Sharma Energy
+PG201281004 Shejale Kiran Prakash Energy
+PG201282002 Deepak Bharti ICT
+PG201282003 Giriraj Vyas ICT
+PG201282006 Onkar Krishna ICT
+PG201282007 Rakesh Kanji ICT
+PG201282009 Suresh Dahiya ICT
+PG201282010 Vaibhav Saini ICT
+PG201282012 Vibha Sahlot ICT
+PG201282501 Shilpa Pandey ICT
+PG201283001 Anoopa Joshi SS
+PG201283003 Manvendra Sharma SS
+PG201283005 Parvinder Singh SS
+PG201283006 Pradumn Kumar Pandey SS
+PG201283007 Rakesh Kumar SS
+PG201283008 Ranveer Singh SS
+PG201283009 Vinay Pratap Singh SS
+Roll. No. Name Centre
+PG201171001 Akash Yadav Energy
+PG201171003 Anurag Energy
+PG201171004 Digpal Kumar Energy
+PG201171005 Gaurav Hedau Energy
+PG201171006 Nupur Rathore Energy
+PG201171007 Pallavi Kar Energy
+PG201171008 Parag Kamal Talukdar Energy
+PG201171009 Priyanka Bhartiya Energy
+PG201171010 Rakesh Kumar Energy
+PG201171011 Rakesh Sarma Energy
+PG201171012 Ram Niwas Verma Energy
+PG201171013 Shubhi Srivastava Energy
+PG201171014 Vinod Kumar Verma Energy
+PG201171015 Ayyaz Siddique Energy
+M. Tech Students
+
+PG201172001 Amrik Singh ICT
+PG201172002 Ankita Samariya ICT
+PG201172003 Anop Singh ICT
+PG201172004 Deepak Kumar Gupta ICT
+PG201172005 Durgesh Kumar ICT
+PG201172006 Garima Jain ICT
+PG201172007 Gaurav Raj ICT
+PG201172008 Govind Salvi ICT
+PG201172009 Himanshu Singhvi ICT
+PG201172010 Kapil Lahuwa ICT
+PG201172011 Nagabhushan Eswara ICT
+PG201172012 Nakul Shashikant Goud ICT
+PG201172013 Naman Joshi ICT
+PG201172014 Prasad Kulkarni ICT
+PG201172015 Ramnarayan Yadav ICT
+PG201172016 Ravi Bhandari ICT
+PG201172017 Ravi Ranjan ICT
+PG201172018 Satyanarayan Sahu ICT
+PG201172019 Saurabh Heda ICT
+PG201172020 Shahnawaz Abdullah ICT
+PG201172021 Shailendra Soni ICT
+PG201172022 Supratim Shit ICT
+PG201172023 Umesh Tanwar ICT
+PG201172024 Yatin Mehandiratta ICT
+PG201172025 Zafar Ahmed Ansari ICT
+PG201172026 Ety Mittal ICT
+PG201172027 Shantanav Chakraborty ICT
+PG201271001 Avadhesh Kumar Sharma Energy
+PG201271002 Balram Choudhary Energy
+PG201271003 Gurveer Singh Energy
+PG201271005 Rattandeep Singh Energy
+PG201271006 Veenu Kumari Energy
+PG201271008 Zeeshan Ahmed Energy
+PG201271009 Sandeep Gupta Energy
+PG201272001 Ammar Adil ICT
+PG201272002 Deepa ICT
+PG201272004 Hiteshi Jain ICT
+PG201272005 Kulkarni Siddharth Sadanand ICT
+PG201272006 Manjunath Bj ICT
+
+PG201272007 Naresh Kumar Verma ICT
+PG201272009 Satyam Saxena ICT
+PG201272010 Shakti Gaurav ICT
+PG201272011 Shinde Neha Naresh ICT
+PG201272012 Shirish Mishra ICT
+PG201273001 Adarsh Kumar Misra SS
+PG201273002 Brajesh Kumar Shukla SS
+PG201273004 Saloni Sardana SS
+Roll. No. Name Discipline
+J09001 Abhinav Dadhich EE
+J09002 Abhinav Piprotar EE
+J09004 Abhishek Verma EE
+J09005 Ajay Monga CSE
+J09006 Akanksha Saran CSE
+J09007 Akash Deep EE
+J09009 Akshay Hari Kumar ME
+J09010 Akshay Jain ME
+J09011 Amit Lonkar ME
+J09012 Amit Ranjan Trivedi CSE
+J09013 Amit Srivastava EE
+J09014 Amol Pol CSE
+J09015 Ankit Karwasra CSE
+J09016 Ankit Gupta ME
+J09017 Anurag EE
+J09018 Anurag Mittal EE
+J09019 Anurup Ganguli ME
+J09020 Ashish Aseri CSE
+J09021 Ashish Pandey ME
+J09022 Ashok Banjara EE
+J09023 Aswin Siva N CSE
+J09024 Avinash Yadav EE
+J09025 Ayyer Rishi Kalyan ME
+J09027 Bhaskar Puri ME
+J09028 Bhuwanesh Kumawat ME
+J09029 Boobalan G EE
+B. Tech. Students, Batch 2009
+
+J09030 Chetan Bhatsange EE
+J09031 Devula Vinay Kumar EE
+J09032 Eshan Jain CSE
+J09033 Ganduri Rahul Goutham EE
+J09034 Gaurav Kumar ME
+J09035 Gaurav Siwach ME
+J09036 Gautam Bajaj CSE
+J09037 Girish Budhwani CSE
+J09038 Govind Agarwal EE
+J09039 Govind Ram CSE
+J09040 Gundre Vaibhav Pralhad ME
+J09041 Harshit Kumar Pancholi ME
+J09042 Hitesh Choudhary ME
+J09043 Jatin Goyal ME
+J09044 Jatin Rustagi EE
+J09045 Jogendra Singh CSE
+J09046 Joshi Darshan Rajeev EE
+J09047 Kalpana Verma CSE
+J09048 Kasuvojula Devendar ME
+J09049 Keshav Kumar CSE
+J09050 Kiran Kumari CSE
+J09051 Kshitij Kumar ME
+J09052 Kumar Ashayam Gupta CSE
+J09053 Kunal Chelani EE
+J09054 Lakhan Singh Jatav ME
+J09055 M. Vidhya Sagar EE
+J09057 Manish Kumar Jain CSE
+J09058 Manvendra Singh Chauhan EE
+J09059 Mayank Agarwal CSE
+J09060 Mohammad Firoz ME
+J09061 Mohammed Aquibuddin Ahmed EE
+J09062 Rajni Yadav EE
+J09063 Naveen Kumar Gautam EE
+J09064 Naveen Shrivastava CSE
+J09065 Nikita Chopra CSE
+J09067 Nithin Kumar Kokkisa ME
+J09068 Pawan Kumar Sharma CSE
+J09069 Prafful Gupta EE
+
+J09070 Pranay Balar CSE
+J09071 Prashant Babu CSE
+J09072 Prashant Godara ME
+J09073 Prashant Kumar Shukla ME
+J09074 Pratesh Jhari ME
+J09075 Prem Raj CSE
+J09076 Radhe Shyam Meena EE
+J09077 Rahul Nahata CSE
+J09078 Rahul Sachan CSE
+J09079 Rajendra Nagar EE
+J09080 Rajput Shailendra Shesh Kumar CSE
+J09081 Rameshwar Prasad Meghwal CSE
+J09082 Ravin Kumar Jain CSE
+J09083 Rohit Jangir CSE
+J09084 Ruchi Toshniwal CSE
+J09085 Sanjay Kumar Rajak ME
+J09086 Sanjay Kumar Rav CSE
+J09087 Sarthak Sharma EE
+J09088 Satyesh Jha ME
+J09089 Saurabh Garg EE
+J09090 Saurajit Sar EE
+J09091 Shah Chintan Chirag CSE
+J09092 Shashank Kumar CSE
+J09093 Shobhit Mandloi EE
+J09094 Sonal Gupta CSE
+J09095 Sumit CSE
+J09096 Sunil Saini EE
+J09097 Surendra S Choudhary ME
+J09098 Surendra Verma EE
+J09099 Sushant Gaurav EE
+J09100 Syed Faizul Hai EE
+J09101 Tambade Narendra Satish ME
+J09102 Tokala Sai Teja CSE
+J09103 Utkarsha Verma EE
+J09104 Vaibhav Jain CSE
+J09105 Vennam Samuel Susmith ME
+J09106 Vinay Kumar ME
+J09107 Vivek Sharma EE
+J09108 Yogesh Kumar Verma EE
+
+J09109 Zubin Sortee CSE
+Roll. No. Name Discipline
+UG201010001 Abhishek Anand CSE
+UG201010002 Aman Deep CSE
+UG201010003 Amar Singh Saini CSE
+UG201010004 Anurag Saini CSE
+UG201010005 Bollempalli Trivikram Chowdary CSE
+UG201010006 Dheeraj Tak CSE
+UG201010007 Godugu Ravi Kiran CSE
+UG201010008 Hemlata Soni CSE
+UG201010009 Junaid Masood CSE
+UG201010010 Kanchan Kumari CSE
+UG201010011 Khusheeram Meena CSE
+UG201010012 Kishor Mehra CSE
+UG201010013 Lalit Yadav CSE
+UG201010014 Mahesh Chand Gurjar CSE
+UG201010015 Mandeep Singh Yadav CSE
+UG201010016 Manish Kumawat CSE
+UG201010017 Manpreet Singh Bedi CSE
+UG201010018 Mohd Asad CSE
+UG201010019 Mohd Hamzah Khan CSE
+UG201010020 Monu CSE
+UG201010021 Narendra Meena CSE
+UG201010022 Nishchay Kala CSE
+UG201010023 Pankaj Agrawal CSE
+UG201010024 Pankaj Bhardwaj CSE
+UG201010025 Pankaj Khandelwal CSE
+UG201010026 Pavan Meena CSE
+UG201010027 Pawan Meena CSE
+UG201010028 Reena Yadav CSE
+UG201010029 Rohit Gupta CSE
+UG201010030 S Praveenkumar CSE
+UG201010031 Saurabh Singh CSE
+UG201010032 Sourabh Maheshwari CSE
+UG201010033 Sukalkar Pavan Vijayrao CSE
+UG201010034 Sumit Jangid CSE
+B. Tech. Students, Batch 2010
+
+UG201010035 Sunita Pateer CSE
+UG201010036 Surendra Singh Meena CSE
+UG201010037 Tapish Rathore CSE
+UG201010038 Vemana Vinith CSE
+UG201010039 Vikas Goyal CSE
+UG201010040 Vikas Yadav CSE
+UG201010041 Vinod Kumar Meena CSE
+UG201010042 Vishwas Garg CSE
+UG201010043 Yogesh Kumar Gupta CSE
+UG201010044 Manu Agarwal CSE
+UG201011001 Aayush Verma EE
+UG201011002 Amit Kumar Verma EE
+UG201011003 Arun Balajee V EE
+UG201011004 Bharat Kumar Tanwar EE
+UG201011005 Chintapalli Siva Pratheek EE
+UG201011006 Dilip Kumar Meena EE
+UG201011008 Ghatge Mayur Sambhaji EE
+UG201011009 Himanshu Jaiswal EE
+UG201011010 Mahesh Chandra M EE
+UG201011011 Manish Kumar Meena EE
+UG201011013 Mukul Bansal EE
+UG201011014 Narendra Kumar Singh EE
+UG201011016 Nimmarthi Vara Prasad EE
+UG201011017 Pasunoori Prashanth EE
+UG201011018 Pote Rohan Ramchandra EE
+UG201011019 Prince Gupta EE
+UG201011020 Priya Dhandev EE
+UG201011021 Rahul Malav EE
+UG201011022 Rahul Meena EE
+UG201011023 Rajat Jain EE
+UG201011024 Rajeev Kumar EE
+UG201011025 Ravi Mahavar EE
+UG201011026 Rinku Meena EE
+UG201011027 Rishi Kumar EE
+UG201011028 Rit Shekhawat EE
+UG201011029 Saba Suhail EE
+UG201011030 Sandeep Kumar Singh EE
+UG201011031 Saurabh Santosh EE
+UG201011032 Shashikant EE
+
+UG201011033 Siddharth Singh Rao EE
+UG201011034 Shiv Singh Meena EE
+UG201011035 Srikanth M EE
+UG201011036 Sudesh Gora EE
+UG201011037 Sudhir Kumar Singh EE
+UG201011038 Surya Pratap Singh Yadav EE
+UG201011039 Tarun Patel EE
+UG201011040 Tirumani Vamshi Krishna EE
+UG201011041 Veepee Singh Meena EE
+UG201011042 Vikash Kumar EE
+UG201011043 Vinod Meena EE
+UG201011044 Vivek Dubey EE
+UG201011045 Yogendra Kumar Goyal EE
+UG201011046 Aswin Suresh EE
+UG201011047 Hemant Verma EE
+UG201012001 Abhinav ME
+UG201012002 Aditya Budaraju ME
+UG201012003 Aditya Ranjan ME
+UG201012004 Akash Bansal ME
+UG201012005 Akhilendra Singh ME
+UG201012006 Aman Doharey ME
+UG201012007 Ankur Hasija ME
+UG201012008 Anshul Gupta ME
+UG201012009 Anuj Kumar ME
+UG201012010 Ashok Kumar Meena ME
+UG201012012 Chetram Meena ME
+UG201012014 Gudla Sushanth ME
+UG201012015 Gaurav Kumar ME
+UG201012018 Jagmohan Shree Rao ME
+UG201012019 Jaideep ME
+UG201012020 Jai Prakash Meena ME
+UG201012021 Kuldeep Singh ME
+UG201012022 Manraj Meena ME
+UG201012023 Mohit Naneria ME
+UG201012024 Niket Kumar Singh ME
+UG201012025 Nishant Kumar ME
+UG201012026 Nitesh Kumar ME
+UG201012027 Nitin Katiyar ME
+UG201012028 Pradeep Rai ME
+
+UG201012030 Rooga Ram ME
+UG201012032 Sachin Gupta ME
+UG201012033 Sarvesh Dayal ME
+UG201012034 Shaikh Abu Amsal ME
+UG201012035 Shivendra Rai ME
+UG201012036 Siddarth Jain ME
+UG201012037 Sitaram Meena ME
+UG201012038 Snehlata Joshi ME
+UG201012039 Tanmay Sethi ME
+UG201012040 Utkarsh Trivedi ME
+UG201012041 Vasu Goenka ME
+UG201012042 Vijay Singh Meena ME
+UG201012043 Vipin Kumar ME
+UG201012044 Vivek Ganj Gahlot ME
+UG201012045 Yatin Chaudhary ME
+UG201012046 Yogesh Kumar ME
+Roll. No. Name Discipline
+UG201110001 Abhishek Saini CSE
+UG201110002 Amit Raj CSE
+UG201110003 Apurv Gupta CSE
+UG201110004 Ashish Kumar CSE
+UG201110005 Banoth Surya Prasad CSE
+UG201110006 Debashish Ghatak CSE
+UG201110007 Deven Bhooshan CSE
+UG201110008 Gurupratap CSE
+UG201110009 Hari Om Gaur CSE
+UG201110010 Heena Masuriya CSE
+UG201110011 Hemraj Kumawat CSE
+UG201110012 Jitendra Kumar Chaudhary CSE
+UG201110013 Jitendra Singh Garhwal CSE
+UG201110014 Kalpnath Rao CSE
+UG201110015 Kankanti Nithin Veer Reddy CSE
+UG201110017 Kuchana Maharshi Devaraj CSE
+UG201110018 Mahesh CSE
+UG201110019 Mayank Agrawal CSE
+UG201110020 Mayank Mittal CSE
+B. Tech. Students, Batch 2011
+
+UG201110021 Palak Samaiya CSE
+UG201110022 Pitta Divya Shree CSE
+UG201110023 Praneeth A S CSE
+UG201110024 Prashant Rastogi CSE
+UG201110025 Ravi Kumar Meena CSE
+UG201110026 Revti Raman Singh CSE
+UG201110027 Rishi Mishra CSE
+UG201110028 Sahil Kharb CSE
+UG201110029 Sanjeev Kumar CSE
+UG201110030 Santosh Kumar Siddharth CSE
+UG201110031 Saurabh Kumar Gangwar CSE
+UG201110032 Shah Jenil Dilip CSE
+UG201110033 Shivam Verma CSE
+UG201110034 Siddharth Kumar Singh CSE
+UG201110035 Siddharth Maheshwari CSE
+UG201110036 Sonu Mehta CSE
+UG201110037 Syed Navaid Ahmad CSE
+UG201110038 Yash Kumar Sonthalia CSE
+UG201110039 Yeravothula Rohith CSE
+UG201110040 Gatla Rajasekhar Reddy CSE
+UG201111001 Abhishek Bassan EE
+UG201111002 Abhishek Pilania EE
+UG201111003 Anshul Narayan Bhatt EE
+UG201111004 Anshul Singh Parihar EE
+UG201111005 Anurag Dharmawat EE
+UG201111006 Atul Agarwal EE
+UG201111007 Battula Sasi Kaushik EE
+UG201111008 Brajesh Kumar EE
+UG201111009 Bussa Pavan Kumar EE
+UG201111010 Damacharla Sandeep EE
+UG201111011 Devendra Kumar Jangid EE
+UG201111012 Gajarla Ravi Teja EE
+UG201111014 Guneet Singh Mehta EE
+UG201111015 Hari Om Meena EE
+UG201111016 Harshit Dixit EE
+UG201111017 Hem Singh Meena EE
+UG201111018 Hemant Kumar Biloniya EE
+UG201111019 Kadoo Amruta Anil EE
+UG201111020 Kotha Sudheer EE
+
+UG201111021 Koyinni Deekshitha EE
+UG201111022 Krishna Kumar Damolia EE
+UG201111023 Kuldeep Singh Rathore EE
+UG201111024 Kumar Saurav EE
+UG201111025 Lalithkumar P EE
+UG201111026 Prashant Mittal EE
+UG201111027 Rahul Rathore EE
+UG201111028 Rangaraju Yashomani Srikar EE
+UG201111029 Ravindra Kumar Sharma EE
+UG201111030 Ravyansh Kumar EE
+UG201111031 Sanchit Kumar Singh EE
+UG201111032 Satyendra Kumar Gautam EE
+UG201111033 Shivalika Agarwal EE
+UG201111034 Shivam Punia EE
+UG201111035 Sudhanshu Singh EE
+UG201111036 Sunil Kumar EE
+UG201111037 Vadakattu Sreeja EE
+UG201111038 Vineet Kumar EE
+UG201111039 Voruganti Surya Teja EE
+UG201112001 Alvin Roy Aliath ME
+UG201112002 Ankit Aggarwal ME
+UG201112003 Ashutosh Mittal ME
+UG201112004 Ashutosh Vishwakarma ME
+UG201112005 Atishay Jain ME
+UG201112007 Chetan Regar ME
+UG201112008 Chilakamarri Satya Ranga Prasanth ME
+UG201112009 Deep Kumar ME
+UG201112010 Deshraj Meena ME
+UG201112011 Devesh Singh ME
+UG201112012 Dheeraj ME
+UG201112013 Gajanand Saini ME
+UG201112014 Gautam Kumar ME
+UG201112015 Harsh Kumar Karmveer ME
+UG201112016 Harshit Srivastava ME
+UG201112017 Himanshu Sahu ME
+UG201112018 Kishan Sharma ME
+UG201112019 Kothapally Mounish ME
+UG201112020 Kunal Vishnu Paraswani ME
+
+UG201112021 Kundan Singh Meena ME
+UG201112022 Maninder Singh ME
+UG201112023 Manish Sachdeva ME
+UG201112024 Mohit Dadhich ME
+UG201112025 Mukul Kumar Gupta ME
+UG201112026 Navneet Kumar Yadav ME
+UG201112027 Neeraj Kumar ME
+UG201112028 Rahul Sathya Babu ME
+UG201112029 Sagar Anand Ramgare ME
+UG201112030 Sandeep Shankarrao Hatte ME
+UG201112031 Sanket Kinage ME
+UG201112032 Shravan Mishra ME
+UG201112033 Siddee Meena ME
+UG201112035 Smriti Jain ME
+UG201112036 Tagde Prateek Prakash ME
+UG201112037 Vaidya Kedar Sanjay ME
+UG201112038 Vikash ME
+UG201112039 Wins Goyal ME
+UG201113001 Arvind Pandey SS
+UG201113002 Abhishek Singh SS
+UG201113003 Ajay Sunarthi SS
+UG201113004 Akhil Arora SS
+UG201113005 Aniruddh Ramrakhyani SS
+UG201113006 Ankit Singh SS
+UG201113007 Arpit Agarwal SS
+UG201113008 Atharv S Ghaisas SS
+UG201113010 Desidi Siva Prakash SS
+UG201113011 Dhiraj Bhatt SS
+UG201113012 Divya Grover SS
+UG201113013 Gurjot Singh SS
+UG201113014 Himanshu Shukla SS
+UG201113015 Jaswant SS
+UG201113016 Jitendra Kumar Meena SS
+UG201113017 Kakkirala Anuroop SS
+UG201113018 Kowlagi Sudhendra Narayan SS
+UG201113019 Krati Saxena SS
+UG201113020 Kusum Lata Meena SS
+UG201113023 Manthani Tejaswi SS
+
+UG201113024 Mohamed Rehan Mohamed Sagheer SS
+UG201113025 Neelesh Dwivedi SS
+UG201113026 Neha Singh Chauhan SS
+UG201113028 Pratik Kumar SS
+UG201113029 Rahul Kumar SS
+UG201113030 Raj Rohit Jalem SS
+UG201113032 Rishabh Jain SS
+UG201113033 Sankha Narayan Guria SS
+UG201113036 Shinde Sahil Anil SS
+UG201113037 Tavish Garg SS
+UG201113039 Vinnakota Sai Rakshit SS
+Roll. No. Name Discipline
+UG201210001 Abhishek Kumar Cse CSE
+UG201210002 Aditya Yadav CSE
+UG201210003 Akash Mishra CSE
+UG201210004 Akshit Jain CSE
+UG201210005 Aseem Raj Baranwal CSE
+UG201210006 Asheet Kumar CSE
+UG201210007 Attanti Madhurya CSE
+UG201210008 Bandela Prathyusha CSE
+UG201210009 Basamgari Harika CSE
+UG201210010 Bundele Manas Mahesh CSE
+UG201210011 Dhake Akash Hiraman CSE
+UG201210012 Dinesh Kumar Jangra CSE
+UG201210013 Dinesh Kumar Saini CSE
+UG201210014 Gaurav Shastri CSE
+UG201210015 Gondi Dedeepya Sai CSE
+UG201210016 Gorla Uhasree CSE
+UG201210017 Jinank Jain CSE
+UG201210018 Kalshetti Pratik Mallinath CSE
+UG201210019 Kunal Dadheech CSE
+UG201210020 Mala Muthyalappa CSE
+UG201210021 Manish Jaiswal CSE
+UG201210023 Pankaj Kumar CSE
+B. Tech. Students, Batch 2012
+
+UG201210024 Pawan Kumar Saini CSE
+UG201210025 Rajesh Kumar Meena CSE
+UG201210026 Rishabh Garg CSE
+UG201210027 Rishikesh Meena CSE
+UG201210028 Ritesh Kumar CSE
+UG201210029 Rohan Khanna CSE
+UG201210030 Sachin Grover CSE
+UG201210031 Samarth Kumar Goel CSE
+UG201210032 Shah Akshat Mukeshkumar CSE
+UG201210033 Shivam Kumar Garg CSE
+UG201210034 Siddharth Talesra CSE
+UG201210035 Sonika Agrawal CSE
+UG201210036 Sunil Kumar CSE
+UG201210037 Vaibhav Singh Khokhar CSE
+UG201210038 Vijendra Sukariya CSE
+UG201210039 Vikas Meena CSE
+UG201211001 Abhishek Thepra EE
+UG201211002 Ajay Charan EE
+UG201211003 Akarsh Rastogi EE
+UG201211004 Akshay Arya EE
+UG201211006 Anubhuti Mittal EE
+UG201211007 Ashwani Kumar EE
+UG201211008 Ashwani Nainawat EE
+UG201211009 Deepak Verma EE
+UG201211010 Devabattini Sriharsha EE
+UG201211011 Dharm Raj Meena EE
+UG201211012 Dheeraj P EE
+UG201211013 Dinesh Gurjar EE
+UG201211014 Farazuddin Ansari EE
+UG201211015 Ghanshyam EE
+UG201211016 Hitesh Kumar Singhal EE
+UG201211018 Lalit Mirdha EE
+UG201211019 Mamta Dhaka EE
+UG201211020 Mukesh Kumar EE
+UG201211021 Nisha Agrawal EE
+UG201211022 Nishit Umesh Parekh EE
+UG201211023 Pawan Kumar Verma EE
+UG201211024 Piyush Dugar EE
+
+UG201211025 Prakash Gehlot EE
+UG201211027 Rajat EE
+UG201211028 Rajat R Rahatgaonkar EE
+UG201211029 Rajnesh Meena EE
+UG201211030 Sanchit Gupta EE
+UG201211031 Sanket Jain EE
+UG201211032 Santosh Kumar Meena EE
+UG201211033 Saurav Kumar EE
+UG201211034 Sharath Kuntanhal EE
+UG201211035 Shivam Upadhyaya EE
+UG201211036 Shrish Lal Bhatnagar EE
+UG201211037 Sriramadasu Ashok Kumar EE
+UG201211038 Sunil Saran EE
+UG201211039 Tarun Vatwani EE
+UG201211040 Upendra Kumar Nagar EE
+UG201211041 Vinay Shankar Saxena EE
+UG201212001 Aditya Khandelwal ME
+UG201212002 Ajay Kumar Jagetiya ME
+UG201212003 Anjali Bansiwal ME
+UG201212004 Ankit Jain ME
+UG201212005 Ashish Kumar ME
+UG201212006 Ashish Kumar ME
+UG201212007 Atul Dubey ME
+UG201212008 Ayush Bhadauria ME
+UG201212009 B V Kishore ME
+UG201212010 Balla Raghavendar Goud ME
+UG201212011 Boddupalli Nibodh ME
+UG201212012 Chamarthy Kameswara Shiva Dinesh ME
+UG201212013 Chetan Gupta ME
+UG201212014 Daman ME
+UG201212015 Dilkhush MEENA ME
+UG201212016 Himanshu Takwani ME
+UG201212017 Himanshu Yadav ME
+UG201212018 Kamlesh Aseri ME
+UG201212019 Kanak Shrivastava ME
+UG201212020 Manish Soni ME
+UG201212021 N Vinaykumar Reddy ME
+UG201212022 Navneet Mittal ME
+UG201212023 Pavan Kumar Shakya ME
+
+UG201212024 Sachin Yadav ME
+UG201212025 Sandeep Kumar Meena ME
+UG201212026 Saurabh Jain ME
+UG201212027 Saurabh Pandey ME
+UG201212028 Shah Jigar Deepak ME
+UG201212030 Shreyas Srivastava ME
+UG201212031 Shubham Gupta ME
+UG201212032 Snigdhadeep Moitra ME
+UG201212033 Sonu Siba Bara ME
+UG201212034 Surendra Pal Singh ME
+UG201212035 Tapesh Kumar Mourya ME
+UG201212036 Thani Aswanth ME
+UG201212037 Vaibhav Gupta ME
+UG201212038 Varun Suryan ME
+UG201212039 Vikash Kumar Goenka ME
+UG201212040 Vishal Kumar ME
+UG201213002 Anmol SS
+UG201213003 Anshuman Singh SS
+UG201213004 Antos C Varghese SS
+UG201213005 Divya Nagar SS
+UG201213006 Gaurav Choudhary SS
+UG201213007 Gourab Kumar Patro SS
+UG201213008 Hari Om Meena SS
+UG201213011 Kirti Vardhan Rathore SS
+UG201213013 Kota V Aakash SS
+UG201213014 Kshitij Soni SS
+UG201213016 Mahendra Kachhawa SS
+UG201213018 Manish Malhotra SS
+UG201213019 Narender Kumar SS
+UG201213020 Paladugu Venkata Karteek SS
+UG201213021 Palash Jain SS
+UG201213022 Parag Rahangdale SS
+UG201213023 Pise Indraneel Rajnish SS
+UG201213024 Pragati Nagar SS
+UG201213025 Prasoon SS
+UG201213026 Priyanka Raju Masne SS
+UG201213027 Purvi Tiwari SS
+UG201213028 Raghunath Meena SS
+UG201213029 Ravi Kumar SS
+
+UG201213031 Rochika SS
+UG201213033 Sharwan Songara SS
+UG201213034 Shivam Choudhary SS
+UG201213035 Shreshtha Garg SS
+UG201213036 Sunil Suthar SS
+UG201213037 Vibhav Sharma SS
+
+Financial Brief
+The MHRD has released a sum of Rs. 4,000.00 Lakhs as Grant-in-Aid under 
+Normal Plan Head and Rs. 4,962.94 Lakh as opening balance as on 01-04-2012. 
+The internal income of the Institute was Rs. 674.79 Lakh. The total Plan 
+expenditure during the year was Rs. 5,025.14 Lakhs (Recurring Rs. 2,028.75 
+Lakh and Non-Recurring Rs.2,996.39 Lakh).

@@ -1,0 +1,20 @@
+congratulations to sukhendu ghosh for the acceptance of his research paper in the journal physics of fluids title effect of imposed shear on the dynamics of contaminated film flow down slippery incline authors muhammad sani siluvai antony selvan sukhendu ghosh and harekrushna behera journal physics of fluids year publisher american institute of physics abstract the linear instability of falling film over an inclined slippery wall is analyzed under the influence of external shear which is imposed on the top surface of the flow
+the free surface of the flow and the interface among the fluids are contaminated by insoluble surfactants
+dynamics of the fluid layers are governed by the equations and the surfactant transport equations regulate the motion of the insoluble surfactants at the interface and free surface
+instability mechanisms are compared by imposing the external shear along and opposite to the flow direction
+coupled sommerfeld system of equations is derived using the perturbation technique and normal mode analysis
+the eigenmodes corresponding to the eigenvalue problem are obtained by employing the spectral collocation method
+the numerical results imply that the stronger external shear destabilizes the interface mode instability
+however stabilizing impact of the external shear on the surface mode is noticed if the shear is imposed in the flow direction which is in contrast to the role of imposed external shear on the surface mode for single layer falling film
+furthermore in the presence of strong imposed shear the overall stabilization of the surface mode by wall velocity slip for the stratified fluid flow is also contrary to that of the single fluid case
+the interface mode behaves differently in the two zones at the moderate reynolds numbers and higher external shear magnifies the interfacial instability in both zones
+an opposite trend is observed in the case of surface instability
+moreover the impression of shear mode on the primary instability is analyzed in the high reynolds number regime with sufficiently low inclination angle
+under such configuration dominance of the shear mode over the surface mode is observed due to the weaker impact of the gravitational force on the surface instability
+the shear mode can also be stabilized by applying the external shear in the counter direction of the streamwise flow
+conclusively the extra imposed shear on the stratified falling film plays an active role in the control of the attitude of the instabilities
+title effect of imposed shear on the dynamics of contaminated film flow down slippery incline authors muhammad sani siluvai antony selvan sukhendu ghosh and harekrushna behera journal physics of fluids publisher american institute of physics abstract the linear instability of falling film over an inclined slippery wall is analyzed under the influence of external shear which is imposed on the top surface of the flow
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

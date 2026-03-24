@@ -1,0 +1,1088 @@
+SOURCE_PDF: 1a8a723bdd48_LIPIcs-FSTTCS-2020-24.pdf
+
+On the (Parameterized) Complexity of Almost
+Stable Marriage
+Sushmita Gupta
+The Institute of Mathematical Sciences, HBNI, Chennai, India
+sushmitagupta@imsc.res.in
+Pallavi Jain
+Indian Institute of Technology Jodhpur, India
+pallavi@iitj.ac.in
+Sanjukta Roy
+The Institute of Mathematical Sciences, HBNI, Chennai, India
+sanjukta@imsc.res.in
+Saket Saurabh
+The Institute of Mathematical Sciences, HBNI, Chennai, India
+University of Bergen, Norway
+saket@imsc.res.in
+Meirav Zehavi
+Ben Gurion University of the Negev, Beer Sheva, Israel
+meiravze@bgu.ac.il
+Abstract
+In the Stable Marriage problem, when the preference lists are complete, all agents of the smaller
+side can be matched. However, this need not be true when preference lists are incomplete. In most
+real-life situations, where agents participate in the matching market voluntarily and submit their
+preferences, it is natural to assume that each agent wants to be matched to someone in his/her
+preference list as opposed to being unmatched. In light of the Rural Hospital Theorem, we have
+to relax the “no blocking pair” condition for stable matchings in order to match more agents. In
+this paper, we study the question of matching more agents with fewest possible blocking edges. In
+particular, the goal is to ﬁnd a matching whose size exceeds that of a stable matching in the graph
+by at least t and has at most k blocking edges. We study this question in the realm of parameterized
+complexity with respect to several natural parameters, k, t, d, where d is the maximum length of a
+preference list. Unfortunately, the problem remains intractable even for the combined parameter
+k + t + d. Thus, we extend our study to the local search variant of this problem, in which we search
+for a matching that not only fulﬁlls each of the above conditions but is “closest”, in terms of its
+symmetric diﬀerence to the given stable matching, and obtain an FPT algorithm.
+2012 ACM Subject Classiﬁcation Theory of computation →Parameterized complexity and exact
+algorithms
+Keywords and phrases Stable Matching, Parameterized Complexity, Local Search
+Digital Object Identiﬁer 10.4230/LIPIcs.FSTTCS.2020.24
+Related Version A full version of the paper is available at https://arxiv.org/pdf/2005.08150.pdf.
+Funding Sushmita Gupta: was supported by SERB-Starting Research Grant (SRG/2019/001870).
+Saket Saurabh: Received funding from European Research Council (ERC) under the European
+Union’s Horizon 2020 research and innovation programme (grant no. 819416), and Swarnajayanti
+Fellowship grant DST/SJF/MSA-01/2017-18.
+Meirav Zehavi: was supported by ISF grant (no.1176/18) and BSF grant no. 2018302).
+© Sushmita Gupta, Pallavi Jain, Sanjukta Roy, Saket Saurabh, and Meirav Zehavi;
+licensed under Creative Commons License CC-BY
+40th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science
+(FSTTCS 2020).
+Editors: Nitin Saxena and Sunil Simon; Article No. 24; pp. 24:1–24:17
+Leibniz International Proceedings in Informatics
+Schloss Dagstuhl – Leibniz-Zentrum für Informatik, Dagstuhl Publishing, Germany
+
+24:2
+On the (Parameterized) Complexity of Almost Stable Marriage
+1
+Introduction
+Matching various entities to available resources is of great practical importance, exempliﬁed
+in matching college applicants to college seats, medical residents to hospitals, preschoolers to
+kindergartens, unemployed workers to jobs, organ donors to recipients, and so on [2, 14, 19, 21].
+It is noteworthy that in the applications mentioned above, it is not enough to merely match
+an entity to any of the available resources. It is imperative, in fact, mission-critical, to
+create matches that fulﬁl some predeﬁned notions of compatibility, suitability, acceptability,
+and so on. Gale and Shapley introduced the fundamental theoretical framework to study
+such two-sided matching markets in the 1960s. They envisioned a matching outcome as a
+marriage between the members of the two sides, and a desirable outcome representing a stable
+marriage. The algorithm proﬀered by them has since attained wide-scale recognition as the
+Gale-Shapley stable marriage/matching algorithm [14]. Stability is one of the acceptability
+criteria for matching in which an unmatched pair of agent should not prefer each other over
+their matched partner.
+Of the many characteristic features of the two-sided matching markets, there are certain
+aspects that stand out and are supported by both theoretical and empirical evidence –
+particularly notable is the curious aspect that for a given market with strict preferences
+on both sides,1 no matter what the stable matching outcome is, the speciﬁc number of
+resources matched on either side always remains the same. This fact encapsulated by The
+Rural Hospital’s Theorem [30, 31] states that no matter what stable matching algorithm
+is deployed, the exact set (rather than only the number) of resources that are matched on
+either side is the same. In other words, there is a trade-oﬀbetween size and stability such
+that any increase in size must be paid for by sacriﬁcing stability. Indeed, it is not hard to
+ﬁnd instances in which as much as half of the available resources are unmatched in every
+stable matching. Such gross underutilization of critical and potentially expensive resources
+has not gone unaddressed by researchers. In light of The Rural Hospital Theorem, many
+variations have been considered, some important ones being: enforcing lower and upper
+capacities, forcing some matches, forbidding some matches, relaxing the notion of stability,
+and ﬁnally foregoing stability altogether in favor of size [2, 3, 7, 16, 22, 34].
+We formalize the trade-oﬀmentioned above between size and stability in terms of the
+Almost Stable Marriage problem. The classical Stable Marriage problem takes as
+an instance a bipartite graph G = (A ∪B, E), where A and B denote the set of vertices
+representing the agents on the two sides and E denotes the set of edges representing acceptable
+matches between vertices on diﬀerent sides, and a preference list of every vertex in G over its
+neighbors. Thus, the length of the preference list of a vertex is the same as its degree in the
+graph. A matching is deﬁned as a subset of the set of edges E such that no vertex appears
+in more than one edge in the matching. An edge in a matching represents a match such that
+the endpoints of a matching edge are said to be the matching partners of each other, and an
+unmatched vertex is deemed to be self-matched. A matching µ is said to be stable in G if
+there does not exist a blocking edge with respect to µ, deﬁned to be an edge e ∈E \ µ whose
+endpoints rank each other higher (in their respective preference lists) than their matching
+partners in µ.2 The goal of the Stable Marriage problem is to ﬁnd a stable matching.
+We deﬁne the Almost Stable Marriage problem as follows.
+1 In most real-life applications, it is unreasonable if not unrealistic to expect each of the agents to rank
+all the agents on the other side. That is, the graph G is highly unlikely to be complete.
+2 Every candidate is assumed to prefer being matched to any of its neighbors to being self-matched.
+
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:3
+Almost Stable Marriage (ASM)
+Input: A bipartite graph G = (A ∪B, E), a set L containing the preference list of
+each vertex, and non-negative integers k and t.
+Question: Does there exist a matching whose size is at least t more than the size of
+a stable matching in G such that the matching has at most k blocking edges?
+In ASM, we hope for a matching that is larger than a stable matching but may contain
+some blocking edges. The above problem quantiﬁes these two variables: t and k denote the
+minimum increase in the size and the allowable number of blocking edges, respectively.
+We note that Biró et al. [3] considered the problem of ﬁnding, among all matchings
+of maximum size, one that has the fewest blocking edges, and showed the NP-hardness
+of the problem even when the degree of the graph is at most three. Since one can ﬁnd a
+maximum matching and a stable matching in the given graph in polynomial time [27, 14],
+their NP-hardness result implies NP-hardness for ASM even when the degree is at most
+three by setting t to be the diﬀerence between the size of a maximum matching and the size
+of a stable matching.
+Our Contribution and Methods.
+We study the parameterized complexity of ASM with
+respect to parameters k and t; a combination that is not settled by Biró et al. [3]. Our ﬁrst
+result exhibits a strong guarantee of intractability. We exhibit parameterized intractability
+of ASM in a very restrictive setting where the degree of the given graph is three.
+▶Theorem 1. ASM is W[1]-hard with respect to k + t, even when the maximum degree of
+the given graph is at most three.
+We prove Theorem 1 by showing a polynomial-time many-to-one parameter preserving
+reduction from the Multicolored Clique (MCQ, in short) problem to ASM. In the
+Multicolored Clique problem, given a graph G = (V, E) and a partition of V (G) into
+k parts, say V1, . . . , Vk; the goal is to decide the existence of a set S ⊆V (G) such that
+|S ∩Vi| = 1, for all i ∈[k], and G[S] induces a clique, that is, there is an edge between every
+pair of vertices in G[S]. MCQ is known to be W[1]-hard [29, 12] with respect to k.
+In light of the intractability result in Theorem 1, we are hard pressed to recalibrate our
+expectations of what is algorithmically feasible in an eﬃcient manner. Therefore, we consider
+a local search approach for this problem, in which, instead of ﬁnding any matching whose
+size is at least t larger than the size of stable matching, we also want this matching to be
+“closest” in terms of its symmetric diﬀerence, to a stable matching. Such framework of local
+search has also been studied for other variants of the Stable Marriage problem by Marx
+and Schlotter [26, 25]. We would like to emphasize that the notion of local search used here
+is diﬀerent from the classical notion of local search heuristics/algorithms commonly used in
+practice [33]. We use the notion of local search that is well-deﬁned and widely used in the
+domain of parameterized complexity, as exempliﬁed by Marx and Schlotter [26, 25], and has
+also been applied to study several other optimization problems [11, 18, 20, 23, 24, 25, 32].
+The question is formally deﬁned as follows.
+Local Search-ASM (LS-ASM)
+Input: A bipartite graph G = (A ∪B, E), a set L containing the preference list of
+every vertex, a stable matching µ, and non-negative integers k, q, and t.
+Question: Does there exist a matching η of size at least |µ| + t with at most k
+blocking edges such that the symmetric diﬀerence between µ and η is at most q?
+FSTTCS 2020
+
+24:4
+On the (Parameterized) Complexity of Almost Stable Marriage
+Unsurprisingly perhaps, the existence of a stable matching in the proximity of which
+we wish to ﬁnd a solution does not readily mitigate the computational hardness of the
+problem, as evidenced by Theorem 2. This result is a consequence of the properties of the
+reduction used in the proof of Theorem 1. The NP-hardness of LS-ASM also follows from
+the NP-hardness of ASM as we can set q to be 2n, the maximum possible size of µ ∪η.
+▶Theorem 2 (♣).3 LS-ASM is W[1]-hard with respect to k + t, even when the maximum
+degree of the given graph is at most three.
+In our quest for a parameterization that makes the problem tractable, we investigate LS-ASM
+with respect to k + q + t.
+▶Theorem 3 (♣). LS-ASM is W[1]-hard with respect to k + q + t.
+To prove Theorem 3, we give a polynomial-time many-to-one parameter preserving
+reduction from MCQ to LS-ASM. In the instance constructed to prove Theorem 1, q is not
+a function of k. We mimic the idea of gadget construction in that proof and ensure that q is
+a function of k. However, in this eﬀort, the degree of the graph increases. Consequently, the
+result in Theorem 3 does not hold for constant degree graphs or even when the degree is a
+function of k. This trade-oﬀbetween q and the degree of the graph in the instances that
+establish intractability is not a coincidence, as implied by our next result.
+▶Theorem 4. There exists an algorithm that, given an instance of LS-ASM, solves the
+instance in 2O(q log d)+o(dq)nO(1) time, where n is the number of vertices in the given graph,
+and d is the maximum degree of the given graph.
+To prove Theorem 4, we begin by using the technique of random separation based on
+color coding, in which the underlying idea is to highlight the solution that we are looking
+for with high probability. Suppose that η is a hypothetical solution to the given instance
+of LS-ASM. Note that to ﬁnd the matching η, it is enough to ﬁnd the edges that are in
+the symmetric diﬀerence of µ and η, denoted by µ△η. Thus, using the technique of random
+separation, we wish to highlight the edges in µ△η. We achieve this goal using two layers
+of randomization. The ﬁrst one separates vertices that appear in µ△η, denoted by the set
+V (µ△η), from its neighbors, by independently coloring vertices 1 or 2. Let the vertices
+appearing in V (µ△η) be colored 1 and its neighbors that are not in V (µ△η) be colored 2.
+Observe that the matching partner of the vertices which are not in V (µ△η) is the same in
+both µ and η. Therefore, we search for a solution locally in vertices that are colored 1. Let
+G1 be the graph induced on the vertices that are colored 1. At this stage we use a second
+layer of randomization on edges of G1, and independently color each edge with 1 or 2. This
+separates edges that belong to µ△η (say colored 1) from those that do not belong to µ△η.
+Now for each component of G1, we look at the edges that have been colored 1, and compute
+the number of blocking edges, the increase in size and increase in the symmetric diﬀerence,
+if we modify using the µ-alternating paths/cycle that are present in this component. This
+leads to an instance of the Two-Dimensional Knapsack (2D-KP) problem, which we
+solve in polynomial time using a known pseudo-polynomial time algorithm for 2D-KP [17].
+We derandomize this algorithm using the notion of an n-p-q-lopsided universal family [13].
+Table 1 summarizes the results for ASM and LS-ASM.
+3 Proofs marked by [♣] are deferred to the full version of the paper.
+
+NP-hard for d = 3 [3] NP-hard for d = 3 [3]
+W[1]-hard for d = 3 wrt k + t [Thm. 1] W[1]-hard wrt k + q + t [Thm. 3]
+FPT wrt q + d [Thm. 4]
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:5
+Table 1 Summary of the results for ASM and LS-ASM. Results in blue row are implied from
+Theorem 7 in [3].
+Related Work.
+We present here some variants of the Stable Marriage problem which
+are closely related to our model. In the past, the notion of “almost stability” is deﬁned for
+the Stable Roommate problem [1]. In the Stable Roommate problem, the goal is to
+ﬁnd a stable matching in an arbitrary graph. As opposed to Stable Marriage, in which
+the graph is a bipartite graph, an instance of Stable Roommate might not admit a stable
+matching. Therefore, the notion of almost stability is deﬁned for the Stable Roommate
+problem, in which the goal is to ﬁnd a matching with a minimum number of blocking edges.
+This problem is known as the Almost Stable Roommate problem. Abraham et al. [1]
+proved that the Almost Stable Roommate problem is NP-hard. Biro et al. [4] proved
+that the problem remains NP-hard even for constant-sized preference lists and studied it in
+the realm of approximation algorithms. Chen et al. [5] studied this problem in the realm
+of parameterized complexity and showed that the problem is W[1]-hard with respect to the
+number of blocking edges even when the maximum length of every preference list is ﬁve.
+Later in 2010, Biró et al. [3] considered the problem of ﬁnding, among all matchings of
+the maximum size, one that has the fewest blocking edges, in a bipartite graph and showed
+that the problem is NP-hard and not approximable within n1−ϵ, for any ϵ > 0 unless P=NP.
+The problem of ﬁnding the maximum sized stable matching in the presence of ties and
+incomplete preference lists, maxSMTI, has striking resemblance with ASM. In maxSMTI,
+the decision of resolving each tie comes down to deciding who should be at the top of each of
+tied lists, mirrors the choice we have to make in ASM in rematching the vertices who will
+be part of a blocking edge in the new matching. Despite this similarity, the W[1]-hardness
+result presented in [26, Theorem 7] does not yield the hardness result of ASM and LS-ASM
+as the reduction is not likely to be parameteric in terms of k + t and k + t + q, or have the
+degree bounded by a constant. For other variants of the Stable Marriage problem, we
+refer the reader to [6, 21, 15, 19].
+2
+Preliminaries
+Sets. We denote the set of natural numbers {1, . . . , ℓ} by [ℓ]. For two sets X and Y , we use
+notation X△Y to denote the symmetric diﬀerence between X and Y . For any ordered set X,
+and an appropriately deﬁned value t, X(t) denotes the tth element of the set X. Conversely,
+suppose that x is tth element of the set X, then σ(X, x) = t.
+Graphs.
+Let G be an undirected graph. We denote an edge between u and v as uv. The
+neighborhood of a vertex v, denoted by NG(v), is the set of all vertices adjacent to it.
+Analogously, the (open) neighborhood of a subset S ⊆V , denoted by NG(S), is the set of
+vertices outside S that are adjacent to some vertex in S. A component of G is a maximal
+subgraph in which any two vertices are connected by a path. Let H be a subgraph of G.
+For a component C in H, we set NG(C) = NG(V (C)). The subscript may be omitted if the
+graph under consideration is clear from the context.
+FSTTCS 2020
+
+24:6
+On the (Parameterized) Complexity of Almost Stable Marriage
+Figure 1 Depiction of the top three layers of special vertices associated with the vertices of G′,
+as explained on page 7, where t = log2(n/2). Yellow labels denote vertex labels and numbers on
+edges denote preferences. Analogously, we can depict the layers of the special vertices associated
+with the edges of G.
+In the preference list of a vertex u, if v appears before w, then we say that u prefers v to
+w, and denote it as v ≻u w. We call an edge in the graph a static edge if its endpoints prefer
+each other over any other vertex in the graph. For a matching µ, V (µ) = {u, v: uv ∈µ}. If
+an edge uv ∈µ, then µ(u) = v and µ(v) = u. A vertex is called saturated in a matching µ, if
+it is an endpoint of one of the edges in the matching µ, otherwise it is an unsaturated vertex
+in µ. If u is an unsaturated vertex in a matching µ, then we write µ(u) = ∅. For a matching
+µ in G, a µ-alternating path (cycle) is a path (cycle) whose edges alternate between matching
+edges of µ and non-matching edges. A µ-augmenting path is a µ-alternating path that starts
+and ends at an unmatched vertex in µ.
+Unless speciﬁed, we will be using all general graph terminologies from the book of
+Diestel [9]. For parameterized complexity related deﬁnitions, we refer the reader to [8, 10, 28].
+We conclude this section with a result that is used extensively in our analysis.
+▶Proposition 1 (♣). Let µ and µ′ denote two matchings in G such that µ is stable and
+µ′ is not. Then, for each blocking edge with respect to µ′ we know that at least one of the
+endpoints has diﬀerent matching partners in µ and µ′.
+3
+W[1]-hardness of ASM
+We give a polynomial-time parameter preserving many-to-one reduction from the W[1]-hard
+problem Multicolored Clique (MCQ) [29, 12] in which we are given a regular graph
+G = (V, E) and a partition of V (G) into k parts, V1, . . . , Vk, and the objective is to decide
+if there exists a subset S ⊆V (G) such that |S ∩Vi| = 1, for each i ∈[k], and the induced
+subgraph G[S] is a clique. Given an instance I = (G, (V1, . . . , Vk)) of MCQ, we will next
+describe the construction of an instance J = (G′, L, k′, t) of ASM.
+Construction.
+We begin by introducing some notations. For any {i, j} ⊆[k], such that
+i < j, we use Eij to denote the set of edges between sets Vi and Vj. For each i ∈[k], we
+have |Vi| = n = 2p, and for each {i, j} ⊆[k], we have |Eij| = m = 2p′, for some positive
+integers p and p′ greater than one.4 We assume that sets Vi (for each i ∈[k]) and Eij (for
+4 Let m′ be the maximum number of edges in any Eij, where {i, j} ⊆[k]. Let p′ be the smallest positive
+integer greater than one such that m′ ≤2p′. Then, for every {i, j} ⊆[k], add 2p′ −|Eij| isolated edges
+
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:7
+Figure 2 An illustration of construction of graph G′ in the proof of W[1]-hardness of ASM for
+constant sized preference list. Here, blue colored edges belong to the stable matching µ. Here, n = 4,
+m = 4, and ru = 2, for all u ∈V (G).
+each {i, j} ⊆[k], i < j) have a canonical order, and thus for an appropriately deﬁned value t,
+Vi(t) (Eij(t)) and σ(Vi, v) (σ(Eij, e)), where v ∈Vi and e ∈Eij, are uniquely deﬁned. For
+each vertex u ∈V (G), let ru denotes the degree of u in the graph G.
+For each j ∈[log2(n/2)], let βj = n/2j, and γj = βj/2. For each j ∈[log2(m/2)], let
+ρj = m/2j, and τj = ρj/2. Next, we are ready to describe the construction of the graph G′.
+Base vertices.
+For each vertex u ∈V (G), we add 2ru + 2 vertices in G′, denoted by {ui : i ∈[2ru + 2]},
+connected via a path: (u1, . . . , u2ru+2).
+For each edge e ∈E(G), we have four vertices in G′, denoted by {ei : i ∈[4]}, connected
+via a path: (e1, e2, e3, e4).
+For each vertex u ∈V (G), we deﬁne a set Eu ⊆V (G′) as follows. Let u ∈Vi, for some
+i ∈[k]. Then, for any edge e(= uv) ∈Eij, where j ∈[k], j > i, we have that the vertex
+e1 ∈Eu; and for any edge e(= uv) ∈Eji, where j ∈[k], j < i, we have that the vertex
+e3 ∈Eu. Formally,
+We assume that the set Eu has a canonical ordering. We encode the vertex-edge incidence
+relation in the graph G as follows: For each vertex u ∈V (G) and value h ∈[ru], the vertex
+u2h+1 in G′ is a neighbor of the vertex Eu(h). Thus, the fact that the edge e is incident to a
+vertex u in G, is captured by the fact that a “copy” of e (namely e1 or e3) is adjacent to a
+“copy” of u in G′.
+Special vertices.
+For each i ∈[k], we create the following special vertices associated with
+the vertices in Vi.
+For each ℓ∈[β1], we add vertices pi
+ℓand ˜
+pi
+ℓin V (G′). Let u and v denote the 2ℓ−1st
+and the 2ℓth vertices in Vi, respectively. Then, the vertex pi
+ℓis a neighbor of vertices u1
+and v1; and the vertex ˜
+pi
+ℓis a neighbor of vertices u2ru+2 and v2rv+2 in G′.
+(an edge whose endpoints are of degree exactly one) to Eij. Similarly, let n′ be the maximum number
+of vertices in any Vi, where i ∈[k]. Let p be the smallest positive integer greater than one such that
+n′ ≤2p. Then, for every i ∈[k], add 2p −|Vi| isolated vertices to Vi. Note that if (G, (V1, . . . , Vk)) was
+a W[1]-hard instance of MCQ earlier, then so is the modiﬁed instance.
+FSTTCS 2020
+
+24:8
+On the (Parameterized) Complexity of Almost Stable Marriage
+For each j ∈[log2(n/2)], we add vertices in G′ in layers, where the value of j gives the
+layer. Vertices in layer j are {bi
+j,ℓ: ℓ∈[βj/2]} ∪{ai
+j,ℓ: ℓ∈[βj]}. In the 1st layer, ai
+1,ℓis a
+neighbor of pi
+ℓ. In the top layer, i.e., j = log2(n/2), bi
+j,1 is a neighbor of ai
+j,1 and ai
+j,2. In
+intermediate layers, i.e., 1 < j < log2(n/2), vertex bi
+j,ℓis adjacent to two vertices in its
+layer, namely ai
+j,2ℓ−1, ai
+j,2ℓas well as one vertex from layer j + 1, namely ai
+j+1,ℓ. Refer to
+Figure (1) for a depiction of two layers.
+Symmetrically, we deﬁne vertices {˜
+bi
+j,ℓ: ℓ∈[βj/2]} ∪{˜
+ai
+j,ℓ: ℓ∈[βj]} and deﬁne similar
+adjacencies for them as well; details are in Table 2.
+For each {i, j} ⊆[k], where i < j, we create the following special vertices associated with
+the edges in Eij.
+For each ℓ∈[ρ1], we add vertices qij
+ℓand ˜
+qij
+ℓto V (G′).
+Moreover, let e and e′ denote the 2ℓ−1st and 2ℓth elements of Eij, respectively. Then,
+qij
+ℓis a neighbor of e1 and e′
+1; and symmetrically ˜
+qij
+ℓis a neighbor of e4 and e′
+4 in G′.
+As before, for each h ∈[log2(m/2)], we add vertices in G′ in layers, where the value of h
+indicates the layer. Vertices in layer h are {cij
+h,ℓ: ℓ∈[ρj/2]} ∪{dij
+h,ℓ: ℓ∈[ρj]}. In the 1st
+layer, vertex cij
+1,ℓis a neighbor of qij
+ℓ. In the top layer, i.e., h = log2(m/2), vertex dij
+h,1 is a
+neighbor of cij
+h,1 and cij
+h,2. In intermediate layers, i.e., 1 < h < log2(m/2), vertex dij
+h,ℓis
+adjacent to two vertices in its layer, namely cij
+h,2ℓ−1, cij
+h,2ℓas well as one vertex from layer
+h + 1, namely cij
+h+1,ℓ.
+Symmetrically, we deﬁne vertices {˜
+cij
+h,ℓ: ℓ∈[ρj/2]} ∪{ ˜
+di
+h,ℓ: ℓ∈[ρj]} and deﬁne similar
+adjacencies for these vertices; details are in Table 2.
+Figure 2 illustrates the construction of G′. The preference list of each vertex in G′ is
+presented in Table 2.
+Parameter:
+We set k′ = k2, and t = k + k(k−1)/2. This completes the construction of an
+instance of ASM. Clearly, this construction can be carried out in polynomial time. Since
+|Vi| = n and |Eij| = m, for every {i, j} ⊆[k], we have 2nk + 4mk(k −1) many base vertices
+and 4nk + 2mk(k −1) −3k −3k2 many special vertices. Thus, in total we have
+The rest of the proof of Theorem 1 is deferred to the full version of the paper.
+4
+FPT Algorithm for LS-ASM
+In this section, we give an FPT algorithm for LS-ASM with respect to q + d (Theorem 4).
+Recall that d is the degree of the graph G, and q is the symmetric diﬀerence between a
+solution matching and the given stable matching µ. Before presenting our algorithm, we
+prove that there exists a solution, γ, to (G, L, µ, k, q, t) such that in every component of
+G[V (µ△γ)], the number of γ-edges (edges that are in γ) is more than the number of µ-edges
+in this component. We will need such a solution for a technical purpose which will be cleared
+later in Phase III of the algorithm.
+▶Lemma 5. There exists a solution γ to (G, L, µ, k, q, t) such that for every component C
+of G[V (µ△γ)], |E(C) ∩γ| > |E(C) ∩µ|.
+The proof of Lemma 5 follows by starting with a solution γ and then replacing the edges in
+µ with the edges in γ only in those components of G[V (µ△γ)], where |γ| > |µ|.
+
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:9
+We begin with the description of a randomized algorithm which will be derandomized
+later using n-p-q-lopsided universal family [13]. Our algorithm has three phases: Vertex
+Separation, Edge Separation, and Size-Fitting. Given an instance (G, L, µ, k, q, t) of LS-ASM,
+we proceed as follows.
+Phase I: Vertex Separation.
+We start with the following assumption.
+Table 2 Preference lists in the proof of Theorem 1. Here, for a set S, the notation ⟨S⟩denotes
+the order of preference over the vertices in this set.
+For each vertex u ∈Vi, where i ∈[k], we have the following preferences:
+u1:
+⟨u2, pi
+⌈ℓ/2⌉⟩
+where for some ℓ∈[n], u = Vi(ℓ).
+u2h+1:
+⟨u2h, Eu(h), u2h+2⟩
+where h ∈[ru]
+u2h:
+⟨u2h−1, u2h+1⟩
+where h ∈[ru]
+u2ru+2:
+⟨u2ru+1, ˜
+pi
+⌈ℓ/2⌉⟩
+where for some ℓ∈[n], u = Vi(ℓ).
+For the special vertices associated with Vi, we have the following preferences:
+pi
+ℓ:
+⟨u1, v1, ai
+1,ℓ⟩
+where ℓ∈[n/2], u = Vi(2ℓ−1) and v = Vi(2ℓ)
+˜
+pi
+ℓ:
+⟨u2ru+2, v2rv+2, ˜
+ai
+1,ℓ⟩
+where ℓ∈[n/2], u = Vi(2ℓ−1) and v = Vi(2ℓ)
+ai
+1,ℓ:
+⟨pi
+ℓ, bi
+1,⌈ℓ/2⌉⟩
+where ℓ∈[n/2]
+˜
+ai
+1,ℓ:
+⟨˜
+pi
+ℓ,˜
+bi
+1,⌈ℓ/2⌉⟩
+where ℓ∈[n/2]
+ai
+j,ℓ:
+⟨bi
+j−1,ℓ, bi
+j,⌈ℓ/2⌉⟩
+where j ∈[log2(n/2)] \ {1} and ℓ∈[n/2j]
+˜
+ai
+j,ℓ:
+⟨˜
+bi
+j−1,ℓ, ˜
+bi
+j,⌈ℓ/2⌉⟩
+where j ∈[log2(n/2)] \ {1} and ℓ∈[n/2j]
+bi
+j,ℓ:
+⟨ai
+j,2ℓ−1, ai
+j,2ℓ, ai
+j+1,ℓ⟩
+where j ∈[log2(n/2)−1] and ℓ∈[n/2j+1]
+˜
+bi
+j,ℓ:
+⟨˜
+ai
+j,2ℓ−1, ˜
+ai
+j,2ℓ, ˜
+ai
+j+1,ℓ⟩
+where j ∈[log2(n/2)−1] and ℓ∈[n/2j+1]
+bi
+j,1:
+⟨ai
+j,1, ai
+j,2⟩
+where j = log2(n/2)
+˜
+bi
+j,1:
+⟨˜
+ai
+j,1, ˜
+ai
+j,2⟩
+where j = log2(n/2)
+For each edge e ∈Eij, 1 ≤i < j ≤k, we have the following preferences:
+e1:
+⟨e2, u2h+1, qij
+⌈ℓ/2⌉⟩
+where for some ℓ∈[m], e = uv = Eij(ℓ) s.t. u ∈Vi and
+for some h ∈[ru], e1 = Eu(h)
+e2:
+⟨e1, e3⟩
+e3:
+⟨e4, v2h+1, e2⟩
+where e = uv s.t v ∈Vj and
+for some h ∈[rv], e3 = Ev(h).
+e4:
+⟨e3, ˜
+qij
+⌈ℓ/2⌉⟩
+where for some ℓ∈[m], e = uv = Eij(ℓ)
+For the special vertices associated with Eij, we have the following preferences:
+qij
+ℓ:
+⟨e1, e′
+1, cij
+1,ℓ⟩
+where ℓ∈[m/2], e = σ(Eij, 2ℓ−1) and e′ = σ(Eij, 2ℓ)
+˜
+qij
+ℓ:
+⟨e4, e′
+4, ˜
+cij
+1,ℓ⟩
+where ℓ∈[m/2], e = σ(Eij, 2ℓ−1) and e′ = σ(Eij, 2ℓ)
+cij
+1,ℓ:
+⟨qij
+ℓ, dij
+1,⌈ℓ/2⌉⟩
+where ℓ∈[m/2]
+˜
+cij
+1,ℓ:
+⟨˜
+qij
+ℓ, ˜
+dij
+1,⌈ℓ/2⌉⟩
+where ℓ∈[m/2]
+cij
+h,ℓ:
+⟨dij
+h−1,ℓ, dij
+h,⌈ℓ/2⌉⟩
+where h ∈[log2(m/2)] \ {1}, ℓ∈[m/2h]
+˜
+cij
+h,ℓ:
+⟨˜
+dij
+h−1,ℓ, ˜
+dij
+h,⌈ℓ/2⌉⟩
+where h ∈[log2(m/2)] \ {1} and ℓ∈[m/2h]
+dij
+h,ℓ:
+⟨cij
+h,2ℓ−1, cij
+h,2ℓ, cij
+h+1,ℓ⟩
+where h ∈[log2(m/2)−1] and ℓ∈[m/2h+1]
+˜
+dij
+h,ℓ:
+⟨˜
+cij
+h,2ℓ−1, ˜
+cij
+h,2ℓ, ˜
+cij
+h+1,ℓ⟩
+where h ∈[log2(m/2)−1] and ℓ∈[m/2h+1]
+dij
+h,1:
+⟨cij
+h,1, cij
+h,2⟩
+where h = log2(m/2)
+˜
+dij
+h,1:
+⟨˜
+cij
+h,1, ˜
+cij
+h,2⟩
+where h = log2(m/2)
+FSTTCS 2020
+
+24:10
+On the (Parameterized) Complexity of Almost Stable Marriage
+Throughout this section we assume that there exists solution η, and everything will
+be deﬁned with respect to η. In fact, we assume that η is a hypothetical solution to
+(G, L, µ, k, q, t) such that in every component of G[V (µ△η)], the number of η-edges is
+more than the number of µ-edges in this component, that is, η satisﬁes the property
+speciﬁed in Lemma 5.
+We start by deﬁning a notion of good coloring.
+▶Deﬁnition 6. A function f : V (G) →{0, 1} is called a good coloring, if the following
+properties are satisﬁed.
+1. Every vertex in V (µ△η) is colored 1.
+2. Let border be the set of neighbors of the vertices in V (µ△η) outside the set V (µ△η), that
+is, border = NG(V (µ△η)), and bordermates be the set of matching partners (if they exist)
+of the vertices in border in µ. Every vertex in border ∪bordermates is colored 2.
+We will show that a random function f that assigns each vertex of the graph G inde-
+pendently with color 1 or 2 with probability5 1/2 each is a good function with probability
+depending only on q and d. In particular, we can say the following about f.
+Every vertex in V (µ△η) is colored 1 w.p. at least
+1
+Every vertex in border ∪bordermates is colored 2 w.p. at least
+1
+24qd . To see this, note
+that |µ△η| ≤q and the maximum degree of a vertex in the graph G is d, and so
+|border ∪bordermates| ≤2|border| = 2|NG(V (µ△η))| ≤4qd.
+For each i ∈[2], let Vi denotes the set of vertices of the graph G that are colored i using the
+function f. Summarizing the above mentioned properties we get the following.
+▶Lemma 7. Let V1, V2, border and bordermates be as deﬁned above. Then, w.p. at least
+1
+22q+4qd , V (µ△η) ⊆V1 and border ∪bordermates ⊆V2. Thus, f is a good coloring w.p. at
+least
+1
+Due to Lemma 7, we have the following:
+▶Corollary 8. Every component in G[V (µ△η)] is a component in G[V1] w.p. at least
+1
+The proof of Corollary 8 follows from the fact that V (µ△η) ⊆V1 and border =
+NG(V (µ△η)) is a subset of V2 w.p. at least
+1
+22q+4qd . Due to Corollary 8, if there exists
+a component C in G[V1] containing a vertex u ∈V (G) that is saturated in µ, such that
+µ(u) /
+∈C, then C is not a component in G[V (µ△η)]. This leads to the following deﬁnition.
+A component C in G[V1] is called a colored-component, if for every vertex v ∈C, we have
+that µ(v) ∈C. Thus, we get the following lemma.
+▶Lemma 9. Let G be a graph and f : V (G) →{0, 1} be a good function. Then, every
+component C of G[V (µ△η)] is also a component of G[V1] and further it is a colored-component.
+Let (G, f) be a pair such that G is the input graph and f is a good coloring function
+on V (G). We call such (G, f) as a colored instance.
+In light of Corollary 8, to ﬁnd µ△η, in Phase II, we color the edges of G[V1] in order to
+identify the components of the graph that only contain edges of µ△η. Let G1 = G[V1] and
+G′ = G1[V (µ△η)].
+5 Henceforth, we will use the shortened form w.p. for “with probability”.
+
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:11
+Phase II: Edge Separation.
+We ﬁrst deﬁne a notion of edge-colored instance.
+▶Deﬁnition 10. Let f : V (G) →{0, 1} and g : E(G) →{Red, Green, Blue} be two functions.
+An instance (G, f, g) is called an edge-colored instance if the following properties are satisﬁed.
+1. (G, f) is a colored instance.
+2. Every edge in µ△η is colored Red.
+3. Every edge in E(G′) \(µ△η) is colored Green.
+4. Every edge in E(G) \ E(G1) is colored Blue.
+Given a colored instance (G, f), we select a function g, as explained below, such that
+(G, f, g) becomes an edge-colored instance with high probability.
+Let g be a function that colors each edge of the subgraph G1 independently with
+colors Red or Green with probability 1/2 each. Furthermore, g colors every edge in
+E(G) \ E(G1) with Blue.
+The following properties hold for the graph G1 that is colored using the function g:
+Every edge in µ△η is colored Red with probability at least
+1
+Every edge in E(G′) \(µ△η) is colored Green with probability at least
+1
+22qd , because
+|V (µ△η)| ≤2q and d is the maximum degree of a vertex in the graph G, so |E(G′)| ≤2qd.
+Every edge in E(G) \ E(G1) has been colored Blue w.p. 1.
+For i ∈{Red, Green, Blue}, let Ei denotes the set of edges of the graph G that are colored
+i using the function g. Then, due to the above mentioned coloring properties of the graph
+G1, we have the following result.
+▶Lemma 11. Let (G, f) be a colored instance. Furthermore, let G′, ERed, EGreen, and EBlue
+be as deﬁned above. Then, w.p. at least
+1
+2q+2qd , µ△η ⊆ERed, E(G′) \(µ△η) ⊆EGreen, and
+E(G) \ E(G1) ⊆EBlue. Thus, (G, f, g) is an edge-colored instance w.p. at least
+1
+Note that the edges in µ△η form vertex-disjoint maximal µ-alternating paths/cycles. A
+component may have several µ-alternating paths and cycles. Let C be a colored-component.
+In what follows, we provide conditions such that if C satisﬁes either of them, then they do
+not belong to G[V (µ△η)]. Such a colored-component is called malformed.
+1. If the set of Red edges in C do not form vertex disjoint maximal µ-alternating paths or
+cycles, then the component does not belong to G[V (µ△η)].
+2. Furthermore, due to our assumption on the hypothetical solution η, if the number of Red
+edges in C that are not in µ is at most the number of Red edges in C that are in µ, then
+C does not belong to G[V (µ△η)].
+3. If C does not have any Red edge, then it does not belong to G[V (µ△η)].
+A component C in G1 that is not malformed is called an edge-colored-component
+(edge-colored-comp).
+The next observation follows from the properties of an edge-colored component.
+▶Observation 1. Let (G, f, g) be an edge-colored instance. Then, for every edge-colored-
+comp C of G1, the following holds: (a) The set of Red colored edges form a collection of
+µ-alternating path/cycle; and (b) every vertex in C is incident to at least one Red edge.
+FSTTCS 2020
+
+24:12
+On the (Parameterized) Complexity of Almost Stable Marriage
+Let Cecc be the set of components of G1 that are edge-colored-comp. In light of Obser-
+vation 1, our goal is reduced to ﬁnding a family of components, C , in Cecc that contain
+the edges of µ△η. Indeed, to obtain a matching of size at least |µ| + t, we need to choose
+t′ ≤t components of G[V1] that have µ-augmenting paths (a µ-alternating path starting and
+ending with edges not in µ). However, choosing t′ components arbitrarily might lead to a
+large number of blocking edges in the solution matching. Thus, to choose the components
+appropriately, we move to Phase III. In particular we show that if (G, f, g) is an edge-colored
+instance, then we can solve the problem in polynomial time.
+Phase III: Size-Fitting with respect to g.
+Let (G, L, µ, k, q, t) be an instance to LS-ASM
+and η be a hypothetical solution to the problem that satisﬁes the condition in Lemma 5.
+Further, let (G, f, g) be an edge-colored instance and Cecc be the set of components of G1
+that are edge-colored-comp.
+We reduce our problem to Two-Dimensional Knapsack (2D-KP), and after that use
+an algorithm for 2D-KP, described in Proposition 2, as a subroutine.
+Two-Dimensional Knapsack (2D-KP)
+Input: A set of tuples, X = {(ai, bi, pi) ∈N3 : i ∈[n]}, and non-negative integers
+c1, c2 and p.
+Question: Does there exist a set Z ⊆[n] such that P
+i∈Z bi ≤c2, and
+P
+i∈Z pi ≥p?
+▶Proposition 2. [17] There exists an algorithm A that given an instance (X, c1, c2, p) of
+2D-KP, in time O(nc1c2), outputs a solution if it is a Yes-instance of 2D-KP; otherwise A
+outputs “no”.
+Construction 2D-Knapsack.
+We construct an instance of 2D-KP as follows. Let C1, . . . , Cℓ
+be the components in Cecc. Intuitively, we construct a family of tuples X = {(ki, qi, ti): i ∈[ℓ]}
+such that ki denotes the number of blocking edges that we encounter if we add edges that
+are not in µ but are present in µ-alternating paths/cycles in Ci to our solution. Similarly, qi
+and ti denote the number of edges in the symmetric diﬀerence and the increase in the size of
+the matching due to this alternation operation. By our choice of the components in Cecc all
+these values are positive integers. Indeed, this is why we selected a hypothetical solution
+with an additional property. Next, we describe the construction of an instance of 2D-KP.
+For each i ∈[ℓ], let qi be the number of Red colored edges in Ci and ti = qi −2|µi|
+where µi denotes the edges of µ in Ci. Next, to compute ki, for each i ∈[ℓ], we construct
+a matching ξi as follows. We add all the Red colored edges in Ci that are not in µ to ξi.
+Next, we make another matching Γi, that has all the edges in ξi, and additionally, we add
+all the edges in µ to Γi whose both endpoints are outside the components in Cecc, and at
+least one of the endpoints is a neighbor of a vertex in Ci. Clearly, Γi is a matching in the
+graph G. To ease notation, we let Gi denote the graph G[V (Γi) ∪V (Ci) ∪NG(V (Ci))]. We
+set ki as the number of blocking edges with respect to Γi in the graph Gi. Basically, the
+graph Gi contains all the vertices in Ci, their neighbors in border, the µ-partners of these
+border vertices in bordermates, and the neighbors of Ci which are unsaturated in µ. That is,
+the number of blocking edges (with respect to Γi) incident on the vertices in the set V (ξi) is
+ki in Gi. To see this note that there is no blocking edge with both endpoints in V (Γi \ ξi)
+
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:13
+(Proposition 1). The only reason to deﬁne Γi is to deﬁne the value of ki in a clean fashion.
+We next state a simple lemma that shows that no blocking edge is counted twice.
+▶Lemma 12 (Locally Pairwise Disjoint Blocking Edges). Let (G, L, µ, k, q, t) be an instance
+of LS-ASM and (G, f, g) be an edge-colored instance. Further, let Ci, Cj ∈Cecc, i ̸= j, and
+for ℓ∈{i, j}, Bℓdenote the set of blocking edges with respect to Γℓin G[V (Γℓ) ∪V (Cℓ) ∪
+N(V (Cℓ))]. Then, Bi ∩Bj = ∅.
+Proof. Due to the construction of the matching Γi, for all the blocking edges in Bi, at least
+one of its endpoints is in Ci. Similarly, for all the blocking edges in Bj, at least one of its
+endpoints is in Cj. Since Ci are Cj are distinct components in Cecc, we infer Bi ∩Bj = ∅.
+◀
+Let X = {(ki, qi, ti): i ∈[ℓ]}. This completes the construction of an instance (X, k, q, t)
+of 2D-KP. We invoke the algorithm A given in Proposition 2 on the instance (X, k, q, t)
+of 2D-KP. If A returns a set Z, then we return “yes”. Otherwise, we report failure of the
+algorithm. It is relatively straightforward to create the solution ˆ
+η when the answer is “yes”.
+Next, we prove the correctness of Phase III.
+▶Lemma 13. Let (G, f, g) be an edge-colored instance. Then, (X, k, q, t) is a yes-instance
+of 2D-KP.
+Proof. Since (G, f, g) is an edge-colored instance, due to the deﬁnition of edge-colored
+instance (Deﬁnition 10), (G, f) is a colored-instance.
+Thus, due to the deﬁnition of a
+colored-instance and Lemma 9, every component in G[V (µ△η)] is also a component in G1.
+Clearly, for every component C in G[V (µ△η)], if a vertex u ∈C, then µ(u) ∈C.
+Therefore, all the components in G[V (µ△η)] are colored component. Next, we note that due
+to Deﬁnition 10, all the edges in the set µ△η are colored Red. Thus, for every component C in
+G[V (µ△η)], Red colored edges in C form vertex disjoint maximal µ-alternating paths/cycles.
+Further, every component C in G[V (µ△η)] has at least one Red edge. Also, due to our
+choice of η, the number of Red edges in C, which are not in µ, are less than the one that are
+in µ. Therefore, all the components in G[V (µ△η)] are edge-colored-comp. Without loss of
+generality, let C1, . . . , Cˆ
+ℓbe the components in Cecc that are also in G[V (µ△η)]. Let us note
+that Cecc may contain several other components. Let S = {i ∈[ˆ
+ℓ]: (ki, qi, ti) ∈X}. We claim
+that S is a solution to (X, k, q, t).
+Due to the construction of the instance (X, k, q, t), and the facts that η is a solution to
+(G, L, µ, k, q, t) and (G, f, g) is an edge-colored instance, clearly, P
+i∈S qi ≤q and P
+i∈S ti ≥t.
+We next show that P
+i∈S ki ≤k. Recall the deﬁnition of ξi and Γi. We show that every
+blocking edge with respect to Γi in the graph Gi is also a blocking edge with respect to
+η in the graph G. Let uv be a blocking edge with respect to Γi in the graph Gi. Then,
+v ≻u Γi(u) and u ≻v Γi(v). Due to Proposition 1 and the deﬁnition of the matching Γi, at
+least one of the endpoint of the edge uv is in the component Ci. Without loss of generality,
+let u ∈V (Ci). Since Ci is also a component in G[V (µ△η)], we can infer that η(u) = Γi(u).
+If the vertex v is also in the component Ci, then using the same argument as above, we know
+that η(v) = Γi(v). Thus, uv is also a blocking edge with respect η in the graph G. Suppose
+that v /
+∈V (Ci). Then, since v ∈V (Γi) ∪V (Ci), Γi(v) = µ(v). Since Ci is a component
+in G[V (µ△η)] and u ∈V (Ci) but v /
+∈Ci, we can infer that η(v) = µ(v). Since u and v
+have same matching partners in both the matchings η and Γi, we can infer that uv is also a
+blocking edge with respect η in the graph G. Since ki is the the number of blocking edges
+with respect to Γi, we infer P
+i∈S ki ≤k. Hence, (X, k, q, t) is a Yes-instance of 2D-KP.
+◀
+▶Lemma 14. Suppose that (χ, k, q, t) is a Yes-instance of 2D-KP. Then, (G, L, µ, k, q, t) is
+a Yes-instance of LS-ASM.
+FSTTCS 2020
+
+24:14
+On the (Parameterized) Complexity of Almost Stable Marriage
+Proof. Suppose that the algorithm A in Proposition 2 returns the set Z. Given the set
+Z, we obtain the matching ˜
+η as follows. Let Z(C ) denotes the family of components in
+Cecc corresponding to the indices in Z. Formally, Z(C ) = {Ci ∈Cecc : i ∈Z}. For each
+component C ∈Z(C ), we add all the Red edges in C that are not in µ, to ˜
+η. That is,
+˜
+η = ∪i∈Zξi. Additionally, we add all the edges in µ to ˜
+η whose both endpoints are outside
+the components in Z(C ). We next prove that ˜
+η is a solution to (G, L, µ, k, q, t).
+▷Claim 15.
+˜
+η is a matching.
+Proof. Towards the contradiction, suppose that uv, uw ∈˜
+η, that is, there exists a pair of
+edges in ˜
+η that shares an endpoint. Due to Observation 1, in every component of Z(C ),
+the Red edges form µ-alternating path/cycle. Therefore, uv and uw both cannot be in a
+component of Z(C ). Suppose that uv is in a component C in Z(C ), but uw does not belong
+to C. Then, due to the construction of ˜
+η, uw ∈µ. This contradicts Lemma 9, as C is a
+component in Cecc. If uv and uw are outside the components in Z(C ), then due to the
+construction of ˜
+η, uv and uw both are in µ. This contradicts that µ is a matching.
+◁
+Proof. Let C be a component in Z(C ). Let ERed(C) denote the set of Red edges in the
+component C. For each component Ci ∈Z(C ), let µi = µ ∩ERed(Ci), that is, µi is the set
+of Red edges in Ci that are in µ. Let ˜
+µ be the set of edges in µ that does not belong to any
+component in Z(C ). Thus, µ = ⊎Ci∈Z(C )µi ⊎˜
+µ. Due to the construction of ˜
+η, we have that
+˜
+η = ⊎Ci∈Z(C )(ERed(Ci) \ µi) ⊎˜
+µ. Thus, µ△˜
+η = ⊎Ci∈Z(C )ERed(Ci). Hence,
+Ci∈Z(C )
+|ERed(Ci)| =
+X
+as qi = |ERed(Ci)| for every component Ci ∈Cecc. Since S is a solution to (X, k, q, t),
+P
+i∈Z qi ≤q.
+Therefore, |µ△˜
+η| ≤q.
+Next, we show that |˜
+η| ≥|µ| + t.
+Due to the
+construction of ˜
+η, we know that
+Ci∈Z(C )
+|ERed(Ci) \ µi|
+= |˜
+µ| +
+X
+as ti = qi −2|µi|. Since P
+i∈Z ti ≥t, we obtained that |˜
+η| ≥|µ| + t.
+◁
+▷Claim 17.
+There are at most k blocking edges with respect to ˜
+η.
+Proof. Due to the construction of the matching ˜
+η and Proposition 1, we know that if uv is a
+blocking edge with respect to ˜
+η, then at least one of its endpoint, that is vertex u or v, is in
+Ci, for some Ci ∈Z(C ). Without loss of generality, let the vertex u is in the component
+Ci. Then, due to the deﬁnition of the matching Γi and the construction of the matching
+˜
+η, we have that ˜
+η(u) = Γi(u). Now, if v is also in the component Ci, then using the same
+argument ˜
+η(v) = Γi(v). Suppose that v is not in the component Ci, then its µ-partner,
+that is µ(v) is also not present in Cecc due the the deﬁnition of colored-components. Thus,
+˜
+η(v) = Γi(v) = µ(v). Since the matching partners of u and v are same in both the matchings
+η and Γi, we have uv is also a blocking edge with respect to matching Γi. Thus, every
+blocking edge with respect to ˜
+η is also a blocking edge with respect to Γi, for some Ci ∈Z(C ).
+Recall that ki is the number of blocking edges with respect to Γi in Gi. Therefore, the
+number of blocking edges with respect to ˜
+η is at most P
+Due to Claims 15, 16, and 17, we can infer that ˜
+η is a solution to (G, L, µ, k, q, t).
+◀
+
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:15
+Due to Lemmas 7 and 11, we obtain a polynomial-time randomized algorithm for LS-ASM
+which succeeds with probability
+1
+23q+6qd . Therefore, by repeating the algorithm independently
+23q+6dq times, where n is the number of vertices in the graph, we obtain the following result:
+▶Theorem 18. There exists a randomized algorithm that given an instance of LS-ASM
+runs in 23q+6dqnO(1) time, where n is the number of vertices in the given graph, and either
+reports a failure or outputs “yes”. Moreover, if the algorithm is given a Yes-instance of the
+problem, then it returns “yes” with a constant probability.
+Proof. Let (G, L, µ, k, q, t) be an instance to LS-ASM and η be a hypothetical solution to
+the problem. If (G, L, µ, k, q, t) is a Yes-instance then by Lemmas 7 and 11, we can get
+an edge-colored instance, (G, f, g), w.p. at least
+1
+23q+6qd . Given an edge-colored instance
+(G, f, g), we apply Construction 2D-Knapsack and construct an instance of 2D-KP with
+a family of tuples X = {(ki, qi, ti): i ∈[ℓ]}. Here, (X, k, q, t) is a yes-instance of 2D-KP.
+We can solve the instance in polynomial time using Proposition 2. Correctness of this step
+follows from Lemmas 13 and 14. Thus, if (G, L, µ, k, q, t) is a Yes-instance, then we return
+that it is a Yes-instance with probability at least
+1
+23q+6qd . Indeed, if (G, L, µ, k, q, t) is a
+No-instance, then we return that it is a No-instance with probability 1. Thus, to boast the
+success probability to a constant, we repeat the algorithm independently 23q+6dq(log n)O(1)
+times, where n is the number of vertices in G. Indeed, the success probability is at least
+This concludes the proof.
+◀
+The derandomization of the algorithm is in the full version.
+5
+In Conclusion
+In this paper, we initiated the study of the computational complexity of the trade-oﬀbetween
+size and stability through the lenses of both multivariate analysis and local search. Since
+ASM is NP-hard for a graph in which every vertex has degree at most three, the natural
+question that arises here is: Is ASM polynomial-time solvable for the graph in which every
+vertex has degree at most two? It is worth mentioning that there is a fairly straightforward
+dynamic programming algorithm that solves this question in polynomial time. The basis
+idea is as follows. This graph, quite clearly, is a disjoint union of paths and cycles.
+Consider a hypothetical solution η in the path or cycle Xn in G. Suppose that we know
+the submatching of η, call it η′, that is contained in a subpath of Xn as well as the subset
+of blocking edges with respect to η that are in this subpath. Then, we can extend η′ to η
+by keeping all the necessary partial solutions. We can brieﬂy sketch this idea as follows.
+Suppose that ηi is a matching in the subpath Pi = (1, . . . , i). We want to extend ηi for the
+subpath Pi+1. If vi is saturated in ηi, then we cannot add edge vivi+1 to ηi+1 and we can
+easily check if it is a blocking edge with respect to ηi+1 in Pi+1. If vi is unsaturated in ηi,
+then we have two possibilities: edge vivi+1 is and is not in ηi+1. If it is, then we can check
+if vivi−1 is a blocking edge with respect to ηi+1 in Pi+1. Otherwise, vivi+1 is a blocking
+edge with respect to ηi+1 in Pi+1. All these possibilities can be taken care by appropriately
+deﬁning the table entries. In the table, however, we do not need to store the whole matching.
+We only need to remember the matching partner of vertices, such as vi−1, as that will help
+in checking if vivi+1 is a blocking edge. We can similarly argue for a cycle in G.
+FSTTCS 2020
+
+24:16
+On the (Parameterized) Complexity of Almost Stable Marriage
+Next, we would like to point out that our hardness results, that is, Theorems 1, 2, and
+3 hold even when the preference lists of the vertices in each side of the partition respect a
+master ordering of vertices i.e., the relative ordering of the vertices in a preference list is
+same as that of a ﬁxed ordering of all the vertices on the other side. We discuss it in details
+in the full version of the paper.
+Future work.
+We conclude the paper with a few directions for further research.
+In certain scenarios, the “satisfaction” of the agents (there exist several measures such as
+egalitarian, sex-equal, balance) might be of importance. Then, it might be of interest to
+study the tradeoﬀbetween t and k, tradeoﬀbetween egalitarian/sex-equal/balance cost
+and k.
+The formulation of ASM can be generalized to the case where the input contains a utility
+function on the edges and the objective is to maximize the value of a solution matching
+subject to this function.
+References
+1
+D. J. Abraham, P. Biró, and D. F. Manlove. “Almost stable” matchings in the roommates
+problem. In International Workshop on Approximation and Online Algorithms (WG), pages
+1–14, 2005.
+2
+P. Biró, T. Fleiner, R. W. Irving, and D. F. Manlove. The college admissions problem with
+lower and common quotas. Theoretical Computer Science, 411(34-36):3136–3153, 2010.
+3
+P. Biró, D. Manlove, and S. Mittal. Size versus stability in the marriage problem. Theoretical
+Computer Science, 411(16-18):1828–1841, 2010.
+4
+P. Biró, D. F. Manlove, and E. J. McDermid. “Almost stable” matchings in the roommates
+problem with bounded preference lists. Theoretical Computer Science, 432:10–20, 2012.
+5
+J. Chen, D. Hermelin, M. Sorge, and H. Yedidsion.
+How hard is it to satisfy (almost)
+all roommates? In International Colloquium on Automata, Languages, and Programming,
+(ICALP), pages 35:1–35:15, 2018.
+6
+J. Chen, P. Skowron, and M. Sorge. Matchings under preferences: Strength of stability and
+trade-oﬀs. In ACM Conference on Economics and Computation (EC), pages 41–59, 2019.
+7
+Á. Cseh and D. F. Manlove. Stable marriage and roommates problems with restricted edges:
+Complexity and approximability. Discrete Optimization, 20:62–89, 2016.
+8
+M. Cygan, F. V. Fomin, L. Kowalik, D. Lokshtanov, D. Marx, M. Pilipczuk, M. Pilipczuk,
+and S. Saurabh. Parameterized Algorithms. Springer, 2015.
+9
+R. Diestel. Graph Theory, 4th Edition, volume 173 of Graduate texts in mathematics. Springer,
+2012.
+10
+R. G. Downey and M. R. Fellows. Fundamentals of Parameterized Complexity. Texts in
+Computer Science. Springer, 2013.
+11
+M. R. Fellows, F. V. Fomin, D. Lokshtanov, F. A. Rosamond, S. Saurabh, and Y. Villange.
+Local search: Is brute-force avoidable? Journal of Computer and System Sciences, 78(3):707–
+719, 2012.
+12
+Michael R. Fellows, Danny Hermelin, Frances A. Rosamond, and Stéphane Vialette. On
+the parameterized complexity of multiple-interval graph problems. Theor. Comput. Sci.,
+410(1):53–61, 2009.
+13
+F. V. Fomin, D. Lokshtanov, F. Panolan, and S. Saurabh. Eﬃcient computation of represent-
+ative families with applications in parameterized and exact algorithms. Journal of the ACM,
+63(4):29:1–29:60, 2016.
+14
+D. Gale and L. S. Shapley. College admissions and the stability of marriage. American
+Mathematical Monthly, 69(1):9–15, 1962.
+
+S. Gupta, P. Jain, S. Roy, S. Saurabh, and M. Zehavi
+24:17
+15
+D. Gusﬁeld and R. W. Irving. The stable marriage problem: structure and algorithms. MIT
+press, 1989.
+16
+R. W. Irving and D. Manlove. Finding large stable matchings. ACM Journal of Experimental
+Algorithmics, 2009.
+17
+H. Kellerer, U. Pferschy, and D. Pisinger. Knapsack problems. Springer, 2004.
+18
+S. Khuller, R. Bhatia, and R. Pless. On local search and placement of meters in networks.
+SIAM journal on computing, 32(2):470–487, 2003.
+19
+D. E. Knuth. Marriages stables. Technical report, 1976.
+20
+A. Krokhin and D. Marx. On the hardness of losing weight. ACM Transactions on Algorithms,
+8(2):1–18, 2012.
+21
+D. Manlove. Algorithmics of matching under preferences, volume 2. World Scientiﬁc, 2013.
+22
+D. F. Manlove, I. McBride, and J. Trimble. "Almost-stable" matchings in the Hospitals/Resid-
+ents problem with couples. Constraints, 22(1):50–72, 2017.
+23
+D. Marx. Local search. Parameterized Complexity News, 3:7–8, 2008.
+24
+D. Marx. Searching the k-change neighborhood for TSP is W[1]-hard. Operations Research
+Letters, 36(1):31–36, 2008.
+25
+D. Marx and I. Schlotter. Parameterized complexity and local search approaches for the stable
+marriage problem with ties. Algorithmica, 58(1):170–187, 2010.
+26
+D. Marx and I. Schlotter. Stable assignment with couples: Parameterized complexity and
+local search. Discrete Optimization, 8(1):25–40, 2011.
+27
+S. Micali and V. V. Vazirani. An O(
+p
+|V ||E|) algorithm for ﬁnding maximum matching in
+general graphs. In Foundations of Computer Science (FOCS), pages 17–27, 1980.
+28
+R. Neidermeier. Invitation to ﬁxed-parameter algorithms. Springer, 2006.
+29
+Krzysztof Pietrzak. On the parameterized complexity of the ﬁxed alphabet shortest common
+supersequence and longest common subsequence problems. J. Comput. Syst. Sci., 67(4):757–
+771, 2003.
+30
+A. E. Roth. The evolution of the labor market for medical interns and residents: a case study
+in game theory. Journal of Political Economy, 92(6), 1984.
+31
+A. E. Roth. On the allocation of residents to rural hospitals: A general property of two-sided
+matching markets. Econometrica: Journal of the Econometric Society, 54(2):425–427, 1986.
+32
+S. Szeider. The parameterized complexity of k-ﬂip local search for sat and max sat. Discrete
+Optimization, 8(1):139–145, 2011.
+33
+El-Ghazali Talbi. Metaheuristics: From design to implementation, volume 74. John Wiley &
+Sons, 2009.
+34
+K. Tomoeda. Finding a stable matching under type-speciﬁc minimum quotas. Journal of
+Economic Theory, 176:81–117, 2018.
+FSTTCS 2020

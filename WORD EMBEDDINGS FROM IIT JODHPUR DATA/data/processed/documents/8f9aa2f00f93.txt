@@ -1,0 +1,17 @@
+research seminar by pratik roy august at pm title of the talk learning quantum topology date time venue august at pm on seminar hall dept
+of mathematics abstract quantum topology refers to interactions between problems in the topology of low dimensional manifolds and ideas and methods from quantum physics
+knot theory has been particularly fruitful avenue for such interactions and for further interactions with computational techniques
+beginning with gentle introduction to knots will present results from numerical and machine learning ml experiments on large dataset of knot invariants that we generated
+our results include highly accurate predictions of geometric properties from simple quantum polynomials
+will also demonstrate utility of our ml techniques in number theory
+will end with future directions in this and other areas of my research
+about the speaker pratik roy is freestanding postdoctoral fellow at the university of the witwatersrand in johannesburg south africa as principal investigator on the grant new inequalities for quantum entropy
+his primary interests are machine learning applications to quantum topology and mathematical physics and quantum information theory
+he also works on problems in the theory of special functions especially generalizations of hypergeometric series
+before going to johannesburg he was an institute postdoctoral fellow at iit madras where he worked on quantum thermodynamics
+he obtained his phd in theoretical physics from chennai mathematical institute
+title of the talk learning quantum topology date time venue august at pm on seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

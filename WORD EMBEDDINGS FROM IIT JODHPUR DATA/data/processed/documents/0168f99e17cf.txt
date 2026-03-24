@@ -1,0 +1,48 @@
+publication an multimode interference device for power splitting in single mode and few mode fiber based passive optical networks no thumbnail available files kb kb of kb kb mb show more date authors journal title journal issn volume title publisher indian institute of technology jodhpur research projects organizational units journal issue abstract the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+as more devices and services depend on real time data transfer the need for faster and more reliable connections becomes crucial
+one promising approach to addressing the capacity limitations of conventional single mode fiber smf networks is mode division multiplexing mdm in few mode fibers fmfs
+this technique leverages multiple guided modes within multimode fiber to enable distinct transmission channels
+successful deployment of mdm systems necessitates the development of various mode transparent optical components
+multimode interference mmi devices play vital role in modern photonics systems finding applications in telecommunications sensing etc
+these devices utilize the phenomenon of multimode interference where light propagating through multimode waveguide undergoes due to the interference of different modes
+mmi devices offer multiple advantages such as compactness low insertion loss and compatibility with standard fabrication processes
+optical power splitters play crucial role in passive optical networks pons by enabling the distribution of optical signals from single source to multiple endpoints
+this functionality is vital for efficient bandwidth utilization allowing service providers to connect numerous users without the need for active components
+by facilitating the sharing of optical signals these splitters help reduce infrastructure costs and minimize maintenance requirements as fewer active elements are needed in the network
+additionally they contribute to the overall reliability of pons as passive components are less prone to failure compared to their active counterparts
+the ability to seamlessly integrate splitters into the network architecture also enhances scalability making it easier to expand services as demand grows
+most existing optical devices are based on planar optical waveguide technology planar lightwave or photonics integrated circuit technology
+while this technology is its compatibility with optical fiber components is limited due to the significant size difference between optical fibers and planar waveguides
+various coupling strategies have been explored to enhance energy transfer but these mechanisms often introduce loss and complexity
+promising solution to these challenges lies in the development of based devices
+such devices would reduce coupling losses and facilitate seamless integration into existing optical fiber networks
+in this work an power splitter is experimentally demonstrated using square core multimode fiber
+the proposed device is capable of splitting the input into four equal parts regardless of the launch field
+initially the power splitter design is focused on single mode fiber networks
+by building upon the principles established in the single mode configuration the extended design incorporates additional considerations necessary for effectively managing multiple modes within few mode fibers network
+comprehensive simulations and experiments support the feasibility of the proposed device for practical applications
+the presented device is highly compact measuring less than cm
+although the power splitter design investigated in this work is specifically for power splitting the design concept and methodology can be applied to any configuration
+additionally an designs for higher order switch and mode sorter are provii posed
+the optical switch is based on architecture where the input is first split into four equal parts and then recombined by adding appropriate phase values to one of the four output ports
+the proposed device design is scalable to configurations
+in mode division multiplexing mdm systems optical switches are essential for managing and routing multiple signal modes or spatial channels within single optical fiber
+mdmenhances the system capacity by utilizing different propagation modes and optical switches facilitate the selective routing of these modes to various destinations
+key component in mdm systems is the mode sorter which is responsible for separating the spatial modes
+in order to design the aforementioned devices the scope of the one analysis has been extended to two dimensions
+this expansion provides clear understanding of the conditions under which the proposed method can be effectively applied to the design of all fiber devices
+for this computationally efficient method is proposed
+this method involves bifurcating waveguide into two waveguides
+the mode propagation analysis of the waveguides is utilized to calculate the propagating fields of the bifurcated structures
+these fields are then used to compute the fields of the waveguide
+this approach eliminates the necessity of calculating the propagation constants for the modes
+the proposed method operates in reduced imensionality allowing for significant computational efficiency
+by utilizing this method up to of computation time can be saved
+the devices proposed in this work could offer viable solution for power splitting and switching in future few mode fiber fmf networks that utilize mode division multiplexing techniques
+description keywords citation srivastava kritarth multimode interference device for power splitting in single mode and few mode fiber based passive optical networks doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses full item page publication an multimode interference device for power splitting in single mode and few mode fiber based passive optical networks an multimode interference device for power splitting in single mode and few mode fiber based passive optical networks no thumbnail available files kb kb of kb kb mb show more date authors journal title journal issn volume title publisher indian institute of technology jodhpur research projects organizational units journal issue abstract the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+indian institute of technology jodhpur uri collections doctoral theses full item page no thumbnail available files kb kb of kb kb mb show more date authors journal title journal issn volume title publisher indian institute of technology jodhpur no thumbnail available files kb kb of kb kb mb show more kb kb of kb kb mb show more of publisher indian institute of technology jodhpur indian institute of technology jodhpur research projects organizational units journal issue abstract the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+indian institute of technology jodhpur uri collections doctoral theses full item page organizational units abstract the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+citation srivastava kritarth multimode interference device for power splitting in single mode and few mode fiber based passive optical networks doctor thesis
+indian institute of technology jodhpur srivastava kritarth multimode interference device for power splitting in single mode and few mode fiber based passive optical networks doctor thesis

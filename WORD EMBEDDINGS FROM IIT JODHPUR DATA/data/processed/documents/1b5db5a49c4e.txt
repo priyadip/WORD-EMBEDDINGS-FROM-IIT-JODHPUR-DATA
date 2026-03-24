@@ -1,0 +1,8 @@
+research seminar by moumita mondal on at pm title of the talk projection methods for integral and equations date time venue at pm at pm on seminar room dept
+of mathematics abstract in this talk we discuss piecewise and global polynomial based projection methods to solve classical integral and equations
+this study covers both linear and nonlinear equations with smooth weakly singular and hypersingular kernels
+we further extend our analysis to solve fractional order equations with smooth and weakly singular kernels
+we have rigorously studied the convergence analysis of the proposed methods
+further we obtain superconvergence for the weakly singular integral equations by improving the regularity of the exact solution using smoothing transformation
+several numerical examples have been implemented to demonstrate the theoretical results
+title of the talk projection methods for integral and equations date time venue at pm at pm on seminar room dept

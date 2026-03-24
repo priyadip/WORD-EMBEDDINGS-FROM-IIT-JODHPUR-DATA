@@ -1,0 +1,35 @@
+spectral projection methods for integral and equations arnab kayal p20ma001 supervisor moumita mandal department of mathematics iit jodhpur abstract integral and equations are widely used in various scientific and engineering fields
+finding highly accurate approximate solutions often poses significant challenges especially when dealing with singularities in the kernel and tions
+this thesis explores the development of spectral projection methods to find imate solutions for various types of linear and nonlinear integral and equations as well as eigenvalue problems of the integral operators
+we develop jacobi spectral galerkin approach for finding approximate solutions of the linear fredholm integral equations with an algebraic weakly singular kernel
+the exact solution to this type of equation is generally
+our approach incorporates the singular part of the kernel into single jacobi weight function
+this enables us to achieve superconvergence rates in both supremum and weighted l2 norms for solutions using the iterated jacobi spectral galerkin method
+we also propose jacobi spectral method and its iterated version based on the galerkin approach and obtain superconvergence results
+additionally we improve the convergence rate of all the proposed methods by improving the regularity of exact solution using smoothing transformation
+further we apply our proposed jacobi spectral galerkin approach to address the eigenvalue problem of fredholm integral operators with an algebraic weakly singular kernel on banach space
+using this approach we achieve superconvergence rates for the approximate eigenvalues obtained by the jacobi spectral method
+superconvergence for the approximate eigenfunctions is obtained by the iterated jacobi spectral method
+next we investigate class of nonlinear fredholm equations with smooth kernel
+we find that the legendre spectral and iterated version of galerkin and methods yield convergence results despite the presence of unbounded differential operator
+further we explore the nonlinear weakly singular fredholm integral equations of hammerstein type
+our proposed iterated jacobi spectral galerkin method achieves similar superconvergence results for solutions as observed in the linear case
+additionally we strate the applicability of the jacobi spectral galerkin approach for class of nonlinear weakly singular equations achieving superconvergence
+finally we consider algebraic weakly singular volterra integral equations and propose chebyshev spectral galerkin collocation and methods to obtain approximate solutions
+we achieve superconvergence for the chebyshev spectral and methods after the smoothing tion and obtain sharp error bounds in the supremum norm by leveraging the behaviour of the exact solution
+numerical implementations of all the proposed methods are carried out to verify the theoretical results
+list of from the thesis
+mandal kayal nelakanti
+projection methods for mate solution of class of nonlinear fredholm equations
+plied numerical mathematics
+new approach of shifted jacobi spectral galerkin methods sjsgm for weakly singular fredholm integral equation with solution
+superconvergent method for weakly singular integral equations with solutions and its cation
+applied numerical mathematics
+kayal mandal jacobi spectral galerkin methods for eigenvalue problems of weakly singular integral operators
+kayal mandal chebyshev spectral projection methods for weakly singular volterra integral equations
+under review other publications
+kayal mandal nelakanti
+superconvergence of legendre spectral projection methods for mth order equations with weakly singular kernels
+gupta kayal mandal
+superconvergence results for singular integral equation of first kind by chebyshev spectral projection methods
+applied mathematics and computation

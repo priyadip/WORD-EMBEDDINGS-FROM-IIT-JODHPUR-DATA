@@ -1,0 +1,22 @@
+research seminar by narendra singh august at pm title of the talk convergence analysis of approximation of singularly perturbed semilinear parabolic pdes with boundary conditions
+date time venue august at pm on seminar hall dept
+of mathematics abstract this research talk focuses on developing and analyzing an efficient numerical approximation of singularly perturbed semilinear parabolic problems with boundary conditions
+we approximate the governing nonlinear problem by an implicit fitted mesh method fmm which combines an alternating direction implicit scheme in the temporal direction together with finite difference scheme in the spatial directions
+next we established error analysis of the imex euler scheme with the same finite difference scheme
+since the solution possesses exponential boundary layers cartesian product of shishkin meshes is used to discretize in space
+to begin our analysis we establish the stability corresponding to the continuous nonlinear problem and obtain bounds for the solution derivatives
+thereafter we pursue the stability analysis of the discrete problem and prove convergence in the
+next for enhancement of the temporal accuracy we use the richardson extrapolation technique solely in the temporal direction
+in addition we investigate the order reduction phenomenon naturally occurring due to the boundary data and propose suitable approximation to tackle this effect
+finally we present the computational results to validate the theoretical estimates
+about the speaker narendra singh yadav is currently serving as regular assistant professor at the indian institute of information technology iiit sri city chittoor andhra pradesh india
+he earned his
+in mathematics from kanpur university followed by an
+in mathematics from the
+he completed his in applied and computational mathematics at the indian institute of space science and technology iist thiruvananthapuram in may and subsequently pursued postdoctoral research at iiser thiruvananthapuram
+his research focuses on the development and rigorous analysis of advanced numerical methods for singularly perturbed partial differential equations sppdes along with their efficient numerical simulation and computational validation
+title of the talk convergence analysis of approximation of singularly perturbed semilinear parabolic pdes with boundary conditions
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

@@ -1,0 +1,626 @@
+SOURCE_PDF: 4b4fff4862d0_IPRPolicy-Dec-2019-638741907465846483.pdf
+
+Indian Institute of Technology Jodhpur
+Intellectual Property Rights (IPR) Policy
+December 2019
+
+This page is left blank, intentionally
+
+1. PREAMBLE
+The Indian Institute of Technology, Jodhpur (hereafter called “The Institute”), is one of the young
+institutions to join the IIT Family in 2008. With a contemporary vision of promoting technology
+through thought and action, it embarked on its path to the creation of the much-needed technical
+human resources, promotion of learning, facilitating internationally competitive research and
+innovation, transferring developed knowledge and technology for economic value creation, to
+meet the emerging challenges of India simultaneously encouraging entrepreneurship among the
+budding youth for effective job creation. The institute is ground in its core values of integrity,
+dignity, inclusiveness and ethics, with a commitment to fairness, openness, and respect for
+intellectual property rights (IPR).
+The Intellectual Property Rights Policy of the Institute provides an enabling, transparent and
+operative framework for the management of Intellectual Property (IP) resulting from the creative
+work, in the institute, and of its employees, students, researchers, persons associated with the
+institute in diverse capacities with short, medium and long term links with The Institute,
+collaborations with other institutions including industries & varied governmental / non-
+governmental agencies, and their like. This IPR Policy is also linked to all associated entities
+promoted by The Institute.
+This policy is to be used as an operative process by the stakeholders / beneficiaries as a facilitative
+pathway for the enhancement of their creative work and concurrently deriving the maximal value
+of such creative work.
+2. Key facets of the IPR Policy
+The essential facets of the IPR Policy include but not limited to:
+ Establishing two IP management groups, namely i) Institute IP Management Group
+(IIPMG), and ii) Technology / Knowledge Transfer Group (TKTG), constituted with
+distinct roles and responsibilities for comprehensive management of IP from the steps of
+identification of various creations in the Institute, to their appropriate protection,
+publication, knowledge / technology transfer including commercialization
+ Defining the main responsibilities of the Institute IP Management Group (IIPMG) to
+o Set-up and operate a time-bound enabling system for identifying creations in the
+institute based on a structured standardized documentation system to be proposed
+by IIPMG. The said system would enabled faculty/ students/ researchers to
+conduct early technology mapping with IP landscaping for self-assessment of the
+
+IP Potential of their creations and to voluntarily approach the IIPMG and TKTG
+to seek advice on appropriate IP protection, technology transfer and
+commercialization
+o Evaluate the creations when approached and arrange for their appropriate
+protection as intellectual property
+o Determine ownership of works / creations (including development of
+courses/course materials, books, thesis, papers, kits, etc. with and / or without
+substantial use of institute resources) and interact with IP Professionals to get IP
+applications drafted and prosecuted
+o Arrange for legal support, wherever necessary, to act on any oppositions to the
+Institute IP Applications (pre and/or post grants), defend and protect the IP
+obtained by the Institute against any infringement/unauthorised use by others
+o Establish formal benefit sharing arrangements with the creators on earnings
+resulting from commercialisation of their “Creations and IPR”
+o Provide guidelines on conflict of interests and resolution of conflicts with regard
+to non-compliance of the Institute IPR Policy
+o Outline a system and process in the innovation value chain to ensure that the
+researchers do not knowingly infringe IPR of others
+o Operate a systemic platform for the faculty and students for protection of their
+innovations created during their educational developmental process in The
+Institute thereby fostering their Creations with appropriate IP Protection for the
+initiation of entrepreneurship, start-up ventures, family businesses, etc.
+ Setting targeted responsibility of the Technology / Knowledge Transfer Group (TKTG) to
+o Select innovations and creations with / without their associated IP for evaluation
+and exploration of possible knowledge transfer / commercialization with potential
+industrial partners
+o Participate with the Institute IP Management Group to decide on filings abroad,
+Suggests that filing abroad will be processed through or by TKTG or with the
+Concurrence/ recommendation of TKTG strategies for linking the institute with
+industry and other commercialization partners
+o A policy to be prepared/formulated by TKTG to deal with contractual agreements,
+data ownership, data and material transfer agreements, IPR issues related to
+acceptance of grants from various organisations, government and non-government
+
+bodies including industries, financial institutions, angel investors, including a
+specific policy for dealing with IP Trolls, etc.
+ Creating a special corpus fund called “Institute IP Fund” to meet the financial requirements
+necessary for the management of Institute IP.
+ Conducting IP familiarisation programmes and structured formal courses within the
+Institute’s educational system to equip the beneficiaries and stakeholders with the nuances
+of IPR and their relevance in the global socio-economic and technological development
+with specific emphasis to India
+ Ensuring that IP practices in the Institute are contemporary and world class
+ Providing a cohesive value-added platform within the associated entities promoted by IIT
+Jodhpur (such as start-ups / incubates in TISC, Technology Park, and their like) to facilitate
+and support IP related matters.
+3. Creations, Modes of creations, Types of IP Protection
+3.1 Creations
+Creations may be in diverse forms such as inventions with regard to products and processes
+addressing issues related to functionalities using methods of science and technology,
+expressions of the human mind, distinctive aesthetic features of shapes & ornamentations in as
+applied to articles of manufacture (disclaiming functionality), representations in various forms
+that help to establish a correlation between the representation (text, logos, sound, shapes, etc)
+and products / services originating from specified source(s).
+Further, creations could be new plant varieties, new microorganisms, algorithms, software,
+artificial intelligent systems, methods of treatment, business methods, data, codes, structured
+Creations may include academic materials in the form of course structures with resource
+material, publications of various types including books, monographs (both in digital and non-
+digital media), audio / audiovisual materials, software, thesis / dissertations, reports
+(commissioned or non-commissioned), exam questions, teaching methods, and similar works
+including hardware designs schematics and firmware, experimental protocols and
+communication protocols.
+
+3.2 Modes of Creation and their Creators
+The creations mentioned in section 3.1, could emanate from a person who is
+ An employee of the Institute and has done the creation as part of his / her normal
+course of duties for which the person has been employed by the Institute
+ A student who is enrolled in the courses offered by the Institute or even a student who
+is on an “exchange programme” and the like
+ Associated with the Institute as student, faculty, staff, researcher, project worker
+supported by funding administered by the Institute, scholarships, research fellow with
+research fellowship administered through the Institute, contracts with third parties
+(governmental / non-governmental / national / international agencies) in which any of
+the person (s)/ department(s) of the Institute / Institute is a party
+ Part of joint academic programs, R&D projects
+ Part of consultancy projects. IP generated in such projects may be assigned by the
+concerned faculty to the sponsoring agency, wherein the concerned faculty member’s
+name shall be included as a creator in the said IP. The concerned faculty shall be
+permitted to accept any monetary award given by the sponsor for the said IP. Such
+awards shall be governed by R&D norms of the Institute
+ A student, with faculty mentor as part of Institute’s Academic Programs, conducting
+exploratory entrepreneurial activity in any of the entities promoted by the Institute
+(such as TISC, Technology Park and their like)
+ Visiting expert, adjunct faculty, and similar personnel associated with the Institute
+and is involved in activities related to the Institute as part of their defined
+responsibilities
+ Engaged by the Institute under contracts for services during the course of or
+incidental to that engagement
+ Working in the Institute and is on “lien” from some other institution. Ownership of
+IP generated while on “lien” by the person would be based on the usage of the
+resources (human and infrastructure) of the Institute
+ Faculty involved in R&D programmes while on leave / sabbatical / short term
+industry stints and their like
+ In the institute, comes up with creations in his / her personal capacity (not necessarily
+linked with his/ her formal employment) The underlying feature in all the modes
+
+above involves the process of creation with creative inputs / contributions, and not
+mere routine work / activity carried out with or without being instructed.
+3.3 Types of IP Protection
+IP Protection could be in the form of:
+This is a legal tool that helps to protect inventions with regard to products and
+processes including software (under specific conditions), addressing issues related to
+functionalities using methods of science and technology. Discoveries are not capable
+of being protected by patents. Further, not all inventions are capable of being protected
+by patents.
+The list of inventions not capable of being protected by patents (non-patentable
+subject matter) is listed in every national patent law. Even if an invention is capable of
+being protected by a patent, it should satisfy some benchmarks as required by the
+national patent laws.
+These benchmarks are called novelty, inventive step and “capable of industrial
+application” (in some countries also called “utility”.
+ Industrial Design Registration
+This legal tool protects distinctive aesthetic features of shapes & ornamentations in
+as applied to articles of manufacture (disclaiming functionality) and appeal to an
+unaided eye.
+ Copyright
+This legal tool protects expressions of the human mind that include but not limited
+to academic materials in the form of course structures with resource material,
+publications of various types including books, monographs (both in digital and non-
+digital media), audio / audiovisual materials, software, thesis / dissertations, reports
+(commissioned or non-commissioned), exam questions, teaching methods, and similar
+works. These could also include works of architecture.
+ Trademark
+A trademark is a sign that identifies and distinguishes in the marketplace the
+products of one enterprise from those of other enterprises.
+The products that it identifies may be goods or services. In some countries, the term
+“trademark” is used for goods while signs for services are called “service marks”.
+
+Any sign capable of distinguishing goods or services can be used as a trademark,
+such as words, names, letters, numerals, drawings, pictures, shapes, colors, labels, or
+any combination of these. In most countries, taglines, advertising slogans and titles
+may also constitute trademarks.
+ Geographical Indications
+A geographical indication is a sign used on products that have a specific
+geographical origin and possess qualities or a reputation that are due to that origin.
+Moreover, in order to work as a GI, a sign must identify a product as originating in a
+given place. In addition, the qualities or reputation of the product should be essentially
+due to the place of origin. Since the qualities depend on the geographical place of
+production, there is a link between the product and its original place of production.
+ Trade Secrets
+A trade secret is defined as any information that is: (1) not generally known to the
+relevant business circles or to the public; (2) confers some sort of economic benefit on
+its owner. This benefit must derive specifically from the fact that it is not generally
+known, and not just from the value of the information itself; and (3) the subject of
+reasonable efforts to maintain its secrecy.
+A trade secret continues for as long as the information is maintained as a trade
+secret. Anything that is easily and completely disclosed by the mere inspection of a
+product put on the market cannot be a trade secret.
+ Data Ownership
+The Institute shall be the owner of data generated from a wide spectrum of
+investigations, research products surveys, etc., and therefore in due course would
+evolve into a value-added storehouse of such data.
+The Institute would then operate not only as a repository of such data, but also be
+involved in transaction of data with other organisations, agencies, institutions,
+commercial organisations, intergovernmental bodies, etc.
+While exercising its data ownership, the Institute would always be compliant with
+the existing directives / laws / policies regulating data ownership and transactions.
+As mentioned in the introductory paragraphs, the two Groups constituted by the
+Board of Governors of the Institute, namely (i) the IP Management Group, and the
+Technology / Knowledge Transfer Group shall collectively be responsible for the
+
+management of IP in the Institute. The roles and responsibilities of the two Groups are
+elaborated in Section 4 below
+4.0 Constitution of the Institute IP Management Group (IIPMG) and
+Technology / Knowledge Transfer Group (TKTG) and their Role
+The Institute Director shall set up an Institute IP Management Group (IIPMG) as the
+Manager of Institute’s Intellectual Property, its governance and administration. The Institute
+shall also set up Technology / Knowledge Transfer Group (TKTG) to comprehensively
+manage all technology / knowledge transfer (irrespective of whether they are protected by IP
+or otherwise) to external agencies/institutions/industry.
+The IIPMG shall comprise of at least 5 members, of which two members shall be deans
+/ heads of departments from academic disciplines in the Institute, one member to represent the
+Institute Administration and two Professionals drawn from other institutions / organisations
+including industry. It is desirable that at least one of the Professionals drawn from external
+sources is a person with experience in Industry, with familiarity of IP operations in a business.
+The TKTG shall comprise of at least 5 members, of which two members shall be deans
+/ heads of departments from academic disciplines in the Institute, one member to represent the
+Institute Administration (especially finance) and two Professionals drawn from other
+institutions / organisations/ industry. It is desirable that these two professionals are persons
+with experience in Industry / Management consulting firms / technology brokers with
+operational experience in technology transfer and commercialisation.
+The IIPMG and the TKTG, from time to time, shall have the right to co-opt Domain
+Experts, IP Experts, technology / knowledge transfer experts, to assess diverse Creations
+submitted to the Groups for the appropriateness of their IP Protection, commercialization
+potential and value to the Institute.
+The TKTG would function the key technology/knowledge broker for the Institute and
+would closely work with the IIPMG to translate the “identified creations” for assessment of
+their commercial potential and further work towards the realization of their commercial value.
+4.1 Role of the Institute IP Management Group (IIPMG)
+The IIPMG shall manage a systemic platform for the governance and management
+of IP in the Institute, to enable the Institute personnel and those associated with the Institute
+(Section 3.2), especially the faculty, undergraduate and post graduate students and
+
+researchers for protection of their innovations created during their educational
+developmental process in the Institute.
+The IIPMG’s role would, therefore, be crucial in fostering creations with
+appropriate IP Protection and to create an enabling vibrant innovation eco-system wherein
+the researchers including students feel encouraged to move towards entrepreneurship, start-
+up ventures, set-up family businesses, etc.
+The IIPMG would function as per the following guidelines:
+1. Set-up and operate a methodology for the time-bound processing of IP cases
+resulting from the innovations in the Institute, based on a structured
+standardized documentation system (preferably in the form of a e-governance
+system). The broad outline for such a process would be as follows:
+ Procure a smart tool for searching IP databases for the preparation of
+technology / knowledge landscapes and assessment of their IP potential.
+Also design a structured innovation disclosure form to capture the essential
+features of the innovations. Train the researchers to use the smart tools and
+to report their innovations using the innovation disclosure form.
+ The creators shall voluntarily submit to the IIPMG their respective
+innovation disclosure forms for a formal assessment of the suitability and
+appropriateness for IP Protection in the context of Institute’s interests. In
+case of inventions, the inventors (creators) would submit their Pre-
+Assessment Patentability Reports together with the detailed Patent
+Landscape Report (prior art analysis) and the filled “IP Disclosure Form”
+to facilitate the process of decision making by the IIPMG
+o 
+Whether the invention qualifies for a patent and
+o 
+ Whether the Institute should support the expenditure for IP Protection
+irrespective of whether the work is publishable or not. The IIPMG
+would not be involved in the assessment of whether a work is
+publishable or not. The IIPMG would only address issues related to
+the filing of appropriate IP applications prior to public disclosure of a
+ Constitute a Working Group with domain experts and IP professionals
+from its panel of experts and / or suggested by the creators, within three
+weeks of receiving the Creation Disclosure Form to evaluate the creations
+
+and if found suitable for IP protection,
+o 
+Inform the creator(s) of its decision
+o 
+Initiate the process of assignment of rights of the said creations to
+the Institute
+o 
+Arrange for their appropriate protection as intellectual property of
+the Institute
+o 
+Incorporate name(s) of the creators appropriately as inventors for
+their inventions in patent applications, or as authors in the case of
+design registrations, copyright and trademarks
+As a part of this activity, IIPMG shall
+o 
+Get the pre-assessment of patentability of inventions verified
+internally in the Institute or externally through experts to obtain a
+reasonable professional evaluation on the novelty of the creation,
+and in the case of inventions, also get the inventive step and
+industrial utility / usefulness evaluated
+o 
+Interact with IP professionals to get IP applications drafted and
+prosecuted
+ If the IIPMG after receiving the Creation Disclosure Form to evaluate the
+creations decides that the said creation(s) is not suitable for IP protection 
+with respect to current interests of the Institute, the IIPMG shall
+o 
+Offer to the Creator(s) the option to file and prosecute the IP
+application in their name, at their personal cost, subject to the
+following conditions:
+ The Creator(s) shall for all time to come, to keep the Institute
+continuously informed in writing the steps being taken by the
+Creator(s) for the IP protection of the said creation
+ If the Creator(s) decide to approach any external agency / third
+party for funds / support for the filing and prosecution of the IP
+application(s) of the said creation, the Creator shall take prior
+written permission of the IIPMG
+ Any IP transaction (licensing / assignment) associated with such
+IP, shall be referred to the IIPMG and TKTG for prior clearance
+ All steps being taken by the /creator(s) for the commercialization
+of the said technologies / knowledge under this subsection shall be
+
+intimated in writing to the TKTG and all benefit sharing
+arrangements between the Creator(s) and the Institute shall be
+guided by the policy and norms set by the TKTG and applicable at
+that point in time
+ If any of the creations are evaluated to be maintained as a “trade secret”,
+then the IIPMG would initiate the necessary processes to ensure
+maintenance of confidentiality of the said creations and the associated
+information
+ The IIPMG shall ensure appropriate interactions between the IP
+Professionals and the creator(s) of the IP for technical inputs while drafting
+the IP applications and their prosecution. The IP professionals shall be
+hired by the IIPMG. These IP Professionals shall report to the IIPMG and
+keep the IIPMG informed of their interactions with the creator(s)
+ IIPMG shall prepare a formal report on each creation disclosed to it and
+provide the Technology/knowledge Transfer Group with its findings to
+trigger the TKTG to initiate their process for the realization of the
+commercial potential of the IP (and/or in the process of being protected)
+2. The IIPMG with TKTG shall conduct IP awareness programmes to impress on
+the Institute personnel the essential aspects of intellectual property rights (IPR)
+and its role in enhancing the quality of innovations, increasing their probability
+for technology / knowledge transfer & commercialization. Further, these
+awareness programmes shall also demonstrate good practices of taking
+appropriate care of the IP and how not to knowingly infringe IP of others
+3. The IIPMG will ensure that adequate and timely IP protection has been
+provided and actions taken on all disclosures submitted to it, prior to
+publication and public disclosure of these creations
+4. IIPMG on behalf of the Institute shall arrange to bear the cost of the Institute
+owned 
+IP 
+Applications, 
+prosecution, 
+maintenance, 
+enforcement,
+commercialization, etc., from the appropriate project grants obtained from
+various project funding agencies and the “Institute IP Fund”
+5. The IIPMG will arrange for legal support as necessary, to defend and protect
+the IP obtained by the Institute against any infringement / unauthorized use by
+others
+
+6. The IIPMG will provide guidelines on conflict of interests and resolution of
+conflicts regarding non-compliance of the Institute IP Policy
+7. The IIPMG may engage with associated entities promoted by Institute for
+commercial exploitation of Institute IPs
+4.2 Role of the Technology / Knowledge Transfer Group (TKTG)
+The main role of the TKTG is to continually explore the options and means for the
+commercialization of Institute’s IP and nurturing in parallel Institute’s thrust towards
+setting up entrepreneurships and startups through TISC. The TKTG would therefore
+function as Institute’s outreach to the Industry / Businesses in India and abroad and become
+an operating channel for effective commercialization of creations from the Institute and
+Institute IP.
+The TKTG shall set up the formal mechanisms to deal all forms of contracts,
+agreements, memorandum of understandings (MOUs), negotiations with external agencies
+for commercialization. The TKTG is therefore be responsible for all contractual
+agreements, material transfer agreements, IPR issues related to acceptance of grants from
+various organisations, government and non-government bodies including industries,
+financial institutions, angel investors.
+The TKTG shall therefore act as a “IP Watch Dog” and vet the terms and conditions
+o By project funding agencies with respect of IP ownership
+o For sharing of benefits from the earnings of resulting IPs
+o For IP portfolio maintenance
+o For acceptance of fellowships by the students, faculty, staff, etc.
+Every Institute Personnel shall submit all such documents linked to IP given to
+them for signing by any external agency to the TKTG for a legal scrutiny and shall not sign
+such documents without the explicit written clearance by TKTG.
+The same requirements apply to setting up joint projects, initiating collaborations,
+accepting consultancy projects, advisory assignments, etc.
+The TKTG will set up and operate all precautionary policies and processes to deal
+with IP Trolls and their like operating nationally and internationally.
+The TKTG from time to time may induct into its working teams, industry experts,
+technocrats , legal experts, consulting agencies and their like to help it to professionally
+
+handle each case of technology / knowledge transfer and also conduct familiarization and
+training programmes to equip the Institute personnel with the rudiments of IP monetization,
+global good practices and also to conduct periodic audit of the processes being followed in
+the Institute.
+The IIPMG shall provide its recommendations on selected developed innovations
+and creations with their associated IPR to the TKTG for evaluation and exploration of
+possible knowledge transfer / commercialization with potential industrial partners.
+The TKTG may call for the entire documentation related to the said creations that
+includes the creation disclosure forms, the reports on prior art searches, the IP applications
+made, the prosecution history including the final form in which the IP has been granted /
+registered. The TKTG if appropriate may also initiate “a freedom to operate exercise”
+(FTO), to ensure that the said creations with its IPR do not infringe and existing IPR of any
+other party.
+The TKTG shall conduct a “Due Diligence” on the creations with its IPR referred
+to is or identified by it, to ensure that all actions related to the said creations complies with
+the associated contracts / agreements / arrangements with the funding agencies supporting
+the project, collaboration arrangements, etc.
+The TKTG is empowered to progress technology / knowledge transfer, conduct
+negotiations and conclude formal deals between the Institute and the identified industry
+partners including signing of working MOUs/ agreements to progress across the knowledge
+value chain.
+As a Government funded Institution, the Institute is primarily committed to make
+all efforts to ensure that the benefits of the Institute Creations are made available to the
+largest sections our society. Accordingly, “Non-Exclusive licensing” would be the most
+preferred option for TKTG, though exclusive licensing or an assignment of the Institute IP
+may be considered on a case to case basis.
+The TKTG shall establish formal benefit sharing arrangements with the creators on
+earnings resulting from commercialisation of their “Creations and IPR.
+TKTG will ensure that formal agreements have been signed between the creators
+and the Institute on the benefit sharing arrangements between the institute and the creators.
+In cases where a student, with faculty mentor as part of Institute’s Academic
+Programmes, conducts exploratory entrepreneurial activity in any of the entities
+
+promoted by the Institute (such as TISC or Technology Park and their like), the TKTG
+shall provide appropriate frameworks for the transfer of the IP ownership.
+The benefit sharing of the effective earnings of the IP shall be in the ratio of 60:40
+between the Creators and the Institute. By effective earning is meant the net earnings from
+the commercial transaction from the IP after deducting all transactional costs.
+The benefit sharing between the creators (for joint creations) of the apportioned
+part applicable to the creators (i.e. the 60 % of the effective earning of the IP described
+above) shall be mutually agreed in writing between the creators at the time of the disclosure
+of the creations to the IIPMG. The TKTG would facilitate the discussion between the
+creators at that stage if approached by the creators.
+In the case of creations for which the IIPMG decided not find them either not
+suitable for IP protection and / or of no interest to the Institute, and the Creator opted for
+the route to file and prosecute the IP Applications in their own name at their own cost, and
+have complied with all the conditions set for such cases( elaborated in the section for the
+roles and responsibilities of the IIPMG), the benefit sharing of the effective earnings of the
+IP shall be in the ratio of 80:20 between the Creators and the Institute. By effective earning
+is meant the earning from the commercial transaction from the IP after deducting all the
+costs and projected costs associated with the said IP. This would include all the costs from
+the stage of filing of the IP, its prosecution, maintenance, etc.
+The benefit sharing arrangement policy shall be reviewed from periodically and the
+TKTG may recommend to the Institute Board appropriate amendments for incorporation
+in the IP Policy.
+The TKTG shall encourage its students, faculty and staff into an entrepreneurial
+mode and help them to establish start-ups and where necessary appropriately transfer the
+Institute IPR in favour of the start-ups under well-structured contracts between the Institute
+and such start-ups / entrepreneurships, and their like. The TKTG would make every effort
+to uphold such a spirit in its dealings in a case to case basis especially when dealing with
+start-ups under the TISC.
+TKTG shall also impress on the parties with whom technology transfer / knowledge
+transfer contracts are being negotiated that the Institute as a policy does not knowingly
+infringe any IP of other parties. Notwithstanding what has been stated, the TKTG shall
+ensure that in all contracts with regard to its IP transactions, the Institute is indemnified by
+the Parties to whom the IP has been transacted with, from any infringement proceedings
+
+including without limitation in all such aspects related to production of its IP related
+products, manufacturing defects, debugging applications associated with software
+Further, it will be the endeavor of TKTG in all contracts related to IP transactions
+between the Institute and Third Parties, to indemnify the Institute Creators from all
+proceedings related to the aspects referred to in this paragraph. Notwithstanding what has
+been stated, the Institute may be called upon by the associated third parties to who the
+Institute technology / knowledge with IP has been transferred, to provide technical support
+to defend such parties in any associated IP litigations.
+All agreements to be signed by TKTG on behalf of the Institute shall seek
+jurisdictions of the courts in Rajasthan and / or any court in India and all the contracts /
+agreements shall be governed by the appropriate laws of India.
+5. Ownership of IP and Cost of Managing IP
+5.1 Basic Features
+These are basic features of immense interest to the creators of IP and the Institute.
+The Creators of IP are closely linked with the people associated with the modes of creation
+of IP described in section 3.2 of this document.
+However, ownership of IP will be decided based on various factors linked to the
+circumstances under which the creation was made.
+Ownership of all “Creations” regardless of the source of funding but using
+significant resources of the Institute shall primarily lie with the Institute, if not
+otherwise specified by a contract.
+5.2 Contracts
+In case of sponsored projects or projects that are governed by contracts between
+the Institute and another institution/Industry (other than consultancy projects), the
+ownership of the IP shall be governed by the terms and conditions set in the said contracts.
+Even in such cases, the first disclosure of the creations shall be made to the Institute
+IP Management Group and all matters related to IPR of the said creations shall be
+administered by the Institute IP Management Group in consultation with the parties in the
+said contracts.
+The creators are not authorized to sign any documents related to the ownership of
+
+their creations and shall not sign any documents as regards the ownership of the
+Intellectual Property Rights of their creations resulting from the work under any contract
+without the explicit written directions of the Institute IP Management Group.
+The creators shall be named either as inventors for their inventions, or as authors
+in the case of design registrations, copyright and trademarks. In the case of geographical
+indications (GI), the Institute IP Management Group shall decide on the ownership of the
+GI as appropriate.
+5.3 Special Features on Ownership of Copyright
+Creations related to copyright and ownership of academic works are common to
+several departments and activities associated with the Institute and hence deserves a special
+mention. It is to be appreciated that creation of academic works is a substantial activity of
+the faculty / students and all those associated with teaching and instructional activities that
+need significant use of facilities of the Institute.
+Further, it is to be appreciated that the Institute promotes, encourages academic
+freedom, nurtures excellence and fosters entrepreneurial spirit.
+The Institute shall not claim ownership of copyright in Theses, Dissertations,
+reports and their like, lecture notes, question papers, model answers, case studies,
+monographs, books, textbooks, articles and other scholarly works including creative works
+that are not governed by sponsorships, research grants, or other agreements with any third
+party. However, in the case of Theses, Dissertations, reports and their like, lecture notes,
+question papers, model answers, case studies, the Institute shall reserve the right to use the
+above mentioned for purposes teaching, research, and any academic activity conducted by
+the Institute.
+The types of creations using significant Institute resources that lead to a degree,
+diploma, certificates, through any programmes conducted by or on behalf of the Institute,
+or using grants that are administered by the Institute shall belong to the Institute (though
+not limited to those listed herein merely as illustration of the types of works) for which the
+Institute shall own the copyright are:
+a) Laboratory notebooks, Laboratory Manuals, Project documentations in diverse media,
+databases generated in the course of research, investigations, studies, etc
+b) Evaluation systems developed, course structures and content including curriculum, and
+their like
+
+c) Developed software and computer-generated / AI generated works, courseware, etc
+d) Diverse works of art, photographs, music, audio-visual, video, plays, works in all media
+e) registered and unregistered designs, logos, holograms and their like
+f) All types of Works specifically commissioned by the Institute
+For all such category of works for which the Institute owns the copyright, the authors of
+such works shall seek a written consent from Institute IP Management Committee to get
+their work published by any external agency. The authors shall provide in advance to the
+Institute IP Management Committee the copyright terms and conditions provided by the
+proposed publishing agency for an assessment of its appropriateness.
+The Institute shall provide a template for pre-assessment of copyright terms and
+conditions that are reasonable and acceptable to the Institute. The authors shall conduct a
+per-assessment of the copyright terms and conditions using the said Institute template with
+respect to terms and conditions set by the external agencies for the publication of the
+proposed work. The author shall submit to the IP management committee a compliance a
+report. However, in case of any doubts the authors may approach the IIPMG for any
+assistance in this regard.
+The Institute IP Management Committee after due consideration of the Institute’s
+interests, may decide to waive off the copyright ownership by the Institute and permit the
+author/external agency to own the copyright of the work. In such cases the author/external
+agency shall grant to the Institute a royalty-free license to reproduce and publicly
+distribute copies of the work for the purposes of teaching, research and any academic
+activities by the Institute including those covered under exceptions and limitations in the
+Indian Copyright Act.
+5.4 Respecting IP of Others
+The Institute as a matter of principle, respects and does not knowingly infringe the
+valid IP of others. It inculcates this principle in all those who are part of the Institute and /
+or are associated with the Institute in any manner.
+The Institute directs the following:
+ No use of unauthorised software / hardware in any of the Institute facilities / systems
+ No use of any technology circumvention devices / technologies in any of the
+Institute facilities / systems
+ All software and databases used in the Institute shall be licenced from authorized
+
+agencies and all users in the Institute shall abide by any and all legal terms and
+conditions set by the authorized agencies from who the products have been
+procured. Persons using such software shall neither tamper nor indulge any act (s)
+that may be breach of the licence and the person indulging in such acts of
+infringement shall be solely responsible and liable as per law
+ All licences shall be vetted by a competent authority selected by the IIPMG. Only
+after such a formal vetting, the products with the set licence conditions shall be
+procured by the concerned department in the Institute.
+6. Documentation System in the Institute and Role of the Library
+6.1 Setting up of a standardized documentation system
+The Institute shall set up a standardized documentation system appropriate to each
+department so that all the work done in the Institute are systematically and chronologically
+documented with relevant details as the origin of a project, source of funding, the project
+team, project review system, progress of work with its success / failures, people involved
+at various stages of the project, people contributing with creative inputs to the project, the
+data and information with due authentication, etc. , actions taken based on review feedback,
+identification of prospective clients of the technologies and knowledge being developed,
+Every Department would be expected to implement such a formal documentation
+system and would audit the working of the documentation system periodically to ensure
+that this is being followed by the members of the department.
+The Institute personnel would be trained to use and implement such a “standardized
+documentation system” as appropriate to the disciplines / department.
+The Institute IP Management Group and the Technology / Knowledge Transfer
+Group would primarily rely on the formal documentation system adopted and implemented
+by each department in the course of their decision making.
+
+6.2 Role of the Library as custodian of Data, Information, Knowledge,
+Theses, Dissertations, reports and their like
+Every thesis, dissertation, report, and their like are expected to be submitted to the
+library for documentation, preservation, and dissemination to the public.
+However, the IIPMG and ITKTC as special cases may recommend to the library
+not to publicly display such documents for a certain period till the appropriate IP
+applications have been made. The IIPMG and ITKTC shall inform the library as soon as
+the IP applications have been made so that the library can put these items on public display.
+Such a special arrangement would ensure that the IP of those creations for which
+the IIPMG and ITKTC have identified as relevant and would need to file and prosecute IP
+applications, the Institute’s interests are not compromised by premature public display of
+such theses, dissertations, reports and their like. Further, such a special arrangement would
+also not compromise with the academic interests of the students, as their thesis / dissertation
+submissions do not get delayed due to the fear of public display of their documents prior
+to the filing of the IP applications.
+Data, information and associated knowledge resource management would be the
+responsibility of the Institute Library.
+The Institute library shall set-up a data management policy to ensure collection and
+archival of data/information generated by various departments including an appropriate
+data access authorization process. All the Departments/centers, including TISC, Tech-
+Park shall be required to follow the said policy.
+6.3 Maintaining confidentiality of thesis, dissertations, reports in the course
+of examination / viva proceedings when IP applications are not yet filed
+It is conceived that there will be situations in which IP applications have not been
+filed and the candidate has submitted his / her theses / dissertation / report for evaluation
+for his / her degree/diploma/ certificate and examination proceedings are to be conducted.
+The IIIPMG/ TKTG may recommend that prior to IP applications, the
+theses/dissertation / report may be submitted under a cover of confidentiality. Under such
+circumstances, the examiners of these documents shall commit in writing to maintain
+confidentiality, and the entire examination process is conducted under such confidentiality.
+Once the appropriate IP applications are filed and the IP application is published
+after the statutory lock in period the examiner / person conducting the evaluation shall be
+
+informed and the confidentiality binding shall be withdrawn.
+7. Conflict of Interest
+The Creator(s) / members of the IIPMG or TKTG, who are involved in the
+transaction of any of the Institute owned IP, knowledge/ technology / knowledge, shall
+necessarily have to declare to the Institute of any potential conflict of interest. By conflict
+of interest is meant that if any of the immediate family members of the creator(s) / members
+of the IIPMG or TKTG are associated any manner, or have any stake in parties or potential
+parties with whom the Institute is involved or has intentions of being involved in
+transferring technology / knowledge and IP, the Creator(s) / members of the IIPMG or
+TKTG would be required to disclose the details to the Institute.
+8. Dispute Resolution
+In case of any disputes related to IP / transactions of IP / benefit sharing resulting
+from the effective earnings of the IP including the implementation of any aspect of the IP
+Policy, between the Creators and the IIPMG / TKTG, the aggrieved party may appeal to
+the Director of the Institute. The Director of the Institute would set up a working Group
+with set timelines to investigate the factual aspects of the grievances and make
+recommendations to the Director for an amicable resolution of the matter. The decision of
+the Director shall be final and binding on all the concerned parties.
+9. Review of the IP Policy
+The IP Policy shall be reviewed every 5 years. However, as per the recommendations
+of the IIPMG / TKTG, the policy may be subjected to an earlier review.

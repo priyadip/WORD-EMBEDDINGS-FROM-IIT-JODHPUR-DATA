@@ -1,0 +1,125 @@
+ai phd programs offered by the department of computer science and engineering july in artificial intelligence ai artificial intelligence ai is branch of computer science that aims to create machines to act with higher levels of intelligence and emulate the human capabilities of sense comprehend and act
+this in ai programme will offer students with deep knowledge of both fundamental ai technologies as well as ai
+comprehend fundamental concepts and knowledge of the ai
+conceive design and develop intelligent
+ability to develop and robust systems with specific software hardware and data requirements
+cat code course title cr cat code course title cr semester ii semester mc mal7xx0 statistics matrix computation optimization mc csl8xx0 artificial intelligence ii mc csl7xx0 artificial intelligence mc csl8xx0 machine learning ii mc csl7xx0 machine learning mc csl8xx0 real time autonomous systems mc csp7xx0 data structures and practices me xxxxx program elective me xxxxx program elective mo xxxxx open elective me xxxxx program elective ng xxxxx innovation and ip management xxxxx technical communication total credits total credits cat code course title cr cat code course title cr iii semester iv semester mp csdxx major project part mp csdxx major project part me xxxxx program elective me xxxxx program elective me xxxxx program elective ng xxxxx professional ethics mo xxxxx open elective ng xxxxx system engineering and project management total credits total credits program core credits program electives credits open electives credits project credits credits total credits course structure for
+ai program and dual degree
+ai phd maths fractals linear algebra probability and random processes optimization program electives for
+ai and dual degree
+program courses offered by department of computer science and engineering advanced computer graphics algorithms for big data ai for finance computing blockchain computer graphics computer vision computational optimization computer architecture data visualization dependable ai digital image analysis edge and fog computing embedded systems gpu programming graph theory and applications human machine interface information retrieval and web mining introduction to augmented reality and virtual reality machine learning with big data natural language processing neuromorphic computing and design ad hoc wireless networks selected topics in artificial intelligence selected topics in artificial intelligence ii selected topics in artificial intelligence iii selected topics in computer science selected topics in computer science ii selected topics in computer science iii social network analysis software and data engineering security and its applications speech processing stream analytics vehicular networks vanets courses offered by department of electrical engineering adaptive signal processing advanced control system advanced digital communication advanced signal processing analog and interfacing circuits antenna engineering applied optimization for wireless communication backhaul networks for wireless systems coding theory compressive sensing computational imaging cyber physical system modelling laboratory data compression digital image and video processing lab digital image processing and applications digital signal processing digital video processing digital vlsi design embedded system design embedded system design lab flexible and printed electronics free space optical communications gnss signal processing image sensor design and applications introduction to systems machine learning for communication mathematical modelling and simulation microfluidics technology microsystems fabrication technology millimeter wave technology digital signal processing nanosensors network information theory neuromorphic computing and design optical fiber communications optimal filtering physical layer security principles of data and system security real time communications resource constrained ai rf ic design rf ic design lab selected topics in communication selected topics in communication ii selected topics in communication iii selected topics in sensors iot selected topics in sensors iot ii selected topics in sensors iot iii selected topics in signal processing selected topics in signal processing ii selected topics in signal processing iii sensors and iot lab sensors and measurement smart grid speech and audio signal processing statistical decision theory design vlsi design lab wavelets wireless communication wireless networks courses offered by department of mechanical engineering robotics courses offered by department of bioscience and bioengineering bioinformatics computational biology courses offered by department of mathematics financial engineering computational finance computational game theory advanced topics in computational pde dynamical systems stochastic processes representation of finite groups courses offered by department of physics quantum computing quantum information processing quantum cryptography and coding courses offered by idrp digital humanities digital humanities title data structures and practices number csp7xx0 department computer science and engineering offered for
+type compulsory prerequisite computer programming title artificial intelligence number csl7xx0 department computer science and engineering offered for
+year year type compulsory prerequisite none self learning material
+department of computer science university of california berkeley
+nptel artificial intelligence title artificial intelligence ii number csl8xx0 prerequisite artificial title machine learning number csl7xx0 latent variables and algorithm bayesian learning lectures feature selection and generation feature selection feature transformations feature learning lectures csl7xx3 machine learning computational learning theory and deep neural networks statistical learning framework pac learning agnostic pac learning tradeoff no free lunch theorem vc dimension structural risk minimization adaboost lectures foundations of deep learning dnn cnn rnn autoencoders lectures textbook
+understanding machine learning from theory to algorithms cambridge university press reference books
+machine learning tata
+department of computer science stanford university title machine learning ii number csl8xx0 prerequisite machine
+charniak introduction to deep learning the mit press
+title real time autonomous systems number csl8xx0 department computer science and engineering offered for type compulsory prerequisite machine learning artificial intelligence applications
+mhamed itmi alain cardon new autonomous systems
+the autonomous system foundational synthesis of the sciences of the mind
+cse phd july and dual degree programs in computer science and engineering traditionally computer science and engineering cse teaching were focusing on two major areas theories and systems database computer hardware and operating systems
+this and dual degree programs in cse will offer students with deep knowledge of core and applied computer science
+apply appropriate project and business management principles and tools for optimization mc csl7xx0 computer architecture mc csl7xx0 algorithms for big data mc csl7xx0 software and data engineering mc csl7xx0 machine learning mc csl7xx0 security and its applications mc csp7xx0 data structures and management ng xxxxx technical communication total credits total credits mp csd7xx major project part mp csd8x x0 major project part me xxxxx program elective me xxxxx program elective me xxxxx program elective ng xxxxx professional ethics mo xxxxx open elective ng xxxxx system engineering course structure for the
+cse programand dual degree
+program program electives for
+cse and artificial intelligence artificial intelligence ii machine learning ii real time autonomous systems title algorithms for big data number csl7xx0 offered for
+cse year type compulsory title software and data engineering number csl7xx0
+and dashofy software architecture foundation theory and practice wiley preparatory course material
+ieee transactions on knowledge and data engineering international conference on data engineering title computer architecture number csl7xx0 offered for
+year type compulsory prerequisite computer organization
+and patterson computer architecture quantitative approach edition morgan kauffmann publishers
+and lipasti modern processor design fundamentals of superscalar processors publishers material
+department of computer science and engineering indian institute of technology madras title machine number csl7xx0 csl7xx3 introduction to machine learning computational learning theory and deep learning title security and its application number csl7xx0 offered for
+type elective prerequisite networks blockchains components of blockchain lectures laboratory experiments programming exercises using exata and avispa tools
+douglas stinson maura paterson
+cryptography theory and practice
+modern cryptography theory and practice
+security in computing
+prentice hall professional technical reference
+foundations of cryptography volume basic applications
+cryptography network security
+network and computer security mit opencourseware
+cryptography coursera stanford university course contents for the new elective courses department of computer science and engineering title stream analytics number csl8xx0 offered for
+and year type elective title machine learning with big data number csl8xx0 offered for
+year year type elective prerequisite artificial and machine rajaraman ullman mining of massive datasets edition cambridge university press
+bekkerman bilenko langford scaling up machine learning cambridge university press
+department of machine learning carnegie mellon university machine learning with large datasets course
+department of computer science university of california berkeley scalable machine learning
+eth zurich data mining machine learning from large datasets title computer vision number csl7xx0 offered for
+and year year type elective title digital image analysis number csl7xx0 offered for type elective
+gonzalez and woods digital image processing
+fundamentals of digital image processing by anil jain
+nptel digital image processing title edge fog computing number csl7xx0 offered for type elective to enable users to interact with gateways and end points lectures
+buyya srirama fog and edge computing principles and paradigms edition wiley
+cao zhang shi edge computing primer springer
+edge computing edge conference series springer title natural language processing number csl7xx0 offered for
+year type elective natural language processing
+natural language processing with python steven bird ewan klein and edward loper reilly
+natural language pocessing nptel title gpu programming number csl7xx0
+and hwu programming massively parallel processors approach hwu morgan kaufman
+cook cuda programming developer guide to parallel computing with gpus morgan kaufman
+introduction to parallel programming txfdv2 title data visualization number csl7xx0
+wilke fundamentals of data visualization primer on making informative and compelling figures reilly media
+and kaufman visual thinking for design
+burlington morgan kaufmann publishers
+wong the wall street journal guide to information graphics the dos and don ts of presenting data facts and figures new york norton company
+data visualization course title introduction to augmented reality and virtual reality number csl7xx0
+jerald the vr book design for virtual reality morgan claypool
+mather foundations of sensation and perception edition psychology press
+shirley ashikhmin marschner
+and peters fundamentals of computer graphics edition crc press
+bowman kruijff laviola
+and poupyrev user interfaces theory and practice edition addison wesley professional
+steven lavalle video lectures title advanced computer graphics number csl7xx0
+mukundan advanced methods in computer graphics with examples in opengl springer
+ruben computer graphics principles and practice larsen and keller education
+computer graphics nptel video lectures title embedded systems number csl7xx0 offered for phd type elective prerequisite computer organization andarchitecture title computing number csl7xx0 prerequisite computer programming basics in linear algebra probability and statistics analysis of motion tracking of cells tissues organisms and particles lectures interactive image analysis human in loop image interpretation lectures ultrasound image enhancement tumor segmentation in brats dataset registration of mri images etc
+wu machine learning and medical imaging elsevier
+epstein mathematics of medical imaging prentice hall
+bankman handbook of medical image processing and edition academic press
+bishop pattern recognition and machine learning springer
+title neuromorphic computing and design number csl7xx0 title dependable ai number csl7xx0 offered for year and phd type elective prerequisite machine learning artificial intelligence
+proceedings of ijcai workshop on explainable artificial intelligence xai
+title resource constrained ai number csl7xx0 prerequisite machine learning title wireless networks number csl7xx0 department computer science and engineering offered for
+year phd year type qos for ad hoc networks quality of service in ad hoc wireless networks introduction issues and challenges in providing qos in ad hoc wireless networks classification of qos solutions mac layer solutions network layer solutions lectures advanced topics network sdn mesh networking energy issues and sensor networks lectures laboratory experiments programming exercises using qualnet java and ram murthy manoj
+ad hoc wireless networks architectures and protocols
+phi pearson education
+akyildiz ian and xudong wang
+wireless mesh networks
+basagni conti giordano stojmenovic
+mobile ad hoc networking
+ad hoc networking vol
+ad hoc mobile wireless networks protocols and systems
+ad hoc wireless networking vol
+computer networks mit opencourseware
+mobile and wireless networks and applications stanford university title vehicular networks vanets number csl7xx0 prerequisite network standards and regulations regulations and standards dsrc protocol stack cellular v2x lectures programming exercises using ns3 qualnet and java weigle
+vehicular networks from theory to practice
+emmelmann bochow kellum
+vehicular networking automotive applications and beyond vol
+claudia campolo antonella molinaro riccardo scopigno
+vehicular ad hoc networks springer
+vanet vehicular applications and networking technologies vol
+vehicular networks techniques standards and applications
+center for autonomous intelligent networks and systems cains university of california los angeles ucla title selected topics in computer science number csl7xx0 department computer science and engineering prerequisite decided by the instructor title selected topics in computer science ii number csl7xx0 title selected topics in computer science iii number csl7xx0 title selected topics in artificial intelligence number csl7xx0 title selected topics in artificial intelligence ii number csl7xx0 title selected topics in artificial intelligence iii number csl7xx0 title graph theory and applications number csl7xx0 offered for
+year year type elective introduction to graph theory edition prentice hall of india graph theory with application to engineering and computer science prentice hall of india
+nptel graph theory for cse
+nptel graph theory for mathematics title social network analysis number csl7xx0 working with temporal network data connected caveman problem link analysis and web search lectures implementing pagerank algorithm in network data science lectures
+networks crowds and markets reasoning about highly connected world by david easley and jon kleinberg cambridge university press sep publication draft available online
+network science by barabasi cambridge university press august freely available under the creative commons licence
+networks by mark newman oxford university press sep reference books
+complex and adaptive dynamical systems by claudius gros springer edition
+the structure of complex networks theory and applications by ernesto estrada oxford university press dec
+exploratory social network analysis with pajek by wouter de nooy andrej mrvar and vladimir batagelj cambridge university press edition july self learning material title blockchain number csl8xx0 department computer science and engineering prerequisite security
+blockchain blueprint for new
+the science of the blockchain
+createspace independent publishing platform
+not smart contracts and the social workings of law
+engaging science technology and society
+mit online blockchain course learn blockchain technology title computational optimization number csl7xx0 algorithms for tsp adaptation to continuous problems applications lectures particle swarm optimization canonical pso algorithm important parameters neighborhood topologies lectures
+and fogel how to solve it modern heuristics edition evolutionary optimization algorithms wiley metaheuristic algorithms luniver press
+rao engineering optimization theory and practice edition new age international publishers
+nptel traditional and optimization tools title computer graphics number csl7xx0
+van dam feiner and hughes computer graphics principles and practice addison wesley edition in
+adams mathematical elements for computer graphics of computer science and engineering indian institute of technology madras

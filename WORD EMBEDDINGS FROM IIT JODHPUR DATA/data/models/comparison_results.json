@@ -1,0 +1,2141 @@
+{
+  "vocab_sizes": {
+    "Gensim-CBOW": 19495,
+    "Gensim-Skipgram": 19495,
+    "Scratch-CBOW": 19495,
+    "Scratch-Skipgram": 19495
+  },
+  "common_vocab_size": 19495,
+  "nearest_neighbours": {
+    "research": {
+      "Gensim-CBOW": [
+        [
+          "collaborative",
+          0.4517
+        ],
+        [
+          "imparting",
+          0.4256
+        ],
+        [
+          "entrepreneurial",
+          0.4233
+        ],
+        [
+          "outreach",
+          0.4141
+        ],
+        [
+          "transdisciplinary",
+          0.4091
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "safari",
+          0.5154
+        ],
+        [
+          "niser",
+          0.5116
+        ],
+        [
+          "expanding",
+          0.4964
+        ],
+        [
+          "collaborative",
+          0.4897
+        ],
+        [
+          "strengthened",
+          0.4827
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "collaborative",
+          0.8395
+        ],
+        [
+          "excellence",
+          0.8335
+        ],
+        [
+          "focuses",
+          0.8306
+        ],
+        [
+          "translational",
+          0.823
+        ],
+        [
+          "pursuit",
+          0.8202
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "collaborative",
+          0.6325
+        ],
+        [
+          "areas",
+          0.6317
+        ],
+        [
+          "faculty",
+          0.6205
+        ],
+        [
+          "development",
+          0.6192
+        ],
+        [
+          "interdisciplinary",
+          0.6146
+        ]
+      ]
+    },
+    "student": {
+      "Gensim-CBOW": [
+        [
+          "students",
+          0.5648
+        ],
+        [
+          "semesters",
+          0.4114
+        ],
+        [
+          "academics",
+          0.3992
+        ],
+        [
+          "candidate",
+          0.3811
+        ],
+        [
+          "scholar",
+          0.3689
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "moderators",
+          0.5002
+        ],
+        [
+          "gymkhana",
+          0.4855
+        ],
+        [
+          "students",
+          0.4852
+        ],
+        [
+          "shan",
+          0.4794
+        ],
+        [
+          "nominations",
+          0.4729
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "graduating",
+          0.8213
+        ],
+        [
+          "prizes",
+          0.8074
+        ],
+        [
+          "academics",
+          0.8043
+        ],
+        [
+          "scholarships",
+          0.7954
+        ],
+        [
+          "students",
+          0.7917
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "students",
+          0.7111
+        ],
+        [
+          "academic",
+          0.6936
+        ],
+        [
+          "shan",
+          0.684
+        ],
+        [
+          "nominations",
+          0.6755
+        ],
+        [
+          "ara",
+          0.655
+        ]
+      ]
+    },
+    "phd": {
+      "Gensim-CBOW": [
+        [
+          "msc",
+          0.5615
+        ],
+        [
+          "doctoral",
+          0.5282
+        ],
+        [
+          "ay",
+          0.4926
+        ],
+        [
+          "dcs",
+          0.473
+        ],
+        [
+          "bsc",
+          0.4684
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "fms",
+          0.4597
+        ],
+        [
+          "parttime",
+          0.452
+        ],
+        [
+          "sharanya",
+          0.4462
+        ],
+        [
+          "mitacs",
+          0.4389
+        ],
+        [
+          "july2025",
+          0.4366
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "school",
+          0.8376
+        ],
+        [
+          "scholar",
+          0.8365
+        ],
+        [
+          "jadavpur",
+          0.8192
+        ],
+        [
+          "msc",
+          0.8163
+        ],
+        [
+          "epita",
+          0.8101
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "school",
+          0.6774
+        ],
+        [
+          "professor",
+          0.6409
+        ],
+        [
+          "wwu",
+          0.6204
+        ],
+        [
+          "prabhatjaiswal",
+          0.6178
+        ],
+        [
+          "kuntals",
+          0.6167
+        ]
+      ]
+    },
+    "exam": {
+      "Gensim-CBOW": [
+        [
+          "examination",
+          0.7249
+        ],
+        [
+          "syllabus",
+          0.6318
+        ],
+        [
+          "exams",
+          0.6193
+        ],
+        [
+          "interview",
+          0.6135
+        ],
+        [
+          "entrance",
+          0.6066
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "examination",
+          0.6344
+        ],
+        [
+          "cbt",
+          0.6151
+        ],
+        [
+          "exams",
+          0.5894
+        ],
+        [
+          "entrance",
+          0.5595
+        ],
+        [
+          "postcode",
+          0.5448
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "entrance",
+          0.9138
+        ],
+        [
+          "appeared",
+          0.9102
+        ],
+        [
+          "interview",
+          0.8934
+        ],
+        [
+          "examination",
+          0.8931
+        ],
+        [
+          "lde",
+          0.8826
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "cbt",
+          0.8323
+        ],
+        [
+          "jta",
+          0.7678
+        ],
+        [
+          "omr",
+          0.7515
+        ],
+        [
+          "examination",
+          0.7434
+        ],
+        [
+          "exams",
+          0.736
+        ]
+      ]
+    },
+    "department": {
+      "Gensim-CBOW": [
+        [
+          "dept",
+          0.4635
+        ],
+        [
+          "institute",
+          0.3613
+        ],
+        [
+          "departments",
+          0.3551
+        ],
+        [
+          "sola",
+          0.3516
+        ],
+        [
+          "institution",
+          0.3313
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "epartment",
+          0.5635
+        ],
+        [
+          "csl7xx1",
+          0.4904
+        ],
+        [
+          "mal1010",
+          0.49
+        ],
+        [
+          "csl7xx2",
+          0.4814
+        ],
+        [
+          "ltpc",
+          0.4807
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "head",
+          0.7979
+        ],
+        [
+          "engineering",
+          0.7818
+        ],
+        [
+          "metallurgical",
+          0.7638
+        ],
+        [
+          "engg",
+          0.758
+        ],
+        [
+          "mechanical",
+          0.7477
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "engineering",
+          0.6444
+        ],
+        [
+          "hag",
+          0.6398
+        ],
+        [
+          "head",
+          0.6081
+        ],
+        [
+          "offered",
+          0.6054
+        ],
+        [
+          "epartment",
+          0.6029
+        ]
+      ]
+    },
+    "faculty": {
+      "Gensim-CBOW": [
+        [
+          "staf",
+          0.5585
+        ],
+        [
+          "team",
+          0.5276
+        ],
+        [
+          "faculties",
+          0.4914
+        ],
+        [
+          "staff",
+          0.486
+        ],
+        [
+          "cec",
+          0.4259
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "members",
+          0.6472
+        ],
+        [
+          "faculties",
+          0.5584
+        ],
+        [
+          "recruits",
+          0.5311
+        ],
+        [
+          "adjunct",
+          0.505
+        ],
+        [
+          "professors",
+          0.4958
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "members",
+          0.9466
+        ],
+        [
+          "staf",
+          0.8669
+        ],
+        [
+          "faculties",
+          0.8646
+        ],
+        [
+          "advisors",
+          0.8606
+        ],
+        [
+          "adjunct",
+          0.8537
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "members",
+          0.8459
+        ],
+        [
+          "positions",
+          0.7062
+        ],
+        [
+          "faculties",
+          0.6993
+        ],
+        [
+          "scholars",
+          0.6966
+        ],
+        [
+          "professors",
+          0.6951
+        ]
+      ]
+    },
+    "course": {
+      "Gensim-CBOW": [
+        [
+          "courses",
+          0.6246
+        ],
+        [
+          "programme",
+          0.4924
+        ],
+        [
+          "curriculum",
+          0.4634
+        ],
+        [
+          "compulsory",
+          0.4499
+        ],
+        [
+          "fractal",
+          0.4429
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "dits",
+          0.5894
+        ],
+        [
+          "cre",
+          0.5762
+        ],
+        [
+          "credi",
+          0.5741
+        ],
+        [
+          "courses",
+          0.5716
+        ],
+        [
+          "ltp",
+          0.5459
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "preparatory",
+          0.8329
+        ],
+        [
+          "compulsory",
+          0.8298
+        ],
+        [
+          "equivalence",
+          0.814
+        ],
+        [
+          "courses",
+          0.8036
+        ],
+        [
+          "credits",
+          0.8034
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "credits",
+          0.7606
+        ],
+        [
+          "credi",
+          0.7405
+        ],
+        [
+          "compulsory",
+          0.7285
+        ],
+        [
+          "ltp",
+          0.7217
+        ],
+        [
+          "cre",
+          0.715
+        ]
+      ]
+    },
+    "semester": {
+      "Gensim-CBOW": [
+        [
+          "ay",
+          0.6287
+        ],
+        [
+          "trimester",
+          0.5891
+        ],
+        [
+          "semesters",
+          0.5314
+        ],
+        [
+          "commencing",
+          0.5299
+        ],
+        [
+          "credits",
+          0.4999
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "ng2",
+          0.5437
+        ],
+        [
+          "dits",
+          0.5401
+        ],
+        [
+          "x0",
+          0.5396
+        ],
+        [
+          "cre",
+          0.5364
+        ],
+        [
+          "ng1",
+          0.5242
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "trimester",
+          0.9032
+        ],
+        [
+          "ay",
+          0.876
+        ],
+        [
+          "commencing",
+          0.8731
+        ],
+        [
+          "eighth",
+          0.8716
+        ],
+        [
+          "fourth",
+          0.8564
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "credits",
+          0.7082
+        ],
+        [
+          "dits",
+          0.687
+        ],
+        [
+          "ng2",
+          0.6844
+        ],
+        [
+          "x0",
+          0.6824
+        ],
+        [
+          "homeworks",
+          0.6762
+        ]
+      ]
+    },
+    "admission": {
+      "Gensim-CBOW": [
+        [
+          "admissions",
+          0.739
+        ],
+        [
+          "ay",
+          0.5801
+        ],
+        [
+          "shortlisting",
+          0.5646
+        ],
+        [
+          "interview",
+          0.5635
+        ],
+        [
+          "jam",
+          0.5546
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "admissions",
+          0.6249
+        ],
+        [
+          "waitlisted",
+          0.584
+        ],
+        [
+          "pgp",
+          0.5752
+        ],
+        [
+          "july2025",
+          0.5453
+        ],
+        [
+          "candidates",
+          0.5396
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "admissions",
+          0.9265
+        ],
+        [
+          "merit",
+          0.9138
+        ],
+        [
+          "candidates",
+          0.9096
+        ],
+        [
+          "round",
+          0.9058
+        ],
+        [
+          "admit",
+          0.892
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "waitlisted",
+          0.7914
+        ],
+        [
+          "admissions",
+          0.7837
+        ],
+        [
+          "candidates",
+          0.7753
+        ],
+        [
+          "july2025",
+          0.7448
+        ],
+        [
+          "coap",
+          0.7373
+        ]
+      ]
+    },
+    "jodhpur": {
+      "Gensim-CBOW": [
+        [
+          "bombay",
+          0.506
+        ],
+        [
+          "kanpur",
+          0.5021
+        ],
+        [
+          "kharagpur",
+          0.4673
+        ],
+        [
+          "ropar",
+          0.4673
+        ],
+        [
+          "mandi",
+          0.4526
+        ]
+      ],
+      "Gensim-Skipgram": [
+        [
+          "iit",
+          0.734
+        ],
+        [
+          "odhpur",
+          0.5612
+        ],
+        [
+          "proudly",
+          0.5541
+        ],
+        [
+          "iitjodhpur",
+          0.5427
+        ],
+        [
+          "nh65",
+          0.5379
+        ]
+      ],
+      "Scratch-CBOW": [
+        [
+          "iitj",
+          0.8145
+        ],
+        [
+          "vidyalaya",
+          0.8098
+        ],
+        [
+          "iit",
+          0.806
+        ],
+        [
+          "lit",
+          0.8019
+        ],
+        [
+          "gpra",
+          0.7964
+        ]
+      ],
+      "Scratch-Skipgram": [
+        [
+          "iit",
+          0.8914
+        ],
+        [
+          "technology",
+          0.7409
+        ],
+        [
+          "institute",
+          0.7374
+        ],
+        [
+          "indian",
+          0.6908
+        ],
+        [
+          "of",
+          0.6583
+        ]
+      ]
+    }
+  },
+  "analogies": {
+    "UG : btech :: PG : ?": {
+      "Gensim-CBOW": {
+        "top": "mtech",
+        "hit": true,
+        "answers": [
+          [
+            "mtech",
+            0.6246
+          ],
+          [
+            "tfe",
+            0.5536
+          ],
+          [
+            "bsc",
+            0.547
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "mtech",
+        "hit": true,
+        "answers": [
+          [
+            "mtech",
+            0.4928
+          ],
+          [
+            "decc",
+            0.4928
+          ],
+          [
+            "sit",
+            0.4538
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "dcs",
+        "hit": false,
+        "answers": [
+          [
+            "dcs",
+            0.8932
+          ],
+          [
+            "bsc",
+            0.892
+          ],
+          [
+            "mmt",
+            0.8849
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "mtech",
+        "hit": true,
+        "answers": [
+          [
+            "mtech",
+            0.7097
+          ],
+          [
+            "decc",
+            0.6334
+          ],
+          [
+            "diploma",
+            0.6213
+          ]
+        ]
+      }
+    },
+    "professor : teaching :: researcher : ?": {
+      "Gensim-CBOW": {
+        "top": "experienced",
+        "hit": false,
+        "answers": [
+          [
+            "experienced",
+            0.4073
+          ],
+          [
+            "researchers",
+            0.3867
+          ],
+          [
+            "scientist",
+            0.3801
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "pursuits",
+        "hit": false,
+        "answers": [
+          [
+            "pursuits",
+            0.3583
+          ],
+          [
+            "performers",
+            0.3399
+          ],
+          [
+            "learners",
+            0.3389
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "during",
+        "hit": false,
+        "answers": [
+          [
+            "during",
+            0.5147
+          ],
+          [
+            "workshops",
+            0.4627
+          ],
+          [
+            "projects",
+            0.4536
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "cmu",
+        "hit": false,
+        "answers": [
+          [
+            "cmu",
+            0.467
+          ],
+          [
+            "professional",
+            0.4664
+          ],
+          [
+            "jsps",
+            0.4637
+          ]
+        ]
+      }
+    },
+    "mtech : postgraduate :: btech : ?": {
+      "Gensim-CBOW": {
+        "top": "undergraduate",
+        "hit": true,
+        "answers": [
+          [
+            "undergraduate",
+            0.7192
+          ],
+          [
+            "bsc",
+            0.5981
+          ],
+          [
+            "bachelors",
+            0.5839
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "undergraduate",
+        "hit": true,
+        "answers": [
+          [
+            "undergraduate",
+            0.5236
+          ],
+          [
+            "pgd",
+            0.4633
+          ],
+          [
+            "diplomas",
+            0.4597
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "continuing",
+        "hit": false,
+        "answers": [
+          [
+            "continuing",
+            0.7621
+          ],
+          [
+            "ugri",
+            0.7606
+          ],
+          [
+            "undergraduate",
+            0.7571
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "undergraduate",
+        "hit": true,
+        "answers": [
+          [
+            "undergraduate",
+            0.6766
+          ],
+          [
+            "bachelors",
+            0.556
+          ],
+          [
+            "graduate",
+            0.5518
+          ]
+        ]
+      }
+    },
+    "mishra : assistant :: das : ?": {
+      "Gensim-CBOW": {
+        "top": "palash",
+        "hit": false,
+        "answers": [
+          [
+            "palash",
+            0.5114
+          ],
+          [
+            "mithu",
+            0.4613
+          ],
+          [
+            "sajal",
+            0.4481
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "professor",
+        "hit": false,
+        "answers": [
+          [
+            "professor",
+            0.5312
+          ],
+          [
+            "debasis",
+            0.5087
+          ],
+          [
+            "gagan",
+            0.4801
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "professor",
+        "hit": false,
+        "answers": [
+          [
+            "professor",
+            0.8614
+          ],
+          [
+            "hirshikesh",
+            0.8346
+          ],
+          [
+            "rautray",
+            0.8267
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "professor",
+        "hit": false,
+        "answers": [
+          [
+            "professor",
+            0.607
+          ],
+          [
+            "palas",
+            0.5667
+          ],
+          [
+            "bhagat",
+            0.56
+          ]
+        ]
+      }
+    },
+    "gaurav : harit :: debasis : ?": {
+      "Gensim-CBOW": {
+        "top": "palas",
+        "hit": false,
+        "answers": [
+          [
+            "palas",
+            0.7244
+          ],
+          [
+            "limbasiya",
+            0.7004
+          ],
+          [
+            "sajal",
+            0.6633
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "das",
+        "hit": true,
+        "answers": [
+          [
+            "das",
+            0.6968
+          ],
+          [
+            "sajal",
+            0.5473
+          ],
+          [
+            "nahar",
+            0.5434
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "das",
+        "hit": true,
+        "answers": [
+          [
+            "das",
+            0.9135
+          ],
+          [
+            "sikarwar",
+            0.8439
+          ],
+          [
+            "limbasiya",
+            0.8346
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "das",
+        "hit": true,
+        "answers": [
+          [
+            "das",
+            0.7499
+          ],
+          [
+            "vehicular",
+            0.7155
+          ],
+          [
+            "nahar",
+            0.671
+          ]
+        ]
+      }
+    },
+    "gate : pg :: jee : ?": {
+      "Gensim-CBOW": {
+        "top": "ug",
+        "hit": true,
+        "answers": [
+          [
+            "ug",
+            0.5803
+          ],
+          [
+            "postgraduate",
+            0.5442
+          ],
+          [
+            "programs",
+            0.437
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "ug",
+        "hit": true,
+        "answers": [
+          [
+            "ug",
+            0.4931
+          ],
+          [
+            "diplomas",
+            0.4159
+          ],
+          [
+            "phds",
+            0.412
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "academics",
+        "hit": false,
+        "answers": [
+          [
+            "academics",
+            0.6265
+          ],
+          [
+            "orientation",
+            0.611
+          ],
+          [
+            "teacher",
+            0.6094
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "academic",
+        "hit": false,
+        "answers": [
+          [
+            "academic",
+            0.5529
+          ],
+          [
+            "ug",
+            0.5239
+          ],
+          [
+            "academics",
+            0.4939
+          ]
+        ]
+      }
+    },
+    "jee : btech :: gate : ?": {
+      "Gensim-CBOW": {
+        "top": "bb",
+        "hit": false,
+        "answers": [
+          [
+            "bb",
+            0.5808
+          ],
+          [
+            "mtech",
+            0.577
+          ],
+          [
+            "specialization",
+            0.5442
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "mtech",
+        "hit": true,
+        "answers": [
+          [
+            "mtech",
+            0.4492
+          ],
+          [
+            "siot",
+            0.4045
+          ],
+          [
+            "boys",
+            0.4032
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "cfti",
+        "hit": false,
+        "answers": [
+          [
+            "cfti",
+            0.8899
+          ],
+          [
+            "mtech",
+            0.8748
+          ],
+          [
+            "score",
+            0.8733
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "mtech",
+        "hit": true,
+        "answers": [
+          [
+            "mtech",
+            0.6279
+          ],
+          [
+            "cfti",
+            0.6006
+          ],
+          [
+            "specialization",
+            0.5729
+          ]
+        ]
+      }
+    },
+    "iitm : madras :: iitj : ?": {
+      "Gensim-CBOW": {
+        "top": "jodhpur",
+        "hit": true,
+        "answers": [
+          [
+            "jodhpur",
+            0.5656
+          ],
+          [
+            "tisc",
+            0.4765
+          ],
+          [
+            "park",
+            0.3841
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "tisc",
+        "hit": false,
+        "answers": [
+          [
+            "tisc",
+            0.3527
+          ],
+          [
+            "iit",
+            0.3041
+          ],
+          [
+            "sharman",
+            0.2727
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "gandhinagar",
+        "hit": false,
+        "answers": [
+          [
+            "gandhinagar",
+            0.9241
+          ],
+          [
+            "mandi",
+            0.8997
+          ],
+          [
+            "iisc",
+            0.8979
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "tckumawat",
+        "hit": false,
+        "answers": [
+          [
+            "tckumawat",
+            0.5685
+          ],
+          [
+            "georgia",
+            0.5278
+          ],
+          [
+            "iiser",
+            0.5203
+          ]
+        ]
+      }
+    },
+    "iitb : bombay :: iitd : ?": {
+      "Gensim-CBOW": {
+        "top": "mandi",
+        "hit": false,
+        "answers": [
+          [
+            "mandi",
+            0.6321
+          ],
+          [
+            "guwahati",
+            0.6259
+          ],
+          [
+            "gandhinagar",
+            0.624
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "rutag",
+        "hit": false,
+        "answers": [
+          [
+            "rutag",
+            0.5408
+          ],
+          [
+            "lazar",
+            0.5003
+          ],
+          [
+            "bhart",
+            0.4992
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "kharagpur",
+        "hit": false,
+        "answers": [
+          [
+            "kharagpur",
+            0.9839
+          ],
+          [
+            "kanpur",
+            0.9673
+          ],
+          [
+            "guwahati",
+            0.9653
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "pradiptewari",
+        "hit": false,
+        "answers": [
+          [
+            "pradiptewari",
+            0.6571
+          ],
+          [
+            "vinodvk",
+            0.6037
+          ],
+          [
+            "sumitkamal",
+            0.6032
+          ]
+        ]
+      }
+    },
+    "exam : written :: viva : ?": {
+      "Gensim-CBOW": {
+        "top": "voce",
+        "hit": true,
+        "answers": [
+          [
+            "voce",
+            0.5814
+          ],
+          [
+            "gambling",
+            0.4915
+          ],
+          [
+            "bifma",
+            0.4628
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "voce",
+        "hit": true,
+        "answers": [
+          [
+            "voce",
+            0.6537
+          ],
+          [
+            "pleadings",
+            0.5142
+          ],
+          [
+            "reconsideration",
+            0.5008
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "influence",
+        "hit": false,
+        "answers": [
+          [
+            "influence",
+            0.5476
+          ],
+          [
+            "damage",
+            0.5075
+          ],
+          [
+            "property",
+            0.5066
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "voce",
+        "hit": true,
+        "answers": [
+          [
+            "voce",
+            0.6345
+          ],
+          [
+            "pleadings",
+            0.6156
+          ],
+          [
+            "examiner",
+            0.5699
+          ]
+        ]
+      }
+    },
+    "conference : paper :: journal : ?": {
+      "Gensim-CBOW": {
+        "top": "article",
+        "hit": true,
+        "answers": [
+          [
+            "article",
+            0.5532
+          ],
+          [
+            "papers",
+            0.4383
+          ],
+          [
+            "publishing",
+            0.4313
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "publisher",
+        "hit": false,
+        "answers": [
+          [
+            "publisher",
+            0.3827
+          ],
+          [
+            "article",
+            0.3381
+          ],
+          [
+            "papers",
+            0.3372
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "publishing",
+        "hit": false,
+        "answers": [
+          [
+            "publishing",
+            0.7652
+          ],
+          [
+            "tittle",
+            0.6731
+          ],
+          [
+            "article",
+            0.6476
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "publisher",
+        "hit": false,
+        "answers": [
+          [
+            "publisher",
+            0.574
+          ],
+          [
+            "congratulation",
+            0.5608
+          ],
+          [
+            "xplore",
+            0.5523
+          ]
+        ]
+      }
+    },
+    "conference : proceedings :: journal : ?": {
+      "Gensim-CBOW": {
+        "top": "articles",
+        "hit": true,
+        "answers": [
+          [
+            "articles",
+            0.4435
+          ],
+          [
+            "prosecution",
+            0.4236
+          ],
+          [
+            "volume",
+            0.4216
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "vol",
+        "hit": false,
+        "answers": [
+          [
+            "vol",
+            0.3724
+          ],
+          [
+            "publisher",
+            0.3723
+          ],
+          [
+            "toxic",
+            0.3479
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "articles",
+        "hit": true,
+        "answers": [
+          [
+            "articles",
+            0.7262
+          ],
+          [
+            "nature",
+            0.7154
+          ],
+          [
+            "article",
+            0.6813
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "publisher",
+        "hit": false,
+        "answers": [
+          [
+            "publisher",
+            0.5967
+          ],
+          [
+            "issn",
+            0.5929
+          ],
+          [
+            "asme",
+            0.5757
+          ]
+        ]
+      }
+    },
+    "international : conference :: national : ?": {
+      "Gensim-CBOW": {
+        "top": "symposium",
+        "hit": true,
+        "answers": [
+          [
+            "symposium",
+            0.5044
+          ],
+          [
+            "congress",
+            0.468
+          ],
+          [
+            "convention",
+            0.4347
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "chiao",
+        "hit": false,
+        "answers": [
+          [
+            "chiao",
+            0.3935
+          ],
+          [
+            "tung",
+            0.3906
+          ],
+          [
+            "seoul",
+            0.385
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "japan",
+        "hit": false,
+        "answers": [
+          [
+            "japan",
+            0.823
+          ],
+          [
+            "bengaluru",
+            0.8105
+          ],
+          [
+            "china",
+            0.8058
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "rourkela",
+        "hit": false,
+        "answers": [
+          [
+            "rourkela",
+            0.6417
+          ],
+          [
+            "banglore",
+            0.5962
+          ],
+          [
+            "jalandhar",
+            0.5922
+          ]
+        ]
+      }
+    },
+    "anand : mishra :: debasis : ?": {
+      "Gensim-CBOW": {
+        "top": "das",
+        "hit": true,
+        "answers": [
+          [
+            "das",
+            0.6795
+          ],
+          [
+            "sikarwar",
+            0.6727
+          ],
+          [
+            "limbasiya",
+            0.63
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "das",
+        "hit": true,
+        "answers": [
+          [
+            "das",
+            0.593
+          ],
+          [
+            "bhumika",
+            0.4923
+          ],
+          [
+            "sajal",
+            0.4795
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "das",
+        "hit": true,
+        "answers": [
+          [
+            "das",
+            0.948
+          ],
+          [
+            "sikarwar",
+            0.8667
+          ],
+          [
+            "richa",
+            0.8533
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "das",
+        "hit": true,
+        "answers": [
+          [
+            "das",
+            0.7859
+          ],
+          [
+            "nahar",
+            0.6742
+          ],
+          [
+            "bhumika",
+            0.6598
+          ]
+        ]
+      }
+    },
+    "anand : mishra :: gaurav : ?": {
+      "Gensim-CBOW": {
+        "top": "harit",
+        "hit": true,
+        "answers": [
+          [
+            "harit",
+            0.6204
+          ],
+          [
+            "bhatnagar",
+            0.5923
+          ],
+          [
+            "agrawal",
+            0.5339
+          ]
+        ]
+      },
+      "Gensim-Skipgram": {
+        "top": "harit",
+        "hit": true,
+        "answers": [
+          [
+            "harit",
+            0.5551
+          ],
+          [
+            "bhatnagar",
+            0.5083
+          ],
+          [
+            "bhuvnesh",
+            0.3981
+          ]
+        ]
+      },
+      "Scratch-CBOW": {
+        "top": "harit",
+        "hit": true,
+        "answers": [
+          [
+            "harit",
+            0.9312
+          ],
+          [
+            "bhatnagar",
+            0.9242
+          ],
+          [
+            "richa",
+            0.8834
+          ]
+        ]
+      },
+      "Scratch-Skipgram": {
+        "top": "bhatnagar",
+        "hit": false,
+        "answers": [
+          [
+            "bhatnagar",
+            0.5935
+          ],
+          [
+            "harit",
+            0.5848
+          ],
+          [
+            "megha",
+            0.5846
+          ]
+        ]
+      }
+    }
+  },
+  "cka": {
+    "Gensim-CBOW \u2194 Gensim-Skipgram": 0.4904,
+    "Gensim-CBOW \u2194 Scratch-CBOW": 0.6629,
+    "Gensim-CBOW \u2194 Scratch-Skipgram": 0.4102,
+    "Gensim-Skipgram \u2194 Scratch-CBOW": 0.3944,
+    "Gensim-Skipgram \u2194 Scratch-Skipgram": 0.8929,
+    "Scratch-CBOW \u2194 Scratch-Skipgram": 0.3815
+  },
+  "window_sweep_comparison": {
+    "gensim_window_sweep": [
+      {
+        "architecture": "cbow",
+        "sweep": "window",
+        "vector_size": 300,
+        "window": 3,
+        "negative": 10,
+        "vocab_size": 19495,
+        "train_time_sec": 21.88,
+        "avg_probe_sim": 0.2149,
+        "label": "cbow_dim300_win3_neg10"
+      },
+      {
+        "architecture": "skipgram",
+        "sweep": "window",
+        "vector_size": 300,
+        "window": 3,
+        "negative": 10,
+        "vocab_size": 19495,
+        "train_time_sec": 58.54,
+        "avg_probe_sim": 0.2509,
+        "label": "skipgram_dim300_win3_neg10"
+      },
+      {
+        "architecture": "cbow",
+        "sweep": "window",
+        "vector_size": 300,
+        "window": 10,
+        "negative": 10,
+        "vocab_size": 19495,
+        "train_time_sec": 24.71,
+        "avg_probe_sim": 0.1828,
+        "label": "cbow_dim300_win10_neg10"
+      },
+      {
+        "architecture": "skipgram",
+        "sweep": "window",
+        "vector_size": 300,
+        "window": 10,
+        "negative": 10,
+        "vocab_size": 19495,
+        "train_time_sec": 137.3,
+        "avg_probe_sim": 0.2774,
+        "label": "skipgram_dim300_win10_neg10"
+      }
+    ],
+    "scratch_window_sweep": [
+      {
+        "architecture": "cbow",
+        "sweep": "window",
+        "window": 3,
+        "vector_size": 100,
+        "negative": 5,
+        "vocab_size": 19495,
+        "train_time_sec": 2374.47,
+        "avg_probe_sim": 0.5207
+      },
+      {
+        "architecture": "skipgram",
+        "sweep": "window",
+        "window": 3,
+        "vector_size": 100,
+        "negative": 5,
+        "vocab_size": 19495,
+        "train_time_sec": 5670.68,
+        "avg_probe_sim": 0.4315
+      },
+      {
+        "architecture": "cbow",
+        "sweep": "window",
+        "window": 5,
+        "vector_size": 100,
+        "negative": 5,
+        "vocab_size": 19495,
+        "train_time_sec": 2350.9,
+        "avg_probe_sim": 0.5335
+      },
+      {
+        "architecture": "skipgram",
+        "sweep": "window",
+        "window": 5,
+        "vector_size": 100,
+        "negative": 5,
+        "vocab_size": 19495,
+        "train_time_sec": 8035.76,
+        "avg_probe_sim": 0.4486
+      },
+      {
+        "architecture": "cbow",
+        "sweep": "window",
+        "window": 10,
+        "vector_size": 100,
+        "negative": 5,
+        "vocab_size": 19495,
+        "train_time_sec": 2289.97,
+        "avg_probe_sim": 0.5639
+      },
+      {
+        "architecture": "skipgram",
+        "sweep": "window",
+        "window": 10,
+        "vector_size": 100,
+        "negative": 5,
+        "vocab_size": 19495,
+        "train_time_sec": 12917.56,
+        "avg_probe_sim": 0.4395
+      }
+    ]
+  }
+}

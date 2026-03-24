@@ -1,0 +1,14 @@
+SOURCE_PDF: 89bff6c26344_TopUniversityDetails_3D.pdf
+
+Parameter Details of Top Universities where your graduates have been admitted for higher studies
+3D.GTOP, S.No. Name of the student of
+your institution Graduating year of the
+student PG/PhD program in where
+student has been admitted Name of the top
+university/institutions Year of admission
+1 Pratik Kalshetti 2016 M.Tech. Computer Science IIT Bombay 2016
+2 Sharath Kunthal 2016 MBA IIM Calcutta 2016
+3 Ajay Charan 2016 MSE (Masters in Electrical
+Engineering) University of
+Pennsylvania,Philadelphia 2016
+4 Jinak Jain 2016 MS ETH Zürich 2016

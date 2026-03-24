@@ -1,0 +1,16 @@
+research seminar by akansha on sept at pm title of the talk approximation of univariate functions date time september at pm online abstract many physical and engineering problems give rise to solutions that are inherently featuring discontinuities shocks or edges
+classical polynomial approximation techniques often fail in such settings producing undesirable oscillations known as the gibbs phenomenon
+in this talk will present rational approximation techniques with particular focus on piecewise type methods that offer an efficient and accurate way to approximate univariate functions
+these methods sharply capture singularities without requiring prior knowledge of their location or type achieve accuracy in smooth regions and can be extended to more complex scenarios
+will discuss the theoretical underpinnings error estimates and adaptive strategies as well as numerical results demonstrating the robustness of the proposed approaches
+towards the end of my talk will provide an overview of my ongoing and future research directions
+in particular will discuss my current work on graph neural networks which centers on developing robust models capable of addressing distributional shifts in graph data
+about the speaker akansha earned her master degree in mathematics and computing from the indian institute of technology iit guwahati in followed by in approximation theory from the indian institute of technology iit bombay in
+since she has been working as an assistant professor in the department of mathematics at manipal institute of technology manipal
+her research interests lie at the intersection of mathematical theory and deep learning with focus on graph neural networks gnns reliable gnns and related areas
+she is also expanding her research into the emerging field of generative ai working with wenbin zhang florida international university usa
+title of the talk approximation of univariate functions date time september at pm online abstract many physical and engineering problems give rise to solutions that are inherently featuring discontinuities shocks or edges
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

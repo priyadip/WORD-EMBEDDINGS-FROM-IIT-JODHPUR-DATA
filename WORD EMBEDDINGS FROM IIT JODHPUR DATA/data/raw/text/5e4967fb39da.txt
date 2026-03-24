@@ -1,0 +1,4 @@
+SOURCE_URL: http://intra.iitj.ac.in:8080/LectureHall
+
+Online Booking Portal for the Lecture Hall Rooms
+Copyright © Indian Institute of Technology Jodhpur, NH-65, Naguar Road, Karwad, Jodhpur 342037

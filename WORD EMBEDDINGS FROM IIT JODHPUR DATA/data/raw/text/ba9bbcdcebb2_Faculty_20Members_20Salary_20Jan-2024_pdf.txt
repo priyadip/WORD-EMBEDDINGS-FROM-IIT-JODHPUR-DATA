@@ -1,0 +1,257 @@
+SOURCE_PDF: ba9bbcdcebb2_Faculty_20Members_20Salary_20Jan-2024.pdf
+
+S.No Employee Name Designation Amount
+1 V. V. Mohana Sarma Chandramouli Associate Professor 299688
+2 Ravindra Brammajyosula Professor 371757
+3 Vivek Vijay Associate Professor 308510
+4 Rakesh Kumar Sharma Professor 321492
+5 Anil Kumar Tiwari Professor 321492
+6 Gaurav Harit Professor 399589
+7 Subhashish Banerjee Professor 350785
+8 Amit Kumar Mishra Professor 350785
+9 Sandeep Kumar Yadav Associate Professor 324939
+10 Hari Narayanan V. Associate Professor 317664
+11 George K. J. Associate Professor 308510
+12 Deepakkumar Maganlal Fulwani Professor 315338
+13 Shree Prakash Tiwari Professor 312338
+14 Monika Sinha Associate Professor 299688
+15 Barun Pratiher Associate Professor 285777
+16 Ambesh Dixit Professor 303350
+17 Meenu Chhabra Professor 321492
+18 Ashutosh Kumar Alok Professor 312338
+19 Rahul Chhibber Professor 340799
+20 V. Narayanan Associate Professor 299688
+21 Anand Krishnan Plappally Professor 303350
+22 Atul Kumar Professor 298195
+23 Sushmita Jha Professor 321492
+24 Puneet Sharma Associate Professor 291033
+25 Kirankumar Rajshekhar Hiremath Associate Professor 351450
+26 Samanwita Pal Professor 306850
+27 Satyajit Sahu Associate Professor 291033
+28 Manikandan Paranjothy Professor 303350
+29 Ankita Sharma Professor 289707
+30 Mahesh Kumar Professor 316591
+31 Ananya Debnath Professor 303350
+32 Arun Kumar Singh Associate Professor 274556
+33 Shaik Abdul Gafoor Associate Professor 321939
+34 Gaurav Bhatnagar Professor 312338
+35 Prodyut Ranjan Chakraborty Professor 294695
+36 Kaushalkumar Ashokbhai Desai Professor 306850
+37 Suril Vijaykumar Shah Professor 294695
+38 Rajlaxmi Chouhan Associate Professor 244597
+39 Ramesh Kashinath Metre Associate Professor 251754
+40 Somnath Ghosh Associate Professor 266733
+41 Sudipto Mukhopadhyay Assistant Professor 251421
+42 Soumava Mukherjee Associate Professor 244597
+43 Priyanka Singh Associate Professor 259077
+44 Sandip Murarka Associate Professor 259077
+
+45 Nirmal Kumar Rana Associate Professor 259077
+46 Appala Naidu Gandi Associate Professor 259077
+47 Shankar Manoharan Associate Professor 262077
+48 Aashish Mathur Assistant Professor Grade-I 248518
+49 Arpit Arvind Khandelwal Assistant Professor 189672
+50 Kothadia Hardikkumar Bhupendra Assistant Professor Grade-I 192172
+51 Durgamadhab Mishra Assistant Professor 244264
+52 Sampat Raj Vadera Professor 361105
+53 Sumit Kalra Assistant Professor Grade-I 203713
+54 Abir Bhattacharyya Associate Professor 251754
+55 Ravi K. R. Associate Professor 308510
+56 Santanu Chaudhury Director 343500
+57 Arani Ali Khan Assistant Professor Grade-I 184345
+58 Yashaswi Verma Assistant Professor Grade-I 189672
+59 Chandan Pandey Assistant Professor Grade-II 186845
+60 Prasenjeet Tribhuvan Assistant Professor Grade-I 184345
+61 Shrutidhara Sarma Assistant Professor Grade-I 189672
+62 Prabhat Kumar Jaiswal Associate Professor 244597
+63 Rohan Diliprao Erande Assistant Professor Grade-I 239773
+64 Santosh Mogurampelly Associate Professor 247097
+65 Nitin Bhatia Associate Professor 244597
+66 Neha Jain Associate Professor 244597
+67 B M Krishna Mariserla Assistant Professor Grade-I 237273
+68 Manish Narwaria Associate Professor 247597
+69 Debasis Das Associate Professor 244597
+70 Ram Prakash Professor 315838
+71 Reetanjali Moharana Associate Professor 244597
+72 Nil Kamal Hazra Associate Professor 247097
+73 Arun Kumar R Assistant Professor Grade-II 189672
+74 Parichay Patra Assistant Professor Grade-II 189672
+75 Subrata Chakraborty Assistant Professor Grade-I 239773
+76 Ankur Gupta Associate Professor 247597
+77 Pankaj Yadav Assistant Professor Grade-I 237273
+78 Suman Kundu Assistant Professor Grade-I 189672
+79 Surajit Ghosh Professor 339088
+80 Amrita Puri Assistant Professor Grade-I 174193
+81 Moumita Mandal Assistant Professor Grade-I 181686
+82 Anand Mishra Assistant Professor Grade-I 223958
+83 Dilpreet Kaur Associate Professor 237606
+84 Rajendra Nagar Assistant Professor Grade-I 179186
+85 Farhat Naz Associate Professor 251754
+86 Abhishek Sarkar Associate Professor 247597
+87 Himanshu Kumar Assistant Professor Grade-II 138242
+88 Anoop Jain Assistant Professor Grade-I 223958
+89 Sudipta Bhattacharyya Associate Professor 247097
+90 Amit Bhardwaj Associate Professor 244597
+91 Shahab Ahmad Associate Professor 244597
+
+92 Deepak Mishra Assistant Professor Grade-I 179186
+93 Saakshi Dhanekar Associate Professor 244597
+94 Amandeep Kaur Assistant Professor Grade-I 179186
+95 Dibyendu Kumar Sasmal Associate Professor 244597
+96 Nipun Arora Assistant Professor Grade-I 184345
+97 Shobhana Singh Assistant Professor Grade-I 230449
+98 Jaiveer Singh Associate Professor 247097
+99 Jai Narayan Tripathi Assistant Professor Grade-I 230449
+100 Sukhendu Ghosh Associate Professor 244597
+101 Richa Singh Professor 345548
+102 Mayank Vatsa Professor 345548
+103 Indranil Banerjee Associate Professor 277556
+104 Niladri Sekhar Tripathy Assistant Professor Grade-I 184345
+105 Harshit Agarwal Associate Professor 244597
+106 Debanjan Guha Roy Assistant Professor Grade-I 182186
+107 Deepika Bhattu Associate Professor 240106
+108 Raviraj Vankayala Associate Professor 244597
+109 Deepak Arora Associate Professor 266733
+110 Romi Banerjee Assistant Professor Grade-I 179186
+111 Pradeep Kumar Dammala Assistant Professor Grade-I 182186
+112 Venkat Ram Reddy Ganuthula Assistant Professor Grade-I 229403
+113 Atul Kumar Sharma Assistant Professor Grade-I 181686
+114 Yerasani Sinjana Assistant Professor Grade-II 4289
+115 Srijan Sengupta Assistant Professor Grade-I 186845
+116 Pallavi Jain Assistant Professor Grade-I 189672
+117 Venkatesha Murthy R Associate Professor 282711
+118 Angan Sengupta Associate Professor 244597
+119 Amit Kumar Rathi Assistant Professor Grade-II 152624
+120 Manish Aggarwal Associate Professor 308510
+121 Ranju Mohan Associate Professor 237606
+122 Anuj Pal Kapoor Assistant Professor Grade-I 179186
+123 Amit Sharma Assistant Professor Grade-I 174193
+124 Saurabh Sanjay Nene Associate Professor 244597
+125 Krishna Kumar Balaraman Associate Professor 119885
+126 Prasenjit Sarkar Assistant Professor Grade-I 223958
+127 Ramesh Asapu Assistant Professor Grade-I 176693
+128 Devi Prasad Dash Assistant Professor Grade-I 223958
+129 Vikky Anand Assistant Professor Grade-I 176693
+130 Prashant Kumar Gupta Assistant Professor Grade-I 174193
+131 Somitra Kumar Sanadhya Professor 306850
+132 Nirmalya Bachhar Assistant Professor Grade-I 223958
+133 Dip Sankar Banerjee Associate Professor 244597
+134 Suchetana Chakraborty Associate Professor 247597
+135 Praveenkumar Sappidi Assistant Professor Grade-I 223958
+136 Alok Ranjan Assistant Professor Grade-I 181686
+137 Suman Dhaka Assistant Professor Grade-I 186845
+138 Natasa Thoudam Assistant Professor Grade-II 134413
+
+139 Bhupendra Singh Assistant Professor Grade-I 179089
+140 Tekcham Gishan Singh Assistant Professor Grade-I 179186
+141 Neeraj Jain Professor 393248
+142 Tuhina Mukherjee Assistant Professor Grade-I 184345
+143 Patnayakuni Ravi Prakash Assistant Professor Grade-I 198457
+144 Jayant Kumar Mohanta Assistant Professor Grade-I 184345
+145 Malyala Pavana Ravi Sai Kiran Assistant Professor Grade-II 136913
+146 Ashish Pathak Assistant Professor Grade-I 189672
+147 Ajay Agarwal Professor 312338
+148 Mitali Mukerji Professor 386757
+149 Angshuman Paul Assistant Professor Grade-I 203713
+150 Binod Kumar Assistant Professor Grade-II 134413
+151 Ravi Yadav Assistant Professor Grade-I 179186
+152 Sucharita Dey Assistant Professor Grade-I 192172
+153 Dweepobotee Brahma Assistant Professor Grade-I 197996
+154 Nishant Kumar Assistant Professor Grade-I 181686
+155 Abhinaba Lahiri Assistant Professor Grade-I 184345
+156 Abhilasha Maheshwari Assistant Professor Grade-II 130585
+157 Nitin Kumar Sharma Assistant Professor Grade-I 186845
+158 Md Abu Talhamainuddin Ansary Assistant Professor Grade-I 179186
+159 Kunwar Aditya Assistant Professor Grade-I 184345
+160 Dipanjan Roy Associate Professor 303680
+161 Shilpa Dang Assistant Professor Grade-I 181686
+162 Sk Md Hasan Assistant Professor Grade-I 179186
+163 Devendra Singh Negi Assistant Professor Grade-I 197664
+164 Pranay Ranjan Assistant Professor Grade-I 181686
+165 Saran Aadhar Assistant Professor Grade-II 133085
+166 Amitava Banerjee Assistant Professor Grade-I 203713
+167 Trishikhi Raychaudhury Associate Professor 295011
+168 Mithu Rani Kuiti Assistant Professor Grade-I 179186
+169 Sumit Kamal Assistant Professor Grade-II 148381
+170 Tara Chand Kumawat Assistant Professor Grade-I 206213
+171 Jitesh Mohnot Assistant Professor Grade-I 197996
+172 Deepak Kumar Saxena Assistant Professor Grade-I 203713
+173 Lawqueen Kanesh Assistant Professor Grade-II 136913
+174 Amit Singh Assistant Professor Grade-II 134413
+175 Monika Tanwar Assistant Professor Grade-I 203713
+176 Akolekar Harshal Deepak Assistant Professor Grade-II 148381
+177 Ayan Sadhukhan Assistant Professor Grade-I 184345
+178 Aali Pant Assistant Professor Grade-II 148381
+179 Mayank Suman Assistant Professor Grade-II 136913
+180 Dinesh Kumar Ahirwar Assistant Professor Grade-I 203713
+181 Bhargab Chattopadhyay Associate Professor 312717
+182 Pradip Sasmal Assistant Professor Grade-I 203713
+183 S. Srivatsa Srinivas Assistant Professor Grade-II 133085
+184 Ganesh Manjhi Assistant Professor Grade-I 179186
+185 Bimal Mandal Assistant Professor Grade-I 184345
+
+186 Tonisha Guin Assistant Professor Grade-I 174193
+187 Rachel Philip Assistant Professor Grade-II 130585
+188 Gurujegan M. Assistant Professor Grade-I 179186
+189 Akanksha Choudhary Assistant Professor Grade-II 148381
+190 Pratik Mazumder Assistant Professor Grade-II 129424
+191 Gopakumar K. U. Assistant Professor Grade-I 179186
+192 Subhash Bhagat Assistant Professor Grade-I 181686
+193 Sreedevi D. Assistant Professor Grade-I 181686
+194 Riby Abraham Boby Assistant Professor Grade-I 179186
+195 Palash Das Assistant Professor Grade-II 129424
+196 Vimal Raj Sharma Assistant Professor Grade-II 140082
+197 Sunita Assistant Professor Grade-I 181686
+198 Gourhari Ghosh Assistant Professor Grade-II 140082
+199 Moni Kumari Assistant Professor Grade-I 173930
+200 Bhupendra Reniwal Assistant Professor Grade-I 186845
+201 Hirshikesh Assistant Professor Grade-I 176693
+202 Vignesh T. G. Assistant Professor Grade-I 179186
+203 Suresh Sarkar Assistant Professor Grade-I 179186
+204 Anupama Mohan Associate Professor 244597
+205 Jitendra Kumar Assistant Professor Grade-I 200496
+206 Jangam Bhushan Praveen Assistant Professor Grade-II 144139
+207 Gangawane Krunal Madhukar Assistant Professor Grade-I 179186
+208 Vignesh Muralidharan Assistant Professor Grade-I 184442
+209 Sherin Sabu Assistant Professor Grade-II 139897
+210 Rajdeep Konar Assistant Professor Grade-I 197996
+211 Sunil Kumar Lohar Assistant Professor Grade-II 139897
+212 Varanasi Santhosh Kumar Assistant Professor Grade-I 179186
+213 Kirti Sankhala Assistant Professor Grade-I 197996
+214 Saurabh Maheshwari Assistant Professor Grade-I 230449
+215 Sanhita Das Assistant Professor Grade-II 130585
+216 Vinay Reddy Venumuddala Assistant Professor Grade-II 130585
+217 Chandana N Assistant Professor Grade-II 126757
+218 Vinod Vijay Kumar Assistant Professor Grade-II 134413
+219 Avinash Sharma Associate Professor 244597
+220 Ayla Joncheere Associate Professor 241088
+221 Nimish Vohra Associate Professor 244597
+222 Rajyalakshmi Garaga Assistant Professor Grade-II 130585
+223 Sumana Som Assistant Professor Grade-II 123262
+224 Saptarshi Pyne Assistant Professor Grade-II 130585
+225 Gaurav Vinodrao Vaidya Assistant Professor Grade-II 123262
+226 Lalit Assistant Professor Grade-II 136024
+227 Nipal Deka Assistant Professor Grade-I 192463
+228 Bharat Singh Rajpurohit Professor 345548
+229 Subir Debnath Professor of Practice 185368
+230 Kanak Yadav Assistant Professor Grade-II 136024
+231 Akshay Assistant Professor Grade-I 192463
+232 Monika Dubey Assistant Professor Grade-II 123262
+
+233 Suresh Kumar Padala Assistant Professor Grade-II 136024
+234 Amit Mukherjee Assistant Professor Grade-I 174193
+235 Kuntal Som Assistant Professor Grade-II 126924
+236 Awathare Nitin Niranjan Assistant Professor Grade-II 126924
+237 Shreya Banerjee Assistant Professor Grade-II 130585
+238 Milan Kumar Hazra Assistant Professor Grade-I 179449
+239 Bhivraj Suthar Assistant Professor Grade-II 130585
+240 Seema Assistant Professor Grade-II 123262
+241 Manu Kanchan Assistant Professor Grade-II 140082
+242 Bikash Santra Assistant Professor Grade-II 140082
+243 Suraj Srivastava Assistant Professor Grade-II 126924
+244 Tanmay Nitin Inamdar Assistant Professor Grade-II 144139
+245 Parag Arvind Deshpande Professor 259150
+246 Byomakesh Debata Assistant Professor Grade-I 153446
+247 Chandan Datta Assistant Professor Grade-I 133646
+248 Sreejith Krishnan Assistant Professor Grade-II 94430
+Grand Total 54226300

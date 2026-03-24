@@ -1,0 +1,12 @@
+congratulations to gaurav bhatnagar for the acceptance of his research article in the journal ieee multimedia title based secure watermarking technique for smart healthcare system authors anand
+singh zhihan lv and bhatnagar journal ieee multimedia year publisher ieee computer society abstract smart healthcare system is an electronic patient records epr sharing system which significantly help sharing of epr data and provide appropriate medical assistance for the patients and more suitable platform for the potential researchers
+however security of epr data is still major issue in such systems
+in this paper we develop encryption based dual watermarking to protect the epr data for healthcare system which produces several significant features
+experiments conducted on large set of medical data indicate the capability of our proposed method for smart healthcare
+finally when compared with the existing technique proposed work offers better performance in terms of robustness and security
+title based secure watermarking technique for smart healthcare system authors anand
+singh zhihan lv and bhatnagar journal ieee multimedia publisher ieee computer society abstract smart healthcare system is an electronic patient records epr sharing system which significantly help sharing of epr data and provide appropriate medical assistance for the patients and more suitable platform for the potential researchers
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

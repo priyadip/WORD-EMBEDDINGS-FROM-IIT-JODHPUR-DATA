@@ -1,0 +1,467 @@
+SOURCE_PDF: 292a2ab376bf_Total-Budget-for-the-public-authority-2-638779852284409381.pdf
+
+INDIAN INSTITUTE OF TECHNOLOGY, JODHPUR
+Hkkjrh; ÁkS|ksfxdh laLFkku Tkks/kiqj
+FINANCIAL STATEMENT/ foÙkh; fooj.k
+FOR THE FINANCIAL YEAR 2021-22 / foÙkh; o"kZ 2021&22
+FORM PRESCRIBED FOR THE CENTRAL AUTONOMOUS BODIES
+dsUnzh; Lok;Ùk laLFkkvksa ds fy;s fu;r Ák:i
+(NON-PROFIT ORGANISATIONS AND SIMILAR INSTITUTIONS)
+¼xSj ykHkdkjh laLFkku ,oa vU; leku laLFkku½
+
+PAGE NO. i`"B la[;k 1-2 3-4 5-42 43-59 60-71 72-93 94-97 98-105 106-110 111 112-123 124
+HEADS fooj.k BALANCE SHEET / rqyu i= INCOME & EXPENDITURE ACCOUNT / vk;&O;; [kkrk SCHEDULES OF BALANCE SHEET / rqyu i= dh vuqlwfp;k¡ SCHEDULES OF INCOME & EXPENDITURE ACCOUNTS / vk; O;; [kkrs dh vuqlwfp;k¡ SIGNIFICANT ACCOUNTING POLICIES / egÙoiw.kZ ys[kka du uhfr;k¡ NOTES ON ACCOUNTS / vkdfLed ns;rk,¡ ,oa ys[kks ij fVIi.kh RECEIPT AND PAYMENT ACCOUNT / ÁkfIr ,o Hkq xrku [kkrk UTILIZATION CERTIFICATE / mi;ks fxrk Áek.k i= NPS TIER-I ACCOUNT / ,u- ih- ,l- Vh;j&1 [kkrs APPROVAL OF B.O.G. FOR ANNUAL ACCOUNTS / okf"kZd ys[ka ks ds fy;s 'kkld e.My ¼ch- vks- th-½ dk vuqeks nu AUDIT CERTIFICATE ISSUED BY CAG / fu;a=d egkys[kdkj }kjk tkjh vads{k.k Áek.k i= ADOPTION OF AUDITED ACCOUNTS BY BOG / 'kkld e.My ¼ch- vks- th-½ }kjk vadsf{kr ys[kkas dh Lohd`fr
+PAGE NO.
+
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+Hkkjrh; ÁkS|ksfxdh laLFkku tks/kiqj
+SCHEDULES FORMING PART OF BALANCE SHEET AS AT 31ST MARCH, 2022
+rqyu i= dh vuqlwfp;k¡ 31 ekpZ 2022 dks
+SCHEDULE: 23 
+vuqlwph % 23
+SIGNIFICANT ACCOUNTING POLICIES 
+egÙkoiw.kZ ys[kkadu uhfr;k¡
+1. 
+BASIS FOR PREPARATION OF ACCOUNTS 
+ys[ks rS;kj djus dk vk/kkj
+The accounts are prepared under the Historical Cost Convention unless otherwise stated and generally on the Accrual
+method of accounting.
+2. 
+REVENUE RECOGNITION 
+jktLo ekU;rk
+2.1 
+Receipts such as Fees from Students, Sale of Admission Forms and Interest on Saving Bank and flexi deposit accounts 
+are accounted on cash basis. 
+fo|kfFkZ;ksa ls ÁkIr Qhl] Áos'k i=ksa ls ÁkIr fcØh vk; ,oa cpr [kkrksa ls ÁkIr C;kt dk ys[kkadu udn vk/kkj ij fd;k x;k
+
+3. 
+FIXED ASSETS AND DEPRECIATION
+3.1 
+Fixed assets are stated at cost of acquisition including inward freight, duties and taxes and incidental and direct 
+expenses related to acquisition, installation and commissioning.
+LFkk;h lEifÙk;kas dks Ø; ewY; ij n'kkZ;k x;k gS ftlesa vkod HkkM+k] dj ,oa 'kqYd rFkk Ø;] LFkkiuk ls lacf/kr ÁR;{k ,oa
+3.2 
+Gifted / Donated assets are valued at the declared value where available, if not available, the value is estimated based 
+on the present market value adjusted with reference to the physical condition of the asset. They are set-up by credit to 
+Capital Fund and merged with the Fixed Assets of the Institution. Depreciation is charged at the rates applicable to 
+the respective assets.
+Fks ogk¡ ewY; dks orZeku cktkj dherksa ds }kjk lEifÙk dh HkkSfrd voLFkk dks ns[krs gq;s ewY;kafdr fd;k x;k gSA os LFkk;h
+lEifÙk;ksa ds lkFk foy; dj fn;s x;s gSA ewY; gkl dks lEcfU/kr lEifÙk ij ÁHkkoh njks ls ykxw fd;k x;k gSA
+3.3 
+Books received as gifts, are valued at selling prices printed on the books. Where they are not printed, the value is 
+based on assessment. 
+HksaV ds :i es ÁkIr iqLrdsa] mu ij eqfnzr foØ; ewY; ds vk/kkj ij ewY;kafdr dh x;h gSA tgk¡ ;s eqfnzr ugha Fkh] fu/kkZj.k 
+vk/kkfjr ewY;kadu fd;k x;k gSA
+3.4 
+Depreciation on fixed assets acquired during the year is provided for full year on the value of assets in the year in 
+which Instalation is made for such assets and not on the value as per mercantile system. Fixed assets are valued at cost 
+less accumulated depreciation. Depreciation on fixed assets is provided on Straight line method, at the following rates:
+
+Tangible Assets: / n`'; lEifÙk;k¡
+1. Land / Hkwfe 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+2. Site Development / LFky fodkl 
+ 
+ 
+ 0%
+3. Buildings / Hkou 
+ 
+ 
+ 
+ 
+ 
+2%
+4. Roads & Bridges / lM+ds ,oa iqy 
+ 
+ 
+2%
+5. Tube wells & Water Supply
+V~;wc oSy ,oa okVj lIykbZ 
+ 
+ 
+ 
+2%
+6. Sewerage & Drainage
+lhojst ,oa fudklh 
+ 
+ 
+ 
+ 
+ 
+2%
+7. Electrical Installation equipment
+fo|qr midj.k ,oa laLFkkiu 
+ 
+ 
+ 
+ 
+5%
+8. Plant & Machinery
+9. Scientific & Laboratory Equipment
+oSKkfud ,oa ySc midj.k 
+ 
+ 
+ 
+8%
+10. Office Equipment
+11. Audio Visual Equipment
+12. Computers & Peripherals
+13. Furniture, Fixtures & Fittings
+QuhZpj ,oa fQfVaXl 
+ 
+ 
+ 
+ 
+ 
+7.5%
+14. Vehicles / okgu 
+ 
+ 
+ 
+ 
+ 
+ 
+10%
+15. Library Books & Scientific Journals
+iqLrdky; iqLrd ,oa oSKkfud tuZy 
+ 
+ 
+ 
+10%
+
+Intangible Assets (amortization):
+vewrZ lEifÙk;k¡ ¼viys[ku½%
+1. E-Journals / bZ tuZy 
+ 
+ 
+ 
+ 
+ 
+40%
+2. Computer Software / dEI;wVj lkWQVos;j 
+ 
+ 40%
+3. Patents and Copyrights / isVsUV ,oa dkWih jkbV 
+ 
+ 
+9 years
+3.5 
+Depreciation is provided for the whole year on additions during the year. For Depreciation Purpose General 
+Equipment is treated as Office Equipment. 
+ 
+ewY; gkl o`f);ksa ij iwjs o"kZ dk yxk;k x;k gSA g``kl ds mÌs”; ls lk/kkj.k midj.k dks dk;kZy; midj.k ekuk x;k gSA
+3.6 
+Where an asset is fully depreciated, it is carried at a nominal value in the Balance Sheet and will not be further 
+depreciated. 
+ 
+tgk¡ ,d lEifÙk iw.kZr% g`kflr gks pqdh gS] ogk¡ rqyu i= es bls uke ek= ds ewY; ij fy;k x;k gS rFkk vkxs vkSj g`kflr ugha 
+fd;k tk;sxkA
+3.7 
+Assets created out of Earmarked Funds and funds of Sponsored Projects, where the ownership of such assets vests in 
+the Institution, are setup by credit to Capital Fund and merged with the Fixed Assets of the Institution. Depreciation is 
+charged at the rates applicable to the respective assets. Assets created out of Sponsored Project funds, where the 
+ownership is retained by the sponsors but held and used by the Institution are separately disclosed in the Notes on 
+Accounts. 
+ 
+cankscLrh fuf/k@ukfer fuf/k vkSj izk;ksftr ifj;kstukvksa ls cuh lEifRr;ka ftudk LokfeRo laLFkku ds ikl gS mls iwath [kkrs 
+ls lek;ksftr djrs gwa laLFkku dh vpy lEifRr;ksa esa “kkfey fd;k x;k gS A ewY;gkl fu/kkZfjr njksa ls yxk;k x;k gSaA 
+izk;ksftr ifj;kstukvksa ls cuh lEifRr;ka ftudk LokfeRo izk;ksftr laLFkku ds ikl gh gSa ijUrq lEifRr;ka laLFkku }kjk mi;ksx 
+esa yh tk jgh gS dks i`Fkd :Ik ls ys[kksa ij fVIi.kh esa n”kkZ;k x;k gSA
+
+3.8 
+Assets, the individual value of each of which is Rs. 2000 or less (except Library Books) are treated as Small Value 
+Assets, 100% depreciation is provided in respect of such assets at the time of their acquisition. However physical 
+accounting and control are continued by the holders of such assets. 
+ 
+lEifRr;ka ftudk ewY; 2000@& ;k mlls de gks ¼iqLrdky; iqLrd dks NksM-dj ½ dks de ewY; okyh lEifRr esa ekuk x;k 
+gSA ,slh lEifRr;ksa ds vf/kxzg.k ds le; gh 100% ewY;gkl iznku fd;k tkrk gSA gkaykfd HkkSfrd ys[kkadu vkSj fu;a+=.k ,slh 
+lEifRr ds /kkjdksa }kjk tkjh j[kk tkrk gSA
+4 INTANGIBLE ASSETS: Patents and copy rights, E Journals and Computer Software are grouped under Intangible Assets.
+vewrZ @ vn`'; lEifÙk;k¡% isVsUV ,oa dkWih jkbV] bZ &tuZy ,oa dEI;wVj lkWQVos;j dks vewrZ lEifÙk;ksa esa lekfgr fd;k x;k gSA
+4.1 
+PATENTS: 
+The expenditure incurred from time-to-time (application fees, legal expenses etc.) for obtaining Patents
+is temporarily capitalized and shown as part of Intangible Assets in the Balance sheet. If applications for patents are 
+rejected, the cumulative expenditure incurred on the particular patent is written off to the Income & Expenditure 
+Account in the year of the application is rejected. The expenditure on Patents granted is written off over a life of 9 
+years.
+iSVsUV% iSVsUV ÁkIr djus ds fy;s le; le; ij fd;s x;s [kpsZ ¼ ÁkFkZuk i= O;;] dkuwuh [kpsZ vkfn ½ dks iwthxr O;; ekurs 
+gq;s rqyu i= esa vewrZ lEifÙk;ksa esa n'kkZ;k x;k gSA ;fn iSVsUV ds ÁkFkZuk i= vLohdkj fd;s x;s gS rks lafpr O;; dks vk; ,ao 
+O;; [kkrs esa iSVsUV vLohdkj fd;s tkus ds o"kZ esa fufnZ"V iSVsUV esa vifyf[kr dj fn;k x;k gSA Ánku fd;s x;s iSVsUV O;; dks 
+9 o"kZ dh vof/k esa vifyf[kr fd;k x;k gSA
+4.2 
+Electronic Journals (E-Journals) are separated from Library Books in view of the limited benefit that could be derived 
+from the on-line access provided. E-Journals are not in a tangible form, but temporarily capitalized and in view of the 
+magnitude of expenditure and the benefit derived in terms of perpetual knowledge acquired by the Academic and 
+Research staff; Depreciation is provided in respect of E-journals at a higher rate of 40% as against depreciation of 10% 
+provided in respect of Library Books.
+
+bysfDVªd tuZy ¼bZ&tuZy½ dks iqLrdky; iqLrdksa ls bl vk/kkj ij vyx fd;k x;k gS fd muls ÁkIr ykHk lhfer le; ds 
+fy;s gksrs gSA bZ&tuZy n`'; :i esa ugh gS] ysfdu iwathdj.k fd;k fd;k x;k gS rFkk O;; dh jkf'k dks ns[krs gq;s ,oa 'kS{kf.kd 
+,oa 'kks/k dehZ;ksa }kjk Kku vftZr djus ds ykHk dks ns[krs gq;s bZ&tuZy ij gkl 40% dh mPp nj ls yxk;k x;k gS tc fd 
+iqLrdky; iqLrdksa ij 10% dh nj yxkbZ x;h gSA
+4.3 
+Expenditure on acquisition of software has been separated from computers and peripherals, as apart from being 
+intangible assets, the rate of obsolescence in respect of these is very high. Depreciation is provided in respect of 
+software at a higher rate of 40% as against depreciation of 20% provided in respect of Computers & Peripherals. 
+ 
+lkQVos;j ds vf/kxzg.k ls lacf)r O;; dks dEi;wVj ,oa midj.k ls vyx ekuk x;k gS] pwafd ;g vewrZ lEifÙk ls vyx gS] 
+dkykrhr gksus dh nj vR;f/kd mPp gSA lkQVos;j ij vR;f/kd nj 40% ls gkl yxk;k x;k gS ogha dEI;wVj ,oa midj.k 
+ij 20% dh nj ls gh gkl yxk;k x;k gSA
+5. 
+STOCKS: 
+Expenditure on purchase of chemicals, glassware, publications and other stores is accounted as revenue
+expenditure, except that the value of closing stocks held on 31st March is set up as inventories by reducing the corresponding 
+Revenue Expenditure on the basis of information obtained from Stores Department. They are valued at cost. As on 31st March 
+2022 there stock in hand is Nil.
+ekpZ dks vfUre LdU/k dk ewY; LVksj foHkkx ls ÁkIr lwpuk ds vk/kkj ij lEcfU/kr jktLo O;; dks ?kVkrs gq;s fudkyk x;k gSA bUgsa
+ykxr ij ewY;kafdr fd;k x;k gSA 31 ekpZ 2022 dks LdU/k dqN ugha FkkA
+6. 
+RETIREMENT BENEFITS: Prima-facia the liability for payment of retirement benefits is lying with the parent ministry i.e. 
+Ministry of Education (MoE). However, the provision for retirement benefits is disclosed in the annual accounts on the basis 
+of rules provided under the Government norms. Provision for Gratuity and Leave encashment made as per actuarial 
+valuation.
+
+lsokfuo`fr ifjykHk& ÁFken`f"V es lsokfuo`fr ifjykHkksa ds Hkqxrku dk nkf;Ro ewy ea=ky; ;kfu f”k{kk ea=ky; ¼,e- vks- bZ-½ ds ikl gS
+rFkkfi lsokfuo`fr ifjykHkkas dks ljdkjh fu;eksa ds rgr n'kkZ;k x;k gSA xzsP;qVh ds fy;s Áko/kku ,oa NqV~Vh ds fy;s udn dh x.kuk
+chekafdd vk/kkj ij dh x;h gSA
+7. 
+INVESTMENTS / fofu;ksx&
+a. 
+Long term investments are carried at their cost or face value whichever is lower. However, any permanent diminution 
+in their value as on the date of the Balance Sheet is provided for.
+nh?kZdkfyd fofu;ksx dks mudh ykxr ;k vafdr ewY; esa ls tks Hkh de gks ij fy;k x;k gSA gkykafd budh dher esa fdlh Hkh 
+Ádkj dh LFkk;h deh ds ÁHkko dks rqyu i= esa n'kkZ;k x;k gSA
+b. 
+Short Term investments are carried at their cost or market value (if quoted) whichever is lower.
+vYidkyhu fofu;ksx dks mudh ykxr ;k cktkj ewY; esa ls tks Hkh de gks ij fy;k x;k gSA
+8. 
+Earmarked/Endowment Funds / fu/kkZfjr vkSj cankscLrh fuf/k;ka
+a. 
+The long terms funds (As presented in Schedule 2 A) are earmarked for specific purposes. Each of the funds has a
+separate Ledger account. Those with large balances also have investments in Government Securities, Debentures and
+Bonds and Term Deposits with Banks.
+lEifRr;ka nh?kZ vof/k ds dks’k ¼tSlk fd vuqlwph 2, esa izLrqr fd;s x;s gS ½ fof”k’V mn~ns”;ks ds fy, fu/kkZfjr fd;k x;k gSA
+izR;sd QaM dk ,d vyx [kkrk [kksyk tkrk gS vkSj nh?kZ “ks’k jkf”k okys dks’kksa dks ljdkjh izfrHkwfr;ksa] fMcsapj vkSj ckaM vkSj
+cSadks ds lkFk lkof/k tek esa fuos”k fd;k tkrk gSA
+b. 
+The income from investments/advances (House Building Conveyance and computer) on accrued basis and interest on
+savings Bank Accounts are credited to corpus fund since presently all the Earmarked funds are created from Institute
+Corpus / IRG.
+mikftZr vk/kkj ij izkIr vk; ,oa C;kt dks lexz fuf/k ¼dkWiZl QaM½ esa tek fd;k tkrk gS D;ksafd orZeku esa lHkh fuos”k@
+vfxze lexz fuf/k vkSj jkTkLo mRifr ¼vkbZvkjth½ dks’k ls cuk, tkrs gSA
+
+c. 
+The expenditure and advances (in the case of House Building & Conveyance/Computer) are debited to the fund.
+O;; ,oa vfxze dks fu/kkZfjr dks’k esa ukes fd;k tkrk gSA
+d. 
+The assets created out of Earmarked Funds where the ownership Vests in the Institution, are merged with the assets of
+the Institution by crediting an equal amount to the Capital Fund.
+fu/kkZfjr fuf/k ls l`ftr vkfLr;ksa tgka laLFkk esa LokfeRo fufgr gS] iwath fuf/k esa leku jkf”k tek djds laLFkk dh ifjlaifr;ksa
+e. 
+The balance in the respective funds is carried forward and is represented on the assets side by the balance at Bank,
+Investments and accrued interest.
+lacaf/kr fuf/k;ksa esa “ks’k jkf”k dks vkxs c<k;k tkrk gS vkSj cSad esa “ks’k jkf”k] fuos”k vkSj vftZr C;kt }kjk laifr i{k ij n”kkZ;k
+tkrk gSA
+8-1 
+CORPUS FUND / lafpr fuf/k
+a. Corpus Fund was established in (2010-11). Income from investments of the fund is added to the Fund. The Corpus
+Fund is utilized for Capital expenditure based on the guidelines and decisions the Board of Governors of the 
+Institution from time to time. The assets created out of the Corpus Fund are merged with the assets of the Institution 
+by crediting an equal amount to the Capital fund. The balance in the Corpus fund which is carried forward is 
+represented by the balance in a separate Bank account and Fixed Deposits’ with the Bank and Accrued interest on 
+investments.
+iwathxr O;; esa Á;ksx laLFkku dh dk;Zdkjh lfefr }kjk le;& le; ij nh x;h fn'kk funsZ'k ds vk/kkj ij mi;ksx fd;k x;k
+gSA lafpr fuf/k }kjk mRiUu lEifÙk;ksa dks laLFkku dh lEifÙk;ksa esa foy; dj fn;k x;k gSA lafpr fuf/k ds 'ks"k esa vyx cSad
+[kkrs dk 'ks"k ] vU; LFkk;h tekvksa dk 'ks"k] fofu;ksxksa ij mikftZr C;kt dks 'kkfey fd;k x;k gSA
+
+9. 
+GOVERNMENT GRANTS / ljdkjh vuqnku ls ÁkIr vk;&
+9.1 
+Government grants are accounted on sanction basis.
+ljdkjh vuqnku dk ys[kkadu vuqeksnu vk/kkj ij fd;k x;k gSA
+9.2 
+To the extent utilized toward capital expenditure, Government grants are transferred to the Capital Fund.
+vuqnku ftldk mi;ksx iwathxr O;; esa fd;k x;k gS] mls iw¡th dks"k esa gLrkarfjr fd;k x;k gSA
+9.3 
+Government Grant for meeting Revenue Expenditure is treated, to the extent Utilized as income of the year in which
+they are realized.
+vuqnku ftldk mi;ksx jktLo O;; esa fd;k x;k gS] mls o"kZ dh vk; ekurs gq;s ykHk&gkfu [kkrs es n’kkZ;k x;k gSA
+9.4 
+Unutilized grants (including advance paid out of such grants) are carried forward and exhibited as a liability in the
+Balance Sheet.
+vuqnku ftldk mi;ksx ugha fd;k x;k dks vkxs ys tk;k x;k gS rFkk rqyu i= esa nkf;Ro ds :i esa fn[kk;k x;k gSA
+9.5 
+Grant received under Recurring Head from Ministry of Education (MoE), for re-payment of HEFA Loan principal is 
+credited to the Capital Fund.
+vuqnku gSQk _.k ds ewy ds iquZHkqxrku ds fy;s tks vuqnku jkf”k f”k{kk ea=ky; ¼,e- vks- bZ½ }kjk nh x;h mls iw¡th dks"k [kkrs
+
+10. 
+INVESTMENT OF EARMARKED FUND AND INTEREST INCOME ACCRUED ON SUCH INVESTMENTS:
+fpfUgr dks"kksa ds fofu;ksxksa ij mikftZr C;kt ls vk;%
+a. Investment of earmarked funds to the extent not immediately required for expenditure, the amounts available against
+such fund are invested in approved Securities & Bonds or deposited for fixed term with Banks, leaving the balance in 
+Savings Bank Accounts.
+jkf'k ftldh rqjUr vko';drk ugha Fkh mls vuqeksfnr ÁfrHkwfr;ksa esa ,oa ckW.Ml esa ;k fQj lkof/k tekvksa esa fofu;ksftr fd;k 
+x;k gSA
+b. Interest received, interest accrued and due and interest accrued but not due on such investments are added to the
+Corpus fund and treated as income of the institution. The interest presented in schedule of Interest earned and 
+transferred to corpus fund through Income & Expenditure statement.
+ÁkIr C;kt] mikftZr ,oa ns; C;kt mikftZr ij vÁkI; dks lacf/kr dks"k esa ugha tksM+k x;k gS ,oa laLFkku dh vk; esa ekuk x;k
+gLrkarfjr fd;k x;k gSA
+11. SPONSORED PROJECTS / Ák;ksftr ifj;kstuk,¡
+11.1. 
+ In case of ongoing sponsored projects, the amount received from sponsors are credited to the head “Current 
+Liabilities and Provisions – Current Liabilities- Other Liabilities – Receipts against ongoing sponsored project.” The 
+said account is debited as and when expenditure is incurred, advances are made against such projects or overhead 
+charges are allocated.
+pkyw Ák;ksftr ifj;kstuvkas ds lEcU/k es Ák;kstdksa ls ÁkIr jkf'k dks “ pkyw nkf;Ro ,oa Áko/kku&pkyw nkf;Ro &vU; nkf;Ro& 
+Ák;ksftr ifj;kstukvksa ls ÁkfIr;k¡ ” esa n'kkZ;k x;k gSA tc Hkh bu ifj;kstukvksa ls dksbZ O;; fd;k tkrk gS vFkok vfxze fn;k 
+tkrk gS ;k lacf/kr ifj;kstuk [kkrs dks vkoafVr mifjO;; ls MsfcV fd;k tkrk gS rks nkf;Ro [kkrs dks MsfcV fd;k tkrk gSA
+
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+Hkkjrh; ÁkS|ksfxdh laLFkku tks/kiqj
+SCHEDULES FORMING PART OF BALANCE SHEET AS AT 31ST MARCH, 2022
+rqyu i= dh vuqlwfp;k¡ 31 ekpZ 2022 dks
+SCHEDULE: 24 
+vuqlwph % 24
+CONTIGENT LIABILITY AND NOTES TO ACCOUNTS 
+lafnX/k nkf;Ro ,oa ys[kksa ds fooj.k
+1. CONTIGENT LIABLITIES / lfnX/k nkf;Ro% 
+1.1 
+As on 31.03.2022 Court Cases filed against the Institution, by former / present employee, tenants and contractors and 
+arbitration cases with contractors were pending for decisions. The suits filed by employee were establishment related viz 
+promotions, increments, pay scales, termination etc. the quantum of the claims is not ascertainable. The claim in the suits 
+and arbitration cases by contractors amounted to ₹ NIL (Previous Year ₹ NIL)
+31-03-2022 dks laLFkku ds fo:) iwoZ ,oa orZeku deZpkfj;ksa] fdjk;nkjksa ,oa Bsdsnkjksa rFkk e/;LFk }kjk nk;j fd;s x;s dksVZ dsl 
+fu.kZ; gsrq yafcr gSA deZpkfj;ksa }kjk nk;j dsl LFkkiuk 'kk[kk ls lacf/kr gS ftuesa Áeks'ku] bafØesUV] is&Ldsy] VfeZuslu vkfn 
+ekeys gSA bu dsl dk ewY;kadu vfuf'pr gS ,oa r; ugha fd;k tk ldrk gSA Bsdsnkjksa ,oa e/;LFkrks ds ekeys esa nkok “kwU; gSA 
+¼xr o"kZ es Hkh 'kwU;½
+1.2 
+Letters of Credit established by the bank on behalf of the institution for various purchase orders. Outstanding letters of 
+Credit which are backed by the 100% security as on 31.03.2022 – ₹ 1,60,01,490/-. (Previous Year ₹ 3,07,85,421)
+1.3 
+ 
+laLFkku ds fy;s cSadks }kjk tkjh cdk;k lk[k i= dh jkf'k 31-03-2022 dks ₹ 1,60,01,490/- ¼xr o"kZ jkf'k ₹ 3]07]85]421½ ysfdu 
+lk[k i= 100% ÁfrHkwfr }kjk lefFkZr gSA
+
+2. CAPITAL COMMITMENTS / iwath izfrc}rk,a
+The Value of contracts remaining to be executed on Capital Account and not provided for (Net of Advances) amounted to 
+₹ 9,51,84,641 as on 31.03.2022. (Previous Year ₹ 1.88 Crores) 
+ 
+iwath [kkrs ij fu’ikfnr fd, tkus ds fy, “ks’k vuqca/kks dk ewY; vkSj ¼vfxzeksa dk “kq}½ ds fy, iznku ugha fd;k x;k jkf”k 31-03-
+2022 ₹ 9]51]84]641 djksM- ¼xr o"kZ ₹ 1-88 djksM+½
+3. FIXED ASSESTS / LFkk;h lEifÙk;k¡%
+3.1 Additions to fixed Assets in Schedule 4 include assets purchased out of Grants in aid Fund (₹ 55,92,70,490/-), Loan from
+HEFA (₹ 15,09,31,162/-), Donation (₹ 1,98,996/-), Earmark Fund (₹ 19,98,02,241/-) and other assets acquired by utilizing 
+the internal income (₹ 16,96,32,380/-). The Assets have been set up by credit to Capital Fund.
+vuqlwph 4 esa n'kkZ;h x;h lEifÙk;ksa esa o`f) esa ;kstuk fuf/k ds vfrfjDr Hkh [kjhnh x;h lEifÙk;k¡ 'kkfey gS ¼₹ 55,92,70,490@&½
+gSQk _.k ¼₹ 15,09,31,162½ nku ¼₹ 1]98]996½ fu/kkZfjr dks’k ¼₹ 19]98]02]241½ vkSj ¼₹16,96,32,380½ vkarfjd vk; ls [kjhnh x;h 
+lEifÙk;ka½A iw¡thxr fu/kh dks tek dj ifjlEifÙk;ka LFkkfir dh x;h gSA
+3.2 All Fixed Assets relating to Sponsors’ projects which are not the property of the Institute aggregating to Rs.34.84 Crores
+have been disclosed separately in Annexure ‘A’ to this Schedule and are not treated as a part of the Fixed Assets of the 
+Institute. No depreciation is charged on these assets since these are not the property of the Institute
+Ák;ksftr ifj;kstukvksa ls vftZr lEifÙk;k¡ ₹34-84 djksM dks vpy lEifr;ksa esas 'kkfey ugha fd;k x;k gS tks fd izk;ksftr 
+ifj;kstukvksa ls vftZr gSA bu lEifÙk;ksa dh lwph vuqca/k v esa vyx ls izdV dh x;h gS D;ksafd ifj;kstuk vuqca/k ds vuqlkj lHkh 
+,slh lEifÙk;ka tks ifj;kstuk ls vftZr gS] os Ák;kstdksa dh lEifÙk jgsxhA bu lEifÙk;ksa ij dksbZ g`kl pktZ ugha fd;k x;k gS D;ksafd 
+;s vHkh laLFkku dks gLrkarfjr ugha dh x;h gSA A
+
+4. 
+PATENTS: An accounting policy in respect of expenditure on Patents was evolved for the first time during FY 2021-22. The 
+expenditure incurred on Patents granted during the years upto FY 2021-22 (₹3,39,180/-) and the expenditure on the 
+applications for Patents pending as on 31.03.2022 (₹20,50,553/-) were set up in the accounts of the Institute, by credit to Capital 
+Fund.
+isVsUV % for o’kZ 2021&22 ds nkSjku igyh ckj isVsUV ij O;; ds laca/k esa ,d ys[kk uhfr fodflr dh xbZ FkhA forh; o’kZ 2021&22 
+rd ds o’kksZ ds nkSjku fd;s x; isVsUVksa ij O;; ¼₹3]39]180½ vkSj 31-03-2022 rd yafcr isVsaV ds fy, vkosnuksa ij gksus okys O;; 
+¼₹20]50]553 ½dks iwathxr fuf/k esa tek djds laLFkku ds [kkrksa esa LFkkfir fd;k x;k FkkA
+5. EXPENDITURE IN FOREIGN CURRENCY FROM PLAN GRANT / fons'kh fofue; O;;%
+A. Foreign payment import, E-Journals etc. / fons'k lk[k i= ¼vk;kr gsrq½] bZ tuZy 
+ 
+₹ 8,43,72,756
+B. Thesis Honorarium / 'kks/k izcU/k ekuns; 
+ 
+ 
+ 
+ 
+ 
+₹ 12,45,911
+6. CURRENT ASSETS, LOANS, ADVANCES AND DEPOSITS / pkyw lEifÙk;k¡]_.k] vfxze ,oa tek,¡
+In the opinion of the management, the current Assets, Loans, Advances, and Deposits have a value on realization in the 
+ordinary course, equal at least to aggregate amount shown in the Balance Sheet. 
+ 
+ÁcU/ku ds vuqlkj] pkyw lEifÙk;ka] _.k] vfxze ,oa tekvksa dk ewY; olwyh ij lk/kj.kr% rqyu i= esa n'kkZ;s x;s lesfdr jkf'k ds 
+cjkcj gksrk gSA
+7. The details of balances in Saving Bank Accounts, Current Accounts and Fixed Deposit Accounts with Banks are enclosed as
+attachment 'A' to the Schedule of Current Assets.
+tgk¡ cSadks ds ikl cpr cSad [kkrksa] pkyw [kkrksa vkSj lkof/k tek [kkrksa es 'ks"k jkf”k dk fooj.k pkyw ifjlEifRr;ksa ds vuqyXud ^,^ ds 
+:Ik esa lyaXu gSA
+8. 
+Previous year’s figures have been regrouped/ rearranged wherever necessary.
+9. 
+Figures in the Final accounts have been rounded off to nearest rupee. 
+vafre [kkrksa ds vkadM+s fudVre~ :i;s rd lek;ksftr dj fn;s x;s gSA
+
+Balance Outstanding as on 31.03.2021 (₹ Cr) 159.36 17.05 176.41
+Repayment till 31.03.2022 Cr) (₹ 55.00 4.80 59.8
+Total Disbursement Cr) (₹ 214.36 21.85 236.21
+Disbursement during FY 2021-22 Cr) (₹ 3.13 11.96 15.09
+Disbursement till 31-03-2021 Cr) (₹ 211.23 9.89 221.12
+Interest Rate per annum 8.50% 8.50%
+Term of Loan 10 Yrs 10 Yrs
+Date of Sanction 31.07.2018 04.02.2020
+Sanctioned Loan Amount (₹ Cr) 220.00 32.00 252.00
+S. No. 1 2 Total
+Disbursement
+during FY
+Total
+Disbursement
+Repayment
+till
+Balance
+Outstanding
+as on
+
+b) The Institute is obliged to repay 25% of the HEFA loan principal as per guidelines of Ministry of Education, and the balance
+75% of the principal and the interest on the loan would be paid by the Ministry.
+c) Since there is no separate schedule in the common format of Accounts provided by the Ministry of Education (MoE) for long
+term secured loan, a separate schedule 3 has been inserted to disclose the secured loan taken from HEFA. 
+ 
+lqjf{kr nh?kkZof/k _.k& laLFkku dks mPp f”k{kk foriks’k.k ,tsalh ¼,pbZ,Q,½] casxyq: ls 220 djksM- :Ik;s vkSj 32 djksM- :Ik;s ds nks 
+lkof/k _.k Lohd`r fd, x, gSaA foLr`r fooj.k mijksDrkuqlkj gSA 
+ 
+Lohd`fr ds fu;eksa vkSj “krksZ ds vuqlkj] for ls [kjhns tkus ds fy, izLrkfor midj.k@QuhZpj vkSj fuEufyf[kr [kkrksa dk n`f’Vca/kd 
+izkFkfed lqj{kk ds :Ik esa izHkkfjr gksxk%
+c- vuqnku izkI; [kkrk vkSj
+l- izkI; cSad [kkrk
+[k- mijksDr _.k esa 25% ewy/ku iquZHkqxrku dk nkf;Ro laLFkku dk gS rFkk “ks’k 75% ewy/ku ,oa ewy/ku ij C;kt Hkqxrku dk nkf;Ro f”k{kk
+ea+=ky; Hkkjr ljdkj dk gSA
+x- pwafd f”k{kk ea=ky; }kjk tkjh fd;s x;s lkekU; izk:i esa yach vof/k ds _.kksa dks n”kkZus ds fy, vyx ls vuqlwph ugha nh x;h gSA
+blfy, gSQk ls fy, x;s nh|Zdkfyu lqjf{kr _.kksa dks vyx ls vuqlwph 3 esa n”kkZ;k x;k gSA
+
+/ Assets Acquired out of the Sponsored Projects izk;ksftr ifj;ks tukva ks ls vftZr lEifr;ka TOTAL ;ks x 88,538 25,580 44,954 2,11,045 1,52,094 1,30,293 4,750 1,29,57,646 56,039 5,21,247 8,481 80,35,562 90,615 96,000 89,900 5,080
+LIBRARY BOOKS iqLrdky; iqLrd - - - - - - - - - - - - - - - -
+FURNITURE QuhZpj - - - - - - - - - - - - - - - -
+ELEC. ITEMS fo|qr midj.k - - - - - - - - - - - - - - - -
+GENERAL EQUIPMENT lkekU; midj.k - - - - - - - - - - - - - - - -
+LAB EQUIPMENT Á;ksx'kkyk midj.k - - - - - - - - - - - - - - - -
+Computer Software dEI;wVj lkQVos;j - - - - - - - - - - - - - - - -
+Computer Peripherals dEI;wVj ,oa lacf/kr midj.k - - - - - - - - - - - - - - - -
+OPENING BALANCE ÁkjfEHkd 'ks"k 88,538 25,580 44,954 2,11,045 1,52,094 1,30,293 4,750 1,29,57,646 56,039 5,21,247 8,481 80,35,562 90,615 96,000 89,900 5,080
+NAME OF PROJECT ifj;ks tuk dk uke C/BARMER/SKY/20120015 (20120015) C/DRDO/EE/FSMS/20110005 (20110005) C/DRDO/ICT/DCWCT/20120024 (20120024) CONS/NI/CMPLR (20110002A) CONS/NI/DRM/ (20110011) C/SS/PNSC/20120014 (20120014) C/SS/SSEF/20120020 (20120020) NIC/CSE/20090001 (20090001) Innovation Incubation Project PDA Accounts C/ASTE/SVH/20160013 (20160013) Cow New Project (20110002 New) C/PANASONIC/RKS/20140031 (20140031) /CSIR/SB/20160005 (20160005) CSIR/SS/HNPST/20120018 (20120018) DAE/NRD/MATH/20120001 (20120001)
+LIBRARY
+BOOKS
+iqLrdky; iqLrd
+TOTAL
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+
+SEPARATE AUDIT REPORT
+i`Fkd ys[kk vads{k.k izfrosnu
+(ISSUED BY INDIAN AUDIT AND ACCOUNTS DEPARTMENT)
+¼Hkkjrh; ys[kk rFkk ys[kkijh{kk foHkkx }kjk tkjh½
+FINANCIAL YEAR 2021-22 / foÙkh; o"kZ 2021&22

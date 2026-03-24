@@ -1,0 +1,40 @@
+SOURCE_PDF: 58b4df88eec8_phd_physics.pdf
+
+Curriculum
+NEW Program
+Indian Institute of Technology Jodhpur
+
+Cat. Course Number: Course Title L-T-P Credits Cat. Course Number: Course Title L-T-P Credits
+I Semester II Semester
+E Electives E Electives
+Tota l Total
+III Semester IV Semester
+H PH799 Ph.D. Thesis H PH799 Ph.D. Thesis
+Total Total
+V Semester VI Semester
+H PH799 Ph.D. Thesis H PH799 Ph.D. Thesis
+Total Total
+VII Semester VIII Semester
+H PH799 Ph.D. Thesis H PH799 Ph.D. Thesis
+Total Total
+Semester I Semester II
+PH754 Magnetism and Superconductivity 3-0-0 3 PH760 Material and Device
+Characterization 3-0-0 3
+PH755 Particle Physics 3-0-0 3 PH761 Astrophysics 3-0-0 3
+PH756 General Theory of Relativity 3-0-0 3 PH762 Quantum Computation and
+Information 3-0-0 3
+PH757 Quantum Field Theory 3-0-0 3 PH763 Quantum Coding and
+Cryptography 3-0-0 3
+PH758 Semiconductor Device
+Technology 3-0-0 3 PH764 Electronic Transport in
+Mesoscopic System 3-0-0 3
+PH759 Understanding Scanning
+Tunneling Microscope 3-0-0 3 PH765 Vacuum Systems and Thin film
+Technology 3-0-0 3
+S.No. Category Category Title Students with Total Courses Total Credits
+1 E ELECTIVES Master’s Degree 4 12
+Bachelor’s Degree 10 30
+2 H Thesis - - -
+Proposed Curriculum
+NEW Program
+Electives

@@ -1,0 +1,45 @@
+SOURCE_URL: http://old.iitj.ac.in/Electrical-Engineering/en/Cyber-Physical-System-Modelling-Laboratory
+
+Cyber Physical System Modelling Laboratory
+Cyber Physical System Modelling Laboratory
+Cyber Physical System Modelling Laboratory
+Cyber Physical System Modelling Laboratory
+CPS modeling laboratory is a teaching laboratory for M.Tech. students. The seamless integration of cyber systems with physical systems poses challenges to analyse such systems. It is necessary to model physical and cyber components in a unified way. The cyber component includes hardware and associated software. The design of cyber components also requires software level abstraction to have a system level model of cyber component. This also allows designing a very high reliability system as the model allows a predictable behaviour. Conventionally software is developed without formal models and largely depends on programmers’ experience and knowledge; however, requirements of safety, reliability in CPS demand higher levels of abstractions at software level as well. This allows the system to remain correct  by design. The CPS laboratory studies interaction of physical and cyber components to understand holistic systems. The tools used for this laboratory are Stateflow Matlab. The laboratory also has a helicopter emulatory system which is used to emulate different control aspects of the helicopter system. The lab also has COMSOL multiphysics modeling software.
+CPS modeling laboratory is a teaching laboratory for M.Tech. students. The seamless integration of cyber systems with physical systems poses challenges to analyse such systems. It is necessary to model physical and cyber components in a unified way. The cyber component includes hardware and associated software. The design of cyber components also requires software level abstraction to have a system level model of cyber component. This also allows designing a very high reliability system as the model allows a predictable behaviour. Conventionally software is developed without formal models and largely depends on programmers’ experience and knowledge; however, requirements of safety, reliability in CPS demand higher levels of abstractions at software level as well. This allows the system to remain correct  by design.
+The CPS laboratory studies interaction of physical and cyber components to understand holistic systems. The tools used for this laboratory are Stateflow Matlab. The laboratory also has a helicopter emulatory system which is used to emulate different control aspects of the helicopter system. The lab also has COMSOL multiphysics modeling software.
+Facilities and Equipment The tools used for this laboratory are Matlab-Stateflow and COMSOL multiphysics modeling software.
+Facilities and Equipment
+The tools used for this laboratory are Matlab-Stateflow and COMSOL multiphysics modeling software.
+People Faculty Members 1. Deepak kumar M. Fulwani Research Interests: Embedded Control, Control of Micro-Grids, Control of Uncertain System Office location: Room no. 227, Department of Electrical Engineering Phone: (91 291) 280 1355 Web: https://sites.google.com/a/iitj.ac.in/deepak-fulwani/home
+Research Interests: Embedded Control, Control of Micro-Grids, Control of Uncertain System
+Office location: Room no. 227, Department of Electrical Engineering
+Phone: (91 291) 280 1355
+Web: https://sites.google.com/a/iitj.ac.in/deepak-fulwani/home
+2. Anoop Jain Research Interests: Cooperative Control; Multi-Agent Systems; Formation Control; Nonlinear Control; Event,Triggered Control, Cyber-Physical Systems Office location: 204, EE,  eMail:anoopj@iitj.ac.in Phone: (91 291) 280 1371 Web: https://sites.google.com/view/anoopjain/
+Research Interests: Cooperative Control; Multi-Agent Systems; Formation Control; Nonlinear Control; Event,Triggered Control, Cyber-Physical Systems
+Office location: 204, EE,  eMail:anoopj@iitj.ac.in
+Phone: (91 291) 280 1371
+Web: https://sites.google.com/view/anoopjain/
+3. Niladri Sekhar Tripathy Research Interests: Dynamics and Control, Mechatronics, Cyber-physical Systems, Cybersecurity Office location: 106, EE, eMail: niladri@iitj.ac.in Phone: (91 291) 280 1375 Web: http://home.iitj.ac.in/~niladri/
+Research Interests: Dynamics and Control, Mechatronics, Cyber-physical Systems, Cybersecurity
+Office location: 106, EE,
+eMail: niladri@iitj.ac.in
+Phone: (91 291) 280 1375
+Web: http://home.iitj.ac.in/~niladri/
+Contact details Room No.: 104 Please write to one of the following for more details: df@iitj.ac.in
+Please write to one of the following for more details: df@iitj.ac.in
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

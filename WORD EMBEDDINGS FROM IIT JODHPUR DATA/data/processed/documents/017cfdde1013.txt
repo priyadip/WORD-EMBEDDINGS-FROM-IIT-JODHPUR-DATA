@@ -1,0 +1,15 @@
+research seminar by yashdeep singh on nov at pm title of the talk popular matchings date time venue nov at noon on seminar room dept
+of mathematics abstract popular matching is framework for choosing socially preferred matching when vertices rank their possible partners where one matching is preferred over another if majority of vertices individually favor it
+such models arise in settings like roommate allocation assignment and formation where agents express preferences over feasible pairings
+matching is called popular if no other matching defeats it in majority vote
+in the first part of the talk will introduce the basic definitions explain the unpopularity factor and use small examples to illustrate how majority comparisons work and why popular matching may fail to exist even in simple graphs
+we then move to more general structures including graphs and hypergraphs which better capture practical allocation scenarios encountered in applications
+in the second part will briefly present recent results in these settings
+for hypergraphs with preferences show that deciding whether popular matching exists is computationally hard and obtain bound on how close any matching can be to popularity via the unpopularity factor
+for graphs show that subcubic and cactus graphs always admit matchings with an unpopularity factor of at most which is optimal
+about the speaker yashdeep singh is completing his in computer science and engineering at iit guwahati under the supervision of sushanta karmakar working on popular matching problems in graphs and hypergraphs
+his research contributions include results and approximation algorithms with publications in iwoca candar and concurrency and computation practice and experience
+he also holds an
+in computer science and engineering from iit guwahati and is currently awaiting his defense
+title of the talk popular matchings date time venue nov at noon on seminar room dept
+of mathematics title of the talk popular matchings date time venue nov at noon on seminar room dept

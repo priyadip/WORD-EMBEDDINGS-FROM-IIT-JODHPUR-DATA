@@ -1,0 +1,40 @@
+in cyber physical systems introduction beginning in the first decade of century and continuing today computational and communication resources tightly integrated with physical systems shaping the new capabilities for the modern systems
+the use of computational resources to achieve different capabilities is in existence for several decades
+however many modern systems have high degree of complexities and also the scale of these systems is large has distributed nature
+for example traffic control system in city requires modelling of traffic flows in different areas and optimizing different performance objectives by appropriately taking routing decisions and decisions about actuating different signals for smooth traffic flow this is large scale distributed system
+there are several other domains where cps examples can be seen
+healthcare robotics automotive power grid avionics and transportation
+such system necessitates deeper understanding of system behaviour and also provides feedback to augment system design to achieve overall objectives from the system
+emergence of ubiquitous computing and communication has open enormous opportunities to provide new capabilities to systems
+robotics assisted remote surgery
+many small systems can work in manner to achieve larger overall objective
+the examples can be seen in robotics and modern warfare where achieves larger objectives
+the communication capability also provides possibility of distributed learning for systems
+hybrid system modelling is one of the possible approaches to model cps
+hybrid system approach allows inclusion of both continuous time and discrete time states variables in the model
+the seamless integration of cyber system with physical system also poses several challenges towards system security against possible system attacks
+with modelling of physical system it is necessary to model different possible attacks and to provide adequate security at hardware and software to ensure overall system security in all scenarios
+the design of cyber component also requires software level abstraction to have system level model of cyber component
+conventionally software is developed without formal models and largely depends on programmers experience and knowledge however requirement of safety reliability in cps demand higher level of abstractions at software level as well
+this allows the system remains correct and secure by design
+objective of the program the program aims to produce competent engineers who can design engineered systems that are built from seamless integration of physical system and cyber systems
+the program will enable engineers with required competency to design architecture
+the program also imparts knowledge of several tools for modelling physical systems and tools for designing cyber components
+the program will produce professionals who can design predictable and secure cyber physical systems cps
+ability to understand modern approaches to model cps
+appreciation of cross disciplinary interaction of cyber and physical systems
+capability to design cyber components to meet the overall specifications of unified system
+adequate design knowledge to ensure system remains correct by design
+ability to use knowledge from machine learning control theory to achieve overall objectives of given cpss
+high quality technical communication skills
+appreciation and adherence to norms of professional ethics
+ability to plan and manage technical projects
+learning outcome ability to analyse overall specifications of cps and translate it to the different design requirements
+adequate competency to model overall cps using hybrid system and other approaches and validate the model
+capability to architecture in distributed environment
+knowledge of machine learning algorithms and distributed control algorithms
+methods to embedded security in overall design of cps
+ability to understand applications like smart grid vehicular networks and different systems for smart city applications critical thinking and scientific problem solving
+skill to communicate scientific ideas and application systems acquire basic project management skills beginning in the first decade of century and continuing today computational and communication resources tightly integrated with physical systems shaping the new capabilities for the modern systems
+ability to analyse overall specifications of cps and translate it to the different design requirements
+skill to communicate scientific ideas and application systems acquire basic project management skills

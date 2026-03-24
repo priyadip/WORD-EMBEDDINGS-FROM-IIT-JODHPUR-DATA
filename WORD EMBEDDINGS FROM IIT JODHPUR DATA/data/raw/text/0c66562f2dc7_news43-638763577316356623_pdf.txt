@@ -1,0 +1,68 @@
+SOURCE_PDF: 0c66562f2dc7_news43-638763577316356623.pdf
+
+Department of Mathematics
+Indian Institute of Technology Jodhpur
+NH65, Nagaur Road, Karwar, Jodhpur 342037, INDIA
+Annexure 3
+Syllabus for Ph.D. entrance examination
+(1) Linear Algebra: Finite dimensional vector spaces over real or complex fields; Linear transformations and their matrix
+representations, rank and nullity; systems of linear equations, eigenvalues and eigenvectors, minimal polynomial, 
+Cayley-Hamilton Theorem, diagonalization, Jordan canonical form, symmetric, skew-symmetric, Hermitian, skew- 
+Hermitian, orthogonal and unitary matrices; Finite dimensional inner product spaces, Gram-Schmidt 
+orthonormalization process, definite forms.
+(2) Algebra: Groups, subgroups, normal subgroups, quotient groups, homomorphisms, automorphisms; cyclic groups,
+permutation groups, Sylow's theorems and their applications; Rings, ideals, prime and maximal ideals, quotient rings, 
+unique factorization domains, Principle ideal domains, Euclidean domains, polynomial rings and irreducibility criteria; 
+Fields, finite fields, field extensions.
+(3) Calculus: Finite, countable and uncountable sets, Real number system as a complete ordered field, Archimedean
+property; Sequences and series, convergence; Limits, continuity, uniform continuity, differentiability, mean value 
+theorems; Riemann integration, Improper integrals; Functions of two or three variables, continuity, directional 
+derivatives, partial derivatives, total derivative, maxima and minima, saddle point, method of Lagrange's multipliers; 
+Double and Triple integrals and their applications; Line integrals and Surface integrals, Green's theorem, Stokes' 
+theorem, and Gauss divergence theorem.
+(4) Complex Analysis: Analytic functions, harmonic functions; Complex integration: Cauchy's integral theorem and
+formula; Liouville's theorem, maximum modulus principle, Morera's theorem; zeros and singularities; Power series, 
+radius of convergence, Taylor's theorem & Laurent's theorem; residue theorem and applications for evaluating real 
+integrals; Rouche's theorem, Argument principle, Schwarz lemma; conformal mappings, bilinear transformations.
+(5) Real Analysis: Metric spaces, connectedness, compactness, completeness; Sequences and series of functions, uniform
+convergence; Weierstrass approximation theorem; Power series; Functions of several variables: Differentiation, 
+contraction mapping principle, Inverse and Implicit function theorems; Lebesgue measure, measurable functions; 
+Lebesgue integral, Fatou's lemma, monotone convergence theorem, dominated convergence theorem.
+(6) Functional Analysis: Normed linear spaces, Banach spaces, Hahn-Banach theorem, open mapping and closed graph
+theorems, principle of uniform boundedness; Inner-product spaces, Hilbert spaces, orthonormal bases, Riesz 
+representation theorem.
+(7) Numerical Analysis: Numerical solutions of algebraic and transcendental equations: bisection, secant method,
+Newton-Raphson method, fixed point iteration; Interpolation: error of polynomial interpolation,Lagrange and Newton 
+interpolations; Numerical differentiation; Numerical integration: Trapezoidal and Simpson's rules; Numerical solution 
+of a system of linear equations:direct methods (Gauss elimination, LU decomposition), iterative methods (Jacobi & 
+Gauss-Seidel); Numerical solution of initial value problems of ODEs: Euler's method, Runge-Kutta methods of order 
+2.
+(8) Ordinary Differential equations: First order ordinary differential equations, existence and uniqueness theorems for
+initial value problems, linear ordinary differential equations of higher order with constant coefficients; Second order 
+linear ordinary differential equations with variable coefficients; Cauchy-Euler equation, method of Laplace transforms 
+for solving ordinary differential equations, series solutions (power series, Frobenius method); Legendre and Bessel 
+functions and their orthogonal properties; Systems of linear first order ordinary differential equations.
+(9) Probability and Statistics: Probability space, conditional probability, Bayes theorem, independence, Random
+variables, joint and conditional distributions, standard probability distributions and their properties, expectation, 
+conditional expectation, moments; Weak and strong law of large numbers, central limit theorem; Sampling 
+distributions, UMVU estimators, maximum likelihood estimators, Testing of hypotheses, standard parametric tests 
+based on normal, X2 , t, F – distributions; Linear regression; Interval estimation.
+
+(10) Optimization: Linear programming: Basic feasible solution, polyhedral set, extreme point and extreme
+direction, 
+representation 
+theorem 
+of 
+polyhedral 
+set, 
+simplex 
+algorithm, 
+duality.
+Nonlinear programming: Convex set, convex function, first order necessary condition for optimality, KKT 
+condition. gradient descent algorithm, Lagrange multiplier. (Candidates opting for optimization should also 
+prepare for Linear Algebra and Calculus.)
+(11) Discrete mathematics: Propositional Logic, First Order Logic, Relations, Functions, Partial Orders,
+Lattice, Boolean Algebra, Asymptotic - Big O, Omega, and Theta notations, comparisons and operations 
+on asymptotic classes, Recurrence relations, Connectivity in graphs: paths, connected components, Trees 
+and their properties, tree traversals, minimum spanning tree, Vertex and Edge covering, Matching, 
+Independent sets, Vertex coloring.

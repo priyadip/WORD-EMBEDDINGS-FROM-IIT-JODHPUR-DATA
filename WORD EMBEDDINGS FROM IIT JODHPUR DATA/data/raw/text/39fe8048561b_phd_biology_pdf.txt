@@ -1,0 +1,46 @@
+SOURCE_PDF: 39fe8048561b_phd_biology.pdf
+
+Curriculum
+NEW Program
+Indian Institute of Technology Jodhpur
+
+Cat. Course Number: Course Title L-T-P Credits Cat. Course Number: Course Title L-T-P Credits
+I Semester II Semester
+E Electives E Electives
+Total Total
+III Semester IV Semester
+H BL799 Ph.D. Thesis H BL799 Ph.D. Thesis
+Total Total
+V Semester VI Semester
+H BL799 Ph.D. Thesis H BL799 Ph.D. Thesis
+Total Total
+VII Semester VIII Semester
+H BL799 Ph.D. Thesis H BL799 Ph.D. Thesis
+Total Total
+Semester I Semester II
+BL751 Physiology and Neuroscience 3-0-0 3 HS752 Cognitive Science 3-0-0 3
+BL752 Computational and Systems
+Biology 3-0-0 3 PH753 Biomolecular Information
+Processing 3-0-0 3
+HS751 Consciousness 3-0-0 3 BL755 Complex Networks 3-0-0 3
+PH752 Biomolecular Information
+Processing 3-0-0 3 BL756 Biomacromolecules and
+Bioengineering 3-0-0 3
+CY752 Principles of Nuclear Magnetic
+Resonance 3-0-0 3 HS753 Bioengineering Ethics 3-0-0 3
+CY753 Analytical Techniques and
+Spectroscopy 3-0-0 3
+CY754 Statistical Mechanics and
+Molecular Simulations 3-0-0 3
+BL757 Cellular and Molecular
+Neuroscience 3-0-0 3
+S.No. Category Category Title Students with Total
+Courses Total
+Credits
+1 E ELECTIVES Master’s Degree 4 12
+Bachelor’s Degree 10 30
+2 H Thesis - - -
+Proposed Curriculum
+Ph.D. (Biologically Inspired System Science)
+NEW Program
+Electives

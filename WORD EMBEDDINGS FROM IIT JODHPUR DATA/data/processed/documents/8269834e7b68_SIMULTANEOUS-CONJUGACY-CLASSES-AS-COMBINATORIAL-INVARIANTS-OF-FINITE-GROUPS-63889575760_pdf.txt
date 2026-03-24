@@ -1,0 +1,5 @@
+publisher taylor francis abstract we consider the problem of counting simultaneous conjugacy classes of in finite group
+let denote the number of simultaneous conjugacy classes of and the number of simultaneous conjugacy classes of commuting in
+we study the generating functions determines and is completely determined by the class equation of
+we prove that the normalized functions are invariants of isoclinism families
+we compute exponential growth factors of and

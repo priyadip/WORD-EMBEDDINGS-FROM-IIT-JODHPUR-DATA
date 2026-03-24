@@ -1,0 +1,38 @@
+SOURCE_PDF: 6908f1c4812a_syllabus-for-Mtech-and-phd-638833561725924230.pdf
+
+Aptitude Quantitative
+Aptitude Data interpretation: data graphs (bar graphs, pie charts, and
+other graphs representing data), 2- and 3-dimensional plots,
+maps, and tables Numerical computation and estimation:
+ratios, percentages, powers, exponents and logarithms,
+permutations and combinations, and series Mensuration and
+geometry Elementary statistics and probability.
+Analytical
+Aptitude Logic: deduction and induction, Analogy, Numerical
+relations and reasoning.
+Mathematics Linear Algebra Matrices, determinants, system of linear equations,
+eigenvalues and eigenvectors, LU
+decomposition.
+Calculus Limits, continuity and differentiability, Maxima and
+minima, Mean value theorem, Integration.
+Probability &
+Statistics Random variables, Uniform, normal, exponential, Poisson
+and binomial distributions. Mean, median, mode and
+standard deviation. Conditional probability and Bayes
+theorem.
+Programming Recursion, Arrays, stacks, queues, linked lists, trees, binary
+search trees, binary heaps, graphs.
+DSA basic data
+structures stacks, queues, linked lists, trees, hash tables;
+Search
+algorithms: linear search and binary search
+Sorting
+algorithms: basic sorting algorithms: selection sort, bubble sort and
+insertion sort; divide and conquer: mergesort, quicksort;
+Graph theory basic graph algorithms: traversals, minimum spanning
+trees and shortest path
+Instructions for the written test for M.Tech. and Ph.D. are as follows:
+- 
+Multiple choice question with negative marking
+- 
+Calculators or any other devices (watches, mobile phones, etc.) are not allowed

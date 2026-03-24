@@ -1,0 +1,15 @@
+research seminar by tushar bag on march at pm speaker tushar bag title of the talk from bits to qubits journey into quantum error correction with algebraic codes date time and venue march pm pm at seminar hall dept of mathematics
+abstract reliable error correction is crucial for the development of quantum computing
+this talk will provide an overview of both classical and quantum coding theory laying the foundation for quantum error correction
+we will explore how techniques from classical linear be adapted to protect fragile quantum states
+additionally will discuss the construction of quantum codes using various families of linear codes including cyclic and group ring codes
+special emphasis will be placed on the advantages of codes over traditional cyclic codes along with some of my newly constructed binary and quantum codes
+about the speaker tushar bag is currently working as postdoctoral research at normale de lyon france prior to this he has done postdoctoral research at united arab emirates university uae sep apr and carleton university canada apr apr
+his main research area is algebraic coding theory
+he has done from iit patna and from iit kanpur
+speaker tushar bag title of the talk from bits to qubits journey into quantum error correction with algebraic codes date time and venue march pm pm at seminar hall dept of mathematics
+date time and venue abstract reliable error correction is crucial for the development of quantum computing
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

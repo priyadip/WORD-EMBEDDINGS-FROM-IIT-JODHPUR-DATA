@@ -1,0 +1,21 @@
+research seminar by sharana shivanand on sept at pm title of the talk computational modelling and analysis under uncertainty date time venue at pm seminar hall dept
+of mathematics abstract mathematical models governed by laws of physics along with recent advancements in modelling have significantly advanced the field of computational modelling and analysis for science and engineering
+however model and parametric uncertainties are inherent in both traditional and modern deterministic models
+understanding how these uncertainties affect predictive outcomes is essential for gaining deeper insights and enabling more robust
+consequently there is growing need for numerical algorithms that can incorporate quantify and update uncertainty in principled manner
+this talk will present broad overview of probabilistic and statistical techniques for modelling valued uncertain properties in heterogeneous and anisotropic materials employing lie based representation
+these uncertainties are efficiently propagated using method known as the multilevel monte carlo mlmc technique where the correspond to hierarchy of finite element models
+finally the latent uncertain material parameters are inferred by integrating observational data with predictions within bayesian framework where the posterior distribution is sampled using algorithm
+about the speaker sharana shivanand is postdoctoral researcher in the uncertainty quantification uq group at the scientific computing centre karlsruhe institute of technology kit germany
+previously he was postdoc at the alan turing institute the uk national institute for data science and ai
+during this time he was also visiting research fellow at the university of cambridge
+he received his in applied mathematics and
+in computational sciences in engineering at the technical university of braunschweig germany
+his research focuses on development of statistical and probabilistic methods for and numerical modelling
+his research interests are at the intersection of uncertainty quantification computational physics and machine learning addressing challenges in materials science mechanics and related science and engineering domains
+he is currently developing bayesian inverse algorithms for the identification of parameters in simulations
+title of the talk computational modelling and analysis under uncertainty date time venue at pm seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

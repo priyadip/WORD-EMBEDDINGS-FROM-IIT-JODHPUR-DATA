@@ -1,0 +1,33 @@
+SOURCE_PDF: 2707b5176eea_phd_maths.pdf
+
+Curriculum
+NEW Program
+Indian Institute of Technology Jodhpur
+
+Cat. Course Number: Course Title L-T-P Credits Cat. Course Number: Course Title L-T-P Credits
+I Semester II Semester
+E Electives E Electives
+Tota l Total
+III Semester IV Semester
+H MA799 Ph.D. Thesis H MA799 Ph.D. Thesis
+Total Total
+V Semester VI Semester
+H MA799 Ph.D. Thesis H MA799 Ph.D. Thesis
+Total Total
+VII Semester VIII Semester
+H MA799 Ph.D. Thesis H MA799 Ph.D. Thesis
+Total Total
+Semester I Semester II
+MA754 Algorithmic Graph Theory 3-0-0 3 MA757 Numerical Partial Differential
+Equations 3-0-0 3
+MA755 Chaos Theory and its Applications 3-0-0 3 MA759 Stochastic Processes 3-0-0 3
+MA756 Functional Analysis 3-0-0 3
+S.No. Category Category Title Students with Total
+Courses Total
+Credits
+1 E ELECTIVES Master’s Degree 4 12
+Bachelor’s Degree 10 30
+2 H Thesis - - -
+Proposed Curriculum
+NEW Program
+Electives

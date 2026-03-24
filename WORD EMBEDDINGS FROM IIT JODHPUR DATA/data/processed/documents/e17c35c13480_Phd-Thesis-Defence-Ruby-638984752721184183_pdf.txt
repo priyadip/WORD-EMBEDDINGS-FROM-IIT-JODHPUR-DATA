@@ -1,0 +1,31 @@
+projection methods for equations ruby p20ma006 supervisor moumita mandal department of mathematics iit jodhpur abstract derivatives and integrals have clear physical and geometric tions but integration and differentiation lack such direct understanding
+to address this we first explore the geometric interpretation of fractional derivatives
+we establish that the absolute value of fractional derivative is inversely proportional to the area of triangle and numerically verify this for some standard functions
+additionally we discuss the physical interpretation of fractional derivatives in terms of fractional vergence and explore an application of fractional tangent lines in the field of numerical analysis
+equations fides are widely used in science and engineering to model complex phenomena but singularities in fractional derivatives pose challenges in finding exact solutions
+this thesis develops efficient numerical projection methods for ap proximating solutions of various classes of linear and nonlinear fides with smooth or weakly singular kernel functions
+we consider caputo fractional derivative as it carry initial conditions which have clear physical interpretation
+we first analyze linear fractional volterra equations fvides with smooth kernels and smooth solutions using piecewise polynomial approximation space
+to achieve the desired convergence rates the fvides are transformed into system of fractional fredholm equations using properties of fractional derivative and suitable variable transformation
+then we establish general frameworks of the galerkin and multi galerkin methods and achieve improved convergence rates in the supremum norm
+however note that the singularity in the fractional derivative erator causes the exact solution to be at the origin
+besides piecewise polynomial spaces become computationally expensive for higher convergence rates
+to dress these we later introduce the shifted jacobi spectral galerkin method sjsgm and its iterated version for solving linear fvides with solutions
+the fvides are reformulated into equivalent classical fredholm integral equations having weak gularities in the kernel functions with older continuous solution
+we achieve improved convergence rates by incorporating the kernel singularity into the jacobi weight tion and utilizing the solution older continuity
+smoothing transformation further enhances the regularity of the solution leading to superconvergence rates
+next we establish the convergence results of sjsgm for more general class of linear weakly singular fractional equations
+the equations are transformed into equivalent singular fredholm integral equations where the kernels exhibit distinct regularity behaviors
+this distinct behavior is effectively dled using jacobi weight functions leading to better convergence rates
+the method is applied to reduce the computational complexity arising from the nonlinearity
+further we establish superconvergence rates for the proposed methods using ization technique that enhances the smoothness of the solution
+lastly we extend the framework of sjsgm originally developed for equation to systems of nonlinear fvides with smooth or weakly singular kernels having solutions and establish similar superconvergence results using the regularization technique
+numerical experiments rigorously validate the theoretical results demonstrating the accuracy and effectiveness of the proposed methods
+ruby mandal superconvergent jacobi spectral galerkin method for ear fractional equations
+ruby mandal superconvergent results for fractional volterra equations with solutions
+ruby mandal the geometrical and physical interpretation of fractional der derivatives for general class of functions
+mathematical methods in the applied sciences
+ruby mandal convergence analysis and numerical implementation of tion methods for solving classical and fractional volterra tions
+mathematics and computers in simulation
+ruby mandal optimal and superconvergent rational spectral projection methods for fdes on unbounded domains
+ruby mandal numerical method for nonlinear systems of fractional volterra equations

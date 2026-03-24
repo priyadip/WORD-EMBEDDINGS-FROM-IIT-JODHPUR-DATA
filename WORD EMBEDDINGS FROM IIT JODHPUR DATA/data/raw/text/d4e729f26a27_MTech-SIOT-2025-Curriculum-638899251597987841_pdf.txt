@@ -1,0 +1,84 @@
+SOURCE_PDF: d4e729f26a27_MTech-SIOT-2025-Curriculum-638899251597987841.pdf
+
+Cat. Course Number, Course Title L-T-P Credits Cat. Course Number, Course Title L-T-P Credits
+I Semester II Semester
+C EEL7040 Sensors and
+Measurement 3-0-0 3 C EEL7200 Data
+Communication and
+Networking 2-0-2 3
+C EEL7170 Introduction to IoT
+Systems 2-0-2 3 E EEL7XX0 Elective 3-0-0 3
+C EEL71570 Hardware Software
+Co-Design 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+E EEL7XX0 Elective 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+NG1 HSN7XX0 Non-Graded I 1-0-0 S/X NG2 HSN7XX
+0 Non-Graded II 1-0-0 S/X
+Total 12 Total 12
+III Semester IV Semester
+T MET8XXo Thesis 16 T MET8XX
+0 Thesis 16
+Total 16 Total 16
+S.No. Course Number Course Title
+1 Microsystem Fabrication Technology 2-0-2 3
+2 Analog and Interfacing Circuits 3-0-0 3
+3 Vehicular Ad Hoc Networks 3-0-0 3
+4 Fundamentals of Machine Learning 3-0-2 4
+5 In-memory computing 2-0-0 2
+6 Point of care devices/diagnostics 3-0-0 3
+7 Wireless Communication 3-0-0 3
+8 Nano sensors 3-0-0 3
+9 Embedded System Design 3-0-0 3
+10 Hardware Design for Artificial Intelligence 3-0-0 3
+11 Virtualization and Cloud Computing 3-0-0 3
+12 Digital VLSI Design 3-0-0 3
+M.Tech in Sensors and Internet of Things
+Electives
+
+Title Introduction to Internet of Things Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for M. Tech. 1st year Type Compulsory
+
+Course Title Sensors and measurements Course No. EE6XX
+Department Electrical Engineering Structure (LTPC) 3 0 0 3
+Offered for M. Tech. (Sensors and IoT) Status Program Core
+Pre-requisite Semiconductor Devices To take effect from 2019
+
+Title Data Communication and Networking Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for M. Tech. 1st Year Type Compulsory
+Prerequisite Fundamentals of Wireless Communications,
+Probability Theory and Random Process
+
+Textbook: 
+1. Dargie, W., and Poellabauer, C., (2010), Fundamentals of Wireless Sensor Networks: Theory and
+Practice, Wiley
+2. Stallings, W., (2007), Data and Computer Communications, 8th Edition, Pearson 
+3. Bertsekas, D. P. and Gallager, R. G., (1992), Data Networks, 2nd Edition, Prentice Hall 
+4. Stallings, W., High-speed Networks and Internets: Performance and Quality of Service, 2nd
+Edition, Prentice Hall
+Reference Book 
+1. Ian F. Akyildiz and Mehmet Can Vuran, (2010), Wireless Sensor Networks, A John Wiley and Sons
+
+Course Title Hardware Software Co-Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital Logic and Design
+
+(e) Implementing standalone designs in SystemC, its compilation, simulation and debug. 
+ 
+ 
+Text Books
+1. Jørgen Staunstrup, Wayne Wolf (1997), Hardware/Software Co-design: Principles and Practice,
+Springer
+2. Unsalan, C., Tar, B., (2017), Digital System Design with FPGA Implementation Using 
+Verilog
+and VHDL, McGraw-Hill
+3. D. Black, J. Donovan, (2010), SystemC: From the Ground Up, 2 nd Edition, Springer 
+4. D. Gajski, S. Abdi, A. Gerstlauer, G. Schirner, (2009), Embedded System Design:
+Modeling, Synthesis, Verification, Springer
+Preparatory Course material
+1. Nelson, V.P., Carroll, B.D., Nagle, H.T., Irwin, J.D., (2020), Digital Logic Circuit 
+a
+nalysis and
+Design, 2nd Edition, Pearson
+2. G. De Micheli, (2017), Synthesis and Optimization of Digital Circuits, McGraw-Hill.

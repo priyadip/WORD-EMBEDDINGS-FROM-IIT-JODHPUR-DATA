@@ -1,0 +1,120 @@
+SOURCE_PDF: 105a9b20df13_6_20B.Tech_20CHEM_20Program_20structure_07102020.pdf
+
+I Semester II Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+IE Engineer
+ing
+Mechani
+cs 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistr
+y 3-0-0 3 - 3 IE Introduction to
+Computer Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistr
+y Lab 0-0-2 2 - 1
+IS Physics
+Lab 0-0-2 2 - 1
+IS Mathem
+atics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineer
+ing
+Visualiz
+ation 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineer 0-0-2 2 1 - NE Engineering Design
+II 0-0-2 2 1 -
+NH Commu 0-0-2 2 1 - NH Communication Skill
+II 0-0-2 2 1 -
+NH Social 0-0-1 1 0.5 - NH Social Connect and
+responsibilities II 0-0-1 1 0.5 -
+NH Performi 0-0-1 1 0.5 - NH Performing Arts
+II/Sports II 0-0-1 1 0.5 -
+Total 11-2-12 25 3 16 Total 12-1-14 27 3 17
+III Semester IV Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+LS Probabili
+ty,
+Statistics
+&
+Stochasti
+c Process 3-1-0 4 - 4 IE Materials Fractals:
+Polymer, Corrosion,
+Colloids &
+suspensions 3 ×
+1-0-0 3 - 3
+2nd year B.Tech Chemical Engineering
+Program Structure
+For AY 2020-21
+
+IE Thermo
+dynamic
+s 3-1-0 4 - 4 IE Signals & Systems 3-1-0 4 4 -
+PC Fluid 3-1-0 4 - 4 PC Data Structure and
+Algorithm 3-0-2 5 4
+IE Introduc
+tion to
+Machine
+Learning 3-0-2 5 - 4 PC Molecular
+Engineering 3-0-0 3 - 3
+LS Physics
+of
+Complex
+Fluids 3-0-0 3 - 3 PC Material and Energy
+Balance 3-0-0 3 - 3
+NE Intro. To 0-0-2 2 1 IH Humanities 3-0-0 3 - 3
+Total 15-3-4 22 1 19 Total 18-1-2 21 - 20
+V Semester VI Semester
+Cat Course LTP CH N
+C G
+C Cat Course LTP CH NC GC
+PC Mass 3-0-3 6 - . 4
+5 PC Mass transfer II 3-0-3 6 - 4.5
+PC Heat 3-0-0 3 - 3 PC Process Plant Design 3-0-3 6 - 4.5
+Transfer & Economics
+PC Chemica 3-0-3 6 - 4
+.
+5 PC Transport
+Phenomena Transport 3-1-0 4 - 4
+l Phenomena
+PC Scientific 3-0-2 5 - 4 PC Process Control and
+AI Applications 3-0-2 5 - 4
+PC Chemica 3-0-0 3 - 3 PC Fluid Mechanics-Lab 0-0-2 2 1
+PC Heat 0-0-2 2 - 1 PE Programme Elective-
+1 3-0-0 3 - 3
+IH Humanit
+ies II 3-0-0 3 - 3 NH Professional Ethics II 0-1-0 1 1 -
+NH Professio 0-1-0 1 1 -
+Total 18-1-10 29 1 2
+3 Total 15-2-10 27 1 21
+VII Semester VIII Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+
+PP B. Tech.
+Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE Program
+me
+Elective-
+2 3-0-0 3 - 3 PE Programme Elective-
+4 3-0-0 3 - 3
+PE Program
+me
+Elective-
+3 3-0-0 3 3 PE Programme Elective-
+5 2-0-0 2 2
+OE Open
+Elective-
+1 3-0-0 3 3 PE Programme Elective-
+6 2-0-0 2 2
+IH Humanit
+ies III 3-0-0 3 - 3 OE Open Elective-2 3-1-0 4 4
+IS Environ
+mental
+Science 2-0-0 2 - 2 OE Open Elective-3 3-0-0 3 3
+Total 14-0-6 20 - 17 Total 16-1-0 17 - 17
+Total of Non-graded and Graded Credit respectively 9 150
+Non-Graded Design Credits 6 -
+Grand Total 15 165
+Note: ES are proposed Engineering Science compulsory courses

@@ -1,0 +1,1101 @@
+SOURCE_PDF: 4203056c4283_8._20B.Tech_20CI_09102020.pdf
+
+1. Introduction
+The rapidly urbanizing society and increasing quality of life demand reliable and intelligent 
+infrastructure systems which are capable of catering to the societal needs at different scales – from an 
+individual to the community level. Consequently, the civil and infrastructure industry has undergone 
+profound changes and is constantly evolving. However, the new-age designs and innovations in the civil 
+and infrastructure industry can only be driven by a group of engineering graduates having 
+multidisciplinary training and a sound understanding of emerging technologies. Through this 
+undergraduate program in “Civil & Infrastructure Engineering”, IIT Jodhpur is making a stride to re-
+imagine the course structure that incorporates and integrates the elements of conventional civil 
+engineering with advanced transformative technologies such as artificial intelligence (AI), cyber-
+physical-systems (CPS), digital twins (DT), and automated management and information systems. 
+Additionally, a major thrust is also planned on the design, implementation, and maintenance of large-
+scale integrated infrastructure systems across different domains. 
+ 
+ 
+2. Objective of the program
+To provide an expanded but holistic understanding of different civil and infrastructure systems and an 
+in-depth understanding of the differences, similarities, and relations between different scales and 
+components of it. 
+To produce graduates with an ability to integrate conventional methods with emerging technologies to 
+design intelligent civil and infrastructure systems from a multidisciplinary perspective. 
+To provide exposure to techniques such as Internet-of-Things (IoT), machine learning, big data, cyber-
+physical systems, and digital twin (DT) in the design and maintenance of different civil and infrastructure 
+systems. 
+ 
+ 
+3. Expected Graduate Attribute 
+ 
+1. A strong foundation in the analytical, experimental, and computational methods to study various
+aspects of civil and infrastructure systems.
+2. A thorough understanding of green and sustainable materials, practices, and principles to design
+resilient infrastructure systems.
+3. An ability to understand real-world problems related to air and water pollution, solid waste
+management, ecological and environmental degradation, and their monitoring and remediation.
+4. Ability to adopt safe methodologies coupled with advanced technologies in the design and
+construction of civil and infrastructure systems.
+5. Ability to monitor and evaluate health of old structures and renovating to bring sustainability. 
+6. An understanding of the use of digital twins (DT), cyber-physical-systems (CPS), internet-of-Things
+(IoT), artificial intelligence (AI) in designing, monitoring, surveillance and security of infrastructures.
+7. An innate ability to take multidisciplinary approach to problem solving and willingness to go beyond
+conventional paths.
+8. Ability to engage in ethical and responsible practices while pursuing professional growth. 
+ 
+4. Learning Outcome 
+ 
+1. Strong understanding of structural engineering and its application in reinforced concrete, prestressed
+concrete, and steel structure design.
+2. In-depth knowledge of geotechnical engineering for ground improvement and foundation
+3. Knowledge of pavement design, traffic planning, and highway design for urban transport
+4. Knowledge of critical experiments and advanced mathematical models for environmental engineering
+5. Knowledge of GIS and remote sensing for application in agriculture, environment, geo-resource
+exploitation, and constructing digital twin of built environment.
+
+6. Knowledge of smart and sustainable material, and best practices for construction and infrastructure
+7. Strong foundation in computational methods and artificial intelligence (AI) for application in various
+civil and infrastructure problems.
+8. Knowledge of cyber-physical-systems, advanced visualization techniques, and digital twins for
+application in smart infrastructure.
+9. Knowledge of town planning, logistics and layout engineering 
+ 
+5. New Skill Sets Targeted 
+ 
+1. The following advanced and new skill sets have been targeted in the UG programme of Civil and
+Infrastructure Engineering at IIT Jodhpur:
+2. Capability to design and develop smart infrastructure systems integrating cutting-edge cyber-physical
+systems, and visualization techniques.
+3. A thorough understanding of geological and geotechnical engineering as applicable in infrastructure
+development, natural disaster risk reduction and resilience, and geo-energy extraction.
+4. Knowledge of best practices, methods, and materials for sustainable Infrastructure planning,
+construction, and management.
+5. Preliminary knowledge of monitoring, evaluation, restoration, and renovation of existing and old
+infrastructures and maintenance.
+
+Area Courses
+Foundation Courses Probability Spaces; Random Variables;
+Estimation and Test of Hypothesis; Stochastic
+Processes Probability, Statistics, and
+Stochastic Processes (LS)
+Geometrical Crystallography; Crystal Structure;
+Imperfections of Solids; Thermodynamics and
+Kinetics; Forms of Corrosion; Corrosion
+Protection; Structure-Property of Bulk Polymers;
+Viscoelasticity Structure of Materials +
+Corrosion + Polymers (IE)
+Signal and Systems; Frequency Domain; LTI
+System; Applications Signals and Systems (IE)
+Geotechnical
+Engineering Soil classification; index and engineering
+properties of soils; compaction and
+consolidation of soils; shear strength of soils;
+shallow and deep foundations; earth retaining
+structures Soil classification; index and engineering Geotechnical Engineering
+(PC)
+6. Topic Clouds and Mapping of Topic Clouds with Proposed Courses (PC: Program Core;
+PE: Program Elective)
+
+Vibration theory; wave propagation; cyclic Introduction to Soil
+Dynamics (PE)
+Water Resources
+Engineering Water Resources
+Engineering (PC)
+Construction and
+Infrastructure Construction Technology
+and Practices(PC)
+Concrete materials; strength; durability;
+batching, mixing and transportation; curing;
+microstructure of concrete; mix design;
+admixtures; quality control; special types of
+concrete. Concrete Technology (PE)
+
+Urban and rural infrastructure planning; risks Infrastructure Planning and
+Management Engineering
+(PE)
+Environmental
+Engineering Environmental Engineering
+(PC)
+Climate and Climate Change; Convection Climate change and Impact
+(Specialization stream core)
+Photogrammetry; Multispectral remote Sensing; Geoinformatics (PC)
+Basics of Microbiology; Kinetics and Reactors;
+The activated sludge process; Nitrification and
+denitrification; Phosphorus removal; Drinking
+water treatment; Anaerobic treatment by
+methanogenesis; Detoxification of hazardous
+chemicals; Bioremediation Environmental
+Biotechnology and
+Bioremediation (PE)
+Transportation
+Engineering Transportation Engineering
+(PC)
+
+Structural Engineering Stress and strain, Mechanical behaviour, Static Mechanics of solids (PC)
+
+Types of prestressing; pre- and post-tensioning Prestressed Concrete
+Structure (PE)
+Prefabrication materials; modular coordination Prefabricated Structures
+(PE)
+Review of structural dynamics; structural health Introduction to Structural
+Health Monitoring (PE)
+
+Smart Infrastructure
+Technology Data Structure and
+Algorithm (PC)
+Introduction to surveillance, critical
+infrastructures, building security and control Surveillance and Security of
+Infrastructures (PE)
+
+Design and simulation experiments for smart
+infrastructures Design and simulation experiments for smart Smart Infrastructure:
+Design and Simulation
+(Lab)
+Infrastructure Systems Power plant infrastructure planning and design;
+hydroelectric infrastructure; thermal energy
+infrastructure; pipelines in power infrastructure;
+nuclear energy infrastructure; smart grid,
+transmission and distribution. Introduction to Power
+Infrastructure Engineering
+(PE)
+Thermal energy infrastructure; plant
+configuration; repair and maintenance; cooling;
+risk assessment; design of chimney; power plant
+waste – fly ash and its reuse; flue gas
+desulfurization; nuclear energy infrastructure;
+project implementation; radioactive waste and
+management; facilities and basic infrastructure. Thermal and Nuclear
+Power Infrastructure
+Engineering (PE)
+Fundamental elements of planning harbours Infrastructure planning and
+design for ports and
+harbours (PE)
+
+S.
+N. Course Type Course Category Regular B. Tech. Double B. Tech.
+Cred Total Total Credit Credit Total Total
+1 Institute Core (I) Engineering (IE) 34 69 34 59
+Science (IS) 16 16
+Humanities (IH) 12 9
+2 Programme
+Linked (L) Science (LS) 7 0
+3 Programme Core
+(P) Programme Compulsory (PC) 50 71 50 71
+Programme Electives (PE) 18 18
+B.Tech. Project (PP) 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0
+5 5 Engineering
+Science (E) Engineering Engineering Science Core (EC) Engineering Science Core (EC) 0 0 0 0 22 22 30 30
+Engineering Science Elective 0 8
+Total Graded 150 160
+6 Non-Graded (N) Humanities (NH) 6 15 6 15
+Engineering (NE) 3 3
+Design/Practical Experience 6 6 6 6
+Total Graded + Non-Graded 165 175
+7. Course Categories and credit distribution in the proposed B.Tech. Programmes
+
+Type L-T-P Distribution of contact and beyond contact hours Total credit
+(TC = TH/3)
+Contact Hours
+(CH) Beyond Contact
+Hours (BCH) Total
+Hours (TH)
+1 Hour of Lecture 1-0-0 1 hr 2 hr 3 1
+1 Hour of Tutorial 0-1-0 1 hr 2 hr 3 1
+1 Hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 0.5
+8. Credit Structure of B. Tech. Programme
+
+Sr. No Course Name L-T-P Contact Hours Credit
+1 Mechanics of solids 3-1-0 4 4
+2 Transportation Engineering 3-0-0 3 3
+3 Fluid Mechanics 3-1-2 6 5
+4 Geoinformatics 3-0-2 5 4
+5 Structural Analysis 3-0-2 5 4
+6 Environmental Engineering 3-0-2 5 4
+7 a. Geotechnical Engineering 3-1-0 4 4
+b. Geotechnical Engineering Lab 0-0-2 2 1
+8 Water Resources Engineering 3-0-2 5 4
+9 Reinforced Concrete Design 3-0-2 5 4
+10 Smart Infrastructure Engineering 3-0-0 3 3
+11 Advanced Structural Analysis 3-0-2 5 4
+12 Construction Technology and Practices 3-0-2 5 4
+13 Data Structure and Algorithm 3-0-2 5 4
+Total 52
+9. List of programme compulsory courses
+
+Area Courses L-T-P Credit
+Smart Infrastructure
+Technology AI/ML in Infrastructure Engineering 3-0-0 3
+Building Services 3-0-0 3
+Intelligent Buildings 3-0-0 3
+Surveillance and Security of Infrastructures 3-0-0 3
+Cyber-Physical Systems for Infrastructure 3-0-0 3
+Digital Twin and Asset management 3-0-0 3
+Geotechnical
+Engineering Geology for Civil Engineers 3-0-0 3
+Ground Improvement Techniques 3-0-0 3
+Introduction to Soil Dynamics 3-0-0 3
+Advanced Geotechnical Engineering 3-0-0 3
+Environmental
+Engineering Air pollution and Control 3-0-0 3
+Mathematical Modelling in Environmental 3-0-0 3
+System
+Industrial Waste: Control and Utilization 3-0-0 3
+Environmental Biotechnology and Bioremediation 3-0-2 4
+Transportation
+Engineering Highway Geometric Design 3-0-0 3
+Pavement Engineering 3-0-0 3
+Traffic System and ITS 3-0-0 3
+Urban Transportation Planning 3-0-0 3
+Construction and
+Infrastructure Concrete Technology 3-0-0 3
+Infrastructure Planning and Management 3-0-0 3
+Structural Engineering Steel Structure Design 3-1-0 4
+Advanced Structural Design 3-0-0 3
+Dynamics of Structure 3-0-0 3
+10. Area-wise Programme Elective (PE) Courses
+
+Finite Element Method 3-0-0 3
+Prestressed concrete structures 3-0-0 3
+Prefabricated structures 3-0-0 3
+Earthquake Engineering 3-0-0 3
+Introduction to Structural Health monitoring 3-0-0 3
+Water Resources Environmental Hydrology 3-0-2 4
+Engineering
+Infrastructure Systems Introduction to Power Infrastructure Engineering 3-0-0 3
+Thermal and nuclear power infrastructure
+Engineering 3-0-0 3
+Infrastructure planning and design for rail and air
+transport 3-0-0 3
+Infrastructure planning and design of ports and
+harbours 3-0-0 3
+IT and Telecom Infrastructure 3-0-0 3
+Green Building and Sustainable Materials 3-0-0 3
+
+Cat Course LTP C NC GC Cat Course LTP C NC GC
+I Semester II Semester
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction
+to Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction
+to Computer
+Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction
+to
+Bioengineerin
+g 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1 0
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communication 0-0-2 2 1 - NH Communicatio 0-0-2 2 1 -
+NH Social Connect
+and
+responsibilities I Social Connect 0-0-1 1 0.5 - NH Social Connect 0-0-1 1 0.5 -
+and and
+responsibilities I responsibilitie
+NH Performing Arts
+I /Sports I 0-0-1 1 0.5 - NH Performing 0-0-1 1 0.5 -
+Total 11-2-
+12 25 3 16 Total 12-1-
+14 2
+6 3 17
+III Semester IV Semester
+LS Probability,Stati
+stics and
+Stochastic
+Process 3-1-0 4 - 4 IE Structure of
+Materials
+Corrosion
+Polymers 3 ×
+1-0-0 3 - 3
+IE Thermodynamic
+s 3-1-0 4 - 4 PC Mechanics of 3-1-0 6 4
+PC Geoinformatics 3-0-2 6 4 PC Fluid 3-1-2 6 5
+IE Introduction to
+Machine
+Learning 3-0-2 5 - 4 IE Signals and
+Systems Signals and 3-1-0 4 - 4
+LS Introduction to
+Analytical
+Mechanics 3-0-0 3 - 3 IH Humanities I 3-0-0 3 - 3
+NE Intro. To 0-0-2 2 1 PC Data Structure 3-0-2 3 - 4
+Profession and Algorithm
+Total 15-2-6 24 1 19 Total 18-1-6 2
+5 - 23
+V Semester VI Semester
+11. Curriculum of B.Tech. Civil and Infrastructure Engineering (Regular)
+
+PC Transportation
+Engineering 3-0-0 3 3 PC Water 3-0-2 5 4
+PC Structural
+Analysis 3-0-2 5 4 PC Reinforced 3-0-2 5 4
+PC Environmental
+Engineering 3-0-2 5 4 PC Smart 3-0-0 3 3
+PC Geotechnical
+Engineering 3-1-0 4 4 PC Advanced 3-0-2 5 4
+PC Construction 3-0-2 5 4 PC Geotechnical 0-0-2 2 1
+Technology and Engineering
+Practices Lab
+IH Humanities II 3-0-0 3 - 3 PE Programme/O
+pen Elective 3-0-0 3 3
+NH Professional 0-1-0 1 - NH Professional 0-1-0 1 -
+Ethics I Ethics II
+Total 18-2-6 25 1 22 Total 15-1-8 2
+3 1 19
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE/
+OE Programme/Op
+en Electives 8-0-0 8 - 8 PE
+/
+OE Programme/O
+pen Electives 15-0-0 1
+5 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 13-0-6 19 - 16 Total 18-0-0 1
+8 - 18
+Total of Graded Credit - 150
+Non-Graded Credit 9 -
+Non-Graded Design Credits 6 -
+Grand Total 165
+
+S. No. Core Courses Course Credits
+1. Fate of Chemicals in the Environment 3-0-0 [3]
+2. Climate Change and Impact 3-0-4 [5]
+S. No. Electives Course Credits
+1. Remote Sensing and GIS for Environment Management 3-0-2 [4]
+2. Solid Waste Management 3-0-0 [3]
+3. Air Pollution and Control 3-0-0 [3]
+4. Advanced Wastewater Treatment 3-0-2 [4]
+5. Environmental Economics and Management 3-0-0 [3]
+6. Environmental Impact Assessment 3-0-0 [3]
+7. Machine Learning for Environmental Engineering. 3-0-0 [3]
+8. Geomorphology 3-0-0 [3]
+9. GIS and Public Health 3-0-0 [3]
+10. Environmental Biotechnology and Bioremediation 3-0-2 [4]
+11 Specialization Project (maximum 6 credits) 0-0-12 [6]
+S. No. Core Courses Course Credits
+1. Cyber-Physical Systems for Infrastructure 3-0-0 [3]
+2. AI/ML in Infrastructure Engineering 3-0-0 [3]
+3. Smart Infrastructure: Design and Simulation 0-0-4 [2]
+S. No. Electives Course Credits
+1. Transmission Infrastructure 3-0-0 [3]
+2. Thermal and Nuclear Power Infrastructure Engineering 3-0-0 [3]
+3. Surveillance and Security of Infrastructures 3-0-0 [3]
+4. Digital Twin and Asset management 3-0-0 [3]
+5. Introduction to Power Infrastructure Engineering 3-0-0[3]
+6. Infrastructure planning and design for rail and air transport 3-0-0 [3]
+7. IT and Telecom Infrastructure 3-0-0 [3]
+8. Specialization Project (maximum 6 credits) 0-0-12 [6]
+12. 
+B.Tech. with Specialization
+The students can obtain a Departmental Specialization after completing additional 20 credits beyond the 
+regular B.Tech. program credit requirement. From the 20 credits, 8 credits must be taken from core areas 
+of that specialization and 12 credits should be taken from the electives within that specialization.
+i. B Tech with Specialization in Environmental Engineering
+(Total credits: 20; Core credits: 8; Specialization Electives: 12)
+ii. B.Tech. with Specialization in Smart Infrastructure
+(Total credits: 20; Core credits: 8; Specialization Electives: 12)
+
+Title Data Structures and Algorithms Number CS2XX0
+Department Computer Science and Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech of all branches Type Program Core (PC)
+Prerequisite Introduction to Computer Programming
+13. 
+Detailed Course Contents
+
+Title Structure of Materials Number MTL2XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Institute Core –
+Engineering (IE)
+Prerequisite -
+
+Title Corrosion Number MTL2XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 1–0–0 [1]
+Offered for B. Tech Type Institute Core –
+Engineering (IE)
+Prerequisite -
+
+Title Polymers Number CHL2XX0
+Department Chemical Engineering L-T-P [C] 1-0-0 [1]
+Offered for B.Tech. Type Institute Core -
+Engineering (IE)
+Prerequisite -
+
+Title Introduction to Machine Learning Number CS2XX0
+Department Computer Science and Engineering /
+Electrical Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech of all branches Type Institute Core –
+Engineering (IE)
+Prerequisite Introduction to Computer Programming
+
+Online course Material 
+1. 
+Introduction to Machine Learning, NPTEL Course Material, Department Computer Science and 
+Engineering, IIT Madras: http//nptel.ac.in/courses/106106139/
+2. 
+Machine Learning, Stanford University: https://see.stanford.edu/Course/CS229
+
+Title Probability, Statistics & Stochastic Process Number MAL2XX0
+Department Mathematics L-T-P [C] 3-1-0 [4]
+Offered for B.Tech BSBE, CSE, EE, DS&AI, CHE, CIE, ES Type Institute Core –
+Engineering (IE)
+
+Title Signals and systems Number EE2XX0
+Department Electrical Engineering L-T-P [C] 3-1-0 [4]
+Offered for B.Tech Type Institute Core –
+Engineering (IE)
+
+Title Thermodynamics Number MEL2XX0
+Department Mechanical Engineering L-T-P [C] 3-1-0 [4]
+Offered for All B. Tech Type Institute Core –
+Engineering (IE)
+
+Title Introduction to Analytical
+Mechanics Number PHL2XXX
+Department Physics L-T-P [C] 3-0-2 [4]
+Offered for B.Tech of all branches Type Program Linked Science
+(LS)
+
+Title Fluid Mechanics Number MEL2XX0/ CHL2XX0
+Department Mechanical Engineering/ Chemical
+Engineering L-T-P [C] 3–1–0[4]
+Offered for B.Tech (ME, CH) Type Program Compulsory (PC)
+
+Title Fluid Mechanics Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fluid Mechanics
+
+Title Mechanics of Solids Number ME2XX0
+Department Mechanical Engineering L-T-P [C] 3–1–0 [4]
+Offered for B.Tech Type Programme Compulsory
+(PC)
+
+Title Geoinformatics Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech Type Program Core (PC)
+
+1. G. S. Srivastava (2014) An Introduction to Geoinformatics. McGraw Hill Education (India) Private
+Limited. New Delhi. India. ISBN: 9781259058462.
+2. Michael N. DeMers (2008) Fundamentals of Geographic Information Systems (4th Ed). Wiley. ISBN: 978-
+3. T. M. Lillesand, R. W. Kiefer, J. W. Chipman (2004) Remote Sensing and Image Interpretation (5th Ed).
+Other Books
+1. L. E. Johnson (2009) Geographic Information Systems in Water Resources Engineering. CRC Press. Taylor
+& Francis Group. ISBN 978‑1‑4200‑6913‑6.
+2. B. Tomaszewski (2015) Geographic Information Systems (GIS) for Disaster Management. CRC Press.
+Taylor & Francis Group. ISBN-13: 978-1-4822-1169-6.
+3. Myer Kutz (Ed.) (2004) Gary S. Spring. Applications of GIS In Transportation. In book: Handbook of
+Online course Material
+1. Prof. Arun K. Saraf (2016) Introduction to Geographic Information System. NPTEL.
+2. Prof. Arun K. Saraf (2017) Introduction to Remote Sensing. NPTEL.
+3. Prof. Rishikesh Bharti (2019) Remote Sensing and GIS. NPTEL.
+
+Title Geotechnical Engineering Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech [CIE] Type Program
+Compulsory (PC)
+
+Title Geotechnical Engineering
+Laboratory Number CI2XX0
+Department Civil and Infrastructure
+Engineering L-T-P [C] 0-0-3 [1.5]
+Offered for B.Tech [CIE] Type Program Compulsory (PC)
+
+Title Environmental Engineering Number CI2XX0
+Department Civil and In Engineering L-T-P [C] 3-0-2 [4]
+Offered for B. Tech [CIE] Type Program Compulsory
+(PC)
+
+1. Stull, R. “Practical Meteorology: An algebra-based survey of atmospheric science” – version 1.02b. Univ.
+of British Columbia. 2017.
+2. Aerosol Measurement: Principles, Techniques and Applications, edited by K. Willeke, P. Baron, Van
+Nostrand Reinhold, 1993.
+3. Burton F.L., Tchobanoglous G., Stensel H.D., 2017, WasteWater Engineering Treatment and Reuse,
+4. Arceivala S.J. and Asolekar S.R., 2007, Wastewater Treatment for Pollution Control and Reuse, 3rd Ed.,
+Tata McGraw Hill.
+5. George Tchobanoglous, Hilary Theisen, Samuel Vigil, Integrated Solid Waste Management: Engineering
+Principles and Management Issues, McGraw-Hill Series in Water Resources and Environmental 
+Engineering, ISBN-10: 0070632375, ISBN-13: 978-0070632370
+
+Title Smart Infrastructure Engineering Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech [CIE] Type Program Compulsory (PC)
+
+2. ASCE. (2017) Infrastructure Report Card: A comprehensive assessment of America’s infrastructure.
+
+Title Construction Technology and Practices Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [4]
+Offered for B. Tech [CIE] Type Program
+Compulsory (PC)
+
+Concrete: 
+Concrete slump test 
+7 day compressive/split tensile/flexural strength 
+Air content of concrete by pressure method 
+Determination of unit weight of concrete 
+ 
+Bitumen: 
+Penetration test 
+Ductility test 
+Viscosity test 
+Softening point test 
+Flash and fire point test 
+ 
+Miscellaneous test for pavements 
+Determination of bitumen content by centrifuge extractor 
+Determination of Marshall stability value 
+Determination of rebound deflection of pavement by Benkelman beam
+Text Books 
+1. Gambhir, M. L. and Neha Jamwal, Building Materials, Tata McGraw Hill. 
+2. Huntington, W. C. Building Construction, John Wiley, New York 
+3. Dutta, B. N. Estimating and Costing in Civil Engineering, Theory and Practice. UBS Publishers'
+Distributors Pvt Ltd.
+4. Srinath, L. S. An Introduction to Project Management, Tata McGraw Hill 
+ 
+Additional References 
+1. Rangwala, S. C. Engineering Materials, Charotar Publishing House, Anand 
+2. Punmia, B., C. Building Construction, Laxmi Publications, New Delhi 
+3. Shah, N. A. Quantity Surveying and Valuation. Khanna Publishers. 
+4. Mazda, F. Engineering Management, Adison Wesley, Longman Ltd.
+
+Title Transportation Engineering Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech [CIE] Type Program Compulsory (PC)
+
+9. Chakroborty, P., Animesh Das. Principles of Transportation Engineering. Second Edition, PHI Learning
+Private Limited
+10. Samuel Morgan. Traffic Engineering and Transport Planning. Williford Pr.
+
+Title Water Resources Engineering Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [4]
+Offered for B. Tech [CIE] Type Program Compulsory
+(PC)
+Prerequisite -
+
+2. 
+Todd, D. K. and Mays, L. W. Ground Water Hydrology, John Wiley India Edition
+Additional References 
+1. 
+Chow, V.T., Maidment, D.R., and Mays L.W. Applied Hydrology. McGraw-Hill Inc., New York.
+2. 
+James, L.D., and Lee, R.R. Economics of water resources planning. McGraw-Hill Book Inc., New York.
+3. 
+Garg, S.K. Irrigation Engineering and Hydraulic Structures. Khanna Publishers, Delhi.
+4. 
+Linsley, R.K., Franzini, J.B., Freyberg, D.L., and Tchobanoglous, G. Water Resources Engineering, McGraw 
+Hill Inc., Singapore.
+5. 
+Singh, V.P. Elementary Hydrology. Prentice Hall, Englewood Cliffs, New Jersey.
+
+Title Structural Analysis Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech. [CIE] Type PC
+Prerequisite -
+
+Experimentally determining the elastic properties of an elastic beam. 
+Experimental and analytical study of defections in a cantilever beam. 
+To study the behaviour of struts and columns with various support end conditions. 
+Determination of the deflection of a pin connected truss through analytical, graphically and experimental 
+calculations. 
+Determine the horizontal thrust in a three hinged arch for a given system of loads experimentally and verify 
+it with theoretical calculations. 
+Experimental and analytical study of sway in portal frame.
+
+Title Reinforced Concrete Design Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech. [CIE Type Program Core (PC)
+Prerequisite Structural Analysis
+
+4. P.C. Varghese (2010) Limit State Design of Reinforced Concrete (2nd Ed), Prentice Hall of India. ISBN
+5. S.K. Mallick, A.K. Gupta (2002) Reinforced Concrete (2nd Ed), Tata McGraw-Hill Publishing Co. Ltd.
+ISBN 0070473323.
+Additional References 
+Design 
+of 
+Reinforced 
+Concrete 
+Structures 
+(2009) 
+by 
+Dr. 
+Nirjhar 
+Dhang 
+on 
+NPTEL.
+https://nptel.ac.in/courses/105/105/105105105/ 
+ 
+Laboratory Contents 
+Introduction of computer applications in the structural design. 
+Design of beam (under-reinforced, balanced, over-reinforced, doubly reinforced) using computer 
+applications. 
+Design and detailing of slabs (one-way and two-way), columns, walls, footing etc. 
+Modelling, analysis and design of a multi-storeyed framed structure. 
+Determination of the compressive strength of concrete. 
+Strength and deflection testing of a simply supported RCC beam. 
+Testing of RCC columns for strength subjected to concentric and eccentric loading conditions. 
+Non-destructive testing – rebound hammer test for concrete, ultrasonic pulse velocity test for concrete, rebar 
+detector test for reinforcement etc.
+
+Title Advanced Structural Analysis Number CI2XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech. [CIE] Type PC
+Prerequisite Structural Analysis
+
+4. D. Menon (2018) Structural Analysis (2nd Ed), Narosa Publications. ISBN 9788184875973. 
+5. J.B. Wilbur, C.H. Norris, S. Utku (2006) Elementary Structural Analysis, McGraw Hill, New York. ISBN
+6. A.K. Chopra (2017) Dynamics of Structures Theory and Application to Earthquake Engineering (5th Ed),
+Prentice Hall, NJ. ISBN 978-0-134-55512-6.
+Additional References 
+Advanced 
+Structural 
+Analysis 
+(2012) 
+by 
+Prof. 
+Devdas 
+Menon 
+on 
+NPTEL.
+https://nptel.ac.in/courses/105/106/105106050/ 
+ 
+Laboratory 
+Introduction of computer applications in structural analysis. 
+Create and analyze models to determine the shear force, bending moment, deflection diagrams for statically 
+indeterminate beams. 
+Create and analyze models to determine the shear force, bending moment, deflection diagrams for portal 
+frames. 
+Create and analyze models to determine the shear force, bending moment, deflection diagrams for multi 
+storeyed buildings. 
+Determine shear force, bending moment, deflection diagrams for multi-storey frames using approximate 
+methods. 
+Modelling and analysis of 3D structures.
+
+Title Steel Structure Design Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-1-0 [4]
+Offered for B.Tech. [CIE] Type Program Elective (PE)
+Prerequisite Structural Analysis
+
+3. S.K. Duggal (2019) Limit State Design of Steel Structures (3rd Ed), McGraw Hill Publication. ISBN
+4. K.S. Sai Ram (2015) Design of Steel Structures (2nd Ed), Pearson Education. ISBN 9789332542105. 
+5. M.R. Shiyekar (2017) Limit State Design in Structural Steel (3rd Ed), Prentice Hall of India Pvt. Ltd. ISBN
+Additional References 
+Design of Steel Structures I (2009) by Prof. S.R. Satish Kumar and Prof. A.R. Santha Kumar on NPTEL. 
+https://nptel.ac.in/courses/105/106/105106112/
+
+Title Advanced Structural Design Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE], M Tech [CIE] Type PE
+Prerequisite Reinforced Concrete Design
+
+Title Dynamics of Structure Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE] Type PE
+Prerequisite -
+
+Additional References 
+Structural 
+Dynamics 
+(2012) 
+by 
+Dr. 
+Pradipta 
+Banerji 
+on 
+NPTEL.
+
+Title Finite Element Method Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE], M Tech [CIE] Type Program elective (PE)
+Prerequisite -
+
+Title Earthquake Engineering Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE], M Tech [CIE] Type Program Elective (PE)
+
+Title Concrete Technology Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-3 [4.5]
+Offered for B.Tech. [CIE] Type Program Elective (PE)
+Prerequisite -
+
+Determination of compressive strength of cement. 
+Determination of soundness of cement by Le-Chatelier’s apparatus. 
+Workability tests: slump cone test, compaction factor test, Vee-Bee consistometer and flow test. 
+Determination of compressive strength of concrete specimens.
+
+Title Prestressed Concrete Structures Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE], M Tech [CIE] Type PE
+Prerequisite -
+
+Title Prefabricated Structures Number CI7XX0
+Department Civil and Infrastructure
+Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE], M Tech [CIE] Type PE
+Prerequisite -
+
+Title Highway Geometric Design Number CI4XX0
+Department Civil and Infrastructure
+Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE] Type Program Elective (PE)
+
+Traffic Engineering and Transportation Planning, L.R.Kadiyali, Khanna Publications. 
+Chai K. Toh, Julio A. Sanguesa, Juan C. Cano and Francisco J. Martinez. Advances in smart roads for future 
+smart cities. 
+https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0439
+
+Title Pavement Engineering Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE] Type Program Elective (PE)
+
+Title Traffic system and ITS Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE] Type Program Elective (PE)
+
+Title Urban Transportation Planning Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE] Type Program Elective (PE)
+
+Title Geology for Civil Engineers Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech [CIE] Type Program Elective (PE)
+
+R. E. Hunt () Geologic Hazards: A Field Guide for Geotechnical Engineers. CRC Press: Taylor & Francis 
+Group. ISBN‐13: 978‐1‐4200‐5250‐3. 
+ 
+Online course Material 
+Prof. Debasis Deb (2009) Engineering Geology. NPTEL. https://nptel.ac.in/courses/105/105/105105106/#
+
+Title Ground Improvement Techniques Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech [CIE] Type Program Elective (PE)
+
+Title Introduction to Soil Dynamics Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech [CIE] Type Program Elective (PE)
+
+Title Advanced Geotechnical Engineering Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech [CIE], M Tech [CIE] Type Program Elective (PE)
+Prerequisite Geotechnical Engineering (PC)
+
+Title Air Pollution and Control Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech [CIE], M Tech[CIE] Type Program Elective (PE)
+
+Aerosol Technology-Properties, Behavior and Measurement of Airborne Particles, W. C. Hinds, John Wiley 
+and Sons, Inc., Second Edition, 1998. 
+Introduction to Air Pollution Science, R. F. Phalen and R. N. Phalen, Jones & Bartlett Learning, LLC, 
+Burlington, MA, 2013. 
+Aerosol Measurement: Principles, Techniques and Applications, edited by K. Willeke, P. Baron, Van 
+Nostrand Reinhold, 1993. 
+ 
+Online Course Material 
+https://nptel.ac.in/courses/105104099/
+
+Title Industrial Waste: Control and Utilization Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B Tech [CIE], M.Tech [CIE] Type Program Elective
+(PE)
+
+Title Surveillance and Security of Infrastructures Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech, M.Tech [CIE] Type Program Elective
+(PE)
+
+Title Digital Twin and Asset Management Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech [CIE] Type Program Elective
+Prerequisite -
+
+3. T. Luhmann, S. Robson, S Kyle, J Boehm (2014) Close-Range Photogrammetry and 3D Imaging (2nd ed).
+4. B. Cyganek (2013) Object Detection and Recognition: Theory and Practice. Wiley. ISBN: 978-0-470-97637-
+5. M. Farsi, A. Daneshkhah, A Hosseinian-Far, H. Jahankhani. (2020) Digital Twin Technologies And Smart
+Cities. Springer. ISBN 978-3-030-18732-3.
+
+Title Cyber-Physical Systems for
+Infrastructure Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech [CIE] Type Program Elective (PE)
+Prerequisite -
+
+Title AI/ML in Infrastructure
+Engineering Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech ,M. Tech [CIE] Type Program Elective
+Prerequisite Mathematics I; Mathematics II
+
+Title Mathematical Modelling in
+Environmental Systems Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech [CIE] Type Program Elective
+
+Title Intelligent Buildings Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech [CIE] Type Program Elective
+
+Title Building Services Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech [CIE] Type Program Elective
+Prerequisite -
+
+Title Environmental Biotechnology and Bioremediation Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 3-0-2 [4]
+Offered for B. Tech, M.Tech, M.Tech.-Ph.D. [CIE] Type Program
+Elective (PE)
+
+Title Environmental Hydrology Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [4]
+Offered for B. Tech, M.Tech, M.Tech.-Ph.D. [CIE] Type Program Elective (PE)
+
+Derive approximate flow effectiveness of a trapezoidal notch of 2.5 m base and 4.5 m surface with a height 
+of 1m using OpenFlow Flow Master and compare the results with Channel Design and Channel Studio. 
+Use EPANET to evaluate water distribution of a community of 200 households with an average 
+consumption of 300 litres of water per day living at a height of 20 m from ground level. These 200 households 
+are supplied water from a 50 m high tank using a given distribution plan. Refer lecture notes for the 
+approximate length of 200 m. Find the energy expense for distributing the water if the water tank is having 
+15 m diameter and 10 m height. 
+ 
+Text Books
+1. Environmental Hydrology, Andy D. Ward, Stanley W. Trimble, Suzette R. Burckhard, John G. Lyon,
+CRC Press, Third Edition, ISBN-13: 978-1466589414, ISBN-10: 1466589418, 2016.
+2. Engineering Hydrology K Subramanya, Fourth Edition, McGraw Hill Education (India), Pvt, Ltd., New
+Delhi ISBN 1-25-902997-2, 978-1-25902997-4, 2013.
+
+Title Introduction to Structural Health
+Monitoring Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE] Type PE
+Prerequisite -
+
+Title Infrastructure Planning and Management Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [3]
+Offered for B.Tech [CIE] Type Program Elective (PE)
+
+Title Introduction to Power Infrastructure
+Engineering Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech [CIE] Type Program Elective (PE)
+Prerequisite -
+
+Title Thermal and Nuclear Power Infrastructure
+Engineering Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. [CIE] Type PE
+Prerequisite -
+
+Title Infrastructure planning and design for
+rail and air transport Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech [CIE] Type Program Elective (PE)
+Prerequisite -
+
+Title Infrastructure planning and design of ports and
+harbours Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech [CIE] Type Program Elective
+(PE)
+Prerequisite --
+
+Title IT and Telecom Infrastructure Number CI4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech [CIE] Type Program Elective (PE)
+Prerequisite -
+
+Title Green Building and Sustainable
+Materials Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech, M.Tech, M.Tech.-Ph.D.
+[CIE] Type Program Elective (PE)
+Prerequisite -
+
+Closing materials loops: distinguishing between green building products and green building materials; 
+LCA of building materials and products; environmental product declaration; materials and product 
+certification systems; emerging construction materials and products; design for deconstruction. (Lectures: 
+4) 
+ 
+Indoor environmental quality: IEQ issues; design; main components of integrated IEQ design; emission 
+from building materials; economic benefits of good indoor environmental quality. (Lectures: 3) 
+ 
+Construction operations and commissioning: site protection planning; indoor air quality during 
+construction; construction materials management; construction and demolition waste management. 
+(Lectures: 3) 
+ 
+Green building economics: the business case for high-performance green building; the economics of green 
+building; quantifying green building benefits. (Lectures: 3) 
+ 
+Text Books 
+Charles J. Kibert (2013). Sustainable Construction. John Wiley & Sons. ISBN 978-1-118-33013-5 
+J. Newman and Ban Sang Choo (2003) Advanced Concrete Technology-Constituent Materials (1st Ed), 
+Elsevier. ISBN 9780080489988. 
+S. Kubba (2010) LEED Practices, Certification, and Accreditation Handbook (1st Ed) Elsevier. ISBN 
+9780080958590. 
+ 
+Additional reference 
+Ministry of Power, Energy Conservation Building Code 2018, Revised Version, Bureau of Energy Efficiency, 
+2018, 
+Indian Building Congress, Practical Handbook on Energy Conservation in Buildings, 1 st ed. Nabhi 
+Publication, 2008. 
+TERI-Griha’s Green Design practices (www.teriin.org/bcsd/griha/griha.htm) 
+Sartori, I., and Hestnes, A. G. “Energy use in the life cycle of conventional and low-energy buildings: A 
+review article”, Energy and Buildings., 20, 249-257.2007 
+Green 
+Building 
+Basics, 
+California 
+Integrated 
+Waste 
+Management 
+Board
+(www.ciwmb.ca.gov/GREENBUILDING/Basics.htm#What) 
+Catarina Thormark. “A low energy building in a life cycle—its embodied energy, energy need for operation 
+and recycling potential”, Building and Environment., 37, 429-435.2001. 
+ 
+Online course Material 
+“NOC:Energy Efficiency, Acoustics and Daylighting in Building” by Prof. B. Bhattacharjee on NPTEL. 
+https://nptel.ac.in/courses/105/102/105102175/
+
+Title Smart Infrastructure: Design and
+Simulation Number CI5XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 0-0-4 [2]
+Offered for B.Tech [CIE] Type Program Compulsory
+(PC) for specialization
+Prerequisite -
+
+Title Transmission Infrastructure Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+Title Fate of Chemicals in the Environment Number CI7XX0
+Department Civil and Infrastructure Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization Stream
+Elective
+Prerequisite Chemistry, Flow Mechanics, Soils
+
+Title Climate Change and Impact Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-4 [5]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization Stream
+Elective
+
+Hand-on experience on installation of Regional/ Global Climate model (RCM/GCM) and performing 
+simulations to compare the model output (climate variables and Emissions) under different Representative 
+Concentration Pathways (RCPs) with existing emission inventories. 
+Group report on “ Scientific Evidence for Anthropogenic Climate Change” 
+ 
+Text Books 
+Atmospheric Chemistry and Physics- From Air Pollution to Climate Change, J. H. Seinfeld and S. N. Pandis, 
+John Wiley and Sons, Inc., Third Edition, 2013. 
+Fundamentals of Atmospheric modeling, Marck Jacobson, Cambridge University Press, Second Edition, 
+2005. 
+Air Pollution and Global Warming: History, Science and Solutions, Mark Jacobson, Cambridge University 
+Press, Second Edition, 2012. 
+Atmosphere, Ocean, and Climate Dynamics, John Marshall and R. Alan Plumb, Elsevier Academic Press, 
+2008. 
+ 
+Online course Material 
+https://courses.edx.org/courses/course-v1:SDGAcademyX+CCSI001+3T2019/course/ 
+https://nptel.ac.in/courses/119106008/
+
+Title Remote Sensing and GIS for Environment
+Management Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-2 [4]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE-EE] Type Specialization
+Stream Elective
+
+To perform site suitability analysis for a service building (example hospital) near to an agricultural and 
+inhabited land near an arid village at the edge of an oasis near Jodhpur. 
+Basic experiments on image sharpening and image resolution using ArcGIS/ ERDAS IMAGINE processing 
+tool. 
+ 
+Text Books 
+John R. Jenkins, Remote Sensing of the Environment: An Earth Perspective 
+Lillesand, T.M., Kiefer, R.W. & Chipman, J.W. 2008. Remote Sensing and Image Interpretation, 6th Edition, 
+John Wiley and Sons. 
+ 
+Reference Books 
+Floyd F. Sabins, Remote Sensing: Principles and Applications (3rd edition), Publisher : Waveland Press, 
+Edition : 3rd, Print ISBN : 9781577665076, 1577665074, eText ISBN : 9781478618171.0 
+Gopi, S., Sathikumar, R., and Madhu, N., Advanced Surveying: Total Station, GIS and Remote Sensing, 
+Pearson, 2007, Dorling Kindersley (India).ISBN 978-81-3017-0067-9. 
+Barrett, E.C. & Curtis, L.F. 2007. Introduction to Environmental Remote Sensing, Routledge Publisher.
+
+Title Solid Waste Management Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-Ph.D. [CIE-EE] Type Specialization Stream
+Elective
+
+Title Advanced Wastewater Treatment Number CI7XX0
+Department Chemical Engineering,
+(ii) Civil and Infrastructure Engineering L-T-P
+[C] 3-0-2 [4]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE-EE] Type (i) Programme Elective for
+Chemical Engineering,
+(ii) Specialization Stream
+Elective for Environmental
+Engineering
+
+Henze M., van-Loosdrecht M.C.M., Ekama G.A. and Brdjanovic D., 2008, Biological Wastewater 
+Treatment: Principles, Modelling and Design, IWA publishing. 
+Sincero A.P. and Sincero G.A., 1996, Environmental Engineering – A Design Approach, Prentice-Hall. 
+Online Course Material 
+Tiwari M K, Wastewater treatment and recycling, NPTEL course material, Department of Civil 
+Engineering, IIT Kharagpur, https://nptel.ac.in/courses/105105178/
+
+Title Environmental Economics and
+Management Number CI7XX0
+Department (i) Civil and Infrastructure
+Engineering
+(ii) School of Management and
+Entrepreneurship L-T-P [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization Stream
+Elective
+
+Title Environmental Impact Assessment Number CI7XX0
+Department Chemical Engineering
+Civil and Infrastructure
+Engineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type (i) Programme Elective for Chemical
+Engineering, (ii) Specialization
+Stream Elective for Environmental
+Engineering
+
+Title Machine Learning for Environmental
+Engineering Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization Stream
+Elective
+Prerequisite Statistics for Environmental
+Engineering
+Anti-requisite Machine Learning-I
+
+Reference Books 
+Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill 
+ 
+Online course material 
+https://online.stat.psu.edu/stat505/ 
+ 
+Self Learning Material 
+Department of Computer Science, Stanford University, https://see.stanford.edu/Course/CS229
+
+Title Geomorphology Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization Stream
+Elective
+
+Anthony J. Parsons, A. D. Abrahams (2009) Geomorphology of Desert Environments. Springer. ISBN 978-
+1-4020-5719-9 
+I Alcántara-Ayala, A. Goudie (Eds.). (2010). Geomorphological Hazards and Disaster Prevention. 
+Cambridge: Cambridge University Press. doi:10.1017/CBO9780511807527
+
+Title GIS and Public health Number CI7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization Stream
+Elective

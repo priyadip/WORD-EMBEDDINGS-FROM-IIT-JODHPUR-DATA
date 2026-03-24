@@ -1,0 +1,37 @@
+SOURCE_PDF: 6a4160929055_HRMS-Facility-Requisition-Form-638860322584801062.pdf
+
+Name of the Supervisor Date
+Name of the Student Day
+Contact Number (student) Slot
+S.
+No. Sample
+Code Molecular
+Formula Exact Mass
+(4 decimals) Sample
+Amount
+(mg) Compound
+purified by Required Analysis
+(+ve/-ve ionization
+mode), MS-MS
+Indian Institute of Technology Jodhpur
+Department of Chemistry
+NH-62, Nagaur Road, Karwar, Jodhpur,
+Rajasthan
+HRMS Requisition Form
+Sample Details:
+We comply with the following:
+i) 
+Purity of the samples (>90%) has been confirmed by 1H NMR spectroscopy and the spectra 
+is attached.
+ii) 
+Only very small amount of samples is brought in the Eppendorf(s) (maximum 1-2 mg).
+iii) 
+HRMS/MS-MS analysis has been requested only for unknown compounds (if requested on 
+known samples give suitable justification at the bottom or on the back side of the form)
+I,… 
+....................................... , the undersigned hereby declare that the samples being supplied for
+analysis are for academic and/or research and development purpose only.
+Signature of the Supervisor
+Signature of the Mass Facility Operator
+Note: After getting the signature from the MFO you should not change the number of samples and details 
+regarding them

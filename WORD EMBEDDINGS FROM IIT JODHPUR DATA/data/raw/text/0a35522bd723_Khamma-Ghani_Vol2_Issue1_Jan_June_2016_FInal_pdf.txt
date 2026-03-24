@@ -1,0 +1,911 @@
+SOURCE_PDF: 0a35522bd723_Khamma-Ghani_Vol2_Issue1_Jan_June_2016_FInal.pdf
+
+Hkkjrh; izkS|ksfxdh lLa Fkku tks/kiqj VOLUME 2 ISSUE 1
+JANUARY-JUNE 2016 Indian Institute of Technology Jodhpur
+S. No. Name of the Student Title of Thesis Supervisor Department Date of Defense
+Khamma Ghani…!!
+ACADEMICS
+Ph.D. Theses
+1. 
+Deepak 
+Kumar
+Chhangani
+Role of MGRN1 E3 Ubiquitin Ligase in 
+Protein Quality Control Mechanism 
+and Polyglutamine Diseases
+Amit Kumar Mishra 
+Biology 
+7 January 2016
+2. 
+Abhay Samant 
+Reconfigurable Architecture for 
+Cross Layer Design Optimization and 
+its Applications
+Sandeep Kumar Yadav 
+Venkataramana Badarla
+Electrical Engineering 
+25 April 2016
+3. 
+Suresh Singh 
+Mitigation of Negative Impedance 
+Instabilities in DC/DC Converters and 
+DC Microgrids using Nonlinear 
+Control
+Deepakkumar M. Fulwani 
+Electrical Engineering 
+3 May 2016
+New Research Projects
+Prodyut Ranjan Chakraborty, Assistant Professor, Department of Mechanical Engineering, has been
+sanctioned the sponsored research project “Thermal Design of PCM Cool and Warm Vest” by Defense 
+Research & Development Organisation (DRDO), Jodhpur. The duration of the project is 2 years (2015 -17).
+Arun Kumar Singh, Assistant Professor, Department of Electrical Engineering, has been sanctioned
+the sponsored research project “Computationally efficient fixed complexity sphere decodes for multiuser 
+MIMO communications” by Science and Engineering Research Board, DST, Government of India. The 
+duration of the project is 3 years (2016-19).
+Venkata Ramana Badarla, Assistant Professor, Department of Computer Science & Engineering, has
+been sanctioned the sponsored research project “Energy Efficient Technologies for Smart Buildings” by the 
+Indo-US Science and Technology Forum (IUSSTF), DST, Government of India. The duration of the project is 3 
+years (2016-19).
+Mahesh Kumar, Assistant Professor, Department of Electrical Engineering, has been sanctioned the
+sponsored research project “Development of Tunable RF Filter Based on Ferroelectric Thin Film by 
+Sputtering” by the Indian National Science Academy. The duration of the project is 3 years (2016-19).
+Ambesh Dixit, Assistant Professor, Department of Physics, has been sanctioned the sponsored
+research project “Probing Magnetic Structures and Spin Flop transition in bulk and nanostructured FeVo4 
+Multiferroic System” by Department of Science and Technology, Government of India. The duration of the 
+project is 3 years (2016-19).
+
+Patents Filed
+1. 
+“Real-time Calibration free water quality sensor (Device and System)” 
+Inventors: Rakesh K. Sharma, IIT Jodhpur and P. V. Hareesh, Panasonic Corporation, Japan 
+Patent (Provisional) Reference Number: 1468/CHE/2015 
+Date: 23 March 2015
+2. 
+“Metal Nanoparticles Intercalated Clay for Solvent Free Hydrogenation of Squalene into Squalane” 
+Inventors: Rakesh K. Sharma and Vineet K. Soni 
+Patent Application Number: 201611009866 
+Date: 21 March 2016
+Research Publications
+Journal Articles
+1. 
+Vijay, A., Vaishnava, M., and Chhabra, M. (2016). Microbial fuel cell assisted nitrate nitrogen removal using cow 
+manure and soil. Environmental Science and Pollution Research, Vol 23(8), 1–13. ISSN: 1614-7499. 
+http://doi.org/10.1007/s11356-015-5934-0
+2. 
+Sharma, N., and Jha, S. (2015). NLR-regulated pathways in cancer: opportunities and obstacles for therapeutic 
+interventions. Cellular and Molecular Life Sciences, Vol 73, 1741-64. ISSN: 1420-9071. http://doi.org/10.1007/s00018-
+015-2123-8
+3. 
+Hoop, C. L., Lin, H.-K., Kar, K., Magyarfalvi, G., Lamley, J. M., Boatz, J. C., Mandala, A., Lewandowski, J. R. , Wetzela, 
+R. and Wel, P. C. A. van der. (2016). Huntingtin exon 1 fibrils feature an interdigitated β-hairpin–based 
+polyglutamine core. Proceedings of the National Academy of Sciences, Vol 113(6), 1546–1551. ISSN: 1091-6490. 
+http://doi.org/10.1073/pnas.1521933113
+4. 
+Anand, B. G., Dubey, K., Shekhawat, D. S., and Kar, K. (2016). Capsaicin-coated silver nanoparticles inhibit amyloid 
+fibril 
+formation 
+of 
+serum 
+albumin. 
+Biochemistry. 
+Vol 
+55(24), 
+3345–3348. 
+ISSN: 
+0006-2960.
+5. 
+Upadhyay, A., Amanullah, A., Chhangani, D., Joshi, V., Mishra, R., and Mishra, A. (2015). Ibuprofen Induces 
+Mitochondrial-Mediated Apoptosis Through Proteasomal Dysfunction. Molecular Neurobiology, 1–14. ISSN 1559-
+1182. http://doi.org/10.1007/s12035-015-9603-6
+6. 
+Harinipriya, S., Kalra, A., and Mishra, A. K. (2016). Physiochemical Characterization of tubulin from Arachis 
+hypogaea. Synthetic Metals, Vol 220, 86–94. ISSN: 0379-6779. http://doi.org/10.1016/j.synthmet.2016.04.021
+Journal Articles
+1. 
+Gupta, R., Rao, K. D. M., Kiruthika, S., and Kulkarni, G. U. (2016). Visibly Transparent Heaters. ACS Applied Materials 
+& Interfaces, Vol 8(20), 12559–12575. ISSN: 1944-8244. http://doi.org/10.1021/acsami.5b11026
+2. 
+Adhikari, S., and Kumar, A. (2016). Upper bound on singlet fraction of two-qubit mixed entangled states. Quantum 
+Information Processing, Vol 15(7), 2797–2803. ISSN: 1573-1332. http://doi.org/10.1007/s11128-016-1295-y
+3. 
+Choudhary, G., Sharma, R. K., and Plappally, A. K. (2015). Local material composite sintered systems for fluoride 
+removal. 
+Desalination 
+and 
+Water 
+Treatment, 
+Vol 
+55(10), 
+2626–2637. 
+ISSN: 
+1944-3986.
+4. 
+Shejale, K. P., Laishram, D., and Sharma, R. K. (2016). High-performance dye-sensitized solar cell using 
+dimensionally controlled titania synthesized at sub-zero temperatures. RSC Advances, Vol 6(28), 23459–23466. 
+ISSN: 2046-2069. http://doi.org/10.1039/C6RA00227G
+5. 
+Shejale, K. P., Laishram, D., Roy, M. S., Kumar, M., and Sharma, R. K. (2016). On the study of phase and 
+dimensionally controlled titania nanostructures synthesis at sub-zero temperatures. Materials & Design, Vol 92, 
+535–540. ISSN 0264-1275. http://doi.org/10.1016/j.matdes.2015.12.047
+6. 
+Ram, P., Gören, A., Ferdov, S., Silva, M. M., Singhal, R., Costa, C. M., Sharma, R. K. and Lanceros-Méndez, S. (2016). 
+Improved performance of rare earth doped LiMn2O4 cathodes for lithium-ion battery applications. New Journal of 
+Chemistry, Vol 40(7), 6244-6252. ISSN: 1369-9261. http://doi.org/10.1039/C6NJ00198J
+7. 
+Soni, V. K., and Sharma, R. K. (2016). Palladium-Nanoparticles-Intercalated Montmorillonite Clay: A Green Catalyst 
+for the Solvent-Free Chemo selective Hydrogenation of Squalene. ChemCatChem, Vol 8(10), 1763–1768. ISSN: 1867-
+3880. http://doi.org/10.1002/cctc.201600210
+
+Conference Papers
+1. 
+Chaudhary, G., Sharma, P. R., Soni, V. K., Pandey, S. and Sharma, R. K. (2015). New Ceramic Nanocomposite Filters 
+for Fluoride Removal using Acacia Waste. In 2nd National Conference On Emerging Trends Of Research in Applied 
+Sciences, Experimental & Computational Techniques: Vol. 4 (12). Jodhpur Institute of Engineering and Technology, 
+Jodhpur (pp. 11-16). ISSN: 2278-0181. http://www.ijert.org/browse/conference-proceedings
+2. 
+Sharma, P. and Sharma R. K. (2016). Asymmetric Hydrogenation of Ethyl 2-Oxo-2-Phenylacetate with Chiral 
+Platinum Loaded on Carbon Fiber. In 2nd National Conference On Emerging Trends Of Research in Applied 
+Sciences, Experimental & Computational Techniques: Vol. 4 (12). Jodhpur Institute of Engineering and Technology, 
+Jodhpur (pp. 6-10). ISSN: 2278-0181. http://www.ijert.org/browse/conference-proceedings
+3. 
+Sharma, P. R., Soni V. K., Chaudhary G., Plappally A. K., Pandey S., and Sharma R. K. (2016). Calix[4] amidocrown 
+Molecular Sensors for Fluoride and Arsenate Detection, In 2nd National Conference On Emerging Trends Of 
+Research in Applied Sciences, Experimental & Computational Techniques: Vol. 4 (12). Jodhpur Institute of 
+Engineering and Technology, Jodhpur (pp. 1-5). ISSN: 2278-0181. http://www.ijert.org/browse/conference-
+proceedings
+Journal Articles
+1. 
+Rathore, H., Badarla, V., and George, K. J. (2015). Sociopsychological trust model for Wireless Sensor Networks. 
+Journal 
+of 
+Network 
+and 
+Computer 
+Applications, 
+Vol 
+62, 
+75-87. 
+ISSN: 
+1084-8045.
+2. 
+Ansari, Z. A., and Harit, G. (2016). Nearest neighbour classification of Indian sign language gestures using kinect 
+camera. Sadhana, Vol 41(2), 161–182. ISSN: 0973-7677. http://doi.org/10.1007/s12046-015-0405-3
+Conference Papers
+1. 
+Sharma, K., and Badarla, V. (2015). Topology aware flow scheduling for data center network. In 2015 IEEE 
+International Conference on Advanced Networks and Telecommunications Systems (ANTS) (pp. 1–6). ISBN: 978-1-
+5090-0293-1. http://doi.org/10.1109/ANTS.2015.7413632
+Journal Articles
+1. 
+Bajaj, M., Nayak, K., Gundapaneni, S., and Rao, V. R. (2016). Effect of Metal Gate Granularity Induced Random 
+Fluctuations on Si Gate-All-Around Nanowire MOSFET 6-T SRAM Cell Stability. IEEE Transactions on Nanotechnology, 
+Vol 15(2), 243-247. ISSN: 1536-125X. http://doi.org/10.1109/TNANO.2016.2515638
+2. 
+Konakov, A. A., Filatov, D. O., Korolev, D. S., Belov, A. I., Mikhaylov, A. N., Tetelbaum, D. I., and Kumar, M. (2016). 
+Electronic states in spherical GaN nanocrystals embedded in various dielectric matrices: The k⋅p-calculations. AIP 
+Advances, Vol 6(1), 015007, DOI: http://dx.doi.org/10.1063/1.4939938
+3. 
+Shetty, A., Kumar, M., Roul, B., Vinoy, K. J., and Krupanidhi, S. B. (2016). InN Quantum Dot Based Infra-Red 
+Photodetectors, 
+Journal 
+of 
+Nanoscience 
+and 
+Nanotechnology, 
+Vol 
+16(1), 
+709-714. 
+DOI:
+4. 
+Singh, M., Mahia, R. N., and Fulwani, D. M. (2016). Towards characterization of driver nodes in complex network 
+with 
+actuator 
+saturation. 
+Neurocomputing, 
+Vol 
+201, 
+104-111. 
+ISSN: 
+0925-2312.
+5. 
+Singh, S., Rathore, N., and Fulwani, D. M. (2016). Mitigation of Negative Impedance Instabilities in a DC/DC Buck-
+Boost Converter with Composite Load. Journal of Power Electronics, Vol 16(3), 1046-1055, ISSN: 2093 – 4718. 
+http://www.jpe.or.kr/archives/view_published.asp?beseq=237
+6. 
+Mahela, O. P., and Shaik, A. G. (2016). Comprehensive overview of grid interfaced wind energy generation 
+systems. 
+Renewable 
+and 
+Sustainable 
+Energy 
+Reviews, 
+Vol 
+57, 
+260–281. 
+ISSN: 
+1364-0321.
+7. 
+Mahela, O. P., and Shaik, A. G. (2016). Topological aspects of power quality improvement techniques: A 
+comprehensive overview. Renewable and Sustainable Energy Reviews, Vol 58, 1129–1142. ISSN: 1364-0321. 
+http://doi.org/10.1016/j.rser.2015.12.251
+8. 
+Mahela, O. P., and Shaik, A. G. (2016). Power quality improvement in distribution network using DSTATCOM with 
+battery energy storage system. International Journal of Electrical Power and Energy Systems, Vol 83, 229–240. ISSN: 
+0142-0615. http://doi.org/10.1016/j.ijepes.2016.04.011
+9. 
+Lu, H. f, Elia, P., and Singh, A. K. (2016). Performance-Complexity Analysis for MAC ML-Based Decoding With User 
+Selection. 
+IEEE 
+Transactions 
+on 
+Signal 
+Processing, 
+Vol 
+64(7), 
+1867–1880. 
+ISSN: 
+1053-587X.
+
+10. 
+Jain, P. K., Tiwari, A. K., and Chourasia, V. S. (2016). Performance analysis of seismocardiography for heart sound 
+signal recording in noisy scenarios. Journal of Medical Engineering & Technology, Vol 40(3), 106-118. ISSN: 0309-1902. 
+http://doi.org/10.3109/03091902.2016.1139203
+11. 
+Bharti, D., and Tiwari, S. P. (2016). Crystallinity and performance improvement in solution processed organic field-
+effect transistors due to structural dissimilarity of the additive solvent. Synthetic Metals, Vol 215, 1–6. ISSN: 0379-
+6779. http://doi.org/10.1016/j.synthmet.2016.01.013
+12. 
+Bisoyi, S., Rödel, R., Zschieschang, U., Kang, M. J., Takimiya, K., Klauk, H., and Tiwari, S. P. (2016). A comprehensive 
+study of charge trapping in organic field-effect devices with promising semiconductors and different contact 
+metals by displacement current measurements. Semiconductor Science and Technology, Vol 31(2), 025011. ISSN: 
+0268-1242. http://doi.org/10.1088/0268-1242/31/2/025011
+13. 
+Raghuwanshi, V., Bharti, D., and Tiwari, S. P. (2016). Flexible organic field-effect transistors with TIPS-Pentacene 
+crystals exhibiting high electrical stability upon bending. Organic Electronics, Vol 31, 177–182. ISSN: 1566-1199. 
+http://doi.org/10.1016/j.orgel.2016.01.030
+14. 
+Raghuwanshi, V., Bharti, D., Varun, I., Mahato, A. K., and Tiwari, S. P. (2016). Performance enhancement in 
+mechanically stable flexible organic-field effect transistors with TIPS-pentacene: polymer blend. Organic 
+Electronics, Vol 34, 284–288. ISSN: 1566-1199. http://doi.org/10.1016/j.orgel.2016.04.039
+15. 
+Chopra, P., and Yadav, S. K. (2016). Fault detection and classification by unsupervised feature extraction and 
+dimensionality 
+reduction. 
+Complex 
+& 
+Intelligent 
+Systems, 
+Vol 
+1(1), 
+25-33. 
+ISSN: 
+2198-6053.
+16. 
+Jain, A., and Yadav, S. K. (2016). Design and Analysis of Compact 108 Element Multimode Antenna Array for 
+Massive Mimo Base Station. Progress in Electromagnetics Research C, Vol 61, 179–184. ISSN: 1937-8718. 
+http://doi.org/10.2528/PIERC15110502
+17. 
+Tripathi, S., Mohan, A., and Yadav, S. (2016). A compact fractal UWB antenna with reconfigurable band notch 
+functions. 
+Microwave 
+and 
+Optical 
+Technology 
+Letters, 
+Vol 
+58(3), 
+509–514. 
+ISSN: 
+1098-2760.
+Conference Papers
+1. 
+Mahia, R. N., Singh, M., and Fulwani, D. (2015). Algorithms to select right driver nodes for multi-agent systems. In 
+Control Conference (ASCC), 2015 10th Asian (pp. 1–6). Kota Kinabalu: IEEE. ISBN: 978-1-4799-7862-5. 
+http://doi.org/10.1109/ASCC.2015.7244880
+2. 
+Mahia, R. N., Singh, M., and Fulwani, D. M. (2015). Characterization of driver nodes: Network of discrete-time 
+agents. 
+In 
+Control 
+Conference 
+(ECC), 
+2015 
+European 
+(pp. 
+622–627). 
+ISBN: 
+978-3-9524269-3-7.
+3. 
+Mahela, O. P., and Shaik, A. G. (2015). Detection of power quality events associated with grid integration of 100kW 
+solar PV plant. In 2015 International Conference on Energy Economics and Environment (ICEEE) (pp. 1–6). ISBN: 
+9781467374927. http://doi.org/10.1109/EnergyEconomics.2015.7235070
+4. 
+Mahela, O. P., and Shaik, A. G. (2015). Power Quality Detection in Distribution System with Wind Energy 
+Penetration Using Discrete Wavelet Transform. In 2015 Second International Conference on Advances in Computing 
+and Communication Engineering (ICACCE) (pp. 328–333). ISBN: 9781479917341. http://doi.org/10.1109/ICACCE.2015.52
+5. 
+Maheshwari, S., and Tiwari, A. K. (2015). Walking parameters estimation through channel state information 
+preliminary results. In 2015 9th International Conference on Signal Processing and Communication Systems (ICSPCS) 
+(pp. 1–8). Cairns, Australia: IEEE. ISBN: 978-1-4673-8118-5. http://doi.org/10.1109/ICSPCS.2015.7391801
+Journal Articles
+1. 
+Narayanan, V. H. (2016). Revisiting the self: a sine qua non for understanding embodiment. AI & SOCIETY, Vol 31(1), 
+79–84. ISSN: 1435-5655. http://doi.org/10.1007/s00146-014-0574-3
+2. 
+Narayanan, V. H. (2016). Voice in the Head: The Road Ahead. Journal of Indian Council of Philosophical Research, Vol 
+33(2), 265–280, ISSN: 0970-7794. http://doi.org/10.1007/s40961-016-0057-7
+Journal Articles
+1. 
+Sharma, P. (2015). Induced Dynamics on the Hyperspaces. arXiv:1512.06940[math.DS]. Retrieved from 
+http://arxiv.org/abs/1512.06940
+2. 
+Sharma, P., and Kumar, D. (2016). Matrix Characterization of Multidimensional Sub shifts of Finite Type. 
+arXiv:1603.00754 [math.DS]. Retrieved from https://arxiv.org/abs/1603.00754
+
+3. 
+Sharma, P., and Raghav, M. (2015). Dynamics of Non autonomous Discrete Dynamical Systems. arXiv:1512.08868 
+[math.DS]. Retrieved from http://arxiv.org/abs/1512.08868
+4. 
+Singh, V. P., Vijay, V., Ravindra, B., and Siddhartha, M. (2015). Impact of Trend and Seasonality in Forecasting of 5 
+MW PV Plant Generation using Single Exponential Smoothing Method. International Journal of Computer 
+Applications, Vol 130(1), 5–9. ISSN: 0975-8887. http://doi.org/10.5120/ijca2015906840
+Conference Papers
+1. 
+Bhati, A., Hiremath, K. R., and Dixit, V. (2015). Design and fabrication of wire based bandwidth enhanced 
+metamaterial absorber. In 2015 International Conference on Microwave and Photonics (ICMAP) (pp. 1–2). ISBN: 978-1-
+4673-6897-1. http://doi.org/10.1109/ICMAP.2015.7408766
+2. 
+Bhati, A., Hiremath, K. R., and Dixit, V. (2015). Design of wire based single/dual/triple band polarization insensitive 
+metamaterial absorber. In 2015 International Conference on Microwave and Photonics (ICMAP) (pp. 1–2). ISBN: 978-1-
+4673-6897-1. http://doi.org/10.1109/ICMAP.2015.7408767
+Book Chapters
+1. 
+Bhatnagar, G. (2015). Multimodal medical image fusion based on SUSAN feature in framelet domain. In C. T. Davis 
+(Ed.), Image Fusion: Principles, Technology and Applications (pp. 121–152). New York: Nova Science Publishers. ISBN: 
+978-1-63482-115-5.
+2. 
+Saha, A., Bhatnagar, G., and Wu, Q. M. J. (2015). Saliency based Framework for Thermal and Visual Image Fusion 
+(pp. 17-44). In C. T. Davis (Ed.), Image Fusion: Principles, Technology and Applications (pp. 17–44). New York: Nova 
+Science Publishers. ISBN: 978-1-63482-115-5.
+Journal Articles
+1. 
+Singla, Y. K., Chhibber, R., Avdesh, Goyal, S., and Sharma, V. (2016). Influence of single and dual particle 
+reinforcements on the corrosion behavior of aluminum alloy based composites. Proceedings of the Institution of 
+Mechanical Engineers, Part L: Journal of Materials Design and Applications. 1464420716638111. ISSN: 1464-4207. 
+http://doi.org/10.1177/1464420716638111
+2. 
+Singla, Y. K., Chhibber, R., and Dutta, B. K. (2016). Influence of Friction Welding Parameters on the Tensile Strength 
+of Bimetallic Weld Joints. MMU Journal of Management & Technology, Vol 1(1), 41–49. ISSN: 2455-4456. 
+http://journal.mmambala.org/wp-content/uploads/2016/02/Vol-1-Issue-1-PP-41-49.pdf
+3. 
+Sharma, B., Chhibber, R., and Mehta, R. (2016). Effect of surface treatment of nanoclay on the mechanical 
+properties of epoxy/glass fiber/clay nanocomposites. Composite Interfaces, 23(7), 523-40. ISSN: 0927-6440. 
+http://doi.org/10.1080/09276440.2016.1165522
+4. 
+Bhandari, D., Chhibber, R., Arora, N., and Mehta, R. (2016). Investigation of TiO2–SiO2–CaO–CaF2 based electrode 
+coatings on weld metal chemistry and mechanical behaviour of bimetallic welds. Journal of Manufacturing 
+Processes, Vol 23, 61–74. ISSN: 1526-6125. http://doi.org/10.1016/j.jmapro.2016.05.013
+5. 
+Saini, A., Chhibber, R., and Chattopadhyay, A. (2016). Effect of combined fatigue and hygrothermal loading on 
+structural properties of E-glass/polymers. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of 
+Mechanical Engineering Science. 0954406216644268. ISSN: 0954-4062. http://doi.org/10.1177/0954406216644268
+6. 
+Desai, K. A., and Rao, P. V. M. (2015). Machining of curved geometries with constant engagement tool paths. 
+Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture. 
+http://doi.org/10.1177/0954405415616787
+7. 
+Harsha, C. S., Prasanth, C. S. R., and Pratiher, B. (2016). Effect of Squeeze Film Damping and AC Actuation Voltage 
+on Pull-in Phenomenon of Electrostatically Actuated Microswitch. Procedia Engineering, Vol 144, 891–899. ISSN: 
+1877-7058. http://doi.org/10.1016/j.proeng.2016.05.108
+8. 
+Harsha, C. S., Prasanth, C. S., and Pratiher, B. (2016). Prediction of pull-in phenomena and structural stability 
+analysis 
+of 
+an 
+electrostatically 
+actuated 
+microswitch. 
+Acta 
+Mechanica, 
+1–18. 
+ISSN: 
+1619-6937.
+9. 
+Phadatare, H. P., and Pratiher, B. (2016). Nonlinear Frequencies and Unbalanced Response Analysis of High Speed 
+Rotor-Bearing 
+Systems. 
+Procedia 
+Engineering, 
+Vol 
+144, 
+801–809. 
+ISSN: 
+1877-7058.
+Book Chapters
+1. 
+Patidar, D., Pardeshi, R., Chandra, L., and Shekhar, R. (2016). Solar Convective Furnace for Heat Treatment of 
+Aluminium. In A. K. Saha, D. Das, R. Srivastava, P. K. Panigrahi, and K. Muralidhar (Eds.), Fluid Mechanics and Fluid 
+Power – Contemporary Research: Proceedings of the 5th International and 41st National Conference on FMFP 2014. 
+New Delhi: Springer India Pvt. Limited. ISBN: 9788132227410.
+
+2. 
+Singh, G., Saini, D., Chandra, L., and Shekhar, R. (2016). Design of a Cyclone Separator for Collection of Dust from 
+Volumetric Air Receiver. In A. K. Saha, D. Das, R. Srivastava, P. K. Panigrahi, and K. Muralidhar (Eds.), Fluid 
+Mechanics and Fluid Power – Contemporary Research: Proceedings of the 5th International and 41st National 
+Conference on FMFP 2014. New Delhi: Springer India Pvt. Limited. ISBN: 9788132227410.
+Journal Articles
+1. 
+Alok, A. K., Banerjee, S., Kumar, D., and Uma Sankar, S. (2016). Flavor signatures of isosinglet vector-like down 
+quark model. Nuclear Physics B, Vol 906, 321–341. http://doi.org/10.1016/j.nuclphysb.2016.03.012
+2. 
+Alok, A. K., Banerjee, S., and Uma Sankar, S. (2016). Quantum correlations in terms of neutrino oscillation 
+probabilities. Nuclear Physics B, Vol 909, 65–72. ISSN: 0550-3213. http://doi.org/10.1016/j.nuclphysb.2016.05.001
+3. 
+Alok, A. K., Kumar, D., Kumbhakar, S., and Sankar, S. U. (2016). D* polarization as a probe to discriminate new 
+physics in B --> D* tau nubar. arXiv:1606.03164 [Hep-Ex, Physics:hep-Ph]. http://arxiv.org/abs/1606.03164
+4. 
+Banerjee, S., Alok, A. K., Omkar, S., and Srikanth, R. (2016). Characterization of Unruh Channel in the context of 
+Open Quantum Systems. arXiv:1603.05450 [hep-Th, Physics:quant-Ph]. http://arxiv.org/abs/1603.05450
+5. 
+Banerjee, S., Alok, A. K., and MacKenzie, R. (2016). Quantum correlations in B and K meson systems. The European 
+Physical Journal Plus, Vol 131(5), 1–8. ISSN: 2190-5444. http://doi.org/10.1140/epjp/i2016-16129-0
+6. 
+Bhattacharya, S., Banerjee, S., and Pati, A. K. (2016). Effect of non-Markovianity on the dynamics of coherence, 
+concurrence and Fisher information. arXiv:1601.04742 [quant-Ph]. http://arxiv.org/abs/1601.04742
+7. 
+Dutta, S., Adhikari, B., and Banerjee, S. (2016). A graph theoretical approach to states and unitary operations. 
+Quantum Information Processing, Vol 15(5), 2193-2212, ISSN: 1573-1332. http://doi.org/10.1007/s11128-016-1250-y
+8. 
+Dutta, S., Adhikari, B., Banerjee, S., and Srikanth, R. (2016). Bipartite separability and non-local quantum 
+operations on graphs. Physical Review A. Vol 94, 012306 (2016), arXiv: 1601.07704
+9. 
+Omkar, S., Banerjee, S., Srikanth, R., and Alok, A. K. (2016). The Unruh effect interpreted as a quantum noise 
+channel. Quantum Information and Computation, Vol 16(9&10), 0757-0770, arXiv:1408.1477
+10. 
+Thapliyal, K., Banerjee, S., and Pathak, A. (2016). Tomograms for open quantum systems: In(finite) dimensional 
+optical 
+and 
+spin 
+systems. 
+Annals 
+of 
+Physics, 
+Vol 
+366, 
+148–167.ISSN: 
+0003-4916.
+11. 
+Goyal, R., Jha, R., Tiwari, B., Dixit, A., and Awana, V. P. S. (2016). Influence of Ni doping on critical parameters of 
+PdTe superconductor. arXiv:1605.04647 [Cond-Mat]. http://arxiv.org/abs/1605.04647
+12. 
+Saini, L., Janu, Y., Patra, M. K., Jani, R. K., Gupta, G. K., Dixit, A., and Vadera, S. R. (2016). Dual Band Resonance in 
+Tetragonal BaTiO3/NBR Composites for Microwave Absorption Applications. Journal of the American Ceramic 
+Society, n/a-n/a. ISSN: 1551-2916. http://doi.org/10.1111/jace.14284
+13. 
+Usmani, B., and Dixit, A. (2016). Spectrally selective response of ZrOx/ZrC–ZrN/Zr absorber–reflector tandem 
+structures on stainless steel and copper substrates for high temperature solar thermal applications. Solar Energy, 
+Vol 134, 353–365. ISSN: 0038-092X. http://doi.org/10.1016/j.solener.2016.05.014
+14. 
+Vyas, G., Dagar, P., and Sahu, S. (2016). A complementary switching mechanism for organic memory devices to 
+regulate the conductance of binary states. Applied Physics Letters, Vol 108(23), 233301. ISSN: 1077-3118. 
+http://doi.org/10.1063/1.4953197
+15. 
+Sharma, V., Thapliyal, K., Pathak, A. and Banerjee, S. (2016). A comparative study of protocols for secure 
+quantum communication under noisy environment: single-qubit-based protocols versus entangled-state-
+based protocols, Quantum Information Processing, 1-30, DOI 10.1007/s11128-0016-1396-7, arXiv:1603.00178
+16. 
+Omkar, S., Srikanth, R., Banerjee, S. and Shaji, A. (2016). The two-qubit amplitude damping channel: 
+characterization using quantum stabilizer codes. Annals of Physics, Vol 373, 145-62. arXiv:1511.03368
+Conference Papers
+1. 
+Gupta, G. K., and Dixit, A. (2016). Room temperature electrical properties of solution derived p-type Cu2ZnSnS4 
+thin films. In AIP Conference Proceedings (Vol. 1728, p. 20678). AIP Publishing. ISBN: 978-0-7354-1375-7. 
+http://doi.org/10.1063/1.4946729
+2. 
+Kumar, R., Dixit, A., Chandra, L., Vyas, S., and Kumar, R. (2016). An experimental set-up for measuring 
+thermodynamic response of low temperature phase change materials. In 2016 IEEE First International Conference on 
+Control, 
+Measurement 
+and 
+Instrumentation 
+(CMI) 
+(pp. 
+107–109). 
+ISBN: 
+9781479917693.
+3. 
+Kumar, R., Kumar, R., and Dixit, A. (2016). Thermal phase diagram of acetamide-benzoic acid and benzoic acid-
+phthalimide binary systems for solar thermal applications. In AIP Conference Proceedings (Vol. 1728, p. 20687). AIP 
+Publishing. ISSN: 978-0-7354-1375-7. http://doi.org/10.1063/1.4946738
+
+4. 
+Kumar, R., Vyas, S., Kumar, R., and Dixit, A. (2016). Charging studies of heat packs using parabolic dish solar energy 
+concentrator for extreme conditions. In V. Rajpaul & C. Richter (ed.), 21st SolarPACES International Conference 
+(SolarPACES 2015) (Vol. 1734, p. 50027). American Institute of Physics, Cape Town, South Africa. ISBN: 978-0-7354-
+1386-3. http://doi.org/10.1063/1.4949125
+Awards & Recognitions
+Rakesh K. Sharma's research placed on cover of ChemCatChem, May 2016
+The cover shows the interface between the traditional and scientific applications of clay. In their
+communication, V. K. Soni and R. K. Sharma show the smart utilization of clay as a heterogeneous catalyst by nanometal 
+intercalation for the selective hydrogenation of squalene into squalane under solvent free conditions. Squalane is an 
+important ingredient in the cosmetic, nutraceutical, and pharmaceutical industries. Also, it has been used as a model 
+compound for the hydrocracking of crude and microalgae oil. Thus, a series of green catalysts were prepared. The Pd-
+nanoparticles-intercalated clay with a dominating Pd(111) facet shows highest reactivity and selectivity. The catalyst is 
+stable with very low Pd leaching, and is recyclable without losing any significant catalytic activity. More information can 
+be found in the communication by V. K. Soni and R. K. Sharma on page 1763 in Volume 8, Issue 10, 
+2016 (DOI:10.1002/cctc.201600210).
+Sushmita Jha’s research placed on cover of Cellular and Molecular Life Sciences, May 2016
+From the research paper “NLR-regulated pathways in cancer: opportunities and obstacles for therapeutic
+interventions” authored by Sushmita Jha, Assistant Professor, Department of Biology and Nidhi Sharma, Ph.D. Student, 
+Department of Biology, which was published in the May 2016 issue of Cellular and Molecular Life Sciences, published by 
+Springer Verlag, the figure depicting the “Summary of NLR inflammasome complex formation (Fig. 2)” has been placed 
+as the cover art on the journal issue. NLRs (nucleotide-binding domain, leucine-rich repeat containing receptors) are 
+pattern recognition receptors associated with immunity and inflammation in response to endogenous and exogenous 
+pathogen and damage associated molecular patterns (PAMPs and DAMPs respectively). Dysregulated NLR function is 
+associated with several diseases including cancers, metabolic diseases, autoimmune disorders and autoinflammatory 
+syndromes. In the last decade, distinct cell and organ specific roles for NLRs have been identified however; their roles in 
+cancer initiation, development and progression remain controversial. This review summarizes the emerging role of NLRs 
+in cancer and their possible future as targets for cancer therapeutics. Full article can be read at doi:10.1007/s00018-015-
+2123-8.
+IEEE Senior Member Grade Elevation to S. P. Tiwari
+Shree Prakash Tiwari, Assistant Professor, Department of Electrical Engineering, has been elevated as Senior
+Member of the Institute of Electrical and Electronics Engineers (IEEE) in honour of his contributions to the profession.
+
+Fellowships
+Vidya Sarveswaran, Assistant Professor, Department of Humanities & Social Sciences, was awarded the 2016
+Rachel Carson Fellowship, by Rachel Carson Center for Environment and Society at the Ludwig Maxmillian University, 
+Munich. The Research Fellowship is supported by the Deutches Museum and the Government of Germany.
+STUDENTS
+Activities & Achievements
+IGNUS 2016
+IGNUS, the techno-cultural student festival of IIT Jodhpur was celebrated during 25-28 February 2016. The
+festival was opened by famous Sitar player Shujaat Khan on 25 February 2016 with collaboration of SPICMacay. 
+Robosoccer, Nrityansh, Clash of Bands, Robowar, Antarang, and IGNUS Open 2016 were the flagship events organised 
+during this fest. Workshops on Android App Development, Bridge Designing, Augmented Reality, Vehicle Overhauling, 
+Ethical Hacking, Embedded System, Entrepreneurship, Data Science & machine Learning, Serial & Wireless 
+Communication, Placement Etiquettes, and Quadcopter also were organized during this event. Famous singer 
+Krishnakumar Kunnath (popularly known as KK) performed during the pronite.
+Also, an Alumni Meet was organized on 27 February 2016. Professor Prawal Sinha, Professor In-charge (Faculty),
+IIT Jodhpur, Anand Krishnan Plappally, Faculty In-charge, Alumni Relations Committee, IIT Jodhpur, and Damayanti 
+Bhattacharya, CEO, IIT Bombay Alumni Association, addressed the Alumni of IIT Jodhpur.
+Technical Events during IGNUS 2016
+Cultural Events during IGNUS 2016
+“Framed 2016” Art Exhibition
+“Framed” is the annual Art Exhibition of IIT Jodhpur conducted by the Media, Arts and Design Society of the
+Students Gymkhana, IIT Jodhpur. The main motive of ‘Framed’ is to promote and showcase the artwork done by the 
+students of IIT Jodhpur throughout the year. This year it was organised on 13 March 2016, in the Institute. It included the 
+Photography, Photo Editing, Posters designed by Students, and Sketches & Paintings made by the Students. For the first 
+time, this event was opened for people outside of the Institute. There were entries from all over the country. The 
+exhibition recorded a considerable footfall from students of other colleges and local public of Jodhpur. Mr. Ravi 
+Dhingra, Canon Photo Mentor, who has been a judge in many national level competitions, was Chief Guest for the event.
+Spectators musing the art work
+Felicitating Mr. Ravi Dhingra, Canon Photo Mentor
+Other Events
+Hindi Kavi Sammelan and Mashaira was organized by the Literature Club, Students Gymkhana, IIT Jodhpur on 16
+April 2016 at the GPRA Residential Campus of IIT Jodhpur.
+As an event of Varchas, the Sports Festival of IIT Jodhpur, the Students’ Gymkhana in coordination with the
+Jodhpur Development Authority (JDA), organized a Mini Marathon in the city of Jodhpur on 17 April 2016. Theme of the 
+marathon was “Run for Smart & Swach Jodhpur”.
+
+Scholarships to Students
+Eight III Year B.Tech. students received academic scholarships for Summer 2016. These were:
+1. 
+Deutscher Akademischer Austauschdienst (German Academic Exchange Service) Working Internships in Science and 
+Engineering DAAD WISE for 3 Months (from May to July, 2016)
+1. Abhishek Jaju (Electrical Engineering), 
+2. Arnav Jindal (Computer Science & Engineering), 
+3. Ashutosh Gupta (Electrical Engineering), 
+4. Nithin Venkatesh (Computer Science), 
+5. Hardik Jain (Mechanical Engineering), 
+6. Prakhar Srivastava (Electrical Engineering), and 
+7. Sangram Gaikwad (System Science).
+2. 
+S. N. Bose Scholars Program of DST and the Indo-US Science and Technology Forum (IUSSTF) for 3 Months (from 
+May to July, 2016)
+1. V. Ashwin (Electrical Engineering)
+Placement News
+This year (2015-16) engineering, information & communication technology, and banking sector, government and
+public sector organizations visited IIT Jodhpur for placements. 90 Undergraduate and 6 Post Graduate students were 
+placed with different companies. Major recruiters were C42 Engineering India Pvt. Ltd., Coal India Ltd., Cognizant 
+Systems, D.E. Shaw India Software Pvt. Ltd., HCL Technologies, HPCL, JSW Energy Ltd., Larsen and Toubro Limited, 
+Mahindra & Mahindra Ltd., Maxheap Technologies Pvt. Ltd., Morgan Stanley, National Engineering Industries, Samsung 
+India Software Center (SISC), SteelWedge Technologies Pvt. Ltd., Tata Consultancy Services, and Voylla Fashions Pvt. 
+Ltd..
+Hearty Congratulations!!
+Student Gymkhana
+The Student Gymkhana of IIT Jodhpur, has five “Societies”, and in turn each society has several clubs. These
+societies, under the leadership of their respective “Secretaries” fulfil the varied interests of the students and contribute 
+to their holistic development. The term of these office bearers is for the academic year. With Pankaj Yadav as the 
+General Secretary of the Student Gymkhana, the students were elected on 10 April 2016 to serve for the academic year 
+2016-17:
+1. 
+Vijay Paliwal 
+Secretary, Academic, Research and Management (ARM) Society
+2. 
+Yasharth Sahu 
+Secretary, Media, Arts and Design (MAD) Society
+3. 
+Vivek 
+Secretary, Nurturing-Understanding Technology and Science (NUTS) Society
+4. 
+Himanshu 
+Secretary, Sports, Adventures, Games and Explorations (SAGE) Society
+5. 
+Mansi Mittal 
+Secretary, Writing, Awareness, Vocals, Entertainment, Social (WAVES) Society
+IIT Jodhpur Counselling Service
+Yellow Day Celebrations
+“Yellow is the best colour to create enthusiasm for life and can awaken greater confidence and optimism”. As
+we get engrossed in our mundane routines, we forget to take a break and enjoy the little things in our life. What is 
+needed is a moment when we stop and appreciate all the awesome things around us. With this motive, the Student 
+Counselling Service of IIT Jodhpur initiated a tradition this year to dedicate one day i.e., 12 February, to appreciate the 
+good things in our life. On this day, all members of IIT Jodhpur Community were requested to wear clothes in the shades 
+of yellow and join for a get together in the lawns of the Academic Campus. The team had put up yellow chart papers for 
+the members to record their thoughts on “What makes you smile”. The event was attended by the Students, Faculty 
+Memebrs and Staff Members of the Institute.
+Faculty Members greeting each other in yellow attires
+Recording thoughts on “What makes you smile?”
+
+Name Designation Department / Area of Work Date of Joining
+World Health Day
+World Health Day was celebrated in the Institute on 7 April 2016. Student Counselling Service of IIT Jodhpur
+organized Health Checkup of all Students, Faculty and Staff Members. Also, informal games were also organized to 
+make the event interesting.
+Faculty and Staff Members, and Students participating in informal games on World Health Day, 7 April 2016
+NEW JOININGS
+IIT Jodhpur welcomes the following new Faculty Members and Staff Members into the family:
+Navratan Mal Bhandari 
+Visiting Professor 
+Research & Development 
+1 January 2016
+Prawal Sinha 
+Professor 
+Mathematics & Faculty 
+8 February 2016
+Arita Banik 
+Assistant Professor 
+Department of Computer Science & Engineering 
+7 March 2016
+Rajlaxmi Chouhan 
+Assistant Professor 
+Department of Electrical Engineering 
+23 May 2016
+Sushmita Paul 
+Assistant Professor 
+Department of Biology 
+23 May 2016
+Mayurakshi Chaudhury 
+Assistant Professor 
+Department of Humanities & Social Sciences 
+6 June 2016
+Ashok Kumar Khanduri 
+Deputy Registrar 
+Academics, Infrastructure Management, Stores & 
+Purchase , and Students
+17 May 2016
+Trilotama Singh 
+Junior Assistant 
+Administration 
+30 December 2015
+PERMANENT CAMPUS
+67th Republic Day Celebration
+Flag Hoisting in Permanent Campus
+The 67th Republic Day of the nation was celebrated by the members of IIT Jodhpur
+Community, on 26 January 2016 on the Permanent Campus in Karwad Village. The Director 
+hoisted the National Flag, and the National Anthem was patriotically recited by all present.
+Students presented their thoughts on the importance of Republic Day, urgent
+need to curb the societal ills and working towards technology-driven societal advancement 
+in India. Then, Students presented a cultural show with a musical performance by Sangam 
+(the music band of students) and a street play by Nukkad (the drama group of students). 
+The General Secretary of Student Gymkhana, IIT Jodhpur, proposed a Vote of Thanks. 
+Thereafter, music, drawing and musical chairs competitions were organized for the 
+children of IIT Jodhpur employees, and prizes were given to the winners.
+A visit was arranged to the ongoing construction site of various buildings in the
+Permanent Campus of IIT Jodhpur. Students, Staff Members and Faculty Members, 
+present for on the occasion, visited the site. The program was followed by lunch. Earlier in 
+the morning, the National Flag was hoisted at the Academic Campus, and the GPRA and 
+BSNL Residential Campuses.
+
+Tree Plantation in Permanent Campus of IIT Jodhpur
+Tree plantation activity was undertaken at the Permanent Campus of IIT Jodhpur in Karwad on 21 February 2016.
+Around 900 neem saplings were planted jointly by the members of the IIT Jodhpur community and the Jodhpur Tree 
+Plantation and Environment Protection Committee (JTPEPC), led by Sri M. S. Singhvi, Senior Advocate, (High Court of 
+Rajasthan, Jodhpur) in the presence of Honourable Justice Sandeep Mehta, (Sitting Judge, High Court of Rajasthan, 
+Jodhpur) and distinguished members of JTPEPC. The event was attended by Faculty Members, Staff Members, and 
+Students of IIT Jodhpur, and 20 Advocates of High Court of Rajasthan, Jodhpur.
+Tree plantation by Srimati. & Sri. M. S. Singhvi
+Tree plantation by Professor & Srimati Prawal Sinha
+Tree plantation by Professor N. M. Bhandari
+Tree plantation by Staff Members of IIT Jodhpur
+2nd International Day of Yoga @ IIT Jodhpur
+The Second International Day of Yoga was celebrated on 21 June 2016 at GPRA Residential Campus of IIT
+Jodhpur. Faculty Members, Staff Members and Students actively participated in the event.
+Chairman, Health Services, IIT Jodhpur introducing the program
+Faculty and Staff Members of IIT Jodhpur doing Yoga
+Yoga Instructors demonstrating to the participants
+The participants and instructors at Porta Cabin, GPRA Residential Campus, IIT
+Jodhpur
+
+OUTREACH
+Extra Mural Lectures
+Professor Amitabha Ghosh, Platinum Jubilee Senior Scientist, The National Academy of Sciences,
+India, and Former Director of IIT Kharagpur, delivered a lecture on “Gravitation Inertia and the Universe: 
+The amazing consequences of a relook into the Newton’s laws” on 1 February 2016.
+Special Lecture
+A special public lecture was delivered by Jerry M. Hultin, Chairman, Board of Directors, and Co-
+Founder, Global Futures Group, USA, on “REBUILDING CITIES: A holistic approach” on 9 February 2016. 
+Jerry Hultin also served as the 15th President of the Polytechnic Institute of New York University.
+Distinguished Lecture
+A distinguished lecture on “The Development of Temple Architecture in India” was delivered by Dr.
+Chithra Madhavan, a renowned archaeologist and historian on 29 January 2016.
+Vanguard Lectures
+Professor Navneet Arora, Professor, Department of Mechanical and Industrial Engineering, Indian
+Institute of Technology Roorkee, delivered a lecture on “Excellence in Engineering and Expectations from 
+an Engineer” on 07 January 2016.
+Mr. Anil Bhansali, MD, Microsoft India (R&D) Private Limited and General Manager,
+Cloud & Enterprise, Microsoft India Development Center, and Mr. Prashant Gupta, Director in 
+Microsoft Cloud & Enterprise Division, Microsoft India Development Center, spoke on 
+“Advanced Analytics and Machine Learning on Cloud – Creating impact for Education, 
+Healthcare and other domains” on 25 January 2016.
+Anil Bhansali
+Prashant Gupta
+Professor Amitabha Ghosh, Platinum Jubilee Senior Scientist, The National Academy of Sciences,
+India, and Former Director of IIT Kharagpur, delivered a lecture on “Conceptual Evolution of Newtonian 
+Mechanics & The Little Known Story of F=ma” on 4 February 2016.
+Professor Raghunath K. Shevgaonkar, Professor, Indian Institute of Technology Bombay, and
+Former Director, Indian Institute of Technology Delhi, delivered a lecture on “Electromagnetic Theory” on 
+22 February 2016.
+GIAN Program
+1. 
+The Third Course under GIAN Program on “Fundamentals of Applied Vehicle Dynamics and 
+Chassis Systems” was organized at IIT Jodhpur during 12-23 January 2016. Professor B. 
+Ravindra (IIT Jodhpur) and Professor Raghu Echempati (Kettering University) were the 
+resource persons.
+B. Ravindra 
+R. Echempati
+2. 
+The Fourth Course under GIAN Program on “Advanced Digital VLSI Circuit Design” was 
+organized at IIT Jodhpur during 7-18 March 2016. Professor Suresh Gundapaneni (IIT 
+Jodhpur) and Professor Manoj Sachdev (University of Waterloo, Canada) were the resource 
+persons.
+Suresh, G. 
+M. Sachdev
+Conferences 
+1. National Conference on Solar Thermal Energy Technologies was organized during 26-28 February 2016 at IIT Jodhpur.
+Technical Co-Sponsor was Ministry of New and Renewable Energy, Government of India.
+2. National Conference on Semiconductor Materials and Devices was jointly organized by IIT Jodhpur, Defence Lab
+Jodhpur, and Semiconductor Society of India at IIT Jodhpur during 4-6 March 2016.
+Undergraduate Research Initiative
+The Undergraduate Research Initiative (UGRI) Program of IIT Jodhpur provides an effective platform to the
+students to engage in research with Faculty Members of the Institute. Also, students can get a chance to develop 
+valuable mentorship through the guidance of experienced Faculty Members of the Institute.
+
+In 2016, 23 students were selected from a large pool of applicants, on the basis of the merit of the proposal
+submitted. The program was organized from 16 May to 15 July, 2016. During the program, a remuneration of Rs. 8,000 
+per month, was given as stipend to the participating students, along with an amount upto Rs. 1,000 for preparing 
+posters and reports.
+Participants of UGRI 2016 with the Barun Pratiher, Faculty Member In charge, UGRI 2016
+WOMEN CELL @ IITJ
+Celebration of 2016 International Women’s Day
+2016 International Women’s Day was celebrated at the Indian Institute of Technology Jodhpur on 8 March 2016.
+The program was organized by Women’s Cell, IIT Jodhpur. Honourable Justice Jaishree Thakur, Sitting Judge of 
+Rajasthan High Court, Jodhpur, graced the occasion as the Chief Guest and delivered the keynote address.
+The Women’s Cell, IIT Jodhpur, organized Logo Design and Slogan Writing Competitions for their Students and
+Employees, before the day. During this program, Prizes and Certificates of Appreciation were given away to the Winners 
+and Runners up. A memento was presented to the Chief Guest. On this day, the Women’s Cell, IIT Jodhpur adopted an 
+official logo and a slogan, which was released by the Chief Guest. They were the prize winning contributions from the 
+Logo Design and Slogan Writing Competitions organized by the Women’s Cell, IIT Jodhpur. Thereafter, a short video 
+was screened on “Contribution of Women”. The event concluded with a visit to the exhibition of the entries received in 
+Logo Design and Slogan Writing Competitions organized for the occasion.
+Honourable Justice Jaishree Thakur, Chief Guest, addressing the gathering
+Releasing Logo and Slogan for the Women Cell
+Members of the Women Cell, IIT Jodhpur
+Exhibition of the Logo Design & Slogan Writing Competition
+Workshop on “Gender Intelligence”
+The Women Cell of the Institute organized a workshop on “Gender Intelligence” during 5-7 May 2016, for all
+employees of IIT Jodhpur. The workshop was conducted by Ms. Rashmi Datt and Ms. Mona Dutta from Dialog Services, 
+Gurgaon. The first part of the workshop focused on assertive training aspect for women, which was attended by all 
+women employees of the Institute. The second part of the workshop was for both men and women employees. The 
+workshop was attended by the Faculty Members and Staff Members, including Members of Women Cell.
+
+Workshop on “Gender Intelligence” Part 1 - Assertive training session for
+women
+Workshop on “Gender Intelligence” Part 2 – Session on Prevention of Sexual
+Harassment (PoSH)
+Participants of the Workshop on “Gender Intelligence” with Resource Persons
+Other Events
+A lecture on Recruitment Rules was organized in the Institute on 11 May 2016. Shri S. S. Nair, Deputy Secretary
+(Retd.), Government of India, who had several years of experience in dealing with the Recruitment Rules Division of the 
+UPSC, spoke on the topic, interacted with the audience and addressed their queries. All Staff Members of the Institute 
+attended the event.
+DEPARTMENT IN FOCUS – Computer Science & Engineering
+The primary objective of the Department of Computer Science and Engineering is to impart quality education in
+the field of Computer Science. The department’s vision is:
+1. To expand its depth and breadth in the research and study of core Computer Science and Engineering; and 
+2. To continually improve teaching and research environments towards creation of valuable technical human
+3. To establish strong industry – academia partnership to augment classroom discussions with practical hands-on
+The Department is currently offering Bachelor of Technology (B.Tech.) Program with the aim to develop core
+competence in Computer Science and Engineering among the students, and to prepare them to carry out research and 
+development work. Every year, 40 students are admitted to the Program through the Joint Entrance Examination 
+(Advanced). Currently, the graduated of the Program are placed in reputed industries within India and undergoing 
+higher studies in reputed institutes and universities in India and abroad.
+The Department has research interests in the areas of Computer Science and Engineering. Also, it offers the
+Doctor of Philosophy (Ph.D.) program is offered with the goal of producing state-of-the art researchers. Ph.D. students 
+are working in the areas of video analytics, image understanding, cloud computing, document analysis, and internet of 
+things. Presently, the Department has 10 Ph.D. Students. To strengthen its core competence, the Department is also 
+looking for new Faculty Members in all areas of Computer Science and Engineering. Prospective candidates are 
+encouraged to visit our recruitment page to know more about the procedure: http://iitj.ac.in/faculty/facultypositions.
+
+Name of the Faculty Member Designation Research Area
+Editorial Board
+Deepakkumar M. Fulwani, Coordinator (Faculty)
+Atul Kumar, Coordinator (Academics)
+V. Narayanan, Coordinator (R&D)
+V. Hari Narayanan, Coordinator (Students)
+Amardeep Sharma, Deputy Registrar
+Kshema Prakash, Deputy Librarian IIT Jodhpur Newsletter
+Vol. 02 (1-2)
+JANUARY-JUNE 2016 Editor
+Kshema Prakash, Deputy Librarian
+Indian Institute of Technology Jodhpur
+Old Residency Road, Ratanada
+Jodhpur 342011
+eMail: publications@iitj.ac.in
+www.iitj.ac.in
+Also, the Department is keen to collaborate with
+industry and academia. At present, research projects are 
+underway with All India Institute of Medical Science (AIIMS), 
+Jodhpur, and Department of Science and Technology, 
+Government of India. Moreover, the Department is in close 
+contact with industry leaders, like Microsoft, IBM, Intel, and 
+TCS. In the near future, the Department is planning to move 
+towards Outcome Based Education (OBE) along with a strong 
+industry-academia partnership.
+People
+The Department has four regular Faculty Members and two Adjunct Faculty Members working in different areas.
+Venkata Ramana Badarla 
+Assistant Professor & Head 
+Wireless Networks and Cloud Computing
+Gaurav Harit 
+Assistant Professor 
+Image and Video Analysis
+Chiranjoy Chattopadhyay 
+Assistant Professor 
+Computer Vision
+Aritra Banik 
+Assistant Professor 
+Computational Geometry
+Venkatesh Raman 
+Professor, The Institute for 
+Mathematical Sciences, Chennai
+Parameterized Complexity and Exact Exponential, 
+Time Algorithms, Succinct (Space Efficient) Data 
+Structures, Algorithms for satisfiability, and Sorting 
+and Selection and related problems
+Manindra K. Agarwal 
+Professor, IIT Kanpur 
+Complexity Theory, and Computational Number 
+Theory
+The department has six Technical Staff Members working in automation and networking areas.
+Infrastructure
+Currently, the Department has two laboratories, namely Multimedia Laboratory, and Networking Technologies
+Laboratory, used extensively in teaching and research.
+Collaboration
+The department is committed towards improving the Institute’s outreach through all the stages of technology
+development, starting from conceptualization to commercialization, and thereby striving towards creation of 
+knowledge in specialized domains. The Department’s mission is to develop strong and sustainable partnerships with 
+research laboratories, academic institutions, industry, and entrepreneurs to meet the aspirations of the Faculty 
+Members and Students.
+The Department is looking forward to work on problems that throw up an intellectual challenge and have
+practical, impactful applications. Along with this technology development initiatives, exploration of an idea related to 
+process and design improvement is of considerable interest. The Department is seeking such partnerships, which 
+recognise and capitalize on the relative strengths of the academia and industry. To achieve these goals, the Department 
+is focusing on:
+1. Development of strong industry collaborative in research, and specialized human resource development; 
+2. Identifying and protecting intellectual property; and 
+3. 
+Developing and nurturing international linkages for research and development.
+Outreach
+The Department organized six departmental seminars, two special lectures and a lecture series on Machine
+Learning by industry experts, during January – June 2016.
+Copyright © 2016, Indian Institute of Technology Jodhpur (www.iitj.ac.in). All rights reserved.

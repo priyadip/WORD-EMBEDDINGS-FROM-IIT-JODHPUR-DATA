@@ -1,0 +1,906 @@
+SOURCE_PDF: e9665e05ee30_bc298e0d-b5b2-482e-8486-c38473569483.pdf
+
+Indian Institute of Technology Jodhpur
+SENATE
+Minutes of
+35th Meeting
+Senate Room, IIT Jodhpur
+
+This page is left blank, intentionally
+
+2 Prof. S.R. Vadera, Deputy Director, IIT Jodhpur Deputy Director, Ex-officio
+3 Dr. Sanjeev Misra, Vice Chancellor,
+Atal Bihari Vajpayee Medical University, Lucknow
+(U.P.) and Former Director, AIIMS Jodhpur Three persons, not being employees
+of the Institute, to be nominated by
+the Chairman in consultation with
+the Director, from among
+educationists of repute, one each
+from the fields of science,
+e n g i neering and humanities; and
+4 Prof. H.P. Khincha, Chairman,
+Karnataka State Innovation Council, Bangalore
+5 Prof. Purnima Singh,
+Department of Humanities & Social Sciences
+IIT Delhi
+6 Prof. Neeraj Jain, Deptt. Of BB The professors appointed or
+recognized as such by the Institute
+for the purpose of imparting
+instruction in the Institute.
+7 Prof. Mitali Mukerji, Deptt. Of BB
+8 Prof. Ajay Agarwal, Deptt. of EE
+9 Prof. Somitra K. Sanadhya, CS&E
+10 Prof. Sangeeta Sahney, SME
+11 Prof. Anil Kumar Tiwari, EE
+12 Prof. Ananya Debnath, Chemistry
+13 Prof. Samanwita Pal, Chemistry
+14 Prof. Atul Kumar, Chemistry
+15 Prof. Kaushal A. Desai, ME
+16 Prof. Rahul Chibber, ME
+17 Prof. Suril Shah, ME
+18 Prof. Ram Prakash, Physics
+19 Prof. Subhashish Banerjee, Physics
+20 Prof. Ambesh Dixit, Physics
+21 Prof. Ashutosh Kumar Alok, Physics
+22 Prof. Gaurav Harit, CS&E
+23 Prof. Amit Mishra, BSBE
+24 Prof. Sushmita Jha, BSBE
+25 Prof. Meenu Chhabra, BSBE
+26 Prof. Ankita Sharma, SoLA
+The following members were present:
+
+28 Prof. Surajit Ghosh, Dean (International
+Relations, Alumni Relations and Corporate
+Relations)
+29 Prof. Somitra K. Sanadhya, Dean (Digital
+Transformation)
+30 Prof. Atul Kumar, Dean (Academics)
+31 Prof. Ankita Sharma, Dean (Student Affairs)
+32 Prof. Ram Prakash,Dean (Infrastructure)
+33 Prof. Kaushal Desai, Dean (PRG, IITJ Connect &
+Executive Education)
+34 Prof. Mitali Mukerji, Department of Bioscience
+and Bioengineering Heads of the Departments or Schools
+as may be established by the
+Institute.
+35 Prof. P.K. Tewari, Department of Chemical
+Engineering
+36 Dr. Ramesh K. Metre, Department of Chemistry
+37 Prof. Gaurav Harit, Department of Computer
+Science & Engineering
+38 Prof. Ajay Agarwal, Department of Electrical
+Engineering
+39 Dr. V.V. M.S. Chandramouli, Department of
+Mathematics
+40 Prof. Suril V. Shah, Department of Mechanical
+Engineering
+41 Dr. K.R. Ravi, Department of Metallurgical &
+Materials Engineering
+42 Prof. Ashutosh Kumar Alok, Department of
+Physics
+43 Prof. Subhasish Dey, Department of Civil &
+Infrastructure Engineering
+44 Prof. Sangeeta Sahney, School of Management
+& Entrepreneurship (SME)
+45 Prof. Neeraj Jain, School of Artificial
+Intelligence & Data Science (AIDE)
+46 Prof. Meenu Chhabra, Centre for Emerging
+Technologies for Sustainable Development
+47 Dr. Krishna K Balaraman, Centre for Technology
+Foresight & Policy
+48 Dr. S.C. Bose, Inter-Disciplinary Research
+Platform (IDRP)
+49 Prof. Amitava Mitra, Center for Research &
+Development of Scientific Instruments
+50 Prof. Prodyut R. Chakraborty, Rishabh Center
+for Research and Innovation in Clean Energy
+
+52 Dr. Angan Sengupta, Associate, Professor
+Department of Chemical Engineering
+53 Dr. Dibyendu Kumar Sasmal, Department of
+Chemistry
+54 Dr. Debanjan Guha Roy, AD (PRG), Department
+of Civil & Infrastructure Engg.
+55 Dr. Abhishek Sarkar, AD (Student Affairs)
+Department of Mathematics
+56 Dr. Suchetana Chakraborty, AD (R&D),
+Department of Computer Science & Engineering
+57 Dr. Abir Bhattacharyya, Associate Professor,
+Department of Metallurgical & Materials
+Engineering
+58 Dr. S.C. Bose, Head (IDRP), Chairperson,
+IRC_IDRP
+59 Dr. Venkatesha Murthy R, Associate Professor,
+School of Management & Entrepreneurship
+60 Dr. Dipanjan Roy, Associate Professor, School of
+Artificial Intelligence & Data Science
+61 Prof. Ankita Sharma, Dean (Student Affairs),
+School of Liberal Arts
+62 Prof. C. Venketesan, Professor-in-charge
+(Faculty) Special Invitees
+63 Dr. Somnath Ghosh
+Faculty-in-charge (Curriculum Implementation)
+64 Dr. Manish Narwaria
+Associate Dean (Academics)
+65 Sh. P.G. Basak, Advisor (Administration)
+66 General Secretary, ACAC Upto five student representatives
+nominated by the Chairman of the
+Senate, as special invitees, for a
+period of one year whose
+participation shall be for the non-
+evaluation items of the Senate.
+67 General Secretary, Student Senate
+68 Vice President, Board of Academic Interaction
+69 Dr. Somnath Ghosh, Offg. Registrar Secretary to the Senate
+1 Prof. Surajit Ghosh, Deptt. of BB, Dean (IR, AR and CR)
+2 Prof. Mayank Vatsa, Deptt. of CS&E
+3 Prof. Richa Singh, Deptt. of CS&E
+4 Prof. Bharat Singh Rajpurohit, EE
+5 Prof. Mahesh Kumar, EE
+
+6 Prof. Manikandan Paranjothy, Chemistry
+7 Prof. Rakesh Kumar Sharma, Chemistry
+8 Prof. Anand Krishnan Plappally, ME
+9 Prof. Prodyut Ranjan Chakraborty, ME
+10 Prof. Deepakkumar M. Fulwani, EE, AD (Faculty Affairs)
+11 Prof. Shree Prakash Tiwari, EE
+12 Dr. Manish Gupta, Director Google Research India
+13 Dr. Souvik Bhattacharyya, Former Vice Chancellor BITS, Pilani
+14 Dr. Farhat Naz, School of Liberal Arts
+15 Dr. Ankur Gupta, AD (IRO)
+16 Dr. Satyajit Sahu, Associate Professor
+17 Prof. Bijnan Bandyopadhyay, Head, Center for Education and Technology for Education
+S.No. Items
+35.1 Welcome by the Chairman, Senate
+The following are the recommendations of the Senate:
+
+35.1.1 Confirmation of Minutes of the 34th Meeting of the Senate held on 24th June,
+2023
+35.1.2 Report on Action Taken on decisions of the 34th Meeting of the Senate held on
+24th June, 2023
+Item Discussion Item Senate Recommendation
+34.2.1 Proposal of a new certificate Under progress
+34.2.2 Proposal for New M. Tech.
+Programme in Quantum
+Technologies Implemented; Development of detailed
+course content is under process and will
+be presents in next Senate meeting
+34.2.3 Course curriculum for Master
+program in XR Design Implemented; A detailed course
+curriculum will be placed in the ensuing
+Senate meeting
+34.6.1 Recommendation for
+conferment of Honoris Causa
+Doctorate to the Eminent
+Personalities for their
+exceptional contributions The proposal was placed before BoG in
+its 33rd meeting held on 28 June 2023
+and after approval the proposal for
+conferment of Honoris Causa Doctorate
+Degree to Eminent Personalities with
+
+35.2 Discussion Items
+35.2.1 Proposal for M. Tech., Post Graduate Diploma and Certifications in Data
+Engineering, from the School of Artificial Intelligence and Data Science.
+35.2.2 Proposals for New Courses and specialization from various
+Departments/Schools/Centres
+Particulars Department/
+IDRP/School/
+Center Annexure AP 35-4 Recommendation
+Proposal of
+new courses Center for
+Emerging
+Technologies
+for
+Sustainable
+development 1. Corporate
+Social
+Responsibility and
+Sustainable
+Development
+Goals, Offered as
+elective of 700 lfor
+B. Tech (Final),
+MSc, M. Tech,
+PhD, Structure L-
+T-P [C] 3-0-0 (3) The 4 courses of the Center
+for Emerging Technologies for
+Sustainable development were
+presented by the Head,
+CETSD.
+The Senate advised the major
+changed in the course as
+under:
+(a) Linking of CSR and SDG is
+not reflected in the
+content;
+(b) A connection between
+
+Proposal of
+new courses Center for
+Emerging
+Technologies
+for
+Sustainable
+development 2. Appropriate
+Technologies for
+Rural Sanitation
+offered as elective
+of 700 level for B.
+Tech (Final), MSc,
+M. Tech, PhD,
+Structure L-T-P [C]
+3-0-0 (3) Senate advised the major
+changed on the Appropriate
+Technologies for Rural
+Sanitation-
+(a) Modules 2 and 3 can have
+more number of lectures to
+accommodate discussions
+on technological
+components; and
+(b) Design component and
+engineering challenge
+related to emerging
+technology can be added in
+the course
+Proposal of
+new courses Center for
+Emerging
+Technologies
+for
+Sustainable
+development 3. Water Basics
+offered as elective
+of 700 level for
+B.Tech, M.Sc., MS,
+M.Tech, M.Tech-
+Ph.D., Ph.D.,
+Structure L-T-P [C]
+3-0-0 (3) In the course Water Basics,
+the Senate advised that
+(a) Course must have the
+academic rigorous and
+should not be a social
+campaign;
+(b) The content must be
+discussed with
+departments of Chemistry,
+Physics, Civil and
+Infrastructure Engineering
+and Chemical Engineering;
+(c) Title of the course to be
+reviewed; and
+(d) Water filtration technology
+to be included.
+Proposal of
+new courses Center for
+Emerging
+Technologies
+for
+Sustainable
+development 4. Public Health and
+Climate Change
+offered as elective
+of 700 level
+B.Tech, M.Sc., MS,
+M.Tech, M.Tech-
+Ph.D., Ph.D.,
+Structure L-T-P [C]
+3-0-0 (3) Public Health and Climate
+Change- (a) Too many topics
+in the course content; and
+(b) Sustainability aspects to
+be reviewed.
+Further the Senate
+recommended that the
+modified courses be placed in
+the ensuing Senate meeting
+for consideration.
+
+Proposal of
+new courses Center for
+Technology
+Foresight and
+Policy (CTFP) 1. Foresight with
+Simulation
+Modeling and
+Analysis offered
+as elective of 700
+level Structure L-
+T-P [C] 2-0-0 [2] Head, CTFP presented the
+new courses proposed by the
+center before the Senate.
+The Senate after detailed
+discussion recommended the
+course Foresight with
+Simulation Modeling and
+Analysis.
+Proposal of
+new courses Center for
+Technology
+Foresight and
+Policy (CTFP) 2. Smart Contracts
+for Logistics
+offered as
+elective of 700
+level Structure L-
+T-P [C] 2-0-0 [2] The Senate recommended
+reviewing the course Smart
+Contracts for Logistics with
+the Department of Computer
+Science & Engineering and
+Centre for Mathematical and
+Computational Economics,
+and present the course in the
+ensuing Senate Meeting.
+Proposal of
+new courses Center for
+Technology
+Foresight and
+Policy (CTFP) 3. Socio Technical
+Systems:
+Complexity and
+Governance
+offered as
+elective of 700
+level Structure L-
+T-P [C] 2-0-0 [2] The Senate further suggested
+adding a module on Digital
+public infrastructure in the
+course Socio Technical
+Systems: Complexity and
+Governance. The credits can
+be redistributed accordingly
+for the consideration of the
+Senate in its next meeting.
+Proposal for
+new course
+Design Lab Mechanical
+Engineering 1. Specialization
+Core course
+Design Lab
+offered as 700
+level core for
+B.Tech (ME) /
+M.Tech (AMD)
+Structure L-T-P
+[C] 0-0-2 [2] with
+prerequisite of
+Mechanics of
+Solids, Finite
+Element Method Head, Department of
+Mechanical Engineering
+presented the new course on
+Design Lab before the Senate.
+After a detailed discussion the
+Senate approved the proposal.
+Proposal of
+new courses Computer
+Science and
+Engineering 1. Advanced
+Algorithm
+of structure L-T-P
+[C] 3–1–0 [4]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Elective / Core
+Specialization with
+Prerequisite Design
+and Analysis of
+Algorithms, Maths
+for Computing (or
+Discrete Head Department of CSE,
+presented all the new courses
+before the senate.
+The Senate after detailed
+discussion recommended and
+approved.
+
+Proposal of
+new courses Computer
+Science and
+Engineering 2. Kernelization
+Department
+Computer Science
+and Engineering of
+Structure (L-T-P [C])
+3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Elective with
+Prerequisite Maths
+for Computing,
+Design and Analysis
+of Algorithms The Senate after detailed
+discussion recommended and
+approved.
+Proposal of
+new courses Computer
+Science and
+Engineering 3. Advanced
+Complexity
+Theory
+of Structure (L-T-
+P [C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Elective
+Prerequisite
+Complexity Theory The Senate after detailed
+discussion recommended and
+approved.
+Proposal of
+new courses Computer
+Science and
+Engineering 4. Computational
+Geometry
+of Structure (L-T-P
+[C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Elective
+Prerequisite Design
+and Analysis of
+Algorithms, Maths
+for Computing The Senate after detailed
+discussion recommended and
+approved.
+Proposal of
+new courses Computer
+Science and
+Engineering 5. Theoretical
+Machine Learning
+Of Structure (L-T-P
+[C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Elective with
+Prerequisite Design
+and Analysis of
+Algorithms, Maths
+for Computing
+Antirequisite The Senate after detailed
+discussion recommended and
+approved.
+Proposal of
+new courses Computer
+Science and 6. Computational
+Creativity The Senate recommended and
+approved the course
+
+Engineering of Structure (L-T-P
+[C]) 3-0-0
+Offered for B. Tech,
+M.Tech, Ph.D. as
+Elective
+With Prerequisite
+Software
+Engineering,
+Artificial
+Intelligence, Data
+Structures and
+Algorithms, Maths
+for Computing Computational Creativity
+without any prerequisites to
+make it available for all
+students.
+Proposal of
+new courses Computer
+Science and
+Engineering 7. Computer
+Systems
+Verification
+of Structure (L-T-P
+[C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Elective
+Prerequisite Design
+and Analysis of
+Algorithms, Maths
+for Computing The Senate recommended
+that the course Computer
+Systems Verification be
+reviewed and placed before
+the Senate for consideration.
+Proposal of
+new courses Computer
+Science and
+Engineering 8. Geometric and
+String Data
+Structures
+of Structure (L-T-P
+[C]) 1–0–0 [1]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Core
+Prerequisite Data
+Structures and
+Algorithms
+Antirequisite The Senate after detailed
+discussion recommended and
+approved.
+New B.Tech.
+Specializatio
+n in
+Theoretical
+Computer
+Science Computer
+Science and
+Engineering Specialization in
+Theoretical
+Computer Science Head Department of CSE,
+presented the New B.Tech.
+Specialization in Theoretical
+Computer Science before the
+Senate.
+The Senate after detailed
+discussion recommended and
+approved the Specialization in
+Theoretical Computer
+Science.
+Updates in
+course
+contents Computer
+Science and
+Engineering 1. Fundamentals of
+Machine Learning
+(with fractals) Of
+Structure (L-T-P Prof. Gaurav Harit, Head
+Department of CSE, presented
+the updates in course
+contents as recommended in
+
+[C]) 3–0–2 [4]
+Offered for
+Masters and PhD
+in NON-CS
+Programs as 700
+level elective
+2. Theory of
+Computation of
+Structure (L-T-P
+[C]) (3-0-0 [3])
+offered for
+B.Tech (CSE)
+with Prerequisite
+of Maths for
+Computing as
+400 level core
+3. Maths for
+Computing
+of Structure (L-T-P
+[C]) (3-1-0 [4])
+offered for B.Tech
+(CSE) as 200 level
+core
+4. Complexity
+Theory
+of Structure (L-T-P
+[C]) 3–0–0 [3] offered
+for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths)
+(CSE) as 700 level
+core with
+Prerequisite Design
+and Analysis of
+Algorithms, Maths
+for Computing (or
+Discrete
+Mathematics)
+5. Computer
+Organization and
+Architecture of
+Structure (L-T-P
+[C]) 3-0-2 [4]
+offered for B.
+Tech. CSE as 300
+level compulsory
+(The existing
+name of this
+course is
+Computer
+Architecture (3- the Academic Audit before
+the Senate.
+The Senate after detailed
+deliberation recommended
+the updates in the course
+content except the course
+content of Fundamentals of
+Machine Learning (with
+fractals). The content must
+reflect state-of-the-art and
+should be useful for students.
+The revised course content for
+Fundamentals of Machine
+Learning to be placed before
+the next senate meeting.
+
+35.2.3 Academic Audit of UG and PG Programs Annually/once in 2 years
+Department/
+IDRP/School Report Recommendation
+School of
+Liberal Arts The School proposed that the
+current pattern of bouquet courses
+in a discipline-specific style may be
+changed to accommodate more
+diverse courses in view of the
+change in the profile of the School.
+The School proposed to add more
+400 level open elective courses in
+LA bouquet courses. This will add
+diversity in terms of course options
+for the students to take from each
+bouquet.
+The School proposed that in the
+M.Sc. CSS the prerequisite for
+Specialization Elective Economic
+Challenges and Data driven
+Approach course can be waived off. The Senate after detailed
+discussion recommended the
+changes suggested by the
+School of Liberal Arts.
+
+Electrical
+Engineering The Department proposed
+Specialization electives and PG
+courses to be offered as UG PE / PG
+PE.
+Proposed list of PE for UG Students
+from Communication Stream:
+S. No. Course name L-T-P-C
+1 Wireless Communications
+3-0-0
+2 MIMO Wireless
+Communications 3-0-0
+3 Machine Learning for
+Communications 3-0-0
+4 Design and Analysis of
+Communication Networks 3-0-2
+5 RF system design for
+communications 3-0-0
+6 Digital Communications
+Hands-On 1-0-2
+7 Optical Fiber
+Communications 3-0-0
+8 Optical Techniques for
+Communications 2-0-2
+Proposed List of PE for UG Students
+from Power Stream:
+1 Power System Reliability and
+Security 3-0-0
+2 Selected Topics in
+Distributed Generation 3-0-0
+3 Renewable Energy Systems
+3-0-0
+4 Special Drives for Electric
+Vehicles 3-0-0
+5 Cyber-Physical Security in
+Smart Grid 3-0-0
+6 Plugin Electric Vehicles 3-0-
+2
+7 Power Quality 3-0-0
+8 Automotive Electronics
+Design 3-0-2
+9 Introduction to Smart Grid 3-
+0-0
+10 Power Systems Restructuring
+3-0-0
+Proposed List of PE for UG Students
+from VLSI Stream:
+1. ML in VLSI CAD (3-0-0)
+2. Formal Verification (2-0-0)
+3. Hardware Software Co-design (3-
+0-2)
+4. Mixed Signal Circuit Design (2-0-
+2)
+5. Signal and Power Integrity (3-0-0)
+6. VLSI Broadband Communication
+Circuits (3-0-0) The Senate after detailed
+discussion recommended the
+changes suggested by the
+Department of Electrical
+Engineering.
+
+Mathematics No changes were proposed for M.
+Tech. (DCS) program
+Modification in M.Sc. (MA) program
+by changing the credits of the core
+course "Data Structures and
+Algorithms" from 3 credits to 2
+credits and increasing 1 credit in
+the PE course in Semester 2. The Senate after detailed
+discussion recommended the
+changes suggested by the
+Department of
+Mathematics.
+Computer
+Science &
+Engineering A. No changes in M. Tech. CSE
+and AI curriculum
+B. Updates to Course
+Contents:
+Fundamentals of Machine Learning
+CSL7XXX
+Theory of Computation CSL4XX
+Maths for Computing CSL2040
+Complexity Theory CSL7140
+Computer Organization and
+Architecture CSL3XX 3-0-2
+(The existing name of this course is
+Computer Architecture (3-0-0).
+However, with the addition of a lab
+component, the name of the course
+has been revised to Computer
+Organization and Architecture and
+the credits have been increased
+from 3 to 4).
+C. Updates to the B. Tech. (CSE)
+Curriculum:
+The total number of Program The Senate after detailed
+discussion recommended the
+changes suggested by the
+Department of Computer
+Science and Engineering
+with the modification in the
+course content of
+Fundamentals of Machine
+Learning as stated in 35.2.2.
+
+School of
+Management &
+Entrepreneurshi
+p SME proposed minor changes in
+Prerequisite (by removing
+prerequisite in 24 courses and
+adding prerequisite in 10 courses)
+Prerequisite removed:
+1 Leading High Performance
+Teams
+2 Incentives and Performance
+3 People Analytics and
+Intelligence
+4 Strategic Human Capital
+5 History and Business
+6 Technology and Future of
+Work
+7 Governance and
+Organization
+8 Organizational Change and
+Transformation
+9 Corporate Social
+Responsibility
+10 Strategic Leadership
+11 Negotiations
+12 Persuasive Communication
+13 Managerial Judgment and
+Decision Making
+14 Designing and Leading
+Virtual Workplace
+15 Digital Behavioral Dynamics
+16 Culture of Tech
+17 Communicating Digitally
+18 Selected Topics in HR
+19 Selected Topics in OB
+20 Selected Topics in Marketing
+21 Emerging Trends in
+Marketing
+22 Service Operations
+Management The Senate after detailed
+discussion recommended the
+changes suggested by the
+School of Management &
+Entrepreneurship.
+The Senate Further
+recommended as per the
+approved student
+entrepreneurship policy a
+detailed report should be
+presented in the upcoming
+Senate Meeting.
+
+Mechanical
+Engineering The Following Changes were
+proposed from the Department of
+ME:
+1. Institute-wide B. Tech Courses
+offered by Dept. of ME
+Minor change in the course
+“Engineering Mechanics MEL1010”
+by removing the topic on Inertia
+Tensor as not all students have
+done linear algebra.
+2. B. Tech. Mechanical Programme
+Core offered by Dept.
+Minor change in the course “Control
+of Mechanical Systems MEL3080” by
+including State-space modelling in
+Part II since it is used in lab
+components.
+3. M.Tech TFE Programme Core
+Changes in the course
+“Incompressible Fluid Flow MEL7040
+"
+● Flow stability part should be
+removed.
+● More emphasis on
+integral/control volume analysis
+● One credit tutorial may be
+added without any change in the
+total credit structure by decreasing
+one credit in program electives The Senate after detailed
+discussion recommended the
+changes suggested by the
+Department of Mechanical
+Engineering.
+
+Bioscience and
+Bioengineering The Following Changes are proposed
+from the Department of BB:
+Changes in UG curriculum
+● Computational methods for
+multi-omics (level 4) [3-0-0]
+changed to Computational methods
+for multi-omics (level 7) [2-0-2]
+● Introduction of New course -
+Agricultural Biotechnology [3-0-0]
+Changes in PG curriculum
+A minor change was suggested for
+the compulsory M.Tech. course on
+Introduction to OMICS Technology
+for changing L-T-P structure from
+[2-0-0] to [3-0-0] without changing
+the course content- the overall
+credit structure remains intact in
+line with the regulations. The Senate after detailed
+discussion recommended the
+changes suggested by the
+Department of Bioscience
+and Bioengineering.
+Chemistry Proposed Changes:
+1. Restructuring of CYP6060-
+Computational Chemistry
+Laboratory from 0-0-3 [1.5 credits]
+to 2-0-2 [3 Credits] without
+changing total credit requirements
+for graduation by dropping the
+CYD6010- Minor Project [1.5
+Credits]. The proposed changes are
+consistent with the M.Sc. programs
+in Physics and Mathematics.
+2. Reordering of CYP6060
+Computational Chemistry
+Laboratory from Sem III to Sem-II
+and CYP6050 Hands on-II from Sem
+II to Sem-III The Senate after detailed
+discussion recommended the
+changes suggested by the
+Department of Chemistry.
+
+35.2.8 Degree format for Honoris Causa Doctorate to Eminent Personalities on their
+exceptional contributions
+35.3 Procedural Items
+35.3.1 Recommendations to confer the Award of B.Tech., M.Sc., M.Tech., MBA, MBA-
+Technology, Masters in Medical Technologies, M.Sc.-M.Tech., and Ph.D. Degrees,
+PG Diploma/Certificate to students to students, who meet the various academic
+requirements.
+
+35.3.2 Academic Calendar for AY 2023-24 Sem II
+35.4 Reporting, Adopting and Noting Items
+35.4.
+1 Academic recommendations of 29th ECS Meeting held on 17 and 25 August, 2023
+35.5 Ratification Items
+35.5.1 Approvals accorded by the Chairman, Senate
+35.6 Any other Item with the prior permission of the Chairman
+35.6.1 Suggestions on report proposing transformative reforms to strengthen the periodic
+assessment and accreditation of all Higher Educational Institutions (HEIs) of India
+submitted by the overarching committee constitute by the MoE

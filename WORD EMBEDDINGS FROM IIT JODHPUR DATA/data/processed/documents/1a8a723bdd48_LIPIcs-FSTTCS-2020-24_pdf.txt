@@ -1,0 +1,396 @@
+on the parameterized complexity of almost stable marriage sushmita gupta the institute of mathematical sciences hbni chennai india pallavi jain indian institute of technology jodhpur india sanjukta roy saket saurabh university of bergen norway meirav zehavi ben gurion university of the negev beer sheva israel abstract in the stable marriage problem when the preference lists are complete all agents of the smaller side can be matched
+however this need not be true when preference lists are incomplete
+in most situations where agents participate in the matching market voluntarily and submit their preferences it is natural to assume that each agent wants to be matched to someone in preference list as opposed to being unmatched
+in light of the rural hospital theorem we have to relax the no blocking pair condition for stable matchings in order to match more agents
+in this paper we study the question of matching more agents with fewest possible blocking edges
+in particular the goal is to matching whose size exceeds that of stable matching in the graph by at least and has at most blocking edges
+we study this question in the realm of parameterized complexity with respect to several natural parameters where is the maximum length of preference list
+unfortunately the problem remains intractable even for the combined parameter thus we extend our study to the local search variant of this problem in which we search for matching that not only each of the above conditions but is closest in terms of its symmetric to the given stable matching and obtain an fpt algorithm
+acm subject theory of computation complexity and exact algorithms keywords and phrases stable matching parameterized complexity local search digital object related version full version of the paper is available at funding sushmita gupta was supported by research grant
+saket saurabh received funding from european research council erc under the european union horizon research and innovation programme grant no
+and swarnajayanti fellowship grant
+meirav zehavi was supported by isf grant and bsf grant no
+sushmita gupta pallavi jain sanjukta roy saket saurabh and meirav zehavi licensed under creative commons license iarcs annual conference on foundations of software technology and theoretical computer science fsttcs
+editors nitin saxena and sunil simon article no
+leibniz international proceedings in informatics schloss dagstuhl informatik dagstuhl publishing germany on the parameterized complexity of almost stable marriage introduction matching various entities to available resources is of great practical importance in matching college applicants to college seats medical residents to hospitals preschoolers to kindergartens unemployed workers to jobs organ donors to recipients and so on
+it is noteworthy that in the applications mentioned above it is not enough to merely match an entity to any of the available resources
+it is imperative in fact to create matches that some notions of compatibility suitability acceptability and so on
+gale and shapley introduced the fundamental theoretical framework to study such matching markets in the
+they envisioned matching outcome as marriage between the members of the two sides and desirable outcome representing stable marriage
+the algorithm by them has since attained recognition as the stable algorithm
+stability is one of the acceptability criteria for matching in which an unmatched pair of agent should not prefer each other over their matched partner
+of the many characteristic features of the matching markets there are certain aspects that stand out and are supported by both theoretical and empirical evidence particularly notable is the curious aspect that for given market with strict preferences on both no matter what the stable matching outcome is the number of resources matched on either side always remains the same
+this fact encapsulated by the rural hospital theorem states that no matter what stable matching algorithm is deployed the exact set rather than only the number of resources that are matched on either side is the same
+in other words there is size and stability such that any increase in size must be paid for by stability
+indeed it is not hard to instances in which as much as half of the available resources are unmatched in every stable matching
+such gross underutilization of critical and potentially expensive resources has not gone unaddressed by researchers
+in light of the rural hospital theorem many variations have been considered some important ones being enforcing lower and upper capacities forcing some matches forbidding some matches relaxing the notion of stability and foregoing stability altogether in favor of size
+we formalize the above between size and stability in terms of the almost stable marriage problem
+the classical stable marriage problem takes as an instance bipartite graph where and denote the set of vertices representing the agents on the two sides and denotes the set of edges representing acceptable matches between vertices on sides and preference list of every vertex in over its neighbors
+thus the length of the preference list of vertex is the same as its degree in the graph
+matching is as subset of the set of edges such that no vertex appears in more than one edge in the matching
+an edge in matching represents match such that the endpoints of matching edge are said to be the matching partners of each other and an unmatched vertex is deemed to be
+matching is said to be stable in if there does not exist blocking edge with respect to to be an edge whose endpoints rank each other higher in their respective preference lists than their matching partners in the goal of the stable marriage problem is to stable matching
+we the almost stable marriage problem as follows
+in most applications it is unreasonable if not unrealistic to expect each of the agents to rank all the agents on the other side
+that is the graph is highly unlikely to be complete
+every candidate is assumed to prefer being matched to any of its neighbors to being
+gupta jain roy saurabh and zehavi almost stable marriage asm input bipartite graph set containing the preference list of each vertex and integers and question does there exist matching whose size is at least more than the size of stable matching in such that the matching has at most blocking edges
+in asm we hope for matching that is larger than stable matching but may contain some blocking edges
+the above problem these two variables and denote the minimum increase in the size and the allowable number of blocking edges respectively
+we note that et al
+considered the problem of among all matchings of maximum size one that has the fewest blocking edges and showed the of the problem even when the degree of the graph is at most three
+since one can maximum matching and stable matching in the given graph in polynomial time their result implies for asm even when the degree is at most three by setting to be the between the size of maximum matching and the size of stable matching
+our contribution and methods
+we study the parameterized complexity of asm with respect to parameters and combination that is not settled by et al
+our result exhibits strong guarantee of intractability
+we exhibit parameterized intractability of asm in very restrictive setting where the degree of the given graph is three
+asm is with respect to even when the maximum degree of the given graph is at most three
+we prove theorem by showing parameter preserving reduction from the multicolored clique mcq in short problem to asm
+in the multicolored clique problem given graph and partition of into parts say v1
+vk the goal is to decide the existence of set such that for all and induces clique that is there is an edge between every pair of vertices in
+mcq is known to be with respect to in light of the intractability result in theorem we are hard pressed to recalibrate our expectations of what is algorithmically feasible in an manner
+therefore we consider local search approach for this problem in which instead of any matching whose size is at least larger than the size of stable matching we also want this matching to be closest in terms of its symmetric to stable matching
+such framework of local search has also been studied for other variants of the stable marriage problem by marx and schlotter
+we would like to emphasize that the notion of local search used here is from the classical notion of local search commonly used in practice
+we use the notion of local search that is and widely used in the domain of parameterized complexity as by marx and schlotter and has also been applied to study several other optimization problems
+the question is formally as follows
+local every vertex stable matching and integers and question does there exist matching of size at least with at most blocking edges such that the symmetric between and is at most
+fsttcs unsurprisingly perhaps the existence of stable matching in the proximity of which we wish to solution does not readily mitigate the computational hardness of the problem as evidenced by theorem
+this result is consequence of the properties of the reduction used in the proof of theorem
+the of also follows from the of asm as we can set to be the maximum possible size of
+is with respect to even when the maximum degree of the given graph is at most three
+in our quest for parameterization that makes the problem tractable we investigate with respect to
+is with respect to to prove theorem we give parameter preserving reduction from mcq to
+in the instance constructed to prove theorem is not function of we mimic the idea of gadget construction in that proof and ensure that is function of however in this the degree of the graph increases
+consequently the result in theorem does not hold for constant degree graphs or even when the degree is function of this and the degree of the graph in the instances that establish intractability is not coincidence as implied by our next result
+there exists an algorithm that given an instance of solves the instance in log dq no time where is the number of vertices in the given graph and is the maximum degree of the given graph
+to prove theorem we begin by using the technique of random separation based on color coding in which the underlying idea is to highlight the solution that we are looking for with high probability
+suppose that is hypothetical solution to the given instance of
+note that to the matching it is enough to the edges that are in the symmetric of and denoted by
+thus using the technique of random separation we wish to highlight the edges in
+we achieve this goal using two layers of randomization
+the one separates vertices that appear in denoted by the set from its neighbors by independently coloring vertices or
+let the vertices appearing in be colored and its neighbors that are not in be colored
+observe that the matching partner of the vertices which are not in is the same in both and
+therefore we search for solution locally in vertices that are colored
+let g1 be the graph induced on the vertices that are colored
+at this stage we use second layer of randomization on edges of g1 and independently color each edge with or
+this separates edges that belong to say colored from those that do not belong to
+now for each component of g1 we look at the edges that have been colored and compute the number of blocking edges the increase in size and increase in the symmetric if we modify using the that are present in this component
+this leads to an instance of the knapsack problem which we solve in polynomial time using known time algorithm for
+we derandomize this algorithm using the notion of an universal family
+table summarizes the results for asm and
+proofs marked by are deferred to the full version of the paper
+for for for wrt thm
+fpt wrt thm
+table summary of the results for asm and
+results in blue row are implied from theorem in
+we present here some variants of the stable marriage problem which are closely related to our model
+in the past the notion of almost stability is for the stable roommate problem
+in the stable roommate problem the goal is to stable matching in an arbitrary graph
+as opposed to stable marriage in which the graph is bipartite graph an instance of stable roommate might not admit stable matching
+therefore the notion of almost stability is for the stable roommate problem in which the goal is to matching with minimum number of blocking edges
+this problem is known as the almost stable roommate problem
+abraham et al
+proved that the almost stable roommate problem is
+proved that the problem remains even for preference lists and studied it in the realm of approximation algorithms
+studied this problem in the realm of parameterized complexity and showed that the problem is with respect to the number of blocking edges even when the maximum length of every preference list is
+considered the problem of among all matchings of the maximum size one that has the fewest blocking edges in bipartite graph and showed that the problem is and not approximable within for any unless
+the problem of the maximum sized stable matching in the presence of ties and incomplete preference lists maxsmti has striking resemblance with asm
+in maxsmti the decision of resolving each tie comes down to deciding who should be at the top of each of tied lists mirrors the choice we have to make in asm in rematching the vertices who will be part of blocking edge in the new matching
+despite this similarity the result presented in theorem does not yield the hardness result of asm and as the reduction is not likely to be parameteric in terms of and or have the degree bounded by constant
+for other variants of the stable marriage problem we refer the reader to
+we denote the set of natural numbers
+for two sets and we use notation to denote the symmetric between and
+for any ordered set and an appropriately value denotes the tth element of the set conversely suppose that is tth element of the set then graphs
+let be an undirected graph
+the neighborhood of vertex denoted by ng is the set of all vertices adjacent to it
+analogously the open neighborhood of subset denoted by ng is the set of vertices outside that are adjacent to some vertex in component of is maximal subgraph in which any two vertices are connected by path
+let be subgraph of for component in we set ng ng
+the subscript may be omitted if the graph under consideration is clear from the context
+fsttcs figure depiction of the top three layers of special vertices associated with the vertices of as explained on page where log2
+yellow labels denote vertex labels and numbers on edges denote preferences
+analogously we can depict the layers of the special vertices associated with the edges of in the preference list of vertex if appears before then we say that prefers to and denote it as we call an edge in the graph static edge if its endpoints prefer each other over any other vertex in the graph
+if an edge uv then and
+vertex is called saturated in matching if it is an endpoint of one of the edges in the matching otherwise it is an unsaturated vertex in
+if is an unsaturated vertex in matching then we write
+for matching in path cycle is path cycle whose edges alternate between matching edges of and edges
+path is path that starts and ends at an unmatched vertex in
+unless we will be using all general graph terminologies from the book of diestel
+for parameterized complexity related we refer the reader to
+we conclude this section with result that is used extensively in our analysis
+let and denote two matchings in such that is stable and is not
+then for each blocking edge with respect to we know that at least one of the endpoints has matching partners in and
+of asm we give parameter preserving reduction from the problem multicolored clique mcq in which we are given regular graph and partition of into parts v1
+vk and the objective is to decide if there exists subset such that for each and the induced subgraph is clique
+given an instance v1
+vk of mcq we will next describe the construction of an instance of asm
+we begin by introducing some notations
+for any such that we have that the vertex e1 and for any edge uv where
+the proof of lemma follows by starting with solution and then replacing the edges in with the edges in only in those components of where
+we begin with the description of randomized algorithm which will be derandomized later using universal family
+our algorithm has three phases vertex separation edge separation and
+given an instance of we proceed as follows
+phase vertex separation
+we start with the following assumption
+table preference lists in the proof of theorem
+here for set the notation the order of preference over the vertices in this set
+for each vertex where we have the following preferences u1 pi where for some vi
+eu where ru u2h pi for the special vertices associated with vi we have the following preferences v1 ai where vi and vi ai bi where bi bi where log2 and ai ai where log2 and ai where log2 for each edge we have the following preferences e1 qij where for some uv eij
+e4 qij where for some uv eij for the special vertices associated with eij we have the following preferences cij where eij and eij cij dij where dij dij where log2 where log2 and cij cij where log2 and cij where log2 fsttcs throughout this section we assume that there exists solution and everything will be with respect to
+in fact we assume that is hypothetical solution to such that in every component of the number of is more than the number of in this component that is the property in lemma
+we start by notion of good coloring
+function is called good coloring if the following properties are
+every vertex in is colored
+let border be the set of neighbors of the vertices in outside the set that is border ng and bordermates be the set of matching partners if they exist of the vertices in border in
+every vertex in border is colored
+we will show that random function that assigns each vertex of the graph pendently with color or with probability5 each is good function with probability depending only on and in particular we can say the following about every vertex in is colored
+at least every vertex in border is colored
+to see this note that and the maximum degree of vertex in the graph is and so
+for each let vi denotes the set of vertices of the graph that are colored using the function summarizing the above mentioned properties we get the following
+let v1 v2 border and bordermates be as above
+at least and border
+thus is good coloring
+at least due to lemma we have the following
+every component in is component in v1
+at least the proof of corollary follows from the fact that and border ng is subset of v2
+due to corollary if there exists component in v1 containing vertex that is saturated in such that then is not component in
+this leads to the following
+component in v1 is called if for every vertex we have that
+thus we get the following lemma
+let be graph and be good function
+then every component of is also component of v1 and further it is
+let be pair such that is the input graph and is good coloring function on
+we call such as colored instance
+in light of corollary to in phase ii we color the edges of v1 in order to identify the components of the graph that only contain edges of
+henceforth we will use the shortened form
+for with probability
+phase ii edge separation
+we notion of instance
+let and red green blue be two functions
+an instance is called an instance if the following properties are
+is colored instance
+every edge in is colored red
+every edge in is colored green
+every edge in g1 is colored blue
+given colored instance we select function as explained below such that becomes an instance with high probability
+let be function that colors each edge of the subgraph g1 independently with colors red or green with probability each
+furthermore colors every edge in g1 with blue
+the following properties hold for the graph g1 that is colored using the function every edge in is colored red with probability at least every edge in is colored green with probability at least because and is the maximum degree of vertex in the graph so
+every edge in g1 has been colored blue
+for red green blue let ei denotes the set of edges of the graph that are colored using the function then due to the above mentioned coloring properties of the graph g1 we have the following result
+let be colored instance
+furthermore let ered egreen and eblue be as above
+at least and g1
+thus is an instance
+at least note that the edges in form maximal
+component may have several paths and cycles
+in what follows we provide conditions such that if either of them then they do not belong to
+such is called malformed
+if the set of red edges in do not form vertex disjoint maximal paths or cycles then the component does not belong to
+furthermore due to our assumption on the hypothetical solution if the number of red edges in that are not in is at most the number of red edges in that are in then does not belong to
+if does not have any red edge then it does not belong to
+component in g1 that is not malformed is called an
+the next observation follows from the properties of an component
+let be an instance
+then for every comp of g1 the following holds the set of red colored edges form collection of and every vertex in is incident to at least one red edge
+fsttcs let cecc be the set of components of g1 that are
+in light of vation our goal is reduced to family of components in cecc that contain the edges of
+indeed to obtain matching of size at least we need to choose components of v1 that have paths path starting and ending with edges not in
+however choosing components arbitrarily might lead to large number of blocking edges in the solution matching
+thus to choose the components appropriately we move to phase iii
+in particular we show that if is an instance then we can solve the problem in polynomial time
+phase iii with respect to let be an instance to and be hypothetical solution to the problem that the condition in lemma
+further let be an instance and cecc be the set of components of g1 that are
+we reduce our problem to knapsack and after that use an algorithm for described in proposition as subroutine
+knapsack input set of tuples ai bi pi and integers c1 c2 and question does there exist set such that bi and pi
+there exists an algorithm that given an instance c1 c2 of in time nc1c2 outputs solution if it is of otherwise outputs no
+we construct an instance of as follows
+be the components in cecc
+intuitively we construct family of tuples ki qi ti such that ki denotes the number of blocking edges that we encounter if we add edges that are not in but are present in in ci to our solution
+similarly qi and ti denote the number of edges in the symmetric and the increase in the size of the matching due to this alternation operation
+by our choice of the components in cecc all these values are positive integers
+indeed this is why we selected hypothetical solution with an additional property
+next we describe the construction of an instance of
+for each let qi be the number of red colored edges in ci and ti qi where denotes the edges of in ci
+next to compute ki for each we construct matching as follows
+we add all the red colored edges in ci that are not in to
+next we make another matching that has all the edges in and additionally we add all the edges in to whose both endpoints are outside the components in cecc and at least one of the endpoints is neighbor of vertex in ci
+clearly is matching in the graph to ease notation we let gi denote the graph ci ci
+we set ki as the number of blocking edges with respect to in the graph gi
+basically the graph gi contains all the vertices in ci their neighbors in border the of these border vertices in bordermates and the neighbors of ci which are unsaturated in
+that is the number of blocking edges with respect to incident on the vertices in the set is ki in gi
+to see this note that there is no blocking edge with both endpoints in proposition
+the only reason to is to the value of ki in clean fashion
+we next state simple lemma that shows that no blocking edge is counted twice
+locally pairwise disjoint blocking edges
+let be an instance of and be an instance
+further let ci cj and for the set of blocking edges with respect to
+due to the construction of the matching for all the blocking edges in bi at least one of its endpoints is in ci
+similarly for all the blocking edges in bj at least one of its endpoints is in cj
+since ci are cj are distinct components in cecc we infer bi
+this completes the construction of an instance of
+we invoke the algorithm given in proposition on the instance of
+if returns set then we return yes
+otherwise we report failure of the algorithm
+it is relatively straightforward to create the solution when the answer is yes
+next we prove the correctness of phase iii
+then is of
+since is an instance due to the of instance is
+thus due to the of and lemma every component in is also component in g1
+clearly for every component in if vertex then
+therefore all the components in are colored component
+next we note that due to all the edges in the set are colored red
+thus for every component in red colored edges in form vertex disjoint maximal
+further every component in has at least one red edge
+also due to our choice of the number of red edges in which are not in are less than the one that are in
+therefore all the components in are
+without loss of generality let c1
+the components in cecc that are also in
+let us note that cecc may contain several other components
+we claim that is solution to
+due to the construction of the instance and the facts that is solution to and is an instance clearly qi and ti
+we next show that ki
+recall the of and
+we show that every blocking edge with respect to in the graph gi is also blocking edge with respect to in the graph let uv be blocking edge with respect to in the graph gi
+due to proposition and the of the matching at least one of the endpoint of the edge uv is in the component ci
+without loss of generality let ci
+since ci is also component in we can infer that
+if the vertex is also in the component ci then using the same argument as above we know that
+thus uv is also blocking edge with respect in the graph suppose that ci
+since ci is component in and ci but we can infer that
+since and have same matching partners in both the matchings and we can infer that uv is also blocking edge with respect in the graph since ki is the the number of blocking edges with respect to we infer ki
+hence is of
+suppose that is of
+suppose that the algorithm in proposition returns the set
+given the set we obtain the matching as follows
+let denotes the family of components in cecc corresponding to the indices in
+for each component we add all the red edges in that are not in to
+additionally we add all the edges in to whose both endpoints are outside the components in
+we next prove that is solution to
+towards the contradiction suppose that uv uw that is there exists pair of edges in that shares an endpoint
+due to observation in every component of the red edges form
+therefore uv and uw both can not be in component of
+suppose that uv is in component in but uw does not belong to then due to the construction of uw
+this contradicts lemma as is component in cecc
+if uv and uw are outside the components in then due to the construction of uv and uw both are in
+this contradicts that is matching
+let ered denote the set of red edges in the component for each component ci let ci that is is the set of red edges in ci that are in
+let be the set of edges in that does not belong to any component in
+due to the construction of we have that ered ci
+thus ered ci
+hence ci as qi ci for every component ci
+since is solution to qi
+next we show that due to the we know that ci as ti qi
+since ti we obtained that
+there are at most blocking edges with respect to
+due to the construction of the matching and proposition we know that if uv is blocking edge with respect to then at least one of its endpoint that is vertex or is in ci for some ci
+without loss of generality let the vertex is in the component ci
+then due to the of the matching and the construction of the matching we have that
+now if is also in the component ci then using the same argument
+suppose that is not in the component ci then its that is is also not present in cecc due the the of
+since the matching partners of and are same in both the matchings and we have uv is also blocking edge with respect to matching
+thus every is also blocking edge with respect to for some ci
+recall that ki is the number of blocking edges with respect to in gi
+therefore the number of blocking edges with respect to is at most due to claims and we can infer that due to lemmas and we obtain randomized algorithm for which succeeds with probability
+therefore by repeating the algorithm independently times where is the number of vertices in the graph we obtain the following result
+there exists randomized algorithm that given an instance of runs in time where is the number of vertices in the given graph and either reports failure or outputs yes
+moreover if the algorithm is given of the problem then it returns yes with constant probability
+let be an instance to and be hypothetical solution to the problem
+if is then by lemmas and we can get an instance
+given an instance we apply construction and construct an instance of with family of tuples ki qi ti
+here is of
+we can solve the instance in polynomial time using proposition
+correctness of this step follows from lemmas and
+thus if is then we return that it is with probability at least
+indeed if is then we return that it is with probability
+thus to boast the success probability to constant we repeat the algorithm independently log times where is the number of vertices in indeed the success probability is at least this concludes the proof
+the derandomization of the algorithm is in the full version
+in conclusion in this paper we initiated the study of the computational complexity of the size and stability through the lenses of both multivariate analysis and local search
+since asm is for graph in which every vertex has degree at most three the natural question that arises here is is asm solvable for the graph in which every vertex has degree at most two
+it is worth mentioning that there is fairly straightforward dynamic programming algorithm that solves this question in polynomial time
+the basis idea is as follows
+this graph quite clearly is disjoint union of paths and cycles
+consider hypothetical solution in the path or cycle xn in suppose that we know the submatching of call it that is contained in subpath of xn as well as the subset of blocking edges with respect to that are in this subpath
+then we can extend to by keeping all the necessary partial solutions
+we can sketch this idea as follows
+suppose that is matching in the subpath pi
+we want to extend for the subpath
+if vi is saturated in then we can not add edge to and we can easily check if it is blocking edge with respect to in
+if vi is unsaturated in then we have two possibilities edge is and is not in
+if it is then we can check if is blocking edge with respect to in
+otherwise is blocking edge with respect to in
+all these possibilities can be taken care by appropriately the table entries
+in the table however we do not need to store the whole matching
+we only need to remember the matching partner of vertices such as as that will help in checking if is blocking edge
+we can similarly argue for cycle in fsttcs next we would like to point out that our hardness results that is theorems and hold even when the preference lists of the vertices in each side of the partition respect master ordering of vertices the relative ordering of the vertices in preference list is same as that of ordering of all the vertices on the other side
+we discuss it in details in the full version of the paper
+we conclude the paper with few directions for further research
+in certain scenarios the satisfaction of the agents there exist several measures such as egalitarian balance might be of importance
+then it might be of interest to study the and cost and the formulation of asm can be generalized to the case where the input contains utility function on the edges and the objective is to maximize the value of solution matching subject to this function
+references abraham and manlove
+almost stable matchings in the roommates problem
+in international workshop on approximation and online algorithms wg pages
+fleiner irving and manlove
+the college admissions problem with lower and common quotas
+manlove and mittal
+size versus stability in the marriage problem
+manlove and mcdermid
+almost stable matchings in the roommates problem with bounded preference lists
+chen hermelin sorge and yedidsion
+how hard is it to satisfy almost all roommates
+in international colloquium on automata languages and programming icalp pages
+chen skowron and sorge
+matchings under preferences strength of stability and
+in acm conference on economics and computation ec pages
+cseh and manlove
+stable marriage and roommates problems with restricted edges complexity and approximability
+cygan fomin kowalik lokshtanov marx pilipczuk pilipczuk and saurabh
+graph theory edition volume of graduate texts in mathematics
+downey and fellows
+fundamentals of parameterized complexity
+texts in computer science
+fellows fomin lokshtanov rosamond saurabh and villange
+local search is avoidable
+michael fellows danny hermelin frances rosamond and vialette
+on the parameterized complexity of graph problems
+fomin lokshtanov panolan and saurabh
+computation of ative families with applications in parameterized and exact algorithms
+journal of the acm
+gale and shapley
+college admissions and the stability of marriage
+american mathematical monthly
+the stable marriage problem structure and algorithms
+irving and manlove
+finding large stable matchings
+acm journal of experimental algorithmics
+kellerer pferschy and pisinger
+khuller bhatia and pless
+on local search and placement of meters in networks
+siam journal on computing
+krokhin and marx
+on the hardness of losing weight
+acm transactions on algorithms
+algorithmics of matching under preferences volume
+manlove mcbride and trimble
+matchings in the ents problem with couples
+parameterized complexity news
+searching the neighborhood for tsp is
+operations research letters
+marx and schlotter
+parameterized complexity and local search approaches for the stable marriage problem with ties
+stable assignment with couples parameterized complexity and local search
+micali and vazirani
+an algorithm for maximum matching in general graphs
+in foundations of computer science focs pages
+invitation to algorithms
+on the parameterized complexity of the alphabet shortest common supersequence and longest common subsequence problems
+the evolution of the labor market for medical interns and residents case study in game theory
+journal of political economy
+on the allocation of residents to rural hospitals general property of matching markets
+econometrica journal of the econometric society
+the parameterized complexity of local search for sat and max sat
+metaheuristics from design to implementation volume
+finding stable matching under minimum quotas
+journal of economic theory

@@ -1,0 +1,113 @@
+SOURCE_PDF: 00cef9cf94dd_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877987.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL ASSISTANT (Civil & Infrastructure Engineering)
+(WRITTEN TEST & SKILL TEST)
+Structural Engineering 
+Engineering Mechanics: System of forces, free-body diagrams, equilibrium equations; Internal forces 
+in structures; Frictions and its applications; Centre of mass; Free Vibrations of undamped SDOF 
+system. 
+ 
+Solid Mechanics: Bending moment and shear force in statically determinate beams; Simple stress and 
+strain relationships; Simple bending theory, flexural and shear stresses, shear centre; Uniform 
+torsion, Transformation of stress; buckling of column, combined and direct bending stresses. 
+ 
+Structural Analysis: Statically determinate and indeterminate structures by force/ energy methods; 
+Method of superposition; Analysis of trusses, arches, beams, cables and frames; Displacement 
+methods: Slope deflection and moment distribution methods; Influence lines; Stiffness and 
+flexibility methods of structural analysis. 
+ 
+Construction Materials and Management: Construction Materials: Structural Steel – Composition, 
+material properties and behaviour; Concrete - Constituents, mix design, short-term and long-term 
+properties. Construction Management: Types of construction projects; Project planning and 
+network analysis - PERT and CPM; Cost estimation. 
+ 
+Concrete Structures: Working stress and Limit state design concepts; Design of beams, slabs, 
+columns; Bond and development length; Prestressed concrete beams. 
+ 
+Steel Structures: Working stress and Limit state design concepts; Design of tension and compression 
+members, beams and beam- columns, column bases; Connections - simple and eccentric, beam-
+column connections, plate girders and trusses; Concept of plastic analysis -beams and frames. 
+ 
+Geotechnical Engineering 
+Soil Mechanics: Three-phase system and phase relationships, index properties; Unified and Indian 
+standard soil classification system; Permeability - one dimensional flow, Seepage through soils – 
+two -dimensional flow, flow nets, uplift pressure, piping, capillarity, seepage force; Principle of 
+effective stress and quicksand condition; Compaction of soils; One- dimensional consolidation, time 
+rate of consolidation; Shear Strength, Mohr’s circle, effective and total shear strength parameters, 
+Stress-Strain characteristics of clays and sand; Stress paths. 
+ 
+Foundation Engineering: Sub-surface investigations - Drilling bore holes, sampling, plate load test, 
+standard penetration and cone penetration tests; Earth pressure theories - Rankine and Coulomb; 
+Stability of slopes – Finite and infinite slopes, Bishop’s method; Stress distribution in soils – 
+Boussinesq’s theory; Pressure bulbs, Shallow foundations – Terzaghi’s and Meyerhoff’s bearing 
+capacity theories, effect of water table; Combined footing and raft foundation; Contact pressure; 
+Settlement analysis in sands and clays; Deep foundations – dynamic and static formulae, Axial load
+
+capacity of piles in sands and clays, pile load test, pile under lateral loading, pile group efficiency, 
+negative skin friction. 
+ 
+Water Resources Engineering 
+Fluid Mechanics: Properties of fluids, fluid statics; Continuity, momentum and energy equations and 
+their applications; Potential flow, Laminar and turbulent flow; Flow in pipes, pipe networks; 
+Concept of boundary layer and its growth; Concept of lift and drag. 
+ 
+Hydraulics: Forces on immersed bodies; Flow measurement in channels and pipes; Dimensional 
+analysis and hydraulic similitude; Channel Hydraulics - Energy-depth relationships, specific 
+energy, critical flow, hydraulic jump, uniform flow, gradually varied flow and water surface 
+profiles. 
+ 
+Hydrology: Hydrologic cycle, precipitation, evaporation, evapo-transpiration, watershed, 
+infiltration, unit hydrographs, hydrograph analysis, reservoir capacity, flood estimation and 
+routing, surface runoff models, ground water hydrology - steady state well hydraulics and aquifers; 
+Application of Darcy’s Law. 
+ 
+Irrigation: Types of irrigation systems and methods; Crop water requirements - Duty, delta, 
+evapotranspiration; Gravity Dams and Spillways; Lined and unlined canals, Design of weirs on 
+permeable foundation; cross drainage structures. 
+ 
+Environmental Engineering 
+Basic concepts of chemistry: Nature of matter, Laws of chemical combination, Dalton’s atomic 
+theory: concept of elements, Atoms and molecules. Atomic and molecular masses, Mole concept 
+and molar mass, Percentage composition, Empirical and molecular formula, Chemical reactions, 
+Stoichiometry and calculations based on stoichiometry. 
+Water supply - Public water supply system and demand - Types of demand - Per capita demand -
+Prediction of population. Intakes - Types of intakes-Description of intakes-Infiltration galleries and 
+infiltration wells in river beds - Necessity of pumps - Types of pumps - Pipes for conveyance of 
+water. 
+Water treatment - Sedimentation –Types of sedimentation - Coagulation - Coagulants and their 
+choice- Types of sedimentation tanks – filtration - R.O process. Distribution system - Gravity, 
+pumping and combined system. Wastewater treatment - Primary and secondary treatments - 
+Screens – Skimming tanks - Grit chambers - Sedimentation tanks – Filters - Types and description 
+of filters – Activated sludge process- Septic tanks - Construction and working of septic tanks- BOD, 
+COD, DO, Nitrogen, Phosphorus and Fluoride testing; Disinfection method; Microbiological tests 
+ 
+Solid Waste Management: Types of waste, Methods of solid waste disposal - Incineration, Dumping, 
+Sanitary landfill, Composting - energy from waste. 
+ 
+Air pollution: Air pollutants, Acid rain, Ozone depletion, Greenhouse effect, Global warming, 
+Industrial technologies to remove air pollutants
+
+Transportation Engineering 
+Transportation Infrastructure: Geometric design of highways - cross-sectional elements, sight 
+distances, horizontal and vertical alignments. 
+ 
+Geometric design of railway Track – Speed and Cant. 
+ 
+Concept of airport runway length, calculations and corrections; taxiway and exit taxiway design. 
+Highway Pavements: Desirable properties and tests for highway materials; Desirable properties of 
+bituminous paving mixes; Design factors for flexible and rigid pavements; Design of flexible and 
+rigid pavement using IRC codes, Design of Bituminous (hot, cold, warm) Mixes and Concrete Mix 
+for pavements, Pavement Evaluation Methods. 
+ 
+Traffic Engineering: Traffic studies on flow and speed, peak hour factor, accident study, statistical 
+analysis of traffic data; Microscopic and macroscopic parameters of traffic flow, fundamental 
+relationships; Traffic signs; Signal design by Webster’s method; Types of intersections; Highway 
+capacity. 
+ 
+Geomatics Engineering 
+Principles of surveying; Errors and their adjustment; Maps - scale, coordinate system; Distance and 
+angle measurement - Levelling and trigonometric levelling; Traversing and triangulation survey; 
+Total station; Horizontal and vertical curves. 
+ 
+Photogrammetry and Remote Sensing: Scale, flying height; Basics of remote sensing and GIS.

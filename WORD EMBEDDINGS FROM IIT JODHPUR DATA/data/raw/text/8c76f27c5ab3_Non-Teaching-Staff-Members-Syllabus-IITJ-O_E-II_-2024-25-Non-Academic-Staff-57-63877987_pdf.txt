@@ -1,0 +1,49 @@
+SOURCE_PDF: 8c76f27c5ab3_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877987.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT (Bioscience & Bioengineering)
+(A) WRITTEN TEST
+Cell & Molecular Biology: Cell types, organization, cellular organelles, central dogma in Molecular 
+Biology, DNA, RNA, proteins, DNA replication, transcription, translation, regulation of gene 
+expression, horizontal gene transfer, cell communication, cell cycle, mitosis, meiosis 
+Microbiology: Types of microorganisms, microbial physiology and metabolism, microbial genetics, 
+microbial growth and enumeration, applications of microorganisms 
+Biochemistry: chemicals of life, water as vital essence of life, macromolecules carbohydrates, fats, 
+proteins, lipids, enzymes, enzyme kinetics, enzyme regulation, metabolism, catabolism, anabolism, 
+glycolysis, TCA cycle, oxidative phosphorylation 
+Immunology: Innate and adaptive immune systems and their components, Antibody-antigen 
+interactions, serodiagnosis, recent knowledge and applications concerning immunity to various 
+infections 
+Basic statistics: Sampling and its Techniques; Sample Mean, Median, Mode Variance; Random 
+Samples and Random Numbers, Sample SD, SEM; Idea of Significance, Correlation of Measurements, 
+and Significance Tests., 
+Molecular diagnosis: PCR, RT-PCR, vectors, primer designing, ELISA, Bioethics, biosafety for 
+disposal of laboratory materials (microbes, animal and plant tissues), Cell culture (Animal, Human, 
+Microbial), Cell quantification techniques, flow cytometry, cell enumeration, assessment of cell death
+(B) SKILL TEST
+1. Laboratory safety considerations 
+2. Operation of autoclave 
+3. Reagent & Buffer preparation 
+4. Slide preparation for Microscopy 
+5. Uses of various microbiological and mammalian cell culture media 
+6. Dilution plating 
+7. Measuring enzyme activity 
+8. Enumeration of microbial culture by haemocytometer. 
+9. Extraction of Biomolecules from various sources 
+10. Quantification of Biomolecules 
+11. Separation methods for Biomolecules 
+12. Recombinant DNA technology 
+13. Principles of Microscopy (light and fluorescence) 
+14. Basic spectroscopic techniques 
+15. Principles of PCR: Endpoint and real time
+Other general skills for trade test 
+1. Practical knowledge (including safe handling) of analytical devices 
+2. Analysis of Equipment technical specifications 
+3. General equipment maintenance & usage logging 
+4. Annual maintenance and calibration of equipment 
+5. Maintenance of consumable stocks 
+6. Effective oral & written communication skills 
+7. General knowledge & aptitude 
+8. Basic computer knowledge and effective usage of Microsoft office 
+9. Laboratory management 
+10. Installation & maintenance of software

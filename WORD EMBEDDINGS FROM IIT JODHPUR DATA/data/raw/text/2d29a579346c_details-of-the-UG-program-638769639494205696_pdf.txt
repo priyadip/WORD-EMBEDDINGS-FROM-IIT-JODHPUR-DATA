@@ -1,0 +1,245 @@
+SOURCE_PDF: 2d29a579346c_details-of-the-UG-program-638769639494205696.pdf
+
+UG Program (B.Tech Mechanical Engineering)
+The key objectives of this program are:
+a. To enable students to have fundamental understanding of the core concepts of Mechanical
+Engineering
+b. To integrate analytical and computational ability with experimental skills to create
+individuals competent in professional engineering practices
+c. To stimulate critical thinking towards application of mechanical engineering concepts in
+interdisciplinary problem solving
+d. To expose students to advanced concepts like AI & ML, Industry 4.0 and IoT for product and
+system design
+e. To inculcate an attitude towards commitment to engineering ethics, leadership qualities
+and professional development.
+Graduates of B.Tech program in Mechanical Engineering will have:
+1. Strong understanding of fundamentals of Thermofluids, Mechanical Design and
+Manufacturing (Processes and Systems)
+2. Ability to apply mechanical engineering principles to address challenges in real life
+problems through creative interdisciplinary thinking
+3. Ability to use different simulation and computational tools for a better understanding and
+designing of mechanical processes/systems
+4. Capability to appreciate the use of some of the advanced concepts like AI & ML, Robotics,
+Industry 4.0, IoT in Mechanical Engineering applications
+5. Awareness of grassroots problems of the society and ability to provide technological
+solutions of sustainable nature.
+6. Entrepreneurial spirit to undertake disruptive innovations
+7. Skills to communicate engineering concepts and ideas to peers in written or oral forms
+8. Commitment towards professional ethics and have humanitarian engineering skills.
+
+Learning Outcome 
+Graduates of the B.Tech. program in Mechanical Engineering will:
+1. Gain a strong understanding of mathematics, science and engineering fundamentals of
+mechanical engineering
+2. Be able to design and conduct experiments as well as to analyze and interpret data
+3. Be introduced to concepts including engineering design / optimization / sensors fabrication
+/ computational methods / simulation tools / thermal systems / refrigeration / heat
+transfer/ fluid flows/ nanomaterials/ AI/ IoT/ Smart Computing for various applications
+4. Have the ability to design a mechanical system, component or process tailored to meet
+desired needs under socio-economic and environmental constraints
+5. Be exposed to common problems that are prevalent in the domains of energy storage,
+systems and devices, clean energy, and nano-materials, futuristic technology, and advanced
+scientific computation methods, allowing them to innovate and develop technological
+solutions for the same
+6. Receive effective, hands-on laboratory training as a part of laboratory courses and short-
+term research projects
+7. Develop their communication skills by participating in classroom presentations, seminars
+and workshops on manuscript / patent writing / presentation skills
+8. Be taught the value of team work and group discussion in problem solving, and time
+management to continue co-curricular activities without compromising for academics.
+New skillsets targeted 
+Multi and interdisciplinary approaches
+1. Design, develop and manufacturing of new or modified components for mechanical systems
+using computer-aided design/modelling software/additive manufacturing
+2. Latest industrial pursuits, particularly in the areas of automation, robotics, and smart
+scientific computing, microfluidics etc.
+3. Development of smart manufacturing capabilities for relevant industries
+4. To play key roles in improving the range and performance of hybrid and electric automotive
+vehicles
+5. Design of power-producing machines in the fields of alternative energies
+6. Experimental validation of computational designs
+
+7. Selection of materials based on engineering applications to ensure that it is safe, reliable
+and efficient
+8. Advanced mechanical testing and characterization techniques
+9. Familiarity with advanced and futuristic scientific computing techniques
+Topic clouds and Mapping of Topic clouds with proposed courses
+
+Area Topics Category (Core/
+Techniques
+Technology/Systems) Course (PC/PE)
+Design Stress, Strain,
+Bending & Torsion Core Mechanics of Solid (PC)
+Hydraulic and
+Pneumatic Systems,
+Electro-Mechanical
+systems,
+Microprocessor and
+Microcontroller
+based Mechatronic
+systems,
+Design and
+Selection of
+Mechatronics
+Elements Core and Techniques Embedded systems and IoT
+(PC)
+Geometric &
+Functional
+Requirements,
+Sizing, Theory of
+Failures, Design and
+Selection of
+Machine Elements Core and Techniques Design of Machine Elements
+(PC)
+Mechanism
+Synthesis, Motion
+Analysis, Force
+Analysis, Gear
+Trains, Cams,
+Dynamics of Multi-
+Cylinder Engines Core and Techniques Kinematics & Dynamics of
+Machines (PC)
+Engineering
+Mechanics Core Engineering Mechanics
+Galerkin methods
+Finite element
+methods Techniques Introduction to Finite
+element methods(PE)
+Mechanical
+vibrations of one,
+two and multi
+degree of freedom
+systems, types of
+damping, vibration
+control and
+measurements,
+Introduction to
+continuous systems. Core Mechanical Vibrations (PE)
+Topics and Mapping of Topic with Courses
+
+Advanced analysis
+of strength of
+materials Core Advanced mechanics of
+solids (PE)
+Optimization
+techniques for
+engineering
+problems Technique Engineering Optimization
+(PE)
+Curves, Surfaces
+and Solid Modeling Core, systems and
+Techniques Computer aided Design
+(PE)
+Mechatronics, IoT Systems and Technology Mechatronics (PE)
+Biomechanical
+systems Systems and Techniques Principles of Biomechanics
+(PE)
+Intermediate
+Mechanics of Solids Core Intermediate Mechanics of
+Solids (PE)
+Control system Systems and Techniques Control Systems (PE)
+Experimental
+Robotics Systems and Techniques Experimental Robotics (PE)
+Links, mechanisms
+and dynamics in
+vehicles Systems Vehicle dynamics (PE)
+Theory of sound
+generation, sound
+propagation and
+sound reception. Systems Introduction to Acoustics
+(PE)
+Manufacturing Forming
+Technology Core and Technology Fundamentals of Metal
+Forming Technology (PE)
+Casting, Welding
+and Forming Core and Techniques Casting, Welding and
+Forming (PC)
+Production and
+Operations
+Management Core and Techniques Production and Operations
+Management (PC)
+Machining Science
+and Metrology Core and Techniques Machining Science and
+Inspection Technology (PC)
+Smart
+Manufacturing Core and Techniques Smart Manufacturing (PC)
+Digital fabrication Core and Techniques Digital Fabrication (PC)
+Manufacturing Lab Core and Techniques Manufacturing Process and
+Systems Lab (PC)
+Machining Lab Core and Techniques Machining and Automated
+Manufacturing Lab (PC)
+Casting and Allied
+Processes Core and Technology Casting and Allied
+Processes (PE)
+Welding Science
+and Technology Core and Technology Welding Science and
+Technology (PE)
+Micro-Nano
+Manufacturing Core and Technology Micro-Nano Manufacturing
+(PE)
+Design and
+Manufacturing of
+Bio Materials Core and Technology Design and Manufacturing
+of Bio Materials (PE)
+
+Computer
+Integrated
+Manufacturing Core and Technology Computer Integrated
+Manufacturing (PE)
+Non Traditional
+Machining Process Core and Technology Non Traditional Machining
+Process (PE)
+Tool Design Core and Technique Tool Design (PE)
+Applied Ergonomics Core and Technology Applied Ergonomics (PE)
+Design for X Core and Technology Design for X (PE)
+Welding metallurgy Core and Technology Welding Metallurgy (PE)
+Thermofluids Fluid Statics,
+Kinetics, Dynamics,
+Inviscid Theory,
+Viscous Flow,
+Turbulence and
+Compressible flow
+Fundamentals Core and Techniques Fluid Mechanics (PC)
+Conduction,
+Convection,
+Radiation, Boiling &
+Condensation, Heat
+Exchanger Core and Techniques Heat and Mass Transfer
+(PC)
+Thermodynamics Core Thermodynamics (PC)
+Heat engines and
+Power Plant Cycles,
+Turbomachines,
+Refrigeration and
+Air-conditioning Systems and Technique Thermofluids Engineering
+(PC)
+Parallel computing
+techniques Systems and Technique Introduction to parallel
+computing (PE)
+Turbines, pumps
+and compressors Systems and Technique Turbomachinery (PE)
+Combustion driven
+engines for
+automobiles Systems and Technique Automotive Propulsion(PE)
+Refrigeration cycles
+and air-conditioning
+systems Systems and Technique Refrigeration and Air-
+conditioning(PE)
+Cycles in power
+plant and energy
+conversion systems Systems and Technique Power Plant
+Engineering(PE)
+Fluid dynamics in
+porous media Core and Technique Porous media flows and
+applications(PE)
+Computational
+techniques for heat
+and fluid dlow Core and Technique Introduction to
+Computational Heat and
+Fluid Flow(PE)
+Advanced Fluid Core Advanced Fluid Mechanics
+
+Mechanics (PE)
+Solar syatems Technique and Technology Solar Thermal Systems
+Smart Sensors Technology Smart Sensors & Soft
+Computing(PE)

@@ -1,0 +1,18 @@
+ai ds curriculum structure ay
+btech in ai ds will offer students with knowledge of fundamental concepts as well as oriented technologies in the broad areas of artificial intelligence and data science
+interested students may also follow entrepreneurial endeavors in ai ds areas
+comprehend fundamental concepts and knowledge of the ai ds
+design and build ai ds systems solving problems and to reason about
+understand and assess reliability dependability and of ai ds based systems and their impact on societal and environmental context
+apply appropriate theories design principles frameworks and protocols to develop ai ds based system prototypes
+function effectively as an individual and as member or leader in diverse teams and in multidisciplinary settings
+ai ds algorithms for transforming large data into actionable decision
+familiarity with emerging and futuristic ai ds techniques
+visual computing cs ai ds ee computer graphics computer vision visual computing lab digital image processing video processing and analysis advanced machine learning introduction to ar and vr scalable machine learning computational photography computational imaging principles of biological vision bioimaging medical image analysis visual perception advancements in computer vision animation vision architecture image synthesis shape analysis image and video forensics selected topics in computer vision project
+reality cs ai ds ee social network introduction to ar and vr multimodal interface lab introduction to haptics design process speech understanding computer graphics hci nlu computer vision visual perception image and video forensics project
+cat course ltp ch nc gc cat course ltp ch nc gc semester ii semester ie introduction to electrical engineering ie engineering mechanics ie introduction to computer science is chemistry ie introduction to bioengineering is physics is chemistry lab is physics lab is mathematics is mathematics ii ie engineering visualization ie engineering realization ne engineering ne engineering design design ii nh communication nh communication skill skill ii nh social connect nh social connect and and responsibilities responsibilities ii nh performing arts nh performing arts sports sports ii total total iii semester iv semester ls pssp ie materials science engineering electronic materials ie energy materials computational materials design pc data structures ie pattern and algorithms recognition and pc maths for ie thermodynamics ie signals and systems pc hmi pcs ls quantum info processing ne intro
+ai ds regular table
+in ai ds ih humanities ii pe open elective nh professional nh ethics policy ethics law and total total vii semester viii semester pp
+pc pcs da of algorithm pcs artificial intelligence data engg optimization in ml data hmi visualization deep learning dependable ai pe engineering science multimodal bouquet ih humanities ii nh professional ethics nh ethics total total vii semester viii semester pp
+ai ds engineering and engineering science table
+pc ih humanities iii maths for big data multimodal bouquet is environmental science total total total of graded and credit design credits grand total note es are proposed engineering science compulsory courses

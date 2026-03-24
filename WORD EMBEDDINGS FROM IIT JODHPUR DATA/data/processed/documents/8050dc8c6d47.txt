@@ -1,0 +1,10 @@
+nano and flexible electronics semiconductor devices have been at the core for advancement of the current ic industry
+till now the technology has followed moore law for scaling towards the nm era
+to accomplish that various new materials and device structures have found place in current generation chips
+moreover various issues related to technology scaling such as quantum mechanical effects have found importance in for new generation devices
+in addition new memory technologies have been explored for faster and denser alternatives to conventional random access memories
+moreover technologies such as flexible electronics have emerged as potential candidate for large area and low cost options for hybrid integration of flexible components
+to train the students in this specialization and cover the essential fundamentals three core components have been chosen quantum flexible and printed electronics emerging devices including alternate transistor structures and new memory devices
+these will provide fundamental understanding of new generation related processing and characterization
+the electives will help in shaping the ability of the students to think creatively provide an in depth cognition and expose them to deliver towards direct applications and also to undertake industry relevant research
+combination of nano and flexible electronics will prepare students for new age challenges such as cost power and wider suitability for various applications

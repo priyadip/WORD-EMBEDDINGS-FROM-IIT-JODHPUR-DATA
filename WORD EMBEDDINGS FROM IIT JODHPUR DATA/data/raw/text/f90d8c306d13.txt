@@ -1,0 +1,9 @@
+SOURCE_URL: https://home.iitj.ac.in/~sidharth
+
+I am an Assistant Professor of Computer Science and Engineering at the Indian Institute of Technology Jodhpur . I graduated with a Ph.D. in CSE from the Indian Institute of Technology Bombay in 2020, advised by Prof. Ashwin Gumaste . My Ph.D. research was focused on various modeling, experimentation, and analytical aspects of network management in next-generation software-defined networks.
+I am currently focused on developing network infrastructure for the efficient training and inference of deep neural networks (DNNs), including the complex requirements of large language models (LLMs). I am also working on designing self-optimized and highly-available next-generation networks.
+I am looking for motivated students to join my research group. Please send me your CV if you are interested in doing a PhD in my research interests.
+Network Systems for AI at Scale
+Self-Optimizing and Resilient Networks
+Network Softwarization
+Performance Modelling

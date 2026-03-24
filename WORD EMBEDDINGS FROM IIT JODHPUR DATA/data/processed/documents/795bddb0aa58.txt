@@ -1,0 +1,360 @@
+courses applicable from
+title engineering mechanics number mel1010 department mechanical engineering offered for
+st year all branches type compulsory prerequisite nil objectives
+to apply knowledge of statics and dynamics to particles and rigid bodies learning outcomes
+to model practical structural problems using concepts of free body diagrams and equilibrium conditions
+to solve dynamic problems using newton law and principles contents statics lectures basic dimensions in mechanics law of dimensional homogeneity vector and scalar quantities elements of vector algebra
+moment of force about couple free body diagram equations of equilibrium static indeterminacy trusses and beams coulomb friction surface contact friction transmission of power through belt
+theorems second moments and product of area principal axes
+dynamics of particles lectures kinematics of particles velocity and acceleration in terms of path variables simple relative motion motion of particle relative to pair of translating axes newton laws of rectangular translation cylindrical force motion
+conservation of mechanical energy equations center of mass based kinetic energy impulse and momentum relation of particles moment of momentum of particles dynamics of rigid bodies lectures of rigid bodies theorem time derivative of vector for different references
+parallel axis theorems rotational pure rotation of body of revolution about its axis of with translation
+three dimensional rotation moment of inertia tensor relation between angular momentum and torque in three dimensions motion in frames centrifugal force coriolis rate of change of vector in inertial and rotating frames
+shames engineering mechanics prentice hall
+gross hauger and schrder engineering mechanics springer
+meriam kraige engineering mechanics john wiley sons
+harbola engineering mechanics cengage learning self learning material
+harbola engin eering mechanics nptel course material department of physics ind ian institute of technology kanpur
+lewin physics classical mechanics fall mit title engineering visualization number mep1010 department mechanical engineering offered for
+to inculcate how to expresses ideas of technical nature with pragmatic intention
+helping students understand the role of engineering graphics in product design process
+to distinguish between the different types of projections and indicate the dimensions
+to visualize and communicate product design using graphics
+contents module labs free hand sketching of engineering objects interpretation of drawings as visualisation and communication tool orthographic views isometric views sectioning of objects perspective projection assembly drawing animation of assemblies draughting module labs circuits and electrical engineering drawings module labs introduction to data visualization tools introduction to reference books
+luzzader and duff fundamentals of engineering drawing prentice hall
+bhatt elementary engineering drawing charoter publishing
+bethune engineering graphics with autocad prentice hall self learning material
+engineering drawing nptel course material department of metallurgical indian institute of technology guwahati title engineering realization number mep1020 department mechanical engineering offered for
+st year type compulsory prerequisite nil objectives
+to develop awareness about the process of materials selection and manufacturing processes in product development
+appreciate the importance of working in team for technology development problems learning outcomes
+basic understanding about engineering materials and manufacturing processes along with their applications
+appreciation of product development process by endeavouring contents module labs conventional manufacturing demonstration of process flow in conventional manufacturing shops exercises material selection and relationships exercise module labs modern manufacturing modelling and simulation demonstration of process chain from design to realization of the prototype exercise automation in manufacturing exercise cnc machine tools exercise modern inspection techniques exercise module labs working with embedded hardware exercise sensor integration exercise dc motor control exercise reference books
+degarmo kosher and black materials and processes in manufacturing phi
+kalpakjiam and schmid manufacturing engineering and technology pearson self learning material
+title engineering design number oae1010 department all departments offered for
+to design and analysis of engineering problems and develop the ability to visualize the solution
+approach to solve unstructured engineering design problems
+contents engineering design problem definition background research identifying performance specifications ideation analysis of design selection graphical realization animation case studies on design conceptualization self learning material title engineering design ii number oae1020 department all departments offered for
+understand to realizes conceptual design to working prototype learning outcomes
+develop insight to realize an engineering product contents product realization selection of materials modelling and simulation dimensioning and tolerance prototyping prototype refinement integrating mechanical and electrical elements controller integration and programming case studies on design realization self learning material title mathematics number mal1010 department mathematics offered for
+st year type compulsory prerequisite none objectives
+train the undergraduate students towards basic understanding of mathematics
+provide student with sufficient knowledge in calculus which can be used by the students in their respective fields
+enable students to develop working knowledge of central ideas of single and multivariable calculus
+impart knowledge of basic concepts like limit continuity differentiability maxima and minima reimann integration and their applications
+gain strong understanding of integration in higher dimension and vector calculus
+improve their ability to think critically to analyze problem and solve it using wide array of tools
+contents single variable calculus lectures lectures properties of real number system sequences and series of real numbers review of limit continuity and differentiability of functions rolle theorem mean value theorems and taylor theorem maxima minima and curve tracing
+lectures riemann integral fundamental theorem of calculus application to length area volume surface area of revolution
+multivariable calculus lectures lectures functions of several variables sequences limit and continuity of functions of several variables partial derivatives chain rule gradient directional derivative and differentiability taylors formula for functions from to tangent planes and normal maxima minima saddle points lagrange multipliers total derivative of functions from to jacobian matrix sufficient condition for differentiability
+lectures double and triple integrals change of variables vector fields gradient curl and divergence curves
+lectures line integrals and their applications green theorem and applications surfaces surface area surface integrals divergence theorem stokes theorem and applications
+finney calculus and analytic geometry th edition addison wesley publishing company
+ghorpade limaye course in calculus and real analysis springer verlag
+ghorpade limaye course in multivarible calculus and analysis springer verlag reference books
+and hass thomas calculus pearson education
+apostol calculus and john wiley sons
+ayers and mendelson outline of calculus mcgraw hill
+iit kanpur calculus of one real variable gupta
+iit roorkee multivariable calculus title mathematics ii number mal1020 department mathematics offered for
+st year type compulsory prerequisite none objectives the instructor will
+provide understanding of fundamentals of linear algebra
+provide understanding of fundamentals of differential equations
+learning outcomes the students are expected to have the ability to
+impart knowledge of different structures and their properties like dependence basis and dimension
+gain strong understanding of linear transformations between structures and its relation with matrices
+solving analytical and series solution for ordinary differential equations and analyzing the stability of linear ode systems
+contents linear algebra lectures lectures matrices vector spaces over the field of real and complex numbers subspaces linear independence basis dimensions coordinate with respect to basis complementary subspaces linear transformations range space and rank null space and nullity matrix representation of linear transformation change of basis and similarity theorem
+lectures inner product norm orthogonlization process orthonormal bases
+eigenvalues and eigenvectors characteristic polynomials theorem properties of eigenvalues and eigenvectors diagonalization of matrices
+differential equations lectures lectures first order ordinary differential equations geometrical interpretation of solution solution methods for separable equations exact equations linear equations existence and uniqueness of solution of ivp wronskian and general solution of nonhomogeneous equations picards theorem for ivp without proof
+second order linear differential equations general solution of homogeneous equation equation extensions of the results to higher order linear differential equations
+lectures power series method frobenius method and orthogonal functions system of first order linear ode and its stability
+axler linear algebra done right undergraduate texts in mathematics springer
+kreyszig advanced engineering mathematics john wiley sons
+simmons differential equations with applications and historical notes tata mcgraw hill
+and diprima elementary differential equations and boundary value problems john wiley sons
+strang linear algebra and its applications thomson
+kumaresan linear algebra geometric approach phi learning
+coddington an introduction to ordinary differential equations
+lipschutz and lipson schaum outline of linear algebra mcgraw hill
+bronson and costa schaum outline of differential equations mcgraw hill
+iit bombay basic linear algebra manam iit madras differential equations for engineers title electromagnetism and optics number phl1010 department electromagnetism and optics offered for
+provide an understanding of electric and magnetic field distribution and electromagnetic nature of radiation
+provide an understanding of wave propagation in different media learning outcomes
+relate theoretical concepts with problem solving approach in electromagnetism and optics
+solve field distribution in vacuum conducting and dielectric systems contents electromagnetism electrostatics lectures calculus of fields coulomb law gauss theorem electrostatic potential laplace equation conductors capacitors and dielectrics boundary conditions magnetostatics lectures law circuital law lorentz force magnetism magnetic induction lectures faraday law lenz law self and mutual inductance energy stored in magnetic field boundary conditions electrodynamics lectures displacement current electromagnetic waves plane wave solutions of maxwell equations poynting vector maxwell equations in conductors and dielectrics introduction to waveguides optics wave nature of light lectures interference fresnel and fraunhoffer diffraction ordinary and extraordinary rays plane circular and elliptically polarized light birefringence half wave plates introduction to optical microscopy polarization phase contrast and confocal microscopy textbook
+ghatak optics th edition mcgraw hill education india
+griffiths introduction to electrodynamics th edition pearson education india reference books
+ida engineering electromagnetics rd edition springer nature
+hecht optics schaum outline series mcgraw hill education india
+born and wolf principles of optics electromagnetic theory of propagation interference and diffraction of light th edition cambridge university press
+ghosh electromagnetic theory department of physics indian institute of technology bombay
+electricity and magnetism department of physics massachusetts institute of technology mit opencourseware course number spring
+license creative commons
+title physics laboratory number php1010 department physics offered for
+st year type compulsory prerequisite nil objectives provide understanding on usage of electrical mechanical and optical systems for various measurements
+provide understanding on applying analytical techniques error estimation and graphical analysis to the experimental data
+learning outcomes understand interplay of electricity magnetism and light develop idea of linear rotational and vibrational motion and mechanics contents laboratory experiments ratio determination of ratio of charged particle basic current balance understanding electromagnetic forces dispersive power measuring the dispersive power of prism using spectrometer diffraction of light wave examining the diffraction and interference pattern using single slit and double slits fresnel determination of wavelength of monochromatic light source newton rings study of newton rings in thin hall effect determination of charge carrier density faraday rotation studying the effect of magnetic field on the transmission of linearly polarized light air track and friction experiments moment of inertia of flywheel vibration of string text books
+electromagnetism and optics laboratory manual indian institute of technology jodhpur
+shukla and srivastava practical physics new age international title chemistry number cyl1010 department chemistry offered for
+relate the fundamental principles of chemistry with practical problems encountered for engineers and place the emphasis on
+provide knowledge of engineering materials metals composites polymers cement steel fuels batteries and drugs
+learning outcomes understanding the behavior of matter and materials using fundamental knowledge of their nature
+understanding the basic concepts and implementation of the same in advanced and interdisciplinary areas
+predict potential complications from combining various chemicals or metals in an engineering setting
+contents atomic and molecular structure lectures particle in box angular momentum wavefunction multielectron atoms homonuclear and heteronuclear diatomic molecules interactions solid state chemistry lectures lattice and unit cells diffraction bands in solids semiconductors introduction to nanomaterials based on dimensionality and properties
+surface chemistry lectures surfaces and interfaces surface modification surface energy contact angle and surface tension
+electrochemical systems lectures electrochemical cells and emf applications of emf measurements steady state approximation chain reactions photochemical kinetics fuel cells and batteries oer and her reactions corrosion basic spectroscopy lectures selection rules fundamentals ftir raman and fluorescence spectroscopy transition metal chemistry lectures colors in complexes organometallics and catalysis bioinorganic chemistry organic chemistry lectures name reactions stereochemistry and their applications chemistry use of buffers organic chemistry examples such as polymers and biopolymers drugs and photoactive molecules in everyday life and advanced technologies
+textbooks silberberg chemistry the molecular nature of matter and change th edition mcgraw hill education
+west solid state chemistry and its applications nd edition john wiley sons
+lee concise inorganic chemistry th edition
+atkins physical chemistry th edition
+reference books mcmurry fay chemistry th edition pearson
+jonathan clayden nick greeves stuart warren organic chemistry edition
+albert cotton geoffrey wilkinson basic inorganic chemistry wiley student edition
+title chemistry laboratory number cyp1010 department chemistry offered for
+st year type compulsory prerequisite nil objectives relate the fundamental principles of chemistry with practical problems encountered for engineers and place the emphasis on provide knowledge of engineering materials such as metal complexes composites dyes polymers surfactants steel batteries and drugs
+learning outcomes students will be able to develop synthetic and analytical laboratory skills and think innovatively
+understand and analyse physical concepts interpret experimental results and relate to the applications
+laboratory experiments preparation of complex salt of co en cl preparation of fourier transform infrared ftir spectroscopy in combination technique for analysis of caffeine in tea coffee the excitation and emission spectrum of curcumin in solvents ethanol and hexane respectively and find stokes shift using fluorescence spectroscopy surface contact angle surface tension and surface free energies of different solvents and substrates respectively
+study of reversible redox reaction using cyclic voltammetric analysis
+study of color in complexes using uv visible spectroscopy determination of critical micelle concentration of surfactant by conductivity method study of orrosion of tainless teel using tafel analysis
+determination of the enantiomeric purity of naproxen and ibuprofen
+practical physical chemistry latest ed
+laboratory manual on engineering chemistry latest ed
+bhasin and sudha rani reference books
+hill finster laboratory safety for chemistry students wiley
+douglas skoog james holler and stanley crouch principles of instrumental analysis th edition cengage
+title introduction to electrical engineering number eel1010 department department of electrical engineering offered for all type compulsory prerequisites objectives
+to train the undergraduates towards basic concepts of electrical circuits dc and ac machines
+to introduce the basics of electronics and their applications to undergraduate students of all disciplines learning outcomes
+ability to analyze circuits some electric machines ac supply systems and magnetic circuits
+ability to analyze and design basic electronic circuits using passive and active components for various applications contents basic circuit concepts lectures review of circuit laws thevenin and norton theorem conversion time response of circuits alternating electrical quantities lectures concepts of phasors impedance real and reactive power impedance and power diagrams magnetic circuits lectures basics of magnetic circuits series and parallel magnetic circuits single phase transformer lectures working principle equivalent circuit efficiency and regulation sc and oc tests energy conversion and dc machines lectures principles of energy conversion types of dc generators and motors and their characteristics speed control of dc motors diodes lectures principle of operation diode characteristics diode circuits and applications transistors lectures principle of operation concept of biasing characteristics and applications of transistor basic amplifier configurations operational amplifiers lectures basic model and specifications negative feedback inverting and amplifiers concept of virtual ground applications
+digital logic lectures logic gates boolean algebra canonical forms of boolean function representation minimization of boolean functions using combinational and sequential circuit design transducers lectures inertial sensors capacitive magnetic sensors ultrasonic transducers temperature bridge circuits laboratory verification of thevenin theorem in ac circuits transformer assembly and equivalent parameters using test speed control of dc motor diode rectifiers and analysis of ripple factors with and without filters bjt application as switch
+automatic street light or amplifier eg
+audio amplifier opamp applications
+schmitt trigger as comparator operation of instrumentation amplifier etc
+digital logic and design logic implementation with counter design introduction to microcontrollers pi with basic experiments on controlling led integration etc
+textbooks rizzoni principles and applications of electrical engineering edition mcgraw hill education boylestad nashelsky electronic devices and circuit theory edition prentice hall sedra smith microelectronic circuits edition oxford university press smith and dorf circuits devices and systems edition wiley mano digital design edition prentice hall reference books kothari and nagrath basic electrical engineering edition tata new delhi fitzgerald kingsley and umans electric machinery edition tata mcgrawhill series in electrical engineering hayt kemmerly and durbin engineering circuit analysis edition tata mcgraw hill self learning material umanand electrical technology nptel course material department of electrical engineering indian institute of science bangalore title introduction to computer science number csl1xx0 department computer science and engineering offered for
+contents introduction lectures basics of computer organization illustration using arduino operating system computational thinking problem solving system design algorithms
+basics of data representation lectures binary representation integer fixed point and floating point numbers variables arrays and programming constructs lectures imperative programming statements control constructs procedures examples using python object oriented programming lectures concept of class instances encapsulation inheritance static methods and class methods object memory management illustrations using python
+programming paradigms lectures imperative programming declarative programming the lambda operator procedural programming dynamic typing polymorphism dynamic binding and duck typing illustrations using python
+laboratory experiments programming exercises using python
+python the complete reference th edition mcgraw hill education
+introduction to computing systems nd edition mcgraw hill education
+introduction to computation and programming using python with application to understanding data
+quantum computer science an introduction cambridge university press
+satemos web apps with javascript and java st edition self learning material
+introduction to computer science and programming
+massachusetts institute of technolog mit opencourseware
+title introduction to bioengineering number bbl1xx0 department bioscience bioengineering offered for
+provide strong foundation of biology in the context of engineering by highlighting key differences in the approaches of both disciplines while illustrating how bioengineering utilizes the best of both disciplines
+provide multidisciplinary learning learning outcomes the students are expected to have the ability to
+approach biology from an engineering perspective by gaining an understanding of how biological systems function
+be inspired from biological systems and processes that have been perfected by evolution
+conceptualize novel engineering solutions for complex biological problems contents biology engineering approaches lectures observations deductive inductive and abductive reasoning hypothesis testing reductionism systems biology modeling tinkering with biological systems cause effect translational research attributes of bioengineer origin evolution of life lectures chemical basis of life water sustains life biomolecules biological macromolecules unity in diversity among life forms phylogeny functioning of biological systems lectures from organisms to cells relationships free energy entropy reactions biocatalysis energy coupling effects of process failure probability in life processes lectures storage of genetic information central dogma of biology cell division inheritance genetic variation control in living systems lectures gene expression logic gates control of cell division hormones signals receptors feedback control control failure disease responses of biological systems lectures interactions communication stress responses tolerance adaptation rhythms cycles ecosystems exploitation of living systems lectures antibiotics recombinant dna technology and materials for healthcare biodiesel and drop in biofuels from algae
+laboratory experiments laboratory safety and introduction to general laboratory practices measuring liquids in small volumes solutions buffer preparation quantifying simple biomolecules stress response selection biocatalysis separation of biomolecules microscopy
+urry cain wasserman minorsky reece campbell biology
+th edition pearson
+glick pasternak patten molecular biotechnology principles and applications of recombinant dna th edition american society for microbiology
+johnson biology for engineers crc press self learning material
+suraishkumar madhulika dixit biology for engineers and other nptel course material department of biotechnology indian institute of technology madras
+vishal trivedi basic biology department of biotechnology indian institute of technology guwahati
+vishal trivedi fundamentals of biotechnology department of biotechnology indian institute of technology guwahati title communication skill number hsn1010 department humanities and social sciences offered for
+facilitate students to gain language competence in order to communicate effectively in spectrum of contexts
+focus on the two basic skills of language learning namely listening and reading
+train the student to employ the above skills in both personal and professional settings learning outcomes
+distinguish between hearing and listening and to understand listening as skill of critical significance
+engage effectively in classroom situations and also with various texts with useful reading strategies
+integrate classroom learning into an everyday communicative activity thus making the learning both reflective and experiential
+contents listening barriers to listening active listening listening and speaking listening and receiving listening and understanding listening and responding listening and remembering listening and paraphrasing listening and reflecting listening to audiovisual aids listening to and comprehending media including films radio programs academic public speeches
+reading introduction and application of reading techniques comprehension types of reading including scanning skimming critical reading and speed reading exploration of texts through various reading strategies
+laboratory sessions will include individual and group activities and hands on experiential learning modules workshop session on listening with janaki sabesh storyteller theatre resource person voice artiste from golpo tales unlimited hours workshop on reading review and critical analysis film screening and discussion hours ii reading books newspaper articles journals hours textbook all reading material for the course will enhance both creative and critical thinking and will include the articles famous speeches biographies passages from science and technology fiction nonfiction and film word games and puzzles and will be compiled by the instructors and shared with the student
+english grammar in steps english grammar presented explained and practiced in context
+wren pc martin high school english grammar composition
+chand publishing blackie
+elt books new delhi india
+wren pc martin key to regular multicolor edition of high school english grammar composition
+prasad rao publishing blackie
+english language for competitive examinations course material department of humanities and social sciences indian institute of
+nptel course material department of humanities and social sciences indian institute of
+title communication skill ii number hsn1020 department humanities and social sciences offered for
+st year type compulsory prerequisite nil objectives facilitate students to gain language competence in order to communicate effectively in spectrum of contexts
+focus on the two basic skills of language learning namely speaking and writing
+train the student to employ the above skills in both personal and professional settings learning outcomes speak more efficiently and explore the act of writing as an active process
+articulate with clarity and use better language for specific situations
+contents speaking modes of communication formal and informal verbal and communication group discussions mock personal interviews powerpoint presentations academic and body language basic and telephone etiquette
+writing paragraph writing writing an email note making report writing letter writing reviewing articles structuring writing grammar identifying common errors in english use of articles use of prepositions tenses spellings filling in worksheets
+laboratory sessions will include individual and group activities and hands on experiential learning modules practice workshop on speaking group discussion personal interview hours writing workshop essay creative storyboard journal writing letter email writing hours field visit and workshop photo essay report writing hours textbook all reading shared with the student
+english business english communication
+ravichandran communication skills
+nptel course material department of humanities and social sciences indian institute of kanpur
+title social connect responsibilities social connect responsibilities ii number osn1010 osn1020 department office of students offered for
+st year type compulsory prerequisite nil objectives the course will
+provide formal platform to students to communicate and connect to the surrounding
+enable to create responsible connect with the society learning outcomes the students are expected to have the ability to
+understand social responsibility
+practice sustainability and creativity
+showcase planning and organizational skills contents the course is mainly activity based that will offer set of activities for the student that enable them to connect with fellow human being nature society and world at large
+the course will engage students for interactive sessions open mic reading group storytelling session and semester long activities conducted by faculty mentors
+in the following set of activities planned for the course have been listed plantation and adoption of tree plantation of tree that will be adopted for four years by group of students
+they will also make an excerpt either as documentary or photo blog describing the plant origin its usage in daily life its appearance in folklore and literature
+heritage walk and crafts corner heritage tour knowing the history and culture of the city connecting to people around through their history knowing the city and its craftsman photo blog and documentary on evolution and practice of various craft forms
+organic farming and waste management usefulness of organic farming wet waste management in neighboring villages and implementation in the campus water conservation knowing the present practices in the surrounding villages and implementation in the campus documentary or photo blog presenting the current practices food walk city culinary practices food lore and indigenous materials of the region used in cooking
+jamming session open mic and poetry platform to connect to others
+share life stories with others activities total of hrs engagement per semester is required for the first year of the program
+the students will be divided into groups of each
+each group will be handled by two faculty mentors
+faculty mentors will design the activities
+engineering mechanics engineering mechanics mechanical engineering
+st year all branches objectives
+to apply knowledge of statics and dynamics to particles and rigid bodies to apply
+to equilibrium conditions to
+to principles statics second moments and product of area principal axes
+lectures basic dimensions in mechanics law of dimensional homogeneity dynamics of of particles particles lectures kinematics of particles velocity and acceleration in terms of rate of change of vector in inertial and rotating frames
+rigid bodies lectures of rigid bodies
+shames prentice hall shames
+gross hauger and schrder engineering mechanics springer gross hauger and schrder engineering mechanics springer
+meriam mechanics john wiley sons meriam
+harbola engineering mechanics cengage learning harbola self learning material
+harbola engin eering mechanics nptel course material department of physics ind ian institute of technology kanpur harbola engin eering ian institute of technology kanpur
+lewin lewin engineering visualization
+to visualize module labs free hand assemblies draughting free hand module labs circuits and electrical engineering drawings circuits and module labs introduction to data visualization tools introduction to introduction to
+luzzader of engineering drawing prentice hall luzzader
+bhatt charoter publishing bhatt
+bethune autocad prentice hall bethune
+engineering drawing nptel course material department of robi
+engineering drawing nptel course material department of engineering realization objectives
+to develop awareness about the process of materials selection and and schmid manufacturing engineering and technology pearson self learning material
+appreciate the importance of working in team for technology development problems
+appreciation of product development process by endeavouring module labs conventional selection and relationships exercise manufacturing demonstration module labs modern techniques exercise manufacturing modelling and simulation demonstration of process chain from module labs working with embedded hardware exercise sensor integration exercise dc motor control exercise
+degarmo kosher and black materials and processes in manufacturing phi degarmo
+kalpakjiam and schmid manufacturing engineering and technology pearson kalpakjiam
+engineering design objectives
+to design and case studies on design conceptualization self learning material
+to design and solution
+to design and
+approach to engineering design problem case studies on design conceptualization problem self learning material engineering design ii engineering design ii objectives
+understand to integration and programming case studies on design realization self learning material
+understand to realizes conceptual design to working prototype understand to
+develop insight to realize an engineering product develop insight product realization selection of materials integration and programming case studies on design realization product realization selection of materials self learning material objectives
+train iit roorkee multivariable calculus
+provide students in their respective fields
+enable multivariable calculus
+impart knowledge of basic concepts like and their applications
+impart knowledge of basic concepts like
+improve their ability to think critically to single variable calculus lectures calculus lectures properties of real value theorems and taylor theorem maxima minima and curve tracing
+properties of real lectures riemann integral area of revolution
+riemann integral multivariable calculus lectures lectures functions of jacobian matrix sufficient condition for differentiability
+functions of lectures double and triple curves
+double and triple lectures line integrals and surface integrals divergence theorem stokes theorem and applications
+line integrals and
+finney calculus and analytic geometry th edition addison wesley publishing company thomas
+ghorpade limaye course in calculus and real analysis springer verlag ghorpade limaye course in calculus and real analysis
+ghorpade analysis springer verlag analysis
+iit kanpur calculus of one real variable dutta
+multivariable calculus objectives the instructor will
+provide iit madras differential equations for engineers the instructor will
+understanding of fundamentals of differential equations
+the students are expected to have the ability to
+impart basis and dimension
+impart relation with matrices
+solving analyzing the stability of linear ode systems
+solving linear algebra lectures lectures matrices vector change of basis and similarity theorem
+matrices vector lectures inner product properties of eigenvalues and eigenvectors diagonalization of matrices
+inner product differential equations lectures equations extensions of the results to higher order linear differential equations
+first order ordinary differential equations lectures power series order linear ode and its stability
+kreyszig advanced engineering mathematics john wiley sons kreyszig
+simmons tata mcgraw hill
+boyce value problems john wiley sons
+bronson online course material
+iit bombay basic linear algebra rana
+iit bombay basic linear manam electromagnetism and optics electromagnetism and optics objectives
+provide an understanding of license creative commons
+provide an understanding of radiation
+provide an understanding of wave propagation in different media
+solve field distribution in vacuum conducting and dielectric systems electrostatics boundary conditions lectures calculus of fields coulomb law gauss theorem electrostatic magnetostatics lectures law circuital law lorentz force magnetism law circuital law lorentz force magnetism magnetic in magnetic field boundary conditions induction lectures faraday law lenz law self and mutual inductance energy stored electrodynamics dielectrics introduction to waveguides displacement current electromagnetic waves plane wave solutions of wave nature of polarization phase contrast and confocal microscopy light lectures interference fresnel and fraunhoffer diffraction ordinary and
+griffiths introduction to electrodynamics th edition pearson education india
+born and wolf principles of optics th edition cambridge university press
+ghosh objectives provide understanding on usage of electrical mechanical and optical systems for various measurements
+learning outcomes understand interplay of electricity magnetism and light develop idea of linear rotational and vibrational motion and mechanics contents laboratory technology jodhpur
+shukla and srivastava practical physics new age international provide understanding on usage of electrical mechanical and optical systems for various measurements
+provide understanding on usage of electrical mechanical and optical systems for various measurements
+understand interplay of electricity magnetism and light develop idea of linear rotational and vibrational motion and mechanics understand interplay of electricity magnetism and light develop idea of linear rotational and vibrational motion and mechanics laboratory experiments ratio determination of ratio of charged particle basic current balance examining the diffraction and interference pattern using single slit and double slits fresnel determination of wavelength of monochromatic light source newton rings study of newton rings in thin hall effect determination of charge carrier density faraday rotation studying the effect of magnetic field on the transmission of linearly polarized light air track and friction experiments moment of inertia of flywheel vibration of string ratio determination of ratio of charged particle basic current balance understanding electromagnetic forces dispersive power measuring the dispersive power of prism using spectrometer diffraction of light wave examining the diffraction and interference pattern using single slit and double slits fresnel determination of wavelength of monochromatic light source newton rings study of newton rings in thin hall effect determination of charge carrier density faraday rotation studying the effect of magnetic field on the transmission of linearly polarized light air track and friction experiments moment of inertia of flywheel
+electromagnetism and optics laboratory manual indian institute of technology
+shukla and srivastava practical physics new age international shukla and srivastava practical physics new age international objectives
+relate the th edition pearson
+relate the engineers and place the emphasis on relate the steel fuels batteries and drugs
+atomic and molecules interactions molecular structure lectures particle in box angular momentum solid state introduction to nanomaterials based on dimensionality and properties
+chemistry lectures lattice and unit cells diffraction bands in solids semiconductors surface chemistry lectures surfaces and tension
+surface chemistry lectures surfaces and electrochemical batteries oer and her reactions corrosion systems lectures electrochemical cells and emf applications of emf measurements steady state approximation chain reactions photochemical kinetics fuel cells and basic fluorescence spectroscopy spectroscopy lectures selection rules fundamentals ftir raman and transition catalysis bioinorganic chemistry metal chemistry lectures colors in complexes organometallics and organic life and advanced technologies
+chemistry lectures name reactions stereochemistry and their silberberg chemistry the molecular nature of matter and change th edition mcgraw hill education
+mcmurry th edition pearson
+chemistry laboratory objectives relate the fundamental principles of chemistry with practical problems encountered for engineers and place the emphasis on provide knowledge of engineering materials such as metal complexes analysis th edition cengage
+relate the fundamental principles of chemistry with practical problems encountered for engineers and place the emphasis on provide knowledge of engineering materials such as metal complexes composites dyes polymers surfactants steel batteries and drugs
+students will be able to develop synthetic and analytical laboratory skills and think innovatively
+understand and analyse physical concepts interpret experimental laboratory experiments preparation of complex salt of co en cl preparation of fourier transform infrared ftir spectroscopy in combination technique for analysis of caffeine in tea coffee the excitation and emission spectrum of curcumin in solvents ethanol and hexane respectively and find stokes shift using fluorescence spectroscopy surface contact angle surface tension and surface free energies of different solvents and substrates respectively
+teel using tafel analysis
+bhasin and sudha rani
+hill safety for chemistry students wiley
+douglas analysis th edition cengage
+introduction to electrical engineering department of electrical engineering objectives
+to train the undergraduates towards basic concepts of electrical
+to introduce the basics of electronics and their applications to undergraduate students of all disciplines to introduce the basics of electronics and their
+ability to analyze circuits some electric machines ac supply
+ability to analyze and design basic electronic circuits using passive and active components for various applications ability to analyze and design basic electronic circuits using passive basic circuit concepts lectures review of circuit of circuits basic circuit concepts lectures review of circuit alternating electrical quantities lectures concepts of phasors impedance real and reactive power impedance and power diagrams alternating electrical quantities lectures concepts of magnetic circuits lectures basics of magnetic circuits series and parallel magnetic circuits lectures basics of magnetic single phase transformer lectures working principle equivalent circuit efficiency and regulation sc and oc tests single phase transformer lectures working energy conversion and dc machines lectures principles of energy conversion types of dc generators and motors and their characteristics speed control of dc motors energy conversion and dc machines lectures principles of energy conversion types of dc generators and diodes lectures principle of operation diode characteristics diode circuits and applications lectures principle of transistors lectures principle of operation concept of configurations lectures principle of operation concept of operational amplifiers lectures basic model and amplifiers concept of virtual ground applications
+operational amplifiers lectures basic model and digital logic lectures logic gates boolean boolean functions using combinational and sequential circuit design lectures logic gates boolean transducers lectures inertial sensors capacitive magnetic sensors ultrasonic transducers temperature bridge circuits lectures inertial sensors capacitive magnetic sensors ultrasonic verification of thevenin theorem in ac circuits verification of thevenin theorem in ac circuits transformer assembly and equivalent parameters using test transformer assembly and equivalent parameters using test speed control of dc motor speed control of dc motor diode rectifiers and analysis of ripple factors with and without filters diode rectifiers and analysis of ripple bjt application as switch
+audio amplifier bjt application as switch
+automatic street light or amplifier opamp applications
+schmitt trigger as comparator operation of digital logic and design logic implementation with counter design digital logic and design logic implementation with introduction to microcontrollers pi with basic experiments on controlling led integration etc
+introduction to microcontrollers pi with basic rizzoni principles and applications of electrical engineering edition mcgraw hill education boylestad nashelsky electronic devices and circuit theory edition prentice hall sedra smith microelectronic circuits edition oxford university press smith devices and systems edition wiley edition prentice hall kothari and nagrath basic electrical engineering edition tata new delhi fitzgerald kingsley and umans electric machinery edition tata mcgrawhill series in electrical engineering hayt kemmerly and durbin engineering circuit analysis edition tata mcgraw hill umanand introduction to computer science computer science and engineering commons
+the role of computation in problem solving
+use the basic elements of loops arrays and write programs
+introduction lectures system computational thinking problem solving system design algorithms
+lectures basics of data floating point numbers variables arrays and representation lectures binary representation integer fixed point and programming constructs procedures examples using python constructs lectures imperative programming statements control object oriented sets dictionaries generators modules packages containers
+lectures concept of class instances encapsulation inheritance static methods and class binding and duck typing illustrations using python
+paradigms lectures imperative programming declarative programming the exercises using python
+satemos web apps with javascript and java st edition
+introduction to computer science and creative commons introduction to bioengineering bioscience bioengineering objectives
+provide strong foundation of biology in the context of technology guwahati
+provide strong foundation of biology in the context of disciplines
+provide multidisciplinary learning the students are expected to have the ability to
+approach biological systems function
+conceptualize novel engineering solutions for complex biological problems biology research attributes of bioengineer engineering approaches lectures observations deductive inductive and origin forms phylogeny evolution of life lectures chemical basis of life water sustains life functioning of reactions biocatalysis energy coupling effects of process failure biological systems lectures from organisms to cells relationships free energy entropy probability in of biology cell division inheritance genetic variation life processes lectures storage of genetic information central dogma control in failure disease living systems lectures gene expression logic gates control of cell responses of tolerance adaptation rhythms cycles ecosystems biological systems lectures interactions communication stress responses exploitation of biofuels from algae
+living systems lectures antibiotics recombinant dna technology biomolecules microscopy
+glick biotechnology principles and applications of recombinant dna th edition american society for microbiology
+johnson biology for engineers crc press
+suraishkumar madhulika dixit biology of biotechnology indian institute of technology madras
+vishal trivedi basic guwahati
+vishal trivedi fundamentals communication skill humanities and social sciences objectives
+facilitate institute of
+facilitate spectrum of contexts
+focus on the two basic skills of language learning namely listening and reading focus on the
+train the student to employ the above skills in both personal and professional settings train the
+engage effectively strategies engage effectively
+integrate learning both reflective and experiential
+integrate listening barriers to listening active radio programs academic public speeches
+barriers to listening active reading introduction and application of texts through various reading strategies
+introduction and application of laboratory sessions will include individual and group activities and hands on experiential learning modules laboratory sessions will include individual and group activities workshop session on listening with janaki sabesh storyteller theatre resource person voice artiste from golpo tales unlimited hours workshop on reading review and critical analysis all reading shared with the student
+wren pc india
+wren pc revised by
+english language for competitive sciences indian institute of iqbal ayesha
+english language for competitive
+choudhary choudhary communication skill ii humanities and social sciences objectives facilitate students to gain language competence in order to communicate effectively in spectrum of contexts
+contents speaking modes of
+train the student to employ the above skills in both personal and professional settings speak more efficiently and explore the act of writing as an active process
+speaking modes of and telephone etiquette
+modes of writing paragraph writing articles structuring writing paragraph writing grammar identifying spellings filling in worksheets
+identifying practice workshop on speaking group discussion personal interview hours writing workshop essay creative writing hours field visit and workshop photo essay report writing hours
+wren pc martin key composition
+nptel course material department iqbal ayesha
+nptel course material department ravichandran social connect responsibilities ii responsibilities office of students objectives the course will
+provide formal platform to students to
+enable to create responsible connect with the society
+showcase planning and organizational skills the course is mainly have been listed plantation and appearance in folklore and literature
+adoption of tree plantation of tree that will be adopted for four years by group heritage walk and documentary on evolution and practice of various craft forms
+and crafts corner heritage management in neighboring villages and implementation in the campus farming and waste management usefulness of organic farming wet waste water presenting the current practices conservation knowing the present practices in the food walk city culinary practices food lore and indigenous materials of the region used in cooking
+city culinary jamming stories with others session open mic and poetry platform to connect to others
+share life total of hrs

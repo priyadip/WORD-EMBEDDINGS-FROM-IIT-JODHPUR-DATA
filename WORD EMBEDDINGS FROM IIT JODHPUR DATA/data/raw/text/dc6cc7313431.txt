@@ -1,0 +1,50 @@
+SOURCE_URL: https://home.iitj.ac.in/~hardikjain/ClarityLab.html
+
+About Us Grants Members Invited Talks Join Us
+CLARITY Lab Overview
+About the Lab CLARITY is acronym for C omputational L earning A nd R esearch I n T hree-dimensional Imaging Technolog Y . Led by Dr. Hardik Jain at IIT Jodhpur, this facility focuses on acquiring 3D data from non stationary platform, 3D data processing, machine learning, and immersive visualization. Our mission is to bridge the gap between the real world and digital representations, enabling innovative applications in 3D computer vision.
+CLARITY is acronym for C omputational L earning A nd R esearch I n T hree-dimensional Imaging Technolog Y . Led by Dr. Hardik Jain at IIT Jodhpur, this facility focuses on acquiring 3D data from non stationary platform, 3D data processing, machine learning, and immersive visualization. Our mission is to bridge the gap between the real world and digital representations, enabling innovative applications in 3D computer vision.
+Our workflow begins with the Real 3D World , where physical objects are acquired through Digitization . The resulting 3D Data undergoes Data Filtering to produce a Filtered 3D Representation . This representation when obtained for multiple objects/scenes results in 3D Dataset . Machine Learning could be performed on this dataset to acquire meaning insights, some of these operations could Generate Data . Finally, the data is utilized for Immersive 3D Visualization , creating interactive and realistic 3D experiences.
+Our workflow begins with the Real 3D World , where physical objects are acquired through Digitization . The resulting 3D Data undergoes Data Filtering to produce a Filtered 3D Representation . This representation when obtained for multiple objects/scenes results in 3D Dataset . Machine Learning could be performed on this dataset to acquire meaning insights, some of these operations could Generate Data . Finally, the data is utilized for Immersive 3D Visualization , creating interactive and realistic 3D experiences.
+DST INSPIRE Faculty Grant 35 Lac Department of Science and Technology (DST), Govt. of India Oct 2025 - Sept 2030 Research Initiation Grant 25 Lac Indian Institute of Technology Jodhpur May 2025 - April 2026
+DST INSPIRE Faculty Grant 35 Lac Department of Science and Technology (DST), Govt. of India Oct 2025 - Sept 2030
+DST INSPIRE Faculty Grant
+Department of Science and Technology (DST), Govt. of India
+Oct 2025 - Sept 2030
+Research Initiation Grant 25 Lac Indian Institute of Technology Jodhpur May 2025 - April 2026
+Research Initiation Grant
+Indian Institute of Technology Jodhpur
+May 2025 - April 2026
+Intro to Deep Volumetric, Point Cloud & Mesh Learning 3D Vision Summer School at IIIT Hyderabad, June 2025 An introductory session on deep learning approaches for volumetric data, point clouds, and mesh representations, covering fundamental concepts and recent advancements in 3D vision. Deep Learning Explicit 3D Representations IIT Indore, Oct 2025 Exploring deep learning techniques for explicit 3D representations, focusing on efficient modeling and processing of 3D geometric data for computer vision applications. 3D Computer Vision and Beyond MIT Pune, Aug 2025 A comprehensive overview of 3D computer vision techniques, current challenges, and future directions, including applications in autonomous systems, robotics, and immersive technologies.
+Intro to Deep Volumetric, Point Cloud & Mesh Learning 3D Vision Summer School at IIIT Hyderabad, June 2025 An introductory session on deep learning approaches for volumetric data, point clouds, and mesh representations, covering fundamental concepts and recent advancements in 3D vision.
+Intro to Deep Volumetric, Point Cloud & Mesh Learning 3D Vision Summer School at IIIT Hyderabad, June 2025
+Intro to Deep Volumetric, Point Cloud & Mesh Learning
+3D Vision Summer School at IIIT Hyderabad, June 2025
+An introductory session on deep learning approaches for volumetric data, point clouds, and mesh representations, covering fundamental concepts and recent advancements in 3D vision.
+An introductory session on deep learning approaches for volumetric data, point clouds, and mesh representations, covering fundamental concepts and recent advancements in 3D vision.
+Deep Learning Explicit 3D Representations IIT Indore, Oct 2025 Exploring deep learning techniques for explicit 3D representations, focusing on efficient modeling and processing of 3D geometric data for computer vision applications.
+Deep Learning Explicit 3D Representations IIT Indore, Oct 2025
+Deep Learning Explicit 3D Representations
+IIT Indore, Oct 2025
+Exploring deep learning techniques for explicit 3D representations, focusing on efficient modeling and processing of 3D geometric data for computer vision applications.
+Exploring deep learning techniques for explicit 3D representations, focusing on efficient modeling and processing of 3D geometric data for computer vision applications.
+3D Computer Vision and Beyond MIT Pune, Aug 2025 A comprehensive overview of 3D computer vision techniques, current challenges, and future directions, including applications in autonomous systems, robotics, and immersive technologies.
+3D Computer Vision and Beyond MIT Pune, Aug 2025
+3D Computer Vision and Beyond
+A comprehensive overview of 3D computer vision techniques, current challenges, and future directions, including applications in autonomous systems, robotics, and immersive technologies.
+A comprehensive overview of 3D computer vision techniques, current challenges, and future directions, including applications in autonomous systems, robotics, and immersive technologies.
+Opportunities for Students Undergraduate or graduates enrolled in IIT Jodhpur who would want to work in Hardware or software aspects of 3D Computer Vision involving autonomous drone operation, immersive visualization, multi-modal sensor data acquisiton and processing could contact me. Undergrads Could write me a short email with a proposal or reach out to me in my office @ CSE-309. Post Graduate Students Join our team for your thesis, fill out this form . I would schedule a meeting to prepare a research topic of mutual interest.
+Opportunities for Students
+Undergraduate or graduates enrolled in IIT Jodhpur who would want to work in Hardware or software aspects of 3D Computer Vision involving autonomous drone operation, immersive visualization, multi-modal sensor data acquisiton and processing could contact me.
+Undergrads Could write me a short email with a proposal or reach out to me in my office @ CSE-309.
+Could write me a short email with a proposal or reach out to me in my office @ CSE-309.
+Post Graduate Students Join our team for your thesis, fill out this form . I would schedule a meeting to prepare a research topic of mutual interest.
+Post Graduate Students
+Join our team for your thesis, fill out this form . I would schedule a meeting to prepare a research topic of mutual interest.
+Opportunities for Externals I am looking for motivated graduates who would want to pursue their career in research by addressing the problems of 3D computer vision. If interested write me an email with the problem that you would want to solve along with your resume. PhD Program Pursue a PhD with us, focusing on real-world problems in 3D computer vision. Check for rolling advertisement here . Project Staff Join our team as a staff member to work on challenging 3D computer vision research problems. Ideal for graduates who want to gain research experience. Fill the form here .
+Opportunities for Externals
+I am looking for motivated graduates who would want to pursue their career in research by addressing the problems of 3D computer vision. If interested write me an email with the problem that you would want to solve along with your resume.
+PhD Program Pursue a PhD with us, focusing on real-world problems in 3D computer vision. Check for rolling advertisement here .
+Pursue a PhD with us, focusing on real-world problems in 3D computer vision. Check for rolling advertisement here .
+Project Staff Join our team as a staff member to work on challenging 3D computer vision research problems. Ideal for graduates who want to gain research experience. Fill the form here .
+Join our team as a staff member to work on challenging 3D computer vision research problems. Ideal for graduates who want to gain research experience. Fill the form here .

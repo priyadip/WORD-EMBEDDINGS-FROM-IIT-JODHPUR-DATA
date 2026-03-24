@@ -1,0 +1,13 @@
+research seminar by shikha patel on oct at pm title of the talk quantum codes construction from skew cyclic codes date time venue at pm on dept
+of mathematics abstract in this talk we study skew cyclic codes over mixed alphabets
+first will discuss some basics and my other related works
+to characterise skew cyclic codes over the mixed alphabet we first establish their algebraic structure and then consider an inner product to discuss the dual containing properties of these codes
+further we define gray map over and obtain their images
+as an application we apply the css construction on gray images of dual containing skew cyclic codes and obtain many quantum codes with better parameters than the codes available in the literature
+will conclude this talk by considering some future directions
+about the speaker shikha patel is currently working as an assistant professor in the department of mathematics at iiit bhopal india july
+before joining iiit bhopal she was postdoctoral fellow at etis lab cnrs france november june
+previously she was an fellow in the department of electronic systems engineering at iisc bangalore india september
+her research interest includes linear skew cyclic skew constacyclic skew polycyclic codes over finite commutative and rings quantum codes from classical codes codes over mixed alphabets etc
+she worked on the linear codes over skew polynomial rings with both automorphisms and derivations and their applications in quantum codes
+title of the talk quantum codes construction from skew cyclic codes date time venue at pm on dept

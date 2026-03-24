@@ -1,0 +1,7 @@
+title renormalization of symmetric bimodal maps with low smoothness authors rohit kumar and
+chandramouli journal journal of statistical physics volume year publisher springer abstract this paper deals with the renormalization of symmetric bimodal maps with low smoothness
+we prove the existence of the renormalization fixed point in the space symmetric bimodal maps
+moreover we show that the topological entropy of the renormalization operator defined on the space of symmetric bimodal maps is infinite
+further we prove the existence of continuum of fixed points of renormalization
+consequently this proves the of the renormalization of symmetric bimodal maps
+chandramouli journal journal of statistical physics abstract this paper deals with the renormalization of symmetric bimodal maps with low smoothness

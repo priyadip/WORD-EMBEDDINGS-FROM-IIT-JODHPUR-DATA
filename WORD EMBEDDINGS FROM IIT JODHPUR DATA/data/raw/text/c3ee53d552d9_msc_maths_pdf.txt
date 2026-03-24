@@ -1,0 +1,36 @@
+SOURCE_PDF: c3ee53d552d9_msc_maths.pdf
+
+Cat. Course Course Title L-T-P Credits Cat. Course Course Title L-T-P Credits
+Number Number
+Semester 1 Semester 2
+C MA511 Linear algebra 3-0-0 3 C MA521 Abstract Algebra 3-0-0 3
+C MA512 Real analysis 3-0-0 3 C MA522 Complex 3-0-0 3
+C MA513 Ordinary 3-0-0 3 C MA523 Partia l 3-0-0 3
+Differential Differential
+equations equations
+C MA514 Probability and 3-0-0 3 C MA524 Numerical 3-0-0 3
+statistics Analysis
+C MA515* Programing 3-3-0 4 C MA525 Functional 3-0-0 3
+techniques analysis
+Total 16 Total 15
+Semester 3 Semester 4
+E Elective 3-0-0 3 E Elective 3-0-0 3
+TH MA698 Thesis 15 TH MA698 Thesis 15
+Total 18 Total 18
+Grand total 67
+MA551 Topology
+MA552 Wavelets analysis and Applications
+BL755 Complex Networks
+MA553 Dynamical Systems
+MA524 Optimization
+S. No. Category Course Category Title Total Courses Total Credits
+1 C Compulsory 10 31
+2 E Electives 2 06
+3 TH Thesis 1 30
+Total 67
+Master of Science (M.Sc.) Mathematics Program
+Curriculum
+Note: The students are encouraged to opt electives from B.Tech., M.Tech. and PhD. Level courses 
+having mathematical orientation. e.g. Cryptography, Information Theory and coding, Data structures 
+and algorithms, Digital image analysis, etc. This will assist to integrate technological aspects into 
+mathematics education.

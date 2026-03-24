@@ -1,0 +1,7 @@
+research seminar by kirankumar hiremath on at pm title of the talk mathematics modeling and insight from ideas to impact date time venue at pm pm on seminar room dept
+of mathematics abstract mathematics provides fundamental language for understanding natural phenomena and for enabling many of today advanced technologies including photonics nonlinear devices quantum systems and machine computational methods
+my research lies at the intersection of applied mathematics physics and technology with an emphasis on developing mathematically grounded models and computational tools for complex and nonlinear systems
+in this talk will present selected contributions from my work on optics and photonics nonlinear dynamical systems and the analysis of differential operators highlighting how mathematical structure informs physical understanding and modeling
+will also discuss recent progress in the numerical solution of differential equations using neural networks which combine governing physical laws with learning to address challenges faced by traditional numerical methods
+the talk will conclude with an outlook on future research directions and the role of mathematics in shaping scientific and engineering applications
+title of the talk mathematics modeling and insight from ideas to impact date time venue at pm pm on seminar room dept

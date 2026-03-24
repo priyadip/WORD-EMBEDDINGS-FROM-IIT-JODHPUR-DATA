@@ -1,0 +1,120 @@
+introduction this btech program combines two broad areas artificial intelligence and data science while building strong foundation in computer science
+artificial intelligence ai aims to create machines to act with higher levels of intelligence and emulate the human capabilities of sense comprehend and act
+on the other hand data science ds is the art of generating insight knowledge and predictions by processing data pertaining to system or process
+ai and data science can feed into each other as evolutionary systems that can continuously learn from data and thereby emulate humans better
+as the demand for these areas increases there is also an increasing need for building the future workforce for artificial intelligence and data science
+iit jodhpur will offer this unique program to develop the artificial intelligence and data science ecosystem in the country
+the curriculum includes courses in computer science mathematics artificial intelligence machine learning and their applications in various domains
+the curriculum also provides opportunities to the students to explore specialization areas including visual computing realities robotics and aiot
+the program also allows the students to venture into management specialization with ai and technology focus leading to mba btech mba dual degree program as well as entrepreneurial activities
+the program also enables the students to build strong industry linkages in terms of practical training program summer internships and on projects
+objectives of the program
+btech in aide will offer students with knowledge of fundamental concepts as well as oriented technologies in the broad areas of artificial intelligence and data science
+student completing this program will be capable of undertaking careers in industry as well as academia
+interested students may also follow entrepreneurial endeavors in aide areas
+will have the option to explore variety of domains including governance finance security transportation healthcare energy management processing population studies legal systems content creation and management systems weather prediction economics predictive maintenance smart manufacturing education human and robot automation smart city drug discovery and aid for differently technology
+expected graduate attributes after completing this program student will develop an ability to
+comprehend fundamental concepts and knowledge of the aide methodologies
+design and build aide systems solving problems and to reason about them
+design develop and deploy machine learning based applications using structured and unstructured data
+capability to follow unique interdisciplinary approach for solving problems using knowledge of mathematics statistics computing and one or more selected domains among physics chemistry biology engineering sciences and management
+understand and assess reliability dependability and of aide based systems and their impact on societal and environmental context
+learning outcomes the student will have an ability to
+apply the knowledge of mathematics science engineering fundamentals along with artificial intelligence and machine learning knowledge and an engineering specialization to develop solutions to problems
+apply appropriate theories design principles frameworks and protocols to develop ai ds based system
+demonstrate knowledge of modern simulation and ai ds programming tools with an understanding of the limitations
+apply to reason informed by the contextual knowledge to assess societal health safety legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice
+function effectively as an individual and as member or leader in diverse teams and in multidisciplinary
+communicate effectively on complex engineering activities by comprehending and writing effective reports and design documentation making effective presentations and exchanging clear instructions
+recognize the need for and have the preparation and ability to engage in independent and learning in the broadest context of technological change
+aide algorithms for transforming large data into actionable decision
+building end to end systems for enhancing human capabilities using vision language and text processing
+foundations in ml optimization
+ethical safe and dependable systems
+familiarity with emerging and futuristic aide techniques
+written and oral communication area topics category techniques systems course ai and ml abstract data types linear data structures non linear data structures stack queue link list heap sorting hashing algorithm analysis graph tree core data structures and algorithms pc discrete structures logics set graph and trees deterministic finite automata finite automata pushdown automata context free grammar turing machine lexical and syntax analysis parsing core maths for computing pc interaction digital circuit design and analysis computer system design instruction set architecture language translation semantic analysis core principles of computer systems pc interaction process management storage management core principles of computer systems pc complexity analysis greedy algorithms dynamic programming linear programming universal hashing amortized analysis traveling salesman problem approximation algorithms core design and analysis of bayes decision theory regression bias variance maximum likelihood estimation bayesian parameter estimation decision tree random forest artificial neural network clustering svm feature selection dimensionality reduction core and technique pattern recognition and machine learning ie uninformed search strategies informed search strategies local search algorithms hill climbing constraint satisfaction problems backtracking adversarial search algorithms propositional logic reasoning patterns logic syntax semantics policy technique artificial intelligence pc neural networks gradient descent optimization regularization autoencoder convolutional neural network recurrent neural network lstm deep generative models generative adversarial network gan deep belief network deep convolutional gan variational autoencoder representation learning unsupervised transfer learning distributed representation domain adaptation neural language model adversarial learning technique deep learning pc interpretability problem predictability transparency traceability causality reasoning attention and saliency interpretable ai prediction consistency adversarial robustness trustworthy ai integrity reproducibility accountability ai verified ai federated learning differential privacy technique dependable ai pc
+topic clouds and mapping of topic clouds with proposed courses map topics with courses in the table given below table
+topics and mapping of topic with courses convexity linear programming duality integer programming nonlinear programming lagrange multipliers first and second order conditions local and global convergence gradient descent methods core and technique optimization for machine learning pc utility theory utility functions decision networks sequential decision problems partially observable mdp game theory reinforcement learning generalization policy search hidden markov model kalman filter knowledge representation ontological engineering situation calculus semantic networks description logic planning graphs planning conditional planning continuous planning planning hierarchical task network planning domains core advanced ai pe kernel machines variants of support vector machines pac theory boosting graphical models structural predictions deep reinforcement learning sparse coding core and techniques advanced machine learning pe computational complexity of ai models prediction accuracy numeric accuracy precision memory footprints edge ai memory optimization of models hardware accelerators for edge ai vision processing unit streaming hybrid architecture vector engine open neural network exchange systems and technique artificial intelligence pe search engine architecture retrieval models performance evaluation text categorization text clustering web information retrieval structured document retrieval technique information retrieval pe graph algorithms directed and undirected graph planner graph graph coloring hamiltonion and eulorian graph bipartite graphs trees
+core graph theoretic algorithms pe streaming algorithms stream mining using clustering massive data clustering data stream classification distributed mining of streaming data change diagnosis forecasting on stream dimensionality reduction for streaming data
+core and technique stream analytics pe hci and social sensing user experience prototyping techniques and evaluation interface design and interaction speculative design value sensitive design technique and systems interaction pc visual world geometry lights and optics tracking motion depth devices and tools technique introduction to ar and vr pe graphs network models network data generation structural properties link prediction community detection information cascade small world phenomenon homophily structural balance components networkx gephi network evolution network technique social networks pe data and distributed sciences representing data data science ecosystem data sources data storage data model structured data unstructured data data accessing data sql nosql databases parallel data for high throughput distributed database analysing data distributed data processing techniques and systems data engineering pc data visualization data representation feature representations encoded representations spatial data representation data representations techniques and systems data visualization pc multivariate analysis sampling theory matrix decomposition algorithms for big matrices data intensive processing techniques and systems maths for big data pc decision sciences and cognition computational neuroscience models descriptive mechanistic and interpretive models synapse neural encoding neural decoding neuron models spikes modeling connections between neurons synaptic plasticity and learning unsupervised and supervised learning from the perspective of neurons computational neuroscience pe biological signals biomedical imaging modalities sectioning multimodal images reconstruction image segmentation object delineation classification image registration deep learning for tracking interactive image analysis pe application image digitization pixel relationships and distances camera model and stereo imaging image transforms image enhancement spatial and frequency domain image restoration image segmentation color image processing image morphology image compression and coding image features technique digital image processing pe spoken language technology dialog and conversational systems automatic speech recognition speech synthesis affect detection dialogue management
+techniques speech understanding image formation and transformations camera calibration image restoration spatial and based processing epipolar geometry sfm optical flow detection feature description and matching deep learning for vision applications techniques computer vision pe geometric primitives clipping viewing rendering animation shading coloring opengl technique computer graphics pe word representation nlp tasks seq2seq model question answering sentiment analysis dialogue system machine translation natural language generation interpretability knowledge graphs applications natural language understanding pe biometric system design genesis of biometrics system architecture performance evaluation biometric modalities biometric security biometric devices biomedical applications applications advanced biometrics pe signals systems transforms and sampling camera models motion and shape estimation video segmentation and tracking video filtering compression and restoring degree and streaming video applications video processing pe
+credit total credit total institute core engineering ie science is humanities ih programme linked science ls programme core programme compulsory pc programme electives pe
+proposedcourse categories and credit distribution in the proposed
+programmes type distribution of contact and beyond contact hours total credits contact hours beyond contact total hours ch hours bch th hour of lecture hr hr hr hour of tutorial hr hr hour of hr hr hr credit structure of
+programmes up level contact hour for projects refers to the involvement of students in the laboratory discussion etc
+no course name ltp contact hours credit data structure and algorithms maths for computing principles of computer systems compilers and ca data engineering interaction design and analysis of algorithms artificial intelligence optimization for ml principles of computer systems data visualization deep learning dependable ai dsai core elective ds dsai core elective ai maths for big data total
+programme compulsory courses for core es aide program under for regular program ethics policy law and regulations in ai is core course under professional ethics ii sem vi
+stream courses credit ai and ml advanced artificial intelligence advanced machine learning resource constrained artificial intelligence scalable machine learning computational learning theory information retrieval graph theoretic algorithms stream analytics robotics and automation introduction to robotics planning and decision making of robots systems autonomous systems reality multimodal interfaces introduction to haptics introduction to ar and vr advanced interaction social networks science of intelligence computational neuroscience connectomics bioimaging applications digital image processing computer vision natural language understanding speech understanding computational linguistics advanced biometrics computer graphics video processing animation gpu programming cyber physical systems sensors and internet of things introduction to cyber physical systems embedded systems design security in cps edge and fog computing real time systems data and discovery science introduction to space science reliability engineering and life testing introduction to game theory nonlinear dynamics and chaos differential geometry introduction to financial engineering computational chemistry special topics special topics in ml special topics advancements in computer vision special topics in data science
+programme electives courses no
+visual computing cs aide ee computer graphics computer vision visual computing lab digital image processing video processing and analysis advanced machine learning introduction to ar and vr scalable machine learning computational photography computational imaging principles of biological vision bioimaging medical image analysis visual perception advancements in computer vision animation vision architecture image synthesis shape analysis image and video forensics selected topics in computer vision project
+reality cs aide ee social network introduction to ar and vr multimodal interface lab introduction to haptics design process speech understanding computer graphics hci nlu computer vision visual perception image and video forensics project
+intelligent communications and networking jointly with ee jointly with ee
+robotics jointly with jointly with
+aiot jointly with ee jointly with ee
+ai for students ai deep learning ai lab algorithm for big data computer vision machine learning with big data edge and fog computing nlp gpu programming data visualization introduction to ar and vr dependable ai resource constrained ai social network analysis optimization computer graphics advanced ai advanced ml project no
+ai industry jointly with me autonomous systems idrp
+ai transportation cse no
+maths for big data course
+statistical inference and simulation techniques maths course
+introduction to financial engineering maths course
+time series analysis math course
+specialization to be offered by the department table
+specialization and courses science of intelligence smart healthcare and language technologies specializations will be added in the future table
+applied statistics courses
+to ih humanities total total semester vi semester pc da of pc data algorithms visualization artificial deep learning intelligence optimization in dependable ai
+aide regular table
+in aide ih humanities ii pe open elective nh professional nh ethics policy ethics law and total total vii semester viii semester pp
+project ih humanities iv pcpe oe open electives oe open electives ih humanities iii is environmental sci total total total of graded and credit design credits grand total cat course ltp ch gc cat course ltp ch nc gc iii semester iv semester es probability statistics ie materials science engineering es modern physics es embedded ie thermodynamics ie pattern recognition and machine learning es data structures and es design of algorithms experiments ie signals and systems es modelling and ne intro
+to profession ih humanities total total semester vi semester pc maths for comp
+pc pcs da of algorithm pcs artificial intelligence data engg optimization in ml data hmi visualization deep learning dependable ai pe engineering science multimodal bouquet ih humanities ii nh professional ethics nh ethics policy total total vii semester viii semester pp
+project es engineering
+aide engineering and engineering science table
+pc maths for big data ih humanities iii multimodal bouquet is environmental science total total total of graded and credit design credits grand total note es are proposed engineering science compulsory courses course title data structures and algorithms course no
+csxxx department computer science and engineering structure offered for of all branches type compulsory prerequisite introduction to computer programming
+detailed course content of programme compulsory courses title principles of computer systems course no
+aidslxxx department cse ai ds structure offered for ai type compulsory prerequisite maths for computing antirequisite computer architecture title principles of computer systems ii course no
+aidslxxx department cse ai ds structure offered for ai ds type compulsory prerequisite principles of computer systems same semester antirequisite os cn course title pattern recognition and machine learning course no
+csl2xx department computer science and engineering aide structure offered for cse aide ee type compulsory prerequisite introduction to computer probability antirequisite introduction to statistics and stochastic processes machine learning course title maths for computing course no
+cslxxx department computer science and engineering structure offered for cse aide type compulsory prerequisite none course title design and analysis of algorithms course no
+cslxxx prerequisite data structures and algorithms course title interaction course no
+csl2xx department computer science and engineering aide structure offered for cse aide type compulsory course title artificial intelligence course no
+csl3xx department computer science and engineering aide structure course title deep learning course no
+csl4xx department computer science and engineering aide structure offered for
+aide type compulsory prerequisite introduction to machine course title dependable artificial intelligence course no
+csl4xx offered for aide type compulsory prerequisite introduction to machine preferred knowledge deep recognition and machine learning ai learning title data engineering course no
+cslxxx department computer science and engineering maths structure prerequisite principles of computer system operating system antirequisite database systems course title data visualization course no
+csl4xx department maths cse structure prerequisite data engineering dbms course title maths for big data course no
+mal3xxx department mathematics structure prerequisite mathematics ii probability statistics and antirequisite csl7093 course title optimization in ml course no
+csl4xx department mathematics structure prerequisite prml or introduction to ml antirequisite optimization course title ethics policy law and regulations in ai course no
+csl7xx department computer science and engineering structure offered for mtech phd type elective prerequisite pattern recognition and machine learning ai course title advanced machine learning course no
+csl7xx prerequisite to ml ai
+detailed course content of programme elective courses course title advanced artificial intelligence course no
+csl7xx prerequisite pattern recognition and machine learning course title natural language understanding course no
+csl7xx prerequisite pattern recognition and machine course title neuromorphic design and computing course no
+csl7xx prerequisite artificial intelligence to ml course title information retrieval course no
+cslxxx offered for type elective prerequisite to ml course title resource constrained ai course no
+csl7xx prerequisite artificial intelligence introduction to machine title social networks course no
+csl4xx0 department computer science and engineering structure offered for
+tech type elective course title stream analytics course no
+cslxxx offered for and years pg type elective prerequisite introduction to machine learning prml title computer vision course no
+cslxxx department computer science and engineering aide structure offered for
+type elective prerequisite linear algebra course title introduction to ar and vr course no
+csl7xx prerequisite graphics course title advanced biometrics course no
+csl7xx course title computer graphics course no
+csl4xx course title cyber security course no
+cs department computer science and engineering structure prerequisite computer networks course title distributed database systems course no
+cslxxx department computer science engineering structure prerequisites operating systems database systems computer title introduction to blockchain course no
+csl offered for mtech phd
+type elective prerequisite network security title soft computing techniques course no
+csl7xxx department computer science and engineering aide structure offered for
+year year type elective course title randomized algorithms course no
+csl7xxx offered for cse aide type elective prerequisite daa pssp title video processing course no
+cslxxxx department cse ee structure title digital image processing course no
+cslxxx course title speech understanding course no
+cslxxxx department ee structure prerequisite title statistical inference and simulation techniques number mal4xxx department mathematics title introduction to financial engineering number ma4xx department mathematics offered for type prerequisite probability statistics and random processes title introduction to game theory number mal4xxx department maths title reliability engineering and life testing number maxxx department mathematics offered for
+type elective prerequisite basic probability statistics title stochastic calculus for finance number ma4xx title time series analysis number ma4xx course title differential geometry course no
+mal4xx0 department mathematics course title nonlinear dynamics and chaos course no
+mal4xx0 course title artificial intelligence in transportation course no
+cs6xx computer networks title introduction to industry course no
+aidslxxx department ai ds me structure prerequisite antirequisite os cn title visual computing lab number xxx department cse ee me offered for btech
+cse aide ee me type specialization core title number department cs aide ee offered for type elective title medical image analysis number prerequisite fundamental knowledge of digital image processing or computer vision machine deep learning

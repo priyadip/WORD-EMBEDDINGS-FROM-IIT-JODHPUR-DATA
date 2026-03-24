@@ -1,0 +1,7 @@
+SOURCE_URL: https://library.iitj.ac.in/qrcodes.html
+
+Book Acquisition Request Form
+Article Request Form
+Inter-Library Loan Request Form
+Library Membership Form For Students
+Library Membership Form For Employees

@@ -1,0 +1,1987 @@
+SOURCE_PDF: 0710ed1bc3e7_Information-manual-handbook-available-in-Electronic-format-1-638780683895872576.pdf
+
+First Edition, 2022
+Faculty Guidebook
+Indian Institute of Technology
+Jodhpur
+
+The higher you act, the higher you think, the nobler your enterprise, some-
+thing of that nobility comes to you. If you indulge in small activities, in small
+thinking, then you remain small. But if you dare and go in for the really big
+things of life, then even in your endeavour to realise them, you become big in
+the process.
+– Pt. Jawahar Lal Nehru
+First Convocation Address at IIT Kharagpur
+21st April, 1956
+
+Contents
+Contents
+5
+I
+Introduction
+19
+1
+Institute’s Vision and Missions
+21
+1.1
+Vision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+1.2
+Missions . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+1.3
+Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+1.4
+Core Values
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+2
+Institutional Structure
+25
+2.1
+The Visitor . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+2.2
+The Council . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+2.3
+The Board of Governors . . . . . . . . . . . . . . . . . . . . .
+26
+2.4
+The Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+2.5
+The Director . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+2.6
+Other functionaries . . . . . . . . . . . . . . . . . . . . . . .
+28
+3
+Academics @ IITJ
+31
+3.1
+Departments, Schools and Centers . . . . . . . . . . . . . . .
+31
+3.2
+Academic Programs . . . . . . . . . . . . . . . . . . . . . . .
+33
+4
+Research and Innovation Opportunities
+35
+4.1
+Centre for Research and Development of Scientifc Instru-
+ments (CRDSI) . . . . . . . . . . . . . . . . . . . . . . . . . .
+35
+4.2
+High Performance Computing (HPC) . . . . . . . . . . . . .
+36
+4.3
+Seed Grant . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+
+4.4
+Mobility Research Grant
+. . . . . . . . . . . . . . . . . . . .
+37
+4.5
+Ofce of R&D
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+5
+Other Institutional Constituents
+39
+5.1
+Jodhpur City Knowledge and Innovation Cluster . . . . . . .
+39
+5.2
+TIH-iHub Drishti
+. . . . . . . . . . . . . . . . . . . . . . . .
+40
+5.3
+Technology Park . . . . . . . . . . . . . . . . . . . . . . . . .
+40
+5.4
+Technology Innovation and Start-up Center (TISC)
+. . . . .
+42
+II Once you have joined
+45
+6
+First things frst...
+47
+6.1
+Before coming to campus . . . . . . . . . . . . . . . . . . . .
+47
+6.2
+After reporting at IITJ . . . . . . . . . . . . . . . . . . . . . .
+47
+6.3
+LAN connection and Ofce Telephone . . . . . . . . . . . . .
+49
+6.4
+Reimbursement of Relocation
+. . . . . . . . . . . . . . . . .
+49
+6.5
+Institute ID Card . . . . . . . . . . . . . . . . . . . . . . . . .
+50
+6.6
+Institute Email ID . . . . . . . . . . . . . . . . . . . . . . . .
+50
+6.7
+LDAP ID . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50
+6.8
+Institute Repository . . . . . . . . . . . . . . . . . . . . . . .
+50
+6.9
+Medical Booklet . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+6.10 Library Membership . . . . . . . . . . . . . . . . . . . . . . .
+51
+6.11 Ofce of Establishment-I (E-I)
+. . . . . . . . . . . . . . . . .
+51
+6.12 House Allotment . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+6.13 Key Contacts . . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+7
+Ethics and Code of Conduct
+53
+7.1
+General conduct . . . . . . . . . . . . . . . . . . . . . . . . .
+53
+7.2
+Taking Part in Politics and Election . . . . . . . . . . . . . .
+54
+7.3
+Connection with Media . . . . . . . . . . . . . . . . . . . . .
+54
+7.4
+Criticism of the Institute
+. . . . . . . . . . . . . . . . . . . .
+54
+7.5
+Consultancy Ethics
+. . . . . . . . . . . . . . . . . . . . . . .
+55
+7.6
+Plagiarism . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+7.7
+Sexual Harassment of women at the workplace . . . . . . . .
+55
+7.8
+Right to Information . . . . . . . . . . . . . . . . . . . . . . .
+56
+7.9
+Conduct Rules . . . . . . . . . . . . . . . . . . . . . . . . . .
+57
+8
+Salary, Allowances and other Benefts
+59
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+8.1
+Pay Scales
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+59
+8.2
+Components of a Salary . . . . . . . . . . . . . . . . . . . . .
+60
+8.3
+Deductions . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+8.4
+Other Benefts . . . . . . . . . . . . . . . . . . . . . . . . . .
+62
+9
+Leaves
+67
+9.1
+Vacation Leave . . . . . . . . . . . . . . . . . . . . . . . . . .
+67
+9.2
+Earned Leave . . . . . . . . . . . . . . . . . . . . . . . . . . .
+67
+9.3
+Half-Pay Leave and Commuted Leave . . . . . . . . . . . . .
+68
+9.4
+Maternity and Paternity Leave . . . . . . . . . . . . . . . . .
+69
+9.5
+Child Care Leave (CCL) . . . . . . . . . . . . . . . . . . . . .
+69
+9.6
+Extraordinary Leave . . . . . . . . . . . . . . . . . . . . . . .
+69
+9.7
+Leave not due
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+9.8
+Casual Leave . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+9.9
+Special Casual Leave
+. . . . . . . . . . . . . . . . . . . . . .
+71
+9.10 Sabbatical Leave . . . . . . . . . . . . . . . . . . . . . . . . .
+71
+9.11 Study Leave
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+72
+III Facilities @ IITJ
+77
+10 Institutional Facilities
+79
+10.1 Computer Center
+. . . . . . . . . . . . . . . . . . . . . . . .
+79
+10.2 E-Ofce, ERP and DSC
+. . . . . . . . . . . . . . . . . . . . .
+79
+10.3 Library . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+79
+10.4 Health Care
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+81
+11 General Amenities
+83
+11.1 Schooling . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+83
+11.2 Pre-School and Day Care for Kids . . . . . . . . . . . . . . .
+83
+11.3 Transport Facilities . . . . . . . . . . . . . . . . . . . . . . .
+83
+11.4 Vegetable Shops . . . . . . . . . . . . . . . . . . . . . . . . .
+83
+11.5 Grocery Shops . . . . . . . . . . . . . . . . . . . . . . . . . .
+84
+11.6 Laundry Services
+. . . . . . . . . . . . . . . . . . . . . . . .
+84
+11.7 Stationary/Photocopy Shop . . . . . . . . . . . . . . . . . . .
+84
+11.8 Cafeteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+84
+11.9 Medical Shops . . . . . . . . . . . . . . . . . . . . . . . . . .
+84
+11.10 Sports complex . . . . . . . . . . . . . . . . . . . . . . . . . .
+84
+11.11 Community Center and Jodhpur Club . . . . . . . . . . . . .
+84
+
+11.12 Banking
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+85
+11.13 Beauty parlor and Salon . . . . . . . . . . . . . . . . . . . . .
+85
+11.14 Furniture for House . . . . . . . . . . . . . . . . . . . . . . .
+85
+11.15 Gas Connection . . . . . . . . . . . . . . . . . . . . . . . . .
+85
+11.16 Shopping . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+85
+11.17 Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . .
+86
+
+Director’s Message
+IIT Jodhpur has embarked on an ambitious mission to establish itself as one of
+the top destinations in the country for a wholesome education with the right
+mix of fexible academics, cutting-edge research, curiosity-driven innovation
+and a curriculum built on technology foresight.
+Our institute is driven by its commitment to excel in next generation tech-
+nology development and research. There are several emerging technologies
+coming up at IIT Jodhpur potentially in diferent spaces. Many of these
+technologies will bring a set of products and services which will be concep-
+tualized, indigenously developed and engineered to bring up products of
+Indian origin. We are researching new paradigms to solve the most complex
+problems through locally-built solutions. I am sure that the Vision of IIT Jodh-
+pur to be a future-driven Institute for responding to societal challenges and
+aspirations, and serving the national priorities using transformational tech-
+nologies/interventions with a multidisciplinary approach, resonates within
+all the faculty members.
+
+Foreword
+Indian Institute of Technology Jodhpur welcomes you as a faculty mem-
+ber. Congratulations. As a faculty member of an Institution of National
+Importance, naturally the expectations from you are of very high order
+particularly with respect to academic research and teaching. You are given
+the freedom and the responsibility to create and nurture a vibrant academic
+atmosphere at IIT Jodhpur and make the Institution an excellent place for
+higher education and learning. IIT Jodhpur has instituted various schemes
+and awards to encourage and support the faculty members in their pursuit
+of academic excellence. As a faculty member, you are entitled for several
+additional privileges. This brochure provides a consolidated summary of
+various aspects related to the privileges, administrative rules and regulations
+pertaining to the faculty members.
+Wish you all the very best!!!!
+Professor In-Charge, Faculty
+
+Disclaimer
+The text/material printed in this document has been prepared and compiled
+with all due diligence from appropriate sources. This document is purely
+intended to be used for the day to day working of IIT Jodhpur faculty members.
+The text/material presented in this document is the property of the Institute,
+and cannot be reproduced without written permission of the Institute’s
+authorities. It must be noted that this is only a guidebook to dispense general
+information to all the faculty members. This book should not be considered
+as a IIT Jodhpur rule book.
+
+History
+Way back in 1946, an idea grew in the visionary leaderships of the country for
+the establishment of Higher Technical Education Institutes for the post-war
+industrial development in India. A Committee, headed by Nalini Ranjan
+Sarkar, recommended the establishment of these institutes in various parts of
+the country. The frst Indian Institute of Technology (IIT) was founded in May
+1950 at Kharagpur. In 1956, during the frst convocation of IIT Kharagpur,
+the frst Prime Minister, Pt. Jawaharlal Nehru, highlighted in his address that
+these institutes will help us in meeting the technological challenges of the
+Nation. During 1959-1960, four new IITs were established at Bombay, Delhi,
+Kanpur and Madras. Subsequently, on 15 September 1956, the Parliament of
+India passed an act known as the Institutes of Technology (Kharagpur) Act,
+1961 declaring IIT Kharagpur as an Institute of national importance. Also,
+IIT Kharagpur was given the status of an autonomous university. Thereupon,
+IIT Guwahati was established 1992, and later the University of Roorkee was
+given the status of an IIT (and now called IIT Roorkee) in 2001.
+Establishment of eight new second generation IITs across the country
+began with a Cabinet decision, which was announced by the Minister of
+Human Resource Development on 28 March 2008. IIT Bhubaneswar, IIT
+Gandhinagar, IIT Hyderabad, IIT Jodhpur (earlier called IIT Rajasthan), IIT
+Patna and IIT Ropar began functioning from 2008. Two others, IIT Indore
+and IIT Mandi commenced their sessions from 2009.
+Since the inception, IITs have been the hallmark of quality education
+and research, in accordance with the global standards. The endeavor at IIT
+Jodhpur is to live up to this brand image, which has been built meticulously
+over the last 70+ years. With a renewed focus on producing world class
+technology driven graduates, IIT Jodhpur is now contributing towards the
+development of the nation.
+
+Introduction
+
+Chapter 1
+Institute’s Vision and Missions
+The Institute has completed more than a decade in its journey in nurturing
+talent and achieving excellence, and has experienced a signifcant growth in
+recent times. It is important for a technology institute to assess the changing
+landscape of the technology and other relevant factors to shape and tune its
+strategy to contribute signifcantly and meaningfully. There were several fac-
+tors including but not limited to New Education Policy, exponential change
+in technology, changing nature of work and job, fnancial constraints, expec-
+tations from the society, and, the need for virtual mode of education that has
+shaped the current Vision and Mission of the Institute. Furthermore, high-
+quality education acquires unprecedented importance in improving the lives
+and future of the people/planet. The arena and scope of technological educa-
+tion also have to expand far beyond the 20th-century concepts. Technology
+institutes have to increasingly become more and more multi-disciplinary, and
+also contribute more directly to the application of emerging technologies for
+responding efectively to ever-changing challenges/opportunities. They have
+to become signifcant contributors to the national development, including in
+the areas of sustainability, economic growth, and societal problem-solving.
+The shift in nature of work/ jobs move towards the use of immersive media
+for blended teaching and the new virtual educational institutions, and grow-
+ing societal expectations are all calling for a total rethink. Following are the
+institute Vision, Missions, Goals and Core values of the Institute.
+1.1
+Vision
+A future-driven Institute for nurturing excellence of thought; creating, pre-
+serving, and imparting knowledge; and using transformational technolo-
+gies/interventions with a multidisciplinary approach for responding to soci-
+etal challenges and aspirations.
+
+1.2
+Missions
+1. Foster humanitarian values, passion for learning, and creativity in
+faculty and students.
+2. Move towards high quality, futuristic educational, and research ecosys-
+tem.
+3. Develop socially responsible faculty, students, and future leaders, com-
+mitted to creating a self-reliant India.
+4. Catalyze a professional internal culture along with enabling infrastruc-
+ture and ancillary services.
+5. Forge efective national as well as international collaboration and part-
+nership with industry and academia for diverse purposes and activities.
+1.3
+Goals
+Curriculum
+To assimilate balanced, broad-based as well as specialized education in all
+curricula with opportunities for diferent kinds of students and their interests.
+Pedagogy
+To establish systems for dynamic development, implementation, and evalua-
+tion of futuristic pedagogy including blended-hybrid teaching and experien-
+tial learning.
+Research
+Have a globally engaged research ecosystem with state-of-the-art facilities in
+place, for attaining leadership in research on academic, social, national, and
+industrial fronts while capitalizing on emerging and in-demand opportunities.
+Outreach
+To be the Institute of Choice for a lifelong learning journey of working
+professionals, alumni, and the community.
+Institutional Collaboration
+Have an efcient platform in place for forging impactful partnerships with
+academia, research institutes, business organizations, civil society, govern-
+ments, and other agencies across the world for contributing to larger goals
+for humanity.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+Industry Connect
+Ensure ease of collaboration with industry for joint research/ projects, IPR de-
+velopment, technology transfer, and encouraging entrepreneurship/ startups,
+along with efcient supporting infrastructure and systems.
+Financial Plan
+Set up innovative resource mobilization mechanisms and expenditure man-
+agement systems, embedded in the internal budgetary processes, to have
+ample resources/ funds for actualizing the institute’s vision and goals.
+Infrastructure
+Institute will have secure, evolving futuristic digital and physical infras-
+tructure and ancillary services to meet all its needs, along with knowledge
+infrastructure for supporting learning and enabling skill development.
+Student Life Cycle
+Students will fnd at IIT Jodhpur (i) a vibrant learning environment, with
+opportunities for excelling in curricular, co-curricular and extracurricular
+activities, (ii) an efective career development process for their successful ini-
+tiation to the professions of their choice and (iii) a strong linkage with alumni
+through regular interactions, support for their lifelong learning and profes-
+sional development; and enabling their active participation as a stakeholder
+in the afairs of the Institute.
+Agile Organization
+Ensure that IITJ continues to be an agile organization for both stability
+and dynamism as a network of teams with a people-centric culture that
+operates through fast but considered decision cycles which are enabled by
+technology, and guided by a powerful common purpose to co-create value
+for all stakeholders of the Institute.
+1.4
+Core Values
+The Institute stands for a set of core values, wherein each member of the IIT
+Jodhpur community shall:
+1. Uphold highest levels of human integrity and dignity.
+2. Not take unfair advantage of any stakeholder of the Institute.
+
+3. Work towards building the most admired technology Institute further-
+ing interests of Students, Industries and Society.
+4. Commit to economic development of India through technological
+thought and action.
+5. Be ethical, sincere and open in all transactions; and
+6. Be continually responsible for upholding utmost confdentiality of all
+information and circumstances arising out of any interaction.
+
+Chapter 2
+Institutional Structure
+The Institute came into existence in the year 2008. It is one of the 2nd gener-
+ation IITs. IIT Jodhpur functions from its sprawling residential permanent
+campus of 852 acres on National Highway 62, north-northwest of Jodhpur
+in the princely state of Rajasthan. This campus is meticulously planned and
+envisioned to stand as a symbol of academics – simple, but deep. The Insti-
+tute is committed to a multidisciplinary approach towards the technology
+development. Hence, it has established research laboratories for fundamental
+science and advanced engineering, and creating the state-of-the-art facilities
+for development. The academic activities are coordinated by academic units
+comprising of various Departments, Schools and Centers.
+The functioning of the Institute is governed by two documents, namely
+The Institutes of Technology Act, 1961, and Statutes of IIT Jodhpur. These
+are very sacred documents providing the directives for the functioning of
+the Institute. The frst one, passed by the Parliament of India, states that the
+IITs are the institutions of national importance, and encapsulates the broad
+framework of its governance. The second one gives the detailed set of rules
+and regulations for its governance. These documents can be accessed at the
+IT Jodhpur website. The governing structure of IITs is as follows.
+2.1
+The Visitor
+The President of India is formally the ofcial chief of all the IITs. He/She is
+known as the Visitor of the Institute. The Institutes however do not directly
+have correspondence with the Visitor in day to day working. However, any
+work which requires the approval of the Visitor is channeled through the
+Ministry of Education.
+
+2.2
+The Council
+IIT council is the pinnacle of the administration within IITs. The Minister of
+the Ministry of Education is the Chairman of the Council. The Council has
+many members. Few of the members are Ex-Ofcio members of the Council
+while others are nominated.
+2.3
+The Board of Governors
+Each IIT has its own Board of Governors (BoG). The BoG is the key to almost
+all major policy decisions. The BoG meets often, at least two times in a
+calendar year. The Registrar of the Institute is the ex-ofcio Secretary of
+the Board of Governors. Furthermore, there are two committees declared as
+authorities under the Statutes of the institute as per the Section 10(c) of The
+Institutes of Technology Act, 1961. The committees report to the Board.
+The frst of these is the Finance Committee. All the major matters involving
+fnancial implications shall be routed through the Finance Committee to the
+BoG for approval. The Finance Committee shall:
+1. provide its views and make its recommendations to the Board either
+suo-moto or on the advice of the Board or of the Director on any
+fnancial matter relating to the Institute.
+2. provide advice and guidance relating to resource mobilization.
+3. perform any other functions as the Board may decide from time to time.
+The Financial Advisor to MoE is a member of the Finance Committee.
+The second is the Building and Works Committee. All the matters related
+to construction work are dealt by the Building and Works Committee. The
+Committee shall:
+1. be responsible under the direction of the Board for construction of
+all major capital works after securing from the Board the necessary
+administrative approval and expenditure sanction.
+2. have the power to give the necessary administrative approval and
+expenditure sanction for minor works and works pertaining to main-
+tenance and repairs, within the grant placed at the disposal of the
+Institute for the purpose.
+3. cause to be prepared estimates of cost of buildings and other capital
+works, minor works, repairs, maintenance and the like.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+4. be responsible for making technical scrutiny as may be considered
+necessary by it.
+5. be responsible for enlistment of suitable contractors and acceptance of
+tenders and shall have the power to give directions for departmental
+works where necessary.
+6. have the power to settle rates not covered by tender and settle claims
+and disputes with contractors.
+2.4
+The Senate
+The Senate is the highest academic body of the Institute. The following are
+its powers and duties:
+1. As the custodian of all academic afairs of the Institute, the Senate is
+empowered to sanction academic programs and courses, approve their
+contents and any changes thereof, and oversee their conduct.
+2. It shall set the criteria for the award of academic degrees and honors
+and approve each individual award.
+3. It shall set the criteria for the termination of students’ programs and
+approve each termination with due deliberation.
+4. In the pursuit of its duties, the Senate is empowered to constitute
+permanent and other sub-committees, appoint their members and set
+their powers that shall not equal or exceed the powers of the Senate as
+a whole.
+5. The Senate may invest the Chairman with powers to facilitate speedy
+decision making in academic matters. However, all academic decisions
+of the sub-committees and of the Chairman and functionaries shall be
+reported to the Senate for confrmation.
+6. All academic matters related to the selection of students or participants
+in academic programs and courses, and periodic information regarding
+their progress and completion, shall similarly be reported to the Senate
+for its information and approval.
+7. The Senate alone may approve changes in the program of study of
+students.
+
+8. The creation of new academic departments, schools and centers or
+abolition thereof or any signifcant changes in the profle of such
+entities that are already existing, shall be approved by the Senate and
+thereby recommended to the Board.
+9. Policy and infrastructural initiatives that have bearing on the research
+and academic profle of the Institute shall be presented to the Senate on
+a regular basis for its comments and advice, which shall be non-binding
+but must be communicated to the Board.
+10. The Senate shall have powers to invite such person or persons as may
+be deemed ft to attend a meeting of the Senate.
+2.5
+The Director
+Director of the Institute is the key functionary for the day to day working of
+the Institute. The Director is appointed by the Ministry of Education, Govern-
+ment of India for a tenure of 5 years, which may be extended. The Director
+is also the Chairman of the Institute’s Senate. Many major decisions such as
+new department frameworks, faculty recruitment, budgeting, policy matters,
+leading the Institute’s vision and missions are presided by the Director.
+2.6
+Other functionaries
+Other important key functionaries include the Deputy Director, Deans and
+Associate Deans and the Registrar.
+Deputy Director
+The appointment of the Deputy Director shall be made by the Board on
+the recommendation of the Director. The Deputy Director shall assist the
+Director in academic and administrative work as considered necessary from
+time to time. The Deputy Director shall be paid allowances and provided
+other facilities as may be approved by the Board from time to time.
+Deans
+The Board shall appoint Dean(s), among the faculty members of the Institute,
+for performing assigned duties and functions and on the terms and conditions
+of the Institute.
+Registrar
+The Registrar shall be appointed by the Board on the recommendations of the
+Selection Committee constituted under clause (d) of sub-statute (5) of Statute
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+17 on the terms and conditions as the Central Government may specify from
+time to time. In addition to the role provided in section 19 of the Act, it shall
+be the duty of the Registrar
+1. to take action, as may be directed by the Director, to fll up the vacancies
+including casual vacancies of the Authorities of the Institute.
+2. to perform such other duties as assigned by the Director.
+
+Chapter 3
+Academics @ IITJ
+Academic programs at Indian Institute of Technology, Jodhpur are designed
+to develop the highest calibre human resource capable of understanding the
+new patterns of knowledge creation across disciplines obliterating traditional
+boundaries between science, humanities, social sciences and engineering. IIT
+Jodhpur aims to produce quality professionals who would be able to address
+profound and wide-ranging societal challenges of the 21st century such as
+energy, food, water, housing, mobility, and health. In addition to imparting
+scientifc knowledge, IIT Jodhpur endeavours to inculcate human qualities
+of courage, integrity, fairness, humility and team efort among its graduates
+through curricular, co-curricular and extra-curricular activities on campus.
+3.1
+Departments, Schools and Centers
+IIT Jodhpur ofers Bachelor, Masters, Doctoral and Diploma courses in the
+areas of Engineering/Technology, Science and Management. The institute
+currently has 10 departments, 3 Schools and 6 IDRPs. All the necessary
+work/papers from the Department/Schools/Centers are routed through the
+Head/Coordinator of the unit. The Head/Coordinator is appointed by the
+Director, generally by seeking a consensus view from the faculty of the unit.
+Following is the list of departments in the Institute.
+1. Department of Bioscience and Bioengineering
+2. Department of Civil and Infrastructure Engineering
+3. Department of Chemical Engineering
+4. Department of Chemistry
+5. Department of Computer Science and Engineering
+
+6. Department of Electrical Engineering
+7. Department of Metallurgical and Materials Engineering
+8. Department of Mathematics
+9. Department of Mechanical Engineering
+10. Department of Physics
+In addition to the departments, IIT Jodhpur currently has the following
+specialized schools ofering diferent academic programs.
+1. School of Management and Entrepreneurship
+2. School of Artifcial Intelligence and Data Science
+3. School of Liberal Arts
+Following are the Centers functioning at IIT Jodhpur
+1. Center for Emerging Technologies and Sustainable Development
+2. Center of Technology Foresight and Policy
+3. Center for Education and Technology for Education
+4. Centre for Research and Development of Scientifc Instruments
+Interdisciplinary Research Platforms (IDRPs)
+IDRPs are aimed at multi-disciplinary initiatives for problems requiring an
+integrated approach through the fusion of knowledge from multiple felds
+leading to the establishment of truly trans-disciplinary academic Centers.
+The latest information about the following IDRPs can be accessed through
+their websites.
+1. Digital Humanities (DH)
+2. Internet of Things (IoT) and Applications
+3. Quantum Information and Computation (QIC)
+4. Robotics and Mobility Systems (RMS)
+5. Smart Health Care (SHC)
+6. Space Science and Technologies (SST)
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+3.2
+Academic Programs
+The undergraduate academic programs focus on developing a temper for
+the life long process of learning, creative thinking and exploring. The post-
+graduate academic programs focus on developing a deep understanding of
+the subject of study coupled with creative inquisitiveness and the ability to
+address and solve new problems with a free and objective mind.
+The academic programs are based on three tenets of (1) Semester system,
+(2) Credit System and (3) Relative Grading. These academic programs are
+administered by a duly constituted Academic Committee (AC) through the
+ofce of Academics. The AC will be chaired by Dean (Academics). In the
+absence of Dean (Academics), Associate Dean (Academics-PG)/Associate
+Dean (Academics-UG) will discharge the responsibilities of Dean (Academics).
+Semester System
+The academic session is divided into three parts: two regular semesters and
+a summer term as per the following timelines:
+Semester I: From the fourth week of July to the last week of November
+Semester II: From the last week of December to the last week of April
+Summer Term: From the middle of May to the middle of July.
+Excluding the days of the examinations, the total number of days of instruc-
+tion in a semester is at least 70.
+Credit System
+All courses have associated credits. The total credits for a course are calculated
+by taking into account the number of lectures, tutorial, and practical hours
+(L-T-P) assigned to the course. Each credit is associated with the number of
+contact hours and the expected number of self-learning hours (on an average)
+to be spent by the student for each contact hour to meet academic demand of
+the course. The complete details about credit system can be found in Rules
+and Regulations document, available on IIT website.
+Relative Grading
+The performance of students in a course is evaluated through examinations
+and on a continuous basis. Minor 1, Minor 2 and Major examinations are
+mandatory components of the evaluation of a regular 14-week long lecture
+course. The total weightage of examination component (three examinations
+for a 14 week-long course) shall be between 40% to 60% of the total weightage
+of evaluation measure.
+
+Academic Calendar
+The exact dates of all important events during the Academic Session, such as
+orientation, registration, the commencement of classes, adding and dropping
+declaration of courses, submission of documents, examinations, submission
+of grades, project evaluation, of results, mid-semester vacation are provided
+in the Academic calendar. The calendar is approved by the Senate.
+Academic Programs
+The complete list of various Academic Programs ofered by IIT Jodhpur is
+available on the website.
+
+Chapter 4
+Research and Innovation
+Opportunities
+IIT Jodhpur has established good number of teaching and research labora-
+tories and facilities, which aid in elevating the students from minimalist
+academic concerns to inquisitive world of scientifc arena. These teaching
+and research laboratories help faculty members and students work for better
+future by supplementing and improving existing technologies and bodies of
+knowledge, using competence, creativity and imagination. Following avenues
+are available for all the faculty members to pursue their research targets.
+4.1
+Centre for Research and Development of Scientific
+Instruments (CRDSI)
+The state-of-the-art central instrumentation facility of IIT Jodhpur which
+was established in the year 2018 has been designated as the Centre for Re-
+search Development of Scientifc Instruments (CRDSI). The CRDSI has an
+endeavour to provide advanced scientifc instrumentation service in the mul-
+tidisciplinary feld of research to the undergraduate, graduate, Ph.D. students
+and the faculty members of IITJ as well as researcher from other institutes
+across the country. At present a total number of 93 high end instruments
+under CRDSI facility are located at various departments of the Institute. For
+example, Room No. 111 and 112, Chemistry Department building houses
+22 such equipment including 500 MHz NMR, Single Crystal XRD, Powder
+XRD, AFM, SEM, PPMS Dynacool, SQUID, Surface area analyzer, DSC, TGA
+etc. The overall day to day activities and the policy of the centre is deter-
+mined by a committee of faculty members of IITJ. A faculty-in-charge is
+appointed for each of the instruments for smooth running and maintenance
+of the equipment. Furthermore, CRDSI facility at IITJ imparts an opportu-
+
+nity towards its users for accessing various latest and advanced instruments
+persuasively via a transparent online booking portal. Thus, the CRDSI facil-
+ity contributes towards publishing the research fndings in internationally
+peer reviewed journals. IITJ CRDSI facility welcomes external users from
+all national institutes and R&D organizations for accessing this facility on a
+minimal chargeable basis.
+Main Objectives of CRDSI facility are:
+1. Advanced scientifc instrumentation service to researchers from both
+academic and industrial organizations.
+2. R&D for advanced scientifc instrumentation.
+3. Technology development and innovation in the area of scientifc in-
+strumentation.
+4. Encouraging start-ups for scientifc instrumentation
+Latest Information on CRDSI, and the available instruments can be checked
+at IITJ CRDSI website.
+4.2
+High Performance Computing (HPC)
+The Institute provides an HPC cluster facility for performing tasks which
+require high end computations. HPC is a collection of relatively low-cost
+standalone computers that are networked together. These inter-connected
+computers are endowed with software to coordinate programs on (or across)
+those computers, and they can therefore work together to perform computa-
+tionally intensive tasks. More details can be accessed at the Computer Center
+website.
+4.3
+Seed Grant
+Research initiation grant of up to Rs. 25 Lakhs (as per the availability of funds)
+within the initial period of 3 years from the date of joining. The provision
+for Seed Grant is to facilitate and give a launch pad to new faculty for their
+research activity till the point they are able to get results out of their research
+proposals. To get this grant you need to submit a formal research proposal
+to the ofce of R&D. Please note that project staf cannot be hired under this
+grant, nor can you use it for travel, or to purchase furniture, laptops, mobiles,
+or other portable personal electronic devices. However, a faculty member can
+avail a computer / Laptop and a printer for your ofce with a total amount
+of 1.5 Lakhs right after joining. This amount is adjusted in the seed grant.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+4.4
+Mobility Research Grant
+All the new faculty members of the Institute are eligible for Mobility Re-
+search Grant within 3 years from date of joining. The grant of up to Rs. 10
+Lakhs would be provide to support the travel, subsistence allowance, and
+contingency expenses to Assistant Professors and his/her PhD student to
+visit the laboratories of foreign collaborators during two consecutive years.
+The grant may be extended to third year as well. The mobility grant can also
+be used to host foreign collaborators at the Institute.
+4.5
+Ofice of R&D
+The Ofce of R&D provides specialized administrative and managerial sup-
+port for the operation of Sponsored Research Projects, Consultancy Projects
+and other R&D related activities of the Institute. The ofce facilitates interac-
+tion with national and international agencies supporting research develop-
+ment. Also, it promotes academia-industry interactions and collaboration
+with larger R&D laboratories, and liaises between Institute and funding
+agencies. Further, it supports faculty members in fling of patents and docu-
+menting IPR generated through research activity of the Institute. For all the
+research related queries, and for more details you may refer to the ofce of
+R&D website.
+
+Chapter 5
+Other Institutional Constituents
+There are multiple avenues in which a faculty member could directly connect
+their expertise, either with the nearby communities or with the world for an
+enhanced engagement. Following Institutional constituents play an active
+role in the development and transfer of knowledge and technologies to the
+society in a responsible manner.
+5.1
+Jodhpur City Knowledge and Innovation Cluster
+The Jodhpur City Knowledge and Innovation Cluster (JCKIC) has been es-
+tablished under the Aegis of the Ofce of the Principal Scientifc Adviser,
+Government of India. The main focus of the cluster is to provide a necessary
+platform to create synergy between all the stakeholders to make use of avail-
+able knowledge as well as to develop advanced technologies, creative skills,
+state of the art infrastructure and innovative environment in an organized
+manner so as to ensure sustainable and systematic development of city of
+Jodhpur. The initial focus of the cluster will be in the following areas:
+1. To provide Innovation-driven impetus to Healthcare and Medical Tech-
+nology industry in the city.
+2. To design and implement digital technologies for value addition to
+local handicrafts and handlooms
+3. To develop and implement a prototype waste water management sys-
+tem dealing with pollutions from the textile industry
+4. To roll out an AI driven initiative for increasing efciency of trafc
+and crime management system of the city of Jodhpur
+
+5. To design and develop an integrated real time data management system
+for the city of Jodhpur, on top of forthcoming 5G network
+More information can be found at JCKIC website.
+5.2
+TIH-iHub Drishti
+iHub Drishti, IIT Jodhpur is a Technology Innovation Hub focused around
+“Computer Vision, Augmented Reality and Virtual Reality”. It is a Section-
+8, Not-for-proft Organization, promoted by and at the Indian Institute of
+Technology Jodhpur under a National Mission on Interdisciplinary Cyber
+Physical Systems (NM-ICPS) of the Government of India. The hub, steered by
+the Hub Governing Board and the Director of the TIH, hosts teams of faculty
+members, research scholars, developers and scientists who work towards
+developing the technologies. With various partners identifed as
+1. Research collaborators from national and international institutions
+2. Domain expert partner institutions
+3. Hub and spoke model (mentor-mentee) based partner institutions
+4. Research labs and industry including startups.
+The TIH envisions creating an ecosystem in and around the thematic areas
+and building collaborations with other TIHs to foster the overall growth and
+development of CPS technologies. The facility includes a mix of ofce and
+laboratory spaces with state-of-the-art infrastructure facilities, which will
+cater to the collaborating institutions. The TIH will also build a network
+of researchers and developers, both externally hired and from the student
+body, such that in the next 5 years, iHub Drishti becomes the main hub of
+technologies related to computer vision, virtual and augmented reality in the
+entire country.
+More information can be found at TIH-iHub Drishti website.
+5.3
+Technology Park
+IIT Jodhpur is setting up an Incubation Centre and Technology Park in its
+campus to nucleate a cluster of new age ventures. The focal theme for the
+Technology Park is AIoT – Artifcial Intelligence of Things. Convergence
+of AI, IoT and 5G is ushering in AIoT. This next generation technology is
+expected to impact all sectors of economy.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+The Technology Park, under the aegis of an independent section-8 com-
+pany managed by IIT Jodhpur with the fnancial and technical support of
+relevant stake-holders (Government Agencies, Angel and Venture Investors,
+Technology Providers), will
+1. Have a Common Research and Technology development Hub providing
+access to hardware and software facilities for end-to-end research,
+prototype development and pilot production of products for AIoT
+space
+2. Provide an interface for industries to collaborate with faculty and
+students of IITJ and other research and academic organizations in the
+country, and Jodhpur in particular
+3. Enable interface for mentors and investors including government agen-
+cies to work with MSME and start-up’s
+The Common Research and Development Hub (core of AIoT FAB) of the
+Technology Park will include
+1. Electronic Fab for fabrication of sensors and associated electronics
+2. Fabless design facilities for hardware IP in IoT-AI domain
+3. Design, implementation, testing and production facilities for IoT de-
+vices ( all facilities for electronic system development and production).
+4. Hardware and Software Infrastructure for design, development and
+deployment of AI and Data Driven Products
+5. Appropriate Data Infrastructure for Enabling enterprises to manage
+and use large scale enterprise data in real-time
+6. Computational Facilities and Software support for Large Scale Mod-
+elling and Simulation
+More information can be found at Technology Park website.
+
+5.4
+Technology Innovation and Start-up Center (TISC)
+The Technology Innovation and Start-up Center (TISC), which is promoted
+by IIT Jodhpur, is a company incorporated under Section 8 of The Companies
+Act, 2013. The TISC is an independent entity with its own governance system
+and managed by CEO along with its management team. TISC at IIT Jodhpur
+is the umbrella body for nurturing innovation and enterprise in technology
+product manufacturing. Its primarily intent is to nurture technology-driven
+ideas and innovations into successful prototypes. The proposed TISC works in
+line with the national priorities and goals, and focuses to build an innovation-
+driven entrepreneurial ecosystem within the national missions of Technology
+Innovation, Intellectual Property (IP) generation and Skill Development. The
+norms and process guidelines of TISC are available on the IITJ website.
+
+Once you have joined
+
+Chapter 6
+First things frst...
+Welcome aboard to Indian Institute of Technology Jodhpur. The Institute is
+striving to make itself better with passing days, and will ensure to provide
+you with the desired amenities for professional and personal growth. The
+Institute as a whole looks forward to your contributions in the years ahead
+for excellence in education, research and technology transfer.
+6.1
+Before coming to campus
+Before reporting at the institute, after the formal acceptance of the Ofer of
+appointment, the faculty member may inform the Ofce of Establishment-I
+through email regarding the date of arrival at IIT Jodhpur, with a request
+for necessary arrangements like Guest House and pick-up from the airport
+to the institute. The Ofce of Establishment-I shall take care of the needful
+arrangements.
+6.2
+Afer reporting at IITJ
+A faculty member is required to complete a set of formalities in order to
+complete the process of joining the institute. The Ofce of Establishment-I
+currently takes care of completion of all such formalities in a meticulous man-
+ner. The undermentioned forms are made available to the faculty members
+along with the Ofer of Appointment:
+1. Bio-data form
+2. Attestation form (to be submitted in triplicate)
+3. Character Certifcate
+4. Identity Certifcate
+5. Form for Oath of Allegiance
+
+The Faculty member is required to submit all the above mentioned forms.
+The Character Certifcate and the Identity Certifcate are also required to be
+signed by an ofcial (list of ofcials available in pro forma) before reporting
+at IITJ. The faculty member needs to submit the joining report, copy of ofer
+letter and the copy of application/CV at the time of reporting. He/She is
+also required to furnish the original documents pertaining to educational
+qualifcations (Class 10th onwards) and other documents such as Aadhar,
+PAN, PRAN (if already exists), Caste Certifcate (if any) etc. for verifcation.
+For record purpose, the self-attested copies of all the documents would be
+kept in the ofce of Establishment I. One must also carry 10 passport size
+photographs.
+In case a faculty member has been working in any other organization
+earlier, he/she shall also be required to submit:
+1. Copy of Relieving letter
+2. Work Experience Certifcate
+3. Last Salary Slip
+After verifcation of documents, the Ofce of Establishment-I will issue
+the undermentioned forms:
+1. Medical Form: The faculty member is required to get himself medically
+tested at the Primary Health Center of the Institute. It is only after
+receipt of the report of being medically ft that the process of joining
+the Institute is fnalized.
+2. Form regarding Declaration of Marriage
+3. Form regarding Declaration of Hometown and Dependent family mem-
+bers (necessary for availing benefts like LTC, Medical facilities etc.)
+4. Form for Institute email ID (to access ofcial mails and LDAP)
+5. Annual Immovable Property Return
+6. Group Insurance form
+7. Relocation reimbursement form
+The joining report along with above mentioned forms duly completed in all
+aspects is to be submitted to the Ofce of Establishment-I for further process.
+The joining report needs to be duly signed by the Head of the Department
+and the Director before the start of further process. In the intervening period
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+the concerned faculty member needs to get himself medically examined at
+the Primary Health Center so that the process of joining can be streamlined
+and completed as quickly as possible.
+On completion of the above formalities, the Ofce of Establishment-I
+will issue an ofcial document called “Ofce Memorandum” confrming the
+joining. The same is also sent in copy (through email) to all concerned
+departments/ofces to intimate the joining and for future references. The
+Ofce of Establishment-I would prepare a Personal File (P.F.), a Service Book
+(discussed later), and issue an Ofce Memorandum regarding Joining and Pay
+fxation upon the approval from Competent Authority. You would be given a
+P.F. number that serves as an employee Identifcation for multiple purposes.
+The concerned department takes care of providing an ofce space and
+equipping the space with required furniture and computers etc. Although,
+the departments try to make prior arrangements, sometimes it may take a
+few days for the things to settle.
+6.3
+LAN connection and Ofice Telephone
+Once ofce space has been allocated in the department, the Computer Center
+will equip the ofce with the LAN connection and telephone. All faculty
+members and Group A ofcers are provided telephone facility in the ofce
+with zero dial facility.
+6.4
+Reimbursement of Relocation
+The Institute strives to facilitate the faculty members with all benefts allied
+to their joining the institute. One of the benefts extended is reimbursement
+of relocation expenses. The expenses which include the cost of travel for
+the faculty member and family (spouse and dependent children) and trans-
+portation of household goods are reimbursable up to a limit of up to Rs.
+1,50,000 or actual (whichever is less) as per the applicable TA rules. This is
+for the candidates joining for full-time positions at the Institute from abroad
+or from any place in India, subject to a maximum of one-way economy class
+airfare by any airlines. The tickets must be booked as per the prevalent
+TA rules. As per the current Government of India norms the tickets must
+be booked only through IRCTC or Balmer Lawrie or Ashok Travels. This
+facility is available only to the candidates joining the posts of Professor, As-
+sociate Professor and Assistant Professor Grade I. It is very important that
+the form for relocation along with the bond be submitted to the Ofce of
+Establishment-I within 60 days of joining the Institute. One must keep safe
+
+all the tickets/boarding passes/receipts for claiming the reimbursement. For
+claiming the reimbursement one needs to execute a bond on a Non-Judicial
+Stamp paper and undertake to serve IIT Jodhpur for 3 Years. In case a faculty
+member wishes to leave the Institute before the expiry of 3 years, he/she will
+be required to return the amount paid/received.
+The faculty members joining at the post of Assistant Professor Grade II can
+become eligible only, if they are ofered the post of Assistant Professor Grade
+I after completion of 3 years’ of service and due review of performance; in
+such cases, a bond shall be executed to serve IIT Jodhpur for 3 Years after
+joining the post of Assistant Professor Grade I.
+6.5
+Institute ID Card
+The Ofce of Establishment will also facilitate in preparation of identity Card.
+The ofce provides a Link for ID Card (via Google Forms) shared through
+the email with the concerned faculty. Currently, the Ofce of Library at
+IITJ prepares the ID card. Once the card is ready, the ofce will intimate
+the concerned faculty to collect the card from the Ofce of Establishment-I.
+Currently, the ID card also serves as a Library Card. Being a premier Institute
+of technology, the Institute is striving to make use of the best available
+resources for providing an efcient work environment.
+6.6
+Institute Email ID
+Currently, the faculty member submits the form for the generation of the
+ofcial email ID at the Ofce of Establishment-I. The same is forwarded to
+the Computer Center (CC) where the ID will be issued.
+The CC will also generate an LDAP ID which serves as an identifcation for
+accessing the Institute’s internet, ERP and E-ofce.
+6.8
+Institute Repository
+All the minutes of the meeting of the Senate, BoG, and other documents such
+as Newsletters, Annual report, NIRF data are available on IITJ Repository
+webpage. In addition to that, IITJ Institute Communications Repository
+preserves and enables easy access to various ofce orders, forms, guidelines,
+rules, FAQs of IIT Jodhpur, to their community.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+6.9
+Medical Booklet
+Medical facility (detailed later) is available for all the faculty members. For
+availing the medical facilities, you need to use the medical booklets. These
+are issued on request for self and dependent family members.
+6.10
+Library Membership
+The form for getting the membership of Library is also made available to the
+faculty member. The details about the Library services are available in the
+fnal chapter.
+6.11
+Ofice of Establishment-I (E-I)
+The Ofce of Establishment-I deals with the Service Matters of the faculty
+members. As mentioned above, after the selection of the faculty member,
+all the joining formalities are performed by this ofce. The Ofce is the
+custodian of Personal Files and Service Books of all the Faculty Members.
+Service Book
+It is a book in which all the major events of the Service at IITJ will be
+recorded. It contains information like Joining, Pay fxation, Yearly increment,
+Pay movement, Leave, Leave Travel Concession Records among others. One
+is required to sign the Service Book as and when required (normally once in
+a year) in order to verify the details flled-in.
+6.12
+House Allotment
+At the time of joining, the Institute provides Guest House Accommodation
+as a transit accommodation for a few days till an accommodation is available.
+The Institute currently ofers two types of accommodation within the campus
+viz. Type-B and Type-C to faculty members. The accommodation within
+the campus is subject to availability, and as per the House Allotment Rules
+applicable from time to time. The Institute is also ofering accommodation
+outside the campus in Jodhpur city. For this purpose, the Siddhartha residency
+at Pal Road has been taken as a leased accommodation.
+The concerned faculty member has to contact the Ofce of Estate which
+looks into the matter of allotment of accommodation, both within and outside
+the campus. In case a faculty member occupies any of the aforesaid accom-
+modation, then he/she shall not be entitled to receive House Rent Allowance
+(HRA) as a component of salary. Upon the allotment of an accommodation,
+the Ofce of Estate will issue a House Allotment Letter containing the terms
+
+and conditions of the allotment. The letter needs to be retained for various
+future purposes. The same letter can be used as a residential address proof
+to be submitted to various agencies, for example, while applying for gas
+connections, driving license etc. However, if the faculty member chooses to
+stay in an accommodation owned/rented by him/herself then he/she shall
+be entitled to HRA subject to flling up the requisite form for claiming HRA.
+This is being taken care of by the Ofce of Establishment-I.
+Additionally, there exists a maintenance email-ID for the residents at IITJ
+campus to raise complaints about operational and maintenance issues. One
+can register the complaints at maintenance@iitj.ac.in
+6.13
+Key Contacts
+In case of any difculty, you may need to contact the associated ofce for
+resolution and assistance. Following details would be helpful.
+1. For any pre-arrival information and joining formalities, you may con-
+tact
+Mr. Darsh K. Khatwani, Junior Superintendent, 0291-2801011
+Mr. Shyam Sunder Singh, Junior Assistant, 0291-2801111
+2. For any issues related to the Guest House accommodation, you may
+contact
+Mr. Abdul Khan, 0291-280 1068, 7587528640
+3. For any issues related to accommodation, within campus, and leased
+accommodation outside the campus, you may contact Mr. Shankar
+Singh (0291-2801067) in the Ofce of Estate.
+4. For all Service related matters, following staf members may be con-
+tacted in the Ofce of Establishment-I.
+Mr. Prashant Bhardwaj, Assistant Registrar
+Mr. Sambaji, Junior Assistant
+Mr. Shyam Sunder, Junior Assistant, 0291-2801111
+
+Chapter 7
+Ethics and Code of Conduct
+As a faculty member of an institute of national importance in the country, it is
+expected that one should maintain expected levels of decorum and integrity at
+all times. Being an employee of an Autonomous Institute of the Government
+of India one is always subjected to several checks and balances by various
+government agencies as well as the public in general. For this purpose, it
+is difcult to provide an exhaustive list of do’s and don’ts or what is the
+expected level of decorum and integrity but there are surely certain rules
+that provide a guiding light in the matter.
+7.1
+General conduct
+An employee of the Institute shall devote whole time to the service of the
+Institute and shall not engage directly or indirectly in any trade or business
+or any other work which may interfere with the proper discharge of duties,
+but the prohibition herein contained shall not apply to academic work and
+Consultative Practice or any Entrepreneurial or any similar activity under-
+taken with the prior permission of the Institute, which may be given subject
+to such conditions as regards the acceptance of remuneration and conditions
+as may be laid down by the Board from time to time. In addition,
+1. Every employee shall at all times maintain absolute integrity, devo-
+tion to duty, and do nothing that is unbecoming of an employee of
+Indian Institute of Technology Jodhpur, and also be strictly honest and
+impartial in his ofcial dealings.
+2. An employee should at all times be courteous in his dealings with other
+members of the staf, students and members of the public.
+
+3. Unless otherwise stated specifcally in the terms of appointment, every
+employee is a whole-time employee of the Institute, and may be called
+upon to perform such duties, as may be assigned by competent au-
+thority, beyond scheduled working hours and on closed holidays and
+Sundays. These duties shall inter-alia include attendance at meetings
+of committees to which appointed or required by the Institute.
+4. An employee shall be required to observe the scheduled hours of work,
+during which must be present at the place of his duty, unless required
+to be elsewhere on duty.
+5. Except for valid reasons or unforeseen contingencies, no employee
+shall be absent from duty without prior permission.
+6. No employee shall leave station except with the previous permission
+of proper authority, even during leave or vacation
+7.2
+Taking Part in Politics and Election
+The faculty members are not allowed to take part in politics or be associated
+with any party or organization which takes part in political activity. They
+should also not subscribe in aid or assist in any manner any political move-
+ment or activity. Voting in elections is not covered under this, therefore one
+can vote in elections. However, one can participate in elections process in
+any professional body he/she is engaged with.
+7.3
+Connection with Media
+The institute has a well laid mechanism to issue any ofcial information to
+the media. Therefore, as a faculty member a prior sanction of the Competent
+Authority is required in case of participation of any kind of activity with the
+media. However no such sanction shall be required if such media participation
+or when such contribution is of a purely literary, artistic or scientifc character.
+Therefore, no prior sanction is allowed for sending a technical manuscript
+for publication. Here press refers to all kind of print and electronic media.
+7.4
+Criticism of the Institute
+No faculty member shall engage in any activity through the media or any
+other document being published which leads to the criticism of the institute
+whether done in own name, anonymously or in the name of the other person.
+They shall not engage in any communication to the media or in any public
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+utterance, make any statement of fact or opinion which has the efect of an
+adverse criticism of any current or recent policy or action of the Institute; or
+capable of embarrassing the relations between the Institute and of the Central
+Government or any State Government or any other institute or organization
+or members of the public. Provided that nothing in this paragraph shall
+apply to any statements made or views expressed by an employee in ofcial
+capacity or in the due performance of the duties assigned.
+However, in case of any grievance with the Institute or the policies of
+the Institute one should always follow “a proper channel”. Therefore, one
+may write about his/her grievance to the important functionaries such as the
+Director, Deputy Director, Head of the Department or the Registrar. In case
+of no resolution the matter may even be taken to the Chairman of the Board
+and further to the Visitor of the Institute. The grievances need to be routed
+through the Head of the Department and addressed to the Director/Deputy
+Director. In case of no help from the said functionaries, one may even take
+a legal recourse but it is always better to settle things through amicable
+solutions within the institute to avoid waste of valuable time and other
+resources.
+7.5
+Consultancy Ethics
+Private consultancy is a serious breach of the code of conduct. Similarly,
+you should not take up remunerative assignments outside the Institute with-
+out explicit permission from the Institute. You may not, however, accept
+assignments in a Tutorial organization either as a consultant or for direct
+teaching.
+7.6
+Plagiarism
+Being an Institute of excellence, the Institute takes a very serious view of any
+act of plagiarism. While the penal codes are silent on it, there are guidelines
+issued by National Academies on what constitutes plagiarism. In technical
+publications, all joint authors are responsible equally for any ofence of
+plagiarism. Punishment can be severe, including termination of service.
+7.7
+Sexual Harassment of women at the workplace
+This is of main importance to the male faculty. However, the female faculty
+members should also get to know about the latest guidelines regarding “Sexual
+harassment at workplace” so as to know their rights and also be of help at
+any time to any other female colleague or student. Being a co-educational
+
+institute, a male faculty gets to interact with both the male as well as female
+students of the institute and also female faculty members other colleagues.
+At all times the behavior must be unblemished. Due to larger participation
+of women in the workforce and occurrence of various incidents pertaining
+to sexual harassment at workplace, the Supreme Court of India framed the
+popularly known “Vishakha Guidelines”.
+They were a set of procedural guidelines for use in India in cases of sexual
+harassment. They were promulgated by the Indian Supreme Court in 1997
+and were superseded in 2013 by the Sexual Harassment of Women at Work-
+place (Prevention, Prohibition and Redressal) Act. The act defnes sexual
+harassment as any one or more of the following unwelcome acts or behavior
+(whether directly or by implication):
+1. physical contact and advances.
+2. demand or request for sexual favors.
+3. sexually colored remarks (this includes colored jokes in a mixed com-
+pany, or a classroom, or even within hearing distance of a female
+member of the community)
+4. showing pornography.
+5. any other unwelcome physical, verbal or non-verbal conduct of sexual
+nature.
+Other than any case which involves an act that amounts to be an ofense
+under the Indian Penal Code which is dealt by the public authorities like the
+police/law courts, anyone who is or has been a victim of sexual harassment
+(or one who perceives sexual harassment to oneself) may lodge a complaint to
+the Women Cell/internal Complaints Committee. The complaint may also be
+submitted to the Director/Deputy Director/Professor In-charge/Deans which
+will further be dealt by the committee. The faculty members can also reach
+out to the Committee/Cell in case of any advice or redressal of a problem
+which pertains to the Committee/Cell.
+7.8
+Right to Information
+The Parliament of India enacted the Right to Information Act in 2005 to enable
+the citizens of India to get any information pertaining to the government
+or any other institute/organization which is publicly funded. Being a public
+funded institution, IIT Jodhpur falls within the ambit of the RTI Act and
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+any citizen of the country can seek any information without citing a reason
+thereof. However, the act provides for exemption from providing certain
+types of information. For the purpose of dissemination of information on suo
+moto basis or the information sought, the institute has appointed a Central
+Public Information Ofcer and an Assistant Public Information Ofcer and it
+is their statutory duty to provide information sought.
+7.9
+Conduct Rules
+It has been tried to precisely provide details regarding the expected code of
+conduct expected out of the faculty members in few of the above mentioned
+sections. Further, all the employees of the Institute are subject to the Conduct
+Rules which have been discussed in detail in the SCHEDULE-C of Statutes.
+The Schedule-C is available on the Institute website.
+
+Chapter 8
+Salary, Allowances and other Benefts
+After the implementation of 6th CPC, and continued after the implementation
+of the 7th CPC, fresh PhD holders are ofered only contractual positions
+(against regular vacancies) at the institute. The position ofered to PhD
+holders with less than 3 years post-PhD experience is Assistant Professor
+(Grade II). The contractual faculty members are entitled to almost all the
+facilities as a regular employee. After the completion of 3 years, and due
+evaluation, a faculty member will be ofered the post of Assistant Professor
+(Grade I). Thereafter, the faculty members are placed on probation for 1 year.
+On regularization, the services may be confrmed otherwise the probation
+may be extended for a further duration.
+8.1
+Pay Scales
+After implementation of the 7th Pay Commission, the salary is as per the
+Academic Pay Levels. Each Pay Level provides an initial Basic Pay given in
+Cells and with yearly increments in each Pay level. The various Pay Levels,
+and the corresponding designations are as follows:
+1. Assistant Professor: Gr. II- Pay Level 10
+2. Assistant Professor: Gr.II- Pay Level 11 (after 1 year of experience)
+3. Assistant Professor: Gr.I - Pay Level 12 (after 3 years of experience)
+4. Assistant Professor: Pay Level 13A1 (after 3 years in Pay Level 12)
+5. Associate Professor: Pay Level 13A2
+6. Professor: Pay Level 14, 14A and HAG
+
+The Institute is also ofering Chair positions to anyone with a track record
+of an outstanding teacher or researcher in the rank of Associate Professor
+or Professor or a person with RD experience from the industry or a known
+person in the area of liberal arts. Anyone who is considered for the Chair
+would be appointed against one of the positions available in the institute.
+The appointment is nominally made for a period of up to 5 years.
+8.2
+Components of a Salary
+The salary is credited on the last working day of all the months except for
+March, which is credited on the frst working day of April. The Financial Year
+for tax purposes is from 1st April of a year to 31st March of the following
+year. The income tax uses assessment year for submission of Income Tax
+Returns, which is the fnancial year in which the return is fled. Salary Slips
+are provided through email by the Ofce of Accounts. The Salary Slip shows
+the details of total earnings, deductions and the net pay. Following are the
+components of the salary.
+Basic Pay
+The basic pay is fxed in a particular pay level which is decided according to
+the designation and/or experience of a faculty member. The same is intimated
+to the concerned faculty member in the Ofer of Appointment itself. The
+pay may be fxed at the minimum of a Pay level or in the later cells on the
+basis of recommendation of the Selection Committee, after consideration of
+credentials and/or experience of the candidate. The Basic Pay of a faculty
+member increases every year in the form of Annual Increments. After the
+implementation of the 7th CPC there are two fxed dates of Annual Increment
+viz. 1st Jan and 1st July of a particular year. However, one is entitled for one
+increment only, by which he/she hops onto the next cell of a particular pay
+level. This increment is ofered on 1st Jan/1st July according to the date of
+joining the institute.
+Dearness Allowance (DA)
+Considering the infation rates, Dearness Allowance rates are announced by
+the Government twice a year, once in January and the other in July based
+on Consumer price indices. Although efective from January or July of a
+particular year, the announcement is normally made in March and September
+of the year.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+House Rent Allowance (HRA)
+This component is paid if one stays in accommodation owned by him-
+self/family or on rented accommodation. Currently, the rate of HRA is
+9% at IITJ. In case a faculty and her/her spouse both are Institute employ-
+ees/Government employees, and stay in owned/rented accommodation, both
+get HRA otherwise if they stay at Institute accommodation, none receives it.
+HRA is taxable, however if one lives in rented accommodation, HRA received
+is exempted from tax partially/fully.
+Transport Allowance (TA)
+This component of salary is payable at the same rate irrespective of whether
+a faculty member stays inside or outside the campus. Dearness Allowance
+on the prevailing rates is also paid on TA. The current prevailing rates of TA
+for all faculty members irrespective of their designation is Rs. 3600 + DA as
+per applicable rates. It is to be noted that in case of persons with disabilities
+the TA is paid at double the rates.
+Employers Contribution to NPS
+All Institute employees are covered under the National Pension Scheme
+(NPS), implemented for all employees joining government service on or after
+01.01.2004. Employer (IITJ) currently pays 14% of Basic Pay and Dearness
+Allowance. Although this amount is not credited into the account of the
+employee but towards his NPS Account.
+8.3
+Deductions
+Income Tax
+Income tax is deducted from the salary as per the tax provisions. However,
+tax liability can be lowered by investing in various tax saving schemes. The
+Ofce of Accounts foats a form for collecting this information with the details
+of tax-saving investments by an individual. This helps them in calculating
+the appropriate amount of tax that needs to be dedicated from the salary. One
+must remember providing the information otherwise it will lead to deduction
+of higher amounts as tax, although the same may be refunded later by the
+IT department on the basis of information provided while fling Income Tax
+Returns every year.
+Form 16 is issued to the employee at the end of the Financial Year and it is
+compulsory to fle Income Tax Returns as per the dates scheduled (normally
+the same is 31st July unless extended). E-fling of Income tax is possible
+
+after one-time registration on the tax fling portal of Income Tax Department.
+Over the period of time fling of returns has been made simpler and totally
+electronic.
+License Fees, Water and Electricity Charges
+If an employee occupies accommodation provided within the campus or
+GPRA (General Pool Residential Accommodation) of CPWD, the deductions
+for the License Fees, Water and/or Electricity are made as applicable.
+Contribution to NPS
+10% of the employees Basic Pay and Dearness Allowance is deducted from
+the salary as employee’s contribution to NPS. As mentioned above, 14% of the
+Basic Pay and Dearness allowance (employer’s share) is also deducted and
+the total amount deposited in the NPS account of the employee monthly. NPS
+is applicable to all the employees appointed on or after 01/01/2004. Therefore,
+it is mandatory to make an application for NPS after joining the Institute.
+The Ofce of Establishment and Ofce of Accounts provide all the help in this
+matter. Nowadays, an application for a PRAN card is easily available through
+a designated web portal. After the application of NPS to NSDL, all subscribers
+of NPS are provided with a 16 digit Permanent Retirement Account Number
+(PRAN). If you already have a PRAN, just provide the details to the Ofce of
+Accounts for the deductions and Institute contribution to be deposited in the
+same.
+Group Insurance and Endowment Fund
+The Institute also provides a Life Insurance of Rs. 10 lakhs, and the endow-
+ment fund for every employee. An employee may choose the deduction of
+Rs. 500/1000/1500 in relation to Group Insurance Scheme/Endowment Fund.
+The amount deposited in the endowment fund is refunded to the employee
+with interest at the time of retirement or in case an employee resigns/leaves
+the institute before retirement.
+8.4
+Other Benefits
+Leave Travel Concession (LTC)
+The employees are eligible for a paid travel to Hometown once every two
+years. The employee needs to declare his Hometown in an application form
+provided by the Ofce of E-I at the time of joining. Hometown can only
+be changed once in the lifetime of the faculty member subject to certain
+conditions.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+An employee can avail Hometown LTC once in two years and can opt to
+travel anywhere in India in lieu of Hometown within a four year block. This
+facility is extended after the frst year of joining any government service.
+For those whose frst appointment is on 31st December of any year, the frst
+LTC can be availed on 31st December of the next year. For the purpose,
+Block Years (starting 1st Jan and ending 31st Dec) have been devised. LTC is
+calculated on calendar year basis. The four year block is further divided into
+two year blocks. For example, the current four year block is 2022-2025 and
+the two year blocks are 2022-23 and 2024-25. Either of home town or travel
+to anywhere in India in lieu of hometown can be availed in a two year block.
+An employee can avail LTC benefts for self and dependent family members.
+The travel need not be taken together or for the same destination when
+opting for anywhere in India LTC. All return journeys must be completed
+within 6 months from the date of outward journey. If availing LTC for self,
+leave is mandatory. Therefore LTC cannot be availed just by traveling on
+weekends/holidays.
+If both the spouses are working for the Institute/government, they can
+claim LTC separately. They can also declare dependents diferently, i.e. if the
+wife has declared her parents to be dependent on her, she can claim the LTC
+for them separately. The children can avail LTC only with one of the parents.
+If one of them takes LTC for the spouse under eligible LTC entitlement,
+he/she cannot independently claim LTC for self. Each spouse can declare a
+separate “Hometown” and take LTC for their respective hometowns.
+Special provision for New Appointees
+Fresh appointees are eligible for LTC once every year for two blocks of four
+years each. This means that during the frst eight years of service an employee
+can avail one LTC every year. A new employee can avail 03 hometown LTC
+and 01 anywhere in India LTC in a block of four years up to two 4 year blocks.
+After eight years, the LTC is governed by the above mentioned rules. More
+details about LTC entitlements to fresh appointees can be accessed through
+the notifcation on DOPT website. Further clarity can be obtained via FAQs
+on LTC, available on the DOPT website.
+Currently, in order to promote tourism in North-East India, Jammu &
+Kashmir, and Andaman & Nicobar Islands, the government provides an
+option for conversion of one hometown LTC in a block year to visit the above
+mentioned places. The formal notifcation can be accessed on the DOPT
+website. The notifcation about travel entitlements of the central government
+employees can also be accessed on the DOPT website.
+
+Encashment of Leave while availing LTC
+At the time of taking an LTC, an employee is permitted to encash up to 10 days
+of accumulated earned leave subject to the condition that such encashment
+will not exceed sixty days during the entire career of an employee. After
+encashment a balance of minimum 30 leaves must be available in the account
+of the employee. If both husband and wife are employees, each can encash
+such earned leave even when they are traveling together. The encashment
+of earned leave for the purpose of LTC will not have any bearing on the
+maximum number of days (300) for which earned leave can be cashed at the
+time of retirement.
+Telephone Reimbursement
+All faculty members are eligible for Telephone Reimbursement for which the
+ceiling amount shall be as per the prevailing guidelines. The current rates of
+reimbursement are as follows.
+1. Pay level 10 and 11: Rs. 1200/- p.m.
+2. Pay level 12 to 13A2: Rs.2250/- p.m.
+3. Pay Level 14 and above: Rs. 2750/- p.m.
+For the purpose, one landline phone at residence, one mobile phone and
+one data card in the name of claimant shall be considered. The claimant will
+be required to submit reimbursement claim form along with payment receipt
+disclosing date of payment/ period of payment, amount, telephone/ mobile/
+data card number. The claims should be submitted to Ofce of Accounts once
+in three months for a period of December to March, March to June, June to
+September and September to December. The employees residing of campus
+are entitled to similar facility.
+Telephone at residence
+Telephone facility at residence will be provided to all eligible employees
+with zero dial. Telephone instruments to be provided by the Institute. The
+facility at residences of Director/ Deputy Director / Registrar/ Dean/Associate
+Dean/Professor-in-charge/ HoD/Medical Ofcer/ Security Ofcer will be free
+of charge and it will be chargeable for all other employees. The bill will
+be generated by the Computer Centre and provided to all employees and
+a consolidated list to Ofce of Accounts. Ofce of Accounts will keep it in
+record and adjust at the time of reimbursement. Charges for extra usage will
+be recovered from salary of the employee.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+Children Education Allowance (CEA)
+The reimbursement of Children Education Allowance (CEA)/Hostel subsidy
+can be claimed only for the two eldest surviving children with the exception
+that in case the second child birth results in twins/multiple birth. The amount
+for reimbursement of CEA will be Rs.2250/- per month (fxed) per child . This
+amount of Rs.2250/- is fxed irrespective of the actual expenses incurred by
+the government employee. Hostel subsidy is applicable for a child studying
+in a residential educational institution located at least 50 kilometers from the
+residence of the employee. The expenditure on boarding and lodging or the
+ceiling of Rs.6750/-, whichever is lower will be paid to the employee as hostel
+subsidy. The reimbursement of CEA for Divyang children of government
+employees shall be payable at double tile normal rates of CEA prescribed i.e.
+Rs,4500/- per month (fxed). The ofcial notifcation can be accessed on the
+DOPT website.
+Cumulative Professional Development Allowance (CPDA)
+An allowance of Rs 3 Lakhs for a block of three years is made available to
+faculty members (including faculty on contractual basis) on reimbursable
+basis to enable presentation of their research work in conferences, paying
+the membership fee of various professional bodies, books and contingent
+expenses. CPDA cannot be utilized during the period in which a faculty
+member may be on lien or extraordinary leave. Detailed guidelines are
+available with the Ofce of Establishment-I.
+Professional Development Account (PDA)
+Amounts credited in PDA are those arising from the academic and profes-
+sional activities of the Faculty Member, namely:
+1. Part of Institute Overheads from Sponsored Research Projects
+2. Remuneration from JEE, GATE, JAM, JMET and other similar national
+examinations
+3. Amount transferred from Outreach Projects, if any
+4. Amount transferred from Consultancy Projects, if any, after meeting
+the expenditures
+5. Any other income with the approval of the Director.
+
+The amount accrued in the PDA can be utilized for the following purposes:
+1. Purchase of equipment and furniture for furthering research activities
+of Faculty Members
+2. Travel (within the country or abroad) for research related meeting and
+conferences; Conference related expenditures
+3. Purchase of books, journal subscriptions and professional membership
+4. Purchase of Teaching material and teaching aids.
+5. Expenses related to promotion of professional activities, like purchase
+of printer cartridges
+6. Appointment of qualifed Project Staf Members to assist in research
+activities
+7. Any other expenditure with the approval of the Director.
+Sof Loans
+Interest-free soft advance up to a maximum limit of 3 months’ salary (namely
+Basic Pay + Dearness Allowance) or 1.5 lakhs whichever is less can be availed
+maximum two times within the 3 years of date of joining the Institute for the
+purpose of education, obligatory expenses, legal costs, purchase of consumers’
+durable and pilgrimages. The advance amount can be repaid in a maximum
+of 12 monthly equal installments.
+Fellowships
+Faculty Members receiving any one of the following two awards, namely
+INAE Young Engineer Award and INSA Young Scientist Award, will be pro-
+vided an additional fnancial incentive of Rs. 10,000 per month. The incentive
+will be given for a period of 3 years from the date of announcement of the
+award.
+Faculty Members who are the fellow of any two of the following academies
+1. Indian National Science Academy (INSA), New Delhi
+2. Indian National Academy of Engineering (INAE), New Delhi
+3. Indian Academy of Science (IASc), Bangalore
+4. National Academy of Science, India (NASI), Allahabad
+will be provided an honorarium of Rs. 15,000 per month.
+
+Chapter 9
+Leaves
+An employee during service is eligible for various forms of leave. How-
+ever, no leave can be claimed as a matter of right and can only be availed
+when approved by the Competent Authority. The undermentioned are the
+rules/guidelines in relation to leaves but they are not exhaustive and in or-
+der to have an overall understanding, Statutes of the institute or Ofce of
+Establishment can provide a better picture/clarifcation.
+9.1
+Vacation Leave
+1. Only faculty members of the Institute are eligible for the same. A
+faculty member is entitled to 60 days of vacation during the year i.e.
+an academic year ( starting from 1st July to 30th June of the following
+year).
+2. Normally, vacation falls in the months of May, June and December.
+However, the vacations can be ascertained from the Academic Calendar,
+which is announced every year by the Institute.
+3. A form has been made available for applying for Vacation Leave.
+4. If full 60 days vacation in any academic year is not utilized, 50% of
+unavailed portion is converted to Earned Leave and credited as Earned
+leave on 1st July of the next academic year i.e. if only X days (in total)
+of vacation is availed in an Academic Year, then half of the balance i.e.
+(60-X)/2 days of earned leave is credited to the Earned Leave account.
+9.2
+Earned Leave
+1. Earned leave can be availed any time during the year with prior sanc-
+tion.
+
+2. Earned leave can be accumulated up to a maximum of 300 days.
+3. The unutilized earned leave can be en-cashed only at the time of su-
+perannuation/resignation/technical resignation from service of the
+institute.
+4. Earned leave can also be cashed at the time of availing LTC (discussed
+earlier under LTC).
+5. Earned leave can be combined with all types of leave other than casual
+leave.
+9.3
+Half-Pay Leave and Commuted Leave
+1. An employee is entitled to 20 days of half-pay leave for every completed
+year of service.
+2. As the name suggests, the employee will be paid half the salary during
+such a leave period.
+3. Half-pay leave is credited in advance on January 1st and July 1st every
+year by calculating the expected period of service of an employee
+during the following six months. (The credit given is 5/3 days for every
+month expected to be completed.)
+4. Half pay leave can be availed for personal reasons or for medical
+purposes.
+5. An employee can avail half-pay leave even when he/she has earned
+leave to his/her credit.
+6. When a half-pay leave is sought to be availed for an employee’s medi-
+cal requirement, an employee may opt to avail Commuted Leave by
+surrendering two days of half pay leave for every day of leave required.
+In such a case, the employee draws a full salary.
+7. Leave can be commuted for non-medical purposes
+• by women employees, for a maximum of 60 days, if taken in
+continuity of a maternity leave or when she adopts a child less
+than one year old
+• for pursuing a course of study for a total period not exceeding 90
+days during entire service.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+9.4
+Maternity and Paternity Leave
+1. Maternity leave with full pay for a maximum of 180 days at each in-
+stance can be availed by female employees with less than two surviving
+children.
+2. Leave of any kind due and admissible (including commuted leave for
+a period not exceeding 60 days and leave not due) can be granted in
+continuation with maternity leave for a maximum period of two years.
+3. Paternity leave of 15 days can be granted to a male employee with less
+than two surviving children during the confnement of his wife for
+childbirth. Such leave can be taken in the period up to 15 days before
+delivery and 6 months after the delivery.
+9.5
+Child Care Leave (CCL)
+1. A child care leave to facilitate women employees to take care of their
+two eldest surviving children below the age of 18 years at the time of
+need (such as sickness, examination etc.) for a period not exceeding
+two years (730 days) during the entire period of service may be granted.
+2. Such leave must be pre-approved by the authorities.
+3. It can be availed for not less than 15 days at a time, and on not more
+than three occasions in a year.
+4. During the period of such leave, the employee is eligible to draw the
+salary received by her immediately before proceeding on such leave
+subject to the undermentioned: “CCL may be granted at 100% of the
+leave salary for the frst 365 days and 80% of the leave salary for the
+next 365 days”
+9.6
+Extraordinary Leave
+Leave without pay, which does not normally count towards increment or
+other service and retirement benefts may be granted to a faculty member
+at the Director’s discretion when no other form of leave is available to the
+employee, or, when in spite of leave being available, the employee specifcally
+desires for the same.
+
+9.7
+Leave not due
+Leave not due, at half-pay salary may be granted to an employee who has
+no leave to his/her credit. Such leave will be adjusted against half-pay leave
+that may accrue at a future date.
+9.8
+Casual Leave
+1. As the name suggests, this form of leave is to meet casual requirements
+of an individual.
+2. At present the number of days for which casual leave can be taken is
+eight per year.
+3. For the purpose of casual leave, the year is a calendar year, i.e., from
+January to December. However, the maximum period for which casual
+leave can be taken is not more than 5 days at a time.
+4. Saturdays/ Sundays and holidays, when prefxed or sufxed to casual
+leave, will not count towards casual leave.
+5. For those who join in the middle of a calendar year, a proportionate
+amount of casual leave is allowed.
+6. Casual leave can even be taken for half a day, i.e. morning session or
+afternoon session.
+7. Casual leave cannot be appended to any other form of leave other than
+vacation.
+8. Unutilized casual leave expires on 31st December every year and is not
+carried over.
+9. Generally, no reason has to be given for going on casual leave.
+10. The sanctioning power for casual leave is vested in the Head of the
+Department of the employee.
+11. One has to take an advance sanction for casual leave as well. However,
+in case of unforeseen circumstances, one can apply the leave post-facto.
+It is a good practice to keep the Head (say, by dropping an email at the
+frst available opportunity) or at least one of your colleagues informed
+of such an absence.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+9.9
+Special Casual Leave
+Special casual leave for a period not exceeding 15 days in a year may be
+granted to a faculty member for legitimate academic/administrative absence,
+for instance, for attending conferences, undertaking examinations in a uni-
+versity, etc. (Special casual leave of varying duration is also available for
+undergoing operations required for family planning purposes. Administra-
+tion section should be consulted for details.
+9.10
+Sabbatical Leave
+1. Sabbatical leave shall be admissible to a member of Teaching Staf or
+Faculty Member
+• after the completion of six years or more of continuous service
+with the Institute.
+• Where he/she availed of special leave or deputation for a period
+of one year or more, after completion of six years or more of
+service with the Institute after his return from such special leave.
+2. In no case Sabbatical leave shall exceed three times during the entire
+service of the Teaching Staf or Faculty Member.
+3. Sabbatical leave may be granted for one or more of the following
+objects, namely:
+• To conduct research or advanced studies in India or abroad.
+• To write text books, standard works and other literature.
+• To visit or work in Industrial concerns and technical departments
+of Government to gain practical experience in their respective
+felds.
+• To visit or work in a University, Industry or Government research
+laboratories in India and abroad.
+• Any other purposes for the academic development of the Teaching
+Staf/Faculty Member, as approved by the Board of Governors.
+Detailed/Other information on Sabbatical leave are available in
+IITJ Statutes.
+
+9.11
+Study Leave
+1. Study Leave is granted to a staf member with not less than fve years of
+continuous regular service for undergoing a special course consisting
+of higher studies or specialized training in a professional or technical
+subject having a direct and close connection with the sphere of his or
+her duties or being capable of widening his or her mind in a manner
+likely to improve his ability.
+2. The Course should be certifed to be of defnite advantage to the In-
+stitute from the point of view of public interest and the competent
+authority to grant leave should approve the particular study or study
+tour. The staf member on his or her return should submit a full report
+on the work done during study leave.
+3. Study leave is not admissible for studies outside of India:
+a) if facilities for such studies exist in India.
+b) to an ofcial due to retire within three years on return from the
+study leave
+c) to the same ofcial with such frequency as to remove him from
+contact with his regular work or cause cadre difculties owing to
+his absence on leave.
+4. Maximum period of study leave which may be granted shall be 24
+months in the entire service period, and ordinarily twelve months at
+any one time.
+5. Study leave shall not be debited to the leave account.
+6. Study leave may be combined with any other leave due, but maximum
+period of continuous absence, including vacation, if any but excluding
+extraordinary leave, should not exceed 28 months generally, and 36
+months for study leading to Ph.D. degree.
+7. Requisite Bonds in the prescribed forms are required to be executed by
+the staf member before proceeding on study leave. The bond amount
+will be decided by the Board.
+8. If the course falls short of the study leave, the ofcial should resume
+duty on conclusion of the course; or the excess period may be treated
+as ordinary leave with the leave sanctioning authority’s prior approval.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+9. Leave Salary:
+• Outside India: Pay last drawn plus Dearness Allowance, House
+Rent Allowances, and in addition, Study Allowance admissible.
+• In India: Leave salary will be equal to pay last drawn plus Dear-
+ness Allowance, House Rent Allowances. No study allowance
+admissible.
+• Stipend, scholarship or remuneration for any part-time employ-
+ment during the period of study leave should be adjusted against
+the leave salary subject to the conditions that the leave salary
+will not be less than that admissible during half pay leave.
+
+Part III
+Facilities @ IITJ
+
+Chapter 10
+Institutional Facilities
+10.1
+Computer Center
+The Institute has a modern Computer Center, presently running on a gigabit
+LAN with 1Gbps internet bandwidth. It is the nucleus of all computing
+activities for Students, Staf Members and Faculty Members. Several terminals
+running on Windows and GNU/Linux operating systems across the campus,
+provide access to several licensed software such as Matlab, Mathematica,
+Cadence, Mentor Graphic, Ansys, PSCAD and Solidworks. A 802.11/b/g/n
+Wi-Fi service is enabled in the academic and residential areas. Also, the
+Computer Centre hosts a High Performance Computing cluster for scientifc
+research. The Resources and Facilities provide by computer center can be
+accessed on the IIT Jodhpur website.
+10.2
+E-Ofice, ERP and DSC
+The Institute has implemented the eOfce of NIC to digitalize the ofce
+procedures. The Institute is also working towards the deployment of a
+comprehensive Enterprise Resource Planning (ERP) system. The faculty
+members are also provided with Digital Signature Certifcate (DSC) for their
+day to day working.
+10.3
+Library
+The Learning Hub, i.e. the library supports teaching and research activities
+of the Institute by facilitating acquisition, organization and dissemination of
+knowledge resources, and also by providing information services to IIT Jodh-
+pur community. The Learning Hub of the Institute is situated prominently
+at the entrance of the academic area of the Institute, stands as the tallest
+structure on the campus scaling over 15m from the ground; keeps time for the
+
+entire campus with a 4-way clock at the clock tower, only the third in the city
+of Jodhpur. It functions under the guidance of the Library Committee, which
+has representatives from all Departments, and Student Representatives. The
+Library has a rich and growing collection of approximately 14,000 volumes
+of books and e-books, which include textbooks, and books of general and
+reference nature. A wide range of scholarly journals, databases and research
+support tools are also subscribed from various sources for the academic and
+research purposes of the Institute.
+The following services and facilities are being provided by the Library to
+its registered users:
+1. Membership and Circulation Services
+2. Orientation and User Education
+3. Borrowing Facility
+4. Reference and Information Service
+5. Course Reserves
+6. Current Awareness Service
+7. Inter Library Loan and Document Supply, and
+8. Digital Library Facility and Services.
+The library services are automated through Biometric enabled RFID tech-
+nology using smart library solution for an efective management of the library
+and providing enhanced services like, self-check-out, self-check-in (book
+drop), security of materials, inventory management and fnding misplaced
+items, stock verifcation, visitor counter, Smart Card issuance, etc. Digital
+resources are accessible through the Library website which provide access to
+the Library subscribed resources, online catalogue, lists of useful resources
+accessible in the open domain such as open access journals, books, reposi-
+tories, video lectures, open courseware. These resources are continuously
+updated.
+A resource guide portal has also been developed and maintained by Li-
+brary, wherein, resources i.e., books available in Library, subscribed journals,
+resources accessible in open domain are listed and linked, course-wise.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+10.4
+Health Care
+Health care facility is provided by the Institute through Primary Healthcare
+Centre of IITJ and apart from this, Goyal Hospital centre has been empaneled
+by the Institute for providing better medical facilities. Eforts have also been
+taken for cashless medical facilities through the empaneled center/s. Cases
+can also be referred to specialists or for surgery etc. to one of the recognized
+hospitals/nursing homes approved by the Institute.
+Primary Healthcare Center (PHC) at IITJ
+IITJ houses a Primary Healthcare Center within its campus. Currently, the
+PHC is being managed by M/s Goyal Hospital which is one of the prominent
+hospitals at Jodhpur. PHC provides 24x7 medical facilities to all the employees
+and their dependents as well as students. There is a Resident Medical Ofcer
+who is a staf of IIT Jodhpur who manages and overlooks all the activities at
+the PHC. Other than the Medical Ofcer, Goyal Hospital provides for doctors
+(shift wise), nursing and pharmacy staf to manage the Primary Health Center.
+PHC also has a Life Support Ambulance available within the campus 24x7.
+There are regular visits from specialists , such as Gynecologists, Pediatrician,
+on a weekly basis. PHC also provide general vaccinations facility on payment
+basis, as well as drives for Covid doses.
+Associated Hospitals
+1. Medipulse Hospital, Jodhpur
+2. Goyal Hospital and Research Centre, Jodhpur
+3. Kamla Nagar Hospital, Pal Link Road, Jodhpur
+4. ASG Eye Hospital, Paota, Jodhpur
+5. Vasundhara Hospital, Jodhpur
+Pharmacy
+The PHC at IIT Jodhpur also has a pharmacy which functions 24x7 and
+most of the medicines which are needed on regular basis are available there.
+For details regarding rules and services provided by the Institute, including
+medical reimbursement, the faculty can contact the ofce concerned.
+
+Chapter 11
+General Amenities
+11.1
+Schooling
+IIT Jodhpur has a Kendriya Vidyalaya (KV IITJ) located in the Pocket B
+premises of IIT Jodhpur Campus (Pocket B is on the opposite side of the
+highway). It caters to the needs of the children of staf members of IIT
+Jodhpur among others. Presently, the school runs the classes from I to X. Also,
+there are a number of good schools in the city, in which children of faculty
+staf members of IIT Jodhpur study. These include: Delhi Public School,
+Sri Aurobindo International, Vidhyashram International School, Rajmata
+Krishna Kumari Girls Public School, Mayoor Chopasni School, Saint Patrick’s
+Vidya Bhawan, Saint Anne’s School, Saint Paul’s School, Central Academy,
+Euro School, and Happy Hours, to name a few.
+11.2
+Pre-School and Day Care for Kids
+In addition to the schools mentioned above, Eurokids is also running a pre-
+school and daycare for the kids. This is currently located within the campus
+at Jodhpur club, which is at a walkable distance from the faculty housing.
+11.3
+Transport Facilities
+IITJ is located at 25 kms away from the main city. Bus facility is available
+for those who want to commute at specifc timings. The taxi services are
+available on call. Balaji Transport Services (Mo: 9314097888, 9782450029) can
+be contacted for availing the taxi services.
+11.4
+Vegetable Shops
+The institute has multiple vendors to provide fresh vegetables and fruits
+within the campus. Additionally, you may use online app based services of
+
+Fresh N Green and iFresh to have vegetables and fruits delivered at your
+doorsteps. You can also explore multiple shops on the highway.
+11.5
+Grocery Shops
+Institute has two grocery shops, namely Kendriya Bhandar (located in the
+community center) and Rukmani Enterprises (in W-21 Berm) that provides
+the grocery items for day to day needs of the residents.
+11.6
+Laundry Services
+Laundry Services are operational in E-22 Berm.
+11.7
+Stationary/Photocopy Shop
+Stationary services are provided by M/s Karni Trading and Constructions at
+E-21 Berm.
+11.8
+Cafeteria
+The Institute cafeteria, Shamiyana, is located near the CASE building.
+11.9
+Medical Shops
+Primary Health Center (PHC) of IIT Jodhpur caters to the medical needs of
+all the employees. After the issue of Medical Booklet for self and dependent
+family members, one can avail the facilities available at PHC. PHC houses a
+Pharmacy where many medicines are available, or made available on request.
+There are a few medical shops within 1-2 kilometers of the campus.
+11.10
+Sports complex
+IIT Jodhpur has a dedicated area towards Sports facilities. The Institute
+has a Cricket feld, Hockey/Football ground, 400m Running Track, 2 Tennis
+Courts, 5 Volleyball Courts. The indoor facility, in the Aakash Building,
+has multiple wooden foor Badminton and Squash courts, and Table Tennis
+facilities. Currently, Jodhpur Club also has two badminton courts.
+11.11
+Community Center and Jodhpur Club
+The Community Center is a multipurpose area, and provides multiple facilities
+such as Salon, Beauty Parlor and a Vegetable Shop. It also houses a State Bank
+of India Branch. Jodhpur Club, another place for multipurpose activities, is
+currently housing the Euro Kids pre-school, Rasa Canteen and Badminton
+courts.
+
+Indian Institute of Technology Jodhpur Faculty Guidebook
+11.12
+Banking
+Currently, there are two nationalized banks operating within the Institute’s
+campus, namely State Bank of India and Canara Bank. All faculty members
+are expected to have accounts preferably with the State Bank of India. The
+monthly salaries and other reimbursements are credited to their accounts
+directly. The Institute also houses 3 ATMs (located at Admin Building East,
+Lecture Hall Building and Community Centre near Type C Housing) which
+makes it hassle free to arrange for cash whenever needed.
+11.13
+Beauty parlor and Salon
+The Community Centre houses a Beauty parlor and a Salon. The Ladies
+Beauty Parlour (Sondaryam: A Sofy’s Saloon) has extended its services at
+E-21 Berm. Contact: Mrs. Shephali Solanki - 9829024481/7976157208.
+11.14
+Furniture for House
+Apart from being famous for its historical monuments, Jodhpur - The Blue
+City is also famous for its furniture and artifacts carved out of Sheesham
+wood. One can fnd various small industries catring to the wooden work.
+You can locate various shops in the Jodhpur city for this purpose. IITJ also
+arranges frequent visits by these suppliers in the campus itself where they
+exhibit their products.
+11.15
+Gas Connection
+An Indane Gas Distributor from Mandore caters to the cooking gas require-
+ments in the Institute. You can contact Mr. Abhinav Sharma, H. N. Gas Service
+(98290 21472) for the same. The delivery person Mr. Pralahad (8560869360,
+9588296920) can help you with all the connection related formalities. You can
+also apply for a new connection and book cylinders using the Indane app.
+11.16
+Shopping
+There are several good outlets in Jodhpur City to purchase regular household
+items and consumer durables. National Handloom Corporation Ltd., being
+the one stop shop for almost everything you may need, has several branches
+located in the city. Besides this, there are several shops such as the Salujas,
+Bhoot Brothers, Kitchen King, Arora Plastic store and many more in and
+around Railway Station Road, Sardarpura B Road, Sardarpura C Road areas
+of Jodhpur. Also, Big Bazaar and Reliance Trends outlets located between
+the Railway Station and Sardarpura.
+
+11.17
+Maintenance
+The Institute has taken up Repair, Maintenance and Operations of Buildings
+of IIT Jodhpur campus. For routine repair and maintenance works, it is
+suggested to lodge a complaint via maintenance@iitj.ac.in.
+Moreover, you may also communicate directly on the following contact
+numbers
+1. Maintenance Ofce (W-8 Berm) - 0291-2801971
+2. Electrical Complaints : Service Centre (Vimal Acharya) - 09829483314
+3. Civil Complaints : Service Centre - 08209815632
+4. AC related Issues : Yakub Ali - 08852994586
+5. Lift related Issues
+• Johnson Lifts - 09116126765
+• Otis Lifts - 09891391760
+
+Compiled and Designed by:
+Dr. Nitin Bhatia, Assistant Professor, Department of Electrical Engineering
+Dr. Shahab Ahmad, Assistant Professor, Department of Physics
+Mr. Prashant Bharadwaj, Assistant Registrar

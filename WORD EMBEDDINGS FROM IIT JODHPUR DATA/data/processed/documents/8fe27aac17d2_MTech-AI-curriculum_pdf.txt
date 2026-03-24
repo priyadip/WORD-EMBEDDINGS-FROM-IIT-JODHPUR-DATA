@@ -1,0 +1,3 @@
+course title cat
+course title credits csxxx rtificial intelligence csxxx rtificial intelligence ii csxxx aths ractals linear algebra probability random rocesses optimization csxxx achine earning csxxx achine earning csxxx utonomous systems pe program pe program pe program oe open data tructures nd practices total total csxxx ajor roject art csxxx ajor roject part pe program pe program pe program oe open total total tentative course structure for the
+ai program electives dependable ai computing neuromorphic nlp and text mining speech processing robotics machine learning big data stream analytics resource constrained interface computer vision ai ethics privacy finance digital humanities cognitive modelling architectures information retrieval web graph theory applications

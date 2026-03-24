@@ -1,0 +1,16 @@
+research seminar by suchismita mishra on may at speaker suchismita mishra title of the talk graph homomorphism date time and venue may am to pm at seminar hall dept of mathematics
+abstract graph homomorphism is powerful tool for understanding the structure of graphs
+in this talk we will focus primarily on problems related to graph homomorphisms from structural perspective with some discussion of computational aspects
+we will explore how homomorphisms reveal key structural properties of graphs
+further we will discuss the application of these structural insights including an application in the cops and robber game
+we will conclude the talk by outlining some further research directions
+about the speaker suchismita mishra is currently doing postdoctoral position at the institute of mathematical sciences chennai
+prior to this she has done several postdoc positions at the universidad bello santiago chile and iit gandhinagar
+she obtained from iit madras
+her research interests include graph theory algebraic combinatorics and parameterized algorithms
+speaker suchismita mishra title of the talk graph homomorphism title of the talk date time and venue may am to pm at seminar hall dept of mathematics
+date time and venue abstract graph homomorphism is powerful tool for understanding the structure of graphs
+about the speaker important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

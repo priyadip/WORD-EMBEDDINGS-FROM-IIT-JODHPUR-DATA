@@ -1,0 +1,19 @@
+congratulations to gaurav bhatnagar and his research group for the acceptance of their research paper in the journal ieee transactions on dependable and secure computing title new robust reference image hashing system authors
+singh bhatnagar and
+singh journal ieee transactions on dependable and secure computing
+volume in press year publisher ieee abstract the authentication and content protection of multimedia data is challenging task in the present scenario
+one solution is to generate the perceptual hash which essentially authenticates the multimedia data and can also be dealt with image database search problems
+in this paper novel system for generating an image hash is presented
+the proposed system utilizes the global and local features in the hash generation process
+the local features are obtained from based kaze features
+these kaze features have the ability to capture the most stable point under several content preserving distortions
+in contrast first the input image is converted to normalized image it is transformed to the coordinate system and then reference image using the local contrast in the wavelet domain is obtained to extract the global features
+an intermediate hash sequence is achieved by extracting the significant information from the reference image using the singular value decomposition
+the final hash sequence combines both the vectors followed by the randomization process
+extensive experiments are conducted to demonstrate the feasibility and the robustness of the proposed hashing system against wide range of distortions
+further the comparative analysis with some techniques validates the better discrimination of the proposed work title new robust reference image hashing system authors
+abstract the authentication and content protection of multimedia data is challenging task in the present scenario
+further the comparative analysis with some techniques validates the better discrimination of the proposed work important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

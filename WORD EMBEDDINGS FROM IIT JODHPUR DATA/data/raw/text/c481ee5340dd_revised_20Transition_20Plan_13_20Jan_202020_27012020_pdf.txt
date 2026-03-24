@@ -1,0 +1,632 @@
+SOURCE_PDF: c481ee5340dd_revised_20Transition_20Plan_13_20Jan_202020_27012020.pdf
+
+Proposed Transition Plan for B.Tech.
+Batches: 2016, 2017 and 2018
+
+Cat. Course Title L-T-P Cr Cat. Course Title L-T-P Cr
+I Semester II Semester
+H ME111 System Exploration-
+Drawing 3-0-3 4 H ME121 System Exploration-
+Workshop 3-0-3 4
+H CS111 Computer
+Programming 3-1-3 5 H EE121 Basic Electronics
+Engineering 3-1-3 5
+B MA111 Linear Algebra and
+Calculus 4-1-0 5 H ME122 Engineering
+Mechanics 3-1-3 5
+B CY211 Chemistry 3-0-3 4 B MA121 Complex Analysis &
+Differential Equation 4-1-0 5
+C ME112 Engineering Materials 3-0-3 4 C ME212 Fluid Mechanics 3-0-3 4
+L HS111 English Language and
+Communication Skills 3-0-0 3 L HS121 Rights, Responsibility,
+Law & Constitution 3-0-0 3
+S PE111 Physical Exercises I 0 S PE121 Physical Exercise II 0
+Total 33 25 Total 34 26
+III Semester IV Semester
+H EE221 Basic Electrical
+Engineering 3-1-3 5 H ME221 Manufacturing
+Technology 3-0-3 4
+B PH111 Electromagnetism and
+Optics 3-1-3 5 B MA221 Probability Statistics
+and Random Processes 4-1-0 5
+B ME211 Thermodynamics 3-1-0 4 C ME222 Kinematics of
+Mechanism and Machines 3-0-3 4
+C ME213 Mechatronics 3-0-3 4 C ME223 Heat and Mass
+Transfer 3-0-3 4
+C ME214 Mechanics of Solids 3-0-3 4 P ME298 B.Tech. Project 0-0-9 3
+L HS211 Economics 3-0-0 3 L HS221 Principles of
+Management 3-0-0 3
+Total 33 25 Total 35 23
+V Semester VI Semester
+C ME311 Dynamics of
+Machines & Mechanism 3-0-3 4 C ME321 Refrigeration and Air
+Conditioning 3-0-3 4
+C ME312 IC Engines 3-0-3 4 C ME322 Turbomachinery 3-0-3 4
+C ME313 Machining Science
+and Metrology 3-0-3 4 C ME323 Design of Machine
+Elements 3-0-3 4
+C ME315 Production and
+Operations management 3-1-0 4 C ME324 Industrial Engineering 3-0-3 4
+P ME398 B.Tech. Project 0-0-9 3 P ME399 B.Tech. Project 0-0-12 4
+L HS311 Psychology 3-0-0 3 L HS321 Culture Art and
+Heritage 3-0-0 3
+Total 36 22 Total 36 23
+VII Semester VIII Semester
+E Open Electives 9-0-0 9 E Open Electives 9-0-0 9
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6 P B.Tech. Project 0-0-21 7
+Total 30 18 Total 18 19
+Total 181
+S. Category Course Category Old Transition - Transition -
+No. Credits 2016 batch 2017 & 2018 batches
+Regular Specialization Regular Specialization
+1 H Hands-on Experience 32 32 32 32 32
+2 B Basics 28 28 28 28 28
+3 C Technology Compulsory 56 56 56 56 56
+4 L Life Skills 24 24 24 24 24
+5 S Games & Sports/Social
+Service 0 0 0 0 0
+6 E Open Electives 18 18 0 18 3
+7 P Hands-on Project 23 14 14 8 8
+8 D Programme Electives 0 9 7 15 10
+9 9 M M Specialization (Minor
+/Department/Interdisciplinary) 0 0 20 0 20
+Total 181 181 181 181 181
+1. B.Tech. Mechanical Engineering
+Old Curriculum
+1.1 Transition Plan for B.Tech. in Mechanical Engineering
+
+Cat. Course Title L-T-P Cr Cat. Course Title L-T-P Cr
+VII Semester VIII Semester
+Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-12 4
+Total 19 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme
+Electives/Specialization
+Courses 12-0-0 12 12 Programme
+Electives/Specialization
+Courses 15-0-0 15 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-12 4
+Total 19 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 5
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-12 4 Entrepreneurship Project - II 12
+Entrepreneurship Project – I 3
+Total 17 Total 20
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Engineering Innovation 20
+L HS411 Basics of Leadership 3-0-0 3
+L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-12 4
+Total 17 Total 20
+GRAND TOTAL 181
+Note: 
+Student can opt for Minor/Department/Interdisciplinary specialization by completing 20 credits 
+in the area. For this the
+1. 2016 batch: students can utilize 18 Credits of open electives and 2 credits of
+Programme Electives in the final year.
+2. 2017 and 2018 batches: students can utilize 15 Credits of open electives and 5 credits
+of Programme Electives in the final year.
+
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+V Semester VI Semester
+C ME311 Dynamics of Machines
+& Mechanism 3-0-3 4 C ME321 Refrigeration and Air
+Conditioning 3-0-3 4
+C ME312 IC Engines 3-0-3 4 C ME322 Turbomachinery 3-0-3 4
+C ME313 Machining Science and
+Metrology 3-0-3 4 C ME323 Design of Machine
+Elements 3-0-3 4
+C ME315 Production and
+Operations management 3-1-0 4 C ME324 Industrial Engineering 3-0-3 4
+Open/Programme Elective 3-0-0 3 Open/Programme Elective 3-0-0 3
+L HS311 Psychology 3-0-0 3 L HS321 Culture Art and
+Heritage 3-0-0 3
+Total 22 Total 22
+VII Semester VIII Semester
+Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 20 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme 12-0-0 12 12 Programme 15-0-0 15 15
+Courses Courses
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 20 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 5
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5 Entrepreneurship Project - II 12
+Entrepreneurship Project – I 3
+Total 18 Total 20
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Engineering Innovation 20
+L HS411 Basics of Leadership 3-0-0 3
+L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 18 Total 20
+GRAND TOTAL 181
+
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+I Semester II Semester
+H ME111 System Exploration--
+Drawing 3-0-3 4 H ME121 System Exploration--
+Workshop 3-0-3 4
+H CS111 Computer
+Programming 3-1-3 5 H EE121 Basic Electronics
+Engineering 3-1-3 5
+B MA111 Linear Algebra and
+Calculus 4-1-0 5 H ME122 Engineering
+Mechanics 3-1-3 5
+B PH111 Electromagnetism
+and Optics 3-1-3 5 B MA121 Complex Analysis &
+Differential Equation 4-1-0 5
+C EE111 Physics of
+Semiconductor Devices 3-0-0 3 C EE122 Electromagnetic
+Theory 3-1-0 4
+L HS111 English Language
+and Communication Skills 3-0-0 3 L HS121 Rights, Responsibility,
+Law & Constitution 3-0-0 3
+S PE111 Physical Exercises I 0 S PE121 Physical Exercise II 0
+Total 31 25 Total 32 26
+III Semester IV Semester
+H EE221 Basic Electrical
+Engineering 3-1-3 5 H EE221 Electrical Machines 3-0-3 4
+B CY211 Chemistry 3-0-3 4 B MA221 Probability Statistics
+and Random Processes 4-1-0 5
+B ME211 Thermodynamics 3-1-0 4 C EE222 Digital Logic and
+Design 3-0-3 4
+C EE212 Circuit Theory 3-1-0 4 C EE223 Power System 3-0-3 4
+C EE213 Signals and Systems 3-1-0 4 P EE299 B.Tech. Project 3-0-0 3
+L HS211 Economics 3-0-0 3 L HS221 Principles of
+Management 3-0-0 3
+Total 28 24 Total 35 23
+V Semester VI Semester
+C EE311 Power Electronics 3-0-3 4 C EE325 Contemporary
+Communication System 3-1-3 5
+C EE312 Microprocessors and
+Microcontrollers 3-0-3 4 C EE322 Digital Signal
+Processing 3-1-0 4
+C EE313 Communication
+System 3-1-0 4 C EE323 Microwave
+Engineering 3-0-0 3
+C EE314 Analog Electronics 3-1-0 4 C EE324 Control Systems 3-0-3 4
+P EE398 B.Tech. Project 0-0-9 3 P EE399 B.Tech. Project 0-0-12 4
+L HS311 Psychology 3-0-0 3 L HS321 Culture Art and
+Heritage 3-0-0 3
+Total 32 22 Total 29 23
+VII Semester VIII Semester
+E Open Electives 9-0-0 9 E Open Electives 9-0-0 9
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-21 7 P B.Tech. Project 0-0-21 7
+Total 30 19 Total 18 19
+GRAND TOTAL 181
+S. Category Course Category Old Transition - Transition -
+No. Credits 2016 batch 2017 & 2018 batches
+Regular Specialization Regular Specialization
+1 H Hands-on Experience 32 32 32 32 32
+2 B Basics 28 28 28 28 28
+3 C Technology Compulsory 55 55 55 55 55
+4 L Life Skills 24 24 24 24 24
+5 S Games & Sports/Social
+Service 0 0 0 0 0
+6 E Open Electives 18 18 0 18 3
+7 P Hands-on Project 24 15 15 9 9
+8 D Programme Electives 0 9 7 15 10
+9 9 M M Specialization (Minor 0 0 20 0 20
+Total 181 181 181 181 181
+2. B.Tech. Electrical Engineering
+Old Curriculum
+2.1 Transition Plan for B.Tech. in Electrical Engineering
+
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 20 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme 12-0-0 12 12 Programme 15-0-0 15 15
+Courses Courses
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 20 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 5
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5 Entrepreneurship Project - II 12
+Entrepreneurship Project – I 3
+Total 18 Total 20
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Engineering Innovation 20
+L HS411 Basics of Leadership 3-0-0 3
+L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 18 Total 20
+GRAND TOTAL 181
+Note: Student can opt for Minor/Department/Interdisciplinary specialization by completing 20 
+credits in the area. For this the
+3. 2016 batch: students can utilize 18 Credits of open electives and 2 credits of
+Programme Electives in the final year.
+4. 2017 and 2018 batches: students can utilize 15 Credits of open electives and 5 credits
+of Programme Electives in the final year.
+
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+V Semester VI Semester
+C EE311 Power Electronics 3-0-3 4 C EE325 Contemporary
+Communication System 3-1-3 5
+C EE312 Microprocessors and
+Microcontrollers 3-0-3 4 C EE322 Digital Signal
+Processing 3-1-0 4
+C EE313 Communication
+System 3-1-0 4 C EE323 Microwave
+Engineering 3-0-0 3
+C EE314 Analog Electronics 3-1-0 4 C EE324 Control Systems 3-0-3 4
+Open/Programme Elective 3-0-0 3 Open/Programme Elective 3-0-0 3
+L HS311 Psychology 3-0-0 3 L HS321 Culture Art and
+Heritage 3-0-0 3
+Total 22 Total 22
+VII Semester VIII Semester
+Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6
+Total 21 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme
+Electives/Specialization
+Courses 12-0-0 12 12 Programme 15-0-0 15 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6
+Total 21 Total 18
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 5
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6 Entrepreneurship Project - II 12
+Entrepreneurship Project – I 3
+Total 19 Total 20
+GRAND TOTAL 181
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Engineering Innovation 20
+L HS411 Basics of Leadership 3-0-0 3
+L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6
+Total 19 Total 20
+GRAND TOTAL 181
+
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+I Semester II Semester
+H ME111 System Exploration
+—Drawing 3-0-3 4 H ME121 System Exploration —
+Workshop 3-0-3 4
+H CS111 Computer
+Programming 3-1-3 5 H EE121 Basic Electronics
+Engineering 3-1-3 5
+B PH111 Electromagnetism
+and Optics 3-1-3 5 H ME122 Engineering
+Mechanics 3-1-3 5
+B MA111 Linear Algebra and
+Calculus 4-1-0 5 B MA121 Complex Analysis &
+Differential Equation 4-1-0 5
+B CY211 Chemistry 3-0-3 4 C CS112 Discrete Mathematics 3-1-0 4
+L HS111 English Language
+and Communication Skills 3-0-0 3 L HS121 Rights, Responsibility,
+Law & Constitution 3-0-0 3
+S PE111 Physical Exercises I 0 S PE121 Physical Exercise II 0
+Total 32 26 Total 35 26
+III Semester IV Semester
+H EE211 Basic Electrical
+Engineering 3-1-3 5 B MA221 Probability Statistics
+and Random Processes 4-1-0 5
+C CS121 Data Structures and
+Algorithms 3-1-3 5 C CS221 Computer
+Organization and
+Architecture 3-0-0 3
+H CS211 Digital Logic and
+Design 3-0-3 4 C CS222 Theory of
+Computation 3-0-0 3
+C CS212 Object Oriented
+Analysis and Design 3-0-3 4 C CS223 Software Engineering 3-0-3 4
+C EE213 Signals and Systems 3-1-0 4 P CS299 B.Tech. Project 3-0-0 3
+L HS211 Economics 3-0-0 3 L HS221 Principles of
+Management 3-0-0 3
+Total 32 25 Total 29 21
+V Semester VI Semester
+C CS311 Data Communication 3-1-0 4 C CS321 Computer Networks 3-0-3 4
+C CS312 Compiler Design 3-0-3 4 C CS322 Database Systems 3-0-0 3
+C CS313 Operating Systems 3-0-3 4 C CS323 Artificial Intelligence 3-0-0 3
+C CS314 Algorithm Design
+and Analysis 3-0-0 3 E Elective 3-0-0 3
+P CS398 B.Tech. Project 0-0-12 4 P CS399 B.Tech. Project 0-0-12 4
+L HS311 Psychology 3-0-0 3 L HS321 Culture Art and
+Heritage 3-0-0 3
+Total 34 22 Total 30 20
+VII Semester VIII Semester
+E Open Electives 9-0-0 9 E Open Electives 9-0-0 9
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-24 8 P B.Tech. Project 0-0-24 8
+Total 36 20 Total 18 20
+GRAND TOTAL 180
+S. Category Course Category Old Transition - Transition -
+No. Credits 2016 batch 2017 & 2018 batches
+Regular Specialization Regular Specialization
+1 H Hands-on Experience 32 32 32 32 32
+2 B Basics 24 24 24 24 24
+3 C Technology Compulsory 52 52 52 52 52
+4 L Life Skills 24 24 24 24 24
+5 S Games & Sports/Social
+Service 0 0 0 0 0
+6 E Open Electives 21 21 3 21 6
+7 P Hands-on Project 27 18 18 12 12
+8 D Programme Electives 0 9 7 15 10
+9 M Specialization (Minor
+/Department/Interdisciplinary) 0 0 20 0 20
+Total 180 180 180 180 180
+3. B.Tech. Computer Science and Engineering
+Old Curriculum
+3.1 Transition Plan for B.Tech. in Computer Science and Engineering
+
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-21 7
+Total 22 Total 18
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme 12-0-0 12 12 Programme 15-0-0 15 15
+Courses Courses
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-21 7
+Total 22 Total 18
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 5
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-21 7 Entrepreneurship Project - II 12
+Entrepreneurship Project – I 3
+Total 20 Total 20
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Engineering Innovation 20
+L HS411 Basics of Leadership 3-0-0 3
+L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-21 7
+Total 20 Total 20
+GRAND TOTAL 180
+Note: 
+Student can opt for Minor/Department/Interdisciplinary specialization by completing 20 credits 
+in the area. For this the
+5. 2016 batch: students can utilize 18 Credits of open electives and 2 credits of
+Programme Electives in the final year.
+6. 2017 and 2018 batches: students can utilize 15 Credits of open electives and 5 credits
+of Programme Electives in the final year.
+
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+V Semester VI Semester
+C CS311 Data Communication 3-1-0 4 C CS321 Computer Networks 3-0-3 4
+C CS312 Compiler Design 3-0-3 4 C CS322 Database Systems 3-0-0 3
+C CS313 Operating Systems 3-0-3 4 C CS323 Artificial Intelligence 3-0-0 3
+C CS314 Algorithm Design and
+Analysis 3-0-0 3 P B.Tech. Project 0-0-15 4
+Open/Programme Elective 3-0-0 3 Open/Programme Elective 4-0-0 4
+L HS311 Psychology 3-0-0 3 L HS321 Culture Art and
+Heritage 3-0-0 3
+Total 21 Total 21
+VII Semester VIII Semester
+Open/Programme Electives 13-0-0 13 Open/Programme Electives 16-0-0 16
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 21 Total 19
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme 13-0-0 13 13 Programme
+Electives/Specialization
+Courses 16-0-0 16 16
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5
+Total 21 Total 19
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 9-0-0 9 Entrepreneurship Courses 6-0-0 5
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-15 5 Entrepreneurship Project - II 12
+Entrepreneurship Project – I 3
+Total 20 Total 20
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 9-0-0 9 Engineering Innovation 20
+L HS411 Basics of Leadership 3-0-0 3
+L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6
+Total 20 Total 20
+GRAND TOTAL 180
+
+Cat Course L-T-P Cr Cat. Course L-T-P Cr
+I Semester II Semester
+H BB111 Biology for Engineers 3-0-3 4 H ME122 Engineering Mechanics 3-1-3 5
+H CS111 Computer
+Programming 3-1-3 5 H ME121 System Exploration-
+workshop 3-0-3 4
+H ME111 System Exploration
+Drawing 3-0-3 4 H EE121 Basic Electronic
+Engineering 3-1-3 5
+B MA111 Linear Algebra and
+Calculus 4-1-0 5 B MA121 Complex Analysis and
+Differential Equations 4-1-0 5
+B PH111 Electromagnetism
+and Optics 3-1-3 5 C BB121 Cell & Molecular
+Biology 3-0-0 3
+L HS111 English Language
+and Communication Skills 3-0-0 3 L HS121 Law : Constitution,
+Responsibilities and Rights 3-0-0 3
+S PE111 Physical Exercise I 0 S PE121 Physical Exercise II 0
+Total 34 26 Total 31 25
+III Semester IV Semester
+H EE211 Basic Electrical
+Engineering 3-1-3 5 B MA221 Probability Statistics
+and Random Processes 4-1-0 5
+B CY211 Chemistry 3-0-3 4 C BB221 Biochemistry 3-0-3 4
+C EE213 Signals and Systems 3-1-0 4 C BB222 Genetics &
+Recombinant DNATechnology 3-0-3 4
+C BB211 Microbiology 3-0-3 4 C BB223 Bioprocess Engg. &
+Fermentation Technology 3-1-3 5
+C CS121 Data structures &
+Algorithms 3-1-3 5 P BB299 B.Tech. Project 0-0-6 2
+L HS211 Principles of
+Economics 3-0-0 3 L HS221 Principles of
+Management 3-0-0 3
+Total 33 25 Total 35 23
+V Semester VI Semester
+C BB311 Animal Biotechnology 3-0-3 4 C BB321 Bioengineering 3-0-3 4
+C BB312 Bioinformatics &
+Computational Biology 3-0-3 4 C BB322 Environmental
+Biotechnology and
+Bioremediation 3-0-0 3
+C BB313 Food and Agriculture
+technology 3-0-3 4 C BB323 Biomedical technology 3-0-3 4
+C BB314 Molecular Biophysics 3-0-3 4 C CS323 Artificial Intelligence 3-0-0 3
+P BB398 B. Tech. Project 0-0-6 2 P BB399 B. Tech. Project 0-0-9 3
+L HS311 Principles of
+Psychology 3-0-0 3 L HS321 Art, Culture and
+Heritage 3-0-0 3
+Total 33 21 Total 30 20
+VII Semester VIII Semester
+Open Electives 9-0-0 9 Open Electives 9-0- 9
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-24 8 P B.Tech. Project 0-0-24 8
+Total 20 Total 20
+Grand Total 180
+S. Category Course Category Old Transition -
+No. Credits 2018 batch
+Regular Specialization
+1 H Hands-on Experience 32 32 32
+2 B Basics 24 24 24
+3 C Technology Compulsory 59 59 59
+4 L Life Skills 24 24 24
+5 S Games & Sports/Social Service 0 0 0
+6 E Open Electives 18 18 3
+7 P Hands-on Project 23 8 8
+8 D Programme Electives 0 15 10
+9 9 M M Specialization (Minor 0 0 20
+Total 180 180 180
+4. B.Tech. Biotechnology
+Old Curriculum
+4.1 Transition plan for B.Tech. in BioTechnology
+
+Ct Course L-T-P Cr Ct Course L-T-P Cr
+V Semester VI Semester
+C BB311 Animal Biotechnology 3-0-3 4 C BB321 Bioengineering 3-0-3 4
+C BB312 Bioinformatics &
+Computational Biology 3-0-3 4 C BB322 Environmental
+Biotechnology and
+Bioremediation 3-0-0 3
+C BB313 Food and Agriculture
+technology 3-0-3 4 C BB323 Biomedical technology 3-0-3 4
+C BB314 Molecular Biophysics 3-0-3 4 C CS323 Artificial Intelligence 3-0-0 3
+Open/Programme Elective 3-0-0 3 Open/Programme Elective 3-0-0 3
+L HS311 Principles of
+Psychology 3-0-0 3 L HS321 Art, Culture and
+Heritage 3-0-0 3
+Total 22 Total 20
+VII Semester VIII Semester
+Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6
+Total 21 Total 18
+Grand Total 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme 12-0-0 12 12 Programme 15-0-0 15 15
+Courses Courses
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6
+Total 21 Total 18
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 5
+L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6 Entrepreneurship Project - II 12
+Entrepreneurship Project – I 3
+Total 19 Total 20
+GRAND TOTAL 180
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr
+VII Semester VIII Semester
+Programme Electives 7-0-0 7 Engineering Innovation 20
+L HS411 Basics of Leadership 3-0-0 3
+L HS421 Role of Technology in
+Development 3-0-0 3
+P B.Tech. Project 0-0-18 6
+Total 19 Total 20
+GRAND TOTAL 180
+Note: Student can opt for Minor/Department/Interdisciplinary specialization by completing 20 
+credits in the area. For this the
+7. 2016 batch: students can utilize 18 Credits of open electives and 2 credits of
+Programme Electives in the final year.
+8. 2017 and 2018 batches: students can utilize 15 Credits of open electives and 5 credits
+of Programme Electives in the final year.

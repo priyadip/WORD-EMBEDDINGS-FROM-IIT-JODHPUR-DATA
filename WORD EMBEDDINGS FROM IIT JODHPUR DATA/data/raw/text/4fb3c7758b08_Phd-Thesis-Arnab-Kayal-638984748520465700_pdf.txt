@@ -1,0 +1,70 @@
+SOURCE_PDF: 4fb3c7758b08_Phd-Thesis-Arnab-Kayal-638984748520465700.pdf
+
+Spectral Projection Methods for Integral and
+Integro-Differential Equations
+Arnab Kayal (P20MA001)
+Supervisor : Dr. Moumita Mandal
+Department of Mathematics, IIT Jodhpur
+Abstract
+Integral and integro-differential equations are widely used in various scientific and
+engineering fields. Finding highly accurate approximate solutions often poses significant
+challenges, especially when dealing with singularities in the kernel and non-smooth solu-
+tions. This thesis explores the development of spectral projection methods to find approx-
+imate solutions for various types of linear and nonlinear integral and integro-differential
+equations, as well as eigenvalue problems of the integral operators.
+We develop Jacobi spectral Galerkin approach for finding approximate solutions of the
+linear Fredholm integral equations with an algebraic weakly singular kernel. The exact
+solution to this type of equation is generally non-smooth. Our approach incorporates
+the singular part of the kernel into a single Jacobi weight function. This enables us to
+achieve superconvergence rates in both supremum and weighted L2 norms for non-smooth
+solutions using the iterated Jacobi spectral Galerkin method. We also propose Jacobi
+spectral multi-Galerkin method and its iterated version, based on the Galerkin approach
+and obtain superconvergence results. Additionally, we improve the convergence rate of all
+the proposed methods by improving the regularity of exact solution, using a smoothing
+transformation. Further, we apply our proposed Jacobi spectral Galerkin approach to
+address the eigenvalue problem of Fredholm integral operators with an algebraic weakly
+singular kernel on a Banach space. Using this approach, we achieve superconvergence rates
+for the approximate eigenvalues obtained by the Jacobi spectral multi-Galerkin method.
+Superconvergence for the approximate eigenfunctions is obtained by the iterated Jacobi
+spectral multi-Galerkin method.
+Next, we investigate a class of nonlinear Fredholm integro-differential equations with
+smooth kernel. We find that the Legendre spectral multi-Galerkin, multi-collocation, and
+iterated version of Galerkin, multi-Galerkin and multi-collocation methods yield super-
+convergence results, despite the presence of unbounded differential operator. Further, we
+explore the nonlinear weakly singular Fredholm integral equations of Hammerstein type.
+Our proposed iterated Jacobi spectral Galerkin method achieves similar superconvergence
+results for non-smooth solutions, as observed in the linear case. Additionally, we demon-
+strate the applicability of the Jacobi spectral Galerkin approach for a class of high-order
+nonlinear weakly singular integro-differential equations, achieving superconvergence.
+Finally, we consider multi-term algebraic weakly singular Volterra integral equations
+and propose Chebyshev spectral Galerkin, collocation, multi-Galerkin, and multi-collocation
+methods to obtain approximate solutions. We achieve superconvergence for the Chebyshev
+
+spectral multi-Galerkin and multi-collocation methods after the smoothing transforma-
+tion and obtain sharp error bounds in the supremum norm by leveraging the behaviour
+of the exact solution.
+Numerical implementations of all the proposed methods are carried out to verify the
+theoretical results.
+List of Publications/Pre-prints from the Thesis
+1. Mandal, M., Kayal, A., & Nelakanti, G. (2023). Projection methods for approxi-
+mate solution of a class of nonlinear Fredholm integro-differential equations. Ap-
+plied Numerical Mathematics, 184, 49-76.
+2. Kayal, A., & Mandal, M. (2024).
+A new approach of shifted Jacobi spectral
+Galerkin methods (SJSGM) for weakly singular Fredholm integral equation with
+non-smooth solution. Numerical Algorithms, 96(4), 1553-1582.
+3. Kayal, A., & Mandal, M. (2025). Superconvergent method for weakly singular
+Fredholm-Hammerstein integral equations with non-smooth solutions and its appli-
+cation. Applied Numerical Mathematics, 207, 24-44.
+4. Kayal, A., & Mandal, M. Jacobi spectral Galerkin methods for eigenvalue problems
+of weakly singular integral operators. (Under Review)
+5. Kayal, A., & Mandal, M. Chebyshev spectral projection methods for multi-term
+weakly singular Volterra integral equations. (Under Review)
+Other Publications
+1. Kayal, A., Mandal, M., & Nelakanti, G. (2024). Superconvergence of Legendre
+spectral projection methods for mth order integro-differential equations with weakly
+singular kernels. Journal of Computational and Applied Mathematics, 439,
+115585.
+2. Gupta, S., Kayal, A., & Mandal, M. (2025). Superconvergence results for hyper-
+singular integral equation of first kind by Chebyshev spectral projection methods.
+Applied Mathematics and Computation, 487, 129093.

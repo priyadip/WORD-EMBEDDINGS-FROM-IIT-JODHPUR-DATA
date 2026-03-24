@@ -1,0 +1,8 @@
+congratulation to subhasish dey for publishing research paper titled hydrodynamics of turbulent flow in channels with submerged flexible vegetation canopy in physics of fluid volume issue abstract this paper describes the results of flume experimental campaign exploring the flow structure and turbulence characteristics in flows with submerged flexible vegetation called ceratophyllum demersum also commonly known as rigid hornwort
+the analysis allows us to formulate the distributions of streamwise velocity reynolds shear stresses and turbulent kinetic energy tke in the fully developed flow under the influence of three different submerged vegetation densities
+method for calculating the manning roughness coefficient in open channels with submerged flexible vegetation is proposed and an empirical formula for the drag coefficient of submerged flexible vegetation is derived
+the distribution of the eddy viscosity and the canopy top penetration depth are examined under the influence of submerged flexible vegetation
+tke model is derived for flows with submerged flexible vegetation considering the turbulence length scale ranging from to the model is then validated using the experimental data
+the sensitivity of the turbulence model to the two key penetration depth and turbulent length analyzed
+this study provides an improved understanding and insights into the effects of the submerged flexible vegetation on the flow structure and turbulence characteristics
+this paper describes the results of flume experimental campaign exploring the flow structure and turbulence characteristics in flows with submerged flexible vegetation called ceratophyllum demersum also commonly known as rigid hornwort

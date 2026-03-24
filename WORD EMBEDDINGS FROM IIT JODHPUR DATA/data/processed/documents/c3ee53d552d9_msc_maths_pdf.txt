@@ -1,0 +1,6 @@
+course course title credits number number semester semester ma511 linear algebra ma521 abstract algebra ma512 real analysis ma522 complex ma513 ordinary ma523 partia differential differential equations equations ma514 probability and ma524 numerical statistics analysis ma515 programing ma525 functional techniques analysis total total semester semester elective elective th ma698 thesis th ma698 thesis total total grand total ma551 topology ma552 wavelets analysis and applications bl755 complex networks ma553 dynamical systems ma524 optimization no
+category course category title total courses total credits compulsory electives th thesis total master of science
+mathematics program curriculum note the students are encouraged to opt electives from
+level courses having mathematical orientation
+cryptography information theory and coding data structures and algorithms digital image analysis etc
+this will assist to integrate technological aspects into mathematics education

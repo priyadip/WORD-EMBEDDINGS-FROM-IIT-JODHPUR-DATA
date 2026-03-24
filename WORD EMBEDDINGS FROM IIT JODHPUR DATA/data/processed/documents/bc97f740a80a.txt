@@ -1,0 +1,5 @@
+design and development of navic receiver arun kumar singh pi ministry of electronics and information technology government of india completion in the aim of the project is to design and develop an indigenous dual frequency navic receiver
+the work includes design and development of baseband signal processing algorithms for signal acquisition code and carrier tracking control lock detection accumulated delta range computation and data demodulation
+navic signals are inherently weak and susceptible to both accidental and intentional interference from terrestial systems operating in navic frequency band and multipath interference caused by ionospheric and reflection from terrestrial objects in the neighborhood of the navic receiver
+the scope of the proposed work also includes development of algorithms for multipath mitigation and that ensure proper functioning of navic receiver even in the indoor and urban environments with relatively high interference levels
+the aim of the project is to design and develop an indigenous dual frequency navic receiver

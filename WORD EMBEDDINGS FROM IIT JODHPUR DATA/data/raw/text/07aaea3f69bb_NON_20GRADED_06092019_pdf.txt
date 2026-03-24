@@ -1,0 +1,42 @@
+SOURCE_PDF: 07aaea3f69bb_NON_20GRADED_06092019.pdf
+
+Indian Institute of Technology
+Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Non Graded Institute Level Courses
+For
+M.Tech. and Ph.D.
+
+Title Systems Engineering and Project Management Number OAL7XX0
+Department L-T-P [C] 1-0-0 [1]
+Offered for M.Tech Program Type Compulsory
+NGU
+
+Management Plan, Work Breakdown Structure, Technical Reviews (2 L)
+ 
+Introduction to the concepts of TRL (Technology Readiness Levels) and 
+MRL(Manufacturability Readiness level) (1 L)
+ 
+Course Project ( 8 hrs of self-work corresponding to 2 scheduled contact hours)
+o 
+Application of Systems Engineering Methodology to the Major Project (M.Tech)
+o 
+Use of Microsoft Project as the software tool for managing their M.Tech project
+Evaluation
+Presentation of Systems Engineering Process of the Major Project
+Textbook
+1. Introduction to Systems Engineering by Ian Faulconbridge, Michael Ryan (Kindle
+Edition) 
+Argos Press, 2015.
+2. Systems Engineering Fundamentals
+Web Resources
+
+Title Innovation and IP Management
+Management of Innovation and IP Number OAL7XX0
+Department OA L-T-P [C] 1–0–0 [1]
+Offered for All M. Tech and PhD students <Shall also be
+considered for B.Tech Students> Type Compulsory
+Prerequisite Not required

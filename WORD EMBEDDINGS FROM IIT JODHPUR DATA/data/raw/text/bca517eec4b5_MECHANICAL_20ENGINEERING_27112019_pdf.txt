@@ -1,0 +1,592 @@
+SOURCE_PDF: bca517eec4b5_MECHANICAL_20ENGINEERING_27112019.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+in
+Advanced Manufacturing and Design
+
+Introduction
+M. Tech program in Advanced Manufacturing and Design at IIT Jodhpur provides a strong 
+interdisciplinary focus with the objective of providing the student technical leadership in design 
+processes and manufacturing systems. The program aims to hone engineering problem-solving skills 
+of the student through a rigorous training in modern computational and experimental tools required 
+in the domain of mechanical design, manufacturing processes and systems with focus on product 
+development. The core program will have courses in the areas of Engineering Mathematics, Solid 
+Mechanics, Dynamics and Control, Product Design and Manufacturing with focus on recent industrial 
+and research trends such as Smart Manufacturing and Industry 4.0. Through advanced electives in 
+modern areas like Robotics, Mechatronics Systems Design, Additive Manufacturing, Composite 
+Structure design and manufacturing the student can further specialize in different domains. The 
+program plans to establish synergy with Department of Electrical Engineering and Computer Science 
+and Engineering by incorporating electives in the areas of Cyber Physical Systems, Sensors, Bio-
+mimetics, MEMs and nano-device design and manufacturing IoT and Artificial Intelligence. The role 
+of new and smart materials in product design and manufacturing will be accomplished through 
+electives from Department of Metallurgical and Materials Engineering. The program will have strong 
+emphasis on the thesis work involving interdisciplinary research activity in the emerging areas of 
+design and manufacturing.
+Objective of the Program:
+To develop professionals in the domain of mechanical design and manufacturing by imparting 
+analytical and computational skills that enables an individual to handle problems in thrust areas such 
+as structural design, design of advanced electro-mechanical systems, robotics, mechatronic systems 
+design, additive manufacturing and smart manufacturing.
+Expected Graduate Attributes:
+1) Ability to undertake academic and industrial research in the areas Advanced Manufacturing and
+Design using analytical, computational and experimental tools
+2) Understanding about recent thrust areas in the domain such as advanced multi-functional
+structure design, mechanical behavior of modern materials, robotics, mechatronic systems 
+design, additive manufacturing, smart manufacturing etc.
+3) Ability to appreciate the need of multidisciplinary approach in solving problems in the domain 
+4) Ability to handle analytical and experimental tools in the areas related to the program 
+5) Ability to carry out critical, creative and innovative thinking 
+6) Ability to express ideas in the written and oral formats 
+7) Development of appreciation and commitment to professional ethics
+Learning outcome:
+1) Understanding of the fundamentals related to mechanical design, CAD and design optimization
+2) Knowledge of engineering materials, manufacturing processes and systems in the context of
+product development
+3) Developing awareness about recent industrial trends such as smart manufacturing,
+autonomous Systems, Industry 4.0 through courses such as Computer Aided Manufacturing 
+and Industrial Robotics
+4) Knowledge of interdisciplinary topics such as machine learning, artificial intelligence,
+autonomous systems, signal and image processing etc.
+5) Demonstrate the skills in the above areas by using or developing computational and analytical
+tools
+6) Demonstrate advanced skills to communicate scientific ideas and /or application systems.
+
+Design Advanced Manufacturing Others
+a) Mechanical Design,
+Advanced Mechanics of
+Solids, Introduction to
+Finite Element Analysis
+b) Engineering optimization -
+classical and heuristics
+methods and tools
+c) Computer Aided Design –
+theory and tools a) Manufacturing processes and
+systems in the context of
+product development
+b) CNC Machine tools
+c) Fundamentals of smart
+manufacturing and Industry
+4.0
+d) Additive Manufacturing a) Introductory Machine
+Learning
+b) Sensor technology and
+its applications
+c) Technical Writing Skills
+d) Project Management
+using tools e.g.
+Microsoft Project
+e) Practices related to
+professional ethics
+f) Knowledge of IP
+Design Advanced Manufacturing Inter disciplinary
+a) Mechanical vibration
+b) Structural Dynamics
+c) Acoustics
+d) Rotor Dynamics
+e) Composite Structures
+f) Finite Element Methods
+g) Multibody Dynamics
+h) Damage and Fracture
+Mechanics
+i) Smart materials and
+structures
+j) Experimental Mechanics;
+nonlinear dynamics;
+k) MEMS and Nano-
+structures
+l) Advanced Mechanisms
+m) Noise, Vibration and
+Harshness a) Computer Aided
+Manufacturing
+b) Multi-scale manufacturing
+c) Product Design and
+Development
+d) Design for X
+e) Process Engineering and
+Tool Design
+f) Metrology for Engineers
+g) Theory of Arc Welding
+Processes
+h) Metallurgy of Joining
+Processes
+i) Mechanical Metallurgy
+j) Quality Control of
+Weldments a) Digital signal processing
+b) Machine Vision
+c) Biomaterials
+d) Introduction to IoT
+e) Introduction to CPS
+f) AI- theory and
+applications
+g) Data Analysis
+Compulsory Topics/Skills:
+Elective Topics/Skills:
+
+Ca Course Number, Course L-T-P Cr Ca Course Number, Course
+Title L-T-P Cr
+t. Title t.
+I Semester II Semester
+MC MEL7XX0: Advanced
+Mechanics of Solids 3-0-0-0 3 MC MEL7XX0: Materials &
+Manufacturing Processes 2-0-2-0 3
+MC EE: Introduction to
+Sensors (Fractal
+Course) 1-0-0-0 1 MC MEL7XX0: Robotic
+MEL7XX1: Robot
+Modeling
+MEL7XX2: Robot Control
+MEL7XX3: Motion
+Planning and
+Programming 3-0-2-0
+1-0-0-0
+1-0-0-0
+1-0-0-0 4
+1
+1
+1
+MC CS: Introduction to
+Machine Learning
+(Fractal course) 1-0-0-0 1 MC MEL7XX0: Industry 4.0
+Applications in
+Manufacturing Systems 1-0-0-0 1
+MC MEP7XX0: Smart
+Manufacturing 1-0-2-0 2 ME Program Elective 3-0-0-0 3
+MC MEL7XX0: Geometric
+Modeling & CAD 2-0-2-0 3 ME Program Elective 3-0-0-0 3
+MC MA: Optimization
+(Fractal course) 1-0-0-0 1 NH OAL7XX0: Innovation
+and IP Managment 1-0-0-0 1
+ME Program Elective 3-0-0-0 3
+NH NH HSN7XX0: Technical 1-0-0-0 1-0-0-0 1 1
+Total 1
+5 Total 15
+III Semester IV Semester
+ME MED8XX0: Project 0-0-0-5 5 ME MED8XX0: Project 0-0-0-11 11
+ME Program Elective 3-0-0-0 3 MO Open Elective 3-0-0-0 3
+ME ME Program Elective Program Elective 3-0-0-0 3-0-0-0 3 3 NH NH HSN7XX0: Professional
+Ethics 1-0-0-0 1-0-0-0 1 1
+MO Open Elective 3-0-0-0 3
+NH NH OAN7XX0: Systems 1-0-0-0 1-0-0-0 1 1
+Total 1
+5 Total 15
+Grand Total 60
+S. N. Course Type Credits
+1 Program Core (MC) 19
+2 Program Elective (ME) 15
+3 Open Electives (MO) 6
+4 Project (MP) 16
+5 Non-Graded Humanities (NH) 04
+Total 60
+Course Structure:
+Summary of courses (category wise) for M. Tech (AMD) Program:
+
+Design Engineering
+Domain MEL7XX0: Theory of Vibrations
+MEL7XX0: Mechanical Vibrations
+MEL7XX0: Helicopter Dynamics
+MEL7XX0: Modeling and Control of Mechanical Systems
+MEL7XX0: Multibody Dynamics
+MEL7XX0: Finite Element Methods in Engineering
+MEL7XX0: Rotor Dynamics
+AVL7XX0: Autonomous Mobile Robots
+BBXXX: Biomechanics
+Advanced
+Manufacturing
+Domain MEL7XX0: Computer Aided Manufacturing
+MEL7XX0: Mechanical Metallurgy
+MEL7XX0: Theory of Arc Welding
+MEL7XX0: Welding Metallurgy
+MEL7XX0: MEMS and Microsystems Technology
+MEL7XX0: Precision and Micro-Manufacturing
+MEL7XX0: Applied Ergonomics
+MEL7XX0: Mechatronic Systems Design
+MEL7XX0: Additive Manufacturing
+MEL7XX0: Design for X
+MEL7XX0: Computer Aided Inspection and Quality Control
+MEL7XX0: Welding: Metallurgy, Defects and Testing
+MEL7XX0: Non-Conventional Welding Processes
+MEL7XX0: Welding inspection and Quality Control
+MEL7XX0: Microfluidics Technology
+BBXXX: Medical Devices and Implants
+MTXXX: Solidification Processing
+MTXXX: Light Metals and Alloys
+MTXXX: Powder Metallurgy
+MTXXX: Thermo-Mechanical Processing
+MTXXX: Near-Net Forming
+MTXXX: Platic Deformation and Microstructure Evaluation
+MTXXX: Corrosion Engineering
+MAXXX: Statistics I
+MAXXX: Statistics II
+MAXXX: Reliability Theory
+CSXXX: Artificial Intelligence I
+CSXXX: Machine Learning I
+EEXXX: Introduction to CPS
+EEXXX: Analog and Interfacing Circits (fractal)
+Tentative Program Electives (ME):
+
+Title Advanced Mechanics of Solids Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Core
+Program Core:
+
+Title Smart Manufacturing Number MEP7XX0
+Department Mechanical Engineering L-T-P-Th [C] 1-0-2-0 [2]
+Offered for Type Program Core
+
+Title Geometric Modeling and CAD Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 2-0-2-0 [3]
+Offered for Type Program Core
+
+Title Materials and Manufacturing Processes Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 2-0-2-0 [3]
+Offered for Type Program Core
+
+Title Robotics Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-2-0 [4]
+Offered for B. Tech (ME), M. Tech(AMD) and PhD Type Program Core
+
+Title Industry 4.0 Applications in
+Manufacturing Systems Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 1-0-0-0 [1]
+Offered for Type Program Core
+
+Title Computer-Aided Manufacturing Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-2-0 [4]
+Offered for Type Program Elective
+Program Electives:
+
+Title Mechanical Metallurgy Course No. MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Theory of Arc Welding Course No. MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Welding Metallurgy Course No. MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title MEMS & Microsystems Technology Number MEL7XX0
+Department Mechanical Engineering L-T-P [C] 3–0–2-0 [4]
+Offered for Type Program
+Elective
+
+Title Precision and Micro Manufacturing Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0 [3]
+Offered for Type Program
+Elective
+
+Title Applied Ergonomics Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Title Mechatronics System Design Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Title Additive Manufacturing Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Title Design for X Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Title Theory of Vibrations Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for B.Tech (ME), M.Tech (AMD) and PhD Type Program Elective
+Prerequisite Basic knowledge of mechanical vibrations
+
+Title Mechanical Vibrations Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Title Helicopter Dynamics Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Title Modelling and Control of
+Mechanical Systems Number MEL7XX0
+Department Mechanical Engineering L-T-P-
+Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Course Title Multibody Dynamic Systems Course No. MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Course Title Finite Element Methods in
+Engineering Course No. MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Course Title Rotor Dynamics Course No. ME7XX0
+Department Mechanical Engineering L-T-P-Th
+[C] 3–0–0-0 [3]
+Offered for Type Program Elective
+
+Title Autonomous Mobile Robots Number AVL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-2-0 [4]
+Offered for Type Program Core
+
+Title Microfluidics Technology Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0 [3]
+Offered for Type Program Elective
+
+Title Computer Aided Inspection and
+Quality Control Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0
+Offered for Type Program Elective
+
+Title Welding: Metallurgy, Defects and
+Testing Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Non-Conventional Welding Processes Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Welding Inspection and Quality
+Control Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+M Tech & M Tech - PhD Dual Degree
+in
+Thermofluids Engineering
+
+Introduction: 
+Thermo-fluids is the combined study of heat transfer, fluid dynamics, thermodynamics, and 
+combustion. Thermofluids program at IIT Jodhpur plans to engage in a wide range of research 
+activities in the areas such as solar energy, clean water, thermodynamics and fluid dynamics, heat 
+transfer and combustion, with a strong emphasis on the application of computational modeling and 
+experimental methods. The thermal sciences area involves studies in energy conversion, the flow of 
+liquids and gases, and the transfer of heat by means of conduction, convection and radiation. The 
+flow and heat transfer are involved in devices and systems for energy conversion. The program 
+involves a mix of fundamental courses followed by electives to specialize in the chosen area. Further, 
+the project component ensures hands-on problem solving skills to enable solving of industrial 
+problems as well as undertake research in the different areas of thermofluids. The potential 
+employers of graduates from this program will be government and academia, automotive OEMs and 
+ancillary manufacturers, energy sector, chemical and processing industries and others.
+Objective of the Program: 
+To develop professionals through analytical and computational skills that enables individual to handle 
+research and industrial problems in the domain of Thermofluids engineering
+Expected Graduate Attributes:
+1) Ability to undertake academic and industrial research in the areas of Thermal and Fluids
+Engineering like automobiles, thermal power, nuclear energy, gas turbines, solar energy, space 
+science, defence, environmental engineering etc.
+2) Ability to solve problems in design of thermal and fluid equipment/systems using analytical,
+experimental and computational techniques
+3) Equipped to contribute to the multi-physics and interdisciplinary research interfacing with
+thermal and fluid systems
+4) Ability to express ideas in the written and oral formats 
+5) Development of appreciation and commitment to professional ethics
+Learning Outcomes: 
+At the end of program, a student is expected to have,
+1) Strong fundamentals in incompressible/compressible fluid flow, thermodynamics and heat
+transfer
+2) Analytical, computational and experimental skills to solve problems in multi-scale heat and fluid
+flow
+3) Skills to design, develop and integrate systems/equipment involving heat and fluid flow
+4) Competence to identify and analyze interdisciplinary systems/devices involving thermofluids
+5) Expertise in one of the application areas e.g. solar thermal, combustion, heat exchanger design,
+HVAC systems, aerodynamics, thermal management of electronic systems, high speed flows 
+etc.
+6) Skills to communicate technical and scientific ideas in the domain of Thermal and Fluids
+Engineering
+
+Cat. Course Number, L-T-P- Cr Cat. Course Number, Course L-T-P- Cr
+Course Title Th Title Th
+I Semester II Semester
+MC MEL7XX0;
+Incompressible Fluid
+Flow 3-0-0-
+0 3 MC MA: Numerical Methods in
+ODE 1-0-0-0 1
+MC MEL7XX0: Classical And
+Statistical
+Thermodynamics
+MEL7XX1: Multi Phase
+Systems and Chemical
+Reactions
+MEL7XX2: Kinetic
+Theory
+MEL7XX3: Statistical
+Thermodynamics 3-0-0-
+0 3 MC MA: Numerical Methods for
+PDE 1-0-0-0 1
+MC MEL7XX0: Applied Heat
+and Mass Transfer 3-0-0-
+0 3 MC MEP7XX0: Thermal
+Engineering Lab 0-0-2-0 1
+MC MEL7XX0: Experimental 3-0-0-
+0 3 MP Program Elective 3-0-0-0 3
+MC MA: Matrix 1-0-0- 1 MP Program Elective 3-1-0-0 4
+Computations 0
+NH HSN7XX0: Technical 1-0-0- 1 MP Program Elective 3-0-2-0 4
+Communication 0
+MC MEP7XX0: Fluid 0-0-2- 1 NH OAL7XX0: Innovation 1-0-0-0 1
+Engineering Lab 0 andIP Management
+Total 15 Total 15
+III Semester IV Semester
+MP MP MED8XX0: Project 0-0-0- 5 5 MP MP MED8XX0: Project 0-0-0-11 11 11
+ME Program Elective 3-0-0- 3 MO Open Elective 3-0-0-0 3
+ME Program Elective 3-0-0- 3 NH HSN7XX0: Professional 1-0-0-0 1
+0 Ethics
+MO Open Elective 3-0-0- 3
+NH OAN7XX0: Systems 1-0-0-
+0 1-0-0- 1
+Engineering and Project 0
+Total 15 Total 15
+Grand Total 60
+S.N. Course Type Credits
+1 Program Core (MC) 17
+2 Program Elective (ME) 17
+3 Open Electives (MO) 6
+4 Project (MP) 16
+5 Non-Graded Humanities (NH) 4
+Total 60
+Proposed Course Structure:
+Summary of Course categories for M. Tech (TFE) Programs:
+
+Course requirements:
+Core Courses:
+MEL7XX0:Applied Heat and Mass Transfer
+MEL7XX0:Applied Thermodynamics
+MEL7XX0:Experimental Techniques in Thermofluids
+MEL7XX0:Incompressible Fluid Flow
+MEL7XX0:Matrix Computations
+MEL7XX0:Numerical Methods for ODE
+MEL7XX0:Numerical methods for PDE
+MEP7XX0:Fluid Engineering Lab
+MEP7XX0:Thermal Engineering Lab
+Elective Courses:
+Program Electives:
+MEL7XX0: Conduction and Radiation 
+MEL7XX0: Convective Heat and Mass Transfer 
+MELXXX0: Combustion Technology 
+MEL7XX0: Turbulent Flows 
+MEL7XX0: Jet and Rocket Propulsion 
+MEL7XX0: Computational Fluid Dynamics and Heat Transfer 
+MEL7XX0: Two Phase Flow and Heat Transfer 
+MEL7XX0: Design of Heat Exchange Equipment 
+MEL7XX0: Compressible Fluid Flows 
+MEL7XX0: Optical and Laser Based Measurements in Thermofluids 
+MEL7XX0: Fluid dynamics and Acoustics of Turbulent Jets 
+MEL7XX0: Heating, Ventilation and Air-Conditioning
+General Electives:
+MEL7XX0: Microfluidics Technology 
+MEL7XX0: Fluid Flow in Biological Processes 
+MEL7XX0: Nanosensors 
+MEL7XX0: Water Energy Nexus 
+MEL7XX0: Soil and Water Conservation Engineering 
+MEL7XX0: Probabilistic Methods in Engineering Design
+
+Title Incompressible Fluid Flow Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Core
+Core Courses:
+
+Title Classical and Statistical
+Thermodynamics Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Core
+
+Title Applied Heat and Mass Transfer Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Core
+
+Title Experimental Techniques for Thermo-fluids Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Core
+
+Title Fluid Engineering Laboratory Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 0–0–2-0 [1]
+Offered for Type Program Core
+
+Title Thermal Engineering Lab Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 0-0-2-0 [1]
+Offered for Type Program Core
+
+Title Conduction and Radiation Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-1-0-0 [4]
+Offered for Type Program Elective
+Program Electives:
+
+Title Convective Heat and Mass Transfer Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-1-0-0 [4]
+Offered for Type Program Elective
+
+Title Combustion Technology Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Turbulent Flows Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Jet and Rocket Propulsion Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Computational Fluid Dynamics and
+Heat Transfer Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-1-0-0 [4]
+
+Title Two Phase Flow and Heat Transfer Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-1-0-0 [4]
+Offered for Type Program Elective
+
+Title Design of Heat Exchange Equipment Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-1-0-0 [4]
+Offered for Type Program Elective
+
+Title Compressible Fluid Flows Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+Title Optical & Laser based Measurements in Number MEL7XX0
+
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+Title Fluid dynamics and Acoustics of Turbulent
+Jets Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program
+Elective
+
+Title Heating, Ventilation and Air-
+Conditioning Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Program Elective
+
+conditioning
+
+Title Fluid Flow in Biological Processes Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Open Elective
+Open Electives:
+
+Title Nanosensors Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for B. Tech, M. Tech and PhD Type Open Elective
+
+Title Water Energy Nexus Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Open Elective
+
+Title Soil and water conservation
+Engineering Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Open Elective
+
+Title Probabilistic Methods in Engineering
+Design Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for Type Open Elective

@@ -1,0 +1,19 @@
+research seminar by kapil dev august at pm title of the talk stability analysis of thermoconvective flows with applications to sequestration date time venue august at pm on seminar hall dept
+of mathematics abstract stability analysis of thermoconvective flows plays crucial role in understanding various geophysical and industrial phenomena including oceanography mantle convection and nuclear reactors
+in this talk will present two approaches for analyzing the stability of such systems linear theory and the energy method
+then discuss how the convective instability analysis is relevant to carbon sequestration promising strategy for reducing greenhouse gas emissions by storing in deep underground aquifers
+the behavior of this process depends critically on the mixing of with resident brine which is strongly influenced by convection resulting from concentration differences and geothermal temperature gradients
+to analyze this we study the stability of thermosolutal convection arising from vertical temperature and concentration gradients and determine the critical rayleigh number for the onset of instability
+notably the linear theory and energy method yield the same stability threshold indicating that the subcritical instability region is negligible
+this highlights unique instability characteristic of the system and underscores its relevance for predicting and enhancing mixing in underground aquifers
+finally illustrate the applicability of these results to sequestration scenarios
+about the speaker kapil dev academic journey began with bachelor degree in physics chemistry and mathematics from the university of rajasthan jaipur in after which he completed
+in mathematics at the same university in
+in august kapil joined the in mathematics at mnit jaipur under the supervision of om suthar
+by december he had successfully defended my thesis titled study of the stability of thermoconvective flows using the energy during his doctoral research his investigations delved into the stability of thermoconvective flows under various configurations including double diffusion ferrofluids surface tension effects heating and effects leading to publications in international journals
+since april he work as an institute fellow in the department of civil engineering iit kanpur has focused on the application of thermoconvective stability in sequestration and the study of flows using both numerical and experimental tools
+title of the talk stability analysis of thermoconvective flows with applications to sequestration date time venue august at pm on seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

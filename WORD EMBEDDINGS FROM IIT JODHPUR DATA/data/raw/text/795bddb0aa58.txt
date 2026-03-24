@@ -1,0 +1,2792 @@
+SOURCE_URL: https://intranet.iitj.ac.in/acad_website/ug_curriculum/1ST%20YEAR%20Curriculum%20updated%2025.3.22.htm
+
+First Year B.Tech. Courses Applicable from A.Y. 2019-20 Title Engineering Mechanics Number MEL1010 Department Mechanical Engineering L-T-P [C] 2-1-0 [3] Offered for B.Tech. 1 st Year
+  (All branches) Type Compulsory Prerequisite Nil Objectives 1. To apply
+  knowledge of statics and dynamics to particles and rigid bodies Learning Outcomes 1. To
+  model practical structural problems using concepts of free body diagrams and
+  equilibrium conditions 2. To
+  solve dynamic problems using Newton's Law, Work-Energy and Impulse-Momentum
+  Principles Contents Statics [10
+  Lectures]: Basic dimensions in Mechanics, Law of dimensional homogeneity,
+  Vector and Scalar Quantities, Elements of vector algebra. Moment of a force
+  about a point/axis, Couple, Free Body Diagram, Equations of Equilibrium,
+  Static indeterminacy, Trusses and Beams, Coulomb Friction, Surface contact
+  friction, Transmission of power through belt. Pappus-Guldinus Theorems,
+  second moments and product of Area, Principal axes. Dynamics of
+  Particles [6 Lectures] : Kinematics of particles, Velocity and acceleration in terms of
+  path variables, simple relative motion, motion of particle relative to a pair
+  of translating axes Newton's laws of rectangular coordinates/rectilinear
+  translation, cylindrical coordinate/Central force motion. Conservation of Mechanical Energy,
+  Work-energy equations, Center of mass based Kinetic energy, Impulse and
+  Momentum relation of particles, Moment of momentum equations-single
+  particle/system of particles Dynamics of
+  Rigid bodies [12 Lectures]: Translation/Rotation of rigid bodies, Chasles'
+  theorem, time derivative of vector for different references. Parallel axis
+  theorems, Rotational Pure rotation of a body of revolution about its axis of
+  revolution/combined with translation. Three dimensional rotation, moment of
+  inertia tensor, relation between angular momentum and torque in three
+  dimensions, Motion in non-inertial frames, centrifugal force, Coriolis
+  force/acceleration, rate of change of vector in inertial and rotating frames. Reference Books 1. Shames, I.,
+  (2003), Engineering Mechanics ,
+  Prentice Hall 2. Gross, D., Hauger, W. and Schrder J., (2012), Engineering Mechanics , Springer 3. Meriam,
+  J. L., Kraige, L. G., (2002), Engineering
+  Mechanics , John Wiley & Sons 4. Harbola,
+  M K., (2013), Engineering Mechanics, CENGAGE Learning Self Learning Material 1. Harbola , M K., Engin eering
+  Mechanics, NPTEL Course Material, Department of Physics, Ind ian Institute of Technology Kanpur, https://nptel.ac.in/courses/115104094/ 2. Lewin, W. H. G,
+  Physics I: Classical Mechanics - Fall 1999, MIT,
+  http://videolectures.net/mit801f99_physics_classical_mechanics/ Title Engineering Visualization Number MEP1010 Department Mechanical Engineering L-T-P [C] 0-0-2 [1] Offered for B.Tech. 1 st Year (All
+  branches) Type Compulsory Prerequisite Nil Objectives 1. To inculcate
+  how to expresses ideas of technical nature with a pragmatic intention. 2. Helping
+  students understand the role of engineering graphics in a product design
+  process. Learning Outcomes 1. To distinguish
+  between the different types of projections and indicate the dimensions. 2. To visualize,
+  and communicate product design using graphics. Contents Module 1 [8 Labs] : Free hand
+  Sketching of engineering objects, Interpretation of drawings as a
+  visualisation and communication tool, Orthographic views, Isometric views,
+  Sectioning of Objects, Perspective Projection, Assembly drawing, Animation of
+  Assemblies, Computer-Aided Draughting Module 2 [2 Labs]: Circuits and
+  Electrical Engineering Drawings Module 3 [2 Labs]: Introduction to
+  Data Visualization tools, Introduction to AR/VR Reference Books 1. Luzzader, W. J.
+  and Duff, J. M., (2008), Fundamentals
+  of Engineering Drawing , Prentice Hall 2. Bhatt, N. D.,
+  (2002), Elementary Engineering Drawing ,
+  Charoter Publishing 3. Bethune, J. D.,
+  (2007), Engineering Graphics with
+  Autocad, Prentice Hall Self Learning Material 1. Robi, P.S. , Engineering Drawing, NPTEL Course Material, Department of
+  Metallurgical, Indian Institute of Technology Guwahati,
+  https://nptel.ac.in/courses/112103019/ Title Engineering Realization Number MEP1020 Department Mechanical Engineering L-T-P [C] 0-0-2 [] Offered for B. Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives 1. To develop awareness about the process of materials selection and
+  manufacturing processes in product development 2. Appreciate the importance of working in multi-disciplinary team
+  for technology development problems Learning Outcomes 1. Basic understanding about engineering materials and manufacturing
+  processes along with their applications. 2. Appreciation of product development process by endeavouring hands-on-activities Contents: Module 1 [5 Labs] - Conventional
+  Manufacturing : Demonstration
+  of process flow in conventional manufacturing shops (4 exercises); Material
+  selection and structure-property-performance relationships (1 exercise) Module 2 [4 Labs] - Modern
+  Manufacturing: Modelling and Simulation, Demonstration of process chain from
+  design to realization of the prototype (1 exercise); Automation in
+  Manufacturing (1 exercise); CNC Machine Tools (1 exercise); Modern Inspection
+  techniques (1 exercise) Module 3 [3
+  Labs] : Working with embedded Hardware (1 exercise), Sensor Integration (1
+  exercise), DC Motor Control (1 exercise) Reference Books: 1. Degarmo, E. P.,
+  Kosher, R. A. and Black, J. T., Materials and Processes in Manufacturing, PHI 2. Kalpakjiam, S.
+  and Schmid, S., Manufacturing Engineering and Technology, Pearson Self Learning Material 1. http://web.mit.edu/2.810/www/lectures.html Title Engineering Design I Number OAE1010 Department All Departments L-T-P [C] 0-0-2 [1] Offered for B.Tech. 1 st Year (All
+  branches) Type Compulsory Prerequisite Nil Objectives 1. To design and
+  analysis of engineering problems and develop the ability to visualize the
+  solution. Learning Outcomes 1. Approach to
+  solve unstructured engineering design problems. Contents Engineering Design: Problem
+  Definition, Background research, Identifying Performance Specifications,
+  Ideation, Analysis of Design, Selection, Graphical Realization, Animation,
+  Case studies on design conceptualization Self Learning Material https://www.edx.org/course/design-thinking-for-leading-and-learning-0 https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/ https://www.coursera.org/courses?query=design%20thinking https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/ Title Engineering Design II Number OAE1020 Department All Departments L-T-P [C] 0-0-2 [1] Offered for B.Tech. 1 st Year (All
+  branches) Type Compulsory Prerequisite Nil Objectives 1. Understand to
+  realizes conceptual design to a working prototype Learning Outcomes 1. Develop insight
+  to realize an engineering product Contents Product Realization: Selection of Materials,
+  Modelling and Simulation, Dimensioning and Tolerance, Prototyping, Prototype
+  Refinement, Integrating mechanical and electrical elements, controller
+  integration and programming, Case studies on design realization Self Learning Material https://www.edx.org/course/design-thinking-for-leading-and-learning-0 https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/ https://www.coursera.org/courses?query=design%20thinking https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/ Title Mathematics I Number MAL1010 Department Mathematics L-T-P [C] 3-1-0 [4] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite None Objectives 1. Train
+  the undergraduate students towards basic understanding of Mathematics. 2. Provide
+  student with sufficient knowledge in calculus, which can be used by the
+  students in their respective fields. 3. Enable
+  students to develop a working knowledge of central ideas of single and
+  multivariable calculus. Learning Outcomes 1. Impart knowledge of basic concepts like
+  Limit, Continuity, Differentiability, Maxima and Minima, Reimann Integration
+  and their applications. 2. Gain
+  strong understanding of Integration in higher dimension and Vector Calculus. 3. Improve their ability to think critically, to
+  analyze a problem and solve it using a wide array of tools. Contents Single variable
+  Calculus [17 Lectures] : [10 Lectures] Properties of Real
+  number system, Sequences and series of real numbers, review of limit,
+  Continuity and differentiability of functions, Rolle's theorem, Mean
+  value theorems and Taylor's theorem, Maxima, minima and curve tracing. [7 Lectures] Riemann integral,
+  Fundamental theorem of calculus, Application to length, area, volume, surface
+  area of revolution. Multivariable
+  Calculus [23 Lectures]: [7 Lectures] Functions of
+  Several Variables, Sequences, Limit, and continuity of functions of several
+  variables, Partial derivatives, Chain rule, Gradient, Directional Derivative
+  and differentiability, Taylors formula for functions from R 2 to R,
+  Tangent planes and normal, Maxima, minima, saddle points, Lagrange
+  multipliers, Total derivative of Functions from R n to R m ,
+  Jacobian matrix, sufficient condition for differentiability. [6 Lectures] Double and triple
+  integrals, Change of variables, Vector fields, Gradient, Curl and Divergence,
+  Curves. [10 Lectures] Line integrals and
+  their applications, Green's theorem and applications, Surfaces, Surface area,
+  Surface integrals, Divergence theorem, Stokes' theorem and applications. Text Books 1. Thomas,
+  G. B. & Finney, R. L., (1992), Calculus and Analytic Geometry, 9 th Edition, Addison Wesley Publishing Company 2. Ghorpade,
+  S. R. & Limaye, B. V., (2006), A Course in Calculus and Real Analysis, Springer Verlag 3. Ghorpade,
+  S. R. & Limaye, B. V., (2009), A Course in Multivarible Calculus and
+  Analysis, Springer Verlag Reference Books 1. Thomas Jr., G.B., Weir, M.D. and Hass, J.R., (2015), Thomas' Calculus,
+  Pearson Education. 2. Apostol, T.M., (2006), Calculus: Vol-1 and
+  Vol-2, John Wiley & Sons. 3. Ayers, F. and Mendelson, E. (2012) Schaum's
+  Outline of Calculus, McGraw Hill. Online Course Material 1. Dutta, J. (IIT
+  Kanpur) Calculus of One Real Variable, https://nptel.ac.in/courses/109104124/2 Gupta, S.K.
+  (IIT Roorkee) Multivariable Calculus, https://nptel.ac.in/courses/111107108/ Title Mathematics II Number MAL1020 Department Mathematics L-T-P [C] 3-1-0 [4] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite None Objectives The Instructor will: 1. Provide
+  understanding of fundamentals of Linear Algebra. 2. Provide
+  understanding of fundamentals of Differential Equations. Learning Outcomes The students are expected to have the ability
+  to: 1. Impart
+  knowledge of different structures and their properties like, Dependence,
+  Basis and Dimension. 2. Gain
+  strong understanding of linear transformations between structures and its
+  relation with matrices. 3. Solving
+  analytical and series solution for ordinary differential equations and
+  analyzing the stability of linear ODE systems. Contents Linear
+  Algebra (20 Lectures): [10 Lectures] Matrices, Vector
+  spaces (over the field of real and complex numbers), subspaces, linear
+  dependence/ independence, basis, dimensions, coordinate with respect to a
+  basis, complementary subspaces, Linear transformations, Range space and rank,
+  Null space and nullity, matrix representation of linear transformation,
+  change of basis and similarity, rank-nullity theorem. [10 Lectures] Inner product,
+  Norm, Gram-Schmidt orthogonlization process, orthonormal bases. Eigenvalues
+  and eigenvectors, characteristic polynomials, Cayley-Hamilton theorem,
+  properties of eigenvalues and eigenvectors, diagonalization of matrices. Differential
+  Equations (20 Lectures): [8
+  Lectures] First Order Ordinary Differential Equations:
+  Geometrical interpretation of solution, Solution methods for separable
+  equations, Exact equations, Linear equations, Existence and uniqueness of
+  solution of IVP, Wronskian and general solution of nonhomogeneous equations,
+  Picards Theorem for IVP (without proof). Second Order Linear differential
+  equations: General solution of homogeneous equation, Euler-Cauchy Equation,
+  Extensions of the results to higher order linear differential equations. [12 Lectures] Power Series
+  Method, Frobenius Method, S.L.P and orthogonal functions, System of first
+  order linear ODE and its stability. Textbook 1. Axler,
+  S., (1997), Linear Algebra Done Right (Undergraduate Texts in Mathematics),
+  Springer. 2. Kreyszig,
+  E., (2010), Advanced Engineering Mathematics, John Wiley & Sons 3. Simmons,
+  G.F., (2002), Differential Equations with applications and Historical Notes,
+  Tata McGraw Hill. 4. Boyce,
+  W.E. and DiPrima, R.C., (2006) Elementary Differential Equations and Boundary
+  Value Problems, John Wiley & Sons. Reference Books 1. Strang,
+  G., (2006), Linear Algebra and its Applications, Thomson, Brooks/Cole. 2. Kumaresan,
+  S., (2000) Linear Algebra - A Geometric Approach, PHI Learning. 3. Coddington,
+  E.A., (1961), An introduction to ordinary differential equations,
+  Prentice-Hall. 4. Lipschutz,
+  S. and Lipson, M. (2012) Schaum's Outline of Linear Algebra, McGraw Hill. 5. Bronson,
+  R. and Costa, G. (2010) Schaum's Outline of Differential Equations, McGraw
+  Hill. Online course Material 1. Rana, I.K. (IIT Bombay), Basic Linear
+  Algebra, https://nptel.ac.in/courses/111101115/ Manam,
+  S. (IIT Madras), Differential Equations for Engineers, https://nptel.ac.in/courses/111106100/1 Title Electromagnetism and Optics Number PHL1010 Department Electromagnetism
+  and Optics L-T-P [C] 3-0-0 [3] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives 1. Provide an understanding of
+  electric and magnetic field distribution and electromagnetic nature of
+  radiation 2. Provide an understanding of wave propagation
+  in different media Learning Outcomes 1. Relate theoretical concepts
+  with problem solving approach in electromagnetism and optics 2. Solve field distribution in
+  vacuum, conducting and dielectric systems Contents ELECTROMAGNETISM: Electrostatics
+  [10 Lectures]: Calculus of Fields, Coulomb's law, Gauss's theorem, electrostatic
+  potential, Laplace's equation, conductors, capacitors and dielectrics,
+  boundary conditions Magnetostatics[7
+  Lectures]: Biot-Savart's law, Ampère circuital law, Lorentz force, magnetism Magnetic
+  Induction [5 Lectures]: Faraday's law, Lenz's law, self and mutual inductance, energy stored
+  in magnetic field, boundary conditions Electrodynamics[8
+  Lectures]: displacement current, electromagnetic waves, plane wave solutions of
+  Maxwell's equations, Poynting vector, Maxwell's equations in conductors and
+  dielectrics, introduction to waveguides OPTICS: Wave Nature of
+  Light [12 Lectures]: interference; Fresnel and Fraunhoffer diffraction; ordinary and
+  extraordinary rays; plane, circular and elliptically polarized light;
+  birefringence; half wave plates; introduction to optical microscopy:
+  polarization, phase contrast and confocal microscopy Textbook 1. Ghatak, A.K., (2017), Optics , 6 th Edition, McGraw
+  Hill Education India 2. Griffiths, D.J., (2015), Introduction to Electrodynamics , 4 th Edition, Pearson Education India Reference Books 1. Ida, N., (2015), Engineering Electromagnetics, 3 rd Edition,
+  Springer Nature 2. Hecht, E., (2017), Optics (Schaum's Outline Series) ,
+  McGraw Hill Education India 3. Born, M. and Wolf, E., (1999), Principles of Optics:
+  Electromagnetic Theory of Propagation, Interference and Diffraction of Light,
+  7 th Edition, Cambridge University Press. Self Learning Material 1. Ghosh,
+  D.K., Electromagnetic Theory ,
+  Department of Physics, Indian Institute of Technology Bombay,
+  https://nptel.ac.in/courses/115101005/ 2. Electricity and Magnetism , Department of Physics, Massachusetts
+  Institute of Technology, MIT OpenCourseWare, Course Number 8.02, (Spring
+  2007).:
+  https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/#, License: Creative Commons BY-NC-SA. Title Physics Laboratory Number PHP1010 Department Physics L-T-P [C] 0-0-2 [1] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives Provide understanding on usage of
+       electrical, mechanical and optical systems for various measurements. Provide understanding on applying
+       analytical techniques, error estimation and graphical analysis to the
+       experimental data. Learning Outcomes Understand interplay of
+       electricity, magnetism and light Develop idea of linear, rotational
+       and vibrational motion and mechanics Contents Laboratory
+  Experiments e/m ratio: Determination of
+       charge-to-mass ratio of a charged particle Basic current balance:
+       Understanding electromagnetic forces Dispersive power: Measuring the
+       dispersive power of a prism using spectrometer Diffraction of light wave:
+       Examining the diffraction and interference pattern using single slit and
+       double slits Fresnel bi-prism: Determination of
+       wavelength of monochromatic light source Newton's rings: Study of Newton's
+       rings in thin air-film Hall effect: Determination of charge
+       carrier density Faraday rotation: Studying the
+       effect of a magnetic field on the transmission of a linearly polarized
+       light Air Track and Friction Experiments Moment of Inertia of Flywheel Vibration of string Text Books 1. Electromagnetism and Optics Laboratory Manual, Indian Institute of
+  Technology Jodhpur. Reference Books 1. Shukla, R.K. and Srivastava, A., (2006), Practical Physics , New Age International Title Chemistry Number CYL1010 Department Chemistry L-T-P [C] 3-0-0 [3] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives 1. Relate the
+  fundamental principles of chemistry with practical problems encountered for
+  engineers and place the emphasis on problem-solving 2. Provide
+  knowledge of engineering materials metals, composites, polymers, cement,
+  steel, fuels, batteries and drugs. Learning
+  Outcomes Understanding the behavior of matter and materials
+       using fundamental knowledge of their nature. Understanding the basic concepts
+       and implementation of the same in advanced and interdisciplinary areas. Predict
+       potential complications from combining various chemicals or metals in an
+       engineering setting. Contents Atomic and
+  Molecular Structure [6 Lectures] : particle in a box, angular momentum,
+  wavefunction, multielectron atoms, homonuclear and heteronuclear diatomic
+  molecules, non-covalent interactions Solid State
+  Chemistry [6 Lectures] : Lattice and Unit Cells, X-Ray Diffraction, Bands in solids, semiconductors,
+  Introduction to nanomaterials based on dimensionality and properties. Surface Chemistry[3 Lectures] : Surfaces and
+  interfaces, surface modification, surface energy, contact angle and surface
+  tension. Electrochemical
+  Systems [5 Lectures]: Electrochemical cells and EMF, Applications of EMF measurements: Steady state approximation, Chain reactions, photochemical kinetics, Fuel Cells and
+  Batteries, OER and HER reactions, Corrosion Basic
+  Spectroscopy [7 Lectures] : Selection Rules, Fundamentals FTIR, Raman , UV-visible and
+  Fluorescence spectroscopy Transition
+  Metal Chemistry [5 Lectures] : Colors in Complexes, Organometallics and
+  Catalysis, Bioinorganic Chemistry Organic
+  Chemistry [8 Lectures]: Name Reactions, Stereochemistry and their
+  Applications, Acid-Base Chemistry, Use of Buffers, Organic Chemistry examples
+  such as polymers and biopolymers, drugs and photoactive molecules in everyday
+  life and advanced technologies. Textbooks Silberberg,
+       M., Chemistry: The Molecular
+       Nature of Matter and Change , 6 th Edition, McGraw Hill
+       Education. West,
+       A.R., (2015), Solid State
+       Chemistry and Its Applications , 2 nd edition, John Wiley
+       & Sons. J. D. Lee,
+       Concise Inorganic Chemistry, 5 th Edition. Atkins,
+       Physical Chemistry, 11 th Edition. Reference Books McMurry,
+       J. E. & Fay, R. C. Chemistry ,
+       5 th Edition, Pearson. Jonathan
+       Clayden, Nick Greeves, Stuart Warren, Organic Chemistry, 2nd
+       Edition. F. Albert
+       Cotton, Geoffrey Wilkinson, Basic Inorganic Chemistry, Wiley
+       Student Edition. Self Learning Material 1. https://nptel.ac.in/downloads/122101001/ Title Chemistry Laboratory Number CYP1010 Department Chemistry L-T-P [C] 0-0-2 [1] Offered for B. Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives relate the
+       fundamental principles of chemistry with practical problems encountered
+       for engineers and place the emphasis on problem-solving provide
+       knowledge of engineering materials such as metal complexes,
+       composites,dyes, polymers, surfactants steel, batteries and drugs. Learning
+  Outcomes Students will be able to develop synthetic and analytical
+       laboratory skills and think innovatively. 2. understand and analyse physical concepts, interpret experimental
+  results and relate to the applications. Laboratory Experiments Preparation
+       of complex salt of (Co(en) 6 )Cl 3 Preparation
+       of Nylon-6,6 Fourier
+       transform infrared (FTIR) spectroscopy in combination technique for
+       analysis of caffeine in tea & coffee The
+       excitation and emission spectrum of Curcumin in solvents ethanol and
+       hexane respectively and find stokes shift using Fluorescence
+       Spectroscopy Surface
+       contact angle, surface tension and surface free energies of different
+       solvents and substrates respectively. Study of a
+       reversible redox reaction using Cyclic Voltammetric analysis. Study of
+       Color in Complexes using UV visible Spectroscopy Determination
+       of Critical Micelle Concentration of a Surfactant by Conductivity Method Study of C orrosion
+       of S tainless S teel using
+       Tafel Analysis. Determination
+       of the Enantiomeric Purity of Naproxen and Ibuprofen. Textbooks 1. Practical
+  Physical Chemistry (Latest ed.), By B.D. Khosla, A. Gulati & V.C. Garg 2. Laboratory
+  Manual on Engineering Chemistry (Latest ed.), By S.K. Bhasin and Sudha Rani Reference Books 1. Hill, R. H.
+  & Finster, D. (2010) Laboratory
+  Safety for Chemistry Students, Wiley. 2. Douglas A
+  Skoog, F. James Holler and Stanley R. Crouch, Principles of instrumental
+  Analysis, 6 th Edition, Cengage. Self Learning Material 1. https://nptel.ac.in/courses/122101001/37 2. http://vlab.co.in/broad-area-chemical-sciences Title Introduction to Electrical Engineering Number EEL1010 Department Department of Electrical Engineering L-T-P [C] 3-0-2 [4] Offered for B.Tech (All) Type Compulsory Prerequisites -- Objectives 1. To train the undergraduates towards basic concepts of electrical
+  circuits, dc and ac machines. 2. To introduce the basics of solid-state electronics and their
+  applications to undergraduate students of all disciplines Learning Outcomes 1. Ability to analyze circuits, some electric machines, ac supply
+  systems, and magnetic circuits. 2. Ability to analyze and design basic electronic circuits using passive
+  and active components for various applications Contents Basic Circuit Concepts [4 Lectures ]: Review of circuit
+  laws, Thevenin's and Norton's Theorem; Star-Delta conversion, Time response
+  of R-L-C circuits Alternating Electrical Quantities [3 Lectures ] : Concepts of
+  phasors, impedance, real and reactive power, impedance and power diagrams Magnetic Circuits [2 Lectures ]: Basics of magnetic
+  circuits, series and parallel magnetic circuits Single Phase Transformer [3 Lectures]: Working
+  principle, equivalent circuit, efficiency and regulation, SC and OC tests Electro-Mechanical Energy Conversion and DC Machines [5 Lectures ]: Principles of energy conversion, types of dc generators and
+  motors and their characteristics, speed control of DC motors Diodes [3 Lectures]: Principle of
+  operation, diode characteristics, diode circuits and applications Transistors [5 Lectures ]: Principle of operation, concept of
+  biasing, characteristics and applications of transistor, basic amplifier
+  configurations Operational Amplifiers [5 Lectures ]: Basic model and
+  op-amp specifications, closed-loop negative feedback inverting and
+  non-inverting amplifiers, concept of virtual ground, op-amp applications. Digital Logic [9 Lectures ]: Logic gates, boolean
+  algebra, canonical forms of boolean function representation, minimization of
+  boolean functions using K-maps, combinational and sequential circuit design Transducers [3 Lectures ] : Inertial sensors , capacitive, magnetic, hall-effect sensors, ultrasonic
+  transducers, temperature, bridge circuits Laboratory · Verification of Thevenin's Theorem in AC circuits · Transformer assembly and equivalent parameters (using OC/SC test) · Speed control of a DC Motor · Diode rectifiers and analysis of ripple
+  factors with and without filters · BJT application as a switch (e.g. automatic street light) or amplifier
+  (eg. audio amplifier) · Opamp applications (e.g. Schmitt trigger as a comparator; operation of
+  instrumentation amplifier etc.) · Digital logic and design (Logic implementation with gates/multiplexer,
+  counter design) · Introduction to Microcontrollers (Arduino/Raspberry Pi) with basic
+  experiments on controlling LED brightness/sensor integration, etc. Textbooks Rizzoni,
+       G., (2010), Principles and
+       applications of Electrical Engineering , 5th Edition, McGraw Hill
+       Education Boylestad,
+       R. L. & Nashelsky, L., (2009), Electronic
+       Devices and Circuit Theory , 10th Edition, Prentice Hall Sedra, A.
+       S. & Smith, K. C., (2011), Microelectronic
+       Circuits , 6th Edition, Oxford University Press Smith, R.
+       J, and Dorf, R. C. (2009), Circuits,
+       Devices and Systems , 5th Edition, Wiley M. M.
+       Mano, (2001), Digital Design ,
+       3rd Edition, Prentice Hall Reference Books Kothari,
+       D. P. and Nagrath, I. J., (2008), Basic
+       Electrical Engineering , 3rd Edition, Tata McGraw-Hill, New Delhi Fitzgerald,
+       A.E., Kingsley (Jr.), C., and Umans, S.D., (2003), Electric Machinery , 6th Edition, Tata McGraw-Hill
+       (McGrawHill Series in Electrical Engineering) Hayt, W.
+       H., Kemmerly, J. E., and Durbin, S. M., (2010), Engineering Circuit Analysis , 7th Edition, Tata McGraw Hill Self Learning Material Umanand, L.,
+  Electrical Technology, NPTEL Course Material, Department of Electrical
+  Engineering, Indian Institute of Science, Bangalore,
+  http://nptel.ac.in/courses/108108076/ Title Introduction to Computer Science Number CSL1XX0 Department Computer Science and
+  Engineering L-T-P [C] 3-0-2 [ 4 ] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives 1. Provide an understanding of
+  the role of computation in problem solving. 2. Provide an overview of the computing and networking environment
+  where code gets deployed. Learning Outcomes 1. Use the basic elements of
+  computer programs, such as, statements, variables, events, conditionals,
+  loops, arrays, and write programs. 2. Solve problems with
+  software tools. Contents Introduction [5 Lectures]:
+  Basics of computer organization: illustration using Arduino, Operating
+  System, Computational Thinking: Problem solving, system design, algorithms. Basics of Data
+  Representation [7 Lectures]: Binary representation: Integer, Fixed point and
+  floating point numbers, variables, arrays and linked-list, data-types Programming
+  Constructs [5 Lectures]: Imperative programming, statements, control
+  constructs, procedures, Examples using Python Object oriented
+  Programming [10 Lectures]: Concept of class, instances, encapsulation, inheritance , static Methods and class
+  Methods, object memory management, illustrations using Python. Lists, Tuples,
+  Sets, Dictionaries, Generators Modules, packages, containers. Programming
+  Paradigms [15 Lectures]: Imperative programming, Declarative programming, The
+  lambda operator, Procedural programming, Dynamic typing, Polymorphism Dynamic
+  Binding and Duck Typing, Illustrations using Python. Laboratory Experiments Programming
+  exercises using Python. Textbook 1. Brown,M.C. (2018), Python: The Complete Reference , 4 th Edition, McGraw Hill Education 2. Patt, Y. (2017), Introduction to Computing Systems , 2 nd Edition, McGraw Hill Education 3. Guttag, J. (2016) Introduction to Computation and Programming
+  Using Python: With Application to Understanding Data. MIT Press. Reference Books 1. Mermin,N.D. (2007), Quantum Computer Science: An introduction ,
+  Cambridge University Press 2. Satemos, C., (2014), Client-Server Web Apps with Javascript and
+  Java , 1 st Edition, O'Reilly Self Learning Material 1. John Guttag. 6.00SC Introduction to Computer Science and
+  Programming. Spring 2011.
+  Massachusetts Institute of Technolog y: MIT OpenCourseWare, https://ocw.mit.edu .
+  License: Creative
+  Commons BY-NC-SA . Title Introduction to Bioengineering Number BBL1XX0 Department Bioscience &
+  Bioengineering L-T-P [C] 3-0-2 [4] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives 1. Provide a strong foundation of biology in the context of
+  engineering by highlighting key differences in the approaches of both
+  disciplines, while illustrating how bioengineering utilizes the best of both
+  disciplines. 2. provide multidisciplinary learning Learning Outcomes The students
+  are expected to have the ability to: 1. Approach
+  biology from an engineering perspective by gaining an understanding of how
+  biological systems function 2. Be inspired
+  from biological systems and processes that have been perfected by evolution
+  3. Conceptualize novel engineering solutions for complex biological problems Contents Biology &
+  Engineering Approaches [3 lectures]: Observations; deductive, inductive and
+  abductive reasoning; hypothesis testing; reductionism; systems biology; modeling;
+  tinkering with biological systems; cause & effect; translational
+  research; attributes of a bioengineer Origin &
+  Evolution of Life [7 lectures]: Chemical basis of life, water sustains life,
+  biomolecules, biological macromolecules , unity in diversity among life
+  forms, phylogeny Functioning of
+  Biological Systems [8 lectures]: From organisms to cells , structure-function relationships, free energy, entropy,
+  reactions, biocatalysis, energy coupling, effects of process failure Probability in
+  life processes [7 lectures]: Storage of genetic information, central dogma
+  of biology, cell division, inheritance, genetic variation Control in
+  living systems [6 lectures]: Gene expression logic gates, control of cell
+  division, hormones, signals & receptors, feedback control, control
+  failure & disease Responses of
+  Biological systems [4 lectures]: Interactions, communication, stress responses,
+  tolerance, adaptation, rhythms & cycles, ecosystems Exploitation of
+  living systems [5 lectures]: Antibiotics, Recombinant DNA Technology ,
+  Biomaterials-bioplastics and materials for healthcare, Biodiesel and drop in
+  biofuels from algae. Laboratory Experiments Laboratory
+  safety and introduction to general laboratory practices, measuring liquids in
+  small volumes, solutions & buffer preparation, quantifying simple
+  biomolecules, stress response, selection, biocatalysis, separation of
+  biomolecules, microscopy. Textbook 1. Urry L.A.,
+  Cain M.L., Wasserman S.A., Minorsky P.V., Reece J.B., (2016), Campbell biology . 11 th Edition, Pearson. Reference Books 1. Glick B.J.,
+  Pasternak J.J., Patten C.L., (2010), Molecular
+  Biotechnology: Principles and Applications of Recombinant DNA , 4 th Edition, American Society for Microbiology. 2. Johnson A.T., (2010), Biology for Engineers , CRC Press Self Learning Material 1. Suraishkumar G.K., & Madhulika Dixit, Biology
+  for Engineers and other non-Biologists, NPTEL Course Material, Department
+  of Biotechnology, Indian Institute of Technology Madras, http://nptel.ac.in/courses/121106008/ 2. Vishal Trivedi, Basic
+  Biology , Department of Biotechnology, Indian Institute of Technology,
+  Guwahati, http://nptel.ac.in/courses/122103039/ 3. Vishal Trivedi, Fundamentals
+  of Biotechnology , Department of Biotechnology, Indian Institute of
+  Technology, Guwahati, http://nptel.ac.in/courses/102103045/ Title Communication Skill I Number HSN1010 Department Humanities and Social Sciences L-T-P [C] 0-0-2 [2] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives 1. Facilitate
+  students to gain language competence in order to communicate effectively in a
+  spectrum of contexts. 2. Focus on the
+  two basic skills of language learning, namely: Listening and Reading 3. Train the
+  student to employ the above skills in both personal and professional settings Learning Outcomes 1. Distinguish
+  between hearing and listening, and to understand listening as a skill of critical significance. Â 2. Engage effectively
+  in classroom situations and also with various texts, with useful reading
+  strategies 3. Integrate
+  classroom learning into an everyday communicative activity, thus making the
+  learning both reflective and experiential. Contents Listening: Barriers to Listening, Active
+  Listening, Listening and Speaking, Listening and Receiving, Listening and
+  Understanding, Listening and Responding, Listening and Remembering, Listening
+  and Paraphrasing, Listening and Reflecting, Listening to Pre-recorded audiovisual
+  aids, Listening to and comprehending audio-visual media including films,
+  radio programs, academic and/or public speeches. Reading: Introduction and application of
+  reading techniques, Comprehension, Types of reading including Scanning,
+  Skimming, Critical Reading and Speed Reading, exploration of
+  academic/journalistic/creative texts through various reading strategies. Laboratory Sessions: Will include individual and group activities
+  and hands on experiential learning modules 1) Â Â Workshop Session on Listening with Janaki
+  Sabesh (Storyteller, Theatre Resource Person, Voice Artiste from Golpo Tales Unlimited ) - 4 hours 2) Â Â Workshop on Reading, Review and Critical
+  Analysis (i) Â Â Â Â Â Â Â Â Â Film Screening
+  and Discussion - 4 hours (ii) Â Â Â Â Â Â Â Â Reading Books,
+  Newspaper Articles, Journals - 4 hours Textbook All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student. Reference Books 1. Bolton. D.
+  (2008). English Grammar in Steps:
+  English Grammar presented, explained and practiced in context. Orient
+  Longman. New Delhi: India 2. Wren PC,
+  Martin H. (2018) High School English
+  Grammar & Composition . Revised
+  by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT Books, New Delhi:
+  India. 3. Wren PC,
+  Martin H.(2018) Key to Regular
+  &Multicolor Edition of High School English Grammar &Composition.
+  Revised by N.D.V. Prasad Rao .S.Chand Publishing Blackie . ELT Books, New Delhi: India. 4. Hewings,
+  Martin (2008) Advanced Grammar in Use. Cambridge University Press. Self Learning Material 1. Iqbal, Ayesha. English Language for Competitive
+  Examinations .NPTEL Course Material, Department of Humanities and Social
+  Sciences, Indian Institute of Technology-Madras, Â https://nptel.ac.in/courses/109106116/ 2. Choudhary,
+  Shreesh. Better Spoken English. NPTEL Course Material, Department of Humanities and Social Sciences, Indian
+  Institute of Technology-Madras, https://nptel.ac.in/courses/109106067/ . Â Â Â Â Â Â Â Â Title Communication Skill II Number HSN1020 Department Humanities and Social
+  Sciences L-T-P [C] 0-0-2 [2] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives Facilitate
+       students to gain language competence in order to communicate effectively
+       in a spectrum of contexts. Focus on
+       the two basic skills of language learning, namely: Speaking and Writing. Train the
+       student to employ the above skills in both personal and professional
+       settings Learning Outcomes Speak more
+       efficiently and explore the act of writing as an active process. Articulate
+       with clarity and use better language, well-equipped for specific
+       situations. Integrate
+       classroom learning into an everyday communicative activity, thus making
+       the learning both reflective and experiential. Contents: Speaking: Modes of
+  Communication - Formal and Informal, Verbal and Non-verbal Communication,
+  Group Discussions, Mock Personal Interviews, Powerpoint presentations
+  (academic and professional/business), Body Language, Basic
+  Phonetics/Pronunciation, and Telephone Etiquette. Writing: Paragraph Writing,
+  Writing an Email, Note Making, Report Writing, Letter Writing, Reviewing
+  articles, Structuring academic/professional writing Grammar: Identifying
+  Common Errors in English, Use of Articles, Use of Prepositions, Tenses,
+  Spellings, Filling in Worksheets. Laboratory Sessions: Will include individual and group activities
+  and hands on experiential learning modules 1) Â Â Practice Workshop on Speaking (Group
+  Discussion, Personal Interview) - 4 hours 2) Â Â Writing Workshop (Essay, Creative
+  Nonfiction/Advertising, Storyboard, Journal Writing, Letter & Email
+  Writing) - 4 hours 3) Â Â Field Visit and Workshop (Photo Essay,
+  Report Writing) - 4 hours Â Textbook All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student. Reference Books 1. Bolton. D. (2008). English
+  Grammar in Steps: English Grammar presented, explained and practiced in
+  context. Orient Longman. New Delhi: India 2. Wren PC, Martin H. (2018) High School English Grammar & Composition . Revised by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT
+  Books, New Delhi: India. 3. Wren PC, Martin H.(2018) Key
+  to Regular &Multicolor Edition of High School English Grammar &
+  Composition. Revised by N.D.V. Prasad Rao .S. Chand Publishing Blackie . ELT Books, New Delhi: India. 4. Hewings, Martin (2008) Advanced Grammar in Use. Cambridge University Press. Self Learning Material 1. Iqbal, Ayesha. English Â Business English Communication . NPTEL Course Material, Department
+  of Humanities and Social Sciences, Indian Institute of Technology-Madras,
+  https://nptel.ac.in/noc/individual_course.php?id=noc18-hs18 2. Ravichandran T.
+  Communication Skills. NPTEL Course Material, Department of Humanities and
+  Social Sciences, Indian Institute of Technology- Kanpur,
+  https://nptel.ac.in/courses/109104031/ . Â Â Â Â Â Â Â Â Title Social Connect &
+  Responsibilities - I Social Connect &
+  Responsibilities - II Number OSN1010 OSN1020 Department Office
+  of Students L-T-P [C] 0 - 0 - 1 [1] Offered for B.Tech. 1 st Year Type Compulsory Prerequisite Nil Objectives The course will: 1. Provide a formal platform to students to
+  communicate and connect to the surrounding 2. Â Enable to create a responsible connect with
+  the society Learning Outcomes The students are expected to have the ability
+  to: 1. Understand
+  social responsibility 2. Practice
+  sustainability and creativity 3. Showcase
+  planning and organizational skills Contents The course is mainly
+  activity based that will offer a set of activities for the student that
+  enable them to connect with fellow human being, nature, Society and world at
+  large. The course will engage students for interactive sessions, open mic,
+  reading group, storytelling session and semester long activities conducted by
+  faculty mentors. In the following a set of activities planned for the course
+  have been listed: Â Â Â Plantation and
+  adoption of a tree: plantation of a tree that will be adopted for four years by a group
+  of B.tech students. They will also make an excerpt either as a documentary or
+  a photo blog describing the plant's origin, its usage in daily life, its
+  appearance in folklore and literature. Heritage walk
+  and crafts corner: Heritage
+  tour, knowing the history and culture of the city, connecting to people
+  around through their history, knowing the city and its craftsman, photo blog
+  and documentary on evolution and practice of various craft forms. Â Â Â Organic
+  farming and waste management: usefulness of organic farming, wet waste
+  management in neighboring villages and implementation in the campus Water
+  conservation: Â Knowing the present practices in the
+  surrounding villages and implementation in the campus, documentary or photo blog
+  presenting the current practices Food walk: City's culinary
+  practices, food lore and indigenous materials of the region used in cooking. Jamming
+  session, open mic and poetry: Platform to connect to others . Share life
+  stories with others Activities A total of 14 hrs
+  engagement per semester is required for the first year of the B.Tech program.
+  The students will be divided into 10 groups of 35 each. Each group will be
+  handled by two faculty mentors. Faculty mentors will design the activities.
+First Year B.Tech. Courses
+First Year B.Tech. Courses
+Applicable from A.Y. 2019-20
+Applicable from A.Y. 2019-20
+Engineering Mechanics
+Engineering Mechanics
+Engineering Mechanics
+Mechanical Engineering
+Mechanical Engineering
+Mechanical Engineering
+B.Tech. 1 st Year
+  (All branches)
+B.Tech. 1 st Year
+  (All branches)
+B.Tech. 1 st Year
+  (All branches)
+Objectives 1. To apply
+  knowledge of statics and dynamics to particles and rigid bodies Learning Outcomes 1. To
+  model practical structural problems using concepts of free body diagrams and
+  equilibrium conditions 2. To
+  solve dynamic problems using Newton's Law, Work-Energy and Impulse-Momentum
+  Principles Contents Statics [10
+  Lectures]: Basic dimensions in Mechanics, Law of dimensional homogeneity,
+  Vector and Scalar Quantities, Elements of vector algebra. Moment of a force
+  about a point/axis, Couple, Free Body Diagram, Equations of Equilibrium,
+  Static indeterminacy, Trusses and Beams, Coulomb Friction, Surface contact
+  friction, Transmission of power through belt. Pappus-Guldinus Theorems,
+  second moments and product of Area, Principal axes. Dynamics of
+  Particles [6 Lectures] : Kinematics of particles, Velocity and acceleration in terms of
+  path variables, simple relative motion, motion of particle relative to a pair
+  of translating axes Newton's laws of rectangular coordinates/rectilinear
+  translation, cylindrical coordinate/Central force motion. Conservation of Mechanical Energy,
+  Work-energy equations, Center of mass based Kinetic energy, Impulse and
+  Momentum relation of particles, Moment of momentum equations-single
+  particle/system of particles Dynamics of
+  Rigid bodies [12 Lectures]: Translation/Rotation of rigid bodies, Chasles'
+  theorem, time derivative of vector for different references. Parallel axis
+  theorems, Rotational Pure rotation of a body of revolution about its axis of
+  revolution/combined with translation. Three dimensional rotation, moment of
+  inertia tensor, relation between angular momentum and torque in three
+  dimensions, Motion in non-inertial frames, centrifugal force, Coriolis
+  force/acceleration, rate of change of vector in inertial and rotating frames. Reference Books 1. Shames, I.,
+  (2003), Engineering Mechanics ,
+  Prentice Hall 2. Gross, D., Hauger, W. and Schrder J., (2012), Engineering Mechanics , Springer 3. Meriam,
+  J. L., Kraige, L. G., (2002), Engineering
+  Mechanics , John Wiley & Sons 4. Harbola,
+  M K., (2013), Engineering Mechanics, CENGAGE Learning Self Learning Material 1. Harbola , M K., Engin eering
+  Mechanics, NPTEL Course Material, Department of Physics, Ind ian Institute of Technology Kanpur, https://nptel.ac.in/courses/115104094/ 2. Lewin, W. H. G,
+  Physics I: Classical Mechanics - Fall 1999, MIT,
+  http://videolectures.net/mit801f99_physics_classical_mechanics/
+1. To apply
+  knowledge of statics and dynamics to particles and rigid bodies
+To apply
+  knowledge of statics and dynamics to particles and rigid bodies
+1. To
+  model practical structural problems using concepts of free body diagrams and
+  equilibrium conditions
+To
+  model practical structural problems using concepts of free body diagrams and
+  equilibrium conditions
+2. To
+  solve dynamic problems using Newton's Law, Work-Energy and Impulse-Momentum
+  Principles
+To
+  solve dynamic problems using Newton's Law, Work-Energy and Impulse-Momentum
+  Principles
+Statics [10
+  Lectures]: Basic dimensions in Mechanics, Law of dimensional homogeneity,
+  Vector and Scalar Quantities, Elements of vector algebra. Moment of a force
+  about a point/axis, Couple, Free Body Diagram, Equations of Equilibrium,
+  Static indeterminacy, Trusses and Beams, Coulomb Friction, Surface contact
+  friction, Transmission of power through belt. Pappus-Guldinus Theorems,
+  second moments and product of Area, Principal axes.
+Statics [10
+  Lectures]:
+Basic dimensions in Mechanics, Law of dimensional homogeneity,
+  Vector and Scalar Quantities, Elements of vector algebra. Moment of a force
+  about a point/axis, Couple, Free Body Diagram, Equations of Equilibrium,
+  Static indeterminacy, Trusses and Beams, Coulomb Friction, Surface contact
+  friction, Transmission of power through belt. Pappus-Guldinus Theorems,
+  second moments and product of Area, Principal axes.
+Dynamics of
+  Particles [6 Lectures] : Kinematics of particles, Velocity and acceleration in terms of
+  path variables, simple relative motion, motion of particle relative to a pair
+  of translating axes Newton's laws of rectangular coordinates/rectilinear
+  translation, cylindrical coordinate/Central force motion. Conservation of Mechanical Energy,
+  Work-energy equations, Center of mass based Kinetic energy, Impulse and
+  Momentum relation of particles, Moment of momentum equations-single
+  particle/system of particles
+Dynamics of
+  Particles [6 Lectures]
+: Kinematics of particles, Velocity and acceleration in terms of
+  path variables, simple relative motion, motion of particle relative to a pair
+  of translating axes Newton's laws of rectangular coordinates/rectilinear
+  translation, cylindrical coordinate/Central force motion. Conservation of Mechanical Energy,
+  Work-energy equations, Center of mass based Kinetic energy, Impulse and
+  Momentum relation of particles, Moment of momentum equations-single
+  particle/system of particles
+Dynamics of
+  Rigid bodies [12 Lectures]: Translation/Rotation of rigid bodies, Chasles'
+  theorem, time derivative of vector for different references. Parallel axis
+  theorems, Rotational Pure rotation of a body of revolution about its axis of
+  revolution/combined with translation. Three dimensional rotation, moment of
+  inertia tensor, relation between angular momentum and torque in three
+  dimensions, Motion in non-inertial frames, centrifugal force, Coriolis
+  force/acceleration, rate of change of vector in inertial and rotating frames.
+Dynamics of
+  Rigid bodies [12 Lectures]:
+Translation/Rotation of rigid bodies, Chasles'
+  theorem, time derivative of vector for different references. Parallel axis
+  theorems, Rotational Pure rotation of a body of revolution about its axis of
+  revolution/combined with translation. Three dimensional rotation, moment of
+  inertia tensor, relation between angular momentum and torque in three
+  dimensions, Motion in non-inertial frames, centrifugal force, Coriolis
+  force/acceleration, rate of change of vector in inertial and rotating frames.
+1. Shames, I.,
+  (2003), Engineering Mechanics ,
+  Prentice Hall
+Shames, I.,
+  (2003), Engineering Mechanics ,
+  Prentice Hall
+2. Gross, D., Hauger, W. and Schrder J., (2012), Engineering Mechanics , Springer
+Gross, D., Hauger, W. and Schrder J., (2012), Engineering Mechanics , Springer
+3. Meriam,
+  J. L., Kraige, L. G., (2002), Engineering
+  Mechanics , John Wiley & Sons
+Meriam,
+  J. L., Kraige, L. G., (2002), Engineering
+  Mechanics , John Wiley & Sons
+4. Harbola,
+  M K., (2013), Engineering Mechanics, CENGAGE Learning
+Harbola,
+  M K., (2013), Engineering Mechanics, CENGAGE Learning
+Self Learning Material
+Self Learning Material
+1. Harbola , M K., Engin eering
+  Mechanics, NPTEL Course Material, Department of Physics, Ind ian Institute of Technology Kanpur, https://nptel.ac.in/courses/115104094/
+Harbola , M K., Engin eering
+  Mechanics, NPTEL Course Material, Department of Physics, Ind ian Institute of Technology Kanpur, https://nptel.ac.in/courses/115104094/
+ian Institute of Technology Kanpur,
+https://nptel.ac.in/courses/115104094/
+2. Lewin, W. H. G,
+  Physics I: Classical Mechanics - Fall 1999, MIT,
+  http://videolectures.net/mit801f99_physics_classical_mechanics/
+Lewin, W. H. G,
+  Physics I: Classical Mechanics - Fall 1999, MIT,
+  http://videolectures.net/mit801f99_physics_classical_mechanics/
+Engineering Visualization
+Engineering Visualization
+Engineering Visualization
+Mechanical Engineering
+Mechanical Engineering
+Mechanical Engineering
+B.Tech. 1 st Year (All
+  branches)
+B.Tech. 1 st Year (All
+  branches)
+B.Tech. 1 st Year (All
+  branches)
+Objectives 1. To inculcate
+  how to expresses ideas of technical nature with a pragmatic intention. 2. Helping
+  students understand the role of engineering graphics in a product design
+  process. Learning Outcomes 1. To distinguish
+  between the different types of projections and indicate the dimensions. 2. To visualize,
+  and communicate product design using graphics. Contents Module 1 [8 Labs] : Free hand
+  Sketching of engineering objects, Interpretation of drawings as a
+  visualisation and communication tool, Orthographic views, Isometric views,
+  Sectioning of Objects, Perspective Projection, Assembly drawing, Animation of
+  Assemblies, Computer-Aided Draughting Module 2 [2 Labs]: Circuits and
+  Electrical Engineering Drawings Module 3 [2 Labs]: Introduction to
+  Data Visualization tools, Introduction to AR/VR Reference Books 1. Luzzader, W. J.
+  and Duff, J. M., (2008), Fundamentals
+  of Engineering Drawing , Prentice Hall 2. Bhatt, N. D.,
+  (2002), Elementary Engineering Drawing ,
+  Charoter Publishing 3. Bethune, J. D.,
+  (2007), Engineering Graphics with
+  Autocad, Prentice Hall Self Learning Material 1. Robi, P.S. , Engineering Drawing, NPTEL Course Material, Department of
+  Metallurgical, Indian Institute of Technology Guwahati,
+  https://nptel.ac.in/courses/112103019/
+1. To inculcate
+  how to expresses ideas of technical nature with a pragmatic intention.
+To inculcate
+  how to expresses ideas of technical nature with a pragmatic intention.
+2. Helping
+  students understand the role of engineering graphics in a product design
+  process.
+Helping
+  students understand the role of engineering graphics in a product design
+  process.
+1. To distinguish
+  between the different types of projections and indicate the dimensions.
+To distinguish
+  between the different types of projections and indicate the dimensions.
+2. To visualize,
+  and communicate product design using graphics.
+To visualize,
+  and communicate product design using graphics.
+Module 1 [8 Labs] : Free hand
+  Sketching of engineering objects, Interpretation of drawings as a
+  visualisation and communication tool, Orthographic views, Isometric views,
+  Sectioning of Objects, Perspective Projection, Assembly drawing, Animation of
+  Assemblies, Computer-Aided Draughting
+: Free hand
+  Sketching of engineering objects, Interpretation of drawings as a
+  visualisation and communication tool, Orthographic views, Isometric views,
+  Sectioning of Objects, Perspective Projection, Assembly drawing, Animation of
+  Assemblies, Computer-Aided Draughting
+Module 2 [2 Labs]: Circuits and
+  Electrical Engineering Drawings
+Circuits and
+  Electrical Engineering Drawings
+Module 3 [2 Labs]: Introduction to
+  Data Visualization tools, Introduction to AR/VR
+Introduction to
+  Data Visualization tools, Introduction to AR/VR
+1. Luzzader, W. J.
+  and Duff, J. M., (2008), Fundamentals
+  of Engineering Drawing , Prentice Hall
+Luzzader, W. J.
+  and Duff, J. M., (2008), Fundamentals
+  of Engineering Drawing , Prentice Hall
+2. Bhatt, N. D.,
+  (2002), Elementary Engineering Drawing ,
+  Charoter Publishing
+Bhatt, N. D.,
+  (2002), Elementary Engineering Drawing ,
+  Charoter Publishing
+3. Bethune, J. D.,
+  (2007), Engineering Graphics with
+  Autocad, Prentice Hall
+Bethune, J. D.,
+  (2007), Engineering Graphics with
+  Autocad, Prentice Hall
+Self Learning Material
+Self Learning Material
+1. Robi, P.S. , Engineering Drawing, NPTEL Course Material, Department of
+  Metallurgical, Indian Institute of Technology Guwahati,
+  https://nptel.ac.in/courses/112103019/
+Robi, P.S. , Engineering Drawing, NPTEL Course Material, Department of
+  Metallurgical, Indian Institute of Technology Guwahati,
+  https://nptel.ac.in/courses/112103019/
+Engineering Realization
+Engineering Realization
+Engineering Realization
+Mechanical Engineering
+Mechanical Engineering
+Mechanical Engineering
+Objectives 1. To develop awareness about the process of materials selection and
+  manufacturing processes in product development 2. Appreciate the importance of working in multi-disciplinary team
+  for technology development problems Learning Outcomes 1. Basic understanding about engineering materials and manufacturing
+  processes along with their applications. 2. Appreciation of product development process by endeavouring hands-on-activities Contents: Module 1 [5 Labs] - Conventional
+  Manufacturing : Demonstration
+  of process flow in conventional manufacturing shops (4 exercises); Material
+  selection and structure-property-performance relationships (1 exercise) Module 2 [4 Labs] - Modern
+  Manufacturing: Modelling and Simulation, Demonstration of process chain from
+  design to realization of the prototype (1 exercise); Automation in
+  Manufacturing (1 exercise); CNC Machine Tools (1 exercise); Modern Inspection
+  techniques (1 exercise) Module 3 [3
+  Labs] : Working with embedded Hardware (1 exercise), Sensor Integration (1
+  exercise), DC Motor Control (1 exercise) Reference Books: 1. Degarmo, E. P.,
+  Kosher, R. A. and Black, J. T., Materials and Processes in Manufacturing, PHI 2. Kalpakjiam, S.
+  and Schmid, S., Manufacturing Engineering and Technology, Pearson Self Learning Material 1. http://web.mit.edu/2.810/www/lectures.html
+1. To develop awareness about the process of materials selection and
+  manufacturing processes in product development
+1. To develop awareness about the process of materials selection and
+  manufacturing processes in product development
+2. Appreciate the importance of working in multi-disciplinary team
+  for technology development problems
+2. Appreciate the importance of working in multi-disciplinary team
+  for technology development problems
+1. Basic understanding about engineering materials and manufacturing
+  processes along with their applications.
+1. Basic understanding about engineering materials and manufacturing
+  processes along with their applications.
+2. Appreciation of product development process by endeavouring hands-on-activities
+2. Appreciation of product development process by endeavouring hands-on-activities
+Module 1 [5 Labs] - Conventional
+  Manufacturing : Demonstration
+  of process flow in conventional manufacturing shops (4 exercises); Material
+  selection and structure-property-performance relationships (1 exercise)
+Module 1 [5 Labs] - Conventional
+  Manufacturing
+Demonstration
+  of process flow in conventional manufacturing shops (4 exercises); Material
+  selection and structure-property-performance relationships (1 exercise)
+Module 2 [4 Labs] - Modern
+  Manufacturing: Modelling and Simulation, Demonstration of process chain from
+  design to realization of the prototype (1 exercise); Automation in
+  Manufacturing (1 exercise); CNC Machine Tools (1 exercise); Modern Inspection
+  techniques (1 exercise)
+Module 2 [4 Labs] - Modern
+  Manufacturing:
+Modelling and Simulation, Demonstration of process chain from
+  design to realization of the prototype (1 exercise); Automation in
+  Manufacturing (1 exercise); CNC Machine Tools (1 exercise); Modern Inspection
+  techniques (1 exercise)
+Module 3 [3
+  Labs] : Working with embedded Hardware (1 exercise), Sensor Integration (1
+  exercise), DC Motor Control (1 exercise)
+3 [3
+  Labs] : Working with embedded Hardware (1 exercise), Sensor Integration (1
+  exercise), DC Motor Control (1 exercise)
+1. Degarmo, E. P.,
+  Kosher, R. A. and Black, J. T., Materials and Processes in Manufacturing, PHI
+Degarmo, E. P.,
+  Kosher, R. A. and Black, J. T., Materials and Processes in Manufacturing, PHI
+2. Kalpakjiam, S.
+  and Schmid, S., Manufacturing Engineering and Technology, Pearson
+Kalpakjiam, S.
+  and Schmid, S., Manufacturing Engineering and Technology, Pearson
+Self Learning Material
+Self Learning Material
+1. http://web.mit.edu/2.810/www/lectures.html
+http://web.mit.edu/2.810/www/lectures.html
+Engineering Design I
+Engineering Design I
+Engineering Design I
+B.Tech. 1 st Year (All
+  branches)
+B.Tech. 1 st Year (All
+  branches)
+B.Tech. 1 st Year (All
+  branches)
+Objectives 1. To design and
+  analysis of engineering problems and develop the ability to visualize the
+  solution. Learning Outcomes 1. Approach to
+  solve unstructured engineering design problems. Contents Engineering Design: Problem
+  Definition, Background research, Identifying Performance Specifications,
+  Ideation, Analysis of Design, Selection, Graphical Realization, Animation,
+  Case studies on design conceptualization Self Learning Material https://www.edx.org/course/design-thinking-for-leading-and-learning-0 https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/ https://www.coursera.org/courses?query=design%20thinking https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+1. To design and
+  analysis of engineering problems and develop the ability to visualize the
+  solution.
+To design and
+  analysis of engineering problems and develop the ability to visualize the
+  solution.
+1. Approach to
+  solve unstructured engineering design problems.
+Approach to
+  solve unstructured engineering design problems.
+Engineering Design: Problem
+  Definition, Background research, Identifying Performance Specifications,
+  Ideation, Analysis of Design, Selection, Graphical Realization, Animation,
+  Case studies on design conceptualization
+Problem
+  Definition, Background research, Identifying Performance Specifications,
+  Ideation, Analysis of Design, Selection, Graphical Realization, Animation,
+  Case studies on design conceptualization
+Self Learning Material
+Self Learning Material
+https://www.edx.org/course/design-thinking-for-leading-and-learning-0
+https://www.edx.org/course/design-thinking-for-leading-and-learning-0
+https://www.edx.org/course/design-thinking-for-leading-and-learning-0
+https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/
+https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/
+https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/
+https://www.coursera.org/courses?query=design%20thinking
+https://www.coursera.org/courses?query=design%20thinking
+https://www.coursera.org/courses?query=design%20thinking
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+Engineering Design II
+Engineering Design II
+Engineering Design II
+B.Tech. 1 st Year (All
+  branches)
+B.Tech. 1 st Year (All
+  branches)
+B.Tech. 1 st Year (All
+  branches)
+Objectives 1. Understand to
+  realizes conceptual design to a working prototype Learning Outcomes 1. Develop insight
+  to realize an engineering product Contents Product Realization: Selection of Materials,
+  Modelling and Simulation, Dimensioning and Tolerance, Prototyping, Prototype
+  Refinement, Integrating mechanical and electrical elements, controller
+  integration and programming, Case studies on design realization Self Learning Material https://www.edx.org/course/design-thinking-for-leading-and-learning-0 https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/ https://www.coursera.org/courses?query=design%20thinking https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+1. Understand to
+  realizes conceptual design to a working prototype
+Understand to
+  realizes conceptual design to a working prototype
+1. Develop insight
+  to realize an engineering product
+Develop insight
+  to realize an engineering product
+Product Realization: Selection of Materials,
+  Modelling and Simulation, Dimensioning and Tolerance, Prototyping, Prototype
+  Refinement, Integrating mechanical and electrical elements, controller
+  integration and programming, Case studies on design realization
+Product Realization:
+Selection of Materials,
+  Modelling and Simulation, Dimensioning and Tolerance, Prototyping, Prototype
+  Refinement, Integrating mechanical and electrical elements, controller
+  integration and programming, Case studies on design realization
+Self Learning Material
+Self Learning Material
+https://www.edx.org/course/design-thinking-for-leading-and-learning-0
+https://www.edx.org/course/design-thinking-for-leading-and-learning-0
+https://www.edx.org/course/design-thinking-for-leading-and-learning-0
+https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/
+https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/
+https://ocw.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/
+https://www.coursera.org/courses?query=design%20thinking
+https://www.coursera.org/courses?query=design%20thinking
+https://www.coursera.org/courses?query=design%20thinking
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
+Objectives 1. Train
+  the undergraduate students towards basic understanding of Mathematics. 2. Provide
+  student with sufficient knowledge in calculus, which can be used by the
+  students in their respective fields. 3. Enable
+  students to develop a working knowledge of central ideas of single and
+  multivariable calculus. Learning Outcomes 1. Impart knowledge of basic concepts like
+  Limit, Continuity, Differentiability, Maxima and Minima, Reimann Integration
+  and their applications. 2. Gain
+  strong understanding of Integration in higher dimension and Vector Calculus. 3. Improve their ability to think critically, to
+  analyze a problem and solve it using a wide array of tools. Contents Single variable
+  Calculus [17 Lectures] : [10 Lectures] Properties of Real
+  number system, Sequences and series of real numbers, review of limit,
+  Continuity and differentiability of functions, Rolle's theorem, Mean
+  value theorems and Taylor's theorem, Maxima, minima and curve tracing. [7 Lectures] Riemann integral,
+  Fundamental theorem of calculus, Application to length, area, volume, surface
+  area of revolution. Multivariable
+  Calculus [23 Lectures]: [7 Lectures] Functions of
+  Several Variables, Sequences, Limit, and continuity of functions of several
+  variables, Partial derivatives, Chain rule, Gradient, Directional Derivative
+  and differentiability, Taylors formula for functions from R 2 to R,
+  Tangent planes and normal, Maxima, minima, saddle points, Lagrange
+  multipliers, Total derivative of Functions from R n to R m ,
+  Jacobian matrix, sufficient condition for differentiability. [6 Lectures] Double and triple
+  integrals, Change of variables, Vector fields, Gradient, Curl and Divergence,
+  Curves. [10 Lectures] Line integrals and
+  their applications, Green's theorem and applications, Surfaces, Surface area,
+  Surface integrals, Divergence theorem, Stokes' theorem and applications. Text Books 1. Thomas,
+  G. B. & Finney, R. L., (1992), Calculus and Analytic Geometry, 9 th Edition, Addison Wesley Publishing Company 2. Ghorpade,
+  S. R. & Limaye, B. V., (2006), A Course in Calculus and Real Analysis, Springer Verlag 3. Ghorpade,
+  S. R. & Limaye, B. V., (2009), A Course in Multivarible Calculus and
+  Analysis, Springer Verlag Reference Books 1. Thomas Jr., G.B., Weir, M.D. and Hass, J.R., (2015), Thomas' Calculus,
+  Pearson Education. 2. Apostol, T.M., (2006), Calculus: Vol-1 and
+  Vol-2, John Wiley & Sons. 3. Ayers, F. and Mendelson, E. (2012) Schaum's
+  Outline of Calculus, McGraw Hill. Online Course Material 1. Dutta, J. (IIT
+  Kanpur) Calculus of One Real Variable, https://nptel.ac.in/courses/109104124/2 Gupta, S.K.
+  (IIT Roorkee) Multivariable Calculus, https://nptel.ac.in/courses/111107108/
+1. Train
+  the undergraduate students towards basic understanding of Mathematics.
+Train
+  the undergraduate students towards basic understanding of Mathematics.
+2. Provide
+  student with sufficient knowledge in calculus, which can be used by the
+  students in their respective fields.
+Provide
+  student with sufficient knowledge in calculus, which can be used by the
+  students in their respective fields.
+3. Enable
+  students to develop a working knowledge of central ideas of single and
+  multivariable calculus.
+Enable
+  students to develop a working knowledge of central ideas of single and
+  multivariable calculus.
+1. Impart knowledge of basic concepts like
+  Limit, Continuity, Differentiability, Maxima and Minima, Reimann Integration
+  and their applications.
+Impart knowledge of basic concepts like
+  Limit, Continuity, Differentiability, Maxima and Minima, Reimann Integration
+  and their applications.
+2. Gain
+  strong understanding of Integration in higher dimension and Vector Calculus.
+Gain
+  strong understanding of Integration in higher dimension and Vector Calculus.
+3. Improve their ability to think critically, to
+  analyze a problem and solve it using a wide array of tools.
+Improve their ability to think critically, to
+  analyze a problem and solve it using a wide array of tools.
+Single variable
+  Calculus [17 Lectures] :
+Single variable
+  Calculus
+[10 Lectures] Properties of Real
+  number system, Sequences and series of real numbers, review of limit,
+  Continuity and differentiability of functions, Rolle's theorem, Mean
+  value theorems and Taylor's theorem, Maxima, minima and curve tracing.
+Properties of Real
+  number system, Sequences and series of real numbers, review of limit,
+  Continuity and differentiability of functions, Rolle's theorem, Mean
+  value theorems and Taylor's theorem, Maxima, minima and curve tracing.
+[7 Lectures] Riemann integral,
+  Fundamental theorem of calculus, Application to length, area, volume, surface
+  area of revolution.
+Riemann integral,
+  Fundamental theorem of calculus, Application to length, area, volume, surface
+  area of revolution.
+Multivariable
+  Calculus [23 Lectures]:
+Multivariable
+  Calculus
+[7 Lectures] Functions of
+  Several Variables, Sequences, Limit, and continuity of functions of several
+  variables, Partial derivatives, Chain rule, Gradient, Directional Derivative
+  and differentiability, Taylors formula for functions from R 2 to R,
+  Tangent planes and normal, Maxima, minima, saddle points, Lagrange
+  multipliers, Total derivative of Functions from R n to R m ,
+  Jacobian matrix, sufficient condition for differentiability.
+Functions of
+  Several Variables, Sequences, Limit, and continuity of functions of several
+  variables, Partial derivatives, Chain rule, Gradient, Directional Derivative
+  and differentiability, Taylors formula for functions from R 2 to R,
+  Tangent planes and normal, Maxima, minima, saddle points, Lagrange
+  multipliers, Total derivative of Functions from R n to R m ,
+  Jacobian matrix, sufficient condition for differentiability.
+[6 Lectures] Double and triple
+  integrals, Change of variables, Vector fields, Gradient, Curl and Divergence,
+  Curves.
+Double and triple
+  integrals, Change of variables, Vector fields, Gradient, Curl and Divergence,
+  Curves.
+[10 Lectures] Line integrals and
+  their applications, Green's theorem and applications, Surfaces, Surface area,
+  Surface integrals, Divergence theorem, Stokes' theorem and applications.
+Line integrals and
+  their applications, Green's theorem and applications, Surfaces, Surface area,
+  Surface integrals, Divergence theorem, Stokes' theorem and applications.
+1. Thomas,
+  G. B. & Finney, R. L., (1992), Calculus and Analytic Geometry, 9 th Edition, Addison Wesley Publishing Company
+Thomas,
+  G. B. & Finney, R. L., (1992), Calculus and Analytic Geometry, 9 th Edition, Addison Wesley Publishing Company
+2. Ghorpade,
+  S. R. & Limaye, B. V., (2006), A Course in Calculus and Real Analysis, Springer Verlag
+Ghorpade,
+  S. R. & Limaye, B. V., (2006), A Course in Calculus and Real Analysis,
+3. Ghorpade,
+  S. R. & Limaye, B. V., (2009), A Course in Multivarible Calculus and
+  Analysis, Springer Verlag
+Ghorpade,
+  S. R. & Limaye, B. V., (2009), A Course in Multivarible Calculus and
+  Analysis,
+1. Thomas Jr., G.B., Weir, M.D. and Hass, J.R., (2015), Thomas' Calculus,
+  Pearson Education.
+1. Thomas Jr., G.B., Weir, M.D. and Hass, J.R., (2015), Thomas' Calculus,
+  Pearson Education.
+2. Apostol, T.M., (2006), Calculus: Vol-1 and
+  Vol-2, John Wiley & Sons.
+2. Apostol, T.M., (2006), Calculus: Vol-1 and
+  Vol-2, John Wiley & Sons.
+3. Ayers, F. and Mendelson, E. (2012) Schaum's
+  Outline of Calculus, McGraw Hill.
+3. Ayers, F. and Mendelson, E. (2012) Schaum's
+  Outline of Calculus, McGraw Hill.
+Online Course Material
+Online Course Material
+1. Dutta, J. (IIT
+  Kanpur) Calculus of One Real Variable, https://nptel.ac.in/courses/109104124/2
+Dutta, J. (IIT
+  Kanpur) Calculus of One Real Variable,
+https://nptel.ac.in/courses/109104124/2
+https://nptel.ac.in/courses/109104124/2
+Gupta, S.K.
+  (IIT Roorkee) Multivariable Calculus, https://nptel.ac.in/courses/111107108/
+Gupta, S.K.
+  (IIT Roorkee) Multivariable Calculus,
+Multivariable Calculus,
+https://nptel.ac.in/courses/111107108/
+https://nptel.ac.in/courses/111107108/
+Objectives The Instructor will: 1. Provide
+  understanding of fundamentals of Linear Algebra. 2. Provide
+  understanding of fundamentals of Differential Equations. Learning Outcomes The students are expected to have the ability
+  to: 1. Impart
+  knowledge of different structures and their properties like, Dependence,
+  Basis and Dimension. 2. Gain
+  strong understanding of linear transformations between structures and its
+  relation with matrices. 3. Solving
+  analytical and series solution for ordinary differential equations and
+  analyzing the stability of linear ODE systems. Contents Linear
+  Algebra (20 Lectures): [10 Lectures] Matrices, Vector
+  spaces (over the field of real and complex numbers), subspaces, linear
+  dependence/ independence, basis, dimensions, coordinate with respect to a
+  basis, complementary subspaces, Linear transformations, Range space and rank,
+  Null space and nullity, matrix representation of linear transformation,
+  change of basis and similarity, rank-nullity theorem. [10 Lectures] Inner product,
+  Norm, Gram-Schmidt orthogonlization process, orthonormal bases. Eigenvalues
+  and eigenvectors, characteristic polynomials, Cayley-Hamilton theorem,
+  properties of eigenvalues and eigenvectors, diagonalization of matrices. Differential
+  Equations (20 Lectures): [8
+  Lectures] First Order Ordinary Differential Equations:
+  Geometrical interpretation of solution, Solution methods for separable
+  equations, Exact equations, Linear equations, Existence and uniqueness of
+  solution of IVP, Wronskian and general solution of nonhomogeneous equations,
+  Picards Theorem for IVP (without proof). Second Order Linear differential
+  equations: General solution of homogeneous equation, Euler-Cauchy Equation,
+  Extensions of the results to higher order linear differential equations. [12 Lectures] Power Series
+  Method, Frobenius Method, S.L.P and orthogonal functions, System of first
+  order linear ODE and its stability. Textbook 1. Axler,
+  S., (1997), Linear Algebra Done Right (Undergraduate Texts in Mathematics),
+  Springer. 2. Kreyszig,
+  E., (2010), Advanced Engineering Mathematics, John Wiley & Sons 3. Simmons,
+  G.F., (2002), Differential Equations with applications and Historical Notes,
+  Tata McGraw Hill. 4. Boyce,
+  W.E. and DiPrima, R.C., (2006) Elementary Differential Equations and Boundary
+  Value Problems, John Wiley & Sons. Reference Books 1. Strang,
+  G., (2006), Linear Algebra and its Applications, Thomson, Brooks/Cole. 2. Kumaresan,
+  S., (2000) Linear Algebra - A Geometric Approach, PHI Learning. 3. Coddington,
+  E.A., (1961), An introduction to ordinary differential equations,
+  Prentice-Hall. 4. Lipschutz,
+  S. and Lipson, M. (2012) Schaum's Outline of Linear Algebra, McGraw Hill. 5. Bronson,
+  R. and Costa, G. (2010) Schaum's Outline of Differential Equations, McGraw
+  Hill. Online course Material 1. Rana, I.K. (IIT Bombay), Basic Linear
+  Algebra, https://nptel.ac.in/courses/111101115/ Manam,
+  S. (IIT Madras), Differential Equations for Engineers, https://nptel.ac.in/courses/111106100/1
+The Instructor will:
+The Instructor will:
+1. Provide
+  understanding of fundamentals of Linear Algebra.
+Provide
+  understanding of fundamentals of Linear Algebra.
+2. Provide
+  understanding of fundamentals of Differential Equations.
+Provide
+  understanding of fundamentals of Differential Equations.
+The students are expected to have the ability
+  to:
+The students are expected to have the ability
+  to:
+1. Impart
+  knowledge of different structures and their properties like, Dependence,
+  Basis and Dimension.
+Impart
+  knowledge of different structures and their properties like, Dependence,
+  Basis and Dimension.
+2. Gain
+  strong understanding of linear transformations between structures and its
+  relation with matrices.
+Gain
+  strong understanding of linear transformations between structures and its
+  relation with matrices.
+3. Solving
+  analytical and series solution for ordinary differential equations and
+  analyzing the stability of linear ODE systems.
+Solving
+  analytical and series solution for ordinary differential equations and
+  analyzing the stability of linear ODE systems.
+Linear
+  Algebra (20 Lectures):
+[10 Lectures] Matrices, Vector
+  spaces (over the field of real and complex numbers), subspaces, linear
+  dependence/ independence, basis, dimensions, coordinate with respect to a
+  basis, complementary subspaces, Linear transformations, Range space and rank,
+  Null space and nullity, matrix representation of linear transformation,
+  change of basis and similarity, rank-nullity theorem.
+Matrices, Vector
+  spaces (over the field of real and complex numbers), subspaces, linear
+  dependence/ independence, basis, dimensions, coordinate with respect to a
+  basis, complementary subspaces, Linear transformations, Range space and rank,
+  Null space and nullity, matrix representation of linear transformation,
+  change of basis and similarity, rank-nullity theorem.
+[10 Lectures] Inner product,
+  Norm, Gram-Schmidt orthogonlization process, orthonormal bases. Eigenvalues
+  and eigenvectors, characteristic polynomials, Cayley-Hamilton theorem,
+  properties of eigenvalues and eigenvectors, diagonalization of matrices.
+Inner product,
+  Norm, Gram-Schmidt orthogonlization process, orthonormal bases. Eigenvalues
+  and eigenvectors, characteristic polynomials, Cayley-Hamilton theorem,
+  properties of eigenvalues and eigenvectors, diagonalization of matrices.
+Differential
+  Equations (20 Lectures):
+Differential
+  Equations
+[8
+  Lectures] First Order Ordinary Differential Equations:
+  Geometrical interpretation of solution, Solution methods for separable
+  equations, Exact equations, Linear equations, Existence and uniqueness of
+  solution of IVP, Wronskian and general solution of nonhomogeneous equations,
+  Picards Theorem for IVP (without proof). Second Order Linear differential
+  equations: General solution of homogeneous equation, Euler-Cauchy Equation,
+  Extensions of the results to higher order linear differential equations.
+First Order Ordinary Differential Equations:
+  Geometrical interpretation of solution, Solution methods for separable
+  equations, Exact equations, Linear equations, Existence and uniqueness of
+  solution of IVP, Wronskian and general solution of nonhomogeneous equations,
+  Picards Theorem for IVP (without proof). Second Order Linear differential
+  equations: General solution of homogeneous equation, Euler-Cauchy Equation,
+  Extensions of the results to higher order linear differential equations.
+[12 Lectures] Power Series
+  Method, Frobenius Method, S.L.P and orthogonal functions, System of first
+  order linear ODE and its stability.
+Power Series
+  Method, Frobenius Method, S.L.P and orthogonal functions, System of first
+  order linear ODE and its stability.
+1. Axler,
+  S., (1997), Linear Algebra Done Right (Undergraduate Texts in Mathematics),
+  Springer.
+Axler,
+  S., (1997), Linear Algebra Done Right (Undergraduate Texts in Mathematics),
+  Springer.
+2. Kreyszig,
+  E., (2010), Advanced Engineering Mathematics, John Wiley & Sons
+Kreyszig,
+  E., (2010), Advanced Engineering Mathematics, John Wiley & Sons
+3. Simmons,
+  G.F., (2002), Differential Equations with applications and Historical Notes,
+  Tata McGraw Hill.
+Simmons,
+  G.F., (2002), Differential Equations with applications and Historical Notes,
+  Tata McGraw Hill.
+4. Boyce,
+  W.E. and DiPrima, R.C., (2006) Elementary Differential Equations and Boundary
+  Value Problems, John Wiley & Sons.
+Boyce,
+  W.E. and DiPrima, R.C., (2006) Elementary Differential Equations and Boundary
+  Value Problems, John Wiley & Sons.
+1. Strang,
+  G., (2006), Linear Algebra and its Applications, Thomson, Brooks/Cole.
+Strang,
+  G., (2006), Linear Algebra and its Applications, Thomson, Brooks/Cole.
+2. Kumaresan,
+  S., (2000) Linear Algebra - A Geometric Approach, PHI Learning.
+Kumaresan,
+  S., (2000) Linear Algebra - A Geometric Approach, PHI Learning.
+3. Coddington,
+  E.A., (1961), An introduction to ordinary differential equations,
+  Prentice-Hall.
+Coddington,
+  E.A., (1961), An introduction to ordinary differential equations,
+  Prentice-Hall.
+4. Lipschutz,
+  S. and Lipson, M. (2012) Schaum's Outline of Linear Algebra, McGraw Hill.
+Lipschutz,
+  S. and Lipson, M. (2012) Schaum's Outline of Linear Algebra, McGraw Hill.
+5. Bronson,
+  R. and Costa, G. (2010) Schaum's Outline of Differential Equations, McGraw
+  Hill.
+Bronson,
+  R. and Costa, G. (2010) Schaum's Outline of Differential Equations, McGraw
+  Hill.
+Online course Material
+Online course Material
+1. Rana, I.K. (IIT Bombay), Basic Linear
+  Algebra, https://nptel.ac.in/courses/111101115/
+Rana, I.K. (IIT Bombay), Basic Linear
+  Algebra,
+https://nptel.ac.in/courses/111101115/
+https://nptel.ac.in/courses/111101115/
+Manam,
+  S. (IIT Madras), Differential Equations for Engineers, https://nptel.ac.in/courses/111106100/1
+Manam,
+  S. (IIT Madras), Differential Equations for Engineers,
+https://nptel.ac.in/courses/111106100/1
+https://nptel.ac.in/courses/111106100/1
+Electromagnetism and Optics
+Electromagnetism and Optics
+Electromagnetism and Optics
+Electromagnetism
+  and Optics
+Electromagnetism
+  and Optics
+Electromagnetism
+  and Optics
+Objectives 1. Provide an understanding of
+  electric and magnetic field distribution and electromagnetic nature of
+  radiation 2. Provide an understanding of wave propagation
+  in different media Learning Outcomes 1. Relate theoretical concepts
+  with problem solving approach in electromagnetism and optics 2. Solve field distribution in
+  vacuum, conducting and dielectric systems Contents ELECTROMAGNETISM: Electrostatics
+  [10 Lectures]: Calculus of Fields, Coulomb's law, Gauss's theorem, electrostatic
+  potential, Laplace's equation, conductors, capacitors and dielectrics,
+  boundary conditions Magnetostatics[7
+  Lectures]: Biot-Savart's law, Ampère circuital law, Lorentz force, magnetism Magnetic
+  Induction [5 Lectures]: Faraday's law, Lenz's law, self and mutual inductance, energy stored
+  in magnetic field, boundary conditions Electrodynamics[8
+  Lectures]: displacement current, electromagnetic waves, plane wave solutions of
+  Maxwell's equations, Poynting vector, Maxwell's equations in conductors and
+  dielectrics, introduction to waveguides OPTICS: Wave Nature of
+  Light [12 Lectures]: interference; Fresnel and Fraunhoffer diffraction; ordinary and
+  extraordinary rays; plane, circular and elliptically polarized light;
+  birefringence; half wave plates; introduction to optical microscopy:
+  polarization, phase contrast and confocal microscopy Textbook 1. Ghatak, A.K., (2017), Optics , 6 th Edition, McGraw
+  Hill Education India 2. Griffiths, D.J., (2015), Introduction to Electrodynamics , 4 th Edition, Pearson Education India Reference Books 1. Ida, N., (2015), Engineering Electromagnetics, 3 rd Edition,
+  Springer Nature 2. Hecht, E., (2017), Optics (Schaum's Outline Series) ,
+  McGraw Hill Education India 3. Born, M. and Wolf, E., (1999), Principles of Optics:
+  Electromagnetic Theory of Propagation, Interference and Diffraction of Light,
+  7 th Edition, Cambridge University Press. Self Learning Material 1. Ghosh,
+  D.K., Electromagnetic Theory ,
+  Department of Physics, Indian Institute of Technology Bombay,
+  https://nptel.ac.in/courses/115101005/ 2. Electricity and Magnetism , Department of Physics, Massachusetts
+  Institute of Technology, MIT OpenCourseWare, Course Number 8.02, (Spring
+  2007).:
+  https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/#, License: Creative Commons BY-NC-SA.
+1. Provide an understanding of
+  electric and magnetic field distribution and electromagnetic nature of
+  radiation
+1. Provide an understanding of
+  electric and magnetic field distribution and electromagnetic nature of
+  radiation
+2. Provide an understanding of wave propagation
+  in different media
+2. Provide an understanding of wave propagation
+  in different media
+1. Relate theoretical concepts
+  with problem solving approach in electromagnetism and optics
+1. Relate theoretical concepts
+  with problem solving approach in electromagnetism and optics
+2. Solve field distribution in
+  vacuum, conducting and dielectric systems
+2. Solve field distribution in
+  vacuum, conducting and dielectric systems
+Electrostatics
+  [10 Lectures]: Calculus of Fields, Coulomb's law, Gauss's theorem, electrostatic
+  potential, Laplace's equation, conductors, capacitors and dielectrics,
+  boundary conditions
+Electrostatics
+  [10 Lectures]:
+Calculus of Fields, Coulomb's law, Gauss's theorem, electrostatic
+  potential, Laplace's equation, conductors, capacitors and dielectrics,
+  boundary conditions
+Magnetostatics[7
+  Lectures]: Biot-Savart's law, Ampère circuital law, Lorentz force, magnetism
+Magnetostatics[7
+  Lectures]:
+Biot-Savart's law, Ampère circuital law, Lorentz force, magnetism
+Magnetic
+  Induction [5 Lectures]: Faraday's law, Lenz's law, self and mutual inductance, energy stored
+  in magnetic field, boundary conditions
+Magnetic
+  Induction [5 Lectures]:
+Faraday's law, Lenz's law, self and mutual inductance, energy stored
+  in magnetic field, boundary conditions
+Electrodynamics[8
+  Lectures]: displacement current, electromagnetic waves, plane wave solutions of
+  Maxwell's equations, Poynting vector, Maxwell's equations in conductors and
+  dielectrics, introduction to waveguides
+Electrodynamics[8
+  Lectures]:
+displacement current, electromagnetic waves, plane wave solutions of
+  Maxwell's equations, Poynting vector, Maxwell's equations in conductors and
+  dielectrics, introduction to waveguides
+Wave Nature of
+  Light [12 Lectures]: interference; Fresnel and Fraunhoffer diffraction; ordinary and
+  extraordinary rays; plane, circular and elliptically polarized light;
+  birefringence; half wave plates; introduction to optical microscopy:
+  polarization, phase contrast and confocal microscopy
+Wave Nature of
+  Light [12 Lectures]:
+interference; Fresnel and Fraunhoffer diffraction; ordinary and
+  extraordinary rays; plane, circular and elliptically polarized light;
+  birefringence; half wave plates; introduction to optical microscopy:
+  polarization, phase contrast and confocal microscopy
+1. Ghatak, A.K., (2017), Optics , 6 th Edition, McGraw
+  Hill Education India
+1. Ghatak, A.K., (2017), Optics , 6 th Edition, McGraw
+  Hill Education India
+2. Griffiths, D.J., (2015), Introduction to Electrodynamics , 4 th Edition, Pearson Education India
+2. Griffiths, D.J., (2015), Introduction to Electrodynamics , 4 th Edition, Pearson Education India
+1. Ida, N., (2015), Engineering Electromagnetics, 3 rd Edition,
+  Springer Nature
+1. Ida, N., (2015), Engineering Electromagnetics, 3 rd Edition,
+  Springer Nature
+2. Hecht, E., (2017), Optics (Schaum's Outline Series) ,
+  McGraw Hill Education India
+2. Hecht, E., (2017), Optics (Schaum's Outline Series) ,
+  McGraw Hill Education India
+3. Born, M. and Wolf, E., (1999), Principles of Optics:
+  Electromagnetic Theory of Propagation, Interference and Diffraction of Light,
+  7 th Edition, Cambridge University Press.
+3. Born, M. and Wolf, E., (1999), Principles of Optics:
+  Electromagnetic Theory of Propagation, Interference and Diffraction of Light,
+  7 th Edition, Cambridge University Press.
+Self Learning Material
+Self Learning Material
+1. Ghosh,
+  D.K., Electromagnetic Theory ,
+  Department of Physics, Indian Institute of Technology Bombay,
+  https://nptel.ac.in/courses/115101005/
+1. Ghosh,
+  D.K., Electromagnetic Theory ,
+  Department of Physics, Indian Institute of Technology Bombay,
+  https://nptel.ac.in/courses/115101005/
+2. Electricity and Magnetism , Department of Physics, Massachusetts
+  Institute of Technology, MIT OpenCourseWare, Course Number 8.02, (Spring
+  2007).:
+  https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/#, License: Creative Commons BY-NC-SA.
+2. Electricity and Magnetism , Department of Physics, Massachusetts
+  Institute of Technology, MIT OpenCourseWare, Course Number 8.02, (Spring
+  2007).:
+  https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/#, License: Creative Commons BY-NC-SA.
+Objectives Provide understanding on usage of
+       electrical, mechanical and optical systems for various measurements. Provide understanding on applying
+       analytical techniques, error estimation and graphical analysis to the
+       experimental data. Learning Outcomes Understand interplay of
+       electricity, magnetism and light Develop idea of linear, rotational
+       and vibrational motion and mechanics Contents Laboratory
+  Experiments e/m ratio: Determination of
+       charge-to-mass ratio of a charged particle Basic current balance:
+       Understanding electromagnetic forces Dispersive power: Measuring the
+       dispersive power of a prism using spectrometer Diffraction of light wave:
+       Examining the diffraction and interference pattern using single slit and
+       double slits Fresnel bi-prism: Determination of
+       wavelength of monochromatic light source Newton's rings: Study of Newton's
+       rings in thin air-film Hall effect: Determination of charge
+       carrier density Faraday rotation: Studying the
+       effect of a magnetic field on the transmission of a linearly polarized
+       light Air Track and Friction Experiments Moment of Inertia of Flywheel Vibration of string Text Books 1. Electromagnetism and Optics Laboratory Manual, Indian Institute of
+  Technology Jodhpur. Reference Books 1. Shukla, R.K. and Srivastava, A., (2006), Practical Physics , New Age International
+Provide understanding on usage of
+       electrical, mechanical and optical systems for various measurements. Provide understanding on applying
+       analytical techniques, error estimation and graphical analysis to the
+       experimental data.
+Provide understanding on usage of
+       electrical, mechanical and optical systems for various measurements.
+Provide understanding on usage of
+       electrical, mechanical and optical systems for various measurements.
+Provide understanding on applying
+       analytical techniques, error estimation and graphical analysis to the
+       experimental data.
+Provide understanding on applying
+       analytical techniques, error estimation and graphical analysis to the
+       experimental data.
+Understand interplay of
+       electricity, magnetism and light Develop idea of linear, rotational
+       and vibrational motion and mechanics
+Understand interplay of
+       electricity, magnetism and light
+Understand interplay of
+       electricity, magnetism and light
+Develop idea of linear, rotational
+       and vibrational motion and mechanics
+Develop idea of linear, rotational
+       and vibrational motion and mechanics
+Laboratory
+  Experiments
+Laboratory
+  Experiments
+e/m ratio: Determination of
+       charge-to-mass ratio of a charged particle Basic current balance:
+       Understanding electromagnetic forces Dispersive power: Measuring the
+       dispersive power of a prism using spectrometer Diffraction of light wave:
+       Examining the diffraction and interference pattern using single slit and
+       double slits Fresnel bi-prism: Determination of
+       wavelength of monochromatic light source Newton's rings: Study of Newton's
+       rings in thin air-film Hall effect: Determination of charge
+       carrier density Faraday rotation: Studying the
+       effect of a magnetic field on the transmission of a linearly polarized
+       light Air Track and Friction Experiments Moment of Inertia of Flywheel Vibration of string
+e/m ratio: Determination of
+       charge-to-mass ratio of a charged particle
+e/m ratio: Determination of
+       charge-to-mass ratio of a charged particle
+Basic current balance:
+       Understanding electromagnetic forces
+Basic current balance:
+       Understanding electromagnetic forces
+Dispersive power: Measuring the
+       dispersive power of a prism using spectrometer
+Dispersive power: Measuring the
+       dispersive power of a prism using spectrometer
+Diffraction of light wave:
+       Examining the diffraction and interference pattern using single slit and
+       double slits
+Diffraction of light wave:
+       Examining the diffraction and interference pattern using single slit and
+       double slits
+Fresnel bi-prism: Determination of
+       wavelength of monochromatic light source
+Fresnel bi-prism: Determination of
+       wavelength of monochromatic light source
+Newton's rings: Study of Newton's
+       rings in thin air-film
+Newton's rings: Study of Newton's
+       rings in thin air-film
+Hall effect: Determination of charge
+       carrier density
+Hall effect: Determination of charge
+       carrier density
+Faraday rotation: Studying the
+       effect of a magnetic field on the transmission of a linearly polarized
+       light
+Faraday rotation: Studying the
+       effect of a magnetic field on the transmission of a linearly polarized
+       light
+Air Track and Friction Experiments
+Air Track and Friction Experiments
+Moment of Inertia of Flywheel
+Moment of Inertia of Flywheel
+1. Electromagnetism and Optics Laboratory Manual, Indian Institute of
+  Technology
+1. Electromagnetism and Optics Laboratory Manual, Indian Institute of
+  Technology
+1. Shukla, R.K. and Srivastava, A., (2006), Practical Physics , New Age International
+Shukla, R.K. and Srivastava, A., (2006), Practical Physics , New Age International
+Objectives 1. Relate the
+  fundamental principles of chemistry with practical problems encountered for
+  engineers and place the emphasis on problem-solving 2. Provide
+  knowledge of engineering materials metals, composites, polymers, cement,
+  steel, fuels, batteries and drugs. Learning
+  Outcomes Understanding the behavior of matter and materials
+       using fundamental knowledge of their nature. Understanding the basic concepts
+       and implementation of the same in advanced and interdisciplinary areas. Predict
+       potential complications from combining various chemicals or metals in an
+       engineering setting. Contents Atomic and
+  Molecular Structure [6 Lectures] : particle in a box, angular momentum,
+  wavefunction, multielectron atoms, homonuclear and heteronuclear diatomic
+  molecules, non-covalent interactions Solid State
+  Chemistry [6 Lectures] : Lattice and Unit Cells, X-Ray Diffraction, Bands in solids, semiconductors,
+  Introduction to nanomaterials based on dimensionality and properties. Surface Chemistry[3 Lectures] : Surfaces and
+  interfaces, surface modification, surface energy, contact angle and surface
+  tension. Electrochemical
+  Systems [5 Lectures]: Electrochemical cells and EMF, Applications of EMF measurements: Steady state approximation, Chain reactions, photochemical kinetics, Fuel Cells and
+  Batteries, OER and HER reactions, Corrosion Basic
+  Spectroscopy [7 Lectures] : Selection Rules, Fundamentals FTIR, Raman , UV-visible and
+  Fluorescence spectroscopy Transition
+  Metal Chemistry [5 Lectures] : Colors in Complexes, Organometallics and
+  Catalysis, Bioinorganic Chemistry Organic
+  Chemistry [8 Lectures]: Name Reactions, Stereochemistry and their
+  Applications, Acid-Base Chemistry, Use of Buffers, Organic Chemistry examples
+  such as polymers and biopolymers, drugs and photoactive molecules in everyday
+  life and advanced technologies. Textbooks Silberberg,
+       M., Chemistry: The Molecular
+       Nature of Matter and Change , 6 th Edition, McGraw Hill
+       Education. West,
+       A.R., (2015), Solid State
+       Chemistry and Its Applications , 2 nd edition, John Wiley
+       & Sons. J. D. Lee,
+       Concise Inorganic Chemistry, 5 th Edition. Atkins,
+       Physical Chemistry, 11 th Edition. Reference Books McMurry,
+       J. E. & Fay, R. C. Chemistry ,
+       5 th Edition, Pearson. Jonathan
+       Clayden, Nick Greeves, Stuart Warren, Organic Chemistry, 2nd
+       Edition. F. Albert
+       Cotton, Geoffrey Wilkinson, Basic Inorganic Chemistry, Wiley
+       Student Edition. Self Learning Material 1. https://nptel.ac.in/downloads/122101001/
+1. Relate the
+  fundamental principles of chemistry with practical problems encountered for
+  engineers and place the emphasis on problem-solving
+Relate the
+  fundamental principles of chemistry with practical problems encountered for
+  engineers and place the emphasis on problem-solving
+2. Provide
+  knowledge of engineering materials metals, composites, polymers, cement,
+  steel, fuels, batteries and drugs.
+Provide
+  knowledge of engineering materials metals, composites, polymers, cement,
+  steel, fuels, batteries and drugs.
+Learning
+  Outcomes
+Learning
+  Outcomes
+Understanding the behavior of matter and materials
+       using fundamental knowledge of their nature.
+Understanding the behavior of matter and materials
+       using fundamental knowledge of their nature.
+Understanding the basic concepts
+       and implementation of the same in advanced and interdisciplinary areas.
+Understanding the basic concepts
+       and implementation of the same in advanced and interdisciplinary areas.
+Predict
+       potential complications from combining various chemicals or metals in an
+       engineering setting.
+Predict
+       potential complications from combining various chemicals or metals in an
+       engineering setting.
+Atomic and
+  Molecular Structure [6 Lectures] : particle in a box, angular momentum,
+  wavefunction, multielectron atoms, homonuclear and heteronuclear diatomic
+  molecules, non-covalent interactions
+Atomic and
+  Molecular Structure [6 Lectures]
+: particle in a box, angular momentum,
+  wavefunction, multielectron atoms, homonuclear and heteronuclear diatomic
+  molecules, non-covalent interactions
+Solid State
+  Chemistry [6 Lectures] : Lattice and Unit Cells, X-Ray Diffraction, Bands in solids, semiconductors,
+  Introduction to nanomaterials based on dimensionality and properties.
+Solid State
+  Chemistry [6 Lectures]
+: Lattice and Unit Cells, X-Ray Diffraction, Bands in solids, semiconductors,
+  Introduction to nanomaterials based on dimensionality and properties.
+Surface Chemistry[3 Lectures] : Surfaces and
+  interfaces, surface modification, surface energy, contact angle and surface
+  tension.
+Surface Chemistry[3 Lectures]
+: Surfaces and
+  interfaces, surface modification, surface energy, contact angle and surface
+  tension.
+Electrochemical
+  Systems [5 Lectures]: Electrochemical cells and EMF, Applications of EMF measurements: Steady state approximation, Chain reactions, photochemical kinetics, Fuel Cells and
+  Batteries, OER and HER reactions, Corrosion
+Electrochemical
+  Systems [5 Lectures]:
+Electrochemical cells and EMF, Applications of EMF measurements: Steady state approximation, Chain reactions, photochemical kinetics, Fuel Cells and
+  Batteries, OER and HER reactions, Corrosion
+Basic
+  Spectroscopy [7 Lectures] : Selection Rules, Fundamentals FTIR, Raman , UV-visible and
+  Fluorescence spectroscopy
+Basic
+  Spectroscopy [7 Lectures]
+: Selection Rules, Fundamentals FTIR, Raman , UV-visible and
+  Fluorescence spectroscopy
+Transition
+  Metal Chemistry [5 Lectures] : Colors in Complexes, Organometallics and
+  Catalysis, Bioinorganic Chemistry
+Transition
+  Metal Chemistry [5 Lectures]
+: Colors in Complexes, Organometallics and
+  Catalysis, Bioinorganic Chemistry
+Organic
+  Chemistry [8 Lectures]: Name Reactions, Stereochemistry and their
+  Applications, Acid-Base Chemistry, Use of Buffers, Organic Chemistry examples
+  such as polymers and biopolymers, drugs and photoactive molecules in everyday
+  life and advanced technologies.
+Organic
+  Chemistry [8 Lectures]: Name
+Reactions, Stereochemistry and their
+  Applications, Acid-Base Chemistry, Use of Buffers, Organic Chemistry examples
+  such as polymers and biopolymers, drugs and photoactive molecules in everyday
+  life and advanced technologies.
+Silberberg,
+       M., Chemistry: The Molecular
+       Nature of Matter and Change , 6 th Edition, McGraw Hill
+       Education.
+Silberberg,
+       M., Chemistry: The Molecular
+       Nature of Matter and Change , 6 th Edition, McGraw Hill
+       Education.
+West,
+       A.R., (2015), Solid State
+       Chemistry and Its Applications , 2 nd edition, John Wiley
+       & Sons.
+West,
+       A.R., (2015), Solid State
+       Chemistry and Its Applications , 2 nd edition, John Wiley
+       & Sons.
+J. D. Lee,
+       Concise Inorganic Chemistry, 5 th Edition.
+J. D. Lee,
+       Concise Inorganic Chemistry, 5 th Edition.
+Atkins,
+       Physical Chemistry, 11 th Edition.
+Atkins,
+       Physical Chemistry, 11 th Edition.
+McMurry,
+       J. E. & Fay, R. C. Chemistry ,
+       5 th Edition, Pearson.
+McMurry,
+       J. E. & Fay, R. C. Chemistry ,
+       5 th Edition, Pearson.
+Jonathan
+       Clayden, Nick Greeves, Stuart Warren, Organic Chemistry, 2nd
+       Edition.
+Jonathan
+       Clayden, Nick Greeves, Stuart Warren, Organic Chemistry, 2nd
+       Edition.
+F. Albert
+       Cotton, Geoffrey Wilkinson, Basic Inorganic Chemistry, Wiley
+       Student Edition.
+F. Albert
+       Cotton, Geoffrey Wilkinson, Basic Inorganic Chemistry, Wiley
+       Student Edition.
+Self Learning Material
+Self Learning Material
+1. https://nptel.ac.in/downloads/122101001/
+https://nptel.ac.in/downloads/122101001/
+Chemistry Laboratory
+Chemistry Laboratory
+Chemistry Laboratory
+Objectives relate the
+       fundamental principles of chemistry with practical problems encountered
+       for engineers and place the emphasis on problem-solving provide
+       knowledge of engineering materials such as metal complexes,
+       composites,dyes, polymers, surfactants steel, batteries and drugs. Learning
+  Outcomes Students will be able to develop synthetic and analytical
+       laboratory skills and think innovatively. 2. understand and analyse physical concepts, interpret experimental
+  results and relate to the applications. Laboratory Experiments Preparation
+       of complex salt of (Co(en) 6 )Cl 3 Preparation
+       of Nylon-6,6 Fourier
+       transform infrared (FTIR) spectroscopy in combination technique for
+       analysis of caffeine in tea & coffee The
+       excitation and emission spectrum of Curcumin in solvents ethanol and
+       hexane respectively and find stokes shift using Fluorescence
+       Spectroscopy Surface
+       contact angle, surface tension and surface free energies of different
+       solvents and substrates respectively. Study of a
+       reversible redox reaction using Cyclic Voltammetric analysis. Study of
+       Color in Complexes using UV visible Spectroscopy Determination
+       of Critical Micelle Concentration of a Surfactant by Conductivity Method Study of C orrosion
+       of S tainless S teel using
+       Tafel Analysis. Determination
+       of the Enantiomeric Purity of Naproxen and Ibuprofen. Textbooks 1. Practical
+  Physical Chemistry (Latest ed.), By B.D. Khosla, A. Gulati & V.C. Garg 2. Laboratory
+  Manual on Engineering Chemistry (Latest ed.), By S.K. Bhasin and Sudha Rani Reference Books 1. Hill, R. H.
+  & Finster, D. (2010) Laboratory
+  Safety for Chemistry Students, Wiley. 2. Douglas A
+  Skoog, F. James Holler and Stanley R. Crouch, Principles of instrumental
+  Analysis, 6 th Edition, Cengage. Self Learning Material 1. https://nptel.ac.in/courses/122101001/37 2. http://vlab.co.in/broad-area-chemical-sciences
+relate the
+       fundamental principles of chemistry with practical problems encountered
+       for engineers and place the emphasis on problem-solving
+relate the
+       fundamental principles of chemistry with practical problems encountered
+       for engineers and place the emphasis on problem-solving
+provide
+       knowledge of engineering materials such as metal complexes,
+       composites,dyes, polymers, surfactants steel, batteries and drugs.
+provide
+       knowledge of engineering materials such as metal complexes,
+       composites,dyes, polymers, surfactants steel, batteries and drugs.
+Learning
+  Outcomes
+Learning
+  Outcomes
+Students will be able to
+Students will be able to
+develop synthetic and analytical
+       laboratory skills and think innovatively.
+develop synthetic and analytical
+       laboratory skills and think innovatively.
+2. understand and analyse physical concepts, interpret experimental
+  results and relate to the applications.
+understand and analyse physical concepts, interpret experimental
+  results and relate to the applications.
+Laboratory Experiments
+Laboratory Experiments
+Preparation
+       of complex salt of (Co(en) 6 )Cl 3
+Preparation
+       of complex salt of (Co(en) 6 )Cl 3
+Preparation
+       of Nylon-6,6
+Preparation
+       of Nylon-6,6
+Fourier
+       transform infrared (FTIR) spectroscopy in combination technique for
+       analysis of caffeine in tea & coffee
+Fourier
+       transform infrared (FTIR) spectroscopy in combination technique for
+       analysis of caffeine in tea & coffee
+The
+       excitation and emission spectrum of Curcumin in solvents ethanol and
+       hexane respectively and find stokes shift using Fluorescence
+       Spectroscopy
+The
+       excitation and emission spectrum of Curcumin in solvents ethanol and
+       hexane respectively and find stokes shift using Fluorescence
+       Spectroscopy
+Surface
+       contact angle, surface tension and surface free energies of different
+       solvents and substrates respectively.
+Surface
+       contact angle, surface tension and surface free energies of different
+       solvents and substrates respectively.
+Study of a
+       reversible redox reaction using Cyclic Voltammetric analysis.
+Study of a
+       reversible redox reaction using Cyclic Voltammetric analysis.
+Study of
+       Color in Complexes using UV visible Spectroscopy
+Study of
+       Color in Complexes using UV visible Spectroscopy
+Determination
+       of Critical Micelle Concentration of a Surfactant by Conductivity Method
+Determination
+       of Critical Micelle Concentration of a Surfactant by Conductivity Method
+Study of C orrosion
+       of S tainless S teel using
+       Tafel Analysis.
+teel using
+       Tafel Analysis.
+Determination
+       of the Enantiomeric Purity of Naproxen and Ibuprofen.
+Determination
+       of the Enantiomeric Purity of Naproxen and Ibuprofen.
+1. Practical
+  Physical Chemistry (Latest ed.), By B.D. Khosla, A. Gulati & V.C. Garg
+Practical
+  Physical Chemistry (Latest ed.), By B.D. Khosla, A. Gulati & V.C. Garg
+2. Laboratory
+  Manual on Engineering Chemistry (Latest ed.), By S.K. Bhasin and Sudha Rani
+Laboratory
+  Manual on Engineering Chemistry (Latest ed.), By S.K. Bhasin and Sudha Rani
+1. Hill, R. H.
+  & Finster, D. (2010) Laboratory
+  Safety for Chemistry Students, Wiley.
+Hill, R. H.
+  & Finster, D. (2010) Laboratory
+  Safety for Chemistry Students, Wiley.
+2. Douglas A
+  Skoog, F. James Holler and Stanley R. Crouch, Principles of instrumental
+  Analysis, 6 th Edition, Cengage.
+Douglas A
+  Skoog, F. James Holler and Stanley R. Crouch, Principles of instrumental
+  Analysis, 6 th Edition, Cengage.
+Self Learning Material
+Self Learning Material
+1. https://nptel.ac.in/courses/122101001/37
+https://nptel.ac.in/courses/122101001/37
+https://nptel.ac.in/courses/122101001/37
+2. http://vlab.co.in/broad-area-chemical-sciences
+http://vlab.co.in/broad-area-chemical-sciences
+http://vlab.co.in/broad-area-chemical-sciences
+Introduction to Electrical Engineering
+Introduction to Electrical Engineering
+Introduction to Electrical Engineering
+Department of Electrical Engineering
+Department of Electrical Engineering
+Department of Electrical Engineering
+Objectives 1. To train the undergraduates towards basic concepts of electrical
+  circuits, dc and ac machines. 2. To introduce the basics of solid-state electronics and their
+  applications to undergraduate students of all disciplines Learning Outcomes 1. Ability to analyze circuits, some electric machines, ac supply
+  systems, and magnetic circuits. 2. Ability to analyze and design basic electronic circuits using passive
+  and active components for various applications Contents Basic Circuit Concepts [4 Lectures ]: Review of circuit
+  laws, Thevenin's and Norton's Theorem; Star-Delta conversion, Time response
+  of R-L-C circuits Alternating Electrical Quantities [3 Lectures ] : Concepts of
+  phasors, impedance, real and reactive power, impedance and power diagrams Magnetic Circuits [2 Lectures ]: Basics of magnetic
+  circuits, series and parallel magnetic circuits Single Phase Transformer [3 Lectures]: Working
+  principle, equivalent circuit, efficiency and regulation, SC and OC tests Electro-Mechanical Energy Conversion and DC Machines [5 Lectures ]: Principles of energy conversion, types of dc generators and
+  motors and their characteristics, speed control of DC motors Diodes [3 Lectures]: Principle of
+  operation, diode characteristics, diode circuits and applications Transistors [5 Lectures ]: Principle of operation, concept of
+  biasing, characteristics and applications of transistor, basic amplifier
+  configurations Operational Amplifiers [5 Lectures ]: Basic model and
+  op-amp specifications, closed-loop negative feedback inverting and
+  non-inverting amplifiers, concept of virtual ground, op-amp applications. Digital Logic [9 Lectures ]: Logic gates, boolean
+  algebra, canonical forms of boolean function representation, minimization of
+  boolean functions using K-maps, combinational and sequential circuit design Transducers [3 Lectures ] : Inertial sensors , capacitive, magnetic, hall-effect sensors, ultrasonic
+  transducers, temperature, bridge circuits Laboratory · Verification of Thevenin's Theorem in AC circuits · Transformer assembly and equivalent parameters (using OC/SC test) · Speed control of a DC Motor · Diode rectifiers and analysis of ripple
+  factors with and without filters · BJT application as a switch (e.g. automatic street light) or amplifier
+  (eg. audio amplifier) · Opamp applications (e.g. Schmitt trigger as a comparator; operation of
+  instrumentation amplifier etc.) · Digital logic and design (Logic implementation with gates/multiplexer,
+  counter design) · Introduction to Microcontrollers (Arduino/Raspberry Pi) with basic
+  experiments on controlling LED brightness/sensor integration, etc. Textbooks Rizzoni,
+       G., (2010), Principles and
+       applications of Electrical Engineering , 5th Edition, McGraw Hill
+       Education Boylestad,
+       R. L. & Nashelsky, L., (2009), Electronic
+       Devices and Circuit Theory , 10th Edition, Prentice Hall Sedra, A.
+       S. & Smith, K. C., (2011), Microelectronic
+       Circuits , 6th Edition, Oxford University Press Smith, R.
+       J, and Dorf, R. C. (2009), Circuits,
+       Devices and Systems , 5th Edition, Wiley M. M.
+       Mano, (2001), Digital Design ,
+       3rd Edition, Prentice Hall Reference Books Kothari,
+       D. P. and Nagrath, I. J., (2008), Basic
+       Electrical Engineering , 3rd Edition, Tata McGraw-Hill, New Delhi Fitzgerald,
+       A.E., Kingsley (Jr.), C., and Umans, S.D., (2003), Electric Machinery , 6th Edition, Tata McGraw-Hill
+       (McGrawHill Series in Electrical Engineering) Hayt, W.
+       H., Kemmerly, J. E., and Durbin, S. M., (2010), Engineering Circuit Analysis , 7th Edition, Tata McGraw Hill Self Learning Material Umanand, L.,
+  Electrical Technology, NPTEL Course Material, Department of Electrical
+  Engineering, Indian Institute of Science, Bangalore,
+  http://nptel.ac.in/courses/108108076/
+1. To train the undergraduates towards basic concepts of electrical
+  circuits, dc and ac machines.
+To train the undergraduates towards basic concepts of electrical
+  circuits, dc and ac machines.
+2. To introduce the basics of solid-state electronics and their
+  applications to undergraduate students of all disciplines
+To introduce the basics of solid-state electronics and their
+  applications to undergraduate students of all disciplines
+1. Ability to analyze circuits, some electric machines, ac supply
+  systems, and magnetic circuits.
+Ability to analyze circuits, some electric machines, ac supply
+  systems, and magnetic circuits.
+2. Ability to analyze and design basic electronic circuits using passive
+  and active components for various applications
+Ability to analyze and design basic electronic circuits using passive
+  and active components for various applications
+Basic Circuit Concepts [4 Lectures ]: Review of circuit
+  laws, Thevenin's and Norton's Theorem; Star-Delta conversion, Time response
+  of R-L-C circuits
+Basic Circuit Concepts
+[4 Lectures ]: Review of circuit
+  laws, Thevenin's and Norton's Theorem; Star-Delta conversion, Time response
+  of R-L-C circuits
+Alternating Electrical Quantities [3 Lectures ] : Concepts of
+  phasors, impedance, real and reactive power, impedance and power diagrams
+Alternating Electrical Quantities
+[3 Lectures ] : Concepts of
+  phasors, impedance, real and reactive power, impedance and power diagrams
+Magnetic Circuits [2 Lectures ]: Basics of magnetic
+  circuits, series and parallel magnetic circuits
+[2 Lectures ]: Basics of magnetic
+  circuits, series and parallel magnetic circuits
+Single Phase Transformer [3 Lectures]: Working
+  principle, equivalent circuit, efficiency and regulation, SC and OC tests
+Single Phase Transformer [3 Lectures]:
+Working
+  principle, equivalent circuit, efficiency and regulation, SC and OC tests
+Electro-Mechanical Energy Conversion and DC Machines [5 Lectures ]: Principles of energy conversion, types of dc generators and
+  motors and their characteristics, speed control of DC motors
+Electro-Mechanical Energy Conversion and DC Machines
+[5 Lectures ]: Principles of energy conversion, types of dc generators and
+  motors and their characteristics, speed control of DC motors
+Diodes [3 Lectures]: Principle of
+  operation, diode characteristics, diode circuits and applications
+[3 Lectures]: Principle of
+  operation, diode characteristics, diode circuits and applications
+Transistors [5 Lectures ]: Principle of operation, concept of
+  biasing, characteristics and applications of transistor, basic amplifier
+  configurations
+[5 Lectures ]: Principle of operation, concept of
+  biasing, characteristics and applications of transistor, basic amplifier
+  configurations
+Operational Amplifiers [5 Lectures ]: Basic model and
+  op-amp specifications, closed-loop negative feedback inverting and
+  non-inverting amplifiers, concept of virtual ground, op-amp applications.
+Operational Amplifiers
+[5 Lectures ]: Basic model and
+  op-amp specifications, closed-loop negative feedback inverting and
+  non-inverting amplifiers, concept of virtual ground, op-amp applications.
+Digital Logic [9 Lectures ]: Logic gates, boolean
+  algebra, canonical forms of boolean function representation, minimization of
+  boolean functions using K-maps, combinational and sequential circuit design
+[9 Lectures ]: Logic gates, boolean
+  algebra, canonical forms of boolean function representation, minimization of
+  boolean functions using K-maps, combinational and sequential circuit design
+Transducers [3 Lectures ] : Inertial sensors , capacitive, magnetic, hall-effect sensors, ultrasonic
+  transducers, temperature, bridge circuits
+[3 Lectures ] : Inertial sensors , capacitive, magnetic, hall-effect sensors, ultrasonic
+  transducers, temperature, bridge circuits
+· Verification of Thevenin's Theorem in AC circuits
+Verification of Thevenin's Theorem in AC circuits
+· Transformer assembly and equivalent parameters (using OC/SC test)
+Transformer assembly and equivalent parameters (using OC/SC test)
+· Speed control of a DC Motor
+Speed control of a DC Motor
+· Diode rectifiers and analysis of ripple
+  factors with and without filters
+Diode rectifiers and analysis of ripple
+  factors with and without filters
+· BJT application as a switch (e.g. automatic street light) or amplifier
+  (eg. audio amplifier)
+BJT application as a switch (e.g. automatic street light) or amplifier
+  (eg. audio amplifier)
+· Opamp applications (e.g. Schmitt trigger as a comparator; operation of
+  instrumentation amplifier etc.)
+Opamp applications (e.g. Schmitt trigger as a comparator; operation of
+  instrumentation amplifier etc.)
+· Digital logic and design (Logic implementation with gates/multiplexer,
+  counter design)
+Digital logic and design (Logic implementation with gates/multiplexer,
+  counter design)
+· Introduction to Microcontrollers (Arduino/Raspberry Pi) with basic
+  experiments on controlling LED brightness/sensor integration, etc.
+Introduction to Microcontrollers (Arduino/Raspberry Pi) with basic
+  experiments on controlling LED brightness/sensor integration, etc.
+Rizzoni,
+       G., (2010), Principles and
+       applications of Electrical Engineering , 5th Edition, McGraw Hill
+       Education
+Rizzoni,
+       G., (2010), Principles and
+       applications of Electrical Engineering , 5th Edition, McGraw Hill
+       Education
+Boylestad,
+       R. L. & Nashelsky, L., (2009), Electronic
+       Devices and Circuit Theory , 10th Edition, Prentice Hall
+Boylestad,
+       R. L. & Nashelsky, L., (2009), Electronic
+       Devices and Circuit Theory , 10th Edition, Prentice Hall
+Sedra, A.
+       S. & Smith, K. C., (2011), Microelectronic
+       Circuits , 6th Edition, Oxford University Press
+Sedra, A.
+       S. & Smith, K. C., (2011), Microelectronic
+       Circuits , 6th Edition, Oxford University Press
+Smith, R.
+       J, and Dorf, R. C. (2009), Circuits,
+       Devices and Systems , 5th Edition, Wiley
+Smith, R.
+       J, and Dorf, R. C. (2009), Circuits,
+       Devices and Systems , 5th Edition, Wiley
+M. M.
+       Mano, (2001), Digital Design ,
+       3rd Edition, Prentice Hall
+M. M.
+       Mano, (2001), Digital Design ,
+       3rd Edition, Prentice Hall
+Kothari,
+       D. P. and Nagrath, I. J., (2008), Basic
+       Electrical Engineering , 3rd Edition, Tata McGraw-Hill, New Delhi
+Kothari,
+       D. P. and Nagrath, I. J., (2008), Basic
+       Electrical Engineering , 3rd Edition, Tata McGraw-Hill, New Delhi
+Fitzgerald,
+       A.E., Kingsley (Jr.), C., and Umans, S.D., (2003), Electric Machinery , 6th Edition, Tata McGraw-Hill
+       (McGrawHill Series in Electrical Engineering)
+Fitzgerald,
+       A.E., Kingsley (Jr.), C., and Umans, S.D., (2003), Electric Machinery , 6th Edition, Tata McGraw-Hill
+       (McGrawHill Series in Electrical Engineering)
+Hayt, W.
+       H., Kemmerly, J. E., and Durbin, S. M., (2010), Engineering Circuit Analysis , 7th Edition, Tata McGraw Hill
+Hayt, W.
+       H., Kemmerly, J. E., and Durbin, S. M., (2010), Engineering Circuit Analysis , 7th Edition, Tata McGraw Hill
+Self Learning Material
+Self Learning Material
+Umanand, L.,
+  Electrical Technology, NPTEL Course Material, Department of Electrical
+  Engineering, Indian Institute of Science, Bangalore,
+  http://nptel.ac.in/courses/108108076/
+Umanand, L.,
+  Electrical Technology, NPTEL Course Material, Department of Electrical
+  Engineering, Indian Institute of Science, Bangalore,
+  http://nptel.ac.in/courses/108108076/
+Introduction to Computer Science
+Introduction to Computer Science
+Introduction to Computer Science
+Computer Science and
+  Engineering
+Computer Science and
+  Engineering
+Computer Science and
+  Engineering
+Objectives 1. Provide an understanding of
+  the role of computation in problem solving. 2. Provide an overview of the computing and networking environment
+  where code gets deployed. Learning Outcomes 1. Use the basic elements of
+  computer programs, such as, statements, variables, events, conditionals,
+  loops, arrays, and write programs. 2. Solve problems with
+  software tools. Contents Introduction [5 Lectures]:
+  Basics of computer organization: illustration using Arduino, Operating
+  System, Computational Thinking: Problem solving, system design, algorithms. Basics of Data
+  Representation [7 Lectures]: Binary representation: Integer, Fixed point and
+  floating point numbers, variables, arrays and linked-list, data-types Programming
+  Constructs [5 Lectures]: Imperative programming, statements, control
+  constructs, procedures, Examples using Python Object oriented
+  Programming [10 Lectures]: Concept of class, instances, encapsulation, inheritance , static Methods and class
+  Methods, object memory management, illustrations using Python. Lists, Tuples,
+  Sets, Dictionaries, Generators Modules, packages, containers. Programming
+  Paradigms [15 Lectures]: Imperative programming, Declarative programming, The
+  lambda operator, Procedural programming, Dynamic typing, Polymorphism Dynamic
+  Binding and Duck Typing, Illustrations using Python. Laboratory Experiments Programming
+  exercises using Python. Textbook 1. Brown,M.C. (2018), Python: The Complete Reference , 4 th Edition, McGraw Hill Education 2. Patt, Y. (2017), Introduction to Computing Systems , 2 nd Edition, McGraw Hill Education 3. Guttag, J. (2016) Introduction to Computation and Programming
+  Using Python: With Application to Understanding Data. MIT Press. Reference Books 1. Mermin,N.D. (2007), Quantum Computer Science: An introduction ,
+  Cambridge University Press 2. Satemos, C., (2014), Client-Server Web Apps with Javascript and
+  Java , 1 st Edition, O'Reilly Self Learning Material 1. John Guttag. 6.00SC Introduction to Computer Science and
+  Programming. Spring 2011.
+  Massachusetts Institute of Technolog y: MIT OpenCourseWare, https://ocw.mit.edu .
+  License: Creative
+  Commons BY-NC-SA .
+1. Provide an understanding of
+  the role of computation in problem solving.
+1. Provide an understanding of
+  the role of computation in problem solving.
+2. Provide an overview of the computing and networking environment
+  where code gets deployed.
+2. Provide an overview of the computing and networking environment
+  where code gets deployed.
+1. Use the basic elements of
+  computer programs, such as, statements, variables, events, conditionals,
+  loops, arrays, and write programs.
+1. Use the basic elements of
+  computer programs, such as, statements, variables, events, conditionals,
+  loops, arrays, and write programs.
+2. Solve problems with
+  software tools.
+2. Solve problems with
+  software tools.
+Introduction [5 Lectures]:
+  Basics of computer organization: illustration using Arduino, Operating
+  System, Computational Thinking: Problem solving, system design, algorithms.
+[5 Lectures]:
+  Basics of computer organization: illustration using Arduino, Operating
+  System, Computational Thinking: Problem solving, system design, algorithms.
+Basics of Data
+  Representation [7 Lectures]: Binary representation: Integer, Fixed point and
+  floating point numbers, variables, arrays and linked-list, data-types
+Basics of Data
+  Representation
+[7 Lectures]: Binary representation: Integer, Fixed point and
+  floating point numbers, variables, arrays and linked-list, data-types
+Programming
+  Constructs [5 Lectures]: Imperative programming, statements, control
+  constructs, procedures, Examples using Python
+Programming
+  Constructs
+[5 Lectures]: Imperative programming, statements, control
+  constructs, procedures, Examples using Python
+Object oriented
+  Programming [10 Lectures]: Concept of class, instances, encapsulation, inheritance , static Methods and class
+  Methods, object memory management, illustrations using Python. Lists, Tuples,
+  Sets, Dictionaries, Generators Modules, packages, containers.
+Object oriented
+  Programming
+[10 Lectures]: Concept of class, instances, encapsulation, inheritance , static Methods and class
+  Methods, object memory management, illustrations using Python. Lists, Tuples,
+  Sets, Dictionaries, Generators Modules, packages, containers.
+Programming
+  Paradigms [15 Lectures]: Imperative programming, Declarative programming, The
+  lambda operator, Procedural programming, Dynamic typing, Polymorphism Dynamic
+  Binding and Duck Typing, Illustrations using Python.
+Programming
+  Paradigms
+[15 Lectures]: Imperative programming, Declarative programming, The
+  lambda operator, Procedural programming, Dynamic typing, Polymorphism Dynamic
+  Binding and Duck Typing, Illustrations using Python.
+Laboratory Experiments
+Laboratory Experiments
+Programming
+  exercises using Python.
+Programming
+  exercises using Python.
+1. Brown,M.C. (2018), Python: The Complete Reference , 4 th Edition, McGraw Hill Education
+1. Brown,M.C. (2018), Python: The Complete Reference , 4 th Edition, McGraw Hill Education
+2. Patt, Y. (2017), Introduction to Computing Systems , 2 nd Edition, McGraw Hill Education
+2. Patt, Y. (2017), Introduction to Computing Systems , 2 nd Edition, McGraw Hill Education
+3. Guttag, J. (2016) Introduction to Computation and Programming
+  Using Python: With Application to Understanding Data. MIT Press.
+3. Guttag, J. (2016) Introduction to Computation and Programming
+  Using Python: With Application to Understanding Data. MIT Press.
+1. Mermin,N.D. (2007), Quantum Computer Science: An introduction ,
+  Cambridge University Press
+1. Mermin,N.D. (2007), Quantum Computer Science: An introduction ,
+  Cambridge University Press
+2. Satemos, C., (2014), Client-Server Web Apps with Javascript and
+  Java , 1 st Edition, O'Reilly
+2. Satemos, C., (2014), Client-Server Web Apps with Javascript and
+  Java , 1 st Edition, O'Reilly
+Self Learning Material
+Self Learning Material
+1. John Guttag. 6.00SC Introduction to Computer Science and
+  Programming. Spring 2011.
+  Massachusetts Institute of Technolog y: MIT OpenCourseWare, https://ocw.mit.edu .
+  License: Creative
+  Commons BY-NC-SA .
+1. John Guttag. 6.00SC Introduction to Computer Science and
+  Programming. Spring 2011.
+  Massachusetts Institute of Technolog y: MIT OpenCourseWare, https://ocw.mit.edu .
+  License: Creative
+  Commons BY-NC-SA .
+Creative
+  Commons BY-NC-SA
+Introduction to Bioengineering
+Introduction to Bioengineering
+Introduction to Bioengineering
+Bioscience &
+  Bioengineering
+Bioscience &
+  Bioengineering
+Bioscience &
+  Bioengineering
+Objectives 1. Provide a strong foundation of biology in the context of
+  engineering by highlighting key differences in the approaches of both
+  disciplines, while illustrating how bioengineering utilizes the best of both
+  disciplines. 2. provide multidisciplinary learning Learning Outcomes The students
+  are expected to have the ability to: 1. Approach
+  biology from an engineering perspective by gaining an understanding of how
+  biological systems function 2. Be inspired
+  from biological systems and processes that have been perfected by evolution
+  3. Conceptualize novel engineering solutions for complex biological problems Contents Biology &
+  Engineering Approaches [3 lectures]: Observations; deductive, inductive and
+  abductive reasoning; hypothesis testing; reductionism; systems biology; modeling;
+  tinkering with biological systems; cause & effect; translational
+  research; attributes of a bioengineer Origin &
+  Evolution of Life [7 lectures]: Chemical basis of life, water sustains life,
+  biomolecules, biological macromolecules , unity in diversity among life
+  forms, phylogeny Functioning of
+  Biological Systems [8 lectures]: From organisms to cells , structure-function relationships, free energy, entropy,
+  reactions, biocatalysis, energy coupling, effects of process failure Probability in
+  life processes [7 lectures]: Storage of genetic information, central dogma
+  of biology, cell division, inheritance, genetic variation Control in
+  living systems [6 lectures]: Gene expression logic gates, control of cell
+  division, hormones, signals & receptors, feedback control, control
+  failure & disease Responses of
+  Biological systems [4 lectures]: Interactions, communication, stress responses,
+  tolerance, adaptation, rhythms & cycles, ecosystems Exploitation of
+  living systems [5 lectures]: Antibiotics, Recombinant DNA Technology ,
+  Biomaterials-bioplastics and materials for healthcare, Biodiesel and drop in
+  biofuels from algae. Laboratory Experiments Laboratory
+  safety and introduction to general laboratory practices, measuring liquids in
+  small volumes, solutions & buffer preparation, quantifying simple
+  biomolecules, stress response, selection, biocatalysis, separation of
+  biomolecules, microscopy. Textbook 1. Urry L.A.,
+  Cain M.L., Wasserman S.A., Minorsky P.V., Reece J.B., (2016), Campbell biology . 11 th Edition, Pearson. Reference Books 1. Glick B.J.,
+  Pasternak J.J., Patten C.L., (2010), Molecular
+  Biotechnology: Principles and Applications of Recombinant DNA , 4 th Edition, American Society for Microbiology. 2. Johnson A.T., (2010), Biology for Engineers , CRC Press Self Learning Material 1. Suraishkumar G.K., & Madhulika Dixit, Biology
+  for Engineers and other non-Biologists, NPTEL Course Material, Department
+  of Biotechnology, Indian Institute of Technology Madras, http://nptel.ac.in/courses/121106008/ 2. Vishal Trivedi, Basic
+  Biology , Department of Biotechnology, Indian Institute of Technology,
+  Guwahati, http://nptel.ac.in/courses/122103039/ 3. Vishal Trivedi, Fundamentals
+  of Biotechnology , Department of Biotechnology, Indian Institute of
+  Technology, Guwahati, http://nptel.ac.in/courses/102103045/
+1. Provide a strong foundation of biology in the context of
+  engineering by highlighting key differences in the approaches of both
+  disciplines, while illustrating how bioengineering utilizes the best of both
+  disciplines.
+1. Provide a strong foundation of biology in the context of
+  engineering by highlighting key differences in the approaches of both
+  disciplines, while illustrating how bioengineering utilizes the best of both
+  disciplines.
+2. provide multidisciplinary learning
+2. provide multidisciplinary learning
+The students
+  are expected to have the ability to:
+The students
+  are expected to have the ability to:
+1. Approach
+  biology from an engineering perspective by gaining an understanding of how
+  biological systems function
+1. Approach
+  biology from an engineering perspective by gaining an understanding of how
+  biological systems function
+2. Be inspired
+  from biological systems and processes that have been perfected by evolution
+  3. Conceptualize novel engineering solutions for complex biological problems
+2. Be inspired
+  from biological systems and processes that have been perfected by evolution
+  3. Conceptualize novel engineering solutions for complex biological problems
+Biology &
+  Engineering Approaches [3 lectures]: Observations; deductive, inductive and
+  abductive reasoning; hypothesis testing; reductionism; systems biology; modeling;
+  tinkering with biological systems; cause & effect; translational
+  research; attributes of a bioengineer
+Biology &
+  Engineering Approaches [3 lectures]:
+Observations; deductive, inductive and
+  abductive reasoning; hypothesis testing; reductionism; systems biology; modeling;
+  tinkering with biological systems; cause & effect; translational
+  research; attributes of a bioengineer
+Origin &
+  Evolution of Life [7 lectures]: Chemical basis of life, water sustains life,
+  biomolecules, biological macromolecules , unity in diversity among life
+  forms, phylogeny
+Origin &
+  Evolution of Life [7 lectures]:
+Chemical basis of life, water sustains life,
+  biomolecules, biological macromolecules , unity in diversity among life
+  forms, phylogeny
+Functioning of
+  Biological Systems [8 lectures]: From organisms to cells , structure-function relationships, free energy, entropy,
+  reactions, biocatalysis, energy coupling, effects of process failure
+Functioning of
+  Biological Systems [8 lectures]:
+From organisms to cells , structure-function relationships, free energy, entropy,
+  reactions, biocatalysis, energy coupling, effects of process failure
+Probability in
+  life processes [7 lectures]: Storage of genetic information, central dogma
+  of biology, cell division, inheritance, genetic variation
+Probability in
+  life processes [7 lectures]:
+Storage of genetic information, central dogma
+  of biology, cell division, inheritance, genetic variation
+Control in
+  living systems [6 lectures]: Gene expression logic gates, control of cell
+  division, hormones, signals & receptors, feedback control, control
+  failure & disease
+Control in
+  living systems [6 lectures]:
+Gene expression logic gates, control of cell
+  division, hormones, signals & receptors, feedback control, control
+  failure & disease
+Responses of
+  Biological systems [4 lectures]: Interactions, communication, stress responses,
+  tolerance, adaptation, rhythms & cycles, ecosystems
+Responses of
+  Biological systems [4 lectures]:
+Interactions, communication, stress responses,
+  tolerance, adaptation, rhythms & cycles, ecosystems
+Exploitation of
+  living systems [5 lectures]: Antibiotics, Recombinant DNA Technology ,
+  Biomaterials-bioplastics and materials for healthcare, Biodiesel and drop in
+  biofuels from algae.
+Exploitation of
+  living systems [5 lectures]:
+Antibiotics, Recombinant DNA Technology ,
+  Biomaterials-bioplastics and materials for healthcare, Biodiesel and drop in
+  biofuels from algae.
+Laboratory Experiments
+Laboratory Experiments
+Laboratory
+  safety and introduction to general laboratory practices, measuring liquids in
+  small volumes, solutions & buffer preparation, quantifying simple
+  biomolecules, stress response, selection, biocatalysis, separation of
+  biomolecules, microscopy.
+Laboratory
+  safety and introduction to general laboratory practices, measuring liquids in
+  small volumes, solutions & buffer preparation, quantifying simple
+  biomolecules, stress response, selection, biocatalysis, separation of
+  biomolecules, microscopy.
+1. Urry L.A.,
+  Cain M.L., Wasserman S.A., Minorsky P.V., Reece J.B., (2016), Campbell biology . 11 th Edition, Pearson.
+1. Urry L.A.,
+  Cain M.L., Wasserman S.A., Minorsky P.V., Reece J.B., (2016), Campbell biology . 11 th Edition, Pearson.
+1. Glick B.J.,
+  Pasternak J.J., Patten C.L., (2010), Molecular
+  Biotechnology: Principles and Applications of Recombinant DNA , 4 th Edition, American Society for Microbiology.
+1. Glick B.J.,
+  Pasternak J.J., Patten C.L., (2010), Molecular
+  Biotechnology: Principles and Applications of Recombinant DNA , 4 th Edition, American Society for Microbiology.
+2. Johnson A.T., (2010), Biology for Engineers , CRC Press
+2. Johnson A.T., (2010), Biology for Engineers , CRC Press
+Self Learning Material
+Self Learning Material
+1. Suraishkumar G.K., & Madhulika Dixit, Biology
+  for Engineers and other non-Biologists, NPTEL Course Material, Department
+  of Biotechnology, Indian Institute of Technology Madras, http://nptel.ac.in/courses/121106008/
+1. Suraishkumar G.K., & Madhulika Dixit, Biology
+  for Engineers and other non-Biologists, NPTEL Course Material, Department
+  of Biotechnology, Indian Institute of Technology Madras,
+http://nptel.ac.in/courses/121106008/
+http://nptel.ac.in/courses/121106008/
+2. Vishal Trivedi, Basic
+  Biology , Department of Biotechnology, Indian Institute of Technology,
+  Guwahati, http://nptel.ac.in/courses/122103039/
+2. Vishal Trivedi, Basic
+  Biology , Department of Biotechnology, Indian Institute of Technology,
+  Guwahati,
+http://nptel.ac.in/courses/122103039/
+http://nptel.ac.in/courses/122103039/
+3. Vishal Trivedi, Fundamentals
+  of Biotechnology , Department of Biotechnology, Indian Institute of
+  Technology, Guwahati, http://nptel.ac.in/courses/102103045/
+3. Vishal Trivedi, Fundamentals
+  of Biotechnology , Department of Biotechnology, Indian Institute of
+  Technology, Guwahati, http://nptel.ac.in/courses/102103045/
+http://nptel.ac.in/courses/102103045/
+http://nptel.ac.in/courses/102103045/
+Communication Skill I
+Communication Skill I
+Communication Skill I
+Humanities and Social Sciences
+Humanities and Social Sciences
+Humanities and Social Sciences
+Objectives 1. Facilitate
+  students to gain language competence in order to communicate effectively in a
+  spectrum of contexts. 2. Focus on the
+  two basic skills of language learning, namely: Listening and Reading 3. Train the
+  student to employ the above skills in both personal and professional settings Learning Outcomes 1. Distinguish
+  between hearing and listening, and to understand listening as a skill of critical significance. Â 2. Engage effectively
+  in classroom situations and also with various texts, with useful reading
+  strategies 3. Integrate
+  classroom learning into an everyday communicative activity, thus making the
+  learning both reflective and experiential. Contents Listening: Barriers to Listening, Active
+  Listening, Listening and Speaking, Listening and Receiving, Listening and
+  Understanding, Listening and Responding, Listening and Remembering, Listening
+  and Paraphrasing, Listening and Reflecting, Listening to Pre-recorded audiovisual
+  aids, Listening to and comprehending audio-visual media including films,
+  radio programs, academic and/or public speeches. Reading: Introduction and application of
+  reading techniques, Comprehension, Types of reading including Scanning,
+  Skimming, Critical Reading and Speed Reading, exploration of
+  academic/journalistic/creative texts through various reading strategies. Laboratory Sessions: Will include individual and group activities
+  and hands on experiential learning modules 1) Â Â Workshop Session on Listening with Janaki
+  Sabesh (Storyteller, Theatre Resource Person, Voice Artiste from Golpo Tales Unlimited ) - 4 hours 2) Â Â Workshop on Reading, Review and Critical
+  Analysis (i) Â Â Â Â Â Â Â Â Â Film Screening
+  and Discussion - 4 hours (ii) Â Â Â Â Â Â Â Â Reading Books,
+  Newspaper Articles, Journals - 4 hours Textbook All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student. Reference Books 1. Bolton. D.
+  (2008). English Grammar in Steps:
+  English Grammar presented, explained and practiced in context. Orient
+  Longman. New Delhi: India 2. Wren PC,
+  Martin H. (2018) High School English
+  Grammar & Composition . Revised
+  by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT Books, New Delhi:
+  India. 3. Wren PC,
+  Martin H.(2018) Key to Regular
+  &Multicolor Edition of High School English Grammar &Composition.
+  Revised by N.D.V. Prasad Rao .S.Chand Publishing Blackie . ELT Books, New Delhi: India. 4. Hewings,
+  Martin (2008) Advanced Grammar in Use. Cambridge University Press. Self Learning Material 1. Iqbal, Ayesha. English Language for Competitive
+  Examinations .NPTEL Course Material, Department of Humanities and Social
+  Sciences, Indian Institute of Technology-Madras, Â https://nptel.ac.in/courses/109106116/ 2. Choudhary,
+  Shreesh. Better Spoken English. NPTEL Course Material, Department of Humanities and Social Sciences, Indian
+  Institute of Technology-Madras, https://nptel.ac.in/courses/109106067/ . Â Â Â Â Â Â Â Â
+1. Facilitate
+  students to gain language competence in order to communicate effectively in a
+  spectrum of contexts.
+Facilitate
+  students to gain language competence in order to communicate effectively in a
+  spectrum of contexts.
+2. Focus on the
+  two basic skills of language learning, namely: Listening and Reading
+Focus on the
+  two basic skills of language learning, namely: Listening and Reading
+3. Train the
+  student to employ the above skills in both personal and professional settings
+Train the
+  student to employ the above skills in both personal and professional settings
+1. Distinguish
+  between hearing and listening, and to understand listening as a skill of critical significance. Â
+Distinguish
+  between hearing and listening, and to understand listening as a skill of critical significance. Â
+2. Engage effectively
+  in classroom situations and also with various texts, with useful reading
+  strategies
+Engage effectively
+  in classroom situations and also with various texts, with useful reading
+  strategies
+3. Integrate
+  classroom learning into an everyday communicative activity, thus making the
+  learning both reflective and experiential.
+Integrate
+  classroom learning into an everyday communicative activity, thus making the
+  learning both reflective and experiential.
+Listening: Barriers to Listening, Active
+  Listening, Listening and Speaking, Listening and Receiving, Listening and
+  Understanding, Listening and Responding, Listening and Remembering, Listening
+  and Paraphrasing, Listening and Reflecting, Listening to Pre-recorded audiovisual
+  aids, Listening to and comprehending audio-visual media including films,
+  radio programs, academic and/or public speeches.
+Barriers to Listening, Active
+  Listening, Listening and Speaking, Listening and Receiving, Listening and
+  Understanding, Listening and Responding, Listening and Remembering, Listening
+  and Paraphrasing, Listening and Reflecting, Listening to Pre-recorded audiovisual
+  aids, Listening to and comprehending audio-visual media including films,
+  radio programs, academic and/or public speeches.
+Reading: Introduction and application of
+  reading techniques, Comprehension, Types of reading including Scanning,
+  Skimming, Critical Reading and Speed Reading, exploration of
+  academic/journalistic/creative texts through various reading strategies.
+Introduction and application of
+  reading techniques, Comprehension, Types of reading including Scanning,
+  Skimming, Critical Reading and Speed Reading, exploration of
+  academic/journalistic/creative texts through various reading strategies.
+Laboratory Sessions: Will include individual and group activities
+  and hands on experiential learning modules
+Laboratory Sessions:
+Will include individual and group activities
+  and hands on experiential learning modules
+1) Â Â Workshop Session on Listening with Janaki
+  Sabesh (Storyteller, Theatre Resource Person, Voice Artiste from Golpo Tales Unlimited ) - 4 hours
+1) Â Â Workshop Session on Listening with Janaki
+  Sabesh (Storyteller, Theatre Resource Person, Voice Artiste from Golpo Tales Unlimited ) - 4 hours
+2) Â Â Workshop on Reading, Review and Critical
+  Analysis
+2) Â Â Workshop on Reading, Review and Critical
+  Analysis
+All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student.
+All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student.
+1. Bolton. D.
+  (2008). English Grammar in Steps:
+  English Grammar presented, explained and practiced in context. Orient
+  Longman. New Delhi: India
+1. Bolton. D.
+  (2008). English Grammar in Steps:
+  English Grammar presented, explained and practiced in context. Orient
+  Longman. New Delhi: India
+2. Wren PC,
+  Martin H. (2018) High School English
+  Grammar & Composition . Revised
+  by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT Books, New Delhi:
+  India.
+2. Wren PC,
+  Martin H. (2018) High School English
+  Grammar & Composition . Revised
+  by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT Books, New Delhi:
+  India.
+3. Wren PC,
+  Martin H.(2018) Key to Regular
+  &Multicolor Edition of High School English Grammar &Composition.
+  Revised by N.D.V. Prasad Rao .S.Chand Publishing Blackie . ELT Books, New Delhi: India.
+3. Wren PC,
+  Martin H.(2018) Key to Regular
+  &Multicolor Edition of High School English Grammar &Composition.
+  Revised by N.D.V. Prasad Rao .S.Chand Publishing Blackie . ELT Books, New Delhi: India.
+4. Hewings,
+  Martin (2008) Advanced Grammar in Use. Cambridge University Press.
+4. Hewings,
+  Martin (2008) Advanced Grammar in Use. Cambridge University Press.
+Self Learning Material
+Self Learning Material
+1. Iqbal, Ayesha. English Language for Competitive
+  Examinations .NPTEL Course Material, Department of Humanities and Social
+  Sciences, Indian Institute of Technology-Madras, Â https://nptel.ac.in/courses/109106116/
+Iqbal, Ayesha. English Language for Competitive
+  Examinations .NPTEL Course Material, Department of Humanities and Social
+  Sciences, Indian Institute of Technology-Madras, Â https://nptel.ac.in/courses/109106116/
+2. Choudhary,
+  Shreesh. Better Spoken English. NPTEL Course Material, Department of Humanities and Social Sciences, Indian
+  Institute of Technology-Madras, https://nptel.ac.in/courses/109106067/ . Â Â Â Â Â Â Â Â
+Choudhary,
+  Shreesh. Better Spoken English. NPTEL Course Material, Department of Humanities and Social Sciences, Indian
+  Institute of Technology-Madras, https://nptel.ac.in/courses/109106067/ . Â Â Â Â Â Â Â Â
+https://nptel.ac.in/courses/109106067/
+Communication Skill II
+Communication Skill II
+Communication Skill II
+Humanities and Social
+  Sciences
+Humanities and Social
+  Sciences
+Humanities and Social
+  Sciences
+Objectives Facilitate
+       students to gain language competence in order to communicate effectively
+       in a spectrum of contexts. Focus on
+       the two basic skills of language learning, namely: Speaking and Writing. Train the
+       student to employ the above skills in both personal and professional
+       settings Learning Outcomes Speak more
+       efficiently and explore the act of writing as an active process. Articulate
+       with clarity and use better language, well-equipped for specific
+       situations. Integrate
+       classroom learning into an everyday communicative activity, thus making
+       the learning both reflective and experiential. Contents: Speaking: Modes of
+  Communication - Formal and Informal, Verbal and Non-verbal Communication,
+  Group Discussions, Mock Personal Interviews, Powerpoint presentations
+  (academic and professional/business), Body Language, Basic
+  Phonetics/Pronunciation, and Telephone Etiquette. Writing: Paragraph Writing,
+  Writing an Email, Note Making, Report Writing, Letter Writing, Reviewing
+  articles, Structuring academic/professional writing Grammar: Identifying
+  Common Errors in English, Use of Articles, Use of Prepositions, Tenses,
+  Spellings, Filling in Worksheets. Laboratory Sessions: Will include individual and group activities
+  and hands on experiential learning modules 1) Â Â Practice Workshop on Speaking (Group
+  Discussion, Personal Interview) - 4 hours 2) Â Â Writing Workshop (Essay, Creative
+  Nonfiction/Advertising, Storyboard, Journal Writing, Letter & Email
+  Writing) - 4 hours 3) Â Â Field Visit and Workshop (Photo Essay,
+  Report Writing) - 4 hours Â Textbook All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student. Reference Books 1. Bolton. D. (2008). English
+  Grammar in Steps: English Grammar presented, explained and practiced in
+  context. Orient Longman. New Delhi: India 2. Wren PC, Martin H. (2018) High School English Grammar & Composition . Revised by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT
+  Books, New Delhi: India. 3. Wren PC, Martin H.(2018) Key
+  to Regular &Multicolor Edition of High School English Grammar &
+  Composition. Revised by N.D.V. Prasad Rao .S. Chand Publishing Blackie . ELT Books, New Delhi: India. 4. Hewings, Martin (2008) Advanced Grammar in Use. Cambridge University Press. Self Learning Material 1. Iqbal, Ayesha. English Â Business English Communication . NPTEL Course Material, Department
+  of Humanities and Social Sciences, Indian Institute of Technology-Madras,
+  https://nptel.ac.in/noc/individual_course.php?id=noc18-hs18 2. Ravichandran T.
+  Communication Skills. NPTEL Course Material, Department of Humanities and
+  Social Sciences, Indian Institute of Technology- Kanpur,
+  https://nptel.ac.in/courses/109104031/ . Â Â Â Â Â Â Â Â
+Facilitate
+       students to gain language competence in order to communicate effectively
+       in a spectrum of contexts.
+Facilitate
+       students to gain language competence in order to communicate effectively
+       in a spectrum of contexts.
+Focus on
+       the two basic skills of language learning, namely: Speaking and Writing.
+Focus on
+       the two basic skills of language learning, namely: Speaking and Writing.
+Train the
+       student to employ the above skills in both personal and professional
+       settings
+Train the
+       student to employ the above skills in both personal and professional
+       settings
+Speak more
+       efficiently and explore the act of writing as an active process.
+Speak more
+       efficiently and explore the act of writing as an active process.
+Articulate
+       with clarity and use better language, well-equipped for specific
+       situations.
+Articulate
+       with clarity and use better language, well-equipped for specific
+       situations.
+Integrate
+       classroom learning into an everyday communicative activity, thus making
+       the learning both reflective and experiential.
+Integrate
+       classroom learning into an everyday communicative activity, thus making
+       the learning both reflective and experiential.
+Speaking: Modes of
+  Communication - Formal and Informal, Verbal and Non-verbal Communication,
+  Group Discussions, Mock Personal Interviews, Powerpoint presentations
+  (academic and professional/business), Body Language, Basic
+  Phonetics/Pronunciation, and Telephone Etiquette.
+Modes of
+  Communication - Formal and Informal, Verbal and Non-verbal Communication,
+  Group Discussions, Mock Personal Interviews, Powerpoint presentations
+  (academic and professional/business), Body Language, Basic
+  Phonetics/Pronunciation, and Telephone Etiquette.
+Writing: Paragraph Writing,
+  Writing an Email, Note Making, Report Writing, Letter Writing, Reviewing
+  articles, Structuring academic/professional writing
+Paragraph Writing,
+  Writing an Email, Note Making, Report Writing, Letter Writing, Reviewing
+  articles, Structuring academic/professional writing
+Grammar: Identifying
+  Common Errors in English, Use of Articles, Use of Prepositions, Tenses,
+  Spellings, Filling in Worksheets.
+Identifying
+  Common Errors in English, Use of Articles, Use of Prepositions, Tenses,
+  Spellings, Filling in Worksheets.
+Laboratory Sessions: Will include individual and group activities
+  and hands on experiential learning modules
+Laboratory Sessions:
+Will include individual and group activities
+  and hands on experiential learning modules
+1) Â Â Practice Workshop on Speaking (Group
+  Discussion, Personal Interview) - 4 hours
+1) Â Â Practice Workshop on Speaking (Group
+  Discussion, Personal Interview) - 4 hours
+2) Â Â Writing Workshop (Essay, Creative
+  Nonfiction/Advertising, Storyboard, Journal Writing, Letter & Email
+  Writing) - 4 hours
+2) Â Â Writing Workshop (Essay, Creative
+  Nonfiction/Advertising, Storyboard, Journal Writing, Letter & Email
+  Writing) - 4 hours
+3) Â Â Field Visit and Workshop (Photo Essay,
+  Report Writing) - 4 hours
+3) Â Â Field Visit and Workshop (Photo Essay,
+  Report Writing) - 4 hours
+All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student.
+All reading
+  material for the course will enhance both creative and critical thinking and
+  will include the repertoire-newspaper articles, famous speeches, biographies,
+  passages /narratives from science and technology, fiction, nonfiction and
+  film, word games and puzzles and will be compiled by the instructors and
+  shared with the student.
+1. Bolton. D. (2008). English
+  Grammar in Steps: English Grammar presented, explained and practiced in
+  context. Orient Longman. New Delhi: India
+1. Bolton. D. (2008). English
+  Grammar in Steps: English Grammar presented, explained and practiced in
+  context. Orient Longman. New Delhi: India
+2. Wren PC, Martin H. (2018) High School English Grammar & Composition . Revised by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT
+  Books, New Delhi: India.
+2. Wren PC, Martin H. (2018) High School English Grammar & Composition . Revised by N.D.V. Prasad Rao. S Chand Publishing Blackie. ELT
+  Books, New Delhi: India.
+3. Wren PC, Martin H.(2018) Key
+  to Regular &Multicolor Edition of High School English Grammar &
+  Composition. Revised by N.D.V. Prasad Rao .S. Chand Publishing Blackie . ELT Books, New Delhi: India.
+3. Wren PC, Martin H.(2018) Key
+  to Regular &Multicolor Edition of High School English Grammar &
+  Composition. Revised by N.D.V. Prasad Rao .S. Chand Publishing Blackie . ELT Books, New Delhi: India.
+4. Hewings, Martin (2008) Advanced Grammar in Use. Cambridge University Press.
+4. Hewings, Martin (2008) Advanced Grammar in Use. Cambridge University Press.
+Self Learning Material
+Self Learning Material
+1. Iqbal, Ayesha. English Â Business English Communication . NPTEL Course Material, Department
+  of Humanities and Social Sciences, Indian Institute of Technology-Madras,
+  https://nptel.ac.in/noc/individual_course.php?id=noc18-hs18
+Iqbal, Ayesha. English Â Business English Communication . NPTEL Course Material, Department
+  of Humanities and Social Sciences, Indian Institute of Technology-Madras,
+  https://nptel.ac.in/noc/individual_course.php?id=noc18-hs18
+2. Ravichandran T.
+  Communication Skills. NPTEL Course Material, Department of Humanities and
+  Social Sciences, Indian Institute of Technology- Kanpur,
+  https://nptel.ac.in/courses/109104031/
+Ravichandran T.
+  Communication Skills. NPTEL Course Material, Department of Humanities and
+  Social Sciences, Indian Institute of Technology- Kanpur,
+  https://nptel.ac.in/courses/109104031/
+Social Connect &
+  Responsibilities - I Social Connect &
+  Responsibilities - II
+Social Connect &
+  Responsibilities - I
+Social Connect &
+  Responsibilities - I
+Social Connect &
+  Responsibilities - II
+Social Connect &
+  Responsibilities - II
+Office
+  of Students
+Office
+  of Students
+Office
+  of Students
+Objectives The course will: 1. Provide a formal platform to students to
+  communicate and connect to the surrounding 2. Â Enable to create a responsible connect with
+  the society Learning Outcomes The students are expected to have the ability
+  to: 1. Understand
+  social responsibility 2. Practice
+  sustainability and creativity 3. Showcase
+  planning and organizational skills Contents The course is mainly
+  activity based that will offer a set of activities for the student that
+  enable them to connect with fellow human being, nature, Society and world at
+  large. The course will engage students for interactive sessions, open mic,
+  reading group, storytelling session and semester long activities conducted by
+  faculty mentors. In the following a set of activities planned for the course
+  have been listed: Â Â Â Plantation and
+  adoption of a tree: plantation of a tree that will be adopted for four years by a group
+  of B.tech students. They will also make an excerpt either as a documentary or
+  a photo blog describing the plant's origin, its usage in daily life, its
+  appearance in folklore and literature. Heritage walk
+  and crafts corner: Heritage
+  tour, knowing the history and culture of the city, connecting to people
+  around through their history, knowing the city and its craftsman, photo blog
+  and documentary on evolution and practice of various craft forms. Â Â Â Organic
+  farming and waste management: usefulness of organic farming, wet waste
+  management in neighboring villages and implementation in the campus Water
+  conservation: Â Knowing the present practices in the
+  surrounding villages and implementation in the campus, documentary or photo blog
+  presenting the current practices Food walk: City's culinary
+  practices, food lore and indigenous materials of the region used in cooking. Jamming
+  session, open mic and poetry: Platform to connect to others . Share life
+  stories with others Activities A total of 14 hrs
+  engagement per semester is required for the first year of the B.Tech program.
+  The students will be divided into 10 groups of 35 each. Each group will be
+  handled by two faculty mentors. Faculty mentors will design the activities.
+1. Provide a formal platform to students to
+  communicate and connect to the surrounding
+1. Provide a formal platform to students to
+  communicate and connect to the surrounding
+2. Â Enable to create a responsible connect with
+  the society
+2. Â Enable to create a responsible connect with
+  the society
+The students are expected to have the ability
+  to:
+The students are expected to have the ability
+  to:
+1. Understand
+  social responsibility
+1. Understand
+  social responsibility
+2. Practice
+  sustainability and creativity
+2. Practice
+  sustainability and creativity
+3. Showcase
+  planning and organizational skills
+3. Showcase
+  planning and organizational skills
+The course is mainly
+  activity based that will offer a set of activities for the student that
+  enable them to connect with fellow human being, nature, Society and world at
+  large. The course will engage students for interactive sessions, open mic,
+  reading group, storytelling session and semester long activities conducted by
+  faculty mentors. In the following a set of activities planned for the course
+  have been listed: Â Â Â
+The course is mainly
+  activity based that will offer a set of activities for the student that
+  enable them to connect with fellow human being, nature, Society and world at
+  large. The course will engage students for interactive sessions, open mic,
+  reading group, storytelling session and semester long activities conducted by
+  faculty mentors. In the following a set of activities planned for the course
+  have been listed: Â Â Â
+Plantation and
+  adoption of a tree: plantation of a tree that will be adopted for four years by a group
+  of B.tech students. They will also make an excerpt either as a documentary or
+  a photo blog describing the plant's origin, its usage in daily life, its
+  appearance in folklore and literature.
+Plantation and
+  adoption of a tree:
+plantation of a tree that will be adopted for four years by a group
+  of B.tech students. They will also make an excerpt either as a documentary or
+  a photo blog describing the plant's origin, its usage in daily life, its
+  appearance in folklore and literature.
+Heritage walk
+  and crafts corner: Heritage
+  tour, knowing the history and culture of the city, connecting to people
+  around through their history, knowing the city and its craftsman, photo blog
+  and documentary on evolution and practice of various craft forms. Â Â Â
+Heritage walk
+  and crafts corner:
+Heritage
+  tour, knowing the history and culture of the city, connecting to people
+  around through their history, knowing the city and its craftsman, photo blog
+  and documentary on evolution and practice of various craft forms. Â Â Â
+Organic
+  farming and waste management: usefulness of organic farming, wet waste
+  management in neighboring villages and implementation in the campus
+Organic
+  farming and waste management:
+usefulness of organic farming, wet waste
+  management in neighboring villages and implementation in the campus
+Water
+  conservation: Â Knowing the present practices in the
+  surrounding villages and implementation in the campus, documentary or photo blog
+  presenting the current practices
+Water
+  conservation:
+Â Knowing the present practices in the
+  surrounding villages and implementation in the campus, documentary or photo blog
+  presenting the current practices
+Food walk: City's culinary
+  practices, food lore and indigenous materials of the region used in cooking.
+City's culinary
+  practices, food lore and indigenous materials of the region used in cooking.
+Jamming
+  session, open mic and poetry: Platform to connect to others . Share life
+  stories with others
+Jamming
+  session, open mic and poetry:
+Platform to connect to others . Share life
+  stories with others
+A total of 14 hrs
+  engagement per semester is required for the first year of the B.Tech program.
+  The students will be divided into 10 groups of 35 each. Each group will be
+  handled by two faculty mentors. Faculty mentors will design the activities.
+A total of 14 hrs
+  engagement per semester is required for the first year of the B.Tech program.
+  The students will be divided into 10 groups of 35 each. Each group will be
+  handled by two faculty mentors. Faculty mentors will design the activities.

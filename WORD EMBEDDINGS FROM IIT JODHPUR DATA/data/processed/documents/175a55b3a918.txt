@@ -1,0 +1,31 @@
+all research highlights research paper published by sushmita jha in scientific reports identification of markers for deadly brain tumor multi institute team led by sushmita jha department of bioscience and bioengineering iit jodhpur has identified new markers for deadly brain tumour glioblastoma
+in the paper published in the international journal scientific reports nature publishing group dr jha team used multipronged approach utilizing data from the cancer genome atlas experimental data generated from normal cells and brain tumour cells cultured in the laboratory and experimental data generated from human brain tissue to identify novel biomarkers for glioma
+team members include dr sushmita paul assistant professor dept
+of bioscience and bioengineering iitj dr epari sridhar department of pathology tata memorial hospital mumbai maharashtra india phd students dr nidhi sharma ms shalini singh ms shivanjali saxena mr ishan agrawal and students ms varsha srinivasan ms swetha mr arvind
+this study was funded by the department of science and technology dst and department of biotechnology dbt government of india
+this is the first report identifying nlrp12 as candidate prognostic marker for glioma progression leading the way for designing future therapeutic strategies background gliomas are the most prevalent intracranial tumours accounting for of primary malignant brain tumors
+based on the degree of malignancy gliomas are classified into low and high grade
+low grade glioma lgg specifically represents of all central nervous system tumors in children
+gliomas glioblastomas account for of cns tumors in india
+even after surgery chemotherapy and radiotherapy the median survival is less than months
+gliomas are tumors arising from glial cells
+glial cells constitute approximately of the human brain
+they are responsible for maintenance immunity and repair
+the recalcitrance of glioblastomas gbm results from their ability to form new blood vessels via angiogenesis and tumor heterogeneity
+the highly infiltrative behavior of gbm makes surgery nearly ineffective since tumor cells and glioblastoma stem cells colonize the surrounding brain tissue causing relapses even at distant brain sites
+the domain and repeat containing receptors nlrs and aim2 are innate immune receptors crucial for initiation and progression of several cancers
+there is dearth of reports linking nlrs and aim2 to glioma pathology
+we used approach to identify nlrs aim2 and gene expression and methylation patterns in low grade glioma and glioblastoma using the cancer genome atlas tcga patient datasets
+since tcga data is obtained from tumor tissue comprising of multiple cell populations including glioma cells endothelial cells and we carried out cell culture experiments and immunohistochemistry on human brain tissue to identify cell specific effects
+tcga data mining showed significant differential nlr regulation and strong correlation with survival in different grades of glioma
+we report differential expression and methylation of nlrs in glioma followed by nlrp12 identification as candidate prognostic marker for glioma progression
+in the normal brain cells known as microglia function as immune cells
+we found that nlrp12 deficient microglia show increased colony formation while nlrp12 deficient glioma cells show decreased cellular proliferation
+immunohistochemistry of human glioma tissue shows increased nlrp12 expression
+interestingly microglia show reduced migration towards nlrp12 deficient glioma cells
+the most significant part of the work is identification of the protein nlrp12 that is involved in the normal immune response when absent in microglia leads to aberrant cellular proliferation
+moreover this protein is shown to be highly expressed in tumour cells
+future studies from our group are aimed at understanding the molecular signaling pathways
+this may allow for development of targeted therapeutics and increased survival
+identification of markers for deadly brain tumor multi institute team led by sushmita jha department of bioscience and bioengineering iit jodhpur has identified new markers for deadly brain tumour glioblastoma
+this is the first report identifying nlrp12 as candidate prognostic marker for glioma progression leading the way for designing future therapeutic strategies gliomas are the most prevalent intracranial tumours accounting for of primary malignant brain tumors

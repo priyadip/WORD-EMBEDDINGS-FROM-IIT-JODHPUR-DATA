@@ -1,0 +1,19 @@
+research seminar by anuradha kumari on at pm title of the talk enhancing robustness and sparsity least squares support vector machine date time nov at noon online abstract identifying unusual or abnormal data often called classification occ is fundamental problem across science and engineering
+from detecting faults in systems to identifying rare events in datasets occ plays central role in many applications
+model for occ is the least squares support vector machine valued for its simplicity and elegant mathematical formulation
+however the classical model faces two major challenges first it is sensitive to outliers and noise
+second it produces solutions which limits its scalability to large problems
+to address these limitation we proposed two models
+first robust which improves stability by controlling both the mean and variance of the error making the model resistant to noisy data
+second sparse robust which introduces sparsity through approximations creating the first sparse extension of suitable for
+the work includes intuitive explanations highlighting the mathematical ideas behind robustness sparsity and generalization
+further practical advantages and empirical results are presented that demonstrate the improved performance of our models on benchmark datasets
+about the speaker anuradha kumari obtained her master degree in mathematics and computing from the indian institute of technology guwahati iitg in
+subsequently she pursued her in mathematics at the indian institute of technology indore iiti which she completed in may
+currently kumari is postdoctoral researcher at ku leuven belgium working under the joint supervision of johan suykens and panagiotis patrinos on the project titled rethinking transformers through duality
+her broader research interests include kernel methods robust machine learning classification ensemble deep randomized neural networks and attention mechanisms in transformers
+title of the talk enhancing robustness and sparsity least squares support vector machine date time nov at noon online abstract identifying unusual or abnormal data often called classification occ is fundamental problem across science and engineering
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

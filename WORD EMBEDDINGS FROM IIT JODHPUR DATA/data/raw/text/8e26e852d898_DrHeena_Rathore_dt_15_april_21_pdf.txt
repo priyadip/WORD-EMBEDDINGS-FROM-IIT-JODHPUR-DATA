@@ -1,0 +1,57 @@
+SOURCE_PDF: 8e26e852d898_DrHeena_Rathore_dt_15_april_21.pdf
+
+CSE webinar on March 19, 2021
+Date and Time: Mach 19, 2021 at 6:00 pm, IST
+Speaker: Dr. Heena Rathore, University of Texas, SA, USA
+Title: Brain Variable Reward Structure for Cooperative Machine Learning in IoT
+Network
+Abstract: Recent advances in machine learning research have resulted in state-of-the-art
+techniques where the Reinforcement Learning (RL) agents are focused on either using
+value-based methods or policy-based methods with the goal of reducing variance in the reward
+signal, thereby trying to reach an optimal state in the shortest period. Metrics such as the
+number of iterations taken to reach optimal reward structure or the number of interactions
+needed with the environment to achieve this are generally used as key performance indicators.
+There is a large body of research work that shows how the agents can achieve this using either
+large
+amounts
+of
+training
+data
+or
+using
+complex
+algorithms that require power and
+resource-intensive computational elements. But such a strategy may not be applicable for
+resource and power-sensitive network of IoT devices and more importantly differs fundamentally
+from how humans learn. To overcome this challenge, we have been looking at the field of
+neuroscience to derive inspiration from how the human brain works, specifically towards the
+release of dopamine in response to variable reward structure. Typical RL systems focus on
+receiving observations from the environment, calculating reward, and then deciding on the next
+set of actions at fixed intervals or based on fixed responses. However, scientific research on
+human brain activity has shown higher activity in dopamine release in response to rewards
+received at variable times. In this presentation, findings on two particularly interesting areas in
+neuroscience
+and
+psychology
+are
+presented,
+one
+is
+related
+todopamine-based
+reward-stimulated learning which supports the concept of cooperative learning. It has been
+shown that the active dopamine release activity will be available to increase the processing of
+new information. Second, is related to the study that has found that cooperative groups
+generate more participation and stimulate multiple brain regions. In such an environment, the
+efficiency of the network increases dramatically. We will discuss how RL techniques can learn
+from this behavior, especially in an IoT system that may contain several nodes. Rather than
+expecting agents running on all the nodes at fixed time intervals, our research investigates the
+efficiency gain by invoking agents at different time instances, thereby providing them with an
+opportunity to receive reward signals. Just like variable reward structure results in increased
+dopamine activity in human brains, such an approach can help achieve higher efficiency in IoT
+systems.
+About the Speaker: Dr Heena Rathore is an Assistant Professor at the University of Texas,
+San Antonio, USA. Prior to that, she was a visiting assistant professor at Texas A&M University,
+USA. She also worked as a Data Scientist and Program Manager at Hiller Measurements for a
+
+professional and major trade publications, major media, such as IEEE.TV , Microwave Journal,

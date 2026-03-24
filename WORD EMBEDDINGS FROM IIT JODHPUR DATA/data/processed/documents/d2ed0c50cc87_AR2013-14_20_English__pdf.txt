@@ -1,0 +1,1748 @@
+annual report indian institute of technology jodhpur old residency road ratanada jodhpur contents preface organization board of governors finance committee building and works committee key functionaries centers focus groups associated faculty members staff members academics academic programs research international relations projects faculty publications undergraduate research innovation program ugri outreach institute events visit of union minister for hrd first convocation iit jodhpur new director national festivals initiatives in establishment and administration facilities present campus permanent campus computer center library laboratories health center sports facilities cell student activities students gymkhana student fests parivartan student accolades counselling service student placement cell alumni relations list of registered students financial position preface iit jodhpur is nearing completion of six years
+the year has been an year of introspection and consolidation
+significant effort was put in ensuring smooth transition from oral traditions to formal documented traditions leading to the establishment of systems and processes
+in particular major overhaul was undertaken on two fronts namely the academic degree programs and student and sponsored research programs
+this yearlong effort though arduous was steered enthusiastically by faculty and staff members
+also extra attention was paid to review and recruitment of faculty and staff members
+people is clear strategy at the institute
+actionable items are being taken up to make the institute for educational programs and for technology development programs
+this stakeholder approach of building careers of faculty and staff members is the watchword for the iit jodhpur community
+it is hoped that the institute will establish more systems and processes to implement the stakeholder approach of building the institute
+organization board of governors chairman professor goverdhan mehta fna frs department of organic chemistry university of hyderabad central university po hyderabad director professor murty director iit jodhpur old residency road ratanada jodhpur of the iit council professor pankaj chandra former director indian institute of management bangalore vijay raghavan secretary department of biotechnology government of india kiran karnik former president nasscom panchsheel park new delhi mehta founder chief patron bhagwan mahaveer viklang sahayata samiti path main malviya nagar jaipur state government nominee principal secretary higher technical education main building secretariat government of rajasthan jaipur finance committee hyderabad members jodhpur additional secretary technical education department of higher education ministry of human resources and development shastri bhawan financial advisor sood cmd national scheduled tribes finance and development corporation nbcc tower plot no
+bhikaji cama place ca bhandari director director on the board bank of baroda tilak marg jaipur gaurav harit assistant professor jodhpur building and works committee jodhpur members usha kasana chief architect public works department jacob road civil lines govil additional director general civil retd
+cpwd ankur apartments
+extension delhi bansal chief engineer electrical retd
+cpwd sky lark apartment plot dwarka ravindra associate professor jodhpur key functionaries murty coordinators ravindra faculty ambesh dixit research development gaurav harit academics undergraduate programs atul kumar academics post graduate programs hari narayanan students rakesh kumar sharma laboratories rakesh kumar sharma automation mainak mazumdar library sushmita jha centre for biologically inspired system science ravindra centre for energy anil kumar tiwari centre for information communication technologies kirankumar hiremath centre for system science convener venkata ramana badarla computer science engineering deepak fulwani electrical engineering anand krishnan plapally mechanical engineering sushmita jha biology rakesh kumar sharma chemistry puneet sharma mathematics ashutosh kumar alok physics vidya sarveswaran humanities social sciences shree prakash tiwari council of wardens manikandan student placement committee anil kumar tiwari medical services committee sarma chandramouli logistics committee sarma chandramouli scholarships and prizes committee anand krishnan plappally alumni relations committee laltu chandra peer review committee monika sinha counselling services committee officer gaurav harit chief vigilance officer rahul chhibber transparency officer puneet sharma hindi officer kirankumar hiremath green initiative officer monika sinha women cell officer amardeep sharma public relations officer senate murty chairman pratap bhanu mehta member nominee of board of governors khincha member nominee of board of governors sanjeev misra member nominee of board of governors ravindra members atul kumar mainak mazumdar rakesh kumar sharma shree prakash tiwari vidya sarveswaran academic committee coordinator pg programs chairman coordinator ug programs coordinator center for biologically inspired system science members coordinator center for energy coordinator center for information communication technology coordinator center for system barun pratiher iit jodhpur academic and research activities are organized from its centers and focus groups
+we are committed to developing and multidisciplinary centers where scholars from different disciplines carry out productive research on emerging and technological scientific and social issues that characterize the challenges faced by the contemporary world
+in order to promote the disciplinary culture in each and every academic activity iit jodhpur does not adopt the structure of establishing the academic departments based on the individual disciplines
+only undergraduate programs are offered in the individual disciplines
+presently iit jodhpur has four centers in the following areas
+information and communication technology
+systems science and
+systems science the focus groups are organized in the following disciplines
+computer science engineering
+humanities social sciences vision biologically inspired system science biss is center initiated with the broad objective to design novel adaptive and sustainable technological solutions inspired by biological systems and processes
+iit jodhpur launched the center with the conviction that the time for reforms has come to move from singular education towards quality multidisciplinary education which will eliminate existing boundaries between biology and engineering
+in biss provides the students with the option of choosing core competencies in one of the three engineering streams of electrical engineering mechanical engineering or computer science engineering with added state of the art competency in biological sciences
+they will be trained in courses ranging from basic biology to advanced neuroscience psychology cognitive science computational biology and environmental science
+this blend of knowledge of core engineering and pioneering fields in biology provides the added advantage of choosing careers in fields of conventional engineering as well as in biologically inspired engineering
+program in biologically inspired system science is divided into semesters
+the key features of this program are as follows
+empower the students with fundamentals with core courses
+develop research orientation
+motivate towards higher education
+specialized or advanced elective courses
+prepare the students to meet the requirements of core industries the biologically inspired system science program emphasizes hands on training and integration of techniques from biological sciences physical sciences and engineering to innovate and translate which enables students to undertake multidisciplinary and integrated problems
+research axes the faculty performs basic and applied research in the following areas computational biology and biophysical sciences the focus of this group is to understand the underlying physical and chemical processes that constitute complex biological systems
+group members work on theoretical and computational approaches such as molecular docking virtual screening molecular dynamics along with computational modeling based on graph theory complex network analysis that provide relevant information of such complex systems at the molecular level
+the group also implements diverse biophysical techniques magnetic resonance microscopy calorimetry spectroscopy etc
+to understand and analyze the structure function and intermolecular interactions of biologically relevant small and macromolecules besides verifying the computational predictions
+cellular and molecular neuroscience the objective is to unravel the cellular and molecular mechanisms underlying the functions of the healthy as well as diseased brain
+the first approach is to understand the molecular mechanism of highly versatile and ordered protein assemblies at the cellular level in neurons
+the second approach aims at understanding the intricate cellular and molecular mechanisms that underlie interactions of glial cells with one another and with neurons
+cognitive science cognitive science the study of mind and its functioning is pursued from philosophical psychological computational and neuroscience perspectives
+current research is focused on embodied cognition mindfulness attention perception memory interface creativity cognitive biases in behaviours such as and defensiveness and cognitive and training for excellence
+bioenergy and bioremediation energy harnessing systems that have an inherent capacity to remove pollutants are the systems of interests for their sustainability and wide applicability
+this axis focuses on microbial fuel cells which are efficient waste treatment devices but low energy producers
+the research is focused on improving energy efficiency by understanding the microbial processes in cell compartments
+our lab is also exploring yeast based biodiesel and the improvement of yield thereof
+science technology and society the pedagogical and academic loci of this axis consist of the niche of science technology and society
+this axis gives emphasis to philosophical cultural normative and historical understanding of the above niche
+major themes of enquiry involve history and philosophy of science normativity of science and technology sustainability technological discourses aesthetics and design visual arts studies and literature
+the axis provides platform for understanding ways in which human societies transform themselves through technological innovation and for assessing the social cultural and ethical issues associated with the change
+center for energy purpose the center for energy at indian institute of technology jodhpur is dedicated to educating developing new and improved energy conversion technologies and sustainable energy solutions including new materials for energy storage technology indigenization harvesting solar energy and energy conversion
+the center is envisioned to be catalyst for the growth and development of the arid west of india by initiating educating and coordinating regional national as well as international activities on energy
+it provides common ground for government academia industry and the society to foster partnerships and engagement in related issues and technology development
+the center for energy has faculty members working in energy research from the focus groups of chemistry electrical engineering mechanical engineering and physics for the purpose of leveraging their work and expertise
+the associated faculty members are engaged in basic and applied research in the following areas
+computational fluid dynamics
+structural analysis and design
+environment and society
+energy conversion and distribution center for information communication technology ict the aim of the center for information and communication technology ict is to make it premier destination to develop innovative and sustainable ict based solutions for addressing the and environmental problems
+mission at center for ict multidisciplinary research is conducted and academic programs are offered with the below mentioned objectives
+to harness the potential of technological advances to solve the existing economic and environmental problems
+to turn the digital divide into digital opportunity for all through functionality driven cost hardware design
+to develop breeding ground for learners developers contributors entrepreneurs and
+to work in the direction of building an inclusive society with the participation of government private sector and international organizations
+communication and networking this group activities are primarily focused on developing solutions for wireless and wired communication sensor and computer networks
+the research involves development of computationally efficient schemes for mimo systems interference management resource allocation layer algorithmic design physical layer security surveillance wireless power transfer and cognitive radio technologies
+other focus areas include satellite based navigation systems radar systems and mobile cloud computing
+device technology this group activities are mainly focused in the area of microelectronics and vlsi
+current research activities are aiming to developing low dimensional semiconductor devices group materials for leds hemts sensors and solar cells applications low cost organic transistors oxide and nitride compound semiconductors in multilayer geometries for memory and photovoltaic applications magnetic materials for spintronics applications plasmonic and metamaterial structures piezoelectric thin films for mems devices
+multimedia and software systems currently the group is focusing on computationally efficient algorithms for processing of degraded video noise minimization super resolution watermarking image and video compression
+main focus is on video analysis document image analysis surveillance video indexing
+particular emphasis is on addressing the machine learning issues in making these applications
+for software systems the focus is on designing energy efficient task scheduling algorithms for systems solving scientific problems requiring high performance computing capability using distributed systems and computational complexity theory
+this group also looks into the systems related aspects of analytics
+center for system science ss the center for system science iit jodhpur from its very inception in has aimed to promote and implement interdisciplinary education and research by adopting holistic systems thinking approach
+the center upholds its vision of transforming students into young trained graduates who are imbibed with the spirit of systems thinking in diverse domains of engineered systems natural systems and financial systems
+the center works of the research axes that include quantitative finance quantum information nonlinear dynamics and chaos complex networks and systems chemical reaction dynamics graph algorithms and image processing
+details of these research areas are quantitative finance the focus areas of the quantitative finance group include financial risk measurement and modelling credit risk market risk and operational risk for banking sector time series and machine learning techniques development of models for long term and short term forecasting of financial time series and insurance models analysis of existing models and development of new models
+quantum information quantum information area deals in wide range of topics covering fundamental aspects of quantum entanglement to the potential applications offered by quantum information and computation such as quantum cryptography teleportation secret sharing quantum algorithms and dense coding
+in this research axis the group also works on the interface of quantum information with areas of research such as quantum optics condensed matter physics and particle physics
+non linear dynamics and chaos the area deals in engineering and mathematical aspects of nonlinear dynamics the long term behaviour and stability dynamical properties like transitivity sensitivity periodicity entropy and various notions of chaos
+insights obtained from these mathematical studies are applied in fields like nonlinear optics plasmonics matter interactions etc
+the group also focuses on renormalization technique to study geometric rigidity of the attractors in low dimensional systems and how to extend this theory to higher dimensional systems
+complex networks and systems the focus areas of this research area include controllability voting and consensus decision making games on networks network and social capital information diffusion in networks modelling and analysis of real networks
+members in this group are also contributing towards the national mission on electric mobility program nmemp through holistic systems approach for electric mobility research starting from materials to engineering
+focus groups the inception of focus groups in individual disciplinary subject areas in the year has facilitated faculty members to engage in directed discussions for improving quality of education at iit jodhpur
+presently there are eight focus groups in the following areas with associated faculty members and their areas of specialization abhishek mishra computer science and engineering algorithms complexity control and state estimation of uncertain systems power system control issues in wind energy conversion system abdul gafoor shaik protection of various components of power system protection of distribution network with dg penetration power quality assessment and mitigation in distribution networks with renewable energy source penetration anil kumar tiwari electrical engineering image processing video processing and signal processing application in arun kumar singh communication theory wireless and mobile communications satellite based navigation systems spread spectrum systems sandeep kumar yadav signal processing condition monitoring image processing data compression blind source separation artificial neural network microelectronics vlsi technology microfabrication organic electronics device physics and characterization new device structures vivek dixit nanophotonic optoelectronic devices semiconductor device physics semiconductors plasmonics mechanics of materials probability methods in engineering agriculture water management mechanics mechatronics and solar energy dynamic model simulation nonlinear dynamics stability analysis perturbation techniques flexible robots structures interaction in flexible pipes or carbon nanotube modeling and dynamics response mems devices laltu chandra solar thermal system thermal hydraulics turbulence simulation model development computational fluid dynamics heat exchanger design prodyut ranjan chakraborty heat and mass transfer latent heat based thermal energy storage for high temperature applications active and passive solar cooling solidification and melting of alloys thermodynamics numerical heat transfer rahul chibber welding and joining advance manufacturing processes damage mechanics biomaterials materials processing tapano kumar hotta thermal management of electronic devices solar refrigeration and amit kumar mishra cellular and molecular neuroscience cell cycle regulation and cancer ganesh bagler computational biology and bioinformatics complex networks systems biology complex systems karunakar kar protein biophysics amyloids and collagens rationally engineered biomaterials meenu chhabra biological science renewable bioenergy bioremediation ananya debnath modeling biophysics dynamics and thermodynamics of interfacial water polymer dynamics of activated processes and barrierless reactions theory of path integrals quantum information processing manikandan paranjothy theoretical and computational chemistry chemical reaction dynamics harinipriya lithium ion batteries fuel cells thermal storage systems monte carlo simulations materials synthesis and characterization samanwita pal solution and solid state nmr and nqr spectroscopy bibhas adhikari linear and algebraic systems optimization techniques network systems dinabandhu pradhan graph theory and graph algorithms gaurav bhatnagar wavelet analysis fractional transform theory multimedia security image processing information fusion venkata appal raju financial mathematics insurance models kirankumar hiremath theoretical mathematical and computational aspects of matter interactions satyabrata adhikari chandramouli smooth dynamical systems renormalization of unimodal maps and maps vivek vijay financial risk analysis categorical data analysis regression ambesh dixit semiconductors multifunctional ferroics materials for fabrication characterization photovoltaic materials devices ab initio dft study and device simulations mahesh kumar group quantum structures by mbe growth of thin films and nanostructures group alloys for leds hemts and photovoltaic applications hybrid structures with special attention to band gap engineering si and wide band gap semiconductors for mems micro and nano device fabrications monika sinha astrophysics astroparticle physics satyajit sahu information processing in biological systems subhashish banerjee open quantum systems quantum information statistical mechanics quantum optics narayanan optics and solar field design plasmonics laser produced plasmas lpp pulsed laser deposition pld plasma diagnostics interferometry optical emission spectroscopy oes laser matter interaction and laser cluster interaction and literature literatures of the global south regional literatures in translation american literature ankita sharma psychology gerontology clinical and positive psychology ansu louis english american literature literary and critical theory postmodern fiction and english language and communication debabrata pal economics social choice theory law and economics economic networks economic theory gourishankar hiremath economics financial economics financial markets international finance economics of energy long memory cooperatives george philosophy applied ethics ethics of technology bioethics economics intellectual property rights ipr and pharmaceutical industry productivity and efficiency analysis growth and regional development inequality poverty and social mobility rijo john economics health economics health policy applied econometrics development studies snehlata jaswal psychology cognition psychometrics depression sreekumar jayadevan philosophy philosophy of science aesthetics of design formal logic philosophy of technology hari narayanan philosophy cognitive studies evolutionary theory analytic philosophy and mindfulness kshema prakash deputy librarian sanjeeb mukherjee executive engineer amardeep sharma assistant registrar ashish kachhawaha account officer gaurav nigam superintendent sandeep chandel narendra kumar singh technical superintendent rimpesh katiyar vijay borana senior technical superintendent dheerendra kumar yadav junior technical superintendent poonam chand sankhla rinkesh kumar mangal bharat pareek raju peta shailendra pratap singh amit kumar soni senior library information assistant naresh chouhan junior account officer sandeep pareek junior superintendent sharabh pradhan sudesh kumar agnihotri vinay kumar junior engineer chandresh pareek sharad srivastava junior accountant dhani ram junior assistant swati kushwaha ganpat chowdhary junior technical lab assistant pankaj singh praveen suthar anurag gupta vivek verma junior lab assistant academic programs in the year in meticulous effort involving faculty members office of academics students the curriculum and coursework of the three degree programs namely
+and programs were critically reviewed and recast
+this restructuring of over courses has given an opportunity to raise the bar of quality academics at iit jodhpur
+presently iit jodhpur offers the following undergraduate post graduate and programs
+the five bachelor of technology
+programs offered are namely
+computer science and engineering
+biologically inspired systems science the duration of
+tech programs is years
+the objectives of these undergraduate programs are to
+to provide fundamental concepts to students in technology and science
+to promote spirit of free and objective enquiry in the field of study and
+to contribute towards development of skilled technical manpower to address the technological needs of the nation
+the master program is offered in three domains namely
+information and communication technologies and
+system science the
+programs now have organized streams of electives
+likewise the coursework requirement of the new programs has been brought with the practice at other institutes
+in all the three programs
+and research is encouraged with one supervisor to begin with
+iit jodhpur hosts program in all areas of technology engineering sciences and humanities and social sciences
+the aim of the
+program is to develop graduates having good knowledge and research training in classical and emerging areas
+program is based on three tenets of semester system credit system and relative grading
+the year also saw successful passing of the proposal for an partnered blended
+this unique program has been slated to be launched for the undergraduate students joining the institute from july
+the salient features of this unique program include
+inviting distinguished personnel from leading industry to contribute to the curriculum reforms and offering lectures in select domains
+taking students through an immersive experience at the industry for each summer for three successive summers as an integral part of technology education offered by the institute
+first lectures of all courses by distinguished subject specialists from industry and academia
+early engagement of students with courses
+comprehensive capstone innovation project spanning over two and half years in association with the industry
+as of now seven top industries of the country have shown their willingness to enthusiastically participate in this program of the country
+research memoranda of understanding mou between iit jodhpur and international and national institutions and agencies
+university of western ontario canada to explore the possibilities for cooperation in education training and research and also to encourage direct contact and mutual cooperation between faculty members departments and research centers
+universitat rovira virgili tarrgona spain development of mutually beneficial academic program and courses coordination of academic staff travel for the purposes of teaching research and training cooperation of student mobility program for study research and for joint academic activities such as research publications conferences and symposia exchange of documentation and research materials in the field of mutual interest provided that there are no legal barriers against exchange and collaboration in international master and doctoral programs between both the institutions
+the commissariat energie atomique et aux energies alternatives france cooperation in the areas of solar energy research such as concentrated solar power csp and concentrated photovoltaic cpv water production by using solar energy renewable energy storage and smart management integration of solar energies and energy efficiency in buildings
+university of waterloo canada collaborative measures to foster international experience and advancement of knowledge on the basis of reciprocity mutual benefit interaction and exchange of students in graduate programs
+university of manitoba canada development of mutually beneficial programs for student internships and graduate study in order to provide students opportunities for advancement of knowledge and international experience
+embassy of france in india for exploring prospective domains for students and scholars to learn french language effectively
+university of california merced development of mutually beneficial relationships for promoting academic exchange scholarly cooperation and collaborations under mutually agreeable terms and conditions the exchange of faculty members scientists and students and scientific material access to library resources pursuit of joint meetings symposia conferences and access to laboratories as may be appropriate and feasible in the two institutes
+arid forest research institute jodhpur india development of sheltering belt plantation as urban forestry model for at selected site at iit jodhpur
+institute of science and technology nara japan to promote academic exchanges in fields where each party needs to enhance its educational and academic programs the academic exchanges will include implementation of collaborative research joint symposia lectures and education and exchange of scholars researchers and administrative staff exchange of information in fields which are of interest to both parties and exchange of graduate students in fields of interest to both parties
+the national goal of improving research ambience at institutes of technology is being taken seriously by our faculty members
+as detailed in the following list of ongoing sponsored research projects now of them have funding from national and international agencies for undertaking sponsored research
+currently sponsored research projects in the institute are
+identification assessment and characterization of ubiquitin ligases implicated in the neurodegenerative diseases department of biotechnology dbt government of india pi amit mishra rs
+understanding the molecular function of in chaperone mediated autophagy rs
+identification assessment and characterization of ubiquitin ligases and molecular chaperones implicated in the neurodegenerative diseases department of science technology dst government of india rs
+how amfr gene regulates cell division and cancer after stress exposure
+board of research in nuclear sciences brns dae government of india rs
+language cognition the human mind ministry of human resource development government of india pi hari narayanan rs
+bioremediation of low level wastes including denitrification using microbial fuel cells pi meenu chhabra atul kumar rs
+deposition of particulate matter in lungs pi sushmita jha rs
+role of the inflammasome associated proteins in glioma science and engineering research board serb dst government of india pi sushmita jha rs
+development of thin film for high frequency saw device applications department of space government of india pi ambesh dixit rs
+development of ferroelectric and their composite with hexaferrites for microwave absorption applications defence research development organization jodhpur rs
+investigation of magnetoelectric coupling in multiferroic system rs
+hunting of new physics through transitions council of scientific industrial research csir government of india pi ashutosh alok subhashish banerjee rs
+bifurcation and stability assessment of highly lightweight system with moving platform pi barun pratiher rs
+establishment of the centre of excellence in solar thermal research and education ministry of new renewable energy government of india pi laltu chandra rs
+csp plant indian oil corporation rs
+generation storage and distribution of solar hydrogen pi rakesh kumar sharma rs
+asymmetric hydrogenation on carbon nanotube surface rs
+molecular sensors synthesis and anion recognition studies rs
+dual scale simulations of surfactant water system pi ananya debnath rs
+enabling technologies for intelligent wireless sensor network for health and environment monitoring pi anil kumar tiwari rs
+development of low cost mobile robots robotics for education national mission on education through information communication technologies nmeict ministry of human resource development government of india pi deepakkumar fulwani rs
+development of programmable emulator for photovoltaic plant to facilitate complex testing requirements rs
+development of analysis and indexing tools for harnessing educational videos pi gaurav harit rs
+development of metal doped low dimension structures by sputtering for gas sensing applications pi mahesh kumar rs
+chemical dynamics simulations of complex organic reactions pi manikandan paranjothy rs
+networks lab ni systems pvt
+bangalore pi sandeep kumar yadav rs
+reproductive child health unicef jaipur branch rs
+synchrony based evolution of various biological and artificial systems to understand complex computational aspects pi satyajit sahu rs
+developing dielectric semiconductor combinations and processes for flexible organic electronics pi shree prakash tiwari rs
+theory and numerical algorithms for interval linear system and interval value problem board of research in nuclear sciences dae government of india pi bibhas adhikari vivek vijay rs
+graph theoretical aspects in quantum information processing council of industrial scientific research government of india rs
+sic coatings on graphite pi harinipriya rs
+ultrafast charging cathode and anode nanomaterials for aqueous flexible lithium ion batteries rs
+lakhs in particular for their research achievements in respective areas amit kumar mishra has been decorated with insa young scientist medal at the insa annual convention in december while mahesh kumar has been chosen to receive the same this year in december
+nine of the faculty members were invited to present their research at national technical events
+the involvement of the institute in solar energy research has been strengthened by union ministry of new and renewable energies government of india through its continued support to build peak capacity concentrated solar thermal system on the permanent campus of iit jodhpur
+in the year journal papers conference presentations and conference proceedings publications two book chapters and two edited books have been contributed by our faculty members
+also our faculty members are serving on the editorial boards of some international and national journals
+alongside our staff members have participated as members of selection and assessment committees at the indian council for agricultural research icar and other iits
+in particular kshema prakash is involved in developing course contents for the development of pathshala spearheaded by inflibnet consortium
+faculty publications journal publications
+structured mapping problems for linearly structured matrices
+linear algebra and its applications vol
+sazim adhikari banerjee pramanik
+quantification of entanglement of teleportation in arbitrary dimensions
+quantum information processing vol
+decoherence free bd and bs meson systems
+banerjee chandrashekar pati
+enhancement of geometric phase by frustration of decoherence effect
+omkar srikanth banerjee
+dissipative and channels dynamics and geometry
+quantum information processing
+commun nonlinear sci numer simulat delayed logistic map
+communications in nonlinear science and numerical simulation
+dhar banerjee chatterjee ghosh
+controllable quantum correlations of states generated using classically driven atoms
+annals of physics
+study of freckles formation during directional solidification under the influence of and multiphase convection
+journal of thermal science and engineering applications vol
+simultaneous chromium removal and power generation using algal biomass in dual chambered salt bridge microbial fuel cell
+journal of bioremediation biodegradation vol
+jindal chhibber mehta
+effect of welding parameters on bead profile microhardness and content in submerged arc welding of strength steel
+proceedings of the institution of mechanical engineers part journal of engineering manufacture
+modeling flux chemistry for submerged arc weldments of steel
+ciomaga hatnean petit dixit lawes suryanarayanan
+structural and magnetic properties of the sc oxides
+journal of solid state chemistry
+dixit thakur naik naik
+influence of excitation frequency on raman modes of thin films
+advances in condensed matter physics article id
+goi ogawa tan dixit lim png kwong
+silicon modulator using phase shifter with bottom pn junction formed by doping
+ieice electronics express vol
+khoo ahmed guo dixit ang li
+investigation of the near field distribution in circular nanostructures using stokes polarization states
+applied physics vol
+changing perceptions of fairness group identity locus of merit and need and the preference for norms of allocation
+international journal of social sciences vol
+bag harit bhowmick
+recognition of bangla compound characters using structural decomposition
+pattern recognition vol
+mallik ghosh chaudhury harit
+mowl an ontology representation language for multimedia applications acm transactions on multimedia computing communications and applications vol
+franchimon hiremath stoffer hammer
+interaction of whispering gallery modes in integrated optical microring or microdisk circuits hybrid coupled mode theory model
+journal of the optical society of america vol
+hotta balaji venkateshan
+experiment driven based technique for optimal distribution of discrete heat sources under mixed convection
+experimental heat transfer
+optimal distribution of discrete heat sources under mixed heuristic approach
+journal of heat transfer
+optimal distribution of discrete heat sources under natural convection using based technique
+heat transfer engineering
+early life of scientific theories model based analysis
+jadavpur journal of philosophy vol
+mamudu john veeranki ouma
+the odd man out in africa understanding the tobacco use prevalence in madagascar
+bmc public health vol
+mamudu veeranki john
+tobacco use among going adolescents years in ghana
+nicotine tobacco research vol pp
+type collagen prevents amyloid aggregation of hen egg white lysozyme
+biochemical and biophysical research communications vol
+kar arduini drombosky van der wel wetzel
+polyglutamine amyloid recruits monomers and kills cells
+journal of molecular biology vol
+roy ganguly kumar adhikari majumdar
+cloned qutrit and its utility in information processing tasks
+bhat rajpalke roul kumar krupanidhi
+impact substrate nitridation on the photoluminescence and photovoltaic characteristics of gan grown on by molecular beam epitaxy
+journal of materials science in electronics vol
+rajpalke roul bhat kumar sinha jali krupanidhi
+effects of growth temperature on nonpolar inn grown by molecular beam epitaxy
+physica status solidi vol
+ethnicity and the rhetoric of essentialism in philip roth operation shylock
+critique studies in contemporary fiction vol
+chhangani chinchwadkar mishra
+autophagy coupling interplay can improve cellular repair and aging
+molecular neurobiology vol
+chhangani mishra amit
+mahogunin ring suppresses misfolded protein aggregation and toxicity
+scientific reports no
+protein quality control system in neurodegeneration healing company hard to beat but failure is fatal
+mishra maheshwari chhangani endo joshi yamanaka
+association promotes aggresomes degradation and suppresses toxicity
+neurobiology of aging vol
+monte carlo algorithm for real time task scheduling on processors with software controlled dynamic voltage scaling
+applied mathematical modelling vol
+energy efficient voltage scheduling for processors with software controlled dynamic voltage scaling
+applied mathematical modelling
+embodied cognition and the orwell problem in cognitive science
+ai society pp
+rajeev madhu trivikram rishad narayanan krishnamurthy
+generation of energetic negative ions from clusters using intense laser fields
+new journal of physics
+paranjothy sun kumar paul hase
+models for intrinsic dynamics
+decomposition of the intermediate
+zeitschrift physikalische chemie
+paranjothy sun zhuang hase
+direct chemical dynamics simulations coupling of classical and quasiclassical trajectories with electronic structure theory
+wiley interdisciplinary reviews computational molecular science vol
+pratihar kohale yang paranjothy gibson killelea hase
+chemical dynamics simulations of high energy xenon atom collisions with the surface of hexagonal ice
+the journal of physical chemistry vol
+water use and related costs at households in western and northern parts of india
+hydrology current research vol
+on the complexity of the minimum dominating set problem in graphs
+journal of combinatorial optimization january
+ghosh dutta sahu fujita bandyopadhyay
+nano protocol to write energy transmission program inside molecule for supramolecular engineering
+advanced functional materials vol
+ghosh sahu bandyopadhyay
+evidence of massive global synchronization and the consciousness comment on consciousness in the universe review of the orch or theory by hameroff and penrose
+physics of life reviews vol
+sahu ghosh ghosh aswani hirata fujita bandyopadhyay
+atomic water channel controlling remarkable properties of single brain microtubule correlating single protein to its supramolecular assembly
+biosensors bioelectronics vol
+characterization of black chrome films in the presence and absence of graphite encapsulated feco nanoparticles prepared by electrodeposition technique for solar thermal applications
+ecs transactions vol
+usmani seshadri kumar gupta
+solar selective coatings with enhanced thermal and corrosion stability electrochemically deposited black chrome on stainless steel in the presence of graphite encapsulated feco nanoparticles
+manda saini khaleeq patel usmani seshadri roy
+thermocells of carbon material electrodes and its performance characteristics
+journal of materials research and technology vol
+challenging activity theory for subjective
+indian journal of applied research vol
+salvi sharma raman
+efficient image retargeting for high dynamic range scenes
+computer vision and pattern recognition
+submitted to computing repository corr
+sinha huang sedrakian
+strange quark matter in strong magnetic fields within confining model
+physical review vol
+strange quark matter in strong pp
+design methodology of new wavelet basis function for fetal phonocardiographic signals the scientific world journal vol
+article id pages
+chourasia tiwari gangopadhyay
+interval fuzzy logic based antenatal care system using phonocardiography
+applied soft computing vol
+polander hwang tiwari seifried marder
+bis naphthalene diimide derivatives with and tricyclic heterocyclic bridges as materials
+singh vijay ravindra basu chaturvedi rajshekhar
+combined effect of deterministic and stochastic variables on comparative performance analysis of kw pv and pv based rooftop grid tied solar photovoltaic systems in jodhpur
+journal of central power research institute vol
+singh vijay hiremath chaturvedi rajkumar
+analysis of solar power variability due to seasonal variation and its forecasting for jodhpur region using artificial neural network
+journal of the central power research institute vol
+burki pasha pasha john jha baloch
+the economics of tobacco and tobacco taxation in pakistan
+paris international union against tuberculosis and lung disease
+isbn conference presentations publications in conference proceedings
+rathore badarla jha gupta
+novel approach for security in wireless sensor network using
+in sixth international conference systems networks comsnets
+novel framework for image fusion
+in harit ed
+fourth national conference on computer vision pattern recognition image processing and graphics ncvpripg jodhpur pp
+sharma sarma chandra shekhar ghoshdastidar on the design and evaluation of open volumetric air receiver for process heat applications
+ises solar world congress cancun mexico
+yadav pala chandra on the understanding and analyses of dust deposition on heliostat
+solar thermal at iitj
+workshop on energy efficiency and clean energy september india expo center greater noida india
+verma jayakumar chandra shekhar
+development of technique for measurement of high heat flux
+national systems conference december iit tripathi lahuwa mohan dixit
+novel mics band implantable antenna for wban application
+in proceedings of the ieee indian antenna week
+tanwar tripathi lahuwa mohan dixit
+trivedi singh digumarti fulwani kumar
+design and implementation of smart wheelchair
+proceedings of conference on advances in robotics air acm new york ny usa
+on design of robust controller to mitigate cpl effect application
+in ieee international conference on industrial technology ict
+busan korea ieee
+intergenerational and international justice sustainability and the dilemma of developing nations
+in societas ethica annual conference climate change sustainability and an ethics of an open future
+soesterberg netherlands societas ethica
+profiles on facebook what do they reveal
+in indian and international conference of the indian academy of applied psychology
+ahmedabad indian academy of applied psychology
+debris clearance in the brain implications for inflammation and repair
+in young investors meeting yim
+tripathi ravindra joshi
+improving lubrication of edm oil at higher shear rate temperature with carbon nanotubes
+in international conference and exhibition of powder granule and bulk solids innovations and applications pgbsia
+singh elia jalden
+tradeoff for ml and lattice decoding of codes
+in ieee international symposium on information theory pp
+jaiswal au jakhetiya guo tiwari
+efficient adaptive prediction based reversible image watermarking
+in ieee international conference on image processing icip pp
+hong kong ieee
+jaiswal au bhadviya jakhetiya yuan tiwari
+an efficient two phase image interpolation algorithm based upon error feedback mechanism
+in ieee signal processing society sips proceedings pp
+singh vijay ravindra basu chaturvedi
+ground based measurement for solar power variability forecasting using generalized neural network
+in vijay yadav adhikari seshadri fulwani eds
+systems thinking approach for social problems proceedings of national systems conference december
+series lecture notes in electrical engineering vol
+jodhpur springer verlag
+hewson jaber chkeir hammoud gupta bassement yadav duchene
+development of monitoring system for physical frailty in independent elderly
+proceedings of the annual international conference of the ieee engineering in medicine and biology society osaka pp
+tripathi mohan yadav vijay dixit
+hexagonal shaped fractal uwb antenna
+in ieee applied electromagnetics conference
+tripathi yadav vijay dixit
+novel multi band notched octagonal shaped fractal uwb antenna
+in international conference on software engineering icse pp
+san francisco icse
+inhibition in the process of feature binding
+switzerland frontiers media sa
+slovic rangarajan sarveswaran
+ecoambigutiy community and development toward politicized ecocriticism
+maryland lexington press
+design of sliding mode controller with actuator saturation
+in bandyopadhyay janardhanan spurgeon eds
+advances in sliding mode control se vol
+springer berlin heidelberg
+reconceptualising the separative self
+in menon sinha sreekantan eds
+interdisciplinary perspectives on consciousness and the self pp
+role of emotional competence in motivation to work and extra role behaviors
+in pattanayak ray
+inclusive growth need to rethink the business model
+undergraduate research initiative ugri indian institute of technology jodhpur started the undergraduate research initiative ugri program in with the objective to promote research and innovation among diverse group of undergraduate students
+this program is being continued in every summer to help selected students improve their professional knowledge and skills
+students across the country are encouraged to utilize the ugri program for their academic and professional developments
+in the institute conducted this program from may to july
+students were selected for working on projects of their interest with the faculty members in the institute on topics related to energy health environment and ict information and communication technologies
+the selected students were provided accommodation in students hostel at iit jodhpur
+during this period remuneration of rs
+per month was offered as financial assistance to the participants
+the students also received an additional sum of rs
+for preparing posters and interim reports
+the institute saw the launch of new initiative jodhpur distinguished lecture series where current and former ambassadors of india are invited to the institute to share their experiences and understanding of india in the context of the world
+as part of this initiative the first lecture was delivered by ashok sajjanhar the former ambassador to latvia sweden and kazakhstan who is presently the secretary of national foundation of communal harmony nfch
+the distinguished lecture dil series and lecture eml series are two other initiatives of the institute to bring in meaningful exchange of ideas from outside to the institute
+the first distinguished lecture was delivered by professor bruce alberts noted american biochemist and former president of the national academy of sciences usa on january
+the first eml lecture was delivered by professor ananth former director iit madras and currently visiting professor iisc bangalore on november followed by professor bhat director mnit jaipur on november and by professor raju former director iit delhi on march
+faculty members of the institute organized six events to facilitate scholarship and networking among the research communities
+they are international workshop on socio economic network system october national systems conference december
+international meet on quantum correlations and logic language and set theory december national conference on computer vision pattern recognition image processing and graphics december international workshop on design of for concentrated solar power technologies december and short course on design of concentrated solar thermal systems december
+institute events the union minister for human resource development sh
+pallam raju visited the institute on april
+he first visited the labs lecture hall complex and other facilities of the institute in its transit academic campus
+pallam raju then laid the foundation stone for iit jodhpur permanent campus at karwad village on the same day
+first convocation of iit jodhpur iit jodhpur first convocation was held on july
+honourable president of india shri pranab mukherjee graced the occasion as the chief guest of the ceremony
+the ceremony was also attended by smt
+margaret alva governor of rajasthan and sh
+ashok gehlot chief minister of rajasthan
+the first two batches of
+undergraduate students and the first batch of
+students received their degrees on this occasion
+the president on this occasion also performed ceremonious tree plantation ritual at the institute permanent campus on nh at karwad village
+the first convocation ceremony of iit jodhpur was attended by many dignitaries from in and around jodhpur
+professor murty has assumed charge as director of iit jodhpur on september
+professor murty did his
+in civil engineering
+in structural engineering from iit madras and in civil california institute technology usa
+he started his career in at iit delhi
+he worked in the department of civil engineering iit kanpur from to and also served as head department of civil engineering
+during he was associated with iit madras as visiting professor to start and establish basic academic systems at iit hyderabad
+he served as professor at iit madras from till he joined iit jodhpur as the institute director
+professor murty primary research interests have been seismic behaviour of steel and reinforced concrete rc structures modelling of nonlinear behaviour of structures and development of seismic design codes
+his work is mostly related to the practical aspects of earthquake engineering research and implementation of the same in the design guidelines and building codes of the country
+he has supervised six and masters theses currently he is supervising the theses work of four students
+he has been associated with major revisions of the indian seismic codes on seismic design provisions for buildings and bridges as member of bureau of indian standards and indian roads congress code committees
+he has authored of seven books and one on earthquake resistant design and construction the book earthquake tips series on learning earthquake resistant design and construction received the ici best construction technique paper award for the year
+he was the world housing encyclopedia earthquake engineering research institute usa during october july and is currently its editor
+he was principal author national disaster management policy and guidelines earthquakes this policy document approved in april by the national disaster management authority ndma government of india is the primary policy document identifying comprehensive action plan items to be undertaken in the march towards seismic safety in india
+also he is member of other technical committees of ndma to develop guidelines for safety against tsunamis seismic retrofitting of buildings and hospitals policy for banks and seismic macrozonation of india
+he served as honorary advisor earthquake mitigation government of national capital territory of delhi during june july
+since may he is member of the tamil nadu state disaster management authority government of tamil nadu chennai
+he has been member of earthquake reconnaissance teams which conducted extensive survey after the sikkim kashmir sumatra diglipur bhuj chamoli jabalpur and killari earthquakes
+some of these studies were also part of earthquake engineering research institute eeri usa learning from earthquakes project with national science foundation usa
+he was the team leader of ndma reconnaissance team to study effects of the sikkim and doda earthquakes
+he conducted over short courses in india nepal and bhutan on seismic design of new buildings reinforced concrete steel and masonry of bridges and seismic evaluation and strengthening of existing structures and which trained over professional engineers and architects with his colleagues
+he actively steered in technical collaborations in earthquake engineering research with two organisations namely the central building research institute cbri roorkee india in joint collaboration research projects during supervised four masters theses of students the institute of engineering ioe tribhuvan university katmandu nepal from in establishing the
+research program in structural engineering laboratory experiments theses discussions and external examiner
+since he has been member of the technical advisory committee on structural safety of temples and associated structures under the control of endowments department government of andhra pradesh
+currently he is chairman study group on the indian engineering heritage civil of the indian national academy of engineering new delhi to develop white paper on status and future of civil engineering heritage in india
+he is fellow indian national academy of engineering fellow institution of engineers india life member indian society of earthquake technology life member indian roads congress associate member earthquake engineering research institute usa life member indian concrete institute life member institute for steel development and growth life member institution of engineers india life member indian society for advancement of materials and processing engineering and life member indian archaeological society
+independence day celebrations the independence day was celebrated in the institute on august with great spirit of patriotism
+the director faculty members staff and students participated in it
+the function started at am on the morning of august at the academic campus with the director professor prem kumar kalra hoisting the national flag followed by the national anthem and director address
+the students organized various cultural programs like performance iitj musical band sangam recitation of patriotic poems speeches dance and street play performance by our students dance and dramatics club etc
+prizes were distributed to students who aced academics activities
+the national festival was also celebrated in the two residential campuses of the institute
+republic day celebrations the republic day was celebrated in academic and residential campuses of iit jodhpur on january
+professor murty director of iit jodhpur hoisted the flag in the academic campus at am and addressed the members of faculty staff and students
+on this occasion the contribution faculty staff members institute was recognized
+rakesh kumar sharma and vivek vijayvargiya were felicitated as best teachers while kshema prakash and sharad srivastava received the award in staff category
+three of our helpers kanwara ram dungar ram and manohar singh and chouhan guard mbm college jodhpur were also honoured
+mannell zakharia international technical expert in french embassy in india who is on teaching and research assignment at iit jodhpur under the collaboration arrangement was also hounoured for his contribution to the institute
+his areas of expertise are underwater acoustics and sonar signal processing
+republic day was also celebrated at the two residential campuses
+flag hoisting ceremony at bsnl residential campus by warden residing faculty and students
+students presented their creative skills at gpra residential campus
+ranveer singh delivered the students body speech
+sharat chinna and reena yadav shared their thoughts about the national festival
+while sangam music club entertained the audience with their musical performance avadhesh kumar sharma aroused our patriotic sentiments with his recital of patriotic poems in hindi
+our students nukkad team performed thematic street play bhed chaal displaying the general nature of people to follow person or group blindly without giving logical thought about it
+the play had subtle message for us to think analyze and understand the consequences of our actions before moving forward in any direction
+initiatives in establishment administration recruitments and reviews before embarking on new recruitments of faculty and staff members the institute has developed norms for the processes to be adopted
+this has assisted the institute in its new recruitment cycles
+offers to administrative staff members and three to faculty members were made this year
+also the performance was reviewed of seven administrative staff members technical staff members five medical staff members and faculty members
+administrative systems and processes administration is working to promote smooth governance with emphasis on transparency accountability and informed structures
+efforts are underway at developing organisation with defined norms and systems to undertake various activities of the institute
+special attention is given to human aspects in the functioning of the institute including adherence to unified mission vision and core values
+facilities our campus present academic residential campuses presently the institute functions from temporary campus at ratanada in jodhpur rajasthan
+the campus has three blocks administrative block academic and academic
+in addition to the major administrative offices of the institute few laboratories are situated in the administrative block
+in academic the laboratories computer center and the library are housed
+academic has lecture halls tutorial rooms language laboratory and cabins for students
+the campus also has mess facility for students
+the residential areas of iit jodhpur are situated on new pali road in the outskirts of jodhpur city and in shastri nagar which is in city premises
+undergraduate residences are provided in the gpra colony on new pali road where the area is divided into student hostels residential apartments of the employees of the institute gymnasium health center and office of the council of wardens
+in addition the students enjoy facilities for both indoor and outdoor games at this area
+health center also functions in the bsnl colony residential campus in shastri nagar where the postgraduate students are provided hostel facility
+some faculty members also reside here
+round the clock security services keep the residential areas safe and secure
+all hostels are enabled
+the gpra residential area also has computer center television rooms and student activities center to hosts several events
+moreover the residential complex also houses several clubs which nurture the creativity of students and initiate the celebration of several festivals
+students are provided with mess facility in these residential areas
+the mess offers good quality food at affordable rates
+these messes are regularly monitored by wardens to ensure hygiene and nutritional value
+the residential area has branch of state bank of india with an atm counter
+the institute has bus service running between the residential and academic areas at regular intervals exclusively for the students faculty members and staff of the institute
+some shops catering to various needs of the students two general stores one medical store stationery and mobile phone accessories store also operate in front of the residential area
+the residential area in bsnl colony being in the city premises has an access to shopping facilities
+in the forthcoming years the institute will be shifted to its own residential campus near nagaur in jodhpur
+the government has acquired acres of land for the institute and the construction of the boundary wall is being completed and so is the kv electric substation
+an mou has been signed with arid forest research institute for designing and developing an urban forestry model for the institute
+the institute has successfully completed the selection of the campus master planner
+it is envisioned that the new campus of iit jodhpur would stand as symbol of academic excellence while creating ethos with centers such as an eco village an arts and culture center and an international activity center all of which would contribute to holistic development of its community
+the permanent campus of iit jodhpur is envisioned to be place where our value systems will help us create real shift
+the pursuit of opulence maintained by increasing resource consumption will be replaced by the creation of abundance
+less shall do more
+we will be symbiotic rather than and aim for fulfillment rather than blind achievement
+in this water starved area on the desert edge we intend practicing organic and natural urban agriculture to provide seasonal wholesome nutritious organic food
+in the longer term we shall be in water and energy
+plans are on to recycle wastes to produce energy and high value nutrients
+organic farming and chemical and oil free driven vehicles will be encouraged on campus
+the use of natural local building materials that will enable to build in fashion that naturally mitigates the heat with courtyards externally insulated walls and buildings in contact with earth is proposed
+food water and waste solid waste mobility energy and ict to create an intricate campus master plan of iit jodhpur permanent campus on at karwad village nagaur key features of the permanent campus of iit jodhpur approach arresting erosion and desertification building up soil moisture over time plants native plant species soil stabilization protection from dusty wind movement pedestrian oriented and bicycle dominant spaces enabled learning spaces with flexible shared public spaces settlement dense desert settlement morphology low height construction low embodied energy materials with improved local and traditional methods buildings griha star compliant buildings and griha ld benchmark water rain water harvesting water reduction and sewage recycling greening site over time wastes segregated wastes and customized recycling energy carbon neutral campus harnessing renewable energy
+community extensive planned outreach and interfaces technology learning facilitated anywhere anytime with an ict backbone the computer center of the institute connects the academic and residential campuses within the institute and also with the external world by providing necessary networking and computing facilities
+it runs on gigabit lan with internet bandwidth
+networking facilities the gigabit network
+gigabit core switch
+gigabit network edge switch
+wireless access points
+firewall and web security device
+internet access authentication server
+enterprise security computing facilities the computer center provides computing facilities for faculty and staff members and for students to access internal resources use application software and to access internet
+there are computer terminals in the computer center that are running on windows and operating systems
+the computer center provides access to software like matlab mathematica cadence ansys pscad solidworks orcad licensed by iit jodhpur
+is enabled in academic and residential campuses
+the computer center also hosts high performance computing cluster for scientific research
+servers and software internet iit residence campus pg hostel vpn link wifi controller core switch edge utm the following are the servers and software available in the computer center
+centralized servers processor core with gb ram dell nodes
+centralized application server processor core with gb ram fujitsu nodes
+workstation processor core with gb ram fujitsu celsius nodes
+high performance computing cores with tesala nodes
+software like matlab mathematica pspice cadence ansys pscad cst studio solidwork proe and synopsys etc
+online application services automation the office automation wing of the computer center has successfully launched online applications for the offices of academics accounts and students
+some of them are
+online portal for registration into
+and programs along with online fee submission facility
+online portal for academic section used by faculty members and staff of the office of academics to upload grades semester course registration and for students to submit course feedback and to view and print their transcripts
+online portal for section used by faculty members and staff members of the office of for processing the online project staff recruitment
+online application for store purchase section to automate their processes
+online portal for recruitment process of staff members along with online application fee submission facility
+centralized authentication server ldap these features together lead us towards making emission campus planned to provide flexible and phased expansion of all the relevant services
+the library supports all teaching and research activities of the institute by acquisition organization and dissemination of knowledge resources and also providing library information services to iit jodhpur community at large
+it is located on the ground floor in room nos
+and academic block of the academic campus of iit jodhpur
+the library works under the guidance of the institute library committee
+books during the year books have been added to the collection making total of volumes
+these include books of text reference and research nature
+journals databases the library subscribes to scholarly from various sources
+these resources are accessed by the faculty members and students in the academic and residential campuses of the institute for their academic and research work
+the library also subscribes to some of the popular magazines and dailies
+the following are some of the journal and database resources that were licensed by the library in the year
+journal resources databases
+acm digital library
+american chemical society
+american institute of physics
+american physical society
+asme digital library
+elsevier science direct
+royal society of chemistry
+proceedings of the national academy of sciences
+society for industrial applied mathematics
+jstor services and facilities
+member services the library provides facilities and services to all registered students faculties staff members of iit jodhpur
+additionally the library also provides services and facilities to visiting faculties to iit jodhpur
+assistance in locating reading material orientation to new users is also provided by the library staff
+circulation services one of the major services that the library offers is circulation of books and other reading material among the users
+all iit jodhpur faculty staff and students are entitled to borrow reading material from library
+reference information service the library houses number of reference books and also has access to information resources in electronic form
+library staffs are always available for guidance and help with the reference material and also for answering the related queries
+inter library loan document delivery service library arranges for borrowing books and scholarly articles that are not available in the library from other libraries in india
+course reserves the recommended textbooks by the faculties for different courses are available in the course reserves section
+these books are for consultation in the library premises against the identity card
+however these are issued overnight during the examination period at iit jodhpur
+current awareness service information about new arrivals of books and journals is made available on the website catalogue and by way of an email newsletter sent periodically
+online catalogue the library operations are completely computerized
+online catalogue can be accessed in both academic and residential campuses
+library website the library website provides information about the services and facilities that can be availed and also acts as gateway to range of electronic resources including subscribed and open access
+indent forms for recommending books and journals for library are hosted on the library website
+digital library facility the library extension in room no
+serves as the digital library with facility of computer terminals providing access to various academic resources such as journals databases
+library networks iit jodhpur library is member of professional library networks like indian national digital library for engineering science technology indest information libraries network inflibnet and developing libraries network delnet
+as member the library benefits in terms of subscriptions of journal resources and inter library loans and resource sharing
+new section in library small reading section for the library users has been developed that will allow them to bring in their own books and do their academic work
+it has modest seating capacity yet has facilitated the students for their study purpose
+alongside of providing regular library facilities and services the library staff members are now engaged in rendering services in preparation of institute publications like the annual report newsletter and also actively contribute in institute activities like convocation
+iit jodhpur has established good number of laboratories and research centers that aid in elevating the students from minimalist academic concerns to the inquisitive world of scientific arena
+these labs and research centers help the faculty members and students work for better future by supplementing and improving existing technologies and bodies of knowledge using competence creativity and imagination
+the following sections describe in detail about the laboratories and equipment in the institute
+advance manufacturing laboratory in the advance manufacturing laboratory cad model of object is prepared using modelling softwares like proe solidworks catia
+fe analysis is carried out using analysis software like ansys and precision manufacturing is carried out using cnc machines and rapid prototyping printer
+the manufactured components are characterised for mechanical behaviour using utm hardness testers impact testers etc
+the role of cnc machines in increasing flexibility and precision of the product to be manufactured and increasing productivity are illustrated
+the advance manufacturing laboratory of institute is equipped with following facilities
+precision machining section
+rapid prototyping section
+mechanical behaviour characterisation section central workshop central workshop is the central facility of institute consisting of various workshops such as welding shop carpentry shop fitting shop sheet metal shop foundry and heat treatment shop and machine shop
+undergraduate students get hands on experience in above sections by doing the job work and carrying out projects as part of their coursework and also students utilize the facilities for fabrication purpose of their academic projects
+it also supports the projects of the institute handled by various faculty members and and
+thesis work of research scholars by providing them assistance in fabrication of their research
+the following machines and equipment are available in the central workshop
+welding fume extraction down draft table
+multi process welding equipment
+portable single phase
+treadle operated shearing machine
+hand operated folding machine
+kaizen muffle furnace
+hand operated jeeny or burying machine motorized circle cutting machine
+hand operated circle cutting machine
+hydraulic shearing machine
+portable heating plant portable hardening plant
+forging heating plant
+aluminium melting plant
+mould making facility
+portable tool grinder electro mechanical energy conversion laboratory in order to familiarize students to electrical machines properties characteristics iit jodhpur has established electro mechanical energy conversion laboratory and has continually been developing the potential of its lab facility
+in this lab electrical engineering facilitates the students to empower their potential by familiarizing themselves with the fundamental of energy conversion process including several practical industrial applications of machines in true applicable environment
+this lab occupies conventional as well as modern equipment to fulfil the basic and modern technological requirements with continual developing efforts
+fluid mechanics and heat transfer laboratory at fluid mechanics laboratory students learn about the following
+analyses and evaluation of experimental data
+comparison between theoretical models and experimental data
+how to design fluid mechanical and heat transfer system
+piping system considering various technical aspects heat exchanger thermal energy storage receiver wind catcher volumetric air receiver
+in addition to the above this laboratory aims at generating innovative ideas in students by promoting the design of experiments and small scale projects
+at present in the fluid mechanics laboratory are conducted experiments on losses in pipes and fittings
+valves bends comparison between different flow meters particle image velocimetry technique anemometer labscale wind tunnel pressure distribution around lift and drag balance boundary layer development weather monitoring
+furthermore the lab provides training on standard software such as cfast for fire simulation
+currently the heat transfer laboratory is equipped with the demonstration of various thermometry techniques heat exchange system ventilation system natural and forced convection system heat conduction unit for different materials lab and solar water heater system and thermal radiation unit
+all these equipment are installed with respective software
+for testing calibration and research purpose in these laboratories various equipment such as laser doppler velocimeter with particle analyzer pressure and temperature calibration blower with variable flow pressure transducers differential pressure transducers turbine test rig test rig ic engine test rig have been procured
+moreover test set up is being indigenously designed and the components involved are being fabricated locally
+this system aims at investigation and evaluation of solar thermal such as volumetric air receiver thermal energy storage heat exchange systems and their simultaneous operation
+devices such as earth air heat exchange system wind catcher and heat exchange systems are being fabricated and tested for certain applications
+control dsp microprocessor laboratory the lab provides software and hardware infrastructure for carrying out experiments in the field of control systems microprocessor and dsp
+broadly the lab includes the following experimental setup
+ball beam system from quanser
+magnetic levitation system from quanser
+inverted pendulum system from quanser
+softwares include scilab matlab dsp lab equipment microprocessor lab electronic circuit laboratory in this laboratory the students make and test their analog and digital circuits by using all kinds of circuit components like diode transistor and clocks
+the lab has following equipment
+arbitrary function generator from agilent
+digital oscilloscope from agilent
+programmable power supply from scientific
+bit dmm from agilent power electronics laboratory the power electronics laboratory is used for undergraduate studies and research in the area of power electronics based power conversion systems control systems and drives
+the laboratory facilitates for faculty and students to conduct research in the areas power converters and
+the laboratory is equipped with test and measurement instruments converters power supplies and programming boards
+major equipment available in this lab are
+high precision power analyzer
+tektronix dpo and dpo
+three phase inverter drive
+three phase inverter stacks
+differential currents probes
+fpga training kits and programming boards
+robotics laboratory iit jodhpur has an advanced robotics laboratory for education and research
+the infrastructure includes the following
+vicon motion tracking system
+mobile manipulator comprising of barret wam arm mounted on powerbot mobile robot platform
+pioneer mobile robots units
+infrastructure for mobile robotics navigation slam
+dynamic and kinematic control problem redundancy resolution inverse kinematics of manipulators and mobile manipulators visual servoing
+gait analysis and robot assisted rehabilitation instrumentation and communication laboratory the mission of instrumentation and communication laboratory is to provide platform for ug and pg students on research and learning in measurement and automation technology
+the facilities at this laboratory offer innovative research opportunities in the astronomical space of communication and real time measurement technology
+the experienced lab team nurtures students talent in research and offers an opportunity for developing sophisticated measurement test control systems data analysis system and next generation communication technologies
+students also develop theoretical and practical competence in building baseband communication circuits ii the application of ni labview graphical programming software iii the pxi based ni measurement stand iv evaluating ni wsns and labview software adjusting radio system measuring the parameters of studied antennas and the operation of analog modulation schemes
+lab contains software and hardware subsystems which enable rapid prototyping and development of embedded systems for various applications
+currently this lab constitutes the following setups
+ni elvis based communication systems and theory teaching stand
+large mimo stand for spectral channel efficiency studies and new standard development
+protocols stand for wlan wimax gps rfid zigbee gsm cdma wcdma bluetooth
+software defined radio stand for custom communication scheme development and research
+basic analog and digital communication techniques teaching stand
+wireless sensor networks stand
+signal intelligence and wireless spectral monitoring stand
+wireless prototype characterization and testing stand
+fpga based protocol development for studies and signal processing
+vna based antenna characterization stand
+fiber optic communication stands
+network based manufacturing
+usrp universal software radio peripheral based wireless communication system for physical layer design record and playback signal intelligence algorithm validation and more
+network communication and manufacturing control stand after three years of its formation this lab has contributed immensely to the learning and research activities at iit jodhpur
+communications and networking lab intelligent instrumentation system analysis techniques and courses are being offered through this lab for both graduate and undergraduate students
+the lab has provided the right hardware and software tools for many industrial consultancy projects including the development of ip for digital radio standards link budget design for marine environment drfm based radar echo simulator and blind signal demodulator
+other projects being done in the lab are development of affordable wireless video transmission systems cognitive radio and zigbee protocol development
+networking technologies laboratory networking technologies laboratory has been started functioning in the academic year
+it aims at enabling undergraduate and graduate students who pursue their interest in the area of computer networks to understand the concepts of computer networks and work with contemporary networking equipment in realistic setting
+in addition the lab aims at providing necessary infrastructure to carry out research activities on advanced topics such as wireless mesh networks sensor networks communication on power lines from computer networks
+the activities that take place in this laboratory are
+prototyping of networking hardware example ethernet switch router etc
+developing packet processors using click router modular software framework
+establishing infrastructure for the wireless networks wireless mesh and sensor networks power line communication networks home phone line networks
+studies related to the performance analysis of various protocols over on different network configurations
+development of novel routing algorithms transport layer mechanisms and services for next generation networks
+setting up infrastructure which will essentially become part of the global distributed computing platform created over the internet by connecting over sites
+this allows the students and researchers not only to understand traffic patterns internet but also develop new on the internet for distributed storage networking mapping systems content distribution service and cloud computing
+multimedia laboratory the media laboratory provides facilities to carry out work related to image processing and computer vision
+the thrust areas of research in this lab are semantic analysis of content video surveillance human motion analysis document image analysis content based image retrieval etc
+related activities include video recording digitization video editing etc
+in the academic year research on indian sign language recognition using kinect has been initiated
+scanners book drive mini umax powerlook
+cameras sony sony camcorder cannon vcr sony dsr
+tripods manfrotto imac
+renewable energy laboratory to resolve most daunting challenge of this also our nation heavy reliance on fossil fuels renewable energy laboratory rel promotes rigorous objective empirical research at iit jodhpur on issues related energy environment
+rel focuses on designing testing and disseminating renewable and efficient energy system
+the mission of rel is to help these technologies to realize their full potential to contribute to environmentally sustainable development in industrial and developing countries
+in the renewable energy field expert faculty and students at this laboratory are currently striving to create an innovative system to efficiently harness energy from sunlight and wind power
+recently work on solar and wind system for household development has been planned and our research effort at rel draws on ongoing work in variety of fields including energy engineering and environmental risk analysis
+rel has computer interfaced systems and approximately students can work at time
+students are the greatest resource of rel and iit jodhpur has made substantial commitment to the area of renewable energy and been providing all required resources to execute viable plan and innovative research at rel
+one aspect of the evolution of rel is the development of collaborative partnership with other academic and industrial groups
+in the near future it will be hub for training and sector collaboration
+recently the lab has started consultancy project with panasonic india pvt
+on the prototyping of microbial fuel cells
+in addition the lab has started work on data collection interpretation and analysis of pv power plants less than mw in rajasthan and gujarat
+the renewable energy laboratory uses the following equipment
+wind power of charge controller synchronous generator with permanent magnets lamp board off grid inverter etc
+pem fuel cell fuel cell with dc converter electronic load metal hydride storage cell electrolyser
+advanced photovoltaics solar module simulation model solar module with solar altitude emulator solar charge controller solar accumulator off grid inverter etc
+combined sputtering unit for coatings applications solar radiation laboratory the ministry of new and renewable energy mnre has selected the iit jodhpur campus site as one of their solar radiation centers
+solar radiation measurement global and direct humidity ambient temperature rain gauge and wind speed measurement are carried out at this center and the data is transmitted via satellite link to the mnre nodal center in chennai
+the instruments in this laboratory are powered by couple of solar panels
+the data collected from this center enables the solar resource assessment required for the setting up of solar thermal and solar photovoltaic power plants as outlined in the jawaharlal nehru national solar mission jnnsm
+high temperature solar thermal laboratory six laboratories are being under the mnre funded project entitled as establishment of center of excellence in solar thermal research and education at iit jodhpur
+high temperature solar thermal laboratory is one of these specialized laboratories
+the aim of this laboratory is
+fundamental aspects of fluid flow and heat transfer related problems like dust deposition
+design and analysis of for concentrated solar thermal systems some of the being designed and analyzed in this laboratory are open volumetric air receiver for process heat applications compact heat exchanger solar convective furnace this laboratory includes test facility such as solar air tower simulator sats facility advanced research grade equipment like laser doppler velocimetry
+sats facility includes open volumetric air receiver thermal energy storage heat exchanger and is being extended with solar convective furnace
+microscopy laboratory the microscopy laboratory at iit jodhpur is located in academic block room number
+this burgeoning laboratory is committed to procuring all specific equipment and is about to gain the level of laboratories at iit jodhpur
+experienced faculty nurtures students enthusiasm about the morphological analysis of biological samples and also assists them to operate scientific instruments
+currently this laboratory houses different microscopes and number of common pieces of sample preparation equipment
+biosciences and neuroscience laboratory the biosciences neuroscience laboratory is part of the center of excellence in biologically inspired systems science biss
+the goal of this laboratory is to provide cellular and molecular investigative tools for ug and pg teaching and research in neuroscience
+we utilize cell culture studies along with molecular biology biochemistry and microscopy approaches to elucidate the molecular mechanisms underlying molecular and cellular interactions underlying inflammation and repair
+inflammation is key component of many diseases including traumatic brain injury cancer multiple sclerosis stroke asthma parkinson disease and alzheimer disease
+inflammation is characterized by accumulation and proliferation of innate immune cells
+this is followed by clearance of dead cells and cellular debris along with enhanced expression of molecular mediators called cytokines and chemokines which cause migration and proliferation of immune cells and may even lead to cell death
+understanding the mechanisms by which inflammation occurs and the molecular mediators involved in this process is necessary for identification of potential therapeutic targets
+biomolecular information processing laboratory this laboratory is involved in the understanding of information processing by various kinds of biomolecules and related synthetic molecules
+the process involves in using single molecule first and then group of molecule on given interface
+the interaction among the molecules in given external stimuli will help us understanding the communication among them
+recently found that hect domain containing ubiquitin ligase helps in amyotrophic lateral sclerosis diseases suppression through its association with the misfolded protein aggregates formed by mutants
+such findings support that an ligase can have capability to clear the misfolded protein aggregation
+however while appreciating the incredible efficiency of cellular systems we must recognize the crucial role of chaperones which are supposed to work preferentially compared to ubiquitin ligases in order to refold the misfolded proteins and hence conserving the energy utilized during the translation of those proteins
+various examples made us think that we could explore the role of both the chaperones and ubiquitin ligases in the clearance of misfolded proteins
+therefore now we are working not only with ubiquitin ligases but also with the chaperones and even in their functional association to confer an efficient quality control mechanism to the cell
+chemistry laboratory the core objective of the chemistry laboratory of iit jodhpur is to train students in scientific methods that would solve real problems at the frontier of our understanding of the matter
+this is laboratory and provides number of resources to assist undergraduate graduate and students in planning their professional careers after completing their academic program at iit jodhpur
+this laboratory maintains broad spectrum of instrumentation including basic laboratory set up for organic inorganic organometallic and material synthesis nitrogen oxygen and lpg gas line inert atmosphere boxes vacuum line work fume hood ph conductivity bod cod meters rotary evaporator vacuum pumps centrifuges high pressure reactor system chiller microbalances orbital shaker gc hplc and radleys ready reactor
+in the academic year the lab procured equipments such as polarimeter melting point instrument solar simulator digital titrator kugalrohr electrochemical work stations and battery analysers
+mhz nmr spectrometer with solid state probe is an essential resource whose mission is to make high field nmr and methods available to researchers providing place for them to pursue their projects and develop new methodologies in nmr methods
+physics laboratory the mission of the physics laboratory at iit jodhpur is to provide students with experiential knowledge in basic physics
+this laboratory has facilities including specific equipment and is currently offering different experiments in mechanics waves electricity magnetism and optics
+now the lab has facilities for experimenting with speed of light zeeman effect and michelson interferometer
+material testing and solid mechanics laboratory the material testing lab of the institute provides facilities to test samples of different types of materials to find out their mechanical properties like modulus of elasticity tensile and compressive strength stress strain curve bending properties hardness etc
+the lab is equipped with following test equipment
+universal testing machine kn
+poldi hardness tester
+portable hardness tester
+material testing and solid mechanics materials analysis laboratory the research focuses on the development of novel materials for different applications including materials for energy generation and storage
+the current work includes the development of solution processable cigs compound semiconductor materials for solar cell applications and transition metal oxide based materials for lithium ion batteries and supercapacitor applications
+the laboratory is equipped with synthesis of bulk and thin films techniques such as sputtering process assembly and numerous characterization techniques such as diffraction scanning electron microscope optical spectroscopic techniques lcr meter ferroic measurement system for bulk samples etc
+in addition the group is also focusing on the development of multifunctional materials for different applications such as solar selective coatings ferroic materials for high frequency absorbing system and magnetic particles for different applications
+the laboratory is equipped with facilities to carry out thermal analysis electrochemical analysis surface morphology studies separation techniques for chemicals electrical conductivity measurement devices glove box etc
+magnetic property measurement system iit jodhpur has created an excellent facility in the field of material characterization
+recently an additional dimension has been added to it by procuring magnetic property measurement system mpms
+mpms squid is getting installed in coming few months
+this will provide wide temperature range for both dc and ac magnetic measurements in conjunction with field dependent magnetic measurements
+such measurements will help to understand magnetic properties and associated spin dynamics in magnetic materials
+digital language laboratory the digital language laboratory provides resources facility and support for foreign language instruction and learning to the entire student community of iit jodhpur
+the lab is the multilingual computing and assessment center of the institute
+the lab team explores and implements methods through which multimedia technology renders more authentic experience to learning foreign language
+here for language learning purposes one could seek recourse to technologies like the internet and interactive video audiovisual techniques iconic approach and speech recognition
+the exercises include listening and comprehension exercises placement solutions and mastery tests
+the main features of this facility include smart class symposium ll from robotel and new dynamic english learning program from dyned international
+all the facilities at the digital language laboratory are oriented and nurture the students enthusiasm for gaining global exposure and proficiency in foreign language
+iit jodhpur provides round the clock health care facilities to students faculty and staff members of the institute at its residential campuses
+the health center has three doctors and four supporting staff members
+the institute also has with some hospitals in jodhpur city to cater to the medical needs of its students and employees
+the health center at the residential areas has all the necessary infrastructure facilities and equipment needed for basic health care
+essential medicines are stocked and provided to patients under treatment
+an ecg machine has also been procured
+the health center coordinates and supervises the treatment of students employees and their dependents during hospitalization in other hospitals that are accredited to the institute to provide care
+the health center has an ambulance of its own for attending to any medical emergencies
+on request the health center extends its health care services to institute visitors during their stay in the residential campus
+under emergency circumstances medical services are also extended to the jodhpur community residents at the campus
+details like patient records medicine assets equipment of health center are all computerized
+sports and games facilities to students are provided at four places namely the hostel premises academic campus playground of vidhyashram international school and in the new campus area of jai narayan vyas university
+conveyance is taken care of by the office of logistics in the institute
+students also enjoy gymnasium facility at the student activities the student gymkhana is divided into six wings called councils
+each council is divided into several clubs
+these wings fulfil the varied interests of the students and contribute to their holistic development
+academic and research affairs ara the academic and research affairs council ara is the council under student gymkhana which will act as platform for all activities regarding research academics
+the purpose of council is to encourage research academic activities in institute on students court and to make sure of effective student recognition and involvement in the decisions regarding the same
+the role of the council will further extend to promote and advance research within the institute
+this year the academic research affairs council plans to organize various lectures of eminent personalities and notable research scholars to aid in this process
+the mission of the academic and research affairs council is
+to serve as platform for students to undertake research projects under professors and to create an environment of cognizance in the student community pertaining to the problems and help them to procure their research needs
+to strengthen relationship and take them beyond only formal talks to explore the intricacies in their research and come up with novel solutions
+to organize various technical meets and seminars to expose students to the recent discoveries and technological advancements and the innumerable opportunities that they can pursue
+students gymkhana nuts mad ara prom waves sage functions and responsibilities the functions and responsibilities of the academic and research affairs council are
+to effectively represent the views of the students community on academic and research matters
+to help individual students tackle their specific academic problems and take up their problems to respective authorities
+to coordinate with the functioning of all centralized facilities of academic domain such as computer centre library and reading room amongst others
+to take views and opinions on the revision of academic curriculum reform policies and initiate academic and research programs based on these suggestions
+media arts and design mad creativity is more than just being different
+anybody can plan being weird that easy
+what hard is to be simple
+making the simple awesomely simple that creativity
+the council makes people develop their imagination their talent teaching them the advancement in technology to enhance their knowledge in their field of interest
+the council has its independent activities workshops and competitions under the following areas of interest animatrons the animation club the club teaches students to bring the animator out of them via workshops by professionals and its own team
+with the blend of stop motion animation and software animation the club moves towards paper animation and graphics animation pixilation flash light animation
+ateliers the fine arts club to play with colours is the passion of this club
+training is imparted to students via workshops and competitions in fine or decorative arts
+we organize lot of activities of interest like painting sketching glass etching face and painting wax carving graffiti workshops etc
+this club gives shape to various festivals of iit jodhpur
+designerds the designing club the club designs logos posters newsletters etc
+the club has given some of the best designers who can train with software like adobe photoshop indesign and illustrator
+the club members excel in graphic designing which promotes thoughts and imagination
+the club has also won competitions in mood indigo iit bombay
+the film making and video editing club the club makes videos record and edits them
+the club constantly and actively takes part in various inter college fests presenting short films or documentaries which have gained popularity
+the club members use the most sophisticated handycams gopro cameras dealing with software like windows movie maker sony vegas and adobe after effects
+porta talkies the movie screening club the club is responsible for screening of movies matches and on demand talks
+shutterbugs the photography and club the club consistently holds its workshops on photoshop and provides hands on experience on technically sound semipro dslr cameras
+the club holds responsibility of all media coverage of iitj
+nurturing understanding technology and science nuts with the thought imagination is more important than knowledge the science and technology council nuts of iit jodhpur provides students an opportunity to think beyond the conventional boundaries of science to realize their dreams and develop the technology for the next generation
+aeromodelling club the aeromodelling club is group for aviation and aeromodelling enthusiasts in the institute
+the club provides students an opportunity to make rockets gliders planes hovercrafts and fly them up in the air
+the activities of the club include lectures and workshops on various aeromodelling and aviation topics and working on small projects
+automobile club the club promotes students to design and make their own car
+the club has developed an manual cum electric driven vehicle
+the club is associated with an international body society of automotive engineers sae and keeps on participating in their national level competition such as baja and effi cycle
+astronomy club the club organizes regular lectures and discussions to help students develop better understanding of those astronomy phenomenon in nature
+the club made record at the inter iit tech meet by detecting objects in the overnight observatory competition the messier marathon
+electronics club the club makes students familiar with electronic circuits and teaches them skills like working on mini computers such as beagle bone raspberry pie etc
+the club also makes students familiar with analog as well as digital electronics through various lectures and competitions organized throughout the year
+robotics club the club conducts regular lectures and workshops to provide students hand on experience on technologies such as dtmf image processing motion sensing etc
+the club today is an active platform for students to display and develop their practical machine building skills and knowledge
+programming and wed designing club with regular lectures competitions and winter coding camp the club provides students chance to learn from people around them and improve their coding skills
+students get chance to sit with group of people and prepare for various national and international level coding competitions
+science club the club provides students an opportunity to solve the rubik cube make their own angry bird station and play with air gun rube goldberg etc
+the activities of this club tests students imagination skills and help to improve it
+promotions relations occasions management prom the council deals with all matters regarding public relations and management of the various activities of all the councils that take place in the institute
+it helps in enhancing one personality management skills public speaking writing and coordination with colleagues which leads to an overall development in
+the following are the cells under prom promotions cell the cell writes content as well as reports for various intra and inter collegiate fests special events and seminars that are held throughout the year
+it also coordinates for the content to be published in local media
+public speaking and personality development cell public speaking is one very important aspect which shows the personality of an individual
+the cell organizes sessions to hone public speaking skills increase confidence levels and makes students proficient in public speaking
+entrepreneurship cell the cell collaborates with the of other institutes and conducts various seminars and useful activities related to entrepreneurship
+sports adventures games and explorations sage
+writing awareness vocals entertainment social waves the students were successful in nurturing culture filled with energy and initiative
+they have organized events which served as medium of communication and bonding amongst themselves
+major festivals like ganesh chaturthi diwali sankranti eid and holi were celebrated with great enthusiasm
+sports activities were also regularly conducted to encourage sportsmanship which were supported by the faculty members
+the following are some of the major student activities that had taken place in the campus in the year
+varchas varchas is the sports fest of iit jodhpur
+it celebrates the spirit of sportsmanship and serves as platform to showcase countless hours of perspiration put in by college teams to achieve excellence in sports
+varchas was first conducted in the year with vision of promoting sports among the colleges of india particularly rajasthan and providing the athletes in india platform to showcase their talent
+competitions are held in the fields of football cricket table tennis lawn tennis badminton squash volleyball basketball and athletics in national level stadiums of jodhpur
+varchas promotes healthy competition and is great opportunity for the teams to prove their mettle in their respective sports
+moreover being the educated core of the country the students of iit jodhpur try to fulfil their social obligation through soch social aspect of varchas
+soch is platform where we take up pertinent social issues and try to find possible solutions through discussions and debates spread awareness and conduct drives to involve people spanning across varied backgrounds
+we attempt to create profound social impact for the amelioration of the society
+driven by the spirit of vigour valour victory varchas took off on february and with its ebullient competitions and dynamic came to an end on feb
+the morning of feb witnessed huge influx of participants from around the country
+after few matches that were planned in morning the onset of dusk saw the opening ceremony of the festival
+the occasion was graced by the presence of our chief guest hemant gera divisional commissioner jodhpur and murty director of the institute who showered their best wishes
+igniting of the torch symbolically marked the opening of the competitions
+the next few days saw the upsurge of excitement sportsman spirit and enthusiasm among the participants
+in addition to the sports extravaganza the varchas team also conducted panel discussion to sensitize the participants with pertinent social issue
+soch the social initiative under the banner of varchas has raised various social issues in each edition of the festival provoking us to
+the event concluded with the prize distribution graced by the faculty members of the institute
+in soch team put their best foot forward to spread awareness against begging in the society and help at least some of the beggars live with dignity
+the mission was to develop platform that makes the beggars realize the value of earning over begging
+the major events organized as part of soch were
+awaaz panel discussion was conducted with great contribution from some renowned speakers and students from all over the city
+intra and intra school competitions to understand the outlook of younger generation who are tomorrow responsible citizens visit was undertaken to some schools of jodhpur
+competitions like drawing essay writing were conducted to get reflection of their thoughts and ideas
+ignus ignus is iit jodhpur annual cum cultural festival
+in these many years of its existence it has witnessed footfall of colleges from all across the country making ignus much awaited spectacle every year
+it comprises of an array of cultural events activities and competitions which keep the fest full of life and zest
+the cultural events mainly consist of pronites performances and competitions etc
+coming to the techno part of the event which promises to ignite your gray matter has its motto of promoting innovation technology and scientific thinking
+realizing its social responsibility ignus has initiated social campaign prakriti to ensure sustainable development of the society by conducting various campaigns competitions and exhibitions in various schools and colleges
+also adding to the fun are the buzzing informals like city wide treasure breakthrough which is one of the only event of its kind to take place in jodhpur
+ignus the annual cultural festival of iit jodhpur which was held from february to march of saw the participation of numerous stalwarts in the various arenas
+with the total footfall amounting to about five thousand ignus on its very first day witnessed the absorbing performance of one of the world most famous hypnotist andrew newton followed by an enthralling classical dance performed by artists of the spic macay
+teams from various colleges participated in different cultural and technical activities
+the second pronite witnessed one of the exquisite performances by the pentagram band featuring vishal dadlani
+on the third day miss diva india contest was organised which was judged by shobhita miss india
+the fourth day saw around people dance to the tunes of the melodious bollywood singer shilpa rao and pentagram vishal dadlani
+events like clash of bands and antarang fashion show were the other highlights of ignus
+to add to the social initiative the team of prakriti initiated plantation drive all around the city by planting around trees and raised awareness about the degrading standard of the environment and the need to uplift the same in schools and colleges by organizing competitions
+thus ignus created an unmatched aura of science and technology spectacle at the campus of iitj
+to add to the glare workshops were organised by professionals from various companies to provide student technical exposure to current topics including cloud computing ethical hacking of various eminent personalities were organized including vivek prakash founder of hackerearth
+what makes ignus different is that it coalesce all the three aspects required to be lucrative thrilling and full of fun
+festivals apart from the festivals iit jodhpur student gymkhana also hosts institute festivals for its own community
+they are spandan nimble kalakriti and kridansh
+spandan spandan is the cultural fest of iit jodhpur
+usually the first fest of the session it is participated by an enthusiastic crowd eager to portray their talents in the cultural arena
+versatility in the various categories is extensive with competitions in fields like drama dance singing literature photography events informals and fashion show among others
+three days of spandan awaken the whole campus leaving them to prepare all night
+spandan is one of the first public occasions to take place in the year and hence it also brings together students from all years to interact with each other
+participation with zeal and showing the hidden creativity tamed inside an individual is the motive of the fest
+nimble nimble the technical fest provides platform to the techno buds of the college to show their hidden talent
+nimble comprises of four action packed days filled with great variety of tech and science events ranging from intense mind boggling events such as robotics electronics programming to fun filled events like angry bird quizzes crypto etc
+apart from the events the talks by eminent personalities in the field of science and technology are organized to motivate students to work harder as there is no end to discoveries and inventions
+kalakriti kalakriti is mixed bag of competitions interesting workshops and back movie screenings
+because everything you can imagine is real these lines wake up the dormant talent amongst the student and the output is sudden burst of colors
+with multitude of events ranging from fine arts and clay modelling to photography and video editing kalakriti witnesses huge participation from designers and designers alike
+events like scribble day bring together the entire final year batches to which all the other students bid adieu and leave farewell message or graffiti on common piece of cloth given to them
+great way to bring smile on everyone face kalakriti succeeds in spreading joy unity and togetherness in the small community of ours
+kridansh kridansh is organized by sports council to give sports enthusiasts chance to pursue their passion for sports
+matches are organized both outdoor and indoor such as gully cricket street football and single court basketball chess carom badminton table tennis swimming and many more
+dedication from participants and organizers makes kridansh one of the liveliest events of the year
+parivartan social initiative parivartan is social initiative of iit jodhpur which aims to improve education levels and social awareness in the poor and deprived section of society through teaching and youth counselling
+the iit jodhpur community concerned by the ever growing problems in society took up this social initiative to support the downtrodden
+parivartan is working in the direction of building an educated and well informed society around
+mission of parivartan is to bridge the inequality in society through education
+in parivartan took different steps to accomplish its mission
+health camp was organised at sangariya the adopted village of parivartan by providing free medical checkups medicines and thus catering to health improvement of over villagers
+knowing the importance of blood the greatest gift to mankind blood donation camp was organised at one of the residential areas gpra which received huge response from people all over jodhpur
+with an aim of eradicating polio among the children of sangariya village polio drops were administered to them
+career counseling was given in government school near gpra to support the emotional health and of these young people and help them build healthy future
+winter camp was organized in nearby government school competitions were organized to show them that learning can be fun and to imbibe in them the importance of gender equality
+during winter some old blankets and clothes were collected and distributed them among the shelter less and the poor in jodhpur
+it is encouraging to see our students learning to organize their activities
+also they have prepared the constitution of their students gymkhana
+in academics four of our students have been recognized for their academic work
+heena rathore student was selected for tcs research scholar scheme under the tcs research fellowship programme
+deepak chhangani student was declared the scopus champion of iit jodhpur by elsevier science
+kiran prakash shejale student received the best paper award with gold medal in the international conference on light and
+tanmay sethi fourth year
+mechanical engineering student was shortlisted among from around the world for his idea submitted as part of global ideas competition for students organized by
+shell corporation usa
+participation in international conferences two of our
+students arun balajee vasudevan and srikanth muralidharan attended the international conference on computer vision at sydney from december
+they presented their research paper dynamic scene classification using spatial and temporal cues
+they were guided by our shanmuganathan raman for developing this paper
+sports meet in sports kushagra surana first year
+computer science and engineering student bagged bronze medal in freestyle aquatics competition in the sports meet organized at iit guwahati this year
+achievements in moodi and inter iit techfest our students won prizes in the most popular mood indigo moodi annual cultural festival of iit bombay which was held from december
+kirti vardhan rathore of
+ii year won first prize worth for designing logo visiting cards and letter heads for campus diaries
+kshitij minocha of
+year bagged the first prize worth creatively representing given statistics in graphical way calling it apple for
+our students also held our banner high by winning positions in the inter iit tech meet competition on science and technology held at iit bombay from january
+the team of pratik kalshetti vaibhav gupta and aswanth thani secured position in the event social impact by designing prototype of solar water desalination plant and the team of shreyas srivastava ayush raina rohil surana and priyanka arya secured position in the competition messier marathon an amateur astronomy event which was held at giant metrewave radio telescope utility pune
+studying at iit brings about tremendous academic growth and overall development
+however it is also accompanied by significant challenges and considerable stress
+our counselling services team provides personalized guidance and necessary resources to help students under duress to achieve their goals
+the counselling service is voluntary organization formed by group of dedicated students guided by faculty members
+it helps students deal with various problems both personal and academic and plays significant role in enriching their experiences as students in the institute
+iit jodhpur counselling service was formed in the year by the first batch of
+undergraduate students under the supervision of faculty advisor
+it has been an integral part of the institute since its inception
+every year it strives hard to ensure that every student gets to know iit jodhpur at its most intricate levels and absorb all that the institute has to offer
+the counselling service team consists of faculty advisor with students committed to work for the welfare of students
+student guide is the backbone of this team with every guide taking sophomores under supervision and guidance
+the prime objective of the team is to organize the orientation program for the newly admitted students
+this program is specially tailored to propel the sophomores to match up to speed of life in the institute while maintaining homely feel and gently enabling the their transition into the undergraduate life in this institute
+counselling service team also takes care of special language needs that some students might face during this time
+the team spares no effort to work towards making this transition memorable throughout their lives
+the student guide makes sure that the sophomore student adjusts well in the hostel and in his academic life
+as part of this effort maintains continuous touch with the student and family
+the team ensures that not only the student but parents also get an opportunity to interact with the student guide in order to maintain healthy relationship
+as part of this counselling service it is the duty of the team to promote development of the student in all three aspects of the college tenure academics personal for this purpose voluntary confidential and free counselling service is offered for wide range of issues that include academic support providing information about the different academic programs of the institute imparting efficient time management skills and study skills personal overcoming homesickness adjusting to the new environment and related difficulties counselling advocacy and referral services to students interaction with the institute and the existing body of students and encouraging students to discover their
+counselling service also focuses on the concerns and difficulties of the students by providing personal guidance to deal with problems arising during their college life at the institute
+the following activities are undertaken by the counseling services team maintaining the institute as ragging free campus organizing orientation program every year for the sophomore batch so as to make them acquainted with the culture of iit jodhpur organizing workshops related to career counselling stress management time management health care and hygiene vocational training relationship problems coping with homesickness and addiction and others conducting motivational talks by eminent speakers addressing the academic problems of the students by conducting english language sessions for students from vernacular background and basic information technology it skill building sessions etc
+organizing interaction building events amongst students of different batches and with faculty members etc
+and individually attending to problems of students with poor academic performance
+in the forthcoming year iit jodhpur counselling service will be launching the campus mentorship program where faculty and staff members assume roles as mentors to bring value to relationships
+students and faculty and staff members are expected to engage meaningfully in both professional and personal spaces
+the good interpersonal skills holding balanced view of life ability to understand empathize support encourage listen and giving feedback to young students is expected to help the smooth transition across the adolescent years spent in company name roll no
+aakash institute niket kumar singh me
+amadeus software labs pote rohan ramchandra ee
+hemlata soni cse
+arm ravi mahavar ee
+yogesh kumar gupta cse
+rohit gupta cse
+cisco systems india sukalkar pavan vijayrao cse
+pankaj khandelwal cse
+mahesh chand gurjar cse
+cognizant praveen kumar cse
+junaid masood cse
+reena yadav cse
+ankur hasija me
+vishwas garg cse
+hemant verma ee
+vikas yadav cse
+defence research development organisation drdo yatin chaudhary me
+gaurav kumar me
+himanshu jaiswal ee
+saba suhail ee
+dheeraj tak cse
+saurabh singh cse
+narendra meena cse
+futures first utkarsh trivedi me
+havells india limited vasu goenka me
+snehlata joshi me the student placement cell spc is run and managed by the students in sync with the official authorities thereby taking care of the placement and internship procedures
+the students coordinate the job of contacting various companies their interaction with the students arranging talks tests and interviews
+in companies in core engineering information and communication technology and banking sector government and public sector organizations have visited iit jodhpur for placements
+total of our students ug and pg have been placed with different companies in the year
+their details of are
+sachin gupta me
+rajat jain ee
+aditya budaraju me
+gudla sushanth me
+morgan stanley manu agarwal cse
+sourabh maheshwari cse
+manpreet singh bedi cse
+godugu ravi kiran cse
+nagarro software mukul bansal ee
+sandeep kumar singh ee
+pankaj agrawal cse
+hamzah khan cse
+national instruments ayush verma ee
+aswin suresh ee
+nucleus software abhishek anand cse
+tapish rathore cse
+oracle corporation pankaj bhardwaj cse
+manish kumawat cse
+oracle financial services software vinod kumar meena sigmoid cse
+arun balajee ee
+resonance eduventures pvt
+akash bansal me
+amar singh saini cse
+narendra kumar singh ee
+samsung india institute nischay kala cse
+vikas goyal cse
+trivikram bollempalli chowdary cse sigmoid analytics vinod kumar meena cse
+tata consultancy services surya pratap singh yadav ee
+tata motors abhinav me
+aman doharey me
+trident tanmay sethi me
+prince gupta ee
+cisco systems india kulkarni siddharth sadanand ict
+satyam saxena ict credit rating information services of india crisil saloni sardana ss tech
+postgraduate students an alumni association was formed after the first batch of
+students completed their program in april in order to provide them with platform where they can stay connected to the institute their fellow alumni and junior students
+office of alumni relations is the primary center for all official communication events and other activities on behalf of the chairman alumni relations
+the office along with the students alumni cell is responsible for organizing the annual alumni meet distinguished alumni awards during convocation and other alumni related events
+the office works hard to build strong alumni relations and develop unique platform for an effective communication between the alumni faculty students and the institute
+the alumni relations office is managed by its chairman anand krishnan plapally along with coordinator students one staff member and two student members
+program year of registration number total
+total grand total sl
+belal usmani energy
+dharmendra singh rajpurohit energy
+suresh kumar energy
+deepak kumar chhangani ict
+deepesh patidar energy
+pura ram energy
+vikas pratap singh energy
+vikash chandra janu energy
+lokesh saini energy
+surendra singh barala energy
+abhay samant ict list of registered students in iit jodhpur as on march iit jodhpur has as on march total of students registered in various programs offered by the institute
+the table below gives the of the registered students against the programs
+following are lists of students registered in various programs offered by the institute detailed according to the centers and branches of the various programs
+heena rathore ict
+puneet kumar jain ict
+ram niwash mahia ict
+ravi raj choudhary ict
+sapana ranwa ict
+saurabh maheshwari ict
+sibani bisoyi ict
+amit bhati ict
+kapil sharma ict
+shrivishal tripathi ict
+rohan sharma ss
+parmod kumar ss
+preeti yadav ss
+ajay jain energy
+dharmesh kumar energy
+poonam sharma energy
+shejale kiran prakash energy
+deepak bharti ict
+giriraj vyas ict
+onkar krishna ict
+rakesh kanji ict
+suresh dahiya ict
+vaibhav saini ict
+vibha sahlot ict
+shilpa pandey ict
+anoopa joshi ss
+manvendra sharma ss
+parvinder singh ss
+pradumn kumar pandey ss
+rakesh kumar ss
+ranveer singh ss
+vinay pratap singh ss
+aditya raw gautam energy
+goutam kumar gupta energy
+om prakash mahela energy
+prakhar nigam energy
+monika choudhary ict
+prachi budania ict
+rajnish kumar ict
+vikas kumar sihag ict
+vipin joshi ict
+anjali singh ss
+anurag sahu ss
+dipti trivedi ss
+raj kumar satankar ss
+shraddha choudhary ss
+ankisha vijay biss
+anuj kumar bharti biss
+arun kumar upadhyay biss
+ayeman amanullah biss
+bhubanesh rathore biss
+kriti dubey biss
+megha singh biss
+nidhi sharma biss
+rahul badhwar biss
+ridhi agarwalla biss
+shalini singh biss
+vibhuti joshi biss sl
+roll no name center
+akash yadav energy
+digpal kumar energy
+gaurav hedau energy
+nupur rathore energy
+pallavi kar energy
+parag kamal talukdar energy
+priyanka bhartiya energy
+rakesh kumar energy
+rakesh sarma energy
+ram niwas verma energy
+shubhi srivastava energy
+vinod kumar verma energy
+ayyaz siddique energy
+amrik singh ict
+ankita samariya ict
+anop singh ict
+deepak kumar gupta ict
+durgesh kumar ict
+garima jain ict
+gaurav raj ict
+govind salvi ict
+himanshu singhvi ict
+kapil lahuwa ict
+nagabhushan eswara ict
+nakul shashikant goud ict
+naman joshi ict
+prasad kulkarni ict
+ramnarayan yadav ict
+ravi bhandari ict
+ravi ranjan ict
+satyanarayan sahu ict
+saurabh heda ict
+shahnawaz abdullah ict
+shailendra soni ict
+supratim shit ict
+umesh tanwar ict
+yatin mehandiratta ict
+zafar ahmed ansari ict
+ety mittal ict
+shantanav chakraborty ict
+avadhesh kumar sharma energy
+balram choudhary energy
+gurveer singh energy
+rattandeep singh energy
+veenu kumari energy
+vinay vaishnav energy
+zeeshan ahmed energy
+sandeep gupta energy
+ammar adil ict
+gagandeep singh ict
+hiteshi jain ict
+kulkarni siddharth sadanand ict
+manjunath bj ict
+naresh kumar verma ict
+satyam saxena ict
+shakti gaurav ict
+shinde neha naresh ict
+shirish mishra ict
+adarsh kumar misra ss
+brajesh kumar shukla ss
+saloni sardana ss
+students batch sl
+abhay arora ict
+arka ujjal dey ict
+astha tyagi ict
+divya sharma ict
+piyush chakrawarty ict
+shruti srivastava ict
+sumit kumar paliwal ict
+akshay jain ict
+praveen chopra ict
+umesh chaturvedi ict
+vishnu dutta ict
+chandni kumari energy
+sheetanshu tiwari energy
+vinay maheshwari energy
+abhinav sharma ss
+amanjot kaur ss
+anupam jain ss
+hargeet kaur ss
+jyoti faujdar ss
+mathew alexander ss
+nishith oze ss
+raveendra bavoor ss
+mahaveer meel ss
+abhishek anand cse
+aman deep cse
+anurag saini cse
+bollempalli trivikram chowdary cse
+kanchan kumari cse
+khusheeram meena cse
+kishor mehra cse
+lalit yadav cse
+mandeep singh yadav cse
+mohd asad cse
+mohd hamzah khan cse
+nishchay kala cse
+pankaj bhardwaj cse
+pavan meena cse
+pawan meena cse
+sukalkar pavan vijayrao cse
+sumit jangid cse
+sunita pateer cse
+surendra singh meena cse
+vemana vinith cse
+vinod kumar meena cse
+manu agarwal cse
+aayush verma ee
+amit kumar verma ee
+bharat kumar tanwar ee
+chintapalli siva pratheek ee
+dilip kumar meena ee
+ghatge mayur sambhaji ee
+mahesh chandra ee
+manish kumar meena ee
+mukul bansal ee
+nimmarthi vara prasad ee
+pasunoori prashanth ee
+pote rohan ramchandra ee
+priya dhandev ee
+rahul malav ee
+rahul meena ee
+rajeev kumar ee
+ravi mahavar ee
+rinku meena ee
+rishi kumar ee
+rit shekhawat ee
+saurabh santosh ee
+siddharth singh rao ee
+shiv singh meena ee
+sudesh gora ee
+sudhir kumar singh ee
+surya pratap singh yadav ee
+tarun patel ee
+tirumani vamshi krishna ee
+veepee singh meena ee
+vikash kumar ee
+vinod meena ee
+vivek dubey ee
+yogendra kumar goyal ee
+aditya ranjan me
+akhilendra singh me
+anshul gupta me
+anuj kumar me
+ashok kumar meena me
+chetram meena me
+jagmohan shree rao me
+jai prakash meena me
+kuldeep singh me
+manraj meena me
+mohit naneria me
+niket kumar singh me
+nishant kumar me
+nitesh kumar me
+nitin katiyar me
+pradeep rai me
+himanshu chandrakant me
+rooga ram me
+sarvesh dayal me
+shaikh abu amsal me
+shivendra rai me
+siddarth jain me
+sitaram meena me
+snehlata joshi me
+tanmay sethi me
+utkarsh trivedi me
+vasu goenka me
+vijay singh meena me
+vipin kumar me
+vivek ganj gahlot me
+yatin chaudhary me
+yogesh kumar me sl
+abhishek saini cse
+amit raj cse
+apurv gupta cse
+ashish kumar cse
+banoth surya prasad cse
+debashish ghatak cse
+deven bhooshan cse
+hari om gaur cse
+hemraj kumawat cse
+jitendra kumar chaudhary cse
+jitendra singh garhwal cse
+kalpnath rao cse
+kankanti nithin veer reddy cse
+kuchana maharshi devaraj cse
+mayank agrawal cse
+mayank mittal cse
+palak samaiya cse
+pitta divya shree cse
+prashant rastogi cse
+ravi kumar meena cse
+revti raman singh cse
+rishi mishra cse
+sahil kharb cse
+sanjeev kumar cse
+santosh kumar siddharth cse
+saurabh kumar gangwar cse
+shah jenil dilip cse
+shivam verma cse
+siddharth kumar singh cse
+siddharth maheshwari cse
+sonu mehta cse
+syed navaid ahmad cse
+yash kumar sonthalia cse
+yeravothula rohith cse
+gatla rajasekhar reddy cse
+abhishek bassan cse
+arvind pandey cse
+smriti jain cse
+wins goyal cse
+abhishek pilania ee
+anshul narayan bhatt ee
+anshul singh parihar ee
+anurag dharmawat ee
+atul agarwal ee
+battula sasi kaushik ee
+brajesh kumar ee
+bussa pavan kumar ee
+damacharla sandeep ee
+devendra kumar jangid ee
+gajarla ravi teja ee
+guneet singh mehta ee
+hari om meena ee
+harshit dixit ee
+hem singh meena ee
+hemant kumar biloniya ee
+kadoo amruta anil ee
+kotha sudheer ee
+koyinni deekshitha ee
+krishna kumar damolia ee
+kuldeep singh rathore ee
+kumar saurav ee
+prashant mittal ee
+rahul rathore ee
+rangaraju yashomani srikar ee
+ravindra kumar sharma ee
+ravyansh kumar ee
+sanchit kumar singh ee
+satyendra kumar gautam ee
+shivalika agarwal ee
+shivam punia ee
+sudhanshu singh ee
+sunil kumar ee
+vadakattu sreeja ee
+vineet kumar ee
+voruganti surya teja ee
+alvin roy aliath ee
+aniruddh ramrakhyani ee
+ashutosh mittal ee
+dhiraj bhatt ee
+heena masuriya ee
+ankit aggarwal me
+ashutosh vishwakarma me
+atishay jain me
+sri harsha me
+chetan regar me
+chilakamarri satya ranga prasanth me
+deep kumar me
+deshraj meena me
+devesh singh me
+gajanand saini me
+gautam kumar me
+harsh kumar karmveer me
+harshit srivastava me
+himanshu sahu me
+kishan sharma me
+kothapally mounish me
+kunal vishnu paraswani me
+kundan singh meena me
+maninder singh me
+manish sachdeva me
+mohit dadhich me
+mukul kumar gupta me
+navneet kumar yadav me
+neeraj kumar me
+rahul sathya babu me
+sagar anand ramgare me
+sandeep shankarrao hatte me
+sanket kinage me
+shravan mishra me
+siddee meena me
+tagde prateek prakash me
+vaidya kedar sanjay me
+abhishek singh ss
+ajay sunarthi ss
+akhil arora ss
+ankit singh ss
+arpit agarwal ss
+atharv ghaisas ss
+desidi siva prakash ss
+divya grover ss
+gurjot singh ss
+himanshu shukla ss
+jitendra kumar meena ss
+kakkirala anuroop ss
+kowlagi sudhendra narayan ss
+krati saxena ss
+kusum lata meena ss
+hari haran ss
+manthani tejaswi ss
+mohamed rehan mohamed sagheer ss
+neelesh dwivedi ss
+neha singh chauhan ss
+pratik kumar ss
+rahul kumar ss
+raj rohit jalem ss
+rishabh jain ss
+sankha narayan guria ss
+shinde sahil anil ss
+tavish garg ss
+vinnakota sai rakshit ss
+abhishek kumar cse
+aditya yadav cse
+akash mishra cse
+akshit jain cse
+aseem raj baranwal cse
+asheet kumar cse
+attanti madhurya cse
+bandela prathyusha cse
+basamgari harika cse
+bundele manas mahesh cse
+dhake akash hiraman cse
+dinesh kumar jangra cse
+dinesh kumar saini cse
+gaurav shastri cse
+gondi dedeepya sai cse
+gorla uhasree cse
+jinank jain cse
+kalshetti pratik mallinath cse
+kunal dadheech cse
+mala muthyalappa cse
+manish jaiswal cse
+pankaj kumar cse
+pawan kumar saini cse
+rajesh kumar meena cse
+rishabh garg cse
+rishikesh meena cse
+ritesh kumar cse
+rohan khanna cse
+sachin grover cse
+samarth kumar goel cse
+shah akshat mukeshkumar cse
+shivam kumar garg cse
+siddharth talesra cse
+sonika agrawal cse
+sunil kumar cse
+vaibhav singh khokhar cse
+vijendra sukariya cse
+vikas meena cse
+abhishek thepra ee
+ajay charan ee
+akarsh rastogi ee
+akshay arya ee
+anubhuti mittal ee
+ashwani kumar ee
+ashwani nainawat ee
+deepak verma ee
+devabattini sriharsha ee
+dharm raj meena ee
+dinesh gurjar ee
+farazuddin ansari ee
+hitesh kumar singhal ee
+vikas reddy ee
+lalit mirdha ee
+mamta dhaka ee
+mukesh kumar ee
+nisha agrawal ee
+nishit umesh parekh ee
+pawan kumar verma ee
+piyush dugar ee
+prakash gehlot ee
+rajat rahatgaonkar ee
+rajnesh meena ee
+sanchit gupta ee
+sanket jain ee
+santosh kumar meena ee
+saurav kumar ee
+sharath kuntanhal ee
+shivam upadhyaya ee
+shrish lal bhatnagar ee
+sriramadasu ashok kumar ee
+sunil saran ee
+tarun vatwani ee
+upendra kumar nagar ee
+vinay shankar saxena ee
+antos varghese ee
+himanshu takwani ee
+aditya khandelwal me
+ajay kumar jagetiya me
+anjali bansiwal me
+ashish kumar me
+atul dubey me
+ayush bhadauria me
+balla raghavendar goud me
+boddupalli nibodh me
+chamarthy kameswara shiva dinesh me
+chetan gupta me
+dilkhush meena me
+himanshu yadav me
+kamlesh aseri me
+kanak shrivastava me
+manish soni me
+vinaykumar reddy me
+navneet mittal me
+pavan kumar shakya me
+sachin yadav me
+sandeep kumar meena me
+saurabh jain me
+saurabh pandey me
+shah jigar deepak me
+shreyas srivastava me
+shubham gupta me
+snigdhadeep moitra me
+sonu siba bara me
+surendra pal singh me
+tapesh kumar mourya me
+thani aswanth me
+vaibhav gupta me
+varun suryan me
+vikash kumar goenka me
+vishal kumar me
+anshuman singh me
+kirti vardhan rathore me
+divya nagar ss
+gaurav choudhary ss
+gourab kumar patro ss
+hari om meena ss
+kota aakash ss
+kshitij soni ss
+mahendra kachhawa ss
+manish malhotra ss
+narender kumar ss
+paladugu venkata karteek ss
+palash jain ss
+parag rahangdale ss
+pise indraneel rajnish ss
+pragati nagar ss
+priyanka raju masne ss
+purvi tiwari ss
+raghunath meena ss
+ravi kumar ss
+sharwan songara ss
+shivam choudhary ss
+shreshtha garg ss
+sunil suthar ss
+vibhav sharma ss sl
+roll no name branch
+aakash asija cse
+aayush sharda cse
+abhay kumar singh cse
+amit jain cse
+anjali malav cse
+archit agrawal cse
+arnav chopra cse
+arnav jindal cse
+avan jayendra rathod cse
+bharti arya cse
+dishant goyal cse
+hemant pratap singh cse
+kartik singh cse
+komanduri sai raghava cse
+kushagra surana cse
+mahendra kumar jat cse
+makarand milind gomashe cse
+muttineni navya cse
+nikhil jeevansingh taji cse
+piyush yadav cse
+priyank arya cse
+rajkumar meena cse
+ramkesh meena cse
+ravi prakash gupta cse
+ravindra kumar saini cse
+riteek srivastav cse
+shiv bhagwan cse
+shiv kumar sen cse
+shiv mohan cse
+shubham saxena cse
+sourav khoso cse
+suresh gehlot cse
+tapan bhatnagar cse
+upendra singh chauhan cse
+vaghela rajan arvindkumar cse
+vaibhav paliwal cse
+vivek lata cse
+abhishek agrawal ee
+abhishek jaju ee
+abhishek kumar yadav ee
+amit kumar ee
+anirudh singh shaktawat ee
+ankit garg ee
+anshul agarwal ee
+anshul yadav ee
+ashok kumar ee
+ashutosh gupta ee
+ashutosh vaishnav ee
+bhabhuta ram ee
+dinesh kumar danwa ee
+dipender singh ridmalot ee
+ekant kumar ee
+gurpinder singh ee
+hede tejan rohit ee
+hemant meena ee
+kanika mahajan ee
+khushbu saxena ee
+kshitij sandeep minocha ee
+mohit gupta ee
+niranjan sanodia ee
+paduru kandarpa sai ee
+prakhar gupta ee
+rahul jain ee
+rajendra kumar yadav ee
+ramdev bhichar ee
+rishikesh meena ee
+shraddha garg ee
+siddhant jain ee
+sisodiya vrushali ee
+sneha gupta ee
+sumit pegwal ee
+sushant gautam ee
+syed afshan ali ee
+talloju jawahar ee
+tiloka ram ee
+vaibhav sharma ee
+aditya saxena me
+akhil mehta me
+amit kumar me
+ankit raipuria me
+arpit kumar gahlot me
+ayush raina me
+balveer danga me
+bhaskarjyoti barman me
+dheeraj kumar sisodiya me
+dron airon me
+hardik jain me
+harsh vardhan shrivastava me
+himanshu agrawal me
+himanshu kumar singh me
+himanshu sharma me
+lakshmi phalguni me
+kanuganti vamshi me
+lakshaya bhatt me
+lakshman kumar me
+lokesh swami me
+manish rajendra jadhav me
+mayank gupta me
+mohammed firoz me
+mohit agarwal me
+patel harsh bhupendrabhai me
+pradyuman meena me
+prakhar srivastava me
+pushpendra dhurwe me
+pushpendra mishra me
+rohan kumar me
+rohit singh me
+shubham shaurya me
+subham teji me
+vaghela nirav jitendrakumar me
+vaibhav jain me
+vikas kumar me
+vikrant arora me
+viraat srivastava me
+aman ajmera ss
+anirudh vyas ss
+arvind saini ss
+ayush bhaskar ss
+darapaneni chandana ss
+deepika jalli ss
+deepshi garg ss
+gaikwad sangram dasharath ss
+gourav singh ss
+jayant carpenter ss
+jayant khapre ss
+joshi achyut sanjay ss
+lingala prasantha kumar ss
+naresh kumar prajapati ss
+pankaj panwar ss
+pankaj yadav ss
+perla sukesh ss
+pinkesh kumar ss
+prabhash jain ss
+prakhar mathur ss
+pramod kumar ss
+prashant kumar ss
+pulavarthy anirudh ss
+rohil surana ss
+rohit kumar ss
+sangepu ashrith ss
+saroj prasad chhatoi ss
+sheela meena ss
+shipra jain ss
+shubham singh ss
+tarun devireddy ss
+vishal kumar ss
+abhishek thombre biss
+aditya choudhary biss
+ajay kumar kumawat biss
+arnav mishra biss
+chandresh kumar biss
+dhanajit brahma biss
+himanshu sikaria biss
+jalaj sharma biss
+kaushtubh kumar biss
+kuldeep meena biss
+nisha kumari biss
+pranjal singh biss
+rakesh yadav biss
+sharath challapalli biss
+shrey maheshwari biss
+ujjwal anand biss financial position the mhrd has released sum of rs
+lakhs as under normal plan head and rs
+lakh as opening balance as on
+the internal income of the institute was rs
+the total plan expenditure during the year was rs
+lakh recurring rs
+lakh and rs

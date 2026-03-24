@@ -1,0 +1,15 @@
+research seminar by priya verma on august at pm title of the talk coupled effects of chemical reaction and phase separation on viscous fingering in porous media date time venue august at pm seminar hall dept
+of mathematics abstract this talk focuses on viscous fingering vf hydrodynamic instability that arises in porous media when less viscous fluid displaces more viscous one
+vf is critical phenomenon in range of natural and industrial processes including enhanced oil recovery eor and carbon capture and storage ccs
+we investigate the stability of reactive displacement involving chemical reaction of the form in porous media using both linear stability analysis and nonlinear simulations
+the system is modeled using darcy law coupled with equations
+the presence of chemical reactions can alter the viscosity profile significantly impacting the evolution of vf
+in addition we examine the effect of phase separation on viscous fingering and demonstrate through numerical simulations how vf can be triggered or modified by such separation mechanisms
+about the speaker priya verma is currently employed in the department of mechanical engineering national yang ming chiao tung university taiwan since june
+her research centers on the numerical analysis of flow in porous media with focus on developing computational methods for linear stability analysis and nonlinear simulations to better understand complex flow dynamics
+she obtained phd from iit ropar in march and her research focused on reactive viscous fingering in porous media
+title of the talk coupled effects of chemical reaction and phase separation on viscous fingering in porous media date time venue august at pm seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

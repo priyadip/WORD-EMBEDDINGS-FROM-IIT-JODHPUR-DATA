@@ -1,0 +1,20 @@
+congratulations to ajay kumar and
+chandramouli for acceptance of research paper congratulations to ajay kumar and
+chandramouli for acceptance of research paper author name ajay kumar
+journal name applied mathematics and computation amc paper title study of reduced chialvo map with electromagnetic flux dynamics and network behavior
+doi study of reduced chialvo map with electromagnetic flux dynamics and network behavior
+year abstract we introduce novel discrete neuron map which is obtained by adding an electromagnetic flux on reduced chialvo map and study various dynamical aspects of the proposed map
+we discuss the stability of fixed points bistability different bifurcations chaotic attractors and firing patterns
+in our exploration the bistability phenomena showcase the coexistence of different periodic attractors along with the basin of attraction region
+we observe that the system undergoes chaotic behavior via and reverse and also illustrate the behavior of the chaotic bubbles
+further we explore the numerical continuation of bifurcation for and of the map
+the evolution of chaotic attractor through various states and its associated correlation dimension shows the intricate structure and complexity of the map
+additionally we extend the dynamical study to the network of neurons specifically focusing on the network
+this broader investigation shows different dynamic states in the network like synchronized unsynchronized and chimera states
+finally we vary the coupling strength parameters of the network map and observe that it shows diverse wavy patterns and clustered states
+author name ajay kumar
+abstract we introduce novel discrete neuron map which is obtained by adding an electromagnetic flux on reduced chialvo map and study various dynamical aspects of the proposed map
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

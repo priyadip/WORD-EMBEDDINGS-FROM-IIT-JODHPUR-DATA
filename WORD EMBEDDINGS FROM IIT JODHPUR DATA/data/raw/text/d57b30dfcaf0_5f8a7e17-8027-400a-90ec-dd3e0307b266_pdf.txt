@@ -1,0 +1,916 @@
+SOURCE_PDF: d57b30dfcaf0_5f8a7e17-8027-400a-90ec-dd3e0307b266.pdf
+
+A Guide to Patent Searching
+Using Publicly Accessible Databases
+Indian Institute of Technology Jodhpur
+India
+Professor Prabuddha Ganguli
+Advisor, IIT Jodhpur, India
+and
+Visiting Professor, Rajiv Gandhi School of Intellectual
+Property Rights, IIT Kharagpur, India
+with
+Technical inputs from
+Venkataraman Parthasarathy & Nishad Deshpande
+Unit for Research and Development of Information
+Products (URDIP), Pune, India
+Version April 2020
+Issued under “Creative Commons Attribution-Non-Commercial-ShareAlike
+
+Table of Contents
+BACKGROUND 
+1
+WHAT IS A PATENT 
+1
+ANATOMY OF A PATENT SPECIFICATION 
+3
+INTRODUCING PATENT CLASSIFICATION SYSTEMS 
+7
+INTERNATIONAL PATENT CLASSIFICATION SYSTEM (IPC) 
+8
+COOPERATIVE PATENT CLASSIFICATION (CPC) 
+11
+SEARCHING PATENT DATABASES 
+14
+ESPACENET 
+15
+US PATENT and TRADEMARK OFFICE (USPTO): 
+17
+PATENTSCOPE 
+24
+THE INDIAN PATENT OFFICE DATABASE (inPASS) 
+30
+CONCLUDING REMARKS 33
+
+Foreword
+Indian Institute of Technology, Jodhpur, India issued its Intellectual Property Rights 
+Policy in December 2019. Among other nuances in the IIT Jodhpur IPR Policy, every 
+postgraduate student and PhD researcher is expected to conduct a holistic literature 
+search covering all forms of literature including patent documents, create and formally 
+submit a comprehensive technology landscape on her/his research project prior to 
+starting the research and also with the synopsis at the end of the research, to be 
+submitted as a partial requirement of the thesis / dissertation. 
+ 
+It was therefore thought essential to expose all the postgraduate students, PhD 
+researchers and Faculty in IIT Jodhpur to basics of patent searching and how to 
+derive technology-based information from patent documents for the preparation of 
+their respective technology landscapes. 
+ 
+Professor Prabuddha Ganguli, Advisor, IIT Jodhpur designed “Patent Searching 
+Training Workshops” and conducted a series of workshops with technical support of 
+Patent Search Experts from the Unit for Research and Development of Information 
+Products (URDIP), Pune, India, which is one of the Council of Scientific and Industrial 
+Research (CSIR). Three Hundred and Sixty Post graduate Students, PhD 
+Researchers, and One Hundred and Fifteen Faculty Members in IIT Jodhpur 
+participated in these workshops during February-March 2020. 
+ 
+It was decided to produce a hand-holding “Guide to Patent Searching” that would 
+serve as a friendly lead companion to each researcher, as they set-out on their “patent 
+searching journey”. 
+ 
+I am pleased release this document titled, “A Guide for Patent Searching Using 
+Publicly Accessible Databases”, authored by Professor Prabuddha Ganguli, with 
+technical inputs from Mr. Venkataraman Parthasarathy & Mr. Nishad Deshpande, Unit 
+for Research and Development of Information Products (URDIP). I am grateful to Dr. 
+Kishore Sreenivasan, Director, URDIP for his support extended to IIT Jodhpur in this 
+venture. 
+ 
+This document is being released under the “Creative Commons Attribution-Non-
+Commercial-ShareAlike (CC BY-NC-SA) in the interest of the global academic 
+community. 
+ 
+I hope the document will find wide usage among the academic and research 
+community and help to enhance the quality of research in our institutions. 
+ 
+ 
+ 
+ 
+ 
+Professor Santanu Chaudhury 
+Director, Indian Institute of Technology, Jodhpur. 
+April 2020
+
+Background 
+ 
+Every researcher identifies a technical problem to be solved. It is likely that the 
+problem is known and several earlier workers have explored solutions to the said 
+problem. Alternately, the research problem may be new, but bears similarity to 
+problems in a non-related field from which some leads to the solution may be 
+explored and exploited. It is also possible that the problem is totally new and 
+therefore no solutions exist in the public domain.
+In all such cases, an exhaustive literature search is imperative to understand the 
+contours of the existing knowledge in the context of the defined problem. Most 
+researchers are quite contented with literature searches covering books, journals, and 
+other digital and non-digital public knowledge sources.
+What is a Patent 
+Let us begin by understanding what a patent is.
+In simple terms, a Patent is
+ 
+A grant by a Sovereign or State to a person giving exclusive right to Stop 
+others from “making., using, exercising, vending, offering for sale” an 
+invention for a limited period of time, in exchange for disclosing the 
+invention in a patent specification
+Such that any one trained in the art can reproduce the invention
+ 
+Patent gives right to the patentee to exclude others from using the 
+Patentee’s Invention without the patentee’s permission
+ 
+Patent Owner has a qualified right to use his own invention. If the laws of 
+the country granting the patent requires the patentee to take clearances 
+from any other statutory body such as for safety, environmental protection, 
+defence, etc, then the patentee can use his invention only after acquiring 
+such clearances.
+The following important points from the above statements may be noted:
+ The grant of a patent is given by a Sovereign or State. As a country grants the
+patent, the right is valid only in that country. Therefore, if the inventor wants 
+such a right in other countries, then he will have to apply for the patent in those 
+countries and have the patent granted in those countries.
+ The right is a negative right, i.e. to Stop others from “making., using, exercising,
+vending, offering for sale” the invention without the patentee’s permission in the 
+country in which the patent is granted.
+ The patent right is for a limited period. The period is 20 years from the date of
+filing the patent application (provided the patent application gets granted). 
+Further, the patentee has to pay an annual renewal fee to the patent office in
+
+that country to retain the right in that country for that period. After the 20-year 
+period, the patent falls in the public domain and anyone is free to make use of 
+the patented invention without the permission of the patentee. 
+ 
+Further, if the patentee fails to pay the renewal fee (within the specified period), 
+his right lapses and the invention falls in the public domain and anyone can 
+then freely use the patent.
+ It is to be noted that the invention is to be disclosed in a “patent specification”
+such that a person skilled in the art can reproduce the invention. 
+ 
+An invention is first disclosed in a patent application. 
+ 
+It is generally accepted that 70% of the information in a patent document is not 
+published in any other literature. Hence if one does not search patents, one 
+may miss out on a very large volume of relevant literature in a particular filed of 
+technology. 
+ 
+This is significant as the disclosure is done in a specified manner, in a specified 
+format, in such detail, that a person skilled in the art should be able to reproduce 
+it. A patent specification is therefore one of the most structured documents of 
+technical disclosure. It is to be appreciated that publications in journals, books 
+and in other forms, the disclosures are generally not done in such detail. 
+ 
+A patent specification because of its detailed disclosure (unlike in a publication) 
+also becomes a source to identify the technical solutions to problems provided 
+by others, analyse their pitfalls, the approaches taken in the prior art to 
+overcome them, and yet leaving several limitations thereby creating 
+opportunities for incremental (or even breakthrough) innovations to fill the 
+existing technology gaps.
+Every field of a patent 
+specification 
+is 
+indexed
+and hence can be retrieved 
+in a digital search. All fields 
+of 
+technologies 
+are
+classified 
+in 
+an
+International 
+Patent
+Classification 
+Scheme
+(IPC) and hence in a 
+search, the documents can 
+be searched / identified / 
+retrieved using the IPC 
+codes 
+which 
+will 
+be
+illustrated in a later part of
+this document.
+
+Further, a patent application undergoes an examination at the patent offices. 
+The examination process is done in detail to establish the “novelty”, “inventive 
+step” and “industrial applicability / usefulness/ utility”. The entire examination 
+process is transparent and all the correspondence between the patent 
+examiner and the patent applicant are also made publicly available to the public 
+in the patent office websites. 
+ 
+Every patent application (whether examined or in the process of examination) 
+is published after 18 months of its filing date and is accessible to the public. 
+Therefore, the first time one is able to access information in a patent database 
+is at least 18 months old. 
+ 
+Further, every patent when granted, is also published in the patent office 
+website. From this publication, one is able to identify the changes that have 
+been made in the patent application during the course of the examination.
+Anatomy of a Patent Specification 
+A patent document contains information that covers Bibliographic, technical and 
+legal.
+The cover page for patents / 
+patent applications in most 
+countries with bibliographic 
+details contain the following 
+information:
+The country in which the patent 
+application has been made / 
+granted, the patent application 
+number / granted number, date 
+of which the patent was filed, 
+the title of the patent application 
+/ granted patent, the inventors, 
+the assignee(s), abstract, a 
+diagram 
+illustrating 
+the
+invention (where relevant), the priority date and the country in which the patent 
+application publication of the document, date on was first filed, the national and 
+international patent classification numbers, field indexing numbers for retrieval 
+purposes. In some countries, the literature and patent references cited by the 
+examiners are also included in the cover page.
+An illustration of a cover page of a published US Patent Application and a US Granted 
+Patent for an invention related to engineering are illustrated to appreciate the 
+bibliographic details.
+
+Cover page of US Granted Patent 
+ Cover page of the corresponding
+US Patent Application
+Granted patent no. is US6820924 B2 Pub. no. is 20040201256 A1
+Suffix B denote a granted patent Suffix A indicates that it is not yet 
+ granted by is still a published patent 
+ application
+Note the references cited by the examiner Note no references by examiner as it is 
+ not yet examined
+Note the figure is more detailed Note the figure lacks details
+Note the filing no. and date 
+ 
+ 
+ Note the filing no. and date
+Note 19 claims and 3 drawing sheets. There were 31 claims in the specification 
+31 claims in the patent applications were though not mentioned in the cover
+amended to 19 during the examination
+One should therefore study the patent application and the examination reports to 
+understand why the claims were amended. This will give a clue to the technical 
+aspects and the inventive step vis-à-vis the prior art.
+The patent specification in the field of the invention and summary of the invention 
+identifies the problem the invention solves and what the invention does and what effect
+
+the invention produces. The detailed description provides details of how the invention 
+constructed, what materials or methods are used in the construction of the invention, 
+and illustrates through a set of examples the best method of working the invention so 
+that a person skilled in the art can reproduce the invention.
+It is advised to read the patent document (download patent US6820924 B2) to 
+appreciate the manner in which the details of an invention that is disclosed and 
+claimed.
+Boolean operators and constructing strategies for searching using 
+keywords 
+Boolean operators are used to combine and / or exclude keywords in a search 
+strategy.
+The commonly used Boolean 
+operators 
+are: 
+"AND",
+"ANDNOT" 
+(or 
+simply
+The use of these operators is 
+illustrated in the Box below:
+Truncations called a wildcard operator, may be used to truncate words 
+(i.e. shortened to their primary root or stem, by reducing its length) and is represented 
+usually by an asterisk (*), a question mark (?), a dollar sign ($), or a percent sign (%) 
+depending on the search engine of the patent database being searched. This 
+increases the coverage of the search. An example of the use of truncation is illustrated 
+in the Box below:
+
+Nesting is an operation done by use of parentheses ( ) to organize search queries in 
+order to resolve potentially confusing search syntax. An example of the use of Nesting 
+is given in the Box below:
+Phrases are created by using quotation marks (« ») to surround a single search. If a 
+group of words is surrounded with quotation marks («), everything surrounded by those 
+quotation marks will be treated as a single search term. This allows one to search 
+for a multi-word phrase rather than specifying each word as a separate term. This is 
+illustrated in the Box below:
+NEAR operator …… used to include variations on phrases containing two terms in 
+any order (e.g., "metal cutting", "cutting metal", "cutting of metal", and "cutting 
+through metal") but to exclude documents in which the terms appear out of context 
+with each other, which might occur if the "AND" operator is used. The use of this 
+operator is illustrated in the box below:
+tennis NEAR ball documents having both the words 
+ <tennis> and <ball> within a certain 
+ number of words of each other. A 
+ numerical following NEAR specifies 
+ the number of words of each other
+
+term indicating the subject to which the invention relates and may also be assigned
+The NEAR operator can also be used with a numerical (e.g. 1, 2,3, 4,5) after NEAR to 
+define the maximum distance between the search terms. For example, NEAR5 
+specifies that the two terms in any order should be within 5 words distance.
+Ordered proximity operator such as BEFORE(insert a numerical) may be used to 
+indicate that the two words have to be ordered in a particular way and the distance 
+between the two words in that order should be within the numerical indicated after 
+BEFORE. The use of this operator is illustrated with an example in the box below:
+ADJ operator ……used to link terms close to each other and in the same order
+SAME operator ……used to identify terms in the same paragraph.
+The CPC has come into force from February 1, 2020 in the EPO and the USPTO.
+
+International Patent Classification System (IPC) 
+The official Guide to the IPC provides comprehensive information on the IPC. It is 
+available for download on the WIPO website of the IPC at 
+[https://www.wipo.int/classifications/ipc/en/general/] 
+The version of IPC 2020 : 
+https://www.wipo.int/edocs/pubdocs/en/wipo_guide_ipc_2020.pdf 
+ 
+This is an internationally accepted hierarchical system for classifying technologies 
+that are disclosed in patent documents. All technologies are classified into 8 
+Sections, which are further subdivided into classes, subclasses and groups.
+This classification system serves as an effective search tool for the retrieval of patent 
+documents and ordering patent documents in order to facilitate access to the 
+technological and legal information.
+When one does key word searches, the choice of the words is important. The patent 
+attorneys use various expressions / jargons to convey the same concept / word. For 
+example, Swimming pool is replaced by “water retaining recreational structure”; 
+Balloon expressed as “spherical device filled with gas for recreational purposes”; 
+Paper bin as “arrangement for the disposal of refuse”; Shoe as “footwear”; Helmet as 
+“head protector”, “hardhat”, “headgear”, etc.
+Therefore, the choice of the “key words” would determine result of a patent search. 
+Most technical persons are not too familiar with the techno-legal jargons used by 
+lawyers. The IPC codes provide a “terminology / jargon independent” tool for patent 
+searches. Further, the IPC codes provide standardized application to documents (by 
+experts of patent offices) and is available for (old) patent documents where no full text 
+of claims / description is available. Also, concept searches can be done easily.
+Very often, the search results giving too many search results are targeted and 
+narrowed by combining key words with IPC codes. This aspect will be illustrated in the 
+section dealing with searches using different databases later in this document.
+It is to be appreciated that patents are written in various languages and hence 
+selection of appropriate key words is difficult. Under such circumstances, the IPC 
+Codes which are language independent becomes a useful search tool.
+
+As is seen in the above presentation, to conduct a search on Special Purpose Chairs, 
+the first step is to identify the section in which chairs would be classified. As it is a 
+human need, the Section is obviously “A”. As chair is a furniture, the class is A47. In 
+A47, one then drills down to the subclass of chairs which is 47C. Then one proceeds 
+to the groups of “Chairs adapted for special purposes” which can be identified from 
+the main group A47C 1/00 followed by the various subgroups as indicated in the 
+presentation. Targeted searches for the relevant patents can be done using the 
+appropriate subgroup if properly identified.
+Similarly, in the other example of method of splicing or joining rope two different 
+subclasses were identified. Therefore, searches have to be done in both the 
+subclasses to obtain the patents dealing with this technical subject.
+The simplest way to get the IPC codes for the subject you are intending to search is 
+to go to the IPC home page on:
+Then click on search, enter the words in the search box and you will get all the relevant IPC codes for 
+the subject you have entered. In the present case, we typed reclining chair and obtained all the 
+relevant IPC codes for this subject.
+
+Each one of the IPC codes is ordered by relevance, each one representing a specific 
+aspect of “Special Purpose Chairs”. A47C 1/02 deals with reclining chairs. 
+A47C1/028 deals with “arrangements for changing a straight chair into an easy 
+chair”.
+Let us examine the International Classification (IPC) given in the cover page of the US 
+Granted Patent discussed earlier namely of US6820924 B2. The IPC given is B62D 
+25/00.
+When we click on the scheme and then on the left-hand side input this “IPC” we get 
+the following window:
+
+In the training material WIPO has presented examples pertain to different technical
+system. The CPC
+Please note that the patent in question is dealing with Super structure subunits in 
+vehicles and the groups provide the finer distinctions in the technology with regard to 
+the parts, etc.
+The IPC covers practically every field of technology and is regularly revised as new 
+technologies evolve. For example, when nanotechnology and its applications 
+became a reality, the IPC introduced a new IPC code for this technology namely 
+B82B with a set of subclasses and groups as is illustrated in the Box below:
+However, if you are interest to study the IPC in more details, go to the IPC Training 
+material available in https://www.wipo.int/classifications/ipc/en/training/
+Cooperative Patent Classification (CPC)
+
+The “Y” Section in CPC therefore specifically addresses the emerging technologies 
+so that patents related to these fields can be easily searched.
+
+Database URL Details
+United States
+Patents and
+Trademark Office https://www.uspto.gov/ US Patent
+Applications
+Published; US
+Granted Patents;
+Prosecution
+History (PAIRS)
+Espacenet
+European Patent
+Office (EPO) https://worldwide.espacenet.com/ Patent database
+covering over 100
+countries. Also,
+Possible to access
+patent prosecution
+history in the EPO
+On-line
+Translation also
+available
+WIPO
+Patentscope https://patentscope.wipo.int/search/en/search.jsf PCT Publications
+Online translation
+also available
+Indian Patent
+Office http://ipindia.nic.in/patents.htm Patent
+Applications made
+in India and
+granted patents in
+India. Possible to
+access the patent
+prosecution
+history.
+Google Patents https://patents.google.com/ Covers patent
+publications and
+granted patents in
+Japan, China,
+WIPO(PCT),
+Europe, Germany,
+Canada.
+Freepatents online http://www.freepatentsonline.com/ U.S., EPO, Japan,
+and WO (PCT)
+Patent Lens http://www.patentlens.net/ Full text of PCT
+(1978-present),
+USPTO (published
+patent applications
+and granted
+patents (1976-
+present), EPO
+(1980-present)
+and IP Australia
+(patent
+applications and
+granted patents
+1998-present)
+Searching Patent Databases 
+The commonly searched free patent databases are:
+
+These databases allow searches using:
+ Keywords 
+ Patent classification (IPC) 
+ Dates (e.g., priority date, application date, publication date, grant date) 
+ Patent reference or identification numbers (application number,
+publication number, patent number)
+ Names of applicants/assignees or inventors
+Though the general principles of searching are applicable in all the databases, it is to be 
+appreciated that each database has its own search engine with their respective nuances. 
+Hence it is advisable to go to the website and first familiarise on their respective nuances. 
+Each website has a help desk and / or has a familarisation video to hand-hold the users.
+Practical Exercises: Searching Patent Databases
+It is advisable for each user of Espacenet to see the video online and take the patent 
+information tour which consists of four learning units. Each of them has an introductory 
+video and two or three theory chapters. At the end of each chapter there are exercises 
+for you to test what you have learnt. [https://e-courses.epo.org/wbts/pi_tour/index.html] 
+ 
+To search go to https://worldwide.espacenet.com/?locale=en_EP
+
+On the left side of the screen there are three options, namely “smart search”,
+“advanced search” and “classification search”.
+Let’s define a problem and then conduct a patent search in Espacenet.
+Problem: What is the prior art for conversion of sugar to ethanol by fermentation?
+First using the “advanced search” option, we can input the following key words:
+Ethanol production from sugar 
+fermentation.
+We get 28 hits as shown in the 
+screen.
+Then we refine the search with 
+the keywords: ethanol 
+production from sugar and 
+yeast.
+We get 10 hits as shown in the 
+screen.
+
+We then click on the 
+classification search and 
+input the word yeast to find 
+out the classification. The 
+search gives a result shown 
+in the screen.
+Note that the classification 
+search was done under the 
+Cooperative Patent 
+Classification (CPC) which 
+is followed by the European
+Patent Office. Going down the screen, under preparation of oxygen containing 
+compounds (ethanol is an oxygen containing compound), the classification is C12P 
+7/00.
+We now combine the classification 
+and the key word sugar in title or 
+abstract with C12P7/00 in the CPC
+(in the advanced search).
+We get 8 targeted hits from over 
+100 million documents from over 
+100 countries.
+These can be marked, saved and 
+downloaded. Further, on options 
+bar next to the quick help, one 
+can compact the results, export 
+them in the form of on the top of 
+there is an option to download
+the results in the form of CSV/XLX report.
+You can click on the document to download it. One can also use the patent 
+translate facility in the ESPACENET.
+US Patent and Trademark Office (USPTO):
+The home page on the top left presents the various options for search in PaFT 
+Patents (granted patents) and AppFT (published patent applications). Further the 
+options for quick search and advanced search are possible
+
+The screen shots of the quick search. Also note below the multiple fields that are supported 
+by the quick search. Search can be conducted using the terms and Boolean operators in any of 
+the fields selected for the search.
+
+The adjacent 
+screenshot is for the 
+advanced search in 
+which a string of 
+terms can be 
+combined using 
+Boolean Operators 
+in a manner 
+indicated in the right 
+half of window. 
+Search can be done 
+using the field codes 
+as indicated.
+We shall now illustrate how searches are done in the USPTO both for simple search 
+and advance search.
+Problem: What is the prior art for conversion of xylose sugar to ethanol using a
+yeast strain?
+We use the quick 
+search option by 
+inputting xylose and 
+ethanol as two terms 
+and search in the field 
+“abstract”.
+
+The result is given in the screenshot below:
+Clicking on the 
+relevant title / patent 
+number retrieves 
+the patent 
+specification as
+We now proceed to illustrate the features of Advanced Search.
+
+List of codes for various fields:
+Advanced Search Query
+ABST/(xylose AND ethanol AND 
+Saccharomyces)
+The Result of the advanced search is given in the Screen Shot Below
+
+We need to explore how to use Cooperative Patent Classification (CPC) for 
+such a search in the USPTO
+URL for CPC codes https://www.uspto.gov/web/patents/classification/cpc/html/cpc.html
+At first, we have to 
+identify the CPC 
+Code for 
+Fermentation using 
+microorganisms. 
+Further in earlier 
+simple search we 
+have also identified 
+Saccharomyces 
+cerevisiae as the 
+microorganism for 
+the fermentation. 
+One can type
+fermentation in the search and on clicking the search icon, a window with all the 
+CPC Codes for fermentation opens. C12P is the code for fermentation. C12P can be 
+further examined for the subgroups in the CPC as shown in the screenshot.
+Note that C12P 7/00 is 
+the code for 
+preparation of oxygen 
+containing compounds 
+and C12P 7/065 is 
+code for preparation of 
+these compounds 
+using microorganisms 
+other than yeasts.
+CPC Definition - C12C BEER; PREPARATION OF BEER BY FERMENTATION (ageing or ripening by 
+storing C... 
+https://www.uspto.gov/web/patents/classification/cpc/html/defC12C.htmlC12C BEER; PREPARATION 
+OF BEER BY FERMENTATION (ageing or ripening by storing C12H...reducing the alcohol content 
+after fermentation C12H 3/00 ... 
+CPC Definition - C12P FERMENTATION OR ENZYME-USING PROCESSES TO SYNTHESISE A 
+DESIRED CHEMICAL COM... 
+https://www.uspto.gov/web/patents/classification/cpc/html/defC12P.htmlLast Updated Version: 2020.01 
+C12P FERMENTATION OR ENZYME-USING PROCESSES TO SYNTHESISE...amplification reactions 
+C12Q 1/6844; fermentation processes ... 
+CPC Definition - C12F RECOVERY OF BY-PRODUCTS OF FERMENTED SOLUTIONS (removal of 
+yeast from wine... 
+https://www.uspto.gov/web/patents/classification/cpc/html/defC12F.html...02 C12F RECOVERY OF BY-
+PRODUCTS OF FERMENTED SOLUTIONS (removal of yeast from...rectification or recovery of by-
+products of fermented solutions ...
+
+An advanced search carried out using this CPC as C12P7 in combination with 
+keywords xylose and ethanol in the abstract does not give any hits.
+No hits for C12P7
+This means that the CPC Code has not been entered correctly. Adding the digits of 
+the specific subgroups is necessary. By correcting the CPC code, we get 5 hits as 
+indicated below.
+One needs to add more digits for specific subgroups eg C12P7/00 OR C12P7/10
+
+However, if there is need to search for any of the subgroups, then we can make use 
+of truncation operator ‘$’.
+Using this operator will return patents having IPC codes with any of the subgroups 
+under that specific group eg If C12P7$ is used in search query, it will return patents 
+with C12P7/00 OR C12P7/02 OR C12P7/06 OR C12P7/10 etc
+However, one has to use the patent calssification scheme with caution as 
+inappropriate use may result in very restricted results, which could be misguiding.
+PATENTSCOPE
+The PATENTSCOPE database provides access to international Patent Cooperation 
+Treaty (PCT) applications in full text format on the day of publication, as well as to 
+patent documents of participating national and regional patent offices. It is to be 
+appreciated that the PCT Patent Applications are published 18 months after the priority 
+date (i.e. date on which the patent application was first filed in any PCT Country).
+URL for users guide: https://patentscope.wipo.int/search/help/en/users_guide.pdf
+
+The information may be searched 
+by entering keywords, names of 
+applicants, international patent 
+classification and many other 
+search 
+criteria 
+in 
+multiple
+Further, 
+the 
+PATENTSCOPE
+provides access to more than 83 
+million patent documents with 
+options 
+for 
+Simple 
+Search,
+Advanced Search, Field Combination, Cross Lingual Expansion and Chemical 
+Compounds Structure (with login). Clicking on the Tool one gets options such as WIPO 
+translate (to obtain machine translation of the patent documents in a wide range of 
+languages), WIPO Pearl (to conduct a linguistic search giving access to scientific and 
+technical terms derived from patents), IPC Green (facilitates searches for patent 
+information relating to Environmentally Sound Technologies (ESTs)), Patent Register 
+Portal which acts as a gateway to online patent registers and gazettes and to legal-
+status-related information from over 200 jurisdictions and patent information 
+collections.
+We now proceed to familiarise ourselves with the searching options and process in 
+the PATENTSCOPE database.
+The URL https://patentscope.wipo.int/search/en/search.jsf presents the Simple
+Search Window as 
+default with options for 
+use of key words and 
+search in a variety of 
+fields, such as, front 
+page, full text.
+We shall conduct a search on the production of ethanol from Xylose.
+The search terms are Xylose and Ethanol. The search is conducted in the field 
+“Front Page”
+The search yields 997 
+hits as is shown in the 
+screenshot. Each 
+document can be 
+opened by clicking on 
+the publication 
+number.
+
+It is possible to 
+filter the results 
+based on the 
+Countries, 
+Applicants, 
+inventors, and the 
+results can be 
+presented in the 
+form of charts as 
+histograms, per 
+charts, etc.
+The search can 
+be targeted 
+using the IPC or 
+CPC code 
+identified from
+the opened document
+Tabs can be used to read specific sections of the document
+
+Advanced Search: Key word search can be done in all patent offices or in 
+specific country patent offices
+The search can be 
+done in specific 
+country patent offices 
+as illustrated in the 
+screen shot
+The 
+results of 
+the 
+advance 
+search 
+using the 
+key 
+words 
+may be 
+viewed 
+as in the 
+SIMPLE 
+SEARCH 
+as shown 
+in the 
+screen 
+shot
+
+ADVACNED SEARCHES can be conducted by combining the key words with
+various fields 
+including the IPC.
+The Boolean 
+Operators can be 
+used to combine the 
+search terms.
+Combining Xylose 
+in Front page and 
+Ethanol in abstract 
+results in 972 hits
+Combining Xylose 
+in Front page, 
+Ethanol in abstract 
+and the IPC Code 
+for Fermentation 
+C12P7/00 results in 
+697 hits
+
+Note the output of 697
+Xylose in Front page, 
+Ethanol in abstract, IPC 
+for fermentation 
+C12P7/00 and IPC Code 
+C12R1/85 for 
+Saccharomyces are now 
+combined
+The result of the above 
+search results in 96 hits
+By clicking on each 
+publication number, the 
+complete document can 
+be 
+downloaded 
+and
+The systematic reduction in the number of hits and tis relevance has to be assessed 
+in the context of the problem to be solved. Narrowing the search with too much of 
+specificity, one may lose out on some relevant patents. Search strategies have to be 
+prepared and searches are to be carried out after defining the focal point and the 
+contours of the problem to be researched.
+The users’ guide may be used to understand further details of how to use all the 
+features of the PATENTSCOPE.
+URL for users’ guide: https://patentscope.wipo.int/search/help/en/users_guide.pdf
+
+Further regular webinars are conducted by the World Intellectual Property 
+Organisation 
+(WIPO). 
+The 
+details 
+can 
+be 
+accessed 
+at 
+the 
+URL:
+WIPO also publishes PATENTLANDSCAPES on various technologies from time to 
+time 
+that 
+can 
+be 
+freely 
+accessed 
+at 
+the 
+URL
+A formal WIPO ppt presentation on PATENTSCOPE titled: “ Discover all the features 
+and functionalities PATENTSCOPE has to offer”, can be downloaded from 
+https://www.wipo.int/meetings/en/doc_details.jsp?doc_id=431712
+The Indian Patent Office Database (inPASS)
+This is the home 
+page of the Office of 
+the Controller 
+General of Patents, 
+Designs, 
+Trademarks. It also 
+covers Geographical 
+Indications.
+When you click on Patents, the next screen opens as shown
+The screenshot 
+shows options 
+for search of 
+Patent 
+Applications 
+Published, 
+Patents 
+granted, 
+Application 
+Status and 
+comprehensive 
+e-services for 
+patents.
+This website covers patents filed and granted only in India.
+Note Patents
+
+By clicking 
+on the 
+options for 
+patent 
+applications, 
+or patents 
+granted or 
+application 
+status, the 
+screenshot 
+shows the 
+various 
+options
+Searches can be conducted using key words in combination with various fields using 
+the Boolean Operators.
+We now proceed to search patents for the production of Ethanol from Xylose
+Key words Xylose and 
+Ethanol in Abstract 
+and fermentation in 
+complete 
+specification….Search 
+in published patent 
+applications gives 544 
+hits; Clicking on the 
+application number will 
+open the document
+Key words Xylose 
+and Ethanol in 
+Abstract and 
+Saccharomyces in 
+complete 
+specification fields 
+….Search in 
+published patent 
+applications gives 
+235 hits
+
+Key words Xylose 
+and Ethanol in 
+Abstract ….Search in 
+granted patents gives 
+133 hits
+Clicking on the patent 
+application number, 
+the document opens, 
+Further, clicking on 
+the e-register gives 
+the details entered in 
+the e-register
+Key words 
+Xylose and 
+Ethanol in 
+Abstract and 
+Saccharomyces 
+in complete 
+specification 
+….Search in 
+granted patents 
+gives 53 hits
+Keywords 
+Xylose and 
+Ethanol in 
+Abstract and 
+C12P in IPC 
+fields 
+….Search in 
+published 
+patent 
+applications 
+gives 9 hits
+
+Keywords 
+Xylose and 
+Ethanol in 
+Abstract 
+and C12P 
+in IPC fields 
+….Search 
+in granted 
+patents 
+gives 5 hits
+Concluding remarks: 
+ 
+From this exercise, one will have to study the patent documents obtained from the 
+searches yielding the least number of hits such as 5 and 9, to access the relevance of 
+those documents in the context of the problem at hand. 
+ 
+After doing this assessment, one will then get to the results with higher number of hits 
+and select the most relevant documents based on a reading of the abstracts and the 
+independent claims to assess their relevance before reading the corresponding 
+complete specifications. 
+ 
+Such an exercise will minimise the possibilities of missing out the most relevant 
+documents in the context of the problem at hand. 
+ 
+Based on the searches made in various databases, and accounting for the common 
+documents found in various countries, one can prepare a report on the prior art from 
+the available patent literature. 
+ 
+These results will have to be merged with the results of the general literature search 
+in books, journals and other academic and commercial literature to construct the 
+technology landscape for the creation of a “research strategy” in the context of the 
+problem at hand. 
+ 
+This process will have to be repeated from time to time and midcourse corrections in 
+the research strategy will have to be done based on the prior art at that point in time.

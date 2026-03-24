@@ -1,0 +1,20 @@
+departmental seminar by gulshan sihag on september at speaker dr gulshan sihag title of the talk evaluation of risk factors for falls in elderly people using bayesian networks date time venue september dept
+of mathematics abstract falls are significant problem for the elderly with identification and evaluation of risk factors being essential to reduce fall rates
+however fall prevention requires pedagogical and repeated approach time and expertise to target actionable risk factors accurately
+this thesis aims to evaluate the risk factors for falls using real data set and bayesian networks
+using real data poses challenges particularly in data preprocessing which is and requires expertise
+additionally an application based on ai raises new challenges such as trustability which depends on the interpretability and explainability of the results
+to address these challenges my thesis proposes knowledge model bayesian networks that automatically evaluates the main actionable risk factors
+the model is trained on real data set combined with expert knowledge
+different data preprocessing steps are presented and explained including missing value imputation variable selection and the use of balancing techniques for imbalanced data
+the model is compared with other classifiers through different measures including all or partial observation and using or not balancing methods to manage the delicate question of imbalanced data
+bayesian network is presented as good solution combining the quality of the results to evaluate the risk factors and the of the model from the expert point of view
+the results show that predicting the presence or absence of risk factors for falls is challenging task
+while bayesian networks and other classifiers perform equivalently in terms of measures such as balanced accuracy and the interest of bayesian networks lies in their interpretability and the ability to use partial observations
+in summary this thesis presents contribution toward an application for fall prevention that facilitates automatic risk factor evaluation from partial observations of the patient using real data set and bayesian networks
+the proposed knowledge model bayesian networks addresses the challenges of using real data and applications respectively
+keywords classification machine learning problem of falls fall prevention bayesian networks speaker dr gulshan sihag title of the talk evaluation of risk factors for falls in elderly people using bayesian networks date time venue september dept
+keywords classification machine learning problem of falls fall prevention bayesian networks important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

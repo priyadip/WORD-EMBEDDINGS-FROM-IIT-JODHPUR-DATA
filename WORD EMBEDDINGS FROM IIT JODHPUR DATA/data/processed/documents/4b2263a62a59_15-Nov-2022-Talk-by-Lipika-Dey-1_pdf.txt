@@ -1,0 +1,16 @@
+sola seminar series iit jodhpur school of liberal arts indian institute of technology jodhpur invites you to lecture on text mining for computational social science by lipika dey principal scientist tcs innovation labs new delhi on tuesday november pm pm venue room lecture hall building iit jodhpur campus recent advances in natural language processing technologies have raised the hopes of automated or analysis of large textual repositories
+simultaneously the open web and other participatory digital text repositories have emerged as new sources of information for the social scientists
+these repositories are continuously evolving and can be considered digital footprints of the society
+these sources are dynamic in nature and also contain valuable information about social interactions
+in this presentation we will discuss how computer assisted analysis of large digital repositories are helping social scientists extract insights about people thoughts moods behaviors along with inferences about associated social factors like demography background etc
+superimposed with social interactions the extracted knowledge can provide further insights about the underlying social dynamics
+few tools techniques and case studies will be discussed
+about the speaker lipika dey is the chief scientist at tcs research tata consultancy services india
+she heads research in the area of economic and financial intelligence
+her research interests are in the areas of content analytics from social media and news social network analytics predictive modeling and semantic search
+the focus of her work is on seamless integration of social intelligence and business intelligence
+she has been elected fellow of indian national academy of engineers
+she was awarded with the distinguished scientist award by tcs in
+prior to joining the industry in she was faculty member in the department of mathematics at indian institute of technology delhi from to
+dey has in computer science and engineering an in computer science and data processing and year in mathematics from iit kharagpur
+she is founding member of the council in india

@@ -1,0 +1,961 @@
+SOURCE_PDF: f1d3889b14c9_Tender-Document-for-Supply_-Installation-and-Operation-of-Vending-Machines-in-IIT-Jodhp.pdf
+
+Page 1
+Tender Document for 
+Supply, 
+Installation and Operation of Vending
+Machines in IIT Jodhpur Campus
+Indian Institute of Technology Jodhpur
+NH-62, Nagaur Road, Karwad, Jodhpur – 342 030, Rajasthan (India)
+NIT No: IITJ/SPS/I/C/2025-26/Estate/05 dated 09-09-2025
+
+Name of Organization Indian Institute of Technology Jodhpur
+Tender Notice No. IITJ/SPS/I/C/2025-26/Estate/05 date 09-09-2025
+Tender Type
+(Open/Limited/EOI/Auction/Single) Open
+Tender Category (Services/Goods/works) Services
+Type/Form of Contract (Service) Services
+Product Category (Civil Works/Electrical
+Works/Fleet Management/ Computer
+Systems) Others
+Daste of Issue/ Publishing 09-09-2025 at 18:00 hrs
+Last Date and Time for Uploading of Bids 30-09-2025 at 15:00 hrs
+Date and Time of Opening of Technical
+Bids 01-10-2025 at 16:00 hrs
+Pre-Bid Meeting Date 17-09-2025 at 11:00 hrs
+Pre - Bid Meeting Place Meeting Room, 1st Floor, Admin Building
+(West), IIT Jodhpur
+No. of Covers (1/2/3/4) 02
+Bid Validity 180 days (From the date of opening of bids)
+Period of Service Contract 01 Year
+Address for Communication Office of Stores & Purchase, Institute Building
+(East), IIT Jodhpur, NH-62, Nagaur Road, Karwar,
+Jodhpur-342030
+Contact No. 0291-280-1101
+Email Address sps@iitj.ac.in
+Page 2
+SCHEDULE
+Signature of the Vendor
+
+S. No. Name of the Shop Area (in
+Sq. ft.) License Fee* (Rs.)
+per month (GST
+extra) Water
+Charges (Rs.)
+per month
+(GST extra) EMD
+(Rs.) PBG/ Security
+Deposit (5
+times of License
+Fee) (Rs.)
+1. Space for minimum 31
+Vending Machine at
+different locations - Rs. 1,55,000/-
+(5,000/- per
+Vending Machine) - 41,000/- 8,50,000/-
+2. Storage for Vending
+M achines’ Items at E-20
+Berm (1 Bay) 442 20,000/- 500/-
+Page 3
+Scope of Work
+1. General Overview of the service: -
+IIT JODHPUR having its campus of 852 Acres at NH-62, Karwad, Jodhpur invites online bids for 
+Award of Licensee for Lease of Shop/ Space for Vending Machines and Storage in IIT Jodhpur 
+Campus. The vendor shall provide and operate vending machines in the Hostels, Mess, Lecture 
+Hall, Admin Building, PHC etc. as per the requirement of the Institute. The Institute will provide 
+space for the Storage/ Vending Machines. 
+The Service Provider will pay towards the Shop/ Space as per tabulated below:
+Table ‘A’
+* The license fee shall be increased by 10 percent (%) of the License Fee amount each year 
+(Compounding).
+• 
+Electricity Charges will be as per actuals on monthly basis.
+• 
+The bid shall include the following:-
+i. 
+Earnest Money Deposit (EMD): The Licensee will upload the Scanned copy of receipt of 
+deposition of Earnest Money Deposit (EMD). The EMD may be submitted in the form of 
+Bank Guarantee, Fixed Deposit or Demand Draft of a scheduled bank in the name of 
+Director, IIT Jodhpur valid for 180 days from the date of opening of the tender. The 
+EMD will be Refundable without interest. Bids without EMD shall not be considered. 
+The vendor will submit the Tender Document duly sealed & signed by the authorized 
+person of the firm along with original EMD. Without EMD, the bid will not be 
+considered.
+ii. 
+Minimum Eligibility Criteria
+IIT Jodhpur has set up minimum eligibility criteria for the bidding purposes. All bidding 
+parties must meet following criteria before they apply for the bid. The bidding parties 
+meeting the criteria must enclose their supporting documents along with the technical 
+bid. (Following documents to be provided as single PDF file).
+
+Location Number of Machines Floor Operating Hours
+Hostels 17 (Seventeen) Ground 24 x 7
+Mess Building 02 (Two) Ground 24 x 7
+Basic Lab Building 01 (One) Ground 24 x 7
+Dept. of Bioscience and
+Bioengineering 01 (One) Ground 24 x 7
+CRF 01 (One) Ground 24 x 7
+Dept. of Mechanical
+Engineering 01 (One) Ground 24 x 7
+Dept. of Physics 01 (One) Ground 24 x 7
+SME Building 01 (One) Ground 24 x 7
+Dept. of Mathematics 01 (One) Ground 24 x 7
+School of Design 01 (One) Ground 24 x 7
+PHC 01 (One) Ground 24 x 7
+LHB-1 01 (One) Ground 24 x 7
+Admin Building (East) 01 (One) Ground 24 x 7
+Visitor’s Hostel 01 (One) Ground 24 x 7
+Page 4
+Details of the approved locations for placement of Vending Machines
+The Institute reserves the right to increase or decrease the number of machines as per requirement. 
+The vendor has to ensure that new machines are installed at the requested locations within a month 
+of placing the order. 
+Responsibilities of the vendor:-
+1) The vendor shall be responsible for regularly restocking the vending machine with the
+approved items. Additionally, the vendor shall ensure that all items are maintained in a 
+hygienic state and are free from any condition of spoilage or expiration.
+2) The vendor holds full responsibility of refilling the machines when they reach about 50% of the
+capacity. This should be done within 2 hours (from the machine reaching 50% of the capacity).
+3) The vendor shall provide maintenance and repair services for the vending machine, ensuring its
+proper functioning throughout the contract period.
+4) The vendor shall manage the cleaning of the area where the vending machines are installed at
+your own cost.
+5) The vendor shall offer prompt and courteous customer service addressing any issues or concerns
+related to the vending machine.
+6) The vendor will have to arrange Internet connection for the vending machines on their own
+preferably wireless connection.
+7) The Institute will not provide any storage space. The vendor will have to arrange for the same. 
+8) The vendor shall be responsible for safety and security of the vending machines. 
+9) The vendor shall also install a camera on the machine and provide its footage/clipping to the
+Institute Authorities in case of transaction failures like amount debited but product not
+
+Page 5
+dispensed or other failures. It would be the responsibility of the vendor to prove that the product 
+has been dispensed on receipt of money.
+Responsibilities of the Institute :- 
+1) The Institute will provide a suitable space within the premises of IIT Jodhpur for the installation of
+vending machines.
+2) The Institute will provide electricity on a chargeable basis (charges to paid as per actual
+consumption by the vendor).
+3) 
+The Institute will allow the entry of vendor’s representatives for refilling stock.
+
+Sl.
+No. Item Brand Packaging
+Size
+1. Chips Lays/Haldiram/Bikano/ITC/Crax 60gm
+2. Namkeen Haldiram/Bikano/ITC/Crax/Parle/Bikaji 30gm-56gm
+3. Namkeen Haldiram/Bikano/ITC/Crax/Parle/Bikaji 55gm-80gm
+4. 5 Star Cadbury 40gm
+5. Protein Bar Max Protien/ UniBic/ RiteBite 30gm
+6. Fuse Cadbury 30gm
+7. Dairy Milk Cadbury 36gm
+8. Choco ChipCookies Anmol/ Unibic 75g
+9. Center Filled
+Cookies Anmol/ Dark Fantasy
+(BoxMRP/No of Peices) 12.5g
+10. Kit Kat 4F Nestle 36.5g
+11. Kit Kat Rich
+Chocolate Nestle 50gm
+12. Choco Pie Lotte/ Orion (Box MRP/No of Peices) 28gm
+13. Snickers Mars 45gm
+14. Real Juice Real – Dabur 180ml
+15. Lassi Epigamia 150ml
+16. Milk Shake Epigamia 180ml
+17. Kurkure Kurkure, Taka Tak, Tedhe Medhe 105gm
+18. Jim Jam Britannia 92gm
+19. McVities Oats McVities 75gm
+20. Digestive McVities 96.5gm
+21. Water Bisleri/ Bailey/ Dasani 500ml/1L
+22. Bakery Bakery Products 1pc
+23. Center Filled
+Croissant Bauli/ Britannia 50gm
+24. Ferrero Rocher Ferrero Rocher T4/4pc
+Page 6
+Tentative list of items to be sold through vending machines
+VENDING MACHINES (FOR FOOD & BEVERAGES)
+
+25. Butter ScotchMilk Ananda 150ml
+26. Lahori Zeera Lahori Zeera 160ml/250ml
+27. Cake Winkis/ Anmol/ Britannia/ Bauli 90gm-120gm
+28. Energy Drink RedBull/ Monster 250ml/330ml
+29. Carbonated
+Beverages Coca Cola, Diet Coke, Sprite,
+Limca,Fanta, Pepsi, Mountain Dew, 7
+Up, Campa Cola, Pop 250ml/750ml
+30. Carbonated Can Coca Cola, Diet Coke, Sprite,
+Limca,Fanta, Pepsi, Mountain Dew, 7
+Up, Campa Cola, Pop 300ml/330ml
+31. Frooti Parle Agro 250ml/500ml
+32. Pulpy Orange Pulpy Orange 200ml/400ml
+Page 7
+Note: The Institute reserves the right to add or delete any item in the above mentioned list.
+
+Page 8
+General Terms and Conditions
+IIT JODHPUR having its campus of 852 Acres at NH-62, Karwad, Jodhpur (hereinafter referred to as the 
+“Institute”), an Educational Institute of National Importance, having approximate strength of 
+approximately 6000 campus residents invites online Bids in One-bid format for “Award of Licensee for 
+Lease of Shop/ Space for Vending Machines and Storage in IIT Jodhpur Campus” at the Institute. 
+Tender forms can be downloaded from the CPP Portal (http://eprocure.gov.in/eprocure/app) & 
+Institute website http://www.iitj.ac.in/tenders/index.php?id=services. The bidders are requested to read 
+the tender document carefully and ensure compliance with all specifications/instructions herein. Non-
+compliance with specifications/instructions in this document may disqualify the bidders from the tender 
+exercise. The Director, IIT Jodhpur reserves the right to select the item (in single or multiple units) or to 
+reject any quotation wholly or partly. Incomplete tenders, amendments and additions to tender after 
+opening or late tenders are liable to be ignored and rejected.
+1. Instructions for Online Bid Submission:
+1.1. 
+There are various search options built in the CPP Portal, to facilitate bidders to search active tenders 
+by several parameters. These parameters could include Tender ID, organization name, location, 
+date, value, etc. There is also an option of advanced search for tenders, wherein the bidders may 
+combine a number of search parameters such as organization name, form of contract, location, date, 
+other keywords etc. to search for a tender publishing on the CPP Portal.
+1.2. 
+Bidder should take into account any corrigendum published on the tender document before 
+submitting their bids.
+1.3. 
+Bidder will go through the tender advertisement and the tender document carefully to understand 
+the documents required to be submitted as part of the bid. Please note the number of covers in 
+which the bid documents have to be submitted, the number of documents – including the names 
+and content of each of the document that need to be submitted. Any deviations from these may lead 
+to rejection of the bid.
+1.4. 
+The tenders will be received online through portal http://eprocure.gov.in/eprocure/app. In the 
+Technical Bids, the bidders are required to upload all the documents in .pdf format. The Technical 
+bids should be submitted in the e-Procurement portal.
+1.5. 
+Possession of a Valid Class II/III Digital Signature Certificate (DSC) in the form of smart card/e-
+token in the company's name is a prerequisite for registration and participating in the bid 
+submission activities through http://eprocure.gov.in/eprocure/app. Digital Signature Certificates 
+can be obtained from the authorized certifying agencies, details of which are available in the web 
+site https://eprocure.gov.in/eprocure/app under the link “Information about DSC”.
+1.6. 
+The Institute will not be responsible for any type of technical issue regarding uploading of Tender 
+on website.
+2. SEARCHING FOR TENDER DOCUMENTS
+2.1. 
+Once the bidders have selected the tenders they are interested in, they may download the required 
+documents / tender schedules. These tenders can be moved to the respective ‘My Tenders’ folder. 
+This would enable the CPP Portal to intimate the bidders through SMS / e-mail in case there is any 
+corrigendum issued to the tender document.
+2.2. 
+The bidder should make a note of the unique Tender ID assigned to each tender, in case they want 
+to obtain any clarification / help from the Helpdesk.
+3. PREPARATION OF BIDS
+3.1. 
+Bidder, in advance, should get ready the bid documents to be submitted as indicated in the tender 
+document / schedule and generally, they can be in PDF / XLS formats. Bid documents may be 
+scanned with 100 dpi with black and white option.
+3.2. 
+To avoid the time and effort required in uploading the same set of standard documents which are 
+required to be submitted as a part of every bid, a provision of uploading such standard documents
+
+Page 9
+(e.g. PAN card copy, annual reports, auditor certificates etc.) has been provided to the bidders. 
+Bidders can use “My Space” are available to them to upload such documents. These documents may 
+be directly submitted from the “My Space” area while submitting a bid, and need not be uploaded 
+again and again. This will lead to a reduction in the time required for bid submission process.
+4. SUBMISSION OF BIDS
+4.1. 
+Bidder should log into the site well in advance for bid submission so that he/she upload the bid in 
+time i.e. on or before the bid submission time. Bidder will be responsible for any delay due to other 
+issues.
+4.2. 
+The bidder has to digitally sign and upload the required bid documents one by one as indicated in 
+the tender document.
+4.3. 
+The bidder may add rows to include the prices of all components & warranties, installation etc. 
+whichever applicable.
+4.4. 
+The server time (which is displayed on the bidders’ dashboard) will be considered as the standard 
+time for referencing the deadlines for submission of the bids by the bidders, opening of bids etc. The 
+bidders should follow this time during bid submission.
+4.5. 
+The uploaded tender documents become readable only after the tender opening by the authorized 
+bid openers.
+4.6. 
+Upon the successful and timely submission of bids, the portal will give a successful bid submission 
+message & a bid summary will be displayed with the bid no. and the date & time of submission of 
+the bid with all other relevant details.
+4.7. 
+Kindly add scanned PDF of all relevant documents in a single PDF file of compliance sheet.
+5. ASSISTANCE TO BIDDERS
+5.1. 
+Any queries relating to the tender document and the terms and conditions contained therein should 
+be addressed to the Tender Inviting Authority for a tender or the relevant contact person indicated 
+in the tender.
+5.2. 
+Any queries relating to the process of online bid submission or queries relating to CPP Portal in 
+general may be directed to the 24x7 CPP Portal Helpdesk. The contact number for the helpdesk is 
+0120-4200462, 0120-4001002, 0120-4001005,0120-6277787.
+6. INSTRUCTION FOR Bidders:
+6.1. 
+Technical Bid should be submitted in PDF format.
+6.2. 
+Financial Bid should be submitted in .XLS Format.
+6.3. 
+Kindly add scanned PDF of all relevant documents in a single PDF file like, compliance sheet, 
+OEM/Principle Certificate etc.
+6.4. 
+The 
+technical 
+and 
+financial 
+bids 
+should 
+be 
+submitted 
+online 
+through 
+portal
+http://eprocure.gov.in/eprocure/app in original. The financial bid should include the cost of main 
+equipment/item and its accessories. If there is any separate cost for installation etc. that should be 
+quoted separately.
+6.5. 
+Each bidder should be marked with the following reference on the top bids submitted online: 
+“Tender for Award of Licensee for Lease of Shop/ Space for Vending Machines and Storage in IIT 
+Jodhpur Campus”.
+6.6. 
+The printed literature and catalogue/brochure giving full technical details should be included with 
+the technical bid to verify the specifications quoted in the tender. The bidders should submit copies 
+of suitable documents in support of their reputation, credentials and past performance in .pdf 
+format.
+6.7. 
+The rates should be quoted in figures and words both.
+
+Page 10
+6.8. 
+Amendment of Bidding Documents: At any time prior to the deadline for submission of bids, IIT 
+JODHPUR may, for any reason, whether on its own initiative or in response to the clarification 
+request by a prospective BIDDER may modify the bid document. All prospective BIDDERs who 
+have 
+downloaded 
+the 
+bidding 
+document 
+may 
+visit 
+IIT 
+JODHPUR 
+website
+/https://eprocure.gov.in/eprocure/app for amendments /modifications which will be binding on 
+them.
+6.9. 
+The technical offer should not contain any price information. Please do not insert ‘Financial Bid” 
+(prices quoted) in the technical bid envelope. If the price quoted is submitted with technical bid the 
+tender will be rejected.
+7 
+ONLINE BID PRICES: 
+The Bidder shall indicate on the Price Schedule the unit price and total bid prices of the goods it proposes 
+to supply under the Contract. To this end, the Bidders are allowed the option to submit the online bids for 
+any one or more schedule specified in the "Schedule of Requirement" and to offer discounts for combined 
+schedules. However, Bidders shall quote for the complete requirement of goods and services specified 
+under each schedule on a single responsibility basis, failing which such bids (for the schedule in question) 
+will not be taken into account for evaluation and will not be considered for award. 
+ 
+I. For goods offered from within India:
+a. The price of the goods should be quoted for destination basis, charges towards freight, installation
+etc. may be mentioned inclusive of GST as applicable after referring the attached GST Notification.
+b. Any sales or other taxes/duties should be clearly mentioned, which will be payable on the goods
+in India if the contract is awarded.
+c. Charges for inland transportation, insurance and other local costs incidental to delivery of goods
+to their final destination should be mentioned.
+d. Any element of cost, taxes, duties levies etc. not specifically indicated in the online bid, shall not be
+paid by the purchaser. If GST amount is not quoted in the BOQ (Financial Bid), the total cost will 
+be treated as inclusive of GST. No further communication will be entertained later.
+7.2 Terms of the Committee
+7.2.1 
+On the due date the Technical bids will be opened and referred to the PFC which is duly constituted 
+by the Director, IIT Jodhpur. The committee will go through the technical aspects of the tender and 
+recommend short listed firms. The recommendation of the PFC is final and binding on all the parties. 
+The PFC may visit the manufacturing site to assess the capabilities to manufacture the tendered items 
+as per the specifications.
+7.2.2 
+The technical evaluation will be an assessment of the Technical Bid. IIT Jodhpur representatives will 
+proceed through a detailed evaluation of the Technical Bids as defined in Schedule of requirements, 
+specifications and allied technical details, in order to determine whether they are substantially 
+responsive to the requirements set forth in the tender. In order to reach such a determination, IIT 
+Jodhpur will examine the information supplied by the BIDDERs and shall evaluate the same as per 
+the specifications mentioned in this tender.
+7.2.3 
+The PFC will examine all the Technical aspects of the bids received. Further, the PFC may seek 
+additional information from the existing users at IIT Jodhpur or from other Institutes and also call for 
+Technical presentations from the BIDDERs if it is required so.
+7.2.4 
+The information received and the bids already submitted together will be examined with reference to 
+the tendered specifications and evaluation is made by the PFC.
+7.2.5 
+After the technical evaluation is completed and approved, IIT Jodhpur shall inform to the BIDDERs 
+whose bids have been rejected technically with the reasons for rejection on e-Procurement Portal 
+(https://eprocure.gov.in/eprocure/app).
+7.2.6 
+The successful BIDDERs will be informed regarding the date and time of Commercial bid opening.
+
+Page 11
+7.2.7 
+The purpose of obtaining two bids (technical and commercial) is to evaluate all the firms on technical 
+basis with reference to the tendered specifications, warranty of similar Solutions/Applications 
+elsewhere, obtaining users views with reference to the earlier supplies. This will enable the PFC to 
+arrive at a fair recommendation in the interest of the organization.
+7.2.8 
+In the event of seeking any clarification from various BIDDERs by IIT Jodhpur, the BIDDERs are 
+required to furnish only technical clarifications that are asked for. No amendment to commercial bid 
+will be entertained at that stage. In case if a BIDDER fails to quote for a particular item it amounts to 
+non-compliance and hence such bid will not be considered for further evaluation. Further during this 
+process if any BIDDER indicates the price during the clarification such bids also will not be 
+considered for further evaluation.
+
+S N Documents Content File
+Types Submitted
+(Yes/ No)
+1. Technical Bid
+( Prequalification) The bidder should have a minimum of 01 year of
+experience in supply and operation of at least 05
+vending machines in any Govt. / Semi Govt. / PSU /
+Autonomous bodies / Reputed Private Universities /
+MNCs. .pdf
+2. The age of Applicant/Tenderer should be in between
+18 years to 60 years on the last date of submission of
+tender; .pdf
+3. Educational qualification should be minimum 12th
+standard; .pdf
+4. Bidder should not be blacklisted/debarred by the
+Institute or any other agency for a period of one year
+from the last date of submission of this tender. An
+affidavit to that effect on Non-Judicial stamp paper of
+Rs.10/- duly notarized must be enclosed with the
+technical bid in prescribed format. The proforma of the
+affidavit is attached with the tender as Annexure – I. .pdf
+5. Applicant Information Sheet as per Annexure- II. .pdf
+6. Declaration Sheet as per Annexure-III .pdf
+7. Copy of Registration of the Shop/Agency / Firm /
+Company issued by the Nagar Nigam/ concerned
+authority of the Shops and Commercial Establishment
+Act is must wherever applicable; .pdf
+8. The Agency/Firm/Bidder is required to submit a self-
+attested copy of PAN/GST/TAN/TIN certificates
+whichever applicable; .pdf
+9. The bidder shall submit ITR of last 02 years. .pdf
+10. Annual Turnover of the firm should be more than 20
+Lakh of last 02 years. .pdf
+11. Startups, MSME & NSIC are exempted from EMD,
+Experience and Turnover as per Government Norms.
+Scan copy of MSME, NSIC or Startups Certificate has
+to be uploaded on CPP Portal. .pdf
+Page 12
+8. INVITATION FOR TENDER OFFERS
+The BIDDERs are requested to give detailed tender in two Bids i.e.
+a. Part - I: Technical Bid
+b. Part - II: Financial Bid
+a. TECHNICAL BID:
+Pre-Qualification and Technical Specification Qualification Criteria
+The online envelope clearly marked as "Technical Bid-Envelope No.1” shall contain all the scanned 
+copies of originals documents in single PDF Format for Pre-Qualification and Technical Specification 
+Qualification:
+
+12. Scanned copy of EMD and it is required to submit the
+same in original in a sealed envelope at the following
+address on or before closing date: Officer-In-charge
+(Stores & Purchase), Office of Stores & Purchase,
+Institute Building (East), NH-62, Nagaur Road,
+Karwar, Jodhpur-342030, Rajasthan, Phone: 0291 2801
+105, Email: sps@iitj.ac.in / In case of exemption from
+submission of Bid security, proof of registration with
+competent authority in relevant category only. .pdf
+S N Documents Content File
+Types Submitted
+(Yes/ No)
+1. Financial Bid Price bid should be submitted in BOQ format. .xls
+S. No. Name of the Shop Minimum License Fee
+(Reserve) per month
+(GST @18% will be
+charged extra) Unit Price INR
+1. Vending Machines Rs. 1,55,000/- (5,000/-
+per Vending Machine) To be quoted by the bidder
+in financial bid only.
+2. Storage 20,000/- To be quoted by the bidder
+in financial bid only.
+Page 13
+Signature of Bidder
+Organization Name: __________________________
+Contact No.: ____________________________
+Note: - Any firm/Service Provider not fulfilling any of the above-mentioned criteria duly supported by 
+the indicated documents shall be outrightly rejected and the bid shall not be considered for further 
+evaluation.
+b. Envelope 2: “Commercial Bid” Format:
+*Providing/Indication of the financial quote for License Fee in technical bid envelope, will be 
+summarily rejected.
+Bidders have to quote strictly above the minimum reserve License Fee only.
+9. EVALUATION CRITERIA: Evaluation of the Tender will be based on the strict compliance of the
+documents as mentioned at Table B above.
+9.1 Even though any service provider satisfies the said requirements, he/she would be liable to
+disqualification if he/she has:
+(i) 
+Made misleading or false representation or deliberately suppressed the information in the 
+forms, statements and enclosures required in the Pre-Qualification Criteria document.
+(ii) 
+Record of poor performance such as abandoning work, not properly completing the contract,
+
+Page 14
+or financial failures/weaknesses etc.
+Based on results of the Technical evaluation IIT Jodhpur evaluates the Commercial Bid of those 
+Bidders who qualify in the Technical evaluation.
+a) IIT Jodhpur shall correct arithmetical errors on the following basis:
+(i) If there is a discrepancy between the unit price and the line item total that is obtained by
+multiplying the unit price by the quantity, the unit price shall prevail and the line item total 
+shall be corrected, unless in the opinion of the Purchaser there is an obvious misplacement 
+of the decimal point in the unit price, in which case the line item total as quoted shall 
+govern and the unit price shall be corrected.
+(ii) If there is an error in a total corresponding to the addition or subtraction of subtotals, the
+subtotals shall prevail and the total shall be corrected; and
+(iii) 
+If there is a discrepancy between words & figures, the amount in words shall prevail, 
+unless the amount expressed in words is related to an arithmetic error, in which case the 
+amount in figures shall prevail subject to (i) and (ii) above.
+b) The Vague terms like “packing, forwarding, transportation………….. etc. extra” without
+mentioning the specific amount/percentage of these charges will not be accepted. Such offers 
+shall be treated as incomplete and rejected.
+c) After arriving at final pricing of individual offers of all the short listed firms, the lowest firm
+will be awarded with Contract/Purchase Order.
+9.3 AWARD OF CONTRACT
+Award Criteria
+a) IIT JODHPUR shall award the contract to the technically qualified eligible BIDDER whose bid
+has been determined as the highest evaluated financial bid.
+b) If more than one BIDDER happens to quote the same lowest price and sample of both bidders
+are technically approved, IIT JODHPUR reserves the right to award the contract to more than 
+one BIDDER or any BIDDER.
+9.4 The Director, IIT Jodhpur reserves the right to accept the offer in full or in parts or reject summarily
+or partly.
+9.5 Resolution of complaint / representation: Decision of Director , IIT Jodhpur in relation to Resolution
+of complaints/ representations / Interpretation of any clauses of Tender is final and binding on all 
+parties.
+
+Page 15
+10. Allotment of Contract
+The successful Vendor shall enter into an agreement for running/ use the Shop/ Space for 
+which he/she emerged as successful Vendor within 15 days from the date of issue of allotment 
+letter.
+11. DURATION
+The period of contract for running the Shop/ Space shall be for a period of Five Years. However, 
+within the aforesaid duration, the contract shall be extended on a yearly basis, based on satisfactory 
+performance, with Terms & Conditions and the product pricing shall be mutually discussed and 
+agreed.
+1. General Terms and Conditions of Contract
+1.1 
+Electricity: A flat fixed charge/meter rent decided by the Institute in agreement and a monthly 
+charge as per consumption basis (on metering) shall be payable by Licensee to the Institute. The 
+monthly electricity consumption charges and fixed charge/meter rent will be reviewed/ revised.
+1.2 
+The Electricity/Water charges shall be determined from time to time by the Office of Estate, with 
+due consultation with Office of Infrastructure Engineering. The same will be applicable after due 
+approval of the Director IIT Jodhpur. The revised charges will be intimated to the Licensees by the 
+Office of Estate.
+1.3 
+Furnishings: The Institute will provide the unfurnished spaces to the Licensee, or with bare 
+minimum furnishing. All the furnishings and appliances required for commercial operations shall 
+be arranged by the Licensee;
+1.4 
+Specific Requirements: In special cases (such as providing furniture, appliances, or fixtures, if any, 
+as per the policy of the Institute), additional cost/fee/rate will shall be determined by the Office of 
+Estate, duly approved by the Competent Authority. The Maintenance of the equipment will be the 
+responsibility of the licensee and the equipment shall be returned to the Institute in fully functional 
+condition after the end of contract.
+1.5 
+In the event of death of licensee, the license shall come to an end. However, the licensor may 
+permit the Legal Heir of the licensee to run the business on the same Terms & Conditions for 
+the remaining period of license on execution of fresh deed of license by such Heir;
+1.6 
+Force Majeure: Any delay due to Force Majeure will not be attributable to the Vendor. Force 
+Majeure events shall mean one or more of the following acts or events: Acts of God or events 
+beyond the reasonable control of the Affected Party which could not reasonably have been 
+expected to occur, exceptionally adverse weather conditions, lightning, earthquake, cyclone, 
+flood, volcanic eruption or fire or landslide; Radioactive contamination or ionizing radiation; 
+Strikes or boycotts (other than those involving the Vendor or its employees/representatives or 
+attributable to any act or omission of any of them) interrupting supplies and services of the Project 
+for a period exceeding a continuous period of 7 (seven) days; An act of war (whether declared 
+or undeclared), invasion, armed conflict or act of foreign enemy, blockade, embargo, riot, 
+insurrection, terrorist or military action, civil commotion or politically motivated sabotage 
+which prevents rendering of supplies or specified services by the Vendor for a period 
+exceeding a continuous period of 7 (seven) days.
+2. Renewal of Licenses
+Licenses for all commercial establishments shall be renewed on yearly basis. Such renewal of 
+licenses shall be made after due deliberations in the CELC for the performance of all outlets during 
+the current license period. All communications on renewal / termination of license shall be issued
+
+Page 16
+by the Office of Estate, IIT Jodhpur well in advance before expiry of the current license period and 
+process for the award of license to a fresh licensee shall be initiated accordingly.
+3. 
+Conditions of licensing
+3.1 The Licensee shall abide by the conditions of License Deed executed between the Licensee and the
+Licensor during the period of license. The Estate Officer, IIT Jodhpur reserves the right to serve 
+notices to the Licensee for non-observance of any condition of the License-deed and can recommend 
+the CELC for termination of license of the licensee.
+3.2 That the licensee(s) shall be licensed the said premises equipment, installations, fittings and fixtures
+provided, if any, on ‘As is where is’ basis and the licensee shall not make any additions/alterations in 
+the licensed space installations installed if any, including electric installations and wiring without the 
+prior permission of the licensor in writing. The necessary light and fan points shall be arranged by the 
+licensee at his own cost.
+3.3 The Licensee during the license period, permanently or temporarily, shall not share / franchise or
+sublet to anybody else and shall not be allowed to take any person to share the premises or in 
+partnership without the prior written permission of the licensor, nor shall he be entitled to allow any 
+person to occupy the licensed premises or to use any part thereof without the permission in writing 
+from the licensor.
+3.4 Licensee cannot add/delete any service/ items or increase the price of service/ items (as applicable)
+without prior approval of the CELC.
+4. General Terms and Conditions
+4.1 Registration and Licensing
+a. The Licensee shall register himself as a Licensee under the Contract Labor (Regulation and Abolition)
+Act 1970 and obtain at his own expense a valid license from concerned/ prescribed authorities, 
+if applicable. He shall comply with all norms & guidelines of the Statutory Authorities in this 
+regard. The Licensee shall submit a copy of the same to the Institute within 30 days from the date 
+of award of the license.
+b. The licensee shall have/obtain valid licenses from the concerned/prescribed government
+authorities, which are required for running the business of the licensee.
+4.2 Conduct with Customers
+The Licensee shall ensure that:
+a. The licensee will have to display in the Shop/Establishment a list of the prices of food &
+beverage items / refreshments/services/ Items being sold (as applicable) as approved by 
+CELC. The agreed price structure shall be mentioned in an Annexure to the agreement. The 
+prices of all items whose Maximum Retail Price (MRP) is prescribed shall not exceed the MRP. 
+The prices can be changed only after due approval from the Institute.
+b. The Licensee shall maintain a complaint / suggestion book at its shop to enable the recording of
+complaint / suggestions, if any. The CELC will verify the selling price of the items from time to 
+time.
+c. The licensee shall make appropriate arrangements from own expenses for managing the entire
+customer service and feedback operations and invest in technology to streamline the operations.
+d. The Shop staff are expected to be well mannered and in proper uniform/ dress;
+e. The customer satisfaction is of utmost importance;
+f. Reasonability of prices of items/ services; failing which, suitable action will be taken by the
+g. To provide bills to all the customers;
+h. Home delivery service, if applicable at no extra cost within the campus;
+
+Page 17
+i. 
+As far as possible all the materials to be sold are packed and of standard/ reputed brand;
+j. 
+Benefits of all schemes announced by the companies to be passed on to the community; and
+k. Any credit extended by the Licensee will be its own responsibility and the Institute will not be
+responsible for the credit extended under any circumstances.
+4.3 Equipment in shops
+a. Weights and measures of Govt. approved Agency are to be used. Weighing should be done only
+on Electronic Government approved brand machines with adequate back up machines. Weighing 
+by traditional instruments strictly not allowed;
+b. Licensee will install swiping machines/ QR codes for convenience of payments for the goods
+delivered to the customers;
+c. Licensee will ensure all safety of Fire Risk due to equipment, oven, fridge, etc. being used in the
+Food Centre/ Shop/Premises/Kiosk.
+d. Fly net/ electrical insect killer/ rodent repellent shall be installed and used in the shop keeping
+any foodstuff at the cost of the licensee.
+4.4 Prohibitions
+The Licensee shall, under no circumstances:
+a. Sell any intoxicating products or allow consumption thereof by any person in the food court
+area provided to him.
+b. Sell any items prohibited by the Institute or by the Government or any law enforcing agencies.
+The licensee shall adhere to the code of conduct laid down by the Institute from time to time. 
+Failing which the Agreement can be terminated at any point of time without assigning any 
+reasons including violation of contractual obligations;
+c. Use of polythene covers. All the shopkeepers shall submit an undertaking for not using of the
+polythene covers which are banned by the State/ Central Governments or any other agency;
+d. Employ any child laborer for servicing as per Law;
+e. Exhibit or permit any advertisement in the shop, except the same and style of his/ her business,
+and the cutout/ poster/ hording should not be obscene;
+f. Hold promotional events or stalls for introducing new products outside the shop. If possible,
+the same may be held within the shop with prior permission of the competent authority.
+g. Sell any outer space of the shop for advertising by way of paintings, posters, etc. without due
+approvals of the licensor.
+4.5 Code of Conduct:
+a. Any case of misbehavior, assault on person/ employee of the Institute, any act or comment
+tarnishing the image of Institute by the Licensee or his representative/ workers will lead to 
+imposition of penalty or termination of contract duly forfeiting the Security Deposit.
+b. The licensee shall employ only those persons at the space whose character has been verified. For
+the purpose Police Verification shall be carried out by the Firm for all employees working under 
+their establishment and proper information shall be provided to the Institute about the number 
+of persons working under their firm and their police verification should be submitted to Office 
+of Security. If there is any change of the employee working under their firm, proper information 
+shall be provided to the Office of Security of the Institute along with the relevant documents. 
+No personnel facing any criminal case or convicted by any criminal court shall be deployed at 
+the space.
+c. GST Registration is mandatory for the firm, if applicable.
+
+Page 18
+d. No staff is allowed on campus beyond working hours without proper information to the
+e. Entry passes issued by the Institute should be carried by all the persons of the licensee working
+their premises in the Institute.
+f. Institute will not be responsible for Security & Safety (including Medical Emergencies) of any
+person working under the firm or any item misplaced in the shop, it is the responsibilities of the 
+licensee itself.
+4.6 Payments
+The Licensee shall:
+a. 
+License fee or other dues shall be paid by the Licensee in advance on 1st of every month and a 
+grace period of 5 days will be given beyond which penalty will be imposed. Corresponding bills 
+will be raised by Estate Office, IIT Jodhpur and shall be paid to the Institute Revenue Account 
+using online portal. Late payment of License fee will attract penalties and other penal interests 
+@ 20% of the monthly license fee and interest of 18% per annum of amount due computed on 
+monthly basis.
+b. 
+Bear all the expenses, in case of any accident to the personnel employed by them during the 
+business time. The Licensee is solely liable for workmen’s compensation and any other statutory 
+dues and Institute is not liable for payment of any such amount;
+c. 
+Pay all the taxes which are levied by the Central Government and the State Government within 
+due dates. The Institute is not liable for the penalties against non- payment of these taxes or 
+default therein. Any default, non-payment of taxes to statutory authorities will cause 
+termination of license and vacation of premises; and
+d. In the event of any damages caused to the shop premises or property of the Institute by the
+Licensee or his representatives, agents or servants during the subsistence of License period, the 
+Institute shall have right to recover the said sum from the Security Deposit of the Licensee. 
+Further, if the damages so caused, exceed the amount of Security Deposit, the Licensee shall pay 
+such amounts as assessed by the CELC/Competent Authority, failing which the license shall be 
+terminated. In such event, the Institute shall have right to take possession of the premises by 
+putting its own lock and key to the said premises and by keeping the items of the licensee in 
+public auction. The Institute will claim the damages through adjustment from the proceeds. 
+Furthermore, in case of any damages exceeding the above recoveries, the licensee shall pay the 
+damages or the institute shall have a rightful claim of legal action against the licensee.
+4.7 Routine Working
+The Licensee shall abide by the following:
+a. 
+The operation of the shop’s timings shall be as per directions of the Institute from 7 AM to 7 
+PM;
+b. 
+Night Stay for the Staff is not allowed;
+c. 
+The Institute will have right to see the quality, market price, and reasonability of the products 
+and services;
+d. To do the same business which is mentioned in the Agreement and for which license is issued;
+e. 
+Perform the business by confining to the operations of Shops/ establishments within space as 
+mentioned in the Agreement or as recorded in the deed of license. There should not be any 
+encroachment of space beyond licensed space by the Licensee, under any circumstances; Non-
+compliance will attract appropriate penalty as decided by the Institute.
+f. 
+On the expiry of the period of the license or on its termination, as the case may be, the Licensee 
+shall deliver vacant possession of the premises intact, to the Institute at 17.00 hrs. on the last day 
+of agreement; failing which, the Institute shall have right to take possession of the premises by
+
+Page 19
+putting its own lock and key to the said premises. The articles, if any, left by the Licensee, will be 
+kept in public auction by the Institute; and the process in the said auction will be adjusted 
+towards the arrears of license fee etc., and the balance, if any, will be refunded to the Licensee.
+g. 
+That the Licensee shall use the Shop/Establishment/ space solely for providing item/services as 
+per agreement to the consumer and the space shall not be used for any other purpose 
+whatsoever.
+h. 
+The allocated space to the licensee can be relocated as per the requirement of the Institute. 
+During the agreement period, the Institute is at liberty to alter/ modify/ add/ delete in the 
+condition(s) of the Agreement in the interest of the Institute.
+4.8 Maintenance of Shop/ Space and Surrounding Areas:
+The maintenance, cleanliness, upkeep and hygiene around the Shop/Establishment space/ Cart will 
+be the sole responsibility of the licensee and the licensee shall ensure cleanliness by deputing 
+adequate staff for the purpose. The licensee shall at all times provide for Upkeep and Waste 
+management and ensure garbage is disposed-off promptly and properly. Whitewashing/ painting 
+of the space provided will be done by the licensee once in a year at own cost. The Licensee will 
+Ensure that fire detection and suppression measures installed inside the premises are kept in good 
+working condition at all times. Ensure that all electrical wiring, power outlets and gadgets are used 
+and maintained properly, for guarding against short circuits/fires. The licensee shall at all times 
+adhere to the condition stipulated at the above mentioned agreement/license deed and work order. 
+Non-compliance will attract imposing of penalty up to Rs. 10,000/ - on each occasion. The licensee 
+shall be responsible for any mishappening due to poor food products quality including pecuniary 
+damages pertaining to claims arising due to food-poisoning etc.
+4.9 The licensee will set up the Shop/Establishment as per the requirement. The entire cost for setting up
+of the shop and any equipment shall be borne by the licensee. The Licensee will get the plan for 
+setting up of the Shop/Establishment approved by the (Licensor) before commencing the work. No 
+Civil & Electrical structural modification shall be allowed in the allocated shop except with the prior 
+approval of Institute authorities. Any approved modifications shall be carried out by the licensee at 
+his own costs.
+4.10 That the licensee or its employees shall use all possible care and diligence while selling food &
+beverage items / refreshments (as applicable) from the space and shall endeavor to provide fresh and 
+hygienic goods and safeguard and protect the reputation of the licensor. Old/Stale/expired items (i.e. 
+beyond expiry date shall not be sold at any point of time.
+4.11 That all undesirable goods, articles and exhibits put up by the Licensee in the Shop/Establishment as
+per the opinion of the licensor, are liable to be removed forthwith.
+4.12 The Licensee shall engage sufficient number of staff, which is considered appropriate for serving the
+persons. Further, it shall also ensure that personnel employed by it are free from any infections / 
+contagious disease.
+4.13 No accommodation shall be provided for any employee of the licensee in the Institute, and they will
+not be allowed to stay in the Institute after the closing time of the shop. The closing time of the 
+shop(s) will be 09:00 PM, if applicable.
+4.14 The licensor will not be responsible for any loss and / or damage caused to the licensee due to fire,
+burglary or natural calamities. Further, the licensor shall also not be responsible for any injury to the 
+personnel engaged by the licensee. The licensor shall have the rights to ask for the removal of any 
+person of the licensee who is not considered to be competent and orderly in the discharge of his 
+duties.
+4.15 That the licensor shall have the right at all reasonable times to enter upon and inspect the licensed
+space to check whether the terms and conditions of this license deed are being complied with by the 
+licensee.
+
+Page 20
+4.16 Penalty provisions and Termination of contract
+a. Penalty Provisions
+If the Licensee fails to execute the license for the terms mutually agreed and enter in the
+Agreement/ contract between the Institute and the Licensee to satisfaction of the Institute, the 
+Institute has the right to take the following actions
+(1) Imposition of fine for breach of contract by Authorized Officer of the Institute;
+(2) Forfeiture of Security Deposit either partly or fully;
+(3) Termination of license by giving one month’s notice; and/ or
+(4) Termination of contract with due notice and simultaneous forfeiture of Security Deposit.
+(5) In compelling circumstances, the Institute reseves the right to close the establsihments with
+immediate effect.
+The Institute reserves the right to inspect, from time to time, the quality of the service and
+products provided by the Licensee. The Committee will have right to see the quality, market 
+price, and reasonability of the items. If the Institute or the Committee is of the opinion that the 
+products or service is not up to the satisfaction of the Institute, a penalty shall be imposed 
+depending on the situation and severity of the case. Further, for non-compliance of other Terms 
+& Conditions as specified in this Agreement, indiscipline and unsatisfactory operation, the 
+Institute shall levy a penalty of up to Rs. 2,00,000/-.
+In the event of any statutory authorities imposes any punishment or fines etc. on the licensee,
+and if the Institute is made a party in such penal action, the Institute will have the authority to 
+keep Security Deposit etc. with it until it is proved to the satisfaction of the Institute that such 
+penal actions are ceased. Such penal actions may be a reason for termination of Contract.
+The Licensee shall be solely responsible for any consequence arising due to Non-compliance of
+any guidelines of the concerned statutory authority and the Institute shall be in no way 
+responsible for the same.
+b. Termination of Contract:
+The Institute is at liberty to terminate the license and forfeiting the Security Deposit with a
+month’s notice without assigning any reasons. Termination of license duly forfeiting the 
+Security Deposit in the event of following, but not limited to:
+i. 
+The Licensee defaults in payment of license fee for two (02) months consecutively or three 
+times in a calendar year;
+ii. The Licensee fails to do the business in the licensed space for a period of (30) thirty days (for
+which the license is granted) for whatsoever reasons, non-payment of Security Deposit and 
+enter into an Agreement in the stipulated period;
+iii. The Licensee fails to comply with formalities like payment of Security Deposit, execution of
+iv. If in the opinion of the Institute, the quality of goods/ services sold is not up to the
+v. If during the period of contract, any time it is found that the Licensee is charging higher than
+the comparable prevalent market rates, then the Institute may terminate the contract by 
+giving the written notice;
+vi. If the Licensee is found doing business in the Shop other than the stipulated in the deed of
+license
+vii. The licensee sublet the premises to any other person or agency
+That the termination of the license on its expiry or for any other reason whatsoever should not
+
+Page 21
+give rise to any liability on the part of the licensor to pay any compensation to the licensee for 
+the loss of any profit or business.
+4.17 That the grant of this license shall not give the licensee or the employees any hope or expectation for
+any continuous business or employment respectively.
+4.18 That the “Licensee” will be responsible for the recruitment and hiring of its employees and the service
+conditions of its employees shall be governed by them and their employees shall always work under 
+their direct administrative and supervisory control.
+4.19 The licensee shall comply with all prevailing Labor Laws/ Municipal Laws & Statutory requirement
+of other Central/ State Government Organizations. In case of non-adherence of any laws/ regulations 
+of the statutory bodies, the Licensee will be fully responsible for the consequences arising out of non-
+adherence. Institute will not be party, nor it will help the Licensee where a govt. agency or its official is 
+visiting the premises in connection with the discharge of his duties. Any dispute arising out of the 
+same shall be the responsibility of the Licensee and the Govt. Agency. The Institute in no way will be 
+responsible for the same. The licensee is an independent entity and the licensee’s employees deployed 
+at the space shall not be deemed for any purpose to be the employee, agent, servant or representative 
+of the licensor. The licensee and/or its employees shall not raise any claim monetary or otherwise 
+upon the licensor if the present license is terminated due to any reason whatsoever.
+4.20 That the licensee agrees to defend and indemnify the licensor against any and all suits, actions
+penalties and liabilities that may arise from failure on the part of the licensee to properly administer 
+wages and other benefits / facilities to its employees working in the space in terms of all applicable 
+laws.
+4.21 In the eventuality of discontinuation of operation at any stage due to unforeseen events, licensee will
+be given free access to take back machines and fixtures after clearing all/ any dues of the 
+Shop/Establishment.
+5. Encroachment Removal and Eviction
+5.1 Encroachment Removal
+a. The Commercial Establishments / Shops / Premises will confine their operations within the
+licensed space (area). They shall be charged License Fee as per the licensed area. Any use of 
+area beyond licensing will be considered as “Encroachment” and shall be dealt accordingly.
+b. If at any time, after the licensing of space (during the operations), it is found that the licensee
+has encroached onto the extra area, the Licensee is liable to be penalized by levying a penalty 
+(at the minimum rate of 1.5 times the monthly license fees computed on daily basis for the 
+duration of encroachment) along with the removal of encroachment. The concerned 
+Commercial Establishment / Licensee shall abide by the decision of Estate Office. It will also 
+depend on the extent of encroachment done by the licensee/ licensee. If the Licensee is 
+habituated for encroachment, liable for termination by serving a notice.
+18.1 
+Eviction
+The proceedings for eviction, if found necessary to be initiated, against a Licensee / 
+Commercial Establishment / Firm for non-observance of licensing rules and subsequent non- 
+compliance to the notices from Estate Office, shall be initiated by the CELC.
+6. Dispute Redressal
+a. In all disputes and doubts or interpretation of the clauses or conditions applicable to the license or
+otherwise, the decision of the Institute shall be final and binding on the Licensee;
+b. In all disputes and doubts or interpretation of the clauses or conditions applicable to the license or
+otherwise, the decision of the Institute shall be final and binding on the Licensee. In case of any 
+dispute arising between the parties, the same must be resolved amicably. In case the dispute is not 
+resolved through amicable means, the decision of Director, IIT Jodhpur shall be final.
+c. All legal proceedings shall be under the jurisdiction of Honorable High Court of Rajasthan, Jodhpur.
+
+Page 22
+Indian Institute of Technology Jodhpur
+Office of Stores and Purchase
+ANNEXURE I
+DECLARATION REGARDING BLACKLISTING/DEBARRING FOR TAKING PART IN 
+TENDER
+(To be executed &attested by Public Notary / Executive Magistrate on Rs.10/- non-judicial Stamp
+paper by the vendor)
+I / We 
+, the shopkeeper hereby declare that the shop 
+namely
+has not been blacklisted or debarred in the past by Union / State
+Government or organization or Institute from taking part in Government Tender in India.
+Or
+I / We 
+, the shopkeeper hereby declare that the shop namely
+was blacklisted or debarred by Union / State
+Government or any Organization or Institute from taking part in Government Tender for a period 
+of 
+ years w.e.f. 
+to 
+. The period is
+over on 
+and now the firm/shop is entitled to take part in
+Government Tender.
+In case the above information found false I/we are fully aware that the Tender/ contract will be 
+rejected/cancelled by Director, IIT Jodhpur, and Performance Security shall be forfeited.
+In addition to the above Director, IIT Jodhpur will not be responsible to pay the bills for any 
+completed/ partially completed work
+DEPONENT
+Name
+Address
+(Public Notary / Executive Magistrate)
+Seal of the firm/company
+
+Page 23
+Indian Institute of Technology Jodhpur
+Office of Stores and Purchase
+ANNEXURE II
+Applicant Information Sheet
+1. 
+Name of the Applicant: _______________________________
+2. 
+Father’s Name of Applicant: ___________________________
+3. 
+Nature of Current Business: ______________________________
+4. 
+Age of the Vendor : _____________________________________
+5. 
+Full Address of Applicant: _______________________________
+6. 
+Pan Card No. : __________________________________________
+7. 
+I offer the following sureties who have signed hereunder as Sureties.
+Sl. No. Name of the Sureties 
+Occupation 
+Signature
+Signature of the Applicant
+
+Page 24
+ANNEXURE – III
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+DECLARATION SHEET
+I/We, 
+hereby certify that all information and data furnished by
+me/us in respect of our organization with regard to this tender specification are true and 
+complete to the best of our knowledge. I/We have gone through the specification, conditions and 
+stipulations in details and agree to comply with the requirements and intent of specification.
+This is certified that I/We/am/are authorized (Copy attached) by my/our company/organization 
+to participate in the Tender and my/our organization meets all the conditions of eligibility criteria 
+laid down in this tender document.
+I/We, further specifically certify that our organization has not been Blacklisted / De-listed or put 
+to any Holiday by any Institutional Agency / Govt. Department / Public Sector Undertaking in 
+the last three years.
+(Seal & Signature of the bidder)

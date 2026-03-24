@@ -1,0 +1,31 @@
+SOURCE_PDF: 73c5bc3c70ff_msc_physics.pdf
+
+Cat. Course Number, Course Title L-T-P Credits Cat. Course Number, Course Title L-T-P Credits
+I Semester II Semester
+C PH511 Mathematical Physics 3-0-0 3 C PH521 Atomic and Nuclear Physics 3-0-0 3
+C PH512 Classical Mechanics 3-0-0 3 C PH522 Condensed Matter Physics 3-0-3 4
+C PH513 Quantum Mechanics 3-0-0 3 C PH523 Electrodynamics 3-0-0 3
+C PH514 Electronics 3-0-3 4 C PH524 Advanced Quantum
+Mechanics 3-0-0 3
+C PH515 Statistical Physics 3-0-0 3 E Elective I 3-0-0 3
+Total 16 Total 16
+III Semester IV Semester
+T Thesis 15 T Thesis 15
+E Elective II 3-0-0 3 E Elective III 3-0-0 3
+Total 18 Total 18
+1 Astrophysics 9 Semiconductor device technology
+2 Quantum Field Theory 10 Electronic Transport in Mesoscopic Systems
+3 Particle Physics 11 Vacuum Systems and Thin Film Technology
+4 General Theory of Relativity 12 Quantum Cryptography and Coding
+5 Magnetism and Superconductivity 13 Relativistic Quantum Mechanics
+6 Principles of Scanning Tunneling Microscope 14 Classical and Quantum Optics
+7 Materials and device characterization 15 Computational Physics
+8 Quantum Information Processing
+S. No. Category Course Category Title Total Courses Total Credits Total Courses
+1 C Compulsory 9 29 13
+2 E Electives 3 9 2
+3 T/P Thesis 1 30 1
+Total 68
+Master of Science (M.Sc.) Program in Physics
+Curriculum
+Electives

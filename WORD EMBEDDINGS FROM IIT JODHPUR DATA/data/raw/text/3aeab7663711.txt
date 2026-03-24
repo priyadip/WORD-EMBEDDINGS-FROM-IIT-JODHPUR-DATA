@@ -1,0 +1,17 @@
+SOURCE_URL: https://home.iitj.ac.in/~pratyakshkaran
+
+I am an Assistant Professor in Mechanical Engineering at the Indian Institute of Technology Jodhpur. 
+        My research focuses on Experimental and Mathematical Modelling in Applied Mechanics for Contemporary Industrial, 
+        Scientific and Environmental Applications.
+Soft materials modelling and applications in micro and nano scale systems
+Mathematical methods for applied mechanics
+Characterization of mechanical behavior of materials
+Transport and mixing of solutes in porous and open media
+Selected Publications and Conferences
+Karan , Izumoto, Le Borgne, Heyman EGU General Assembly (April 27- May 02, 2025).
+Bouchez, Osorio, Karan , Garry, Chatton, Bochet, Lavenant, Dufresne, Le Borgne IAH Conference, Davos, Switzerland (Sep 8-13, 2024).
+Karan , Ghosh, Brau, Méheust, Le Borgne Physical Review Fluids 8, 084502 (2023).
+Karan , Chakraborty, Chakraborty, Journal of Fluid Mechanics 923, A32 (2021).
+Karan , Das, Mukherjee, Chakraborty, Chakraborty Soft Matter 16, 5777-5786 (2020).
+Email: pratyakshkaran@iitj.ac.in
+GitHub: github.com/PratyakshKaran

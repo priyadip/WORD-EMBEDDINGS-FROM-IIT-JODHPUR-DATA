@@ -1,0 +1,382 @@
+hkkjrh lla fkku volume issue indian institute of technology jodhpur no
+name of the student title of thesis supervisor department date of defense khamma
+deepak kumar chhangani role of mgrn1 e3 ubiquitin ligase in protein quality control mechanism and polyglutamine diseases amit kumar mishra biology january
+abhay samant reconfigurable architecture for cross layer design optimization and its applications sandeep kumar yadav venkataramana badarla electrical engineering april
+suresh singh mitigation of negative impedance instabilities in converters and dc microgrids using nonlinear control deepakkumar fulwani may new research projects prodyut ranjan chakraborty assistant professor department of mechanical engineering has been sanctioned the sponsored research project thermal design of pcm cool and warm vest by defense research development organisation drdo jodhpur
+the duration of the project is years
+arun kumar singh assistant professor department of electrical engineering has been sanctioned the sponsored research project computationally efficient fixed complexity sphere decodes for multiuser mimo communications by science and engineering research board dst government of india
+venkata ramana badarla assistant professor department of computer science engineering has been sanctioned the sponsored research project energy efficient technologies for smart buildings by the science and technology forum iusstf dst government of india
+mahesh kumar assistant professor department of electrical engineering has been sanctioned the sponsored research project development of tunable rf filter based on ferroelectric thin film by sputtering by the indian national science academy
+ambesh dixit assistant professor department of physics has been sanctioned the sponsored research project probing magnetic structures and spin flop transition in bulk and nanostructured fevo4 multiferroic system by department of science and technology government of india
+patents filed calibration free water quality sensor device and system inventors rakesh sharma iit jodhpur and hareesh panasonic corporation japan patent provisional reference number date march
+metal nanoparticles intercalated clay for solvent free hydrogenation of squalene into squalane inventors rakesh sharma and vineet soni patent application number date march research publications journal articles vijay vaishnava and chhabra
+microbial fuel cell assisted nitrate nitrogen removal using cow manure and soil
+environmental science and pollution research vol
+sharma and jha
+pathways in cancer opportunities and obstacles for therapeutic interventions
+cellular and molecular life sciences vol
+hoop lin kar magyarfalvi lamley boatz mandala lewandowski wetzela and wel van der
+huntingtin exon fibrils feature an interdigitated polyglutamine core
+proceedings of the national academy of sciences vol
+anand dubey shekhawat and kar
+silver nanoparticles inhibit amyloid fibril formation of serum albumin
+upadhyay amanullah chhangani joshi mishra and mishra
+ibuprofen induces apoptosis through proteasomal dysfunction
+harinipriya kalra and mishra
+physiochemical characterization of tubulin from arachis hypogaea
+synthetic metals vol
+gupta rao kiruthika and kulkarni
+visibly transparent heaters
+acs applied materials interfaces vol
+adhikari and kumar
+upper bound on singlet fraction of mixed entangled states
+quantum information processing vol
+choudhary sharma and plappally
+local material composite sintered systems for fluoride removal
+desalination and water treatment
+shejale laishram and sharma
+solar cell using dimensionally controlled titania synthesized at temperatures
+rsc advances vol
+shejale laishram roy kumar and sharma
+on the study of phase and dimensionally controlled titania nanostructures synthesis at temperatures
+materials design vol
+ram ferdov silva singhal costa sharma and
+improved performance of rare earth doped limn2o4 cathodes for battery applications
+new journal of chemistry vol
+soni and sharma
+montmorillonite clay green catalyst for the chemo selective hydrogenation of squalene
+conference papers chaudhary sharma soni pandey and sharma
+new ceramic nanocomposite filters for fluoride removal using acacia waste
+in national conference on emerging trends of research in applied sciences experimental computational techniques vol
+jodhpur institute of engineering and technology jodhpur pp
+sharma and sharma
+asymmetric hydrogenation of ethyl with chiral platinum loaded on carbon fiber
+in national conference on emerging trends of research in applied jodhpur pp
+sharma soni chaudhary plappally pandey and sharma
+calix amidocrown molecular sensors for fluoride and arsenate detection in national conference on emerging trends of research in applied sciences experimental computational techniques vol
+proceedings rathore badarla and george
+sociopsychological trust model for wireless sensor networks
+journal network computer applications vol
+nearest neighbour classification of indian sign language gestures using kinect camera
+sharma and badarla
+topology aware flow scheduling for data center network
+in ieee international conference on advanced networks and telecommunications systems ants pp
+bajaj nayak gundapaneni and rao
+effect of metal gate granularity induced random fluctuations on si nanowire mosfet sram cell stability
+ieee transactions on nanotechnology vol
+filatov korolev belov mikhaylov tetelbaum and kumar
+electronic states in spherical gan nanocrystals embedded in various dielectric matrices the
+aip advances vol doi shetty kumar roul vinoy and krupanidhi
+inn quantum dot based photodetectors nanoscience nanotechnology doi singh mahia and fulwani
+towards characterization of driver nodes in complex network with actuator saturation
+neurocomputing singh rathore and fulwani
+mitigation of negative impedance instabilities in boost converter with composite load
+journal of power electronics vol issn
+mahela and shaik
+comprehensive overview of grid interfaced wind energy generation systems
+renewable sustainable energy reviews
+topological aspects of power quality improvement techniques comprehensive overview
+renewable and sustainable energy reviews vol
+power quality improvement in distribution network using dstatcom with battery energy storage system
+international journal of electrical power and energy systems vol
+lu elia and singh
+analysis for mac decoding with user selection
+ieee transactions on signal processing
+jain tiwari and chourasia
+performance analysis of seismocardiography for heart sound signal recording in noisy scenarios
+journal of medical engineering technology vol
+bharti and tiwari
+crystallinity and performance improvement in solution processed organic effect transistors due to structural dissimilarity of the additive solvent
+bisoyi zschieschang kang takimiya klauk and tiwari
+comprehensive study of charge trapping in organic devices with promising semiconductors and different contact metals by displacement current measurements
+semiconductor science and technology vol
+raghuwanshi bharti and tiwari
+flexible organic transistors with crystals exhibiting high electrical stability upon bending
+organic electronics vol
+raghuwanshi bharti varun mahato and tiwari
+performance enhancement in mechanically stable flexible effect transistors with polymer blend
+chopra and yadav
+fault detection and classification by unsupervised feature extraction and dimensionality reduction
+complex intelligent systems
+jain and yadav
+design and analysis of compact element multimode antenna array for massive mimo base station
+progress in electromagnetics research vol
+tripathi mohan and yadav
+compact fractal uwb antenna with reconfigurable band notch functions
+microwave optical technology letters
+mahia singh and fulwani
+algorithms to select right driver nodes for systems
+in control conference ascc asian pp
+kota kinabalu ieee
+characterization of driver nodes network of agents
+in conference ecc european pp
+isbn mahela and shaik
+detection of power quality events associated with grid integration of solar pv plant
+in international conference on energy economics and environment iceee pp
+power quality detection in distribution system with wind energy penetration using discrete wavelet transform
+in second international conference on advances in computing and communication engineering icacce pp
+maheshwari and tiwari
+walking parameters estimation through channel state information preliminary results
+in international conference on signal processing and communication systems icspcs pp
+cairns australia ieee
+revisiting the self sine qua non for understanding embodiment
+ai society vol
+voice in the head the road ahead
+journal of indian council of philosophical research vol issn
+induced dynamics on the hyperspaces
+retrieved from sharma and kumar
+matrix characterization of multidimensional sub shifts of finite type
+retrieved from sharma and raghav
+dynamics of non autonomous discrete dynamical systems
+retrieved from singh vijay ravindra and siddhartha
+impact of trend and seasonality in forecasting of mw pv plant generation using single exponential smoothing method
+international journal of computer applications vol
+bhati hiremath and dixit
+design and fabrication of wire based bandwidth enhanced metamaterial absorber
+in international conference on microwave and photonics icmap pp
+design of wire based band polarization insensitive book chapters bhatnagar
+multimodal medical image fusion based on susan feature in framelet domain
+in davis ed
+image fusion principles technology and applications pp
+new york nova science publishers
+isbn saha bhatnagar and wu
+saliency based framework for thermal and visual image fusion pp
+singla chhibber avdesh goyal and sharma
+influence of single and dual particle reinforcements on the corrosion behavior of aluminum alloy based composites
+proceedings of the institution of mechanical engineers part journal of materials design and applications
+singla chhibber and dutta
+influence of friction welding parameters on the tensile strength of bimetallic weld joints
+mmu journal of management technology vol
+sharma chhibber and mehta
+effect of surface treatment of nanoclay on the mechanical properties of nanocomposites
+bhandari chhibber arora and mehta
+investigation of based electrode coatings on weld metal chemistry and mechanical behaviour of bimetallic welds
+journal of manufacturing processes vol
+saini chhibber and chattopadhyay
+effect of combined fatigue and hygrothermal loading on structural properties of
+proceedings of the institution of mechanical engineers part journal of mechanical engineering science
+machining of curved geometries with constant engagement tool paths
+proceedings of the institution of mechanical engineers part journal of engineering manufacture
+harsha prasanth and pratiher
+effect of squeeze film damping and ac actuation voltage on phenomenon of electrostatically actuated microswitch
+procedia engineering vol
+issn harsha prasanth and pratiher
+prediction of phenomena and structural stability analysis an electrostatically actuated microswitch
+phadatare and pratiher
+nonlinear frequencies and unbalanced response analysis of high speed systems
+patidar pardeshi chandra and shekhar
+solar convective furnace for heat treatment of aluminium
+in saha das srivastava panigrahi and muralidhar eds
+fluid mechanics and fluid power contemporary research proceedings of the international and national conference on fmfp
+new delhi springer india pvt
+singh saini chandra and shekhar
+design of cyclone separator for collection of dust from volumetric air receiver
+alok banerjee kumar and uma sankar
+flavor signatures of isosinglet down quark model
+nuclear physics vol
+alok banerjee and uma sankar
+quantum correlations in terms of neutrino oscillation probabilities
+alok kumar kumbhakar and sankar
+polarization as probe to discriminate new physics in tau nubar
+banerjee alok omkar and srikanth
+characterization of unruh channel in the context of open quantum systems
+banerjee alok and mackenzie
+quantum correlations in and meson systems
+the european physical journal plus vol
+bhattacharya banerjee and pati
+effect of on the dynamics of coherence concurrence and fisher information
+dutta adhikari and banerjee
+graph theoretical approach to states and unitary operations
+quantum information processing vol issn
+dutta adhikari banerjee and srikanth
+bipartite separability and quantum operations on graphs
+physical review vol arxiv
+omkar banerjee srikanth and alok
+the unruh effect interpreted as quantum noise channel
+quantum information and computation vol
+thapliyal banerjee and pathak
+tomograms for open quantum systems in finite dimensional optical spin annals physics goyal jha tiwari dixit and awana
+influence of ni doping on critical parameters of pdte superconductor
+saini janu patra jani gupta dixit and vadera
+dual band resonance in tetragonal composites for microwave absorption applications
+journal of the american ceramic society
+usmani and dixit
+spectrally selective response of tandem structures on stainless steel and copper substrates for high temperature solar thermal applications
+solar energy vol
+vyas dagar and sahu
+complementary switching mechanism for organic memory devices to regulate the conductance of binary states
+applied physics letters vol
+sharma thapliyal pathak and banerjee
+comparative study of protocols for secure quantum communication under noisy environment protocols versus based protocols quantum information processing doi
+omkar srikanth banerjee and shaji
+the amplitude damping channel characterization using quantum stabilizer codes
+annals of physics vol gupta and dixit
+room temperature electrical properties of solution derived cu2znsns4 thin films
+in aip conference proceedings vol
+kumar dixit chandra vyas and kumar
+an experimental for measuring thermodynamic response of low temperature phase change materials
+in ieee first international conference on control measurement instrumentation cmi
+kumar kumar and dixit
+thermal phase diagram of acid and benzoic phthalimide binary systems for solar thermal applications
+kumar vyas kumar and dixit
+charging studies of heat packs using parabolic dish solar energy concentrator for extreme conditions
+in rajpaul richter ed
+solarpaces international conference solarpaces vol
+american institute of physics cape town south africa
+awards recognitions rakesh sharma research placed on cover of chemcatchem may the cover shows the interface between the traditional and scientific applications of clay
+in their communication soni and sharma show the smart utilization of clay as heterogeneous catalyst by nanometal intercalation for the selective hydrogenation of squalene into squalane under solvent free conditions
+squalane is an important ingredient in the cosmetic nutraceutical and pharmaceutical industries
+also it has been used as model compound for the hydrocracking of crude and microalgae oil
+thus series of green catalysts were prepared
+the clay with dominating pd facet shows highest reactivity and selectivity
+the catalyst is stable with very low pd leaching and is recyclable without losing any significant catalytic activity
+more information can be found in the communication by soni and sharma on page in volume issue
+sushmita jha research placed on cover of cellular and molecular life sciences may from the research paper pathways in cancer opportunities and obstacles for therapeutic interventions authored by sushmita jha assistant professor department of biology and nidhi sharma student department of biology which was published in the may issue of cellular and molecular life sciences published by springer verlag the figure depicting the summary of nlr inflammasome complex formation fig
+has been placed as the cover art on the journal issue
+nlrs domain repeat containing receptors are pattern recognition receptors associated with immunity and inflammation in response to endogenous and exogenous pathogen and damage associated molecular patterns pamps and damps respectively
+dysregulated nlr function is associated with several diseases including cancers metabolic diseases autoimmune disorders and autoinflammatory syndromes
+in the last decade distinct cell and organ specific roles for nlrs have been identified however their roles in cancer initiation development and progression remain controversial
+this review summarizes the emerging role of nlrs in cancer and their possible future as targets for cancer therapeutics
+full article can be read at
+ieee senior member grade elevation to tiwari shree prakash tiwari assistant professor department of electrical engineering has been elevated as senior member of the institute of electrical and electronics engineers ieee in honour of his contributions to the profession
+fellowships vidya sarveswaran assistant professor department of humanities social sciences was awarded the rachel carson fellowship by rachel carson center for environment and society at the ludwig maxmillian university munich
+the research fellowship is supported by the deutches museum and the government of germany
+students activities achievements ignus ignus the student festival of iit jodhpur was celebrated during february
+the festival was opened by famous sitar player shujaat khan on february with collaboration of spicmacay
+robosoccer nrityansh clash of bands robowar antarang and ignus open were the flagship events organised during this fest
+workshops on android app development bridge designing augmented reality vehicle overhauling ethical hacking embedded system entrepreneurship data science machine learning serial wireless communication placement etiquettes and quadcopter also were organized during this event
+famous singer krishnakumar kunnath popularly known as kk performed during the pronite
+also an alumni meet was organized on february
+professor prawal sinha professor faculty iit jodhpur anand krishnan plappally faculty alumni relations committee iit jodhpur and damayanti bhattacharya ceo iit bombay alumni association addressed the alumni of iit jodhpur
+technical events during ignus cultural events during ignus framed art exhibition framed is the annual art exhibition of iit jodhpur conducted by the media arts and design society of the students gymkhana iit jodhpur
+the main motive of framed is to promote and showcase the artwork done by the students of iit jodhpur throughout the year
+this year it was organised on march in the institute
+it included the photography photo editing posters designed by students and sketches paintings made by the students
+for the first time this event was opened for people outside of the institute
+there were entries from all over the country
+the exhibition recorded considerable footfall from students of other colleges and local public of jodhpur
+ravi dhingra canon photo mentor who has been judge in many national level competitions was chief guest for the event
+spectators musing the art work felicitating ravi dhingra canon photo mentor other events hindi kavi sammelan and mashaira was organized by the literature club students gymkhana iit jodhpur on april at the gpra residential campus of iit jodhpur
+as an event of varchas the sports festival of iit jodhpur the students gymkhana in coordination with the jodhpur development authority jda organized mini marathon in the city of jodhpur on april
+theme of the marathon was run for smart swach jodhpur
+scholarships to students eight iii year
+students received academic scholarships for summer
+these were deutscher akademischer austauschdienst german academic exchange service working internships in science and engineering daad wise for months from may to july
+abhishek jaju electrical engineering
+arnav jindal computer science engineering
+ashutosh gupta electrical engineering
+nithin venkatesh computer science
+hardik jain mechanical engineering
+prakhar srivastava electrical engineering and
+sangram gaikwad system science
+bose scholars program of dst and the science and technology forum iusstf for months from may to july
+ashwin electrical engineering placement news this year engineering information communication technology and banking sector government and public sector organizations visited iit jodhpur for placements
+undergraduate and post graduate students were placed with different companies
+major recruiters were c42 engineering india pvt
+coal india cognizant systems
+shaw india software pvt
+hcl technologies hpcl jsw energy larsen and toubro limited mahindra mahindra maxheap technologies pvt
+morgan stanley national engineering industries samsung india software center sisc steelwedge technologies pvt
+tata consultancy services and voylla fashions pvt
+ltd hearty congratulations
+student gymkhana the student gymkhana of iit jodhpur has five societies and in turn each society has several clubs
+these societies under the leadership of their respective secretaries fulfil the varied interests of the students and contribute to their holistic development
+the term of these office bearers is for the academic year
+with pankaj yadav as the general secretary of the student gymkhana the students were elected on april to serve for the academic year vijay paliwal secretary academic research and management arm society yasharth sahu secretary media arts and design mad society vivek secretary technology and science nuts society himanshu secretary sports adventures games and explorations sage society mansi mittal secretary writing awareness vocals entertainment social waves society iit jodhpur counselling service yellow day celebrations yellow is the best colour to create enthusiasm for life and can awaken greater confidence and optimism
+as we get engrossed in our mundane routines we forget to take break and enjoy the little things in our life
+what is needed is moment when we stop and appreciate all the awesome things around us
+with this motive the student counselling service of iit jodhpur initiated tradition this year to dedicate one day february to appreciate the good things in our life
+on this day all members of iit jodhpur community were requested to wear clothes in the shades of yellow and join for get together in the lawns of the academic campus
+the team had put up yellow chart papers for the members to record their thoughts on what makes you smile
+the event was attended by the students faculty memebrs and staff members of the institute
+faculty members greeting each other in yellow attires recording thoughts on what makes you smile name designation department area of work date of joining world health day world health day was celebrated in the institute on april
+student counselling service of iit jodhpur organized health checkup of all students faculty and staff members
+also informal games were also organized to make the event interesting
+faculty and staff members and students participating in informal games on world health day april new joinings iit jodhpur welcomes the following new faculty members and staff members into the family navratan mal bhandari visiting professor research development january prawal sinha professor mathematics faculty february arita banik assistant professor department of computer science engineering march rajlaxmi chouhan department of electrical engineering may sushmita paul department of biology mayurakshi chaudhury department of humanities social sciences june ashok kumar khanduri deputy registrar academics infrastructure management stores purchase and students may trilotama singh junior assistant administration december permanent campus republic day celebration flag hoisting in permanent campus the republic day of the nation was celebrated by the members of iit jodhpur community on january on the permanent campus in karwad village
+the director hoisted the national flag and the national anthem was patriotically recited by all present
+students presented their thoughts on the importance of republic day urgent need to curb the societal ills and working towards societal advancement in india
+then students presented cultural show with musical performance by sangam the music band of students and street play by nukkad the drama group of students
+the general secretary of student gymkhana iit jodhpur proposed vote of thanks
+thereafter music drawing and musical chairs competitions were organized for the children of iit jodhpur employees and prizes were given to the winners
+visit was arranged to the ongoing construction site of various buildings in the permanent campus of iit jodhpur
+students staff members and faculty members present for on the occasion visited the site
+the program was followed by lunch
+earlier in the morning the national flag was hoisted at the academic campus and the gpra and bsnl residential campuses
+tree plantation in permanent campus of iit jodhpur tree plantation activity was undertaken at the permanent campus of iit jodhpur in karwad on february
+around neem saplings were planted jointly by the members of the iit jodhpur community and the jodhpur tree plantation and environment protection committee jtpepc led by sri singhvi senior advocate high court of rajasthan jodhpur in the presence of honourable justice sandeep mehta sitting judge high court of rajasthan jodhpur and distinguished members of jtpepc
+the event was attended by faculty members staff members and students of iit jodhpur and advocates of high court of rajasthan jodhpur
+tree plantation by srimati
+singhvi tree plantation by professor srimati prawal sinha tree plantation by professor bhandari tree plantation by staff members of iit jodhpur international day of yoga iit jodhpur the second international day of yoga was celebrated on june at gpra residential campus of iit jodhpur
+faculty members staff members and students actively participated in the event
+chairman health services iit jodhpur introducing the program faculty and staff members of iit jodhpur doing yoga yoga instructors demonstrating to the participants the participants and instructors at porta cabin gpra residential campus iit jodhpur outreach extra mural lectures professor amitabha ghosh platinum jubilee senior scientist the national academy of sciences india and former director of iit kharagpur delivered lecture on gravitation inertia and the universe the amazing consequences of relook into the newton laws on february
+special lecture special public lecture was delivered by jerry hultin chairman board of directors and founder global futures group usa on rebuilding cities holistic approach on february
+jerry hultin also served as the president of the polytechnic institute of new york university
+distinguished lecture distinguished lecture on the development of temple architecture in india was delivered by chithra madhavan renowned archaeologist and historian on january
+vanguard lectures professor navneet arora professor department of mechanical and industrial engineering indian institute of technology roorkee delivered lecture on excellence in engineering and expectations from an engineer on january
+anil bhansali md microsoft india private limited and general manager cloud enterprise microsoft india development center and prashant gupta director in microsoft cloud enterprise division microsoft india development center spoke on advanced analytics and machine learning on cloud creating impact for education healthcare and other domains on january
+anil bhansali prashant gupta india and former director of iit kharagpur delivered lecture on conceptual evolution of newtonian mechanics the little known story of on february
+professor raghunath shevgaonkar professor indian institute of technology bombay and former director indian institute of technology delhi delivered lecture on electromagnetic theory on february
+gian program the third course under gian program on fundamentals of applied vehicle dynamics and chassis systems was organized at iit jodhpur during january
+professor ravindra iit jodhpur and professor raghu echempati kettering university were the resource persons
+ravindra echempati the fourth course under gian program on advanced digital vlsi circuit design was organized at iit jodhpur during march
+professor suresh gundapaneni iit jodhpur and professor manoj sachdev university of waterloo canada were the resource persons
+suresh sachdev conferences
+national conference on solar thermal energy technologies was organized during february at iit jodhpur
+technical was ministry of new and renewable energy government of india
+national conference on semiconductor materials and devices was jointly organized by iit jodhpur defence lab jodhpur and semiconductor society of india at iit jodhpur during march
+undergraduate research initiative the undergraduate research initiative ugri program of iit jodhpur provides an effective platform to the students to engage in research with faculty members of the institute
+also students can get chance to develop valuable mentorship through the guidance of experienced faculty members of the institute
+in students were selected from large pool of applicants on the basis of the merit of the proposal submitted
+the program was organized from may to july
+during the program remuneration of rs
+per month was given as stipend to the participating students along with an amount upto rs
+for preparing posters and reports
+participants of ugri with the barun pratiher faculty member in charge ugri women cell iitj celebration of international women day international women day was celebrated at the indian institute of technology jodhpur on march
+the program was organized by women cell iit jodhpur
+honourable justice jaishree thakur sitting judge of rajasthan high court jodhpur graced the occasion as the chief guest and delivered the keynote address
+the women cell iit jodhpur organized logo design and slogan writing competitions for their students and employees before the day
+during this program prizes and certificates of appreciation were given away to the winners and runners up
+memento was presented to the chief guest
+on this day the women cell iit jodhpur adopted an official logo and slogan which was released by the chief guest
+they were the prize winning contributions from the logo design and slogan writing competitions organized by the women cell iit jodhpur
+thereafter short video was screened on contribution of women
+the event concluded with visit to the exhibition of the entries received in logo design and slogan writing competitions organized for the occasion
+honourable justice jaishree thakur chief guest addressing the gathering releasing logo and slogan for the women cell members of the women cell iit jodhpur exhibition of the logo design slogan writing competition workshop on gender intelligence the women cell of the institute organized workshop on gender intelligence during may for all employees of iit jodhpur
+the workshop was conducted by rashmi datt and mona dutta from dialog services gurgaon
+the first part of the workshop focused on assertive training aspect for women which was attended by all women employees of the institute
+the second part of the workshop was for both men and women employees
+the workshop was attended by the faculty members and staff members including members of women cell
+workshop on gender intelligence part assertive training session for women workshop on gender intelligence part session on prevention of sexual harassment posh participants of the workshop on gender intelligence with resource persons lecture on recruitment rules was organized in the institute on may
+shri nair deputy secretary retd
+government of india who had several years of experience in dealing with the recruitment rules division of the upsc spoke on the topic interacted with the audience and addressed their queries
+all staff members of the institute attended the event
+department in focus computer science engineering the primary objective of the department of computer science and engineering is to impart quality education in the field of computer science
+the department vision is
+to expand its depth and breadth in the research and study of core computer science and engineering and
+to continually improve teaching and research environments towards creation of valuable technical human
+to establish strong industry academia partnership to augment classroom discussions with practical the department is currently offering bachelor of technology
+program with the aim to develop core competence in computer science and engineering among the students and to prepare them to carry out research and development work
+every year students are admitted to the program through the joint entrance examination advanced
+currently the graduated of the program are placed in reputed industries within india and undergoing higher studies in reputed institutes and universities in india and abroad
+the department has research interests in the areas of computer science and engineering
+also it offers the doctor of philosophy program is offered with the goal of producing art researchers
+students are working in the areas of video analytics image understanding cloud computing document analysis and internet of things
+presently the department has students
+to strengthen its core competence the department is also looking for new faculty members in all areas of computer science and engineering
+prospective candidates are encouraged to visit our recruitment page to know more about the procedure name of the faculty member designation research area editorial board deepakkumar fulwani coordinator faculty atul kumar coordinator academics narayanan coordinator hari narayanan coordinator students amardeep sharma deputy registrar kshema prakash deputy librarian iit jodhpur newsletter vol
+editor kshema prakash deputy librarian indian institute of technology jodhpur old residency road ratanada jodhpur email also the department is keen to collaborate with industry and academia
+at present research projects are underway with all india institute of medical science aiims jodhpur and department of science and technology government of india
+moreover the department is in close contact with industry leaders like microsoft ibm intel and tcs
+in the near future the department is planning to move towards outcome based education obe along with strong partnership
+people the department has four regular faculty members and two adjunct faculty members working in different areas
+venkata ramana badarla assistant professor head wireless networks and cloud computing gaurav harit image and video analysis chiranjoy chattopadhyay computer vision aritra banik computational geometry venkatesh raman professor the institute for mathematical sciences chennai parameterized complexity and exact exponential time algorithms succinct space efficient data structures algorithms for satisfiability and sorting and selection and related problems manindra agarwal professor iit kanpur complexity theory and computational number theory the department has six technical staff members working in automation and networking areas
+infrastructure currently the department has two laboratories namely multimedia laboratory and networking technologies laboratory used extensively in teaching and research
+collaboration the department is committed towards improving the institute outreach through all the stages of technology development starting from conceptualization to commercialization and thereby striving towards creation of knowledge in specialized domains
+the department mission is to develop strong and sustainable partnerships with research laboratories academic institutions industry and entrepreneurs to meet the aspirations of the faculty members and students
+the department is looking forward to work on problems that throw up an intellectual challenge and have practical impactful applications
+along with this technology development initiatives exploration of an idea related to process and design improvement is of considerable interest
+the department is seeking such partnerships which recognise and capitalize on the relative strengths of the academia and industry
+to achieve these goals the department is focusing on
+development of strong industry collaborative in research and specialized human resource development
+identifying and protecting intellectual property and developing and nurturing international linkages for research and development
+outreach the department organized six departmental seminars two special lectures and lecture series on machine learning by industry experts during january june

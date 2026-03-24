@@ -1,0 +1,8 @@
+research seminar by madhumita paul on july at am title of the talk spectral theory and brownian motion on quantum graphs date time venue july am abstract brownian motion on quantum graphs provides rich interplay between probability theory spectral analysis and mathematical physics
+this talk examines diffusion processes on the simplest quantum graph the star or spider graph consisting of multiple edges joined at single vertex with kirchhoff gluing conditions
+we derive explicit transition probabilities first exit time distributions and limit theorems that generalize classical results such as arcsine law and the covering time
+these findings illustrate how randomness interacts with quantum geometry and highlight connections to the spectral theory of operators with implications for wave propagation nanostructures and the inverse spectral problem
+about the speaker madhumita paul is currently working as research assistant at
+she obtained stanislav molchanov from and her research area is spectral theory of the schrodinger operator which studies different types of potentials eg periodic potentials unbounded potentials etc
+we look forward to your presence in the seminar
+title of the talk spectral theory and brownian motion on quantum graphs date time venue july am abstract brownian motion on quantum graphs provides rich interplay between probability theory spectral analysis and mathematical physics

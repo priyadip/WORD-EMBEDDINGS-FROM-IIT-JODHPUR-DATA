@@ -1,0 +1,15 @@
+research seminar by anubha goel on nov at pm title of the talk topological and machine learning methods for portfolio choice and detection date time nov at pm online abstract this research seminar surveys my research journey on methods for portfolio design and fraud detection across three strands
+first present index tracking and enhanced indexing using to penalize both upside and downside deviations from the benchmark and objective for with controlled risk
+then discuss applications of topological data analysis for asset filtering and sparse index tracking
+finally present my recent work on hidden cascades models for information diffusion on graphs to infer transmission probabilities by matching feature distributions between real and simulated cascades
+applications include detection where results on an empirical insider network align with synthetic benchmarks and recover target feature distributions
+will conclude with research plan for iit jodhpur
+about the speaker anubha goel is marie curie postdoctoral research fellow in the unit of computing sciences at tampere university finland
+before this she was postdoctoral researcher at the swiss finance institute epfl jan
+she earned her phd in and her masters in mathematics in both from iit delhi
+her research focuses on portfolio optimization financial forecasting tda in finance insider trading hidden cascade models
+title of the talk topological and machine learning methods for portfolio choice and detection date time nov at pm online abstract this research seminar surveys my research journey on methods for portfolio design and fraud detection across three strands
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

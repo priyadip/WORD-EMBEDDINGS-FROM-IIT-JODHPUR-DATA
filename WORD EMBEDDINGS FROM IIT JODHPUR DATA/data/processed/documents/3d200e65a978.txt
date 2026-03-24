@@ -1,0 +1,1 @@
+congratulations to gaurav bhatnagar and somanka maiti for the acceptance of their research article in the journal acm transactions on internet technology title novel image inpainting framework using regression authors maiti kumar jain and bhatnagar journal acm transactions on internet technology year abstract in this paper regression based image inpainting framework is proposed

@@ -1,0 +1,35 @@
+research seminar by yogendra sharma on september at pm speaker yogendra sharma title of the talk understanding seismic hazard along tectonic boundaries insights from the himalaya and beyond date time and venue sep at meeting room dept of mathematics
+about the speaker yogendra sharma is currently doing postdoctoral position at national cheng kung university taiwan
+he has done from birla institute of technology and science pilani
+his research area is statistics and crustal deformation using gnss data
+abstract seismic hazards along tectonic boundaries present significant challenges for assessing earthquake potential and mitigating associated risks
+my research focuses on evaluating and modeling seismic hazards through geodetic and stochastic methods with primary emphasis on the himalaya while extending these insights to other tectonically active regions such as taiwan the philippines japan and new zealand
+in the himalaya developed an innovative approach to estimate earthquake potential by calculating the geodetic moment rate using gnss data
+this data quantifies the rate of energy accumulation due to tectonic stress
+by comparing the geodetic moment rate to the seismic moment rate which represents the energy released through seismic events was able to estimate the amount of stored energy along different segments of the himalayan arc
+this stored energy is critical for understanding seismic hazards and estimating the magnitude of potential future earthquakes
+my approach successfully identifies regions along the himalayan arc with high seismic potential
+additionally developed splay fault model for the himalaya providing detailed analysis of slip rates and locking depths
+utilizing bayesian dislocation model inverted the horizontal velocity field to explore two key questions what are the current kinematics of the himalayan fault system in the northwest himalaya
+ii how are the slip rates distributed across the fault system in this region
+by addressing these questions identified the locked portions of the fault where future earthquakes may occur as well as areas experiencing interseismic creep that could potentially inhibit earthquake rupture propagation
+these findings have significant implications for earthquake forecasting and hazard mitigation in densely populated areas near the fault
+in the stochastic modeling employed probabilistic nowcasting technique to assess the earthquake potential of major cities within the himalayan region
+using probabilistic models estimated the current stage of various cities in the earthquake cycle
+specifically applied surrogate nowcasting method to determine the seismic hazard potential in dozen populous cities within the himalayan orogeny
+this method involves statistical inference of natural times and counts of smaller magnitude quakes between large events from which calculated earthquake potential scores eps for each city
+this approach bypasses the complex process of seismicity declustering providing more robust assessment of earthquake hazards
+expanding my research beyond the himalaya have investigated seismic hazards in other tectonic regions including taiwan and the philippines
+following the taiwan earthquake developed coseismic deformation model using field surveys and gnss data identifying potential locations for future seismic events based on patterns of energy release
+in the philippines my research on leyte island challenged previous assumptions of low seismicity in the region
+following the earthquake proposed fault model that integrates insar and gnss data to provide surface deformation signals
+this model revealed that while much of the fault is creeping there are locked segments with significant seismic potential enhancing our understanding of future rupture zones
+currently am developing probabilistic fault displacement hazard analysis pfdha model to provide better estimates of surface displacement hazards crucial for designing infrastructure
+this model incorporates attenuation functions to estimate the probability of exceeding certain hazard thresholds at specific for planning infrastructure such as nuclear power plants hydropower stations and bridges
+in conclusion my research spans several tectonic boundaries combining geodetic observations fault modeling and probabilistic approaches to better understand and mitigate seismic hazards
+through my work in the himalaya and beyond aim to provide critical insights into earthquake potential and enhance hazard models for some of the world most vulnerable regions
+speaker yogendra sharma title of the talk understanding seismic hazard along tectonic boundaries insights from the himalaya and beyond date time and venue sep at meeting room dept of mathematics
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

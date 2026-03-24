@@ -1,0 +1,20 @@
+research seminar by asha kumari meena on july at am title of the talk domain invariant numerical schemes for hyperbolic balance laws date time and venue july am pm seminar hall dept
+abstract the systems of hyperbolic balance laws arise in several areas especially in computational fluid dynamics cfd and plasma flows
+due to lack of theory for the continuous problems designing of stable numerical algorithms for the systems of hyperbolic balance laws is highly
+we are interested in high order numerical schemes for fluid flow and plasma flow models which are robust
+robustness is achieved by designing positivity preserving numerical schemes
+positivity of the scheme is indeed desirable
+otherwise we might lose the hyperbolicity of the system and the solution produced by the numerical scheme will have no physical meaning
+in particular we consider the discontinuous galerkin method finite difference method and finite volume method
+the weno reconstructions are also used to get high order accuracy in finite difference and finite volume methods
+the schemes are used to tackle the structure of the models
+here we will discuss the construction of these numerical schemes for fluid flow and plasma flow models and their performance by numerical experiments
+about the speaker asha kumari meena is currently working as an assistant professor in the department of mathematics at the central university of rajasthan
+she earned her in mathematics from
+delhi in followed by research fellowship at the tifr centre for applicable mathematics in bangalore
+her research interests lie in the areas of scientific computing for fluid and plasma flow models traffic flow modeling and numerical schemes such as finite volume weno and discontinuous galerkin methods
+title of the talk domain invariant numerical schemes for hyperbolic balance laws date time and venue july am pm seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

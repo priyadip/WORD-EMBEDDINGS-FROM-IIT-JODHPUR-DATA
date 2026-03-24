@@ -1,0 +1,85 @@
+SOURCE_PDF: 5112fe183458_PhD-Program-in-Mechanical-Engineering-638772032476727090.pdf
+
+Curriculum
+Indian Institute of Technology Jodhpur
+
+Cat. Course Number: Course Title L-T-P Credits Cat. Course Number: Course Title L-T-P Credits
+I Semester II Semester
+E Electives 3-0-0 3 E Electives 3-0-0 3
+Total Total
+III Semester IV Semester
+TH EN799/ME799 Ph.D. Thesis TH EN799/ME799 Ph.D. Thesis
+Total Total
+V Semester VI Semester
+TH EN799/ME799 Ph.D. Thesis TH EN799/ME799 Ph.D. Thesis
+Total Total
+VII Semester VIII Semester
+TH EN799/ME799 Ph.D. Thesis TH EN799/ME799 Ph.D. Thesis
+Total Total
+Semester I Semester II
+ME751 Advanced Fluid Mechanics 3-0-0 3 ME756 Boundary Layer Theory 3-0-0 3
+ME752 Theory of Arc Welding Processes 3-0-0 3 ME757 Welding Metallurgy 3-0-0 3
+ME753 Vibration in Mechanical Systems 3-0-0 3 ME758 Vibration in Agricultural
+Implements 3-0-0 3
+ME754 Failure Analysis of Welds 3-0-0 3 ME759 Rotor Dynamics 3-0-0 3
+ME755 Soil and Water Conservation
+Engineering 3-0-0 3 ME760 Quality Control of Weldments 3-0-0 3
+S.No. Category Category Title Students with Total
+Courses Total
+Credits
+1 E ELECTIVES Master’s Degree 4 12
+M. Sc. Degree 10 30
+Bachelor’s Degree 10 30
+2 H Thesis - - -
+Ph.D. (Energy) and Ph.D. (Mechanical Engineering)
+Electives
+
+Course Title Turbulent Fluid Flow Course No. ME751
+Focus Group Mechanical Engineering Structure (LTPC) 3 0 0 3
+Offered for PhD Status Elective
+Pre-requisite Consent of Teacher To take effect from
+
+Course Title Theory of Arc Welding Course No. ME752
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for Ph.D Students Status Elective
+Pre-requisite Consent of Teacher To take effect from July 2014
+
+Course Title Failure Analysis of Welds Course No. ME754
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for Ph.D students Status Elective
+Pre-requisite Consent of Teacher To take effect from July 2014
+
+Course Title Soil and Water Conservation Engineering Course No. ME755
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for PhD Status Elective
+Pre-requisite Consent of Teacher To take effect from January 2014
+
+Course Title Boundary Layer Theory Course No. ME756
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for PhD Status Elective
+Pre-requisite Consent of Teacher To take effect from
+
+Course Title Welding Metallurgy Course No. ME757
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for Ph.D students Status Elective
+Pre-requisite None To take effect from
+
+Course Title Vibrations in Agricultural Implements Course No. ME758
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for PhD Status Elective
+Pre-requisite Consent of Teacher To take effect from
+
+Course Title Rotor Dynamics Course No. ME759
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for PhD Status Elective
+Pre-requisite Consent of Teacher To take effect from July 2014
+
+Course Title Quality control of Weld Course No. ME760
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for Ph.D Students Status Elective
+Pre-requisite Consent of Teacher To take effect from July 2014
+
+Course Title Quality control of Weld Course No. ME760
+Focus Group Mechanical Engineering Structure 3 0 0 3
+Offered for Ph.D Students Status Elective
+Pre-requisite Consent of Teacher To take effect from July 2014

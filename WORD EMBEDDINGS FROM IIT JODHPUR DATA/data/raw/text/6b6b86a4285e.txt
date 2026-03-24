@@ -1,0 +1,98 @@
+SOURCE_URL: https://home.iitj.ac.in/~sumitk
+
+Associate Professor · IIT Jodhpur Sumit Kalra Software Architecture, Software Engineering, Internet of Things, Edge & Fog Computing, Smart Healthcare.
+Associate Professor · IIT Jodhpur
+Software Architecture, Software Engineering, Internet of Things, Edge & Fog Computing, Smart Healthcare.
+Sumit Kalra is an Associate Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Jodhpur. His work bridges smart healthcare, cloud-native software, and human-centered technology to deliver scalable, real-world solutions. He also serves as Program Committee Member for MedTech Center and contributes to program management teams driving medical technology initiatives with AIIMS Jodhpur.
+Sumit Kalra is an Associate Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Jodhpur. His work bridges smart healthcare, cloud-native software, and human-centered technology to deliver scalable, real-world solutions. He also serves as Program Committee Member for MedTech Center and contributes to program management teams driving medical technology initiatives with AIIMS Jodhpur.
+Sumit Kalra is an Associate Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Jodhpur. His work bridges smart healthcare, cloud-native software, and human-centered technology to deliver scalable, real-world solutions.
+He also serves as Program Committee Member for MedTech Center and contributes to program management teams driving medical technology initiatives with AIIMS Jodhpur.
+Research Interests Focus Areas
+Software Architecture Quality attributes, design patterns, and tactics for robust, scalable systems. Cloud Computing Containers, virtualization, and elasticity to deliver production-ready solutions. Internet of Things Edge and fog computing to connect distributed devices with reliable computing. Smart Healthcare Portable diagnostics and augmented interventions for remote, affordable care.
+Software Architecture
+Quality attributes, design patterns, and tactics for robust, scalable systems.
+Containers, virtualization, and elasticity to deliver production-ready solutions.
+Edge and fog computing to connect distributed devices with reliable computing.
+Portable diagnostics and augmented interventions for remote, affordable care.
+Publications Patents & Research Papers
+Patents & Research Papers
+Patents Sep 2019 · India Patent Automatic Speech Generation A language-independent solution for speech generation using hand gestures, in collaboration with AIIMS Jodhpur. Dec 2011 · US Patent Smartphone with Detachable Components Vendor-independent detachable input and output components for flexible smartphones. Research Papers View all on Google Scholar 2026 Using AI Algorithms and Machine Learning in the Analysis of a Bio-Purification Method (Therapeutic Emesis, Known as “Vamana Karma”) P Rani, S Kalra, S Singh, R David, AR Gupta, A P V · JMIR Research Protocols 15 2026 A Systematic Review Evaluating the Quality of Ayurveda Smartphone Applications (Android) P Rani, PV Anandaraman, S Kalra, AR Gupta, S Singh, R David, … · European Journal of Integrative Medicine, 102606 2025 Overview of Computational Approaches for Cancer Diagnosis GC Gandhi, R Chakraborty, DK Saini, S Kalra, J Yousif · Advances in Cancer Detection, Prediction, and Prognosis Using Artificial … 2025 Hybrid Robot Navigation: Integrating Monocular Depth Estimation and Visual Odometry for Efficient Navigation on Low-Resource Hardware A Vashisht, GC Gandhi, S Kalra, DK Saini · Computers and Electrical Engineering 124, 110375 2025 Functional Suitability and Evaluation Metrics for Autonomous Data Center Management: A Case Study of DCAMP VD Sera, S Kalra · 2025 IEEE 22nd International Conference on Software Architecture Companion …
+Sep 2019 · India Patent Automatic Speech Generation A language-independent solution for speech generation using hand gestures, in collaboration with AIIMS Jodhpur.
+Sep 2019 · India Patent
+Automatic Speech Generation A language-independent solution for speech generation using hand gestures, in collaboration with AIIMS Jodhpur.
+Automatic Speech Generation
+A language-independent solution for speech generation using hand gestures, in collaboration with AIIMS Jodhpur.
+Dec 2011 · US Patent Smartphone with Detachable Components Vendor-independent detachable input and output components for flexible smartphones.
+Dec 2011 · US Patent
+Smartphone with Detachable Components Vendor-independent detachable input and output components for flexible smartphones.
+Smartphone with Detachable Components
+Vendor-independent detachable input and output components for flexible smartphones.
+Research Papers View all on Google Scholar
+2026 Using AI Algorithms and Machine Learning in the Analysis of a Bio-Purification Method (Therapeutic Emesis, Known as “Vamana Karma”) P Rani, S Kalra, S Singh, R David, AR Gupta, A P V · JMIR Research Protocols 15
+Using AI Algorithms and Machine Learning in the Analysis of a Bio-Purification Method (Therapeutic Emesis, Known as “Vamana Karma”) P Rani, S Kalra, S Singh, R David, AR Gupta, A P V · JMIR Research Protocols 15
+Using AI Algorithms and Machine Learning in the Analysis of a Bio-Purification Method (Therapeutic Emesis, Known as “Vamana Karma”)
+P Rani, S Kalra, S Singh, R David, AR Gupta, A P V · JMIR Research Protocols 15
+JMIR Research Protocols 15
+2026 A Systematic Review Evaluating the Quality of Ayurveda Smartphone Applications (Android) P Rani, PV Anandaraman, S Kalra, AR Gupta, S Singh, R David, … · European Journal of Integrative Medicine, 102606
+A Systematic Review Evaluating the Quality of Ayurveda Smartphone Applications (Android) P Rani, PV Anandaraman, S Kalra, AR Gupta, S Singh, R David, … · European Journal of Integrative Medicine, 102606
+A Systematic Review Evaluating the Quality of Ayurveda Smartphone Applications (Android)
+P Rani, PV Anandaraman, S Kalra, AR Gupta, S Singh, R David, … · European Journal of Integrative Medicine, 102606
+European Journal of Integrative Medicine, 102606
+2025 Overview of Computational Approaches for Cancer Diagnosis GC Gandhi, R Chakraborty, DK Saini, S Kalra, J Yousif · Advances in Cancer Detection, Prediction, and Prognosis Using Artificial …
+Overview of Computational Approaches for Cancer Diagnosis GC Gandhi, R Chakraborty, DK Saini, S Kalra, J Yousif · Advances in Cancer Detection, Prediction, and Prognosis Using Artificial …
+Overview of Computational Approaches for Cancer Diagnosis
+GC Gandhi, R Chakraborty, DK Saini, S Kalra, J Yousif · Advances in Cancer Detection, Prediction, and Prognosis Using Artificial …
+Advances in Cancer Detection, Prediction, and Prognosis Using Artificial …
+2025 Hybrid Robot Navigation: Integrating Monocular Depth Estimation and Visual Odometry for Efficient Navigation on Low-Resource Hardware A Vashisht, GC Gandhi, S Kalra, DK Saini · Computers and Electrical Engineering 124, 110375
+Hybrid Robot Navigation: Integrating Monocular Depth Estimation and Visual Odometry for Efficient Navigation on Low-Resource Hardware A Vashisht, GC Gandhi, S Kalra, DK Saini · Computers and Electrical Engineering 124, 110375
+Hybrid Robot Navigation: Integrating Monocular Depth Estimation and Visual Odometry for Efficient Navigation on Low-Resource Hardware
+A Vashisht, GC Gandhi, S Kalra, DK Saini · Computers and Electrical Engineering 124, 110375
+Computers and Electrical Engineering 124, 110375
+2025 Functional Suitability and Evaluation Metrics for Autonomous Data Center Management: A Case Study of DCAMP VD Sera, S Kalra · 2025 IEEE 22nd International Conference on Software Architecture Companion …
+Functional Suitability and Evaluation Metrics for Autonomous Data Center Management: A Case Study of DCAMP VD Sera, S Kalra · 2025 IEEE 22nd International Conference on Software Architecture Companion …
+Functional Suitability and Evaluation Metrics for Autonomous Data Center Management: A Case Study of DCAMP
+VD Sera, S Kalra · 2025 IEEE 22nd International Conference on Software Architecture Companion …
+2025 IEEE 22nd International Conference on Software Architecture Companion …
+Scholars Research Scholars
+Jul 2019 Sneha Prasad IoT Applications · MoE Scholarship. Real-time sensor-based monitoring of large structures.
+Sneha Prasad IoT Applications · MoE Scholarship. Real-time sensor-based monitoring of large structures.
+IoT Applications · MoE Scholarship. Real-time sensor-based monitoring of large structures.
+Jul 2020 Yashraj Singh Medical Technologies · JCKIF Scholarship. Manipulating 3D CT scans for augmented reality interfaces.
+Yashraj Singh Medical Technologies · JCKIF Scholarship. Manipulating 3D CT scans for augmented reality interfaces.
+Medical Technologies · JCKIF Scholarship. Manipulating 3D CT scans for augmented reality interfaces.
+Jul 2021 Manik Sejwal Medical Technologies · MoE Scholarship. Patient compliance through interactive chatbots.
+Manik Sejwal Medical Technologies · MoE Scholarship. Patient compliance through interactive chatbots.
+Medical Technologies · MoE Scholarship. Patient compliance through interactive chatbots.
+Awards & Grants Recognition
+Jun 2022 Google Cloud Education Grant USD 5000 in credits supporting Software and Data Engineering.
+Google Cloud Education Grant USD 5000 in credits supporting Software and Data Engineering.
+Google Cloud Education Grant
+USD 5000 in credits supporting Software and Data Engineering.
+Aug 2022 Moonshot Award 2022 Winner for innovative idea on Learning while Sleeping.
+Moonshot Award 2022 Winner for innovative idea on Learning while Sleeping.
+Winner for innovative idea on Learning while Sleeping.
+Jun 2022 iDeathon on Sustainable Smart Systems 1st prize in pan-IIT competition co-organized by AVL India and ACM Student Chapter IIT Jodhpur.
+iDeathon on Sustainable Smart Systems 1st prize in pan-IIT competition co-organized by AVL India and ACM Student Chapter IIT Jodhpur.
+iDeathon on Sustainable Smart Systems
+1st prize in pan-IIT competition co-organized by AVL India and ACM Student Chapter IIT Jodhpur.
+Teaching Recent Courses
+Jul 2022 · CSL7090 Software and Data Engineering Virtualization, cloud computing, data management, and data-intensive processing; supported by Google Cloud Education Grant.
+Software and Data Engineering Virtualization, cloud computing, data management, and data-intensive processing; supported by Google Cloud Education Grant.
+Software and Data Engineering
+Virtualization, cloud computing, data management, and data-intensive processing; supported by Google Cloud Education Grant.
+Jul 2022 · DHL7010 Social Media Application Development Mobile application development frameworks and techniques.
+Social Media Application Development Mobile application development frameworks and techniques.
+Social Media Application Development
+Mobile application development frameworks and techniques.
+May 2022 · CSL7570 Introduction to Augmented and Virtual Reality Concepts and foundations for augmented and virtual reality.
+Introduction to Augmented and Virtual Reality Concepts and foundations for augmented and virtual reality.
+Introduction to Augmented and Virtual Reality
+Concepts and foundations for augmented and virtual reality.
+Team Software Innovation Lab Members
+Software Innovation Lab Members
+Contact & Academic Links Connect
+Contact & Academic Links
+Email sumitk[AT]iitj[DOT]ac[DOT]in 224, Department of CSE, IIT Jodhpur · +91 291 280 1259 Academic Profiles LinkedIn ResearchGate
+Email sumitk[AT]iitj[DOT]ac[DOT]in 224, Department of CSE, IIT Jodhpur · +91 291 280 1259
+224, Department of CSE, IIT Jodhpur · +91 291 280 1259
+Academic Profiles LinkedIn ResearchGate

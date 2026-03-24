@@ -1,0 +1,30 @@
+SOURCE_PDF: 77fa5fa9d2e8_IDRP_20QUANTUM_20INFORMATION_06092019.pdf
+
+Indian Institute of Technology
+Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Ph.D. Programme
+In
+Quantum Information and Computation (QIC)
+Inter Disciplinary Research Platform
+
+Title Introduction to Quantum Number QCL6XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+e Objectives
+
+Title Quantum Computing Number QCL7XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Facets of Quantum Information Number QCL7XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Quantum Cryptography and
+Coding Number QCL6XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective

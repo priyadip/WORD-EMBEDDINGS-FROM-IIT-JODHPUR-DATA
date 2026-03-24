@@ -1,0 +1,15 @@
+SOURCE_PDF: f16004f1f70e_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877991.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL ASSISTANT (Mathematics)
+(WRITTEN TEST & SKILL TEST)
+Descriptive Statistics: Histogram, Bar Chart, Pie Chart, Scatter Diagram, Measures of Central Tendency
+(Mean, Mode, Median), Measures of Dispersion (Standard Deviation, Mean Deviation, Range), Coefficient
+of Variation, Correlation Coefficient and their Properties
+Basics of Programming Language: Flowchart, Data types, variables, operators, expressions, control
+structures, functions, parameter passing conventions, Pointers, arrays, operations on data (Insert, delete,
+search, traverse and modify), structures and classes, Basic knowledge to develop well-structured program
+in C/C++/Java/Python/ any other programming language, Algorithm Development, Complexity analysis
+and asymptotics, linked lists, stacks, queues, binary trees, tree traversals.
+IT Infrastructure Maintenance: Network Troubleshooting, Computer assembling and maintenance, Website
+management, Installation and updating of Software / operating systems (Windows and Linux)

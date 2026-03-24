@@ -1,0 +1,208 @@
+indian institute of technology jodhpur pg course booklet july proposal for tech
+and dual degree
+and in cyber physical systems program structure dual degree programs in cyber physical systems introduction beginning in the first decade of century and continuing today computational and communication resources tightly integrated with physical systems shaping the new capabilities for the modern systems
+the communication capability also provides possibility of distributed learning for system modelling is one of the possible approaches to model cps
+conventionally software is developed without formal models and largely depends on experience and knowledge however requirement of safety reliability in cps demand higher level of abstractions at software level as well
+objective of the programme the program aims to produce competent engineerswho can design engineered systems that are built from seamless integration of physical system and cyber systems
+ability to analyse overall specifications of cps and translate it to the different systems design requirements
+capability architecture in distributed environment
+ability to understand applications like smart grid mobile networks and different systems of smart city
+critical thinking and scientific problem solving
+skill to communicate scientific ideas and application systems
+acquire basic project management skills topics cloud for the cps program modelling of cps system from hybrid perspectives distributed computing fog and cloud computing embedded system design using programmable approach real time operating system communication protocols networked and distributed control system algorithms of machine learning digital signal processing category program core mc program elective me open elective mo project mp total graded credits total graded nongraded credits credits cat
+course title credi ts cat
+course title credi ts semester ii semester mc introduction to cyber physical systems mc security in cps mc cyber physical system modelling and simulation laboratory mc data communication and networking mc advanced control system mc introduction to modelling fractal offered by dept
+of mathematics mc embedded system design mc simulation of dynamical systems me program elective me program elective mc embedded system design laboratory me program elective mo open elective ng technical communication ng innovation and ip management iii semester iv semester me program elective mo open elective me program elective ng professional ethics me program elective ng systems engineering and project management proposed program structure overall structure semester wise distribution of credits course title credit department offers the course computer vision cse advanced digital signal processing ee vehicular networks vanets cse edge fog computing cse robotics fractal robot modelling me robotics fractal control me robotics fractal motion planning and programming me machine learning cse digital and design ee introduction to virtual reality cse smart grid ee adaptive signal processing ee computer architecture cse digital twin ee machine leaning ii cse artificial intelligence cse artificial intelligence ii cse smart manufacturing me resource constrained ai cse real time communications ee industry applications in manufacturing systems me optimization mathematics list of program electives the department may add new electives from time to time
+title introduction to cyber physical systems number eel7xx0 department electrical engineering offered for
+cyber physical systems type core prerequisite differential equations basics of microprocessors title embedded system design number eel7xx0 prerequisite basics of microprocessors title advanced control number eel7xx0 prerequisite differential equations and basics of control system desirable title simulation of dynamical systems number eel7xx0 department electrical engineering offered for
+cyber physical system type core prerequisite basics of ode title cyber physical system modelling laboratory number eep7xx0 department electrical engineering offered for physical system type core prerequisite ode title embedded system design laboratory number eep7xx0 offered for physical system type core prerequisite basics of processors title smart grid number eel7xx0 offered for
+cyber physical system type elective title security in cyber physical systems number eel7xx0 department electrical engineering prerequisite basics of control system is desirable proposal tech
+in sensors and internet of things program structure for first four semesters new era of engineering internet of things iot has gained interest
+iot is network of connected to produce skilled graduates with exposure to current era of siot and deeper understanding of the subject components
+the graduates will eventually be contributing to variety of domains including smart agriculture transportation environment monitoring healthcare and smart wearable
+program scope the objective is to develop broad iot systems and this program will be offered with four primary verticals
+sensors and sensing technologies circuits and systems communication and networking embedded systems the program will offer deeper theoretical learning through various verticals by theory and laboratory courses
+graduate attributes ability to follow multidisciplinary approach for design and implementation of systems involving various domains of engineering sciences and humanities
+skills to design and develop various sensors and related interfacing circuitry for iot ability to develop design simulation and implementation schemes based on the knowledge acquired from coursework
+skills to implement iot sensor platforms for applications in the area of environment health agriculture and other novel applications
+skills to undertake high quality academic and industrial research in sensors and iot learning outcomes strong understanding of fundamentals of sensing and sensor devices ability of designing digital and analog interface circuits used for siot capability of interfacing sensors for iot applications development and use of emerging sensors for iot technology understanding of fundamentals of wireless communications to design sensor nodes implementation of iot platforms using embedded systems understanding of uses and risks related to iot devices category compulsory mc tech elective me tech open mo tech project mp total
+mc sensors and measurement mc data communication and networking mc microsystems fabrication technology mc digital and chip design mc analog and interfacing circuits mc vlsi design lab mc introduction to internet of things me program elective mc sensors and iot lab me program elective me program elective me program elective ng technical communication ng innovation and ip management total graded total graded mc winter internship total iii semester iv semester me program elective mo open elective me program elective ng professional ethics mo open elective program structure overall structure ng systems engineering and project management total total course title cre dits course title cre dits semester third semester flexible and printed electronics advanced digital signal processing digital vlsi design neuromorphic computing and design wireless communication fog and edge computing antenna engineering vehicular ad hoc networks machine learning selected topics in sensors iot second semester fourth semester image sensor design and applications resource constrained ai rf ic design microfluidics technology embedded systems design selected topics in sensors iot ii active filter design selected topics in sensors iot iii technology nano sensors winter internship is designed for in technology for sensors and actuators open electives these can be taken from the existing program electives or any other course of same level from the institute course title sensors and measurements number eel7xx0 offered for tech
+year type compulsory semiconductor devices course title analog and interfacing circuits number eel7xx0 digital and analog electronics
+shanthi pavan vlsi data conversion circuits nptel course material department of electrical engineering indian institute of technology madras
+nagendra krishnapura analog integrated circuit design department of electrical preparatory course material
+course title microsystems fabrication technology number eel7xx0 preparatory course material
+sensors and actuators elsevier
+micromechanics and micro engineering iop title introduction to internet of things number eel7xx0 title data communication and networking number eel7xx0 prerequisite fundamentals of wireless communications material
+mishra wireless adhoc and sensors networks nptel course material department of electrical and electronics communication engineering indian institute of technology kharagpur
+zou zhu wang and hanzo survey on wireless security technical challenges recent advances and future trends in proceedings of the ieee vol
+xia wen foh niyato and xie survey on networking in ieee communications surveys tutorials vol
+zheng principles of wireless communications mit opencourseware electrical engineering computer science massachusetts technology course title digital and design number eel7xx0 digital logic and design title flexible and printed electronics number eel7xx0 offered for
+iv type elective prerequisite understanding of electronic materials and devices otfts from transistors to circuits circuits on flexible and silicon substrates contacts and interfaces to organic and inorganic electronic devices schottky contacts defects carrier recombination effect of applied mechanical strain lectures other flexible devices and system integration organic light emitting diodes organic solar cells thin flexible oled displays oled lighting smart wallpaper sensors logic and memory rfid tags latest applications of printed electronics encapsulation roll to roll printing processes integration issues and designs for future lectures textbook
+nisato lupo ganz editors organic and printed electronics fundamentals and applications crc press
+large area and flexible electronics mario caironi noh editors
+wong william and alberto salleo eds
+flexible electronics materials and applications
+springer self learning material
+recent journal papers form flexible and printed electronics iop and organic electronics elsevier title antenna engineering number eel7xx0 offered for
+type elective prerequisite electromagnetic theory microwave engineering
+balanis antenna theory analysis and design edition wiley press
+krauss antennas and wave propagation edition tata education
+elliott antenna theory and design wiley press
+vedio lecture antenna engineering anthony ferraro penn state usa
+nptel lectures microwave theory and techniques girish kumar iit bombay title digital vlsi design number eel7xx0 offered for
+type elective prerequisite digital electronics knowledge of mos device physics
+jan rabaey anantha chandrakasan and borivoje nikolic digital integrated circuits design perspective edition edition pearson
+weste david money harris cmos vlsi design circuits and systems perspective edition pearson
+yusuf leblebici cmos digital integrated circuits analysis jan rabaey anantha chandrakasan and borivoje nikolic online video title wireless communications number eel7xx0 prerequisite fundamentals of communications
+tse and viswanath fundamentals of wireless communication cambridge
+goldsmith wireless communications cambridge university press
+simon and alouini digital communication over fading channels john wiley and sons
+jagannatham principles of communication ii nptel course material department of
+zheng and gallager principles of digital communications mit opencourseware title image sensor design and applications number eel7xx0 offered for
+type elective prerequisite analog electronics title radio frequency integrated circuit design number eel7xx0 department electrical engineering offered for
+iv year and phd students type elective prerequisite analog electronics communication engineering microwave engineering
+preparatory course materials
+lathi ding modern digital and analog communications systems edition oxford university press
+pozar microwave engineering edition new york ny usa wiley
+title vlsi design lab number eep7xx0 title sensors and iot lab number eep7xx0 title nano sensors number eel7xx0 offered for
+iv year and
+type elective title active filter design number eel7xx0 offered for
+type elective title technology number eel7xx0 prerequisite electromagnetic theory microwave engineering
+millimeter wave and optical dielectric integrated guides and circuits
+courtney liu gaucher pfeiffer and grzyb advanced millimeter wave
+circuits for and radar the cambridge rf and microwave engineering series
+mandal technology nptel course material department of electronics communication iit kharagpur
+ti training vedios mmwave radar in adas applications
+pozar microwave engineering ed
+new york ny usa wiley title selected topics in sensors and iot number eel7xx0 offered for phd type elective prerequisite fundamentals of sensors title selected topics in sensors and iot ii number eel7xx0 title selected topics in sensors and iot iii number eel7xx0 tech
+dual degree communications and signal processing during the past few years there has been an exponential growth in the usage of internet
+the fast development of economy and society requires modern and communications systems that can cater for massive deployment of internet of things while still offering acceptable levels of energy consumption equipment cost and network deployment and operation cost
+it needs to support wide variety of applications and services requiring increased spectral efficiency higher data rates low latency and high reliability
+communications and signal processing is one of the key technologies to meet the growing connectivity requirements for new use cases
+for latency or high reliability cases and new applications for the industry opening up new revenue streams also for operators
+dual degree programme in communications and signal processing prepares students for an advanced engineering career by understanding of modern communication networks on all layers and their associated signal processing methods
+the program provides students an opportunity to learn the specialization in depth by updating and renewing their technical knowledge in rapidly changing telecommunication industry
+objective of the program graduates from the program will have knowledge and critical awareness of theoretical and practical solutions to problems at the forefront of communications and the processing of signals
+they would be ready for careers in fields such as development research operations and management of telecommunication networks and information processing systems
+learning outcome ability to statistically characterize and evaluate the performance of communication systems
+ability to apply the different methods for signal detection and estimation to real world engineering problems and advanced research develop understanding of research on future generations of wireless communication
+analyze networks understanding techniques like opportunistic communication multiuser diversity superposition coding and successive interference cancellation implement wireless communication systems with various mimo technologies like maximal ratio combining ofdm and alamouti codes ability to master specific set of methods appropriate to their dissertation with the depth needed to produce methodologically rigorous research
+carry out research work demonstrating scientific problem solving and generate ipr program structure category tech
+compulsory mc tech
+elective me tech
+open mo tech
+project mp total graded credits cat
+course title credits mc statistical signal analysis mc data communication and networking mc wireless communications mc mimo wireless communications mc advanced digital signal processing me program elective mc digital signal processing lab me program elective mc communications engineering lab me program elective lab me program elective ng innovation and ip management ng technical communication total graded total graded me program elective mo open elective me program elective ng professional ethics mo open elective ng systems engineering and project management total total graded overall structure tech
+degree requirements for communications and signal processing topic clouds statistical signal analysis wireless communications advanced digital signal processing digital signal processing lab communications engineering lab random processes stationarity and ergodicity random parameter estimation parameter multiple parameter estimation fading channel models error performance in awgn and fading channels diversity techniques capacity of fading multiuser multiple and random access multiuser diversity networks review of fourier analysis short time fourier transform resolution concepts wavelet multi rate systems finite word length effects digital signal processor architecture interface hardware and software comparative study of microprocessor asic and dsp implementation of adc convolution fir iir fft and spectral estimation techniques introduction to instruments like vector signal analyzer spectrum analyzer communication equalizers alamouti codes mimo wireless communications data communication and networking mimo channel models receiver architectures diversity multiplexing gain tradeoff code design multiuser mimo massive mimo fundamentals of data communication network layer and topology design network management mechanisms to improve performance transport and application layers reliability and security complete list of program electives course title credits course title credits coding theory free space optical communications antenna engineering gnss signal processing advanced digital communication backhaul networks for wireless systems network information theory selected topics in communication statistical decision theory selected topics in communication ii digital signal processing selected topics in communication iii digital image processing and applications neuromorphic computing and design digital video processing machine learning rf ic design real time communications adaptive signal processing millimeter wave technology sm optical fiber communications digital image and video processing lab image sensor design and application rf ic design lab applied optimization for wireless communication network information theory machine learning for communications graph theory machine learning matrix computations optimization wavelets physical layer security computational imaging compressive sensing speech and audio processing computing selected topics in signal processing ii selected topics in signal processing data compression selected topics in signal processing iii machine learning for communication lab multimedia communications note machine learning and computing and neuromorphic computing and design will be offered by cse while graph theory matrix computations and optimization will be offered by mathematics department
+the course contents are available in the respective booklets
+advisory for program electives program elective program elective lab coding theory digital image and video processing lab antenna engineering rf ic design lab machine learning machine learning for communication lab advanced digital communication selected topics in communication selected topics in communication ii selected topics in communication iii program elective matrix computations free space optical communications optimization gnss signal processing millimeter wave technology program elective selected topics in communication statistical decision theory selected topics in communication ii optimal filtering selected topics in communication iii digital video processing neuromorphic computing and design digital image processing and applications machine learning for communications selected topics in communication real time communications selected topics in communication ii backhaul networks for wireless systems selected topics in communication iii computational imaging digital signal processing wavelets rf ic design speech and audio signal processing graph theory selected topics in signal processing adaptive signal processing selected topics in signal processing ii optical fiber communications selected topics in signal processing iii image sensor design and application applied optimization for wireless communication data compression machine learning network information theory physical layer security compressive sensing computing selected topics in signal processing selected topics in signal processing ii selected topics in signal processing iii detailed course contents title statistical signal analysis number eel7xx0 offered for dual degree comm
+type compulsory prerequisite knowledge of probability theory and fundamentals of communications john wiley
+kay fundamentals of statistical signal processing vol
+estimation theory edition prentice hall
+sinha signal detection and estimation theory nptel course material department of guwahati
+thangraj probability foundations for electrical engineers nptel course material department offered for dual degree comm
+type compulsory kanpur title advanced digital signal processing number eel7xx0 offered for
+type core prerequisite signals and systems
+proakis and manolakis digital signal processing edition prentice hall
+mitra digital signal processing edition mcgraw hill
+manolakis and ingle applied digital signal processing edition cambridge university press
+basu digital signal processing nptel course material department of electrical
+jagannatham principles of signals and systems nptel course material department title digital signal processing lab number eep7xx0 offered for
+dual degree comm
+proakis and manolakis digital signal processing principles algorithms and applications edition prentice hall of india
+udayashankara real time digital signal processing fundamentals algorithms and implementation using tms processor prentice hall india
+manuals for dsp kits and matlab literature on mathworks website jagannatham principles of signals and systems nptel course material department of electrical engineering indian institute of technology kanpur title communications engineering lab number eep7xx0
+user manual for signal analyzer afg and oscilloscope
+zheng and gallager principles of digital communications mit opencourseware electrical engineering computer science massachusetts institute offered for
+tech iv year
+mishra wireless adhoc and sensors networks nptel course material
+zou zhu wang and hanzo survey on wireless security technical
+xia wen foh niyato and xie survey on first quarter
+zheng principles of wireless communications mit opencourseware electrical title mimo wireless communications number eel7xx0 prerequisite wireless communications
+chockalingam and rajan large mimo systems cambridge
+biglieri calderbank constantinides paulraj and poor mimo wireless communications cambridge university press
+zheng zhao mei shao xiang and hanzo survey of mimo systems in ieee communications surveys tutorials vol
+wu xiao ding gao and jin survey on mimo transmission with finite input signals technical challenges advances and future trends in proceedings of the ieee vol
+title coding theory number eel7xx0 details of elective courses
+thangraj coding theory nptel course material department of electrical engineering indian institute of technology madras
+jagannatham principles of communication ii department of electrical engineering indian institute of technology kanpur prerequisite electromagnetic theory title advanced digital communication number eel5xx0 prerequisite knowledge of probability theory and fundaments of communications
+jagannatham principles of communication ii department of electrical title statistical decision theory number eep7xx0 fundamentals of communications
+sinha signal detection and estimation theory nptel course material department of electrical and electronics engineering indian institute of technology department of electrical engineering indian institute of technology madras title optimal filtering number eel7xx0 title digital video processing number eel7xx0 prerequisite fourier analysis
+katsaggelos fundamentals of image and video processing coursera northwestern university
+jagannatham principles of signals and systems nptel course material title optical fiber communications number eel6xx0 offered for
+type elective prerequisite em theory textbooks
+senior optical fiber communications principles and practice prentice
+keiser fibre optic communication edition
+agrawal fiber optic communication systems john wiley and sons edition
+nptel lectures on advanced optical communication by shevgaonkar iit bombay
+the rp photonics encyclopedia
+fractal some concepts from
+kulkarni principles of electromagnetics oxford university press edition
+fractal some concepts from jacob millman integrated electronics mcgraw hill education edition
+lathi and ding modern digital and analog communication systems oxford university press edition title digital image processing and applications number eel7xx0 perceptual image processing masking contrast sensitivity angular frequency and viewing distance lectures
+and woods digital image processing edition prentice hall
+katsaggelos fundamentals of image and video processing coursera northwestern
+rao advanced matrix theory and linear algebra for engineers nptel course material centre for electronics design and technology indian institute of science bangalore title multirate digital signal processing number eel7xx0 prerequisite digital signal processing
+dutta digital signal processing nptel course material department of delhi title network information theory number eel7xx0 offered for dual degree comm
+gamal and kim network information theory cambridge
+kramer topics in information theory now publishers
+cover and thomas element of information theory
+and tse wireless network information flow deterministic approach ieee transactions on information theory vol
+dimakis godfrey wu wainwright and ramchandran network coding for distributed storage systems ieee transactions on information theory vol
+iv year and phd type elective prerequisite analog electronics fundamentals of communication engineering and em theory edition pearson materials
+chatterjee rf integrated circuits nptel course material department of electrical engineering indian institute of technology delhi iit delhi
+high speed communication circuits mit
+lathi and ding modern digital and analog communications systems edition oxford university press
+pozar microwave engineering edition new york ny usa wiley title adaptive signal processing number eel7xx0 offered for
+iv year type elective
+chakraborty adaptive signal processing nptel course material department of electrical and electronics engineering indian institute of technology kharagpur
+dutta roy digital signal processing nptel course material department of electrical engineering indian institute of technology delhi title image sensor design and applications number eel7xx0 offered for
+tech iv year tech ph
+type elective color processing color demosaicing color correction and white balance lectures
+applications smart city health care autonomous vehicles sports motion detection surveillance lectures
+ohta smart cmos image sensors and applications crc press
+pecht and cummings cmos imagers from photo transduction to image processing
+albert theuwissen harvest imaging
+albert theuwissen image sensors blog
+ieee journal of solid state circuits title digital image and video processing lab number eep7xx0 department electrical engineering
+tekalp digital video processing edition prentice hall
+bovik the essential guide to video processing edition academic press
+woods multidimensional signal image and video processing and coding edition academic press
+wang yao video processing and communications edition prentice hall
+gupta digital video signal processing nptel course material department of title radio frequency integrated circuit design lab number eep7xx0 department electrical engineering offered for
+iv year and phd type elective prerequisite analog electronics em theory
+pozar microwave engineering edition new york ny usa wiley title machine learning for communications number eel7xx0 prerequisite fundamentals of communication systems machine learning
+mackay information theory inference and learning algorithms machine learning for communications emerging technologies initiative ieee title machine learning for communication lab number eep7xx0 prerequisite machine learning title gnss signal processing number eel7xx0 offered for
+type elective prerequisite fundamentals of communications and signals and systems navigation solution positioning code and positioning least squares solution weighted least squares solution kalman filtering solution basic schemes for hybridization
+lectures vulnerabilities gnss intentional interferences and jammers unintentional interferences spoofing attacks ionospheric scintillation detection and mitigation techniques
+lectures indoor positioning basic measurements positioning approaches versus methods hybridization and data fusion main technologies
+betz engineering navigation and timing global navigation satellite systems signals and receivers press
+kaplan and hegarty understanding principles and applications artech house
+misra and enge global positioning system signals measurements and performance press
+title free space optical communications number eel7xx0 offered for
+and type elective prerequisite fundamentals of probability wireless and optical communications edition springer
+majumdar advanced free space system approach edition springer
+kumar optical communications department of electrical engineering indian institute of technology kanpur title real time communications number eel7xx0 offered for
+type elective the ieee vol
+hou and kumar communication over unreliable wireless links theory and its applications in ieee wireless communications vol
+hanssen jansen communication protocols an title backhaul networks for wireless systems number eel7xx0
+saidul huq and rodriguez backhauling fronthauling for future wireless
+imran zaidi and shakir access fronthaul and backhaul networks for beyond iet press
+ieee best readings in backhaul and fronthaul communications networking and signal processing title applied optimization for wireless communication number eel7xx0 prerequisite basic knowledge of calculus probability matrices application autonomous in dynamic wireless networks lectures
+boyd and vandenberghe convex optimization cambridge
+jagannatham applied optimization for wireless machine learning big data nptel course material department of electrical engineering indian institute of technology kanpur
+llorca milner and davis convex optimization method for autonomous in dynamic wireless networks milcom ieee military communications conference san diego ca pp
+prerequisite electromagnetic theory
+koul millimeter wave and optical dielectric integrated guides and
+liu gaucher pfeiffer and grzyb advanced millimeter wave technologies wiley
+hueber and niknejad
+circuits for and radar the cambridge rf and microwave engineering series cambridge cambridge university press
+mandal technology nptel course material indian institute of technology kharagpur
+new york ny usa wiley title selected topics in communication number eel7xx0 title selected topics in communication ii number eel7xx0 title selected topics in communication iii number eel7xx0 title physical layer security number eel7xx0 offered for
+type elective prerequisite fundamentals of information theory title computational imaging number eel7xx0 prerequisite basics of signals and systems title multimedia communications number eel7xx0
+motion pictures experts group mpeg jtc
+wiegand sullivan bjontegaard luthra overview of the video coding standard ieee title speech and audio signal processing number eel7xx0 offered for
+hegde signal processing techniques for speech recognition nptel course material department of electronics communication engineering
+dutta roy digital signal processing nptel course material department of title wavelets number eel7xx0 offered for
+type elective title compressive sensing number eel7xx0 prerequisite signals and systems random signal analysis title selected topics in signal processing number eel7xx0 title selected topics in signal processing ii number eel7xx0 title selected topics in signal processing iii number eel7xx0 title data compression number eel7xx0 offered for
+and type elective prerequisite elementary knowledge of information theory

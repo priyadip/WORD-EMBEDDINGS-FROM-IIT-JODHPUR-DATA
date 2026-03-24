@@ -1,0 +1,15 @@
+research seminar by anjali on july at am title of the talk how does the nonlinear theory help to predict the transition to turbulence in fluid overlying porous systems
+date time venue july am seminar hall dept
+of mathematics abstract in this talk we will discuss the stability analysis of poiseuille flow in fluid overlying porous domain
+such systems find extensive applications in oil reservoirs underground contaminant flow etc
+we will first start with some preliminary results obtained under linear theory
+next we will proceed to the weakly nonlinear stability analysis in which the nonlinear interactions are studied by imposing finite amplitude disturbances to the poiseuille flow
+using the order parameter theory the landau equation is extensively used to understand the bifurcation phenomena in fully nonlinear systems in
+however this theory has not yet been extended to fluid overlying porous systems
+on that account we introduce the order parameter theory for deriving the landau equation to carry out the weakly nonlinear stability analysis of plane poiseuille flow in fluid overlying porous domains
+about the speaker anjali is currently working as an institute fellow in the department of chemical engineering
+bombay under the mentorship of jason picardo
+she is working on inverse solutions to unsteady problems
+she obtained phd from the department of mathematics
+her research focused on the hydrodynamic stability analysis of shear flows in fluid overlying porous systems
+title of the talk how does the nonlinear theory help to predict the transition to turbulence in fluid overlying porous systems

@@ -1,0 +1,20 @@
+SOURCE_PDF: 8269834e7b68_SIMULTANEOUS-CONJUGACY-CLASSES-AS-COMBINATORIAL-INVARIANTS-OF-FINITE-GROUPS-63889575760.pdf
+
+Title: SIMULTANEOUS CONJUGACY CLASSES AS COMBINATORIAL INVARIANTS OF FINITE 
+GROUPS 
+Authors: DILPREET KAUR, SUNIL KUMAR PRAJAPATI_, AND AMRITANSHU PRASAD
+Journal: Communications in algebra
+Volume: In Press
+Year: Accepted in 2022.
+Publisher: Taylor & Francis
+Abstract: We consider the problem of counting simultaneous conjugacy classes of 
+𝑛−tuples in a finite group 𝐺. Let 𝛼{𝐺,𝑛} denote the number of simultaneous conjugacy 
+classes of n-tuples, and 𝛽{𝐺,𝑛} the number of simultaneous conjugacy classes of commuting 
+𝑛−tuples in 𝐺. We study the generating functions 𝐴{𝐺}(𝑡) = ∑
+𝑡𝑛
+{𝑛≥0}
+𝛼{𝐺,𝑛}
+determines and is completely determined by the class equation of 𝐺. We prove that the
+normalized functions 𝐴𝐺(
+|𝐺|)are invariants of isoclinism families. We compute
+exponential growth factors of 𝛼{𝐺,𝑛} and 𝛽{𝐺,𝑛}.

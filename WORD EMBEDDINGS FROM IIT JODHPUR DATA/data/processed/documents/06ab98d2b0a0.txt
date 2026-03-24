@@ -1,0 +1,18 @@
+welcome to aiot and applications formally known as idrp iot and applications the internet of things iot has captured significant interest across various sectors including smart agriculture transportation environmental monitoring healthcare and industrial applications
+central to iot functionality are sensors that need to be both highly sensitive and selective to effectively interact with their environment
+furthermore the data these sensors collect is essential for enhancing the intelligence of processes and systems
+iot encompasses broad range of disciplines from material science to data analytics all vital for developing iot systems
+to address these complex needs an research platform idrp has been established for the center for aiot and applications
+this platform aims to integrate technologies comprehensively fostering research and development across sectors like industry health and infrastructure which includes safety and environmental monitoring
+the collaborative ecosystem in jodhpur which brings together institutions like iitj aiims nlu and police university is poised to drive innovation in aiot in areas such as healthcare environment and cybersecurity
+internet of things iot and its applications the infographic depicts various aspects of the internet of things iot and its applications across multiple domains
+on the left side key technological components are listed such as sensors communication computing security and energy harvesting
+the center of the image displays specific application areas categorized into manufacturing energy mobility healthcare infrastructure logistics living and agriculture with examples like industry smart grid intelligent mobility and precision agriculture
+on the right the outcomes or benefits of iot integration are shown including intelligence efficiency connectivity transparency and flexibility
+this layout illustrates how foundational technologies enable diverse applications which in turn generate various beneficial outcomes
+the design aspects of iot focus on embedded ai and efficient data management within constrained resources highlighting the importance of secure scalable architectures and edge computing for processing
+the key applications of iot encompass practical deployments like industry which integrates digital twins and predictive maintenance and smart city technologies for optimizing urban infrastructure
+smart interfaces involve enhancing user interaction through haptic feedback sensor fusion and robotic making iot devices more intuitive and effective in applications
+together these elements define the multifaceted scope of iot technology
+design aspects of iot the design aspects of iot focus on embedded ai and efficient data management within constrained resources highlighting the importance of secure scalable architectures and edge computing for processing
+design aspects of iot

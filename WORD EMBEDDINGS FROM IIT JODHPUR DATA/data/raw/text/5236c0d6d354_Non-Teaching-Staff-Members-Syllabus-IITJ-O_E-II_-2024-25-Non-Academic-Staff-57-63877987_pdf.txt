@@ -1,0 +1,24 @@
+SOURCE_PDF: 5236c0d6d354_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877987.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL SUPERINTENDENT
+(Center for Research & Development of Scientific Instruments (CRDSI))
+(A) WRITTEN TEST
+Physics/Chemistry/Materials Science 
+1. Electricity and Magnetism 
+2. Waves and Optics 
+3. Solid State Physics 
+4. Basic Electronics 
+5. Quantum Mechanics 
+6. Semiconductor device 
+7. Fundamentals of Organic, Inorganic and Physical chemistry 
+8. Introduction to instrumentation 
+9. Spectroscopy 
+10. Integrated Circuits technology 
+11. Properties of materials
+(B) SKILL TEST
+Handling high end equipment such as NMR, AFM, SEM, XRD, SQUID, PPMS, UV-Vis and IR 
+spectrometer, Fluorescence spectrometer, HPLC, TGA and DSC, 
+Handling experience of Clean Room equipment such as Optical Lithography, LASER, writer, E-beam 
+lithography, Physical vapor deposition systems, Diffusion, oxidation and annealing 
+furnaces, Wire-binder and wafer dicing systems,

@@ -1,0 +1,159 @@
+postgraduate diploma in next generation omics technologies and applications program structure certificate and diploma course in next generation omics technologies and applications
+introduction the certificate and diploma course in next generation omics technologies and applications is holistic training program designed to meet the requirements of people from different backgrounds such as healthcare professional students people from industry or academia as well as service provider
+the program would cater to the needs of upskilling training and orientation of different based techniques and the analysis of data and their applications towards healthcare pathogens clinical nutrition and agriculture
+recent advancements and wide use of technology are producing an explosion of biological datasets that serve as source for computational and statistical modeling of diseases and biological processes
+the analysis of various omics datasets can provide better understanding of the underlying disease mechanism prevention and prediction
+moreover sequencing data analysis helps medical professionals in clinical applications as well as enable advanced understanding of basic biological problems
+this program provides an overview of the technologies for massively parallel sequencing technologies for addressing different biological questions
+moreover this program will focus on concepts for developing and implementing computational methods for learning from omics data managing those data and using the data for biological research to improve human health
+objective of the programme the objective of this programme is to cultivate an understanding of studies technologies and computational methods for analysis of datasets
+the course aims to provide the cutting edge skill sets to efficiently plan for experiments generate the different layers of biological data analyze and interpret the outcomes
+expected attributes ability to understand different technologies
+capability to design the experiment for conducting omics studies
+gain an aptitude to apply the knowledge for different omics applications
+ability to apply machine learning statistics and computational methods for analysis of the different omics data
+learning outcome knowledge of available technologies including their comparison in terms of advantages and disadvantages for specific applications
+design study efficiently including effective budget planning
+knowledge of different ngs and microarray experiments and their possible applications
+knowledge of computational and statistical concepts for analysis of omics datasets
+develop skills to interpret the analysis results for biological inference
+efficiently plan and manage technical projects in different omics domains
+offered for working professionals from pharma sports nutrition and health and wellness diagnostic industries certificate certificate only diploma nil should have completed credits or hours of coursework or equivalent in these topics design approaches for omics study resources and technologies of omics data analysis entry through certificate nil entry through certificate prerequisites same as for certificate only credits credits credits option entry through certificate credits from certificate and from certificate researchers from and academic institutions clinicians and service providers phd medical graduates btech or master in any sciences
+topic content experimental design basic principles of experiment design steps for planning conducting and analyzing an experiment simple comparative experiments sample size and power determination blocking scenarios factorial designs foldover designs crossed array design random effects models nested and split plot designs omics technologies introduction to ngs technology ngs run setup ngs run monitoring microarray and snp typing technology sample qc and call rate identification introduction to single cell technologies and spatial transcriptomics sample preparation for single cell gene expression single cell immune profiling fixed rna profiling single cell assay for chromatin using sequencing atac single cell multiome atac gene expression spatial gene expression for ffpe spatial gene expression for as well as fresh and frozen introduction to proteomics mass spectrometry gel electrophoresis interaction studies proteomics and drug designing platforms omics data science introduction to bioinformatics data driven discovery with examples in healthcare introduction to genomic variations mutations data
+program modules omics experiments and technologies
+basics of experiment design omics study design next generation sequencing technologies microarrays snp typing single cell technologies spatial transcriptomics ii
+omics data science basic of data science ngs data analysis omics data types data science methods for omics datasets ai ml applications in omics iii
+omics applications modern approaches of drug designing precision medicine drug target and drug discovery clinical genomics
+topics cloud for compulsory courses course name credit category course name credit category semester semester design of omics experiments sample qc and processing techniques for ngs next generation omics technologies advanced omics data analysis basics of omics data analysis research applications omics databases mini project elective elective ii total credits total credits
+course name hours credits introduction to ngs applications and genomics analysis tools statistics for clinical interpretation from omics data microbial genomes microbiomes principles of drug discovery
+transcriptome data analysis proteomics and metabolomics
+elective courses elective courses for semester note elective courses listed in below table are available for both certificate and diploma participants
+protocols for clinical next generation sequencing applicationsbbl7140 precision medicine computational personal genomics artificial intelligence ai in healthcare based rational drug discovery computational structural bioinformatics applications of omics in plant science
+course name hours credits sequencing applications precision medicine computational personal genomics artificial intelligence ai in healthcare based rational drug discovery computational structural bioinformatics
+course name type design of omics experiments compulsory next generation omics technologies compulsory basics of omics data analysis compulsory elective courses for semester note elective courses listed in below table are available for certificate diploma participants
+mini project for semester participants will complete mini project by iit jodhpur faculty and partners or can opt for any of these courses as part of their mini project
+summary of courses sample qc and processing techniques in omics compulsory advanced omics data analysis compulsory research applications compulsory introduction to ngs applications and genomics analysis tools elective statistics for clinical interpretation from omics data elective protocols for clinical next generation sequencing applications elective precision medicine elective computational personal genomics elective computational structural bioinformatics elective applications of omics in plant science elective based rational drug discovery elective omics databases compulsory microbial genomes microbiomes elective principles of drug discovery elective artificial intelligence ai in healthcare elective transcriptome data analysis elective proteomics and metabolomics elective title design of omics experiments number bbl6340 department bioscience and bioengineering offered for pg diploma in next generation omics technologies and applications type compulsory prerequisite none
+detailed courses contents compulsory courses for semester title next generation omics technologies number bbl6400 offered for pg diploma in next generation omics technologies and applications type compulsory objectives the instructor will
+provide an understanding of how omics experiments should be designed so that when the data are collected these shortcomings are avoided
+focus on the design of the experiment and not on the analysis
+learning outcomes the students are expected to have the ability to understand the issues and principles of design of experiments for studies understand experimentation designs and follow the guidelines for designing experiments contents basic design principles lectures steps in planning of an experiment exploratory hypothesis driven studies deductive inductive and abductive reasoning biological and analytical variance study design considerations for discovery and validation studies data driven discovery with examples from different domains
+predictive preventive personalised and participatory p4 and precision medicine overview of molecular diagnostics and treatment development design issues in omics experiments randomization in omics experiments replication in omics experiments sample size and power determination resource allocation pooling biological samples designs for experiments lectures experiments with one factor and multiple levels two sample experiments completely randomized design crd complete block design randomized complete block design rcbd blocking scenarios in experiments incomplete block design reference design loop design crossover designs factorial designs with two treatment factors unreplicated factorial designs confounding and blocking in factorial designs blocking in unreplicated design fractional factorial designs study designs lectures designs designs descriptive studies ecological studies design design studies cohort studies data modelling lectures types of variables modelling process model assumptions simple linear regression multiple linear regression anova interpreting the coefficients inferences about the population slope examples from studies textbook
+design and analysis of experiments edition john wiley sons reference books
+kaltenbach statistical design and analysis of biological experiments springer online course material prerequisite nil title basics of omics data analysis number bbl6410 department bioscience and bioengineering
+manuel tavares and tapia
+next generation sequencing applications and challenges
+calogero and benes single cell transcriptomics methods and protocols
+mount bioinformatics sequence and genome analysis
+vikash kumar dubey proteomics genomics nptel course material department of biosciences bioengineering indian institute of technology guwahati
+ganesh functional genomics nptel course material indian institute of technology kanpur
+sanjeeva srivastava proteomics principles and techniques nptel course material department of biosciences bioengineering indian institute of technology bombay title omics databases number bbl7121 department bioscience and bioengineering introduction to metagenomic data analysis lectures data preprocessing and quality control metagenomic data analysis workflow taxonomic profiling and community composition analysis introduction to transcriptomic data analysis lectures gene expression profiling tools for preprocessing and quality control assembly and annotation differential gene expression analysis pathway analysis functional enrichment analysis introduction to proteomic and metabolomic data analysis lectures analysis of mass spec data peptide mass fingerprinting nmr data analysis differential qualitative detecting modifications introduction to omics data integration lectures data examples challenges with data batch effect correction normalization and transformation horizontal integration schemes methods vertical integration schemes including parallel integration and hierarchical integration example on data integration laboratory experiments sessions introduction to programming genomic data analysis using variant calling functional annotation sequence alignment phylogenetic analysis visualization tools for the phylogenetic composition of microbial communities based on rrna transcriptomic data analysis quantification of gene expression generation and interpretation of multiqc report differential gene expression analysis pathway analysis
+tseng ghosh zhou xj integrating omics data cambridge university press
+barh azevedo omics technologies and elsevier reference books nardini dent je tieri data integration frontiers media sa arivaradarajan and gauri omics approaches technologies and applications integrative approaches for understanding omics data springer
+and orchard bioinformatics for omics data methods and humana press bigomics analytics omics data analysis and integration computational genomics with title sample qc and processing techniques for ngs number bbl7140 compulsory courses for semester the instructor will provide an overview sampling approaches and methods to be considered while planning an ngs experiment
+discuss various aspects of sample collection storage shipment risk assessment and appropriate handling of biological samples provide insights into the importance of sample processing and quality control in ngs studies plan and execute ngs experiments following proper sample collection extraction and quality control protocols follow all safety protocols when handling biological samples to minimize exposure and loss of sample integrity introduction to biological sample collection lectures types of biological samples simple complex mixed appropriate controls replications documentation metadata collection record maintenance anonymization ethics of biological sample collection biosafety regulations equipment practices stabilization and preservation of samples transportation storage effects of preservation storage waste management standards etc
+sample processing quality control lectures avoiding biases during sample processing nucleic acid extraction lysis methods nucleic acid quantification quality assessment for next generation sequencing spectrophotometry electrophoresis based approaches fluorescence based approaches relevant instrumentation strengths limitations of various quality control methods automation of sample processing
+designing sample collection and processing workflow seminar series presentations by the class on comprehensive pipeline for sample collection processing and quality control general lab safety biosafety equipment and practices sample collection documentation storage stabilization packaging shipping nucleic acid extraction from simple bacteria complex tissue yeast mixed samples soil stool
+nucleic acid quality control differences between stored fresh stabilized samples spectrophotometry agarose gel electrophoresis assays
+nucleic acid fragmentation assessing size distribution of fragmented dna
+size selection of fragmented dna left sided selection right sided selection barker
+at the bench cold spring harbor laboratory press
+title advanced omics data analysis number bbl7150 prerequisite basics of omics data analysis
+next generation sequencing and data analysis springer pahuja icmr guidelines for good clinical laboratory practices gclp icmr centers for disease control and prevention
+biosafety in microbiological and biomedical laboratories
+government printing office
+research review articles provided by the instructor title research applications number bbl7160 regions of ribosomal rna microbiome variability and composition analysis functional metagenomics analysis omics data integration lectures matrix factorisation factorisation with components and loading vectors canonical correlation analysis cca methods of integration perform genomics data retrieval from public repositories perform and quality assessment using trimmomatic tool annotation of vcf file using qiime2 pipeline for taxonomy classification perform alpha beta diversity analysis perform association analysis perform functional enrichment analysis perform single cell transcriptomic data analysis perform of two or more datasets that are measured across the same samples using mixomics package
+cao ka welham zm multivariate data integration using methods and applications with the mixomics package crc press vahabi michailidis unsupervised data integration methods comprehensive review
+pmid title introduction to ngs applications and genomic analysis tools number bbl7170 and applications type elective understand the various applications of technologies explores applications of omics in bioinformatics cancer research and therapy molecular biology and neurosciences application areas of ngs sequencing functional genomics lectures epigenomics lectures hereditary diseases diagnostics and prenatal testing lectures plant genomics lectures population genomics lectures complex diseases lectures metagenomics lectures gene environment interaction lectures nutrigenomics lectures pharmacogenomics lectures sociogenomics lectures ayurgenomics lectures structural genomics and drug discovery lectures barh blum and madigan
+omics biomedical perspectives and applications
+taylor francis barh azevedo zambare
+omics applications in biomedical agricultural and environmental sciences
+taylor francis romualdi calura risso hautaniemi finotello data integration in oncology
+frontiers media sa
+for health and disease open session of the annual meeting of the national advisory council for human genome research nachgr hu and weiping
+profiling the way toward precision medicine in metabolic
+journal of molecular cell biology
+elective courses for semester title statistics for clinical interpretation from omics data number bbl7180 department bioscience bioengineering technologies and applications type elective independently choose the appropriate ngs experiments for their specific research applications perform appropriate library preparation protocols that are required to address different research objectives
+fundamentals of ngs library construction lectures features of ngs libraries library preparation technologies indexing and multiplexing library validation and quality control library normalization and pooling common challenges in library preparation best practices for library construction
+library preparation methods lectures workflow tagmentation based workflow target enrichment workflow whole genome sequencing for large and small genome whole exome sequencing whole transcriptome sequencing small rna sequencing gene expression profiling rna exome enrichment ribosome interactions ngs experimental design lectures case study metagenomics experiment design case study transcriptomics experiment design case study whole genome sequencing experiment design experimental design challenges and troubleshooting
+insights on onboard instrument analysis solutions lectures benchtop sequencer local manager introduction analysis modules dashboard introduction result folder file structure analysis files details
+next generation sequencing and data analysis
+woyke and fierer
+metagenomics methods and protocols springer protocols
+the human genome user guide academic press
+introduction to genomics oxford university press
+library preparation for next generation sequencing review of automation strategies
+ho cui etal
+sequencing analysis using sequencing data
+prerequisite basics of omics data analysis title microbial genomes microbiomes number bbl7370 title principles of drug discovery number bbl7140 csl7xx1 csl7xx2 review research articles as prescribed by the instructor ganesh functional genomics nptel course material department of biological sciences and bioengineering indian institute of technology kanpur title transcriptome data analysis number bbl7150 department bioscience bioengineering prerequisite nil
+department of computer science stanford university illustrate the intricacies involved in choosing the right transcriptomic platform and will highlight the key steps of data analysis
+analyse various types of transcriptomic dataset and draw biological meaning from the data fractal introduction to microarray data gene expression biology the technical foundations types of cdna arrays affymetrix genechips microarray platforms designing microarray basic steps lectures steps importance microarray data background correction data normalization lectures analysis identification of differentially expressed genes classifying samples from two populations grouping genes lectures
+fractal introduction to rna sequencing data sequencing chemistries choosing the right method for an application principal considerations while designing an rna sequencing experiment lectures quality control sequence quality scores steps considerations fastqc filtering trimming of reads detecting contaminants removing adapters red flags troubleshooting lectures reference mapping alignment tools assessment of alignment statistics manipulating alignments visualizing alignments lectures de novo assembly transcriptome reconstruction inherent complexities lectures considerations for de novo assembly lectures de bruijn graph assembly tools bioconductor for data analysis lectures fractal gene expression analysis annotation counting reads per transcript lectures differential gene expression importance of biological technical replicates graphical representation lectures detecting rnas methods for detecting rnas lectures applications of rna sequencing transcriptome response profiling finding splice variants detecting allele specific expression in disease lectures
+simon korn mcshane radmacher wright zhao
+title metabolomics and proteomics number bbl7160 department bioscience bioengineering design and analysis of dna microarray investigations new york
+korpelainen tuimala somervuo huss wong data analysis practical approach crc press
+wang sequencing data analysis crc press hackenberg and aransay
+bioinformatics for high throughput sequencing springer new york material
+microarray based dna detection analysis tutorial by university minnesota
+introduce metabolomics as discipline highlighting some methods for data generation analysis and interpretation
+introduce the biological databases commonly encountered in proteomics research and will highlight how different data types are used across biology
+choose the appropriate method to qualitatively or quantitatively analyze the metabolome and proteome from different biological samples
+store retrieve biological data in from relevant databases and process it for analyses metabolomics data analysis lectures mass spectrometry for metabolite profiling lectures liquid gas chromatography separation technologies lectures capillary electrophoresis based separation technology lectures nuclear magnetic resonance in profiling lectures single cell metabolomics lectures processing of data for analysis statistical analysis lectures lifestyle disease biomarker identification lipidomics mass spectrometry for proteomics lectures basic principles lectures ionization methods lectures mass analyzers mass spectrometers lectures analysis of ms data analysis of data lectures simple vs complex samples lectures lectures clinical samples extraction methods preparation metabolic markers of disease comparative metabolomics metabonomics case studies qualitative proteomics differential detecting modifications interactomics lovric introducing proteomics from concepts to sample separation mass spectrometry and data analysis
+fan lane higashi eds the handbook of metabolomics twyman principles of proteomics edition crc press conn ed
+handbook of proteomic methods springer sussulini ed metabolomics from fundamentals to clinical applications title protocols for clinical next generation sequencing applications number bbl7190 sanjeeva srivastava proteomics principles and techniques nptel course material department of biosciences bioengineering elective courses for semester title precision medicine number bbl7200 indexing pcr dna cleanup size selection library pooling library qc denaturation and dilution ngs run set up onboard data analysis
+exome library preparation dna isolation purification qc library preparation for targeted enrichment library qc denaturation and dilution sequencing run set up onboard data analysis
+sivasubbu scaria exome sequencing analysis and interpretation handbook for clinicians
+pract cardiovasc sci
+guide to clinical next generation sequencing
+elsevier academic press
+reference book wong next generation sequencing translation to clinical diagnostics springer boegel hla typing methods and protocols springer
+online course materia
+melton and spirk
+obtaining high quality dna from diverse clinical samples
+sequencing library preparation from ffpe tissue samples
+apply genomics data analysis approach to determine treatment response
+leverage public repositories to explore data to apply personalized technologies for precision treatment
+learn about translational precision medicine fundamentals of precision medicine lectures understanding human genome variability and phenotype consequences germline and somatic mutations clinical relevance of mutations acmg and amp guidelines for variant classification ethical legal and social implications precision approaches for oncology infectious diseases metabolic disorders and neurosciences objectives of precision oncology variability in drug response
+genomics for precision medicine lectures monogenic disease diagnosis molecular classification of tumors drug response prediction and selecting optimal treatments identification disease classification pathway analysis monitoring disease progression predicting disease risk practice of genomic medicine in clinic lectures basics of genetics and genomics from variants affecting health and disease to medicine
+pharmacology mechanism of action clinical decision making research and advancements in the field population health introduction to integrative clinical and data analysis targeted drug discovery and development lectures introduction to cheminformatics target identification structure prediction variant analysis chemical protein databases virtual and targeted screening precision docking and downstream analysis
+pharmacovigilance lectures identification of target population data collection on the use of precision medicine with reported effects monitoring adverse effects data analysis identification of potential safety concerns risk benefit profile reporting of findings to regulatory agencies mitigating risk associated with the use of precision medicine medicine withdrawal need of continuous monitoring of precision medicine usage
+perform molecular biology techniques in simulated environment such as next generation sequencing expression of therapeutic proteins
+explore big data repositories for multi omics data variant analysis patient drug response based on genetic profile clinical interpretation application of tools for structure analysis jain
+textbook of personalized medicine springer mccarthy and mendelsohn precision medicine guide to genomics in clinical practice mcgraw hill reference textbook aydogan and radosevich
+precision medicine in oncology wiley hariharan
+genomic quirks iisc press and strand life sciences kosorok michael and eric laber
+precision annual review of statistics and title computational personal genomics number bbl7210 its application vol
+crossref modeling cancer precision medicine tcga liver cancer precision oncology title artificial intelligence ai in healthcare number shl7140 interpretation confounder correction and imputed association prs calculation estimate heritability using regression
+hartl and clark
+principles of population genetics
+applied statistical genetics with for association studies
+springer isbn available as an self learning materials title based rational drug discovery number bbl7220 study gene expression regulation using dnn labs protein classification using labs design and implement algorithm for protein structure prediction labs apply to classify cancer subtypes using imaging or signal data labs
+shortliffe james cimino biomedical informatics edition arjun
+machine learning and ai for healthcare big data for improved health outcomes eric topol
+deep medicine how artificial intelligence can make healthcare human again basic books ny
+material ai in healthcare specialization course title computational structural bioinformatics number bbl7230 pdb alphafold db zinc pubchem chembl ucsf chimera for biomolecular visualization open targets genetics cheminformatics using smiles notation smarts highlight substructural bold text highlight atoms based on attributes search chemical databases toxicity using pkcms molecular docking using vina drug likeness and admet analysis using swissadme toxicity interaction prediction
+brown artificial intelligence in drug discovery royal society of chemistry edition
+chang artificial intelligence for drug development precision medicine and healthcare taylor francis group edition
+leach molecular modelling principles and applications prentice hall edition
+ramsundar eastman walters pande deep learning for the life sciences applying deep learning to genomics microscopy drug discovery and more media edition
+ai drug discovery decision support ibm watson health
+deep learning for drug discovery title applications of omics in plant science number bbl7240 introduction to structural biology related resources structure macromolecules structural diversity polypeptide conformation secondary structures folds interactions and stability
+structure determination methods
+macromolecule structure data pdb pisa eppic qsalignweb pfam rfam
+structure modeling interactions and docking lectures computational structure prediction homology modeling threading alphafold diversity of interactions docking ppi databases biogrid string dynamics mmalign kpax evolutionary studies sequence and structure conservation lectures
+structure dynamics and flexibility simulating predicting suitable conformations complexes lectures
+laboratory experiments sessions
+accessing macromolecular structure data from pdb and visualizing in mol
+prediction of protein structure model from amino acid sequence
+docking and analysis molecule docking and analysis
+analysis of the effect of mutation in protein interactions mutation modeling
+structure alignment and comparison
+predicting suitable conformations of complexes
+bioinformatics sequence and genome analysis
+introduction to bioinformatics oxford university press
+molecular modelling principles and applications prentice hall
+encyclopedia of bioinformatics and computational biology elsevier sno
+certificate certificate diploma certificate certificate together fee for indian lakhs lakhs lakhs materials
+program fee structure certificate basics of next generation omics technologies and applications certificate advanced next generation omics technologies and applications fee for foreigner participant will be higher than that for indian participant immersion fee of inr will be charged
+immersion fee covers administrative costs
+it does not include students lodging and food costs
+immersion is mandatory for certificate and diploma students

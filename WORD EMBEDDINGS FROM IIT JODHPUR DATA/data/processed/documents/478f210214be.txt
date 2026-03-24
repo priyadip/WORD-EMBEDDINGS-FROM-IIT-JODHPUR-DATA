@@ -1,0 +1,10 @@
+research seminar by neha gupta august at title of the talk counting processes date time venue august at pm seminar hall dept
+of mathematics abstract the poisson process is fundamental process widely used to model count data
+in recent years subordinated poisson as the poisson process the poisson process and the fractional poisson attracted significant attention from researchers
+in this talk we present several variants of generalized counting processes focusing on versions of the fractional poisson process and other generalized counting processes where the time changes are introduced via an independent subordinator and its inverse
+we also highlight our current work on the tempered version of the hawkes process and its generalized form
+about the speaker neha gupta currently affiliated with bombay and iim indore as research scientist on the bharatgen project
+prior to this she was postdoctoral researcher at iit kanpur and before that she was research associate at isi delhi
+neha gupta earned her from iit ropar
+her research interests lie in fractional stochastic processes and subordinated versions of certain counting processes
+title of the talk counting processes date time venue august at pm seminar hall dept

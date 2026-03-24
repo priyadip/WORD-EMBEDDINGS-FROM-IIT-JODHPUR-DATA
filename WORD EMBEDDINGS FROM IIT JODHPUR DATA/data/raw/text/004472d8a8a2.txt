@@ -1,0 +1,37 @@
+SOURCE_URL: http://dilpreetkaur@iitj.ac.in/dia/en/network
+
+Network & Cybersecurity
+Network & Cybersecurity
+Network & Cybersecurity
+Network & Cybersecurity
+The entire campus network at IIT Jodhpur runs on a high-speed backbone with a capacity of up to 10 Gbps. The DIA manages internet leased lines with bandwidths of up to 9 Gbps from Airtel, PGCIL, NKN and BSNL, ensuring reliable and fast internet access for students, faculty, staff, guests, and visitors from other institutions. LAN and Wi-Fi services (802.11/b/g/n) are available throughout the campus, including both academic and residential areas. Additionally, the DIA supports an IP-based telephony system for communication among faculty, Group A officers, departments, and various offices. CCTV surveillance and access control systems are implemented at various locations to restrict unauthorized entry and safeguard institutional resources. To ensure the security of the campus network, IIT Jodhpur is equipped with a strong network firewall and regularly conducts cybersecurity awareness programs. Network Services DIA Recommended Practices: Please be cautious about opening any external and spam emails (External and Spam tags will be filtered by our email providers). Never give out your account password to anyone. Visitors and guests are given a guest ID with a time limit and EDUROAM facility is also available on the campus. Always use 2FA whenever possible with complex passwords. Keep all your systems (Laptop/Desktop/Mobile) always updated with latest versions. It’s recommended to use antivirus software in your systems. Scan the removable media with Antivirus software before accessing. HPC policy must be followed while using the facilities. Internet Surfing: Avoid bypassing campus firewall protection by using proxies or other online resources. Limit and control the use/exposure of personal information while accessing social media and networking sites. Always check the authenticity of the person before accepting a request as friend/contact. Network switches and Wi-Fi access points and routers should never be installed without involving DIA. Faculty members purchasing rack servers or storage must install them in the Centralized Data Center for better utilization of cooling and UPS needs and a DIA representative must include at PIC.
+The entire campus network at IIT Jodhpur runs on a high-speed backbone with a capacity of up to 10 Gbps. The DIA manages internet leased lines with bandwidths of up to 9 Gbps from Airtel, PGCIL, NKN and BSNL, ensuring reliable and fast internet access for students, faculty, staff, guests, and visitors from other institutions. LAN and Wi-Fi services (802.11/b/g/n) are available throughout the campus, including both academic and residential areas. Additionally, the DIA supports an IP-based telephony system for communication among faculty, Group A officers, departments, and various offices. CCTV surveillance and access control systems are implemented at various locations to restrict unauthorized entry and safeguard institutional resources. To ensure the security of the campus network, IIT Jodhpur is equipped with a strong network firewall and regularly conducts cybersecurity awareness programs.
+DIA Recommended Practices:
+Please be cautious about opening any external and spam emails (External and Spam tags will be filtered by our email providers).
+Never give out your account password to anyone.
+Visitors and guests are given a guest ID with a time limit and EDUROAM facility is also available on the campus.
+Always use 2FA whenever possible with complex passwords.
+Keep all your systems (Laptop/Desktop/Mobile) always updated with latest versions.
+It’s recommended to use antivirus software in your systems.
+Scan the removable media with Antivirus software before accessing.
+HPC policy must be followed while using the facilities.
+Avoid bypassing campus firewall protection by using proxies or other online resources.
+Limit and control the use/exposure of personal information while accessing social media and networking sites.
+Always check the authenticity of the person before accepting a request as friend/contact.
+Network switches and Wi-Fi access points and routers should never be installed without involving DIA.
+Faculty members purchasing rack servers or storage must install them in the Centralized Data Center for better utilization of cooling and UPS needs and a DIA representative must include at PIC.
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM
+Last Updated : 10 Mar 2026 - 03:16 PM
+Last Updated : 10 Mar 2026 - 03:16 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

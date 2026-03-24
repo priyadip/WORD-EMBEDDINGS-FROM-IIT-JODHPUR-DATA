@@ -1,0 +1,10 @@
+research seminar by nishant kumar on july at am title of the talk bridging physics and numerics the way date time july am seminar hall dept
+of mathematics abstract the ph system framework provides geometric foundation for modelling conservation laws in physical systems particularly those with energy exchange through boundaries
+in this talk will introduce novel discontinuous galerkin dg framework for discretizing distributed parameter ph systems the discontinuous galerkin finite element method
+this approach yields formulations while offering flexibility in geometry and function spaces
+the explicit treatment of boundary ports in the ph formulation simplifies the design of numerical fluxes
+thus this method has twofold advantage first it provides flexible structure preserving discretization technique for ph systems and second it provides solution to the challenge of dissipative numerical flux in discontinuous finite element methods
+about the speaker nishant kumar is research geophysicist at shell india working in the imaging and inversion group where he develops hybrid methods that combine data science and computational physics to solve pdes governing geophysical processes
+he has completed his at the university of twente in the mathematics of computational science group focusing on numerical methods developing the novel discontinuous galerkin method
+his interests lie at the intersection of machine learning structure preserving finite element methods and inverse problems with strong drive to bridge theoretical insights with applications
+title of the talk bridging physics and numerics the way date time july am seminar hall dept

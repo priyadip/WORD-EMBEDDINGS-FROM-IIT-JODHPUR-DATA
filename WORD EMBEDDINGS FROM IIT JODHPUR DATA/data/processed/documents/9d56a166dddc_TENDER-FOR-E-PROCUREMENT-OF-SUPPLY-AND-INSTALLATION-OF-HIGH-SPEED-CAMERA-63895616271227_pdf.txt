@@ -1,0 +1,20 @@
+indian institute of technology jodhpur tender for of supply and installation of high speed camera bids to be submitted online cppp for technical and financial bid as per schedule of requirement nit no dated october office of stores purchase iit jodhpur institute building east nagaur road karwar jodhpur rajasthan open tender notice no
+nit dated october tender type open tender category goods of contract sell buy product category high speed camera is multi currency allowed yes date of hrs document start date hrs document end date hrs last date and time for uploading of bids hrs date and time of opening of technical bids hrs no
+email address for correspondence schedule indian institute of technology jodhpur hereinafter referred to as the institute an educational institute of national importance invites online bids in format for supply and installation of high speed camera at the institute as per the technical specifications given in the to the tender form
+each bidder should be marked with the following reference on the top bids submitted online dated october
+invitation for tender offers for supply and installation of high speed camera the bidders are requested to give detailed tender in two bids
+rupees one lakh twenty thousand only in favour of the director
+parameters required specifications item
+ultra framerate no
+sensor type cmos monochrome sensor full resolution pixels square sensor maximum frames per second at full resolution fps or more frame rate at pixels fps or more with recording time of secs or more maximum frames per sec at minimum resolution it should be possible to use camera at fps or more at pixels
+internal storage minimum gb pixel size or higher light sensitivity iso monochrome or more quantum efficiency more than at nm minimum frame rate the camera should have the capability to go down up to fps bit depth monochrome mount mount to be provided exposure time must be less than to ns and must be independent of frame rate shutter control software user friendly software with gui is required to be quoted to control the camera should also allow playback of the recorded videos connectivity option high speed ethernet interface memory partitions up to memory segments or higher triggering option trigger software trigger signals programmable ports for strobe event trigger output ready operating temperature up to degrees image calibration the software should allow image calibration for measurement of distance and angle from the image
+image overlay the software should be able to store reference image that can be overlaid on the live image to allow accurate camera positioning to achieve the same view as previous test
+weight kg annexure technical compliance sheet technical specifications for high speed camera camera ultra framerate imaging system below are the requirements of camera system which should include ultra framerate camera camera mm head tripod transit case pulsed illumination light source for accurate synchronization of camera and light source
+warranty minimum one year from the date of installation installation onsite installation and commissioning at iit jodhpur performance memory upgrade the quoted camera must have the possibility for performance memory upgrade in future
+best make available focal length mm aperture range camera mount ze item
+best make available head heavy duty tripod for mounting the camera item
+pulsed illumination light no
+power led luminous flux white lumens mode continuous pulsed heat dissipation active heatsink and fans controller for pulsed illumination to be quoted other terms and conditions the bidder is required to quote for standard and optional essential accessories
+the need to submit the details of similar machine supplied to govt
+warranty period the for the supplied equipment shall be valid for one year from the date of satisfactory installation commissioning and handing over to the institute
+agency name address is engaged in the business of manufacturing reselling of equipment providing services

@@ -1,0 +1,405 @@
+SOURCE_PDF: 99092f015bdd_Courses1-638755736882535695.pdf
+
+Department of Physics
+Indian Institute of Technology Jodhpur
+Two-year M.Sc. Program
+Courses
+July 2019
+
+Topic Cloud
+
+Topic Cloud Details
+Fundamental Physics
+1.
+Mathematical Physics
+2.
+Classical Mechanics
+3.
+Quantum Mechanics
+4.
+Statistical Physics
+5.
+Electronics
+6.
+Electrodynamics & STR
+7.
+Condensed Matter Physics
+8.
+Physics of Atoms & Molecules
+9.
+Nuclear & Particle Physics
+Multidisciplinary Science and Technology
+1.
+Computational Physics (Fractals with ME & Maths)
+2.
+High Energy Physics and Space Science
+●
+Introduction to Space Science
+●
+Particle Physics
+●
+Neutrino Telescope
+●
+X-ray Astronomy
+●
+Cosmology
+3.
+Nanoscience & Nanotechnology (Fractals with MT & CY)
+4.
+Advanced Condensed Matter Physics
+5.
+Introduction to Materials Characterization (Fractals with MT)
+6.
+Introduction to Medical Physics (Optical, radiation based, image analysis, MRI) (Fractals
+with BSBE, Electrical)
+7.
+Fundamentals of Plasma & Fusion Science
+8.
+Introduction to Quantum Technologies
+9.
+Laser Technologies
+10. Computational Materials Science (Fractals with MT and CY)
+11. Soft Matter Physics (Fractals with CY)
+12. Statistical methods for data analysis (Maths and Computers)
+13. Non-Perturbative Aspects of Quantum Field Theory
+14. Critical Phenomena and Renormalization Group
+Engineering Physics
+1.
+Optical Fibre Technology (Fractals with EE)
+2.
+Engineering Optics
+3.
+Energy Harvesting Technologies (Fractals with ME)
+4.
+Solar Energy Technologies (Fractals with ME)
+5.
+Quantum Optics & Engineering
+6.
+Cold Plasma Technologies
+7.
+Nuclear Engineering (Fractals with ME & EE)
+Teaching Laboratories
+1.
+Atomic & Nuclear Physics
+2.
+Condensed Matter Physics
+3.
+Electronics Laboratory
+4.
+Optics and Lasers
+5. Computational Physics
+Hands-on Experiments
+1. High-end Equipment
+2. Computational Tools
+
+Core Courses
+
+Title Mathematical Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Classical Mechanics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Quantum Mechanics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Electronics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Statistical Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Electrodynamics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Condensed Matter Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Physics of Atoms and Molecules Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Nuclear and Particle Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Elective Courses
+
+Title Engineering Optics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Introduction to Medical Physics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Provide the introduction of modern diagnostic tools and various technology to medical
+research and to the healthcare arena in general that is set to revolutionize the way we cure
+
+Title Relativistic Quantum Mechanics Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Introduction to Soft Matter Physics Number PHL6110
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Computational Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title High Energy Physics Number PHL7XX0
+Department Physics L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+
+Title Introduction to Space Science Number PHL7XX0
+Department Physics L-T-P [C] 3-0-0 [2]
+Offered for Type Elective
+Rappaport, S. A., and Elliot, J.,
+
+Title Nanoscience and Nanotechnology Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Advanced Condensed Matter Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Introduction to Material Characterization Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Magnetism and Superconductivity Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Electronic Transport in Mesoscopic Systems Number PH7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Physics of Solar Cells Number PH7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Fundamentals of Plasma and Fusion Science Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Plasma Physics: Fundamentals and Applications
+
+Title Introduction to Quantum Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Laser Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Computational Materials Science Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Soft Matter Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Statistical Methods for Data Analysis Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Optical Fiber Technology Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Energy Harvesting Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Solar Energy Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Quantum Optics and Engineering Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Satyanarayana, M. V., Department of Physics, IIT Madra
+
+Title Cold Plasma Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Plasma Physics: Fundamentals and Applications ,
+
+Title Critical Phenomena and Renormalization Group Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Non-perturbative aspects of Quantum Field
+Theory Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Nuclear Engineering Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Kannan, I., Department of Mechanical Engineering, IIT
+
+Title General Theory of Relativity Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Bertschinger, E. W., General Relativity, http://hdl.handle.net/1721.1/36859
+
+Title Particle Physics Number PHL7XX0
+Department Physics L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Elective
+
+Title Quantum Field Theory Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Astrophysics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Teaching Laboratories
+
+S. No. Name of the Experiment
+2. Recording of Hydrogen Spectra
+3. Zeeman effect
+4. Gamma Ray Spectrometer (Energy resolved)
+5. Alpha particle spectrometer (Energy resolved)
+6. Radiation Counter for Alpha and Beta Particle (ZnSe for Alpha
+And Plastic scintillation counter for beta particle)
+7. Radiation Counter for
+Gamma and Beta Particle
+8. Finding the Plateau region of GM Tube
+9. Alpha particle counter (only for alpha particle)
+10. Compton Scattering
+S. No. Name of Experiment
+1 JFET biasing and its application as an amplifier.
+2 Differential Amplifier as double ended input and single ended output. Differential
+Amplifier as single ended input and double ended output.
+3 Op-Amp circuit and inverting and non-inverting amplifiers. Find out the output
+offset voltage, maximum output current, slew rate, and power bandwidth.
+4 Summing, subtractor, differentiator, and integrator.
+5 Four types of negative feedback such as VCVS, VCIS, ICVS, and ICIS will used to
+show the reduction of non-linear distortion and output offset voltage.
+6 Active Butterworth low-pass, high-pass, wide bandpass, and narrow bandpass
+filters.
+7 Active diode circuits and comparator as peak detector, limiter, DC clamper, limit
+detector.
+8 Wave shaping circuit by using Schmitt trigger.
+9 The Wien Bridge Oscillator, LC Oscillator circuit
+10 Use of 555 timer for astable multivibrator, monostable multivibrator and construct
+an alarm circuit.
+11 Different logic gates such as NOT, AND, OR, NAND, NOR, XOR gates
+12 RS NAND latch, clocked D Latch, JK Flip Flop and verify frequency division
+function, T Flip-Flop,
+13 To study the performance of a quartz-controlled TTL clock oscillator.
+14 Monostable, astable multivibrator using TTL circuits.
+15 Half-adder, full-adder, subtractor, construction of four-bit adder, and four-bit
+adder-subtractor
+16 Use of Shift Register for showing SIPO, PIPO, and PIPO operation.
+17 Operation of a binary ripple up-counter, and down counter.
+18 Study the characteristics of a BCD to decimal decoder.
+19 To study the functioning of multiplexer and its application for the generation of
+Boolean functions.
+20 To demonstrate the functions performed by decoder using a seven segment LED
+display.
+21 To study the operation of a D/A converter based on a R/2R network
+Atomic and Nuclear Physics Laboratory (Course No. PHP6XXX)
+Electronics Laboratory (Course No. PHP6XXX)
+
+S. No. Name of Experiment
+1 Hall effect with temperature
+2 Electrical Conductivity Measurements using four probe resistivity with
+temperature
+3 Vibrational spectroscopy (Raman)
+4 Phonon Dispersion curve
+5 Band gap measurements
+6 Photoluminescence Spectroscopy studies of Materials
+7 Solar cell characterization
+8 Studies on Thermoelectric properties of materials
+9 Thermoelectric Device Characterization
+10 ESR Spectroscopy
+11 Magnetic Susceptibility Measurements
+12 Study of Thermoluminescence of F-centres in Alkali Halide crystals
+S. No. Name of the Experiment
+1. To find the wavelength of monochromatic light
+To determine the spacing between the plates of fabry Perot etalon from the fringe
+Pattern
+To find the finesse and free spectral range (FSR) of etalon from the fringe
+calibration at different cavity thickness
+2. To find the refractive index of an unknown solution.
+3. To study the birefringence with respect to applied voltage in an electro optic liquid
+4. Numerical aperture, splice loss and bending loss measurement of multi-mode
+fiber . Numerical aperture and mode field diameter measurement of single mode
+fiber . Calculation of normalized frequency or V-number of single mode fiber .
+Determination of refractive index of transparent solids
+5. To calculate the peak wavelength and spectral bandwidth of LEDs. To analyze
+emission spectrum of laser and study the peak wavelength.
+6. To find out the difference in wavelength of D1 and D2 lines of sodium light. To
+determine the wavelength of monochromatic light
+7. To determine wavelength of laser beam.
+To find refractive index of a transparent material.
+8. To study Gaussian nature of the laser beam. To find diameter (beam spot size) of
+the laser beam. To determine divergence of the laser beam.
+9. Diffraction of light by single slit, double slit, single wire, cross wire and
+transmission grating
+10. Intensity measurement as a function of analyzer angle
+Polarization study by quarter wave plate - elliptical and circular polarization.
+Polarization study by half wave plate - change of polarization axis. Verification of
+Malus' law
+Condensed Matter Physics Laboratory (Course No. PHP6XXX)
+Optics & Lasers Laboratory (Course No. PHP6XXX)
+
+S. No. Name of Experiment
+1 Implementation of nonlinear root finding techniques
+2 Interpolation techniques
+3 Curve fittings
+4 Solving ordinary differential equations
+5 Simulations of physical systems, Monte Carlo technique etc
+6 Solution of Schrodinger like equation
+7 Solution of Helmohz equation (Propagation study)
+8 Quantum Simulation
+Computational Laboratory (Course No. PHP6XXX)
+
+Hands-on Experiments
+
+S. No. Topic
+1. Amplitude and frequency modulation circuits (Digital Storage Oscilloscope)
+2. Regulated power supplies and their performance evaluation (DSO)
+3. Solar cell construction and characterization (XRD, UV-VIS, SEM, etc.)
+4. Magnetic moment detection (MPMS, PPMS, etc.)
+5. Optoelectronic Properties of Materials (Raman, PPMS)
+6. Construction of coupled prism experimental set up and demonstration of tunneling
+phenomenon
+7. Construction of telescope and observation of stellar objects
+8. Measurement of speed of light using oscillations (DSO , Fast Photodiode)
+9. Life-time of muon (Scintillation detector, Data acquisition and processing system,
+Python coding)
+10. Optical fibre characterization (Laser source, Communication Fibre, Photodetector)
+11. Optical cloaking
+12. Nanomaterials Characterization (XRD, AFM, SEM, PPMS, etc.)
+13. Paschen Curve -Dependence of break-down voltage on the pressure and inter-
+electrode gap for a given gas in plasma discharge
+14. Measurement of Plasma parameters by electrostatic probe
+15. Characterization of DC magnetron discharge and estimation of sputtering yield
+16. Generation and characterization of non-thermal and non-equilibrium cold plasma
+Hands-on Experiments (High end equipments) (PHL6XXX)
+
+S. No. Topic
+1. Ray tracing for design of solar concentrator
+2. Use of COSMOL software for macroscopic multiphysics phenomena
+3. Rsoft software for visualization of optical components and devices
+4. Optifibre for visualization of optical communication through optical fibres
+5. Design of optoelectronic materials using DFT
+6. Molecular dynamics simulation using LAMMPS and GROMACS
+7. Simulation of magnetic domains using Micromagnetics
+8. Gamma ray burst (GRB) data analysis from the Fermi-GBM space telescope.
+Gamma ray burst (GRB) data analysis from the Fermi-GBM space telescope.
+Hands-on Experiments (Computational Tools) (PHL6XXX)

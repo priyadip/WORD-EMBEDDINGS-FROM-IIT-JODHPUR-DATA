@@ -1,0 +1,13 @@
+congratulations to vivek vijay and brajesh shukla for the acceptance of their research article in the journal ieee xplore title comparison of four approaches to evaluate the movement authors brajesh shukla hiteshi jain vivek vijay sandeep yadav arvind mathur david hewson journal ieee xplore year publisher ieee computer society abstract the test sts is simple test of function in older people that can identify people at risk of falls
+the aim of this study was to develop two novel methods of evaluating performance in the sts using rgb camera and another an instrumented chair containing load cells in the seat of the chair to detect center of pressure movements and ground reaction forces
+the two systems were compared to kinect and force plate
+younger subjects were tested when performing two movements at slow and normal speeds while older fallers were tested when performing one at selfselected pace
+all methods had acceptable limits of agreement with an expert for total sts time for younger subjects and older fallers with smaller errors observed for the chair and force plate than for the rgb camera and the kinect for older fallers
+the chair had the smallest limits of agreement compared to the expert for both younger and older participants
+the new device was also able to estimate movement velocity which could be used to estimate muscle power during the sts movement
+subsequent studies will test the device against systems incorporate additional sensors and then develop predictive equations for measures of physical function
+title comparison of four approaches to evaluate the movement authors brajesh shukla hiteshi jain vivek vijay sandeep yadav arvind mathur david hewson journal ieee xplore publisher ieee computer society abstract the test sts is simple test of function in older people that can identify people at risk of falls
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

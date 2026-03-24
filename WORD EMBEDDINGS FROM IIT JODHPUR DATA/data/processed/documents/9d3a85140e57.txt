@@ -1,0 +1,17 @@
+research seminar by vidya sagar on nov at pm title of the talk construction of certain binary linear codes and their applications date time nov at pm abstract in recent years the study of linear codes over finite rings has attracted significant attention due to their rich algebraic structure and their potential to yield efficient classes of binary codes
+in this seminar we begin by exploring construction of linear codes over finite ring and discuss the underlying algebraic framework that makes these constructions particularly interesting
+we obtain many families of binary linear codes with desirable properties
+several structural features and parameters of these codes will be analyzed
+finally we highlight some interesting applications of these binary codes
+about the speaker vidya sagar obtained his
+in mathematics from xavier college ranchi in and
+in mathematics from the indian institute of technology jodhpur in
+he completed his in the department of mathematics indian institute of technology delhi under the supervision of ritumoni sarma july november
+after submitting his doctoral thesis he served as visiting researcher at the indian statistical institute delhi and subsequently as an fellow at iit delhi
+he was an fellow at the indian institute of science bangalore december and later at the school of mathematics southwest jiaotong university china june
+his research interests lie primarily in algebraic coding theory
+title of the talk construction of certain binary linear codes and their applications date time nov at pm abstract in recent years the study of linear codes over finite rings has attracted significant attention due to their rich algebraic structure and their potential to yield efficient classes of binary codes
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

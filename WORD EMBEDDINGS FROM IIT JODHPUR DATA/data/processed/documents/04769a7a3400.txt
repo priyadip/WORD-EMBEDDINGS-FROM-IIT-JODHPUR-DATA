@@ -1,0 +1,21 @@
+all research highlights novel multipath mitigation technique for gnss signals in urban scenarios global navigation satellite system gnss based positioning technologies are poised to play crucial role in providing location based services that are used for strategic purposes emergency services and for commercial purposes
+in urban and suburban settings presence of multiple reflectors and scatterers like buildings towers vehicles trees cause the transmitted signal to reach gnss receiver through multiple paths
+gnss receiver while tracking the navigation signal can potentially get locked to any of the signal replicas coming from the transmitter leading to range error in the navigation solution
+therefore multipath propagation poses serious threat to the accuracy of position solutions determined by gnss receivers
+in recent study professor arun kumar singh and his group from the indian institute of technology iit jodhpur has proposed novel multipath mitigation technique that provides significant improvements in range accuracies over the current state of the art techniques like narrow correlator nc and high resolution correlator hrc or double delta correlator
+the performance improvements are valid for general multipath models encountered in the channels
+the performance guarantees include closed form expressions for the probability of correct delay estimate and simulation results for the average range error variation with respect to carrier to noise ratio cnr signal bandwidth and different channel settings
+the range error caused due to multipath propagation can be dealt with in two possible multipath estimation or multipath mitigation
+in general multipath estimation techniques involve optimization of the conditional probability function over range of multipath delays amplitudes and phases their computational complexity is very high and they are not suitable for implementation on smart devices that operate with limited power
+the current multipath mitigation techniques include nc and hrc
+nc and hrc perform reasonably well in the scenarios where the number of multipaths is small and line of sight los component has highest amplitude amongst all multipaths
+in most pertinent urban scenarios there can be large number of multipath and los may not always have the highest power among all the paths
+therefore novel multipath mitigation solutions were needed to overcome limitations of current techniques
+the present study to be published in ieee transactions on vehicular technology provides novel multipath mitigation technique that is able to estimate ranges with very high probability even in the presence of multipaths
+the proposed technique provides improved accuracy as compared to the currently known best multipath mitigation techniques
+the performance guarantees hold for the cnr of as low as for the typical vehicle speeds kmph as well as for high speeds kmph and for different multipath scenarios including urban metropolitan environments
+in the proposed technique double differentiated correlation function based histogram output is used to estimate the range
+the statistical independence of channel parameters which change after every coherence time is exploited in order to improve the probability of correct estimate
+the results are validated using both statistical models from ieee and measurement based land mobile satellite channel models developed through field trials by dlr germany and also standardized by international telecom union itu
+the new technique will be pave way for use of gnss receivers in urban scenarios for future generation smart vehicles and high accuracy based location services
+global navigation satellite system gnss based positioning technologies are poised to play crucial role in providing location based services that are used for strategic purposes emergency services and for commercial purposes

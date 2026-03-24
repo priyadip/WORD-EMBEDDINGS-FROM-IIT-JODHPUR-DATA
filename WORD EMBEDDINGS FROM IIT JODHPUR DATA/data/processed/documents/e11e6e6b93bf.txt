@@ -1,0 +1,10 @@
+congratulations to moumita mandal for the acceptance of her research article in the journal international journal of nonlinear analysis and applications title projection and methods for second kind integral equation authors mandal kant and nelakanti journal international journal of nonlinear analysis and applications volume in press year publisher semnan university abstract in this article we discuss the piecewise polynomial based galerkin method to approximate the solutions of second kind integral equations
+we discuss the convergence of the approximate solutions to the exact solutions and obtain the orders of convergence and respectively for galerkin and its iterated galerkin methods in uniform norm where denote the norm of the partition and smoothness of the kernel respectively
+we also obtain the superconvergence results for and iterated methods
+we show that iterated method has the order of convergence in the uniform norm
+numerical results are provided to demonstrate the theoretical results
+title projection and methods for second kind integral equation authors mandal kant and nelakanti journal international journal of nonlinear analysis and applications publisher semnan university abstract in this article we discuss the piecewise polynomial based galerkin method to approximate the solutions of second kind integral equations
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

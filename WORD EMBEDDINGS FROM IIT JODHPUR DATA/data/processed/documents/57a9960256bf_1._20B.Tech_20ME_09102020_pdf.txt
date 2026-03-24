@@ -1,0 +1,140 @@
+indian institute of technology jodhpur year
+mechanical engineering curriculum structure
+introduction reckoned as one of the most versatile engineering disciplines mechanical engineering virtually touches every aspect of modern life from mobile phones and biomedical devices to aircrafts and power plants
+while design and manufacturing involves design of mechanisms and the analysis of materials systems include methods of energy conversions heat transfer and fluid flow
+our faculty are involved in wide range of projects in the areas of energy conversion and power systems heat transfer and fluid mechanics mechanics of solid mechanical vibrations robotics autonomous unmanned vehicles design optimization acoustics and noise control control systems rotor dynamics materials and applications biomechanics bio inspired thermofluids fluid structure interaction etc
+additionally efforts are being made to introduce advance concepts like smart manufacturing industry computational techniques computing applications of artificial intelligence machine learning algorithms sensors and iot as part of solving mechanical engineering problems
+keeping balance between theory and the department intends to provide its students solid foundation in core as well as emerging areas of mechanical engineering by inspiring critical thinking and nurturing problem solving skills
+objective of the program the key objectives of this program are
+to integrate analytical and computational ability with experimental skills to create individuals competent in professional engineering practices to stimulate critical thinking towards application of mechanical engineering concepts in interdisciplinary problem solving to expose students to advanced concepts like ai ml industry and iot for product and system design to inculcate an attitude towards commitment to engineering ethics leadership qualities and professional
+expected graduate attribute graduates of program in mechanical engineering will have
+awareness of grassroots problems of the society and ability to provide technological solutions of sustainable
+be introduced to concepts including engineering design optimization sensors fabrication computational methods simulation tools systems and industry thermal systems fluid flow energy materials and smart computing for various applications
+be exposed to common problems that are prevalent in the domains of energy storage systems and devices clean energy and materials and applications futuristic technology and advanced scientific computation methods allowing them to innovate and develop technological solutions for the same
+receive effective laboratory training as part of laboratory courses and research projects
+design develop and manufacturing of new or modified components for mechanical systems using aided manufacturing
+familiarity with advanced and futuristic scientific computing techniques area topics category techniques ems course design stress strain bending torsion core mechanics of solid pc hydraulic and pneumatic systems mechatronic systems core and techniques control of mechanical systems pc geometric functional requirements theory of failures design and selection of machine elements core and techniques design of machine elements pc
+topics and mapping of topic with courses mechanism synthesis motion analysis force analysis gear trains cams dynamics of cylinder engines core and techniques kinematics dynamics of machines pc engineering mechanics core engineering mechanics ie advanced concepts of stress analysis analysis of systems such as rotating disks thick cylinders etc
+core advanced mechanics of solids pe galerkin methods finite element methods techniques finite element methods and applications pe mechanical vibrations of one two and multi degree of freedom systems types of damping vibration control core mechanical vibrations pe noise control of various engineering applications core and techniques techniques of noise control pe advanced theories in vibration core principles and techniques of vibration control pe theory of helicopter flight techniques and technology helicopter dynamics pe kinematics kinetics of microsystem deformations core and techniques mechanics mechanical behaviours displayed by soft materials and tissues core and techniques mechanics of soft materials pe product life cycle product design core and techniques product design and feasibility modal analysis measurement techniques techniques experimental modal analysis pe curves surfaces and solid modeling core systems and techniques computer aided design systems systems and technology mechatronics pe biomechanical systems systems and techniques principles of biomechanics pe control system systems and techniques control systems pe experimental robotics systems and techniques introduction to robotics dynamics of rotating machines core and systems rotor dynamics links mechanisms and dynamics in vehicles systems vehicle dynamics pe nonlinear phenomena and solutions bifurcation and stability chaos core and techniques nonlinear oscillations and chaos pe theory of sound generation propagation and reception
+systems introduction to acoustics manufacturin theory of casting welding and forming core and techniques manufacturing process principles in production operations management core and techniques production and operations management pc techniques in machining science and metrology core and techniques machining science and inspection technology principles of smart manufacturing core and techniques smart manufacturing principles of digital fabrication core and techniques digital fabrication pc manufacturing lab core and and systems lab pc machining lab core and techniques machining and automated manufacturing lab pc casting and allied processes technology core and technology casting and allied processes pe welding science and technology technology core and technology welding science and technology pe manufacturing technology core and technology manufacturing pe design and manufacturing of bio materials core and technology design and manufacturing of bio principles of computer integrated manufacturing core and technology computer integrated non traditional machining process technology core and technology non traditional machining process pe tool design techniques core and technique tool design pe modeling and cad in product design technique and technology geometric modeling and cad modeling and control of robot manipulators technique and technology robotics pe cnc technology in manufacturing technique and technology technologies for additive rapid manufacturing technique and technology additive manufacturing micro systems and its manufacturing techniques technique and technology mems microsystem technologies pe modern methods of forming technologies technique and technology micro forming techniques pe precision manufacturing mechatronic system design precision and micro manufacturing pe elements of mechatronic system design mechatronic system design mechatronic system design pe applied ergonomics core and technology applied ergonomics pe design for manufacturing core and technology design for manufacturing welding metallurgy technology welding metallurgy pe forming technology core and technology fundamentals of metal forming technology pe thermofluids fluid statics kinetics inviscid and viscous flow turbulence and compressible flows core and techniques fluid mechanics pc conduction convection radiation boiling condensation core and techniques heat transfer pc thermodynamics core thermodynamics pc heat engines and power plant cycles turbomachines refrigeration and conditioning systems and technique thermofluids engineering turbines pumps compressors systems and technique turbomachinery pe combustion engines systems and technique automotive propulsion pe refrigeration cycles and conditioning systems systems and technique refrigeration and conditioning pe cycles in power plant and energy conversion systems systems and technique power plant engineering pe fluid dynamics in porous media core and technique porous media flows and applications pe computational techniques for heat and fluid flow core and technique computational fluid dynamics and heat transfer pe solar energy systems technique and technology solar thermal systems liquid transport in nano flows core and techniques flows pe exposer to various sensors and equipments used in micro system analysis core and techniques micro fluidics lab pe characterizing of sensors based on nanomaterials technique and technology nano sensors pe energy sources and technologies technique and technology sources of energy and emerging technologies fuel combustions premixed flames core and techniques combustion technology fluid flow measurement systems and techniques fluid mechanics lab pe heat transfer measurements systems and techniques heat transfer lab pe measurements in various thermofluids equipment systems and techniques thermofluids lab pe course type course category regular
+project pp open open electives oe engineering science engineering science core engineering science elective ee total graded humanities nh engineering ne experience nd total graded
+programmes contact hour for projects refers to the involvement of students in the laboratory discussion etc
+no course name ltp contact hours credit fluid mechanics fluid heat transfer heat thermofluids engineering thermofluids engineering lab thermodynamics total mechanics of solids kinematics and dynamics of machines design of machine elements engineering visualization engineering mechanics engineering design engineering design ii total manufacturing process production operations management machining science and metrology digital fabrication smart manufacturing manufacturing processes and systems lab machining and automated manufacturing lab engineering realization total total
+distribution of courses under thermofluids manufacturing and design categories no course name ltp contact hours credi fluid mechanics fluid heat transfer heat thermofluids engineering thermofluids engineering lab mechanics of solids kinematics and dynamics of machines design of machine elements manufacturing process production operations management machining science and metrology digital fabrication total no course name ltp contact hours credit control of mechanical systems data structure and algorithm cs smart manufacturing manufacturing processes and systems lab machining and automated manufacturing lab total table vertical compulsory courses table
+programme horizontal compulsory courses area courses credit course level design introduction to acoustics mechanical vibrations computer aided design principles of biomechanics mechatronics finite element methods and applications introduction to robotics offered by idrp on rm embedded systems offered by electrical manufacturing tool design applied ergonomics manufacturing design and manufacturing of bio materials computer integrated manufacturing design for manufacturing thermofluids turbomachinery refrigeration and solar thermal systems porous media flows and applications power plant engineering computational fluid dynamics and heat transfer
+name of specializations credit requirement core elective engineering credits credits energy engineering credits credits design engineering credits credits smart manufacturing credits credits no
+name of specialization specialization core credits specialization electives credits engineering
+mems and microsystems technology level
+microfluidics lab level
+nanomaterials mt level
+porous media flows applications level
+precision and level
+microsystems fabrication technology ee level
+computational fluid dynamics and heat transfer level
+computational materials science ph
+project credits energy engineering
+solar thermal systems me level
+power plant engineering level
+energy storage systems me fractals level
+sources of energy and emerging technologies me level
+solar energy and applications me level
+wind turbine and field design civil level
+energy harvesting phy level
+biomass energy conversion bio level
+hydropower me level
+building services and intelligent building civil
+smart grid ee level
+renewable energy systems ee level
+automotive propulsion level
+combustion technology level
+materials for energy conversion and storage mt level
+specializations list table
+specialization core and elective courses design engineering
+advanced mechanics of solid level
+finite element methods and its application level
+design lab level
+mechanical vibrations level
+introduction to acoustics level
+geometric modeling cad level
+principles and techniques of vibration control level
+techniques of noise control level
+mechanics of soft materials level
+product design feasibility level
+nonlinear oscillations and chaos
+experimental modal analysis level
+vehicle dynamics level
+theory of vibrations level
+rotor dynamics level
+helicopter dynamics level
+project smart manufacturing
+introduction to cyber physical systems cps
+statistics data computational science
+applied ergonomics level
+casting and allied processes level
+welding science technology level
+non traditional machining process
+design for manufacturing level
+geometric modelling cad level
+additive manufacturing level
+mems microsystems technology
+precision and micro manufacturing
+mechatronic systems design
+computer aided inspection quality control
+welding metallurgy level
+fundamentals of metal forming technology
+project cat course ltp ch nc gc cat course ltp ch gc semester ii semester ie engineering mechanics ie introduction to electrical engineering is chemistry ie introduction to computer science is physics ie introduction to bioengineering is chemistry lab is physics lab is mathematics is mathematics ii ie engineering visualization ie engineering realization ne engineering ne engineering design ii nh communication nh communication skill nh social connect and nh social connect and
+responsibilities responsibilities ii nh performing arts nh performing arts
+ii total total iii semester iv semester ls scientific computations ie materials science engineering f1 material selection f2 structure of materials f3 physical metallurgy ie thermodynamics pc data structure and pc mechanics of solids ie signals and systems ie introduction to machine learning pc fluid mechanics pc fluid
+mechanical engineering regular table
+mechanical engineering ls statistical mechanics pc manufacturing process optical measurement techniques ih humanities ne intro
+to total total semester vi semester pc production operations management pc design of machine elements pc manufacturing processes and systems lab hc pc machining and manufacturing lab hc pc heat transfer pc smart manufacturing hc pc kinematics and dynamics of machines pc thermofluids engineering pc machining science and metrology pc control of mechanical systems hc pc digital fabrication pe programme elective pc heat transfer lab ih humanities ii nh professional ethics nh professional ethics ii total total vii semester viii semester pp
+project ih humanities iv pe programme electives pe programme electives pc thermofluids lab oe open elective oe open elective oe open elective ih humanities iii is environmental science total total total of graded and credit design credits grand total cat course ltp ch nc gc cat course ltp ch nc gc electrical engineering is chemistry ie introduction to computer science is physics ie introduction to realization ne engineering design ne engineering nh communication nh communication skill skill ii nh social connect and nh social connect responsibilities and nh performing arts nh performing arts ii ie materials science f1 material selection es probability and es modern physics es embedded ie thermodynamics es data structure
+mechanical engineering and engineering science table
+ie signals and systems es design of ie machine learning es modelling and ih humanities ne intro
+to profession total total semester vi semester pc manufacturing systems lab pc design of machine elements pc heat transfer pc fluid lab pc kinematics and machines pc machining and lab hc pc machining science and metrology pc smart hc pc mechanics of solids pc thermofluids engineering pc fluid mechanics control of mechanical systems pc heat transfer lab pc manufacturin process ih humanities ii pe programme electives nh professional ethics nh professional ethics ii total total vii semester viii semester pp
+project es ineering science electives pc production management ih humanities iii pc digital fabrication pc es scientific computation pc thermofluids lab oe ering science electives is environmental grand total note
+es are proposed engineering science compulsory courses students will be required to take extra credits under engineering science elective in lieu of double counting of embedded system and iot title fluid mechanics number chl2xx0 department mechanical chemical engineering offered for me ch type program compulsory pc
+detailed course content of programme compulsory courses title heat transfer number mel3xx0 department mechanical engineering offered for me type program compulsory pc prerequisite basics of thermodynamics fluid mechanics title thermofluids engineering number me4xx department mechanical engineering offered for me type programme compulsory pc prerequisite basics of thermodynamics and fluid mechanics title heat transfer lab number mep3xx0 department mechanical engineering offered for
+tech me type program compulsory pc prerequisite heat transfer title fluid mechanics lab number mep3xx0 prerequisite fluid mechanics title thermofluids lab number mep4xx0 title mechanics of solids number me2xx department mechanical engineering title kinematics and dynamics of machines number mel3xx0 department mechanical engineering prerequisite engineering mechanics material
+ashok mallik kinematics of machines nptel course department of mechanical engineering iit
+amitabh ghosh dynamics of machines nptel course department of mechanical engineering iit title design of machine elements number me4xx department mechanical engineering prerequisite basic knowledge in mechanics and kinematics title control of mechanical systems number mel3xx0 department mechanical engineering offered for
+tech me type program compulsory prerequisite basic knowledge of systems textbook
+control systems engineering edition india
+franklin powell and feedback control of dynamic systems prentice hall
+perry designing embedded systems and the internet of things iot with the john wiley sons reference books
+ogata modern control engineering edition india
+gopal control systems principles design tata
+bishop modern control systems edition pearson material
+gopal control engineering nptel course material department of electrical engineering indian institute of technology delhi
+ramkrishna pasumarthy control engineering nptel course material department of electrical engineering iit madras link title manufacturing processes number mel2xx0 prerequisite material
+karunakar metal casting nptel course department of mechanical and industrial engineering iit roorkee link
+biswas fundamental of welding science and technology department of mechanical engineering iit guwahati
+jha principles of metal forming technology department of mechanical and industrial engineering iit roorkee title machining science and metrology number mel3xx0 prerequisite
+boothroyd and knight fundamentals of machining and machine tools crc press
+jain advanced machining processes nptel course department of mechanical engineering iit
+shunmugam metrology nptel course department of mechanical engineering iit madras
+dixit mechanics of machining nptel course department of mechanical engineering
+chattopadhyay manufacturing processes ii nptel course of department of mechanical engineering iit kharagpur title productions and operations management number mel3xx0 prerequisite reference books
+sen operations research prentice hall
+hiller and liberman introduction to operations research mcgraw hill
+pai operations research oxford university press
+srinivasan operations research nptel course department of mechanical engineering iit madras
+kanda project and production management nptel course department of mechanical engineering iit delhi link title digital fabrication number mel3xx0 department mechanical engineering prerequisite title manufacturing processes and systems lab number mep3xx0 offered for
+tech me type program compulsory pc prerequisite fundamentals of manufacturing processes and systems title machining and automated manufacturing lab number mep4xx0 prerequisite fundamentals of manufacturing processes and systems title smart manufacturing number mel4xx0 department mechanical engineering title turbomachinery number me4xx department mechanical engineering offered for me type programme elective pe prerequisite basics of fluid mechanics and thermodynamics
+detailed course content of programme elective courses title refrigeration and number me4xx prerequisite basic knowledge in thermodynamics thermofluids engineering title power plant engineering number me7xx prerequisite basic knowledge in title solar thermal systems number me6xx offered for me type programme elective pe title sources of energy and emerging technologies number me7xx offered for
+type programme elective pe title porous media flows and applications number me6xx prerequisite basic knowledge in fluid mechanics
+beran statistical continuum theories wiley
+torquato random heterogeneous materials springer
+title flows number mel6xx0 offered for me type program elective pe prerequisite fluid mechanics heat transfer title microfluidics lab number mel6xx0 department mechanical engineering offered for me type program elective pc title tool design number mel4xx0 offered for
+tech me type program elective pe prerequisite title applied ergonomics number mel4xx0 title manufacturing number mel4xx0 prerequisite title design and manufacturing of biomaterials number mel6xx0 prerequisite title computer integrated manufacturing number mel6xx0 prerequisite title design for manufacturing number mel6xx0 department mechanical engineering offered for me type program elective title casting and allied processes number mel4xx0 prerequisite title machining processes number mel4xx0 offered for
+tech me type program elective prerequisite
+sommer machining handbook advance publishing jain advanced machining processes nptel course department of mechanical engineering iit kanpur title welding science and technology number mel4xx0 prerequisite title welding metallurgy course no
+mel6xx0 department mechanical engineering course title fundamentals of metal forming technology number mel6xxx department mechanical engineering title introduction to acoustics number me4xx prerequisite linear algebra and calculus title computer aided design number me4xx department mechanical engineering offered for me type program title principle of biomechanics number me4xx department mechanical engineering offered for me bs be type programme elective pc prerequisite engineering mechanics linear algebra differential equations and mechanics of materials title mechanical vibrations number me4xx offered for
+me type program elective pe title introduction to robotics number rm4xx0 idrp robotics and mobility systems offered for
+tech all branches type specialization core title mechatronics number me6xx department electrical engineering prerequisite basic knowledge in mechanisms
+nptel iit kharagpur
+basic raspberry pi and arduino
+curtin university micromasters program in iot
+title finite element methods and applications number me6xx offered for me and ci type program title vehicle dynamics course no
+me6xx0 department mechanical engineering pe title experimental modal analysis number me6xx offered for me type programme elective prerequisite linear algebra calculus and mechanical vibrations title techniques of noise control number me6xx offered for me ci type programme prerequisite introduction to acoustics title nonlinear oscillations and chaos number me6xx offered for me ci ee ph ma type programme elective prerequisite differential equations and linear algebra engineering mechanics mechanical vibrations title mechanics number me department mechanical engineering offered for me ee type programme elective prerequisite mathematics basic sciences engineering mechanics mechanical vibration and structural mechanics title principle of vibration control number mt prerequisite mathematics basic sciences solid mechanics title mechanics of soft materials number mt6xx offered for
+tech me bs be type programme elective prerequisite mechanics of materials advanced mechanics of solids title product design and feasibility number mt6xx

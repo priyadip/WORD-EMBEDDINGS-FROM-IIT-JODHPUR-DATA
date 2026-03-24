@@ -1,0 +1,14 @@
+research seminar by mithun das on at pm title of the talk the pair correlation statistic in number theory and fourier optimization date time at pm abstract in this seminar we will discuss the pair correlation statistic for sequences
+we briefly describe the uniform distribution and possonian pair correlation
+then we discuss our current work related to gue pair correlation statistic consider analogs of montgomery form factor for zeros of the riemann zeta function in the case of arbitrary sequences satisfying some basic assumptions and connect their estimation to two extremal problems in fourier analysis which are promptly studied
+as applications we provide average bounds of form factors related to some sequences of number theoretic interest such as the zeros of primitive elements of the selberg class dedekind zeta functions and the real and imaginary parts of the riemann zeta function
+in the last case our results bear an implication to conjecture of gonek and ki showing it can not hold in some situations
+this is joint work with ismoilov and ramos from sissa trieste
+about the speaker mithun is currently postdoctoral fellow at the international centre for theoretical italy
+he is also an inspire faculty fellow at
+prior to this he was fellow at november
+before he was postdoctoral fellow at
+he was at as visiting scientist
+he completed my phd form research institute prayagraj on january
+his research interest lie in number theory probabilistic analytic and harmonic analysis
+title of the talk the pair correlation statistic in number theory and fourier optimization date time at pm abstract in this seminar we will discuss the pair correlation statistic for sequences

@@ -1,0 +1,92 @@
+SOURCE_PDF: becb99e398ef_CSE-PhD-Compre-Papers.pdf
+
+Research Areas Comprehensive Papers
+Theoretical
+Computer
+Science Mathematical
+Foundations in
+Computer Science Design and Analysis
+of Algorithms Theory of Computation
+Systems Fundamentals of
+Operating System and
+Distributed Computing Computer
+Organization and
+Architecture Computer Networks and
+Communication
+Software and
+Security Database and Data
+Engineering Program Analysis and
+Software Engineering Security
+Artifciial
+Intelligence Pattern Analysis and
+Machine Intelligence Modern AI Image and Vision
+Computing
+Papers for Comprehensive PhD Examination
+Department of Computer Science and Engineering
+February 2023
+Mapping of comprehensive courses with research areas of the department:
+It is to be noted that this mapping is only suggestive and the SRC is empowered to suggest the
+comprehensive papers for every student depending on his/her research area and foundations.
+
+Course Title Mathematical Foundations in Computer
+Science (MFCS) Number CSECXXX
+C-for comprehensive
+Department CSE
+Ofefred for Comprehensive Examination
+
+Course Title Theory of Computation Number CSECXXX
+C-for comprehensive
+Department CSE
+Ofefred for Comprehensive Examination
+
+Course Title Design and Analysis of Algorithms Number CSECXXX
+C-for comprehensive
+Department CSE
+Ofefred for Comprehensive Examination
+
+Course Title Database & Data Engineering Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+
+Course Title Program Analysis and Software Engineering Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+
+Course Title Security Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+
+Course Title Fundamentals of Operating System and
+Distributed Computing Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+
+Course Title Computer Organization and Architecture Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+
+Course Title Computer Communication and Networks Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+
+Course Title: Pattern Analysis and Machine Intelligence Number CSEC-xxx
+Department CSE
+Ofefred for Comprehensive Examination
+
+Course Title Modern Artifciial Intelligence Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+
+Course Title Image and Vision Computing (IMAVIS) Number CSCxx
+C-for comprehensive
+Department Computer Science and Engineering
+Ofefred for Comprehensive Examination
+Image Processing: Image Formation, Color Spaces, Color Correction [ Book 1, Chapter 2] Dictionary Learning and
+4. Fattal , Raanan. "Single image dehazing." ACM transactions on graphics (TOG) 27.3 (2008): 1-9.

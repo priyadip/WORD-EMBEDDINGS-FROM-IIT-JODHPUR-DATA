@@ -1,0 +1,71 @@
+SOURCE_PDF: 8949d0bbf0aa_Under-Graduate-Time-Table-Semester-1-AY-202223-CE-638755646547068820.pdf
+
+Days
+Time Monday Tuesday Wednesday Thursday Friday
+9:00 – 9:50 Thermodynamics (L) Thermodynamics (L) Introduction to
+Machine Learning (L) Thermodynamics (L) Introduction to
+Machine Learning (L)
+Mass Transfer I (L) Mass Transfer I (L) Heat Transfer (L) Mass Transfer I (L) Heat Transfer (L)
+10– 10:50 Probability, Statistics
+& Stochastic Process
+(L) Introduction to
+Machine Learning (L) Probability, Statistics
+& Stochastic Process
+(L) Probability, Statistics
+& Stochastic Process
+(L) Physics of Complex
+Fluids (L)
+Scientific
+Computations (L) Heat Transfer (L) Scientific
+Computations (L) Scientific
+Computations (L) Modern Physics (L)
+11:00– 11:50 Physics of Complex
+Fluids (L) Fluid Mechanics (L) Physics of Complex
+Fluids (L) Fluid Mechanics (L) Fluid Mechanics (L)
+Modern Physics (L) Signals and Systems
+(L) Modern Physics (L) Signals and Systems
+(L) Signals and Systems
+(L)
+Chemical Reaction
+Engineering (L) Chemical Engineering
+Thermodynamics (L) Chemical Reaction
+Engineering (L) Chemical
+Engineering
+Thermodynamics (L) Chemical Engineering
+Thermodynamics (L)
+1:00 –1:50 Mass Transfer I (P) Fluid
+Mechanics
+(T) Heat
+Transfer
+(P) Chemical Reaction
+Engineering (P) Introduction to
+Machine Learning (P)
+5:00 – 5:50 Professional Ethics I Department
+Activities Thermodynamics (T) Introduction to
+Profession (L)
+Courses Course Code & Type Faculty Incharge Slots
+Thermodynamics MEL2020/ UG Institute Core 2nd Year Dr. Praveen Sappidi A & Institute
+Aligned
+Fluid Mechanics CHL2010/ UG Core 2nd Year Dr. Vikky Anand E & M2
+Introduction to Profession CHN2040/ UG Non-Graded Engineering 2nd
+Year Dr. Angan Sengupta Institute
+Aligned
+Mass Transfer I CHLP3010/ UG Core 3rd Year Dr. Prashant Gupta A & M1+M6
+Heat Transfer MEL3010 & MEP3010/ UG Core 3rd Year Dr. Nirmalya Bachhar B & M2
+Chemical Reaction Engineering CHLP3030/ UG Core 3rd Year Dr. Sumit Kamal D &M3 + M8
+Chemical Engineering
+Thermodynamics CHL3040/ UG Core 3rd Year Dr. Angan Sengupta E
+Design Credits CHN1010/1020/2010/2020/3010/3020
+UG 2nd, 3rd, 4th years Dr. Prashant Gupta & Dr.
+Tara Chand NG-1
+Probability, Statistics & Stochastic
+Process UG Program Linked Science/ UG 2nd year C
+Introduction to Machine Learning UG Institute Core Engineering/ UG 2nd year B & M5
+Scientific Computations UG core 3rd year C
+Physics of Complex Fluids UG Program Linked Science/ UG 2nd year D
+Modern Physics UG Engineering Science/ UG 2nd year D
+Signals and Systems UG Institute Core Engineering/ UG 2nd year E
+MSF UG-ES/ 2nd year K
+Humanities II UG Non-Graded Humanities/ UG 3rd year K & N
+Professional Ethics I UG Non-Graded Humanities/ UG 3rd year Institute
+Aligned

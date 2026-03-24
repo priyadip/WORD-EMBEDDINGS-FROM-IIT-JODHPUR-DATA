@@ -1,0 +1,19 @@
+research seminar by manuj verma on oct at pm title of the talk hausdorff dimension of measures and sets with common fixed point structure date time venue oct at pm on dept
+of mathematics abstract in this talk will discuss the dimension theory of measures and sets on the real line where the generating iterated function system ifs consists of some maps that share the same fixed point
+these ifs have exact overlaps due to the common structure
+in this exact overlapping situation the dimension theory becomes significantly more complicated
+we determine formula for the hausdorff dimension of the measures and sets out of hausdorff one exceptional set of natural parameters
+this work significantly strengthens the previous result on dimension theory
+as an application we give the hausdorff dimension of measures supported on the generalised set
+this is joint work with
+about the speaker manuj verma completed his
+in mathematics in from
+he earned his in january from
+following his doctoral studies he worked as an fellow at iit delhi
+he recently finished from the budapest university of technology and economics hungary under the mentorship of
+his research interests lie in fractal geometry with focus on the dimension theory of invariant sets and measures the analysis of fractals and applications of fractal geometry
+title of the talk hausdorff dimension of measures and sets with common fixed point structure date time venue oct at pm on dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

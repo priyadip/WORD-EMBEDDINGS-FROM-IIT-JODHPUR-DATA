@@ -1,0 +1,260 @@
+indian institute of technology jodhpur pg course booklet july department of physics
+programme curriculum introduction physics is one of the oldest disciplines of science dealing with the development of number of theories that attempt to explain the origin of the universe and also various forces that exist in nature
+further the genesis of most of the engineering disciplines is based on various principles and theories of physics
+hence the subject of physics on one side deals with the development of fundamental theories towards revealing various processes and forces in nature and on the other hand it seamlessly interfaces with almost all disciplines of engineering wherein outcome of the research in physics can be translated into useful technologies and products thereby immensely contributing to the wellbeing of mankind
+objective of the programme the major objective of the programme is to bring out professionals having knowledge of basic laws of nature together with strong fundamentals in the core area of physics viz
+classical mechanics quantum mechanics condensed matter physics electromagnetism computational physics statistical physics electronics atomic and nuclear physics and advanced level topics such as quantum information processing quantum computing high energy physics astrophysics plasma physics nanotechnology nonlinear optics etc
+further objective of the program is to inculcate certain specific enabling skill sets to prepare the students to take up challenges in any one or more functional domains viz
+academics ii basic and applied research iii research development iv engineering technology and industry
+in depth understanding of the fundamental concepts of physics
+ability to undertake problems in multidisciplinary domains of science technology viz
+space science medical physics plasma science quantum technologies advanced materials science computational techniques etc
+ability to apply the acquired knowledge of physics to engineering problems
+understanding of basic tools of computational physics and their application in various domains of physics and engineering
+ability to perform the experiments and analyze the experimental data based on acquired knowledge in the domains of electronics atomic and nuclear physics condensed matter physics optics and lasers and other advanced topics
+skills to demonstrate basic principles of physics by use of simple experimental as well as high end experimental techniques
+ability to develop advanced functional materials and carry out their characterization
+ability to design fabricate and characterize device structures such as sensors solar cells optical components etc
+for various applications
+ability to make effective oral and written technical communication
+knowledge and deep understanding of principles of basic and applied physics
+subject knowledge to pursue higher studies in the advanced physics areas such as high energy physics astrophysics quantum information processing nanotechnology plasma technology nonlinear optics fibre optics etc
+knowledge of fabrication and characterization of devices such as solar cells gas sensor energy storage magnetic data storage etc
+skills in certain experimental techniques for characterization of materials for their structural morphological surface topology electrical magnetic dielectric and optical properties
+knowledge and skills to use various vacuum based techniques for development of thin film based materials structures and plasma devices and systems
+technical knowledge and skills to understand and appreciate interdisciplinary research
+skills in computational physics for wide range of applications ranging from the visualization of physical theories and process design of functional materials simulation and modeling of optical processes etc
+written and oral technical communication skills
+program structure core courses credits program electives pe can be opted from list specified by the department which can include courses from sister departments which are relevant for the programme credits open electives oe oe can be opted from any department as per choice credits oe and pe can include lab courses as well as sessions project credits total credits type distribution of contact and beyond contact total credits hours contact beyond total tc hours contact hours hour of lecture hr hr hr hour of tutorial hr hr hr hour of hands seminar hr hr hr hour of project hr hr hr semester semester ii type nos
+ch bch th tc type nos
+ch bch th tc lecture lecture hands on hands on total total semester iii semester iv lecture lecture lab project semina project total total credit structure for
+programs program structure of
+programmes in week hrs of working time assuming hrs per day available for active work after addressing curricular load demand students will have about hrs of time for and activities per week
+course number course title credits mc phl6xx0 mathematical physics mc phl6xx0 classical mechanics mc phl6xx0 quantum mechanics mc phl6xx0 electronics mc phl6xx0 statistical physics mc php6xx0 electronics lab mc php6xx0 condensed matter physics lab mc total mc phl6xx0 electrodynamics mc phl6xx0 condensed matter physics mc phl6xx0 physics of atoms molecules mc phl6xx0nuclear particle physics me program elective mc php6xx0atomic nuclear physics lab mc php6xx0optics lasers lab semester wise courses total credits semester ii semester me program elective me program elective me program elective me open elective mc computational physics lab mc seminar mp project total me program elective me program elective me open elective mp project total iii semester iv semester topic cloud topic cloud details fundamental physics
+condensed matter physics
+physics of atoms molecules
+nuclear particle physics multidisciplinary science and technology
+computational physics fractals with me maths
+high energy physics and space science introduction to space science particle physics neutrino telescope astronomy cosmology
+nanoscience nanotechnology fractals with mt cy
+advanced condensed matter physics
+introduction to materials characterization fractals with mt
+introduction to medical physics optical radiation based image analysis mri fractals with bsbe electrical
+fundamentals of plasma fusion science
+introduction to quantum technologies
+computational materials science fractals with mt and cy
+soft matter physics fractals with cy
+statistical methods for data analysis maths and computers
+aspects of quantum field theory
+critical phenomena and renormalization group engineering physics
+optical fibre technology fractals with ee
+energy harvesting technologies fractals with me
+solar energy technologies fractals with me
+quantum optics engineering
+cold plasma technologies
+nuclear engineering fractals with me ee teaching laboratories
+atomic nuclear physics
+optics and lasers
+computational physics core courses title mathematical physics number phl6xx0 department physics offered for type compulsory title classical mechanics number phl6xx0 title quantum mechanics number phl6xx0 title electronics number phl6xx0 textbook
+malvino bates electronic principles mcgrawhill
+leach malvino and saha digital principles and applications tmh
+horowitz and hill the art of electronics cup
+aggarwal circuits and electronics mit open course ware preparatory course materials
+dube electronics department of physics iit delhi title statistical physics number phl6xx0 title electrodynamics number phl6xx0
+gut lecture notes on electromagnetism ii mit open course ware title condensed matter physics number phl6xx0
+wen physics of solids mit open course preparatory course material
+simon the oxford solid state basics oxford university press
+title physics of atoms and molecules number phl6xx0 title nuclear and particle physics number phl6xx0 reference books
+cohen concepts of nuclear physics mcgraw hill education
+wong introductory nuclear physics prentice hall india learning pvt
+verma nuclear physics fundamentals and applications iit kanpur title engineering optics number phl6xx0 offered for type elective reference course material
+ghatak optics edition tata title computational physics number phl7xx0
+landau and mejia computational physics john wiley
+thijssen computational physics cambridge univ
+title high energy physics number phl7xx0 department physics text books
+griffiths introduction to elementary particles
+giunti and kim fundamentals of neutrino physics and astrophysics oxford university press edition
+guth lecture notes mit course no
+relativistic quantum field theory spring
+sakurai advanced quantum mechanics
+title introduction to space science number phl7xx0 department physics
+narlikar an introduction to cosmology cambridge university press
+carroll spacetime and geometry pearson india education services
+high energy astrophysics vol cambridge university press
+bertschinger taylor lecture notes mit course no
+general relativity and astrophysics spring
+rappaport and elliot introduction to astronomy title nanoscience and nanotechnology number phl7xx0 nanotechnology in healthcare diagnostics using nanomaterials biosensors drug delivery using magnetic nanoparticles magnetic hyperthermia for cancer treatment
+and owens introduction to nanotechnology
+shong haur and wee science at the nanoscale crc press
+davis the physics of semiconductors cambridge uni press
+quereshi department of chemistry iit guwahati
+online review papers in various journals
+balani and subramaniam department of material science and engineering iit kanpur nptel course title advanced condensed matter physics number phl7xx0
+wen physics of solids mit open course title introduction to material characterization number phl7xx0 magnetization by force and by induction magnetic hysteresis magnetic susceptibility principles of electron paramagnetic resonance and nuclear magnetic resonance nmr
+zhang li and kumar materials characterization techniques crc press
+mertz introduction to optical microscopy edition cambridge university press
+shankaran materials characterization nptel course material department of metallurgical materials engineering indian institute of technology madras title magnetism and superconductivity number phl7xx0
+culity and graham introduction to magnetic materials
+blundell magnetism in condensed matter oxford university press
+annett superconductivity superfluids and condensates oxford university press self learning material
+magnetic materials mit open science and engineering title introduction to medical physics number ph7xx0
+cho jones and singh foundations of medical imaging editionwiley
+pryma nuclear medicine edition oxford university press
+murphy and davidson fundamental of light microscopy and electronic
+toyokuni ikehara kikkawa and hori plasma medical science edition academic press
+department of electrical engg iit kharagpur
+jasanoff mit open courseware noninvasive imaging in biology and medicine and
+department of physics iit delhi title electronic transport in mesoscopic systems number phl7xx0 title physics of solar cells number phl7xx0 hot carrier solar cell impact ionization solar cells
+nelson the physics of solar cells imperial college press
+wurfel wurfel physics of solar cell willey vch
+fonash solar cell device physics academic press
+buonassisi fundamentals photovoltaics opencourseware title fundamentals of plasma and fusion science number phl7xx0
+goldston and paul rutherford introduction to plasma physics institute of physics publishing bristol
+dendy plasma physics an introductory course cambridge cambridge university online course material
+tripathi plasma physics fundamentals and applications nptel course material department of physics indian institute of technology delhi title introduction to quantum technologies number phl7xx0 title laser technologies number phl7xx0
+terahertz spectroscopy crc press
+unique properties of lasers and their applications manabendra chandra preparatory course material
+understanding lasers and fiber optics shaoul ezekiel title computational materials science number phl7xx0
+mit open course ware atomistic computer modeling of materials sma by ceder and marzari spring
+nptel course by tembe department of chemistry iit bombay computational chemistry and class molecular dynamics
+lammps md simulation package title soft matter physics number phl7xx0 title statistical methods for data analysis number phl7xx0 title optical fiber technology number phl7xx0
+crisp and elliot introduction to fiber optics edition newnes
+title energy harvesting technologies number phl7xx0
+kazmierski beeby energy harvesting systems springer
+yang liu liu lee micro and nano energy harvesting technologies artech house online course material
+tester jefferson kazimi mujid yang ghoniem ahmed advanced energy conversion title solar energy technologies number phl7xx0 title quantum optics and engineering number phl7xx0
+agarwal quantum optics cambridge university press
+satyanarayana department of physics iit madras quantum optics title cold plasma technologies number phl7xx0
+huchinson principles of plasma diagnostics cambridge university press
+michael lieberman and allan lichtenberg principles of plasma discharges and materials processing john wiley
+title critical phenomena and renormalization group number phl7xx0
+quantum field theory and critical phenomena oxford university press oxford
+santra advanced statistical mechanics nptel course material department of physics indian institute of technology guwahati
+kardar statistical mechanics ii spring mit opencourseware massachusetts institute of technology title aspects of quantum field theory number phl7xx0 solitons and instantons
+abdalla and rothe methods in dimensional qft world scientific singapore
+govindarajan classical field theory nptel course material department of physics indian institute of technology madras
+hanany selected topics in theoretical particle physics branes and gauge theory dynamics mit opencourseware massachusetts institute of technology title nuclear engineering number phl7xx0
+kannan department of mechanical engineering iit bombay nuclear engineering title vacuum systems and thin film technology number phl8xx0 prerequisite introduction to characterization advanced condensed matter physics
+ohring the materials science of thin films academic press ltd edition
+chopra thin film phenomena book company
+smith thin film deposition principles and practice mcgraw hill
+shekhar and gaur fundamentals of material processing part module iit kanpur title plasma diagnostics number phl8xx0 department physics offered for phd prerequisite cold plasma technologies
+plasma diagnostics aip press american institute of physics new york
+stangeby plasma diagnostics vol
+surface analysis and interactions academic press boston preparatory course material
+ram prakash book chapter recent trends in plasma chemistry and spectroscopy diagnostics research methodology in chemical sciences experimental and theoretical approach applied academic press usa
+title materials and device characterization number phl8xx0 prerequisite introduction to material characterization
+schroder semiconductor material and device characterization wiley edition
+egerton physical principles of electron microscopy an introduction to tem sem and nptel course advanced characterization techniques iit kanpur title computational condensed matter physics number phl8xx0 department physics prerequisite computational materials science equations total energy functionals force stress lectures practical applications introduction to supercells surfaces interfaces phonons and defects other material properties such as magnetic ferroelectric and piezoelectric properties
+thermal properties using phonon dispersion
+marder condensed matter physics wiley
+sholl and steckel
+density functional theory practical introduction
+martin electronic structure basic theory and practical methods cambridge university press
+kittel quantum theory of solids john wiley sons inc
+journal articles for relevant sections
+online resources for computational purpose and online lectures and reading materials title semiconductor device technology number phl8xx0 prerequisite advanced condensed matter physics multilevel metal formation comparison between bulk and soi cmos technologies
+donald semiconductor physics and devices tata
+sze physics of semiconductor devices john wiley sons
+james deal and griffin silicon vlsi technology prentice hall electronics and vlsi series
+fonstad jr mit open course microelectronic devices and circuits title understanding scanning tunneling microscope number phl8xx0 prerequisite electronic transport in mesoscopic systems no
+name of the experiment
+recording of hydrogen spectra
+gamma ray spectrometer energy resolved
+alpha particle spectrometer energy resolved
+radiation counter for alpha and beta particle znse for alpha and plastic scintillation counter for beta particle
+radiation counter for gamma and beta particle
+finding the plateau region of gm tube
+alpha particle counter only for alpha particle
+compton scattering no
+name of experiment jfet biasing and its application as an amplifier
+differential amplifier as double ended input and single ended output
+differential amplifier as single ended input and double ended output
+circuit and inverting and amplifiers
+find out the output offset voltage maximum output current slew rate and power bandwidth
+summing subtractor differentiator and integrator
+four types of negative feedback such as vcvs vcis icvs and icis will used to show the reduction of distortion and output offset voltage
+active butterworth wide bandpass and narrow bandpass filters
+active diode circuits and comparator as peak detector limiter dc clamper limit detector
+wave shaping circuit by using schmitt trigger
+the wien bridge oscillator lc oscillator circuit atomic and nuclear physics laboratory course no
+php6xx0 electronics laboratory course no
+php6xx0 use of timer for astable multivibrator monostable multivibrator and construct an alarm circuit
+different logic gates such as not and or nand nor xor gates rs nand latch clocked latch jk flip flop and verify frequency division function to study the performance of ttl clock oscillator
+monostable astable multivibrator using ttl circuits
+subtractor construction of adder and use of shift register for showing sipo pipo and pipo operation
+operation of binary ripple and down counter
+study the characteristics of bcd to decimal decoder
+to study the functioning of multiplexer and its application for the generation of boolean functions
+to demonstrate the functions performed by decoder using seven segment led display
+to study the operation of converter based on network hall effect with temperature electrical conductivity measurements using four probe resistivity with temperature vibrational spectroscopy raman phonon dispersion curve band gap measurements photoluminescence spectroscopy studies of materials solar cell characterization studies on thermoelectric properties of materials thermoelectric device characterization esr spectroscopy magnetic susceptibility measurements study of thermoluminescence of in alkali halide crystals
+to find the wavelength of monochromatic light to determine the spacing between the plates of fabry perot etalon from the fringe pattern to find the finesse and free spectral range fsr of etalon from the fringe calibration at different cavity thickness
+to find the refractive index of an unknown solution
+to study the birefringence with respect to applied voltage in an electro optic liquid
+numerical aperture splice loss and bending loss measurement of fiber
+numerical aperture and mode field diameter measurement of single mode fiber
+calculation of normalized frequency or of single mode fiber
+determination of refractive index of transparent solids condensed matter physics laboratory course no
+php6xx0 optics lasers laboratory course no
+to calculate the peak wavelength and spectral bandwidth of leds
+to analyze emission spectrum of laser and study the peak wavelength
+to find out the difference in wavelength of d1 and d2 lines of sodium light
+to determine the wavelength of monochromatic light
+to determine wavelength of laser beam
+to find refractive index of transparent material
+to study gaussian nature of the laser beam
+to find diameter beam spot size of the laser beam
+to determine divergence of the laser beam
+diffraction of light by single slit double slit single wire cross wire and transmission grating
+intensity measurement as function of analyzer angle polarization study by quarter wave plate elliptical and circular polarization
+polarization study by half wave plate change of polarization axis
+verification of malus law implementation of nonlinear root finding techniques interpolation techniques curve fittings solving ordinary differential equations simulations of physical systems monte carlo technique etc solution of schrodinger like equation solution of helmohz equation propagation study quantum simulation computational laboratory course no
+php6xx0 experiments no
+amplitude and frequency modulation circuits digital storage oscilloscope
+regulated power supplies and their performance evaluation dso
+solar cell construction and characterization xrd sem etc
+magnetic moment detection mpms ppms etc
+optoelectronic properties of materials raman ppms
+construction of coupled prism experimental set up and demonstration of tunneling phenomenon
+construction of telescope and observation of stellar objects
+measurement of speed of light using oscillations dso fast photodiode
+of muon scintillation detector data acquisition and processing system python coding
+optical fibre characterization laser source communication fibre photodetector
+nanomaterials characterization xrd afm sem ppms etc
+paschen curve of voltage on the pressure and electrode gap for given gas in plasma discharge
+measurement of plasma parameters by electrostatic probe
+characterization of dc magnetron discharge and estimation of sputtering yield
+generation and characterization of and cold plasma experiments high end equipments php6xx0
+ray tracing for design of solar concentrator
+use of cosmol software for macroscopic multiphysics phenomena
+rsoft software for visualization of optical components and devices
+optifibre for visualization of optical communication through optical fibres
+design of optoelectronic materials using dft
+molecular dynamics simulation using lammps and gromacs
+simulation of magnetic domains using micromagnetics
+gamma ray burst grb data analysis from the space telescope
+experiments computational tools php6xx0 title general theory of relativity number phl7xx0
+bertschinger general relativity title relativistic quantum mechanics number phl7xx0
+guth relativistic quantum field theory title particle physics number phl7xx0
+schwartz quantum field theory and the standard model cambridge university
+thomson modern particle physics cambridge university press
+susskind new revolutions in particle physics basic concepts title quantum field theory number phl7xx0 title photonics number phl7xx0
+tripathy quantum field theory iit madras
+tong lectures quantum field theory university cambridge to effect from ghatak and thyagarajan optical electronics cambridge university press
+srinivasan introduction to photonics title astrophysics number phl7xx0
+title physics of neutrinos number phl8xx0 prerequisite particle physics energy neutrinos neutrinos from astrophysical objects agns grbs gzk neutrinos neutrino astronomy
+lectures kim fundamentals of neutrino physics and astrophysics oxford university press
+kim pevsner neutrinos in physics and astrophysics harwood academic
+fukugita yanagida physics of neutrinos springer verlag
+vogel physics of massive neutrinos cambridge university press
+dighe neutrino physics tata institute of fundamental research mumbai title gauge theory of weak interactions number phl8xx0 interactions weak isospin and hypercharge the su group of the electroweak interactions quantum number assignments and and masses the leptonic currents and massless neutrinos the quark currents simple predictions anomaly cancellations the discovery of the and at the cern collider the fermion mass problem quark and neutrino flavour mixing corrections the top quark the higgs sector theoretical considerations concerning higgs mass higgs phenomenology discovery of higgs bosons
+aitchison hey gauge theories in particle physics volume ii practical introduction gauge theories qcd and the electoweak theory taylor francis
+cheng li gauge theory of elementary particle physics oxford university
+langacker the standard model institute of advanced study princeton
+peskin schroeder an introduction to quantum field theory pub
+title dark energy number phl8xx0 prerequisite general theory of relativity cosmic acceleration without dark energy ltb models backreaction of cosmological perturbations
+lectures observational methods type ia supernovae as dark energy probe baryon acoustic oscillations bao as standard ruler the test weak gravitational lensing weak lensing observational results cluster abundance as dark energy probe gas mass fraction as dark energy probe gamma ray bursts and radio galaxies as cosmological probe
+lectures tsujikawa dark energy theory and observations cambridge university press
+wang dark energy
+dodelson modern cosmology elsevier
+the dark side of the universe dark matter and dark energy department of astronomy astrophysics chicago

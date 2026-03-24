@@ -1,0 +1,12 @@
+congratulations to moumita mandal for the acceptance of her research paper in the journal of analysis title novel image inpainting framework using regression authors maiti kumar jain and bhatnagar journal acm transactions on internet technology year publisher acm abstract in this paper regression based image inpainting framework is proposed
+the core idea is to fill the unknown region in two stages extrapolate the edges to the unknown region and then fill the unknown pixels values in each demarcated by the extended edges
+canny edge detection and linear edge extension are used to respectively identify and extend edges to the unknown region followed by regression within each to predict the unknown pixel values
+two different regression models based on neighbours and support vectors machine svm are used to predict the unknown pixel values
+the proposed framework has the advantage of inpainting without requiring prior training on any image dataset
+the extensive experiments on different images with contrasting distortions demonstrate the robustness of the proposed framework and detailed comparative analysis shows that the proposed technique outperforms existing image inpainting methods
+finally the proposed techniques are applied to mri images suffering from susceptibility artifacts to illustrate the practical usage of the proposed work
+title novel image inpainting framework using regression authors maiti kumar jain and bhatnagar journal acm transactions on internet technology abstract in this paper regression based image inpainting framework is proposed
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

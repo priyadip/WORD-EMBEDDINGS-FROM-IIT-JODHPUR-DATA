@@ -1,0 +1,3 @@
+title data structures and practices number csxxx department computer science and engineering offered for
+year type compulsory prerequisite computer programming title artificial number csxxxx department computer science and engineering offered for
+year year type compulsory prerequisite none title artificial number csxxxx prerequisite artificial title machine number csxxxx title machine number csxxxx prerequisite machine

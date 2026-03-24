@@ -1,0 +1,174 @@
+SOURCE_PDF: ccfe658ac1b5_PG-M-Tech-Intelligent-VLSI-Systems-638763381905785233.pdf
+
+Indian Institute of Technology Jodhpur
+M. Tech. Program
+in
+Intelligent VLSI Systems
+
+Curriculum Structure
+for AY 2023-24 Onwards
+
+Introduction
+The proposed M.Tech program in Intelligent VLSI Systems is designed to provide training to
+graduate students with the state of the art knowledge in the domain of VLSI Systems, including
+semiconductor fundamentals, emerging devices and compact modelling, advanced circuits and
+systems, system on chip design, signal processing, on-chip machine learning algorithms, VLSI
+for communication and others. The proposed M. Tech programme for Intelligent VLSI Systems
+of IIT Jodhpur includes state of the art analog and digital VLSI circuits and systems, mixed
+signal
+circuits,
+testing
+and verification algorithms, issues with system integration for
+performance considerations, covering wide aspects of embedded and computing systems, and
+emerging applications. It will cover a wide aspect of fundamentals, design skills, hands on
+through experiential learning consisting of lab exercises, assignments, case studies and current
+trends in the semiconductor industry.
+Objectives
+Main objective of this program is to train students by imparting them skills related to the current
+era of VLSI systems with a deeper understanding of its various components: from devices to
+hardware design. By imparting extensive knowledge and research experience, the program
+focuses on novel approaches to processing and computation for energy- and memory-efficient
+hardware. With the availability of massive data acquisition and data processing, the current
+research and trend in future computing systems is oriented towards memory-driven and edge
+computing AI architectures.
+The graduates will eventually be contributing to all-encompassing areas of Intelligent VLSI
+Systems which include emerging semiconductor devices and modelling, analog & mixed-signal
+circuits,
+RF
+integrated
+circuits
+(ICs), ASIC and SoC Design, embedded intelligence,
+self-adaptive systems, flexible electronics, neuromorphic computing, hardware for AI, state of
+the art non-volatile memories, machine learning, 5G communication, Internet of things (IoT) and
+others. The course will rigorously train the graduate students so as to enable them to take up
+new challenges and solve the problems in the domain of the current and future VLSI systems.
+The knowledge of theoretical concepts with in depth analysis and understanding of practical
+design issues will make their understanding more refined and result oriented in the areas of next
+generation VLSI systems.
+Various state of the art computational facilities are available in the institute like NVIDIA DGX2
+which will help the candidates to learn high performance computing, to implement machine
+learning algorithms and learn the concepts of data analysis. The students will have access to
+various design/EDA tools like Cadence Virtuoso, Mentor Graphics, Synopsys tool suite etc.
+The objectives of this program are summarised as follows:
+●
+Insight of semiconductor device physics, modelling and fabrication.
+●
+Theoretical as well as practical knowledge of circuits and systems
+●
+System Design issues and challenges
+●
+Embedded Intelligence
+●
+Machine learning algorithms, signal processing and data acquisition
+
+●
+Algorithm level and architectural level optimization and implementation
+●
+State-of-the art system design methodologies as well as current trends in the
+semiconductor industry
+●
+Brain-Inspired Technologies
+●
+Novel approaches to processing and computation for energy and memory-efficient
+hardware
+●
+Development of testing and verification skills through state of the art algorithms
+●
+Exposure to layout, floorplanning, placement and routing techniques
+●
+High speed system design issues and performance considerations
+Graduate attributes
+●
+Ability to follow a multidisciplinary approach for design and implementation of
+systems, involving various domains of Engineering, and Sciences.
+●
+To learn top-to-bottom approach for IC design
+●
+Exposure to computing for embedded intelligent systems
+●
+To learn machine learning tool and its application in domains like VLSI for signal
+processing and communication
+●
+To apply the skills and course aspects directly in the profession
+●
+Exposure to design issues and challenges in ASIC and SoC Design
+●
+Exposure to system level integration and challenges including packaging and PCB
+related issues
+Learning outcomes
+●
+Ability to design digital, analog, mixed signal circuits
+●
+Knowledge of ASIC flow for IC fabrication and tape out
+●
+Exposure to state-of-the-art compact models, process and IC fabrication technology
+●
+Implementation of intelligence in traditional VLSI systems/architectures
+●
+Knowledge of VLSI design flow covering both front end and back end.
+●
+Knowledge of programming, algorithms and system development techniques
+●
+Knowledge of state of the art non-volatile memories
+●
+Able to design and implement algorithms for optimising hardware
+●
+Knowledge of complete system integration and challenges associated with high
+speed designs
+
+Topic Clouds and Course Mapping
+
+Category M. Tech. Core
+(MC) M. Tech. Elective
+(ME) M. Tech. Open
+(MO) M. Tech. Project
+(MP) Non-graded
+(NG) Total
+Credits 20 16 6 16 4 62
+Cat. Course Title L-T-P C Cat. Course Title L-T-P C
+I Semester II Semester
+MC Digital VLSI Design 3-0-0 3 MC Hardware Design for
+Artificial Intelligence 3-0-0 3
+MC Digital ASIC Design lab 0-0-2 1 MC Mixed Signal Circuit Design 3-0-0 3
+MC Physics and Modelling of MOS
+Transistors 3-0-0 3 MC SoC Testing and
+Verification 3-0-0 3
+MC Analog IC Design 3-0-2 4
+ME Program Elective(s) 3 ME Program Elective(s) 6
+NG Technical Communication 1-0-0 1 NG Innovation and IP
+Management 1-0-0 1
+Total 15 Total 16
+III Semester IV Semester
+ME Program Elective(s) 5 MO Open Elective-2 3-0-0 3
+MO Open Elective-1 3-0-0 3 ME Program Elective(s) 2
+NG System Engineering and Project
+Management 1-0-0 1 NG Professional Ethics 1-0-0 1
+Total 15 Total 16
+Program Structure for M.Tech Intelligent VLSI Systems (IVS)
+Overall Program Structure
+Semester wise distribution of credits
+
+Course Title L-T-P Credits Course Title L-T-P Credits
+VLSI Broadband
+Communication Circuits 3-0-0 3 High Speed Interfaces 2-0-0 2
+Semiconductor Reliability 3-0-0 3 Network-on-Chip 2-0-0 2
+Hardware-Software Co-design 3-0-2 4 Machine Learning for Device
+Modeling 1-0-2 2
+Sensors and Measurement 3-0-0 3 RF IC Design 1-0-2 2
+Neuromorphic Computing and Design 3-0-0 3 Formal Verification 2-0-0 2
+Integrated Circuit Technology 3-0-0 3 Signal and Power Integrity 3-0-0 3
+ML in VLSI CAD 3-0-0 3 Processor Design 3-0-0 3
+High Level Synthesis 3-0-0 3 Introduction to Spintronics 3-0-3 3
+Embedded System Design 3-0-0 3 Low Power IC Design 2-0-0 2
+Machine Learning 1 3-0-0 3 Power Management IC 2-0-0 2
+Deep Learning 3-0-0 3 Non-Volatile Memory
+Technologies 2-0-0 2
+Nanosensors 3-0-0 3 In-memory Computing 2-0-0 2
+Variability Analysis of Integrated
+Circuits 1-0-0 1 Optimization in VLSI Systems 2-0-0 2
+Resource Constrained AI 3-0-0 3 Flexible and Printed
+Electronics 3-0-0 3
+Electromagnetic Interference in ICs 1-0-0 1 Quantum Nanoelectronics 3-0-0 3
+IC Fabrication lab 0-0-2 1 Machine Learning for
+Communication 3-0-0 3
+List of Program Electives

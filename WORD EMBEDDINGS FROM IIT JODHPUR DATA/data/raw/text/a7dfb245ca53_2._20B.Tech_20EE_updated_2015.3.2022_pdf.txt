@@ -1,0 +1,1361 @@
+SOURCE_PDF: a7dfb245ca53_2._20B.Tech_20EE_updated_2015.3.2022.pdf
+
+Indian Institute of Technology Jodhpur
+2nd year onwards B.Tech. Electrical 
+Engineering Curriculum Structure 
+AY 2020-21
+
+1. Introduction
+The vision of the Department is to develop a world class teaching and research atmosphere by excelling in 
+fundamental knowledge and applications of Electrical Engineering through curricular and co-curricular 
+activities. In line with this vision, the department offers an undergraduate program to attract highly motivated 
+students who are interested in cutting-edge technologies in the broad discipline of electrical engineering, and 
+wish for a flexible program to consider a variety of career paths through capability-linked specializations of their 
+choice. 
+ 
+The program provides strong fundamentals in mathematics and science which develop analytical thinking and 
+form the basis of the diverse tool set used by electrical engineers to innovate, design and develop the technology 
+of the future. The engineering design component is integrated throughout the curriculum, motivating and 
+familiarizing students with the real-world engineering challenges and equipping them with the essential technical 
+skills for problem solving. The early strong theoretical foundations and hand-on exposure are supplemented by 
+the core electrical engineering concepts ranging from circuit analysis and design, computing, control, 
+communication, signal processing, and power engineering. Additional problem-solving skills and practical 
+experience are developed through design projects and laboratory experiments. 
+ 
+The curriculum offers flexibility to students for pursuing capability-linked specializations of their choice. The 
+department specializations are designed to enable students to lead technological innovations addressing the 
+emerging industrial and societal challenges in various domains of electrical engineering. The EE students can opt 
+for any one of the departmental specializations in Cyber Physical Systems, Intelligent Communication and Networking, 
+Communication Engineering, VLSI Systems, Visual Computing, Socio-Digital Reality, Nano and Flexible Electronics, 
+Smart Grid, and Artificial Intelligence of Things. The in-depth understanding and technical skills acquired through 
+these specializations will enable graduates to play a vital role in advancement of technologies such as 5G/6G 
+communications, smart cities, smart healthcare, and Industry 4.0. 
+ 
+Another distinct feature of the curriculum is provision for minors in Entrepreneurship or Management or 
+interdisciplinary specializations in Smart Healthcare, Artificial Intelligence, and Robotics and Mobility Systems that 
+allow students to pursue diverse career goals. Students will also have an opportunity to opt for a B. Tech. - 
+Master’s dual degree in their chosen specialization or minor area. The curriculum also offers numerous options 
+that enable students to gain industrial experience through collaborative industrial projects at industries and 
+entrepreneurship experience at the Institute's incubation centre. 
+ 
+ 
+2. Objectives of the program
+The program aims at imparting theoretical foundations and practical skills of electrical engineering discipline. It 
+prepares graduates for three potential career paths: 
+1. An industrial path to take up the role of a technical leader or a manager through life-long learning. 
+2. An entrepreneurial path to apply the acquired knowledge to develop new products and initiate Deep Tech
+3. An academic path to enter a top-tier graduate program to conduct cutting-edge research with broad
+applications, and eventually to pursue a research or academic profession.
+3. Expected Graduate Attributes 
+ 
+Graduates of the UG program in EE are expected to have following attributes: 
+1. Strong understanding of fundamentals of mathematics, science and engineering with emphasis on electrical
+technologies for Communication, Signal Processing, Devices & Circuits, Computing Systems, Control 
+Engineering, and Power Engineering
+2. Ability to apply technical skills to identify, formulate, and solve complex problems encountered in modern
+electrical engineering practices.
+3. Ability to model, analyze, design and experimentally evaluate electrical components or systems that achieve
+desired technical specifications, subject to certain resource constraints.
+
+4. Ability to compete effectively in a world of rapid technological advancements and assume leadership roles
+within academic, industrial, or entrepreneurial environments in the broad context of electrical engineering.
+5. Have established the foundations for critical thinking that are needed to broaden their careers in diverse
+disciplines through minor/ graduate-level studies and the process of life-long learning.
+6. Ability to recognize and practice professional ethics in working environment. 
+7. Ability to acquire new knowledge and integrate it in the existing paradigm so as to create new innovative
+electrical systems for the current and future usage and apply it as needed.
+4. Learning Outcomes 
+ 
+The graduates of EE UG program will be able: 
+1. To acquire knowledge of electrical engineering principles along with the required understanding of
+computing, engineering fundamentals, mathematics, and science.
+2. To apply the concepts of mathematics, sciences and engineering (including computing science) to analyze and
+design complex electrical and electronic circuits and systems containing hardware and software modules.
+3. To gain in-depth understanding of concepts of Signals, Devices, Circuits, Systems, Machine Learning,
+Programming, Control, Communications, Hardware Design and related interdisciplinary topics.
+4. To create, select, and apply appropriate techniques, resources, electrical engineering design and computing
+tools to solve complex engineering problems with an understanding of the limitations through laboratory 
+exercises and design projects.
+5. To perform literature review and patent landscaping for innovative research. 
+6. To adapt to work in multidisciplinary environment. 
+7. To understand professional ethics and social responsibilities. 
+8. To develop technical presentation skills and communicate effectively. 
+9. To engage in independent learning in the context of technological advancements. 
+10. To conduct develop attitude for product design and entrepreneurial activities. 
+ 
+ 
+5. New skill sets targeted
+EE students explore subjects critical to advancement in today’s needs — from circuit design and electronics to 
+computing, control and communication, and machine learning. The acquired knowledge will be helpful in future 
+technologies including:
+1. 5G and Beyond Communications 
+2. Cyber Physical Systems 
+3. Nano-electronics and Quantum Devices 
+4. Smart Grid
+
+Area Category Topics Course (IE/IS/PC/PE)
+Communi
+cation Core Random Variables, Stochastic Processes,
+Stationarity, Ergodicity, Discrete and
+Continuous Random Processes Probability, Statistics and
+Stochastic Processes (IE, MA)
+Signal and System Classification, LTI
+Systems Properties and Response, Fourier,
+Laplace and z-Transform, Sampling Signals and Systems (IE, EE)
+EM Wave Propagation, Transmission Lines,
+Waveguides and Antennas Engineering Electromagnetics
+(PC)
+Modelling of Noise and Channels, Noise
+through LTI Systems, Modulation, Digital
+Baseband and Passband Transmissions, Communication Systems (PC)
+Techniques OSI Architecture, Source Coding, Error
+correction techniques, Queuing Theory,
+Switching Techniques, Controlled and
+Random Access, Routing, End-to-End
+Reliability Data Communication Networks
+(PC)
+Quantization, Discrete Fourier Transform,
+Fast Fourier Transform, Circular
+Convolution, Multirate Signal Processing Digital Signal Processing (PC)
+Source Coding, Channel Coding, Channel
+Capacity Theorem, AWGN Channel
+Capacity, Multiuser Channel Capacity Information Theory and Coding
+(PE)
+Systems 5G and beyond Communications Cellular Communication
+Networks (PE)
+6. Topic clouds and Mapping of Topic clouds with proposed courses
+Table 1. Topics and Mapping of Topic with Courses
+
+Area Category Topics Course (IE/IS/PC/PE)
+Signal
+Processing Core Probability, Random Variables,
+Concentration bounds, Linear Prediction,
+Covariance Matrix, Random Processes, Probability, Statistics and
+Stochastic Processes (IE,
+MA)
+Signal Transforms, Signals through LTI
+Systems, Sampling and Quantization Signals and Systems (IE,
+EE)
+Basics of Complexity Analysis, Data
+Structures, Sorting, Searching, Shortest
+Paths. Data Structures and
+Algorithms (PC)
+Techniques Sampling and Reconstruction, Fourier
+Analysis (CTFT, DTFT), Discrete Fourier
+Transform, Quantization Error Analysis,
+Finite Length Effects, FIR and IIR Filter
+Design and Implementation, Multi-rate
+Systems Digital Signal processing
+(PC)
+Shannon’s lossless source coding theorem
+and rate-distortion theory Information Theory and
+Coding (PE)
+Systems Signal Processing and Interpretation Signal Compression (PE)
+
+Area Category Topics Course (IE/IS/PC/PE)
+Control
+Engineering Core Signals Through LTI Systems
+Fourier, Laplace and z-Transform
+Systems Modelling in Time and
+Frequency Domain Signals and Systems
+(IE),
+Circuit Theory (PC)
+Classical Control Theory, Characteristics of
+Feedback Systems, State-Space Analysis,
+Controller and Observer Design, Compensation
+Techniques Control System (PC)
+Techniques Vector spaces and Linear operators, State
+Feedback for MIMO and SISO systems,
+Discrete time system, Linear system stability,
+Controllability, observability, reachability and
+stabilizability, Reduced order observer
+design, Separation principle Modern Control (PE)
+Systems Cyber-Physical Systems Nonlinear and
+Adaptive Control (PE)
+
+Area Category Topics Course (IE/IS/PC/PE)
+Devices
+and
+Circuits Core Quantum Mechanical Tunneling
+Bulk vs Quantum Properties
+Crystals and Energy Bands Foundations of Quantum
+Information Processing (IE,
+PH)
+Magnetic Materials Material Science and
+Engineering (IE)
+Heat Transfer Thermodynamics (IE, ME)
+Fourier Analysis Signals and Systems (IE, EE)
+Basic Circuit Theory Circuit Theory (PC)
+Transmission Lines and Guiding Structures Engineering
+Electromagnetics (PC)
+Techniques Energy Band Formation, Drift and Diffusion,
+Device Physics, MOS Capacitors and
+Transistors, High Power Devices,
+Unconventional Devices Physical Electronics (PC)
+Review of MOSFETs, Single Stage and
+Differential Amplifiers , Cascade and Cascode
+Amplifiers, Operational Amplifiers and
+Feedback, Small Signal and Frequency Response Analog Circuits (PC)
+ASIC Design Flow, CMOS Implementation of
+Gates, Combinational and Sequential Circuits, VLSI Design (PE)
+
+Systems Nano-electronics and Integrated Circuits Integrated Circuit
+Technology (PE)
+Area Category Topics Course (IE/IS/PC/PE)
+Computing
+Systems Core Probability, Random Variables,
+Concentration bounds, Linear
+Prediction, Covariance Matrix, Probability, Statistics and
+Stochastic Processes (IE, MA)
+Signal Transforms, Signals through LTI
+Systems, Sampling and Quantization Signals and Systems (IE, EE)
+Design of Digital Circuits
+Implementation using Verilog/HDL Digital Design (PC)
+Basics of Complexity Analysis, Data
+Structures, Sorting, Searching, Shortest
+Paths Data Structure and Algorithms
+(PC)
+Learning methods Pattern Recognition and
+Machine Learning (IE)
+Techniques Pipelined Processing, Memory
+Organization, Interfacing Computer Architecture (PC)
+
+Sampling Theory and Signal
+Reconstruction, Fast Fourier Transform,
+Digital Filters Digital Signal Processing (PC)
+Microprocessors and Microcontrollers,
+Memory Interfacing, Arm Mbed Embedded Systems (PC)
+Interfacing with GPIOs, Interfacing DC
+Motor, Keyboard Interfacing, Use of
+Timers to produce delay,
+Implementation of Digital Filters Digital Systems Lab (PC)
+Systems Embedded Computing and SoC High Level Synthesis (PE, CS)
+Area Category Topics Course (IE/IS/PC/PE)
+Power
+Engineering Core Signal Transforms, Signals through LTI
+Systems, Sampling and Quantization Signals and Systems (IE)
+Network theorems, Step and impulse
+response, Two-port network analysis,
+Three phase circuits Circuit Theory (PC)
+Maxwell’s equations, Wave propagation Engineering Electromagnetics
+(PC)
+Thyristor, IGBT Physical Electronics (PC)
+
+Techniques Transformers, DC machines, Induction
+machines, Synchronous machines
+Control of machines using converters Electrical Machines (PC)
+Electrical Machines Lab (PC)
+Transmission line modelling and
+performance, Per-unit representation of
+power system, Underground cables,
+Overhead line insulators, Power electronic
+converter based, compensation, Integration
+of renewable energy sources, Power system
+monitoring and protection Power Engineering (PC)
+Systems Smart Grid Measurement and
+Instrumentation (PE)
+
+S.N. Course Type Course Category Regular B.Tech.
+Credit Total
+1 Institute Core (I) Engineering (IE) 34 69
+Science (IS) 16
+Humanities (IH) 12
+2 Programme Linked (L) Science (LS) 7
+3 Programme Core (P) Programme Compulsory (PC) 52 71
+Programme Electives (PE) 16
+B.Tech. Project (PP) 3
+4 Open (O) Open Electives (OE) 10 10
+5 5 Engineering Science (E) Engineering Science (E) Engineering Science Core (EC) 0 0
+Engineering Science Elective (EE) 0 0
+Total Graded 150
+6 Non-Graded (N) Humanities (NH) 6 15
+Engineering (NE) 3
+Design/Practical Experience (ND) 6
+Total Graded + Non-Graded 165
+7. Course Categories, credit distribution and Credit Structure of B.Tech. Programmes
+Table 2.ProposedCourse Categories and credit distribution in the proposed B.Tech. Programmes
+
+Type L-T-P Distribution of contact and beyond contact hours Total Credits
+(TC=TH/3)
+Contact Hours Beyond Contact Total Hours
+(CH) Hours (BCH) (TH)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+8. Credit Structure of B.Tech. Programmes
+Table 4.Credit Structure for B.Tech. Programmes (Up to 6XXX Level)
+#Contact hour for project refers to the involvement of students in the laboratory, discussion, etc.
+
+Sr. No Course Name LTP Contact Hours Credit
+1 Data Structures and Algorithms 3-0-2 5 4
+2 Circuit Theory 3-0-0 3 3
+3 Engineering Electromagnetics 3-0-0 3 3
+4 Physical Electronics 3-0-0 3 3
+5 Digital Design 2-0-2 4 3
+6 Analog Circuits 3-0-3 6 4.5
+7 Electrical Machines 3-0-0 3 3
+8 Communication Systems 3-0-0 3 3
+9 Computer Architecture 3-0-0 3 3
+10 Control Systems 3-0-3 6 4.5
+11 Digital Signal Processing 3-0-0 3 3
+12 Data Communication Networks 3-0-0 3 3
+13 Power Engineering 3-0-3 6 4.5
+14 Embedded Systems 3-0-0 3 3
+15 Digital Systems Lab 0-0-3 3 1.5
+16 Electrical Machines Lab 0-0-3 3 1.5
+17 Communication Systems Lab 0-0-3 3 1.5
+Total 52
+9. List of Programme Compulsory Courses
+Table 5. Programme Compulsory Courses
+
+S. No. Stream Courses L-T-P Credit
+1 Communication Information Theory and Coding (300)
+Computer Networks ( CS)
+Microwave Engineering (400)
+Cellular Communication Networks(400)
+Satellite Communications (400)
+Spread Spectrum Communications(400)
+Optical Communication Systems (400) 3-0-0
+3-0-3
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0 3
+4.5
+3
+3
+3
+3
+3
+2 Signal Processing Digital Image Processing (400)
+Speech Processing (400)
+Signal Compression (400)
+System Identification (400) 3-0-0
+3-0-0
+3-0-0
+3-0-0 3
+3
+3
+3
+3 Control
+Engineering Modern Control (300)
+Nonlinear and Adaptive Control (400)
+Robust and Optimal Control (400)
+Foundations of Cyber Physical Systems (400)
+Introduction to Robotics ( IDRP) 3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0 3
+3
+3
+3
+3
+4 Devices and
+Circuits VLSI Design (300)
+Biosensors (300)
+Integrated Circuit Technology (700)
+Sensors and Actuators (400)
+CAD for VLSI (700)
+Physics and Modeling of MOS Transistor (700) 3-0-0
+3-0-2
+3-0-0
+3-0-0
+2-0-2
+3-0-0 3
+4
+3
+3
+3
+3
+5 Computing
+Systems Deep Learning ( AI)
+High Level Synthesis ( CS)
+Real-Time Systems (400)
+Reconfigurable Computing (400)
+Mobile and Pervasive Computing (CS) (700) 3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0 3
+3
+3
+3
+3
+6 Power
+Engineering M easurement and Instrumentation (300)
+Power System Analysis and Stability (400)
+Power System Operation and Control (400)
+Power Electronics (400)
+Industrial Drives (400) 3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0 3
+3
+3
+3
+3
+10. 
+ ScanArea-wise Programme Elective Courses
+Table 6. Stream-wise Programme Electives Courses
+Mini-Project(0-0-6) 
+Program elective component for 8th semester 
+ 
+Design/Practical Experience (ND) 
+Options: Three Summer Design Projects (0-0-4) for 2 Credits each or in regular semesters.
+
+S. No. Name of
+Specializati
+on Introduction
+1 Cyber
+Physical
+System In today's world, there is a global interest to study systems that can interact with each
+other and the surrounding with cooperative objectives, because of the
+introduction of new and cheap computational and communication resources. Such
+systems are usually referred to as cyber-physical systems (CPS). Almost, everything
+around us constitutes a cyber-physical system. For instance, traffic networks, a swarm
+of unmanned vehicles, smart power distribution networks, etc., are some of the recent
+technological movements towards automation.
+The philosophy of the cyber-physical systems vertical is to familiarize students with the
+basic building blocks for the analysis and synthesis of such systems, along with hands-
+on experiments. The theme of this vertical span through the various core subjects
+ranging from design, control, and computing to safety and security of cyber-physical
+systems.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Introduction to
+Cyber physical
+Systems 3-0-0/
+Foundation of Cyber
+Physical Systems* 3-
+0-0
+Security in Cyber
+Physical Systems 2-
+0-0
+Advanced Control
+System 3-0-0 Robust and optimal control 3-0-0
+Nonlinear and Adaptive control 3-0-0
+Modern Control 3-0-0
+Networked Dynamical Systems and Control 3-0-0
+Introduction to robotics 3-0-0
+Autonomous Systems 3-0-0
+Real-Time Systems 3-0-0
+Reconfigurable Computing 3-0-0
+Artificial Intelligence 3-0-0
+Measurement and Instrumentation 3- 0-0
+Computer Networks 3-0-3
+System Identification 3-0-0
+Computer Vision 3-0-0
+Edge & Fog Computing 3-0-0
+Vehicular Ad-Hoc Networks (VANETs) 3-0-0
+Introduction to Smart Grid 3-0-0
+Smart Manufacturing 1-0-2
+Resource Constrained AI 3-0-0
+Industry 4.0: Applications in Manufacturing Systems1-0-0
+Optimization 1-0-0
+Specialization Project 0-0-6
+Plugin Electric Vehicles (EE) 3-0-2
+Selected Topic on Distributed Generation (EE) 3-0-0
+Introduction to Haptics (EE) 3-0-0
+Ad Hoc wireless network (CS) 3-0-0
+Human machine interface (CS)
+Security and its Applications (CS) 3-0-0
+5G networks (CS) 3-0-0
+Artificial Intelligence I (CS) 3-0-0
+Artificial Intelligence II (CS) 3-0-0
+Real-time Autonomous systems (CS) 3-0-0
+Social Network analysis (CS) 3-0-0
+Graph theory and its applications (CS) 3-0-0
+Introduction to Augmented Reality and Virtual Reality (CS) 3-0-0
+Computer Graphics (CS) 3-0-0
+Computational optimization (CS) 3-0-0
+Dependable AI (CS) 3-0-0
+Robotics and mobility systems (RMS) 3-0-0
+Mobile robots (RMS) 3-0-0
+Autonomous systems (RMS) 3-0-0
+Aerial Robots (RMS) 3-0-0
+Planning and decision making for robots (RMS) 3-0-0
+Tele Robots (RMS)3-0-0
+Dynamical Systems (MA)3-0-0
+Introduction to data science (MA)3-0-0
+Mathematics for data science (MA)3-0-0
+Nonlinear dynamics and chaos (MA)3-0-0
+*If a student does Foundation of CPS, she/he will be exempted from Introduction to CPS course.
+
+S. No. Name of
+Specialization Introduction
+2 Communication
+Engineering The fast development of economy and society requires modern and high-
+performance communications systems that can reliably communicate the
+massive amount of data originating from various sources including Internet of
+Things, while still offering acceptable levels of energy consumption, equipment
+cost and network deployment and operation cost. To achieve these objective
+communication engineers require a deep mathematical understanding of the
+trade-offs involved in efficient reliable communication design and circuits and
+systems for future communication systems.
+The core component of the Communication Engineering specialization enables
+students to face these challenges by focusing on topics involving
+communication theory, wireless networking and protocol design, security
+architectures, and system performance analysis. The elective bouquet provides
+students an opportunity to either gain required depth for graduate level
+academic programs of their choice or sufficient breadth to expose them to
+defining technology for future generation communication systems including
+optical and millimeter wave technologies.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Optical Communication
+Systems(3-0-0)
+Wireless Communications
+(3-0-0)
+Digital Communications:
+Hands-on (1-0-2) Cellular Communication Networks 3-0-0
+MIMO Wireless Communications 3-0-0
+UAV Assisted Wireless Networks 3-0-0
+Spread Spectrum Communications 3-0-0
+Cryptography and Network Security 3-0-0
+Statistical Decision Theory 2-0-0
+Machine Learning for Communications 3-0-0
+Advanced Digital Signal Processing 3-0-0
+Multi-rate Digital Signal Processing 2-0-0
+Adaptive Signal Processing 3-0-0
+Quantum Communications 3-0-0
+Optical Techniques for Communications 2-0-2
+Optical Signal Processing 3-0-0
+Optical Fiber Communications 3-0-0
+Free Space Optical Communication 3-0-0
+Optical Networks 3-0-0
+Antenna Engineering 3-0-0
+RF Integrated Circuits 3-0-0
+Millimeter Wave Technology 3-0-0
+RF System Design for Communications 3-0-0
+Radar Engineering 3-0-0
+Selected Topics in Communication I 1-0-0
+Selected Topics in Communication II 2-0-0
+Selected Topics in Communication III 3-0-0
+Specialization Project 0-0-3
+3 Intelligent
+Communication
+and Networking
+(EE, AI and CS) The development of communications has vastly relied on theories and models,
+from information theory to channel modelling. These traditional approaches are
+showing serious limitations, especially in view of the increased complexity of
+communication networks. The advent of 5G is introducing new challenges for
+mobile communications service providers, and integrating artificial
+intelligence/machine learning techniques into networks is one way the industry
+is addressing these complexities. Advances in artificial intelligence, particularly
+taking advantage of rapidly increasing network and user behavior data,
+indicates a new technological frontier of communications and networking, not
+
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Design and Analysis of
+Communication Networks (3-0-2)
+Intelligent Radio Networks (3-0-2) Computer Networks
+Computation Oriented Communications
+Machine Learning for Communications
+Real-Time Communications
+Delay Tolerant Networks
+Cognitive Internet of Vehicles
+Hardware-Aware Communications
+Selected Topics in Communication I
+Selected Topics in Communication II
+Selected Topics in Communication III
+Specialization Project 0-0-6
+4 Visual
+Computing
+(EE, CS, ME and
+AI) This specialization is designed to attract highly motivated students who are
+interested in the signal processing domain with a focus on visual computing.
+Current and future industry trends indicate increased involvement of visual
+computing for various automation processes, healthcare, and entertainment.
+The designed curriculum aims to provide education with excellence in some of
+the emerging areas which fall under the broad umbrella of visual computing.
+The curriculum is designed to enable students in choosing a variety of career
+paths such as intelligent visual computing, industry, and entrepreneurship.
+Graduates with specialization in visual computing are expected to have the
+attributes such as strong understanding of fundamentals of Mathematics, Signal
+Processing, Speech Understanding, Computer Vision, Computer Graphics,
+Haptics, Multimedia Processing, and AR/VR.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Computer Graphics (3-0-0)
+Computer Vision (3-0-0)
+Visual Computing Lab (0-0-4) Computational Imaging [3-0-0]
+3D Shape Analysis [3-0-0]
+Introduction to Haptics [3-0-0]
+Advance Machine Learning [3-0-0]
+Computational Photography [3-0-0]
+Video Processing [3-0-0]
+Bio-imaging [3-0-0]
+Medical Image Analysis [3-0-0]
+Image Synthesis [3-0-0]
+Animations [3-0-0]
+Digital Image Processing [3-0-0]
+Visual Perception [3-0-0]
+Introduction to AR and VR [3-0-0]
+Real-Time Vision Architectures [3-0-0]
+Scalable Machine Learning [3-0-0]
+Compressive Sensing [3-0-0]
+
+5 Socio-Digital
+Reality
+(EE, CS and AI) The ever growing presence of social media and the need for more realistic ways
+of interacting via the digital world is fuelling novel and exciting industry
+innovations. Many industrial players (Google, Facebook, Microsoft etc.) have
+now dedicated centres and futuristic plans in the said area. Hence, this
+specialization seeks to provide students with fundamental knowledge that will
+enable them to design and innovate in several related areas within the broad
+theme of socio-digital reality.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Social Network (3-0-0),
+Introduction to AR-VR (3-0-0)
+Multimodal interface (0-0-4) Introduction to Haptics,
+Design Process,
+Speech Understanding,
+Computer Graphics,
+Human Computer Interface,
+Natural Language Understanding,
+Computer Vision,
+Image and Video Forensics
+Specialization Project 0-0-6
+6 Nano and
+Flexible
+Electronics Semiconductor devices have been at the core for advancement of the current IC
+industry. Till now, the technology has followed Moore’s law for scaling towards
+the sub-10 nm era. To accomplish that, various new materials and device
+structures have found a place in current generation chips. Moreover, various
+issues related to technology scaling such as quantum mechanical effects have
+found importance in R&D for new generation devices. In addition, new non-
+volatile memory technologies have been explored for faster and denser
+alternatives to conventional Random Access Memories. Moreover, technologies
+such as Flexible Electronics have emerged as a potential candidate for large area
+and low cost options for hybrid integration of flexible components.
+To train the students in this specialization and cover the essential fundamentals,
+three core components have been chosen: Quantum Nano-electronics, Flexible
+and Printed electronics, & Emerging Devices including alternate transistor
+structures and new non-volatile memory devices. These will provide
+fundamental understanding of new generation nanoelectronics, related
+processing, and characterization. The electives will help in shaping the ability of
+the students to think creatively, provide an in depth cognition and expose them
+to deliver towards direct applications and also to undertake industry relevant
+research. A combination of nano and flexible electronics will prepare students
+for new age challenges such as cost, power, and wider suitability for various
+applications.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Introduction to Spintronics (3-0-0)
+Flexible and Printed Electronics (3-0-0)
+Advanced Compact Modeling (2-0-0) Nano Sensors
+Quantum Nano-Electronics
+Non-Volatile Memory Technologies
+
+7 Artificial
+Intelligence of
+Things (AIoT)
+(EE, CS and AI) Artificial Intelligence of Things (AIoT) is a combination of artificial intelligence
+(AI) technologies with the internet of things (IoT) infrastructure to achieve more
+efficient IoT operations by enhancing data management and analytics. This is
+transformational and mutually beneficial for both technologies as AI improves
+data analytics and decision making capabilities through machine learning and
+IoT adds value through better connectivity, signalling and data exchange.
+The specialization in AIoT is designed to impart knowledge in a wide variety of
+fields such as IoT, communications, VLSI, computing, AI and ML. Design of IoT
+system architecture, its components and applications along with machine
+learning and AI algorithms is covered through courses such as Introduction to
+IoT and Artificial Intelligence. Industry relevant circuit design practices are
+included in courses such as Analog and Interfacing Circuits and Digital and SoC
+Design. The program also features hands-on implementation of IoT systems
+through labs and tutorials.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Artificial Intelligence / Advanced
+Machine Learning (3-0-0)
+Hardware Software Co-Design
+(3-0-2)
+IoT Systems Architecture (1-0-0) Embedded System (3-0-0)
+Microsystems Fabrication Technology (2-0-2)
+Sensors and Measurement (2-0-0)
+Deep Learning (3-0-0)
+Advance Machine Learning (3-0-0)
+Advanced Artificial Intelligence (3-0-0)
+Edge and Fog Computing (3-0-0)
+Neuromorphic Computing and Design (3-0-0)
+Analog and Interfacing Circuits (3-0-2)
+Data Communication and Networking (2-0-2)
+Resource Constrained AI (3-0-0)
+Specialization Project [0-0-6]
+Mobile and Pervasive Computing (3-0-0)
+VANET(3-0-0)
+Virtualization and Cloud computing (3-0-0)
+8 VLSI Systems
+(EE and CS) In the current era of Internet-of-Things (IoT), Artificial Intelligence (AI) and 5G
+Circuits, there are multiple prototypes being proposed and demonstrated these
+days for smart and real-time applications. To support this, high-speed
+circuits/systems are required which should be able to handle high bandwidth
+requirements of these applications. Over the decades, Very Large Scale
+Integration (VLSI) technologies have been a robust way to implement the
+required functionality through digital systems implementation and make it very
+easy for the designers at different abstraction levels to transfer the intellectual
+properties. For meeting timing and power requirements in these systems,
+various aspects of application-specific integrated implementation of digital and
+analog circuits/systems is required.
+This program aims to provide the students an exposure by making them
+understand the functioning, designing and testing of VLSI Circuits and System
+as well as their performance assessment criteria. The program includes a variety
+of detailed courses on Analog Circuits, Digital Circuits, Mixed-Signal Circuits,
+Synthesis, Verification and Testing. These courses address state-of-the art
+design methodologies as well as current trends in the industry such as high-
+speed design issues and techniques.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+
+Hardware Design for Artificial
+Intelligence 3-0-0
+Formal Verification 2-0-0
+Advanced VLSI Design and Lab 2-0-
+2 EEL7XX0 VLSI Broadband Communication
+Circuits [3-0-0]
+EEL7XX0 VLSI Testing [2-0-0]
+EEL7XX0 Hardware Software Co-Design
+[3-0-2]
+CSL7XX0 Neuromorphic Computing and
+Design [3-0-0]
+EEL7XX0 Image Sensor Design and
+Applications [3-0-0
+Specialisation Project [0-0-6]
+CSL7XX0 High Level Synthesis [3-0-0]
+9 Smart Grid Society’s ability to utilize more renewable energy like wind and solar power is
+limited by the fact that our existing energy architecture was designed a century
+ago. The current system relies on large, centrally controlled power plants with
+predictable outputs. But wind and solar power fluctuates with environmental
+conditions, are difficult to control, and the power they generate requires
+conversion. Adapting the existing grid to operate reliably with renewable
+energy sources is a complex task. A new architecture for power distribution,
+called the smart grid, is required to accommodate renewable energy.
+New technologies can have transformative impacts on remote communities that
+are not served by traditional power grids. Power distribution challenges are
+faced all over the world and the students should have an opportunity to receive
+training in advances in smart grid technology.
+Specialization Core
+(8 credits) Specialization Elective
+(12 Credits)
+Introduction to Smart Grid 3-0-0
+Renewable Energy Systems 3-0-0
+Power Quality 2-0-0 Power System Protection 3-0-0
+Power System Dynamics and
+Control 3-0-0
+HVDC & FACTS 3-0-0
+Power Systems Restructuring 3-
+0-0
+Power Quality Mitigation
+Techniques 3-0-0
+Plugin Electric Vehicles 3-0-2
+Power System Reliability and
+Security 3-0-0
+Selected Topics in Distributed
+Generation 3-0-0
+Introduction to Cyber-Physical
+Systems 3-0-0
+Specialization Project 0-0-3
+
+Cat Course LTP CH NC GC Cat Course LTP C
+H N G
+I Semester II Semester II Semester
+IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4 IE Engineering
+Mechanics 2-1-0 3 - 3
+IE Introduction to
+Computer Science 3-0-2 5 - 4 IS Chemistry 3-0-0 3 - 3
+IE Introduction to
+Bioengineering 3-0-2 5 - 4 IS Physics 3-0-0 3 - 3
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering Design 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+NH Communication 0-0-2 2 1 - NH Communication 0-0-2 2 1 -
+Skill I Skill II
+NH Social Connect and
+responsibilities I Social Connect and 0-0-1 1 0.5 - NH Social Connect 0-0-1 1 0.
+5 -
+responsibilities I and
+NH Performing Arts I 0-0-1 1 0.5 - NH Performing Arts 0-0-1 1 0. -
+/Sports I II/Sports II 5
+Total 12-1-14 27 3 17 Total 11-2-12 2
+5 3 1
+6
+III Semester IV Semester
+IE Materials Science &
+Engineering
+Fractal 1 – Energy
+Materials
+Fractal 2 –
+Magnetic Materials
+F3 – Computational
+Material Design 3 ×
+1-0-0 3 - 3 IE Pattern
+Recognition and
+Machine
+Learning 3-0-2 5 - 4
+IE Signals and
+Systems 3-1-0 4 - 4
+IE Thermodynamics 3-1-0 4 - 4 PC Circuit Theory 3-0-0 3 - 3
+LS Probability,
+Statistics and
+Stochastic
+Processes 3-1-0 4 - 4 PC Engineering
+Electromagnetic
+s 3-0-0 3 - 3
+LS Foundations of
+Quantum
+Information
+Processing 3-0-0 3 - 3 PC Digital Design 2-0-2 4 3
+12. Curriculum of B.Tech. inElectrical Engineering (Regular)
+
+PC Data Structure and 3-0-2 5 - 4 PC Physical 3-0-0 3 3
+Algorithms Electronics
+NE Intro. To Profession 0-0-2 2 1 IH Humanities I 3-0-0 3 - 3
+Total 18-3-4 25 1 22 Total 17-0-4 2
+1 - 1
+9
+V Semester VI Semester
+PC PC Analog Circuits Analog Circuits 3-0-3 6 - 4.5 4.5 PC PC Power 3-0-3 6 - 4.
+Engineering 5
+PC Electrical Machines 3-0-0 3 - 3 PC Digital Signal 3-0-0 3 - 3
+PC Communication
+Systems 3-0-0 3 - 3 PC Data 3-0-0 3-0-0 3 - 3 3
+PC Computer 3-0-0 3 - 3 PC Embedded 3-0-0 3 - 3
+Architecture Systems
+PC Control Systems Control Systems 3-0-3 6 - 4.5 PC Communication 0-0-3 3 - 1.
+Systems Lab 5
+PC Digital Systems 0-0-3 3 - 1.
+PC Electrical 0-0-3 3 - 1.
+Machines Lab 5
+IH Humanities II 3-0-0 3 - 3 PE Program/Open
+Elective 3-0-0 3 3
+NH Professional Ethics 0-1-0 1 - NH Professional 0-0-2 2 1 -
+Total 18-1-6 24 1 21 Total 15-0-14 2
+9 1 2
+1
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE
+/
+OE Programme/Open
+Electives - - - 9 PE
+/
+OE Programme/Op
+en Electives - - - 1
+4
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 15-0-6 - - 17 Total 17-0-0 - - 1
+7
+Total of Graded Credit - 1
+5
+0
+Total of Non-Graded Credit 9 -
+Non-Graded Design Credits 6 -
+Grand Total 165
+
+Title Physical Electronics Number EEL2XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. EE Type Compulsory
+Prerequisite Quantum Mechanics
+14. Detailed Program Compulsory Course Contents
+
+Title Circuit Theory Number EEL2XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. EE Type Foundation course
+Prerequisite Signals and Systems
+
+Title Engineering Electromagnetics Number EEL2XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. 2nd Year Type Compulsory
+Prerequisite Electromagnetism and Optics
+
+Title Digital Design Number EELXXX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for B.Tech. Type Compulsory
+Prerequisite Introduction to Electrical Engineering
+
+Title Analog Circuits Number
+Department Electrical Engineering L-T-P [C] 3–0–3 [4.5]
+Offered for B. Tech Type Compulsory
+
+Title Electrical Machines Number EEL3XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Compulsory
+Prerequisite Introduction to Electrical Engineering,
+Circuit Theory
+
+Title Control Systems Number EEL3XX0
+Department Electrical Engineering L-T-P [C] 3–0–3 [4.5]
+Offered for B.Tech. Type Compulsory
+Prerequisite Signals and Systems
+
+Title Communication Systems Number EEL3XX0
+Department Electrical Engineering L-T-P[C] 3–0–0 [3]
+Offered for B. Tech. 3rd Year Type Compulsory
+Prerequisite Signals and Systems, Fundamentals of Probability
+
+Title Communication Systems Lab Number EEP3XX0
+Department Electrical Engineering L-T-P [C] 0–0–3 [1.5]
+Offered for B. Tech. Type Compulsory
+Prerequisite Communication Systems
+
+Title Power Engineering Number EE3XXX
+Department Electrical Engineering L-T-P [C] 3–0–3 [4.5]
+Offered for B.Tech. Type Compulsory
+Prerequisite Electrical Machines, Engineering
+Electromagnetics
+
+Title Digital Signal Processing Number EEL3XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Compulsory
+Prerequisite Signal and Systems
+
+Title Data Communication Networks Number EEL3XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. Type Compulsory
+Prerequisite Communication Systems
+
+Title Embedded Systems Number EEL3XX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Core
+Prerequisite Basics of Computer Architecture
+
+Title Digital Systems Lab Number EEP3XX
+Department Electrical Engineering L-T-P [C] 0–0–3
+Offered for B.Tech. Type Compulsory
+Prerequisite Computer Architecture
+
+Title Electrical Machines Lab Number EEP3XX0
+Department Electrical Engineering L-T-P [C] 0–0–3 [1.5]
+Offered for B.Tech. Type Compulsory
+Prerequisite Electrical Machines
+
+15. Detailed Course Content of Programme Elective Courses
+Communications
+
+Title Information Theory and Coding Number EEL3XX0
+Department EE L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. Type Elective
+Prerequisite Communication Systems, Basics of Probability
+
+Title Spread Spectrum Communications Number EEL4XX0
+Department EE L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. Type Elective
+Prerequisite Communication Systems
+
+Title Optical Communication Systems Number EEL4XX0
+Department Electrical Engineering L-T-P[C] 3–0–0 [3]
+Offered for B. Tech. Type Elective
+Prerequisite Communication Systems, Engineering Electromagnetics
+
+Title Satellite Communications Number EEL4XX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. Type Elective
+Prerequisite Communication Systems, Data Communication
+Networks
+
+Title Cellular Communication Networks Number EEL4XX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. Type Elective
+Prerequisite Communication Systems, Data Communication
+Networks
+
+Title Microwave engineering Number EEL4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Elective
+Prerequisite Engineering Electromagnetics
+
+Signal Processing
+
+Title Signal Compression Number EE4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Program Elective
+Prerequisite Signal and Systems, Probability and Statistics
+
+Title Speech Processing Number EEL4xxx
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. Type Program
+Elective
+Prerequisite Signal and Systems, Probability and Stochastic
+Processes
+
+Title System Identification Number EE4XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Program Elective
+Prerequisite Signals and Systems,
+Basics of Probability
+
+Control Engineering
+
+Title Modern Control Number EEL3XX0
+Department Electrical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech. Type Elective
+Prerequisite Control Systems
+
+Title Nonlinear and Adaptive Control Number EEL4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech. Type Elective
+Prerequisite Control Systems
+
+Title Robust and Optimal Control Number EEL4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech. Type Elective
+Prerequisite Control Systems
+
+Title Foundations of Cyber-Physical Systems Number EEL4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech. Type Elective
+
+Devices and Circuits
+
+Title VLSI Design Number EEL3XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective Course
+Prerequisite Circuits, Basic understanding of electronics
+
+Title Biosensors Number EE3XX0
+Department Electrical Engineering L-T-P [E] 3–0–2 [4]
+Offered for B.Tech. Type Elective
+Prerequisite Fundamentals of Electrical and Bio Engineering
+
+Title Biosensors Number EE3XX0
+Course Title CAD for VLSI Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for B.Tech. Type Elective
+Pre-requisite VLSI Design
+
+Title Sensors and Actuators Number EE4XX0
+Department Electrical Engineering L-T-P [E] 3–0–0 [3]
+Offered for B.Tech. 4th Year Type Elective Course
+Prerequisite Material Science and Engg., Semiconductor Devices,
+Analog circuits
+
+Title Physics and Modeling of MOS Transistor Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Physical Electronics
+
+Computing Systems
+
+Title Real Time Systems Number EEXX0
+Department Electrical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech. Type Elective
+Prerequisite Computer Architecture, Embedded System
+
+Course Title Reconfigurable Computing Number EEL4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Compulsory
+Pre-requisite Digital Design
+
+Power Engineering
+
+Title Power System Analysis and Stability Number EE4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Electrical Machines, Power Engineering
+
+Title Power System Operation and Control Number EE4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Electrical Machines, Power Engineering,
+Power System Analysis and Stability
+
+Title Power Electronics Number EE4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Physical Electronics
+
+Title Industrial Drives Number EE4XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Electrical Machines, Power Electronics
+
+Title Measurement and Instrumentation Number EEL3XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Introduction to Electrical Engineering
+
+Specializations
+
+Communication Engineering Specialization
+
+Title Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Fundamentals of Communications
+
+Title Digital Communications: Hands-on Number EEP7XX0
+Department Electrical Engineering L-T-P[C] 1–0–2 [2]
+Offered for B. Tech., M. Tech. Type Core
+Prerequisite Communication Systems
+
+Title UAV Assisted Wireless Networks Number EEL7XX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech and Ph.D. Type Elective
+Prerequisite Wireless Communications
+
+Title Optical Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M. Tech., Ph.D. Type Elective
+Prerequisite Semiconductor Physics, Electromagnetism and
+Optics
+
+Title Optical Networks Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Tech,Ph.D Type Elective
+Prerequisite Basics of Fiber Optic communications
+
+Title Optical Techniques for Communications Number EE-4XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for B. Tech. Type Elective
+Prerequisite Basic EM Theory
+
+Title RF system design for Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. - Year Type Elective
+Prerequisite Engineering Electromagnetics, Microwave Circuits
+
+Title RADAR Engineering Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. ,M.Tech. Type Elective course
+Prerequisite Basics of RF circuits, Fundamentals of
+Communication Systems
+
+Intelligent Communication and Networking Specialization
+
+Title Design and Analysis of Communication Networks Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech., M. Tech., Ph.D. Type Compulsory
+Prerequisite Data and Computer Communications, Signals and
+Systems
+
+Title Intelligent Radio Networks Number EEL7XX0
+Department Electrical Engineering/ Computer Science and
+Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech., M. Tech., Ph.D. Type Compulsory
+Prerequisite Pattern Recognition and Machine Learning, Data
+and Computer Communications
+
+Title Computation Oriented Communications Number EEL7XX
+Department Electrical Engineering and Computer Science and
+Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M. Tech., Ph.D. Type Elective
+Prerequisite Pattern Recognition and Machine Learning, Data and
+Computer Communications
+
+Title Machine Learning for Communications Number EEL7XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Tech., Ph.D. Type Elective
+Prerequisite Pattern Recognition and Machine Learning, Data and
+Computer Communications
+
+Title Delay Tolerant Networks Number EEL7XX
+Department Electrical Engineering/ Computer Science and
+Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M. Tech., Ph.D. Type Elective
+Prerequisite Data Communication Networks, Data and
+Computer Communications
+
+Title Hardware Aware Communications Number EEL7XX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M. Tech. Type Elective
+Prerequisite Pattern Recognition and Machine Learning, Data and
+Computer Communications, Intelligent Radio
+Networks
+
+Nano and Flexible Electronics Specialization
+
+Title Introduction To Spintronics Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+S. Bandyopadhyay, M. Cahay, Introduction to Spintronics. CRC Press, 2nd edition, 2015.
+
+Title Flexible and Printed Electronics Number EEL7330
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M.Tech., Ph.D Type Elective
+Prerequisite Understanding of Electronic Materials and Devices
+
+Title Advanced Compact Modeling Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [3]
+Offered for B.Tech. Type Specialization Core
+Prerequisite Physics and Modeling of the MOS
+Transistors
+
+Title Quantum Nanoelectronics Number
+Department Electrical Engineering L-T-P [E] 3–0–0 [3]
+Offered for B.Tech. 4th Year Type Elective Course
+Prerequisite Semiconductor Devices
+
+Title Non-Volatile Memory Technologies Number
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech. Type Compulsory
+/Elective
+
+Title Semiconductor Optoelectronics Number
+Department Electrical Engineering L-T-P [E] 3–0–0 [3]
+Offered for Type Elective Course
+Prerequisite Semiconductor Devices
+
+Title Organic Optoelectronics Number
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Compulsory /Elective
+
+Smart Grid Specialization
+
+Title Introduction to Smart Grid Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech/Ph.D. Type Compulsory
+Prerequisite Power Engineering (for B.Tech. students)
+
+Title Renewable Energy Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Compulsory
+
+Title Power Quality Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech./M.Tech/Ph.D. Type Compulsory
+Prerequisite Introduction to Electrical Engineering
+
+Title Power System Protection Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Power System Analysis and Stability
+
+Title Power System Dynamics and Control Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech/Ph.D. Type Elective
+Prerequisite Power System Analysis and Stability (for B.Tech
+student)
+
+Title HVDC and FACTS Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech./Ph.D. Type Elective
+Prerequisite Power System Analysis and Stability, Power Electronics
+(for B.Tech students)
+
+Title Power System Restructuring Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech./Ph.D. Type Elective
+Prerequisite Power Engineering (for BTech students)
+
+Title Power Quality Mitigation Techniques Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech./Ph.D. Type Elective
+Prerequisite Power Electronics, Power Quality (for B.Tech
+students), Power Quality (for M.Tech. students)
+
+Title Plugin Electric Vehicles Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech./M.Tech./Ph.D. Type Elective
+Prerequisite Power Electronics, Introduction to Smart Grid
+(for B.Tech students), Introduction to Smart Grid
+(for M.Tech students)
+
+Title Power System Reliability and Security Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech./Ph.D. Type Elective
+Prerequisite Power System Operation and Control (for B.Tech
+students)
+
+Title Selected Topics in Distributed Generation Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech./Ph.D. Type Elective
+Prerequisite Power Electronics, Renewable Energy Systems (for
+B.Tech students)
+
+VLSI Systems
+
+Course Title Hardware Design for Artificial Intelligence Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M. Tech., Ph.D. Type Core
+Pre-requisite Artificial Intelligence, Digital and Analog
+Design.
+
+Course Title VLSI Testing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech., M. Tech., Ph.D. Type Compulsory
+Pre-requisite High-level Synthesis, VLSI Design
+
+Course Title Formal Verification Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech., M. Tech., Ph.D. Type Compulsory
+Pre-requisite High-level Synthesis, VLSI Design
+
+Course Title Advanced VLSI Design and Lab Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for B.Tech, M. Tech., Ph.D. Type Compulsory
+Pre-requisite Basic VLSI Design
+
+Title VLSI Broadband Communication Circuits Number EEL7XXX
+Department Electrical Engineering L-T-P 3–0–0 [3]
+Offered for B. Tech., M.Tech. , Ph.D. Type Elective
+Prerequisite Analog circuits, Basics of transmission lines,
+fundamentals of continuous time and discrete time
+signals and systems
+
+Artificial Intelligence of Things (AIoT) Specialization
+
+Visual Computing Specialization
+
+Title Image Synthesis Number EE/CSE 7XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Specialization Elective
+Prerequisite Computer Graphics, Digital Image Processing
+& Probability, Statistics, and Stochastic
+Processes
+
+Title Animation Number EE/CSE 7XXX
+Department Electrical Engineering, CSE L-T-P [C] 3–0–0 [3]
+Offered for Type Specialization Elective
+Prerequisite Computer Graphics
+
+Title Computational Photography Number EE/CSE 7XXX
+Department EE, CSE L-T-P [C] 3–0–0 [3]
+Offered for Type Specialization Elective
+Prerequisite Basics of Image Processing
+
+Title Visual Perception Number EEL7XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Specialization Elective
+
+Title Image and Video Forensics Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Specialization Elective
+Prerequisite Digital Image Processing & Probability,
+Statistics, and Stochastic Processes
+
+Title 3D Shape Analysis Number EE7XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Specialization
+Elective
+Prerequisite Fourier Analysis, Linear Algebra
+
+Socio-Digital Reality
+
+Title Multimodal Interface Number EE7XXX
+Department Electrical Engineering L-T-P [C] 0–0–4 [2]
+Offered for Type Specialization Core
+
+Title Speech Understanding Number EE7XXX
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Specialization Elective

@@ -1,0 +1,146 @@
+quality guidelines in accordance with gigw
+association to government is demonstrated by the use of in proper ratio and colour prominently displayed on the homepage of the website or homescreen of the app
+ownership information is displayed on the and on all important entry of the and each subsequent is standalone entity in terms of ownership navigation and context of content
+source of all documents not owned by the dept
+that have been reproduced in part or full is mentioned
+due permissions have been obtained for publishing any content protected by copyright
+of the displays the last reviewed date
+complete information including title size format and usage instructions is provided for all downloadable material
+in respect of each circular notification document form scheme service and recruitment notice the following should be clearly listed on the
+language if other than english to apply as applicable validity if applicable all outdated announcements tenders recruitment notices news and press releases are removed from the placed into the archives as per the archival policy
+all information about the government organisation which is useful to users is present in the about us section and mechanism is in place to keep the information up to date
+has contact us page providing complete contact details of important functionaries in the government organisation and this is linked from the and all relevant places on the
+feedback is collected through online forms and mechanism is in place to ensure timely response to received through the website
+provides prominent link to the national portal from the homepage and webpages belonging to the national portal load in the new browser window
+the website has been tested on multiple browsers
+language fonts have been tested on popular browsers for any inconsistency loss of layout
+the has readily available help section linked from all pages of the website
+website uses cascading style sheets css to control and incorporates responsive design features to ensure that the interface displays well on different screen sizes
+website is readable even when style sheets are switched off or not loaded
+proper page title and language attribute along with metadata for page like keywords and description are appropriately included
+minimum content as prescribed in the guidelines is present on the and all subsequent
+data tables have been provided with necessary
+content of the web page prints correctly on an a4 size paper website is in the or domain
+educational institutions and research and academic institutions which are eligible for registration under may use or domains
+the government organisation must ensure consistent user experience and visual identities across all its
+must provide integration with popular social media
+the language is free from spelling and grammatical errors
+accessibility guidelines in accordance with gigw
+all content that is presented to the user has text alternative that serves the equivalent purpose except for the situations listed below controls input if content is control or accepts user input then it has name that describes its purpose refer to success criterion for additional requirements for controls and content that accepts user input media if content is media then text alternatives at least provide descriptive identification of the content refer to guideline for additional requirements for media test if content is test or exercise that would be invalid if presented in text then text alternatives at least provide descriptive identification of the content sensory if content is primarily intended to create specific sensory experience then text alternatives at least provide descriptive identification of the content captcha if the purpose of content is to confirm that content is being accessed by person rather than computer then text alternatives that identify and describe the purpose of the content are provided and alternative forms of captcha using output modes for different types of sensory perception are provided to accommodate different disabilities and decoration formatting invisible if content is pure decoration is used only for visual formatting or is not presented to users then it is implemented in way that it can be ignored by assistive technology
+information structure and relationships conveyed through presentation can be programmatically determined or are available in text
+when the sequence in which content is presented affects its meaning correct reading sequence can be programmatically determined
+instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape color size visual location orientation or sound
+content does not restrict its view and operation to single display orientation such as portrait or landscape unless specific display orientation is essential
+colour is not used as the only visual means of conveying information indicating an action prompting response or distinguishing visual element
+if any audio on web page plays automatically for more than seconds either mechanism is available to pause or stop the audio or mechanism is available to control audio volume independently from the overall system volume level
+the visual presentation of text and images of text has contrast ratio of at least except for the following except for captions and images of text text can be resized without assistive technology up to percent without loss of content or functionality
+if the technologies being used can achieve the visual presentation text is used to convey information rather than images of text except for the following customizable the image of text can be visually customised to the user requirements essential particular presentation of text is essential to the information being conveyed and use of images for representing text should be limited
+content can be presented without loss of information or functionality and without requiring scrolling in two dimensions for vertical scrolling content at width equivalent to css pixels horizontal scrolling content at height equivalent to css pixels and except for parts of the content which require layout for usage or meaning
+the visual presentation of the following has contrast ratio of at least against adjacent colour user interface components visual information required to identify user interface components and states except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author graphical objects parts of graphics required to understand the content except when particular presentation of graphics is essential to the information being conveyed
+in content implemented using markup languages that support the following text style properties no loss of content or functionality occurs by setting all of the following and by changing no other style property line height line spacing to at least times the font size spacing following paragraphs to at least times the font size letter spacing tracking to at least times the font size word spacing to at least times the font size and exception human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script
+where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden the following are true dismissible mechanism is available to dismiss the additional content without moving pointer hover or keyboard focus unless the additional content communicates an input error or does not obscure or replace other content if pointer hover can trigger the additional content then the pointer can be moved over the additional content without the additional content disappearing and persistent the additional content remains visible until the hover or focus trigger is removed the user dismisses it or its information is no longer valid
+all functionality of the content is operable through keyboard interface without requiring specific timings for individual keystrokes except where the underlying function requires input that depends on the path of the user movement and not just the endpoints
+if keyboard focus can be moved to component of the page using keyboard interface then focus can be moved away from that component using only keyboard interface and if it requires more than unmodified arrow or tab keys or other standard exit methods the user is advised of the method for moving focus away
+if keyboard shortcut is implemented in content using only letter including and letters punctuation number or symbol characters then at least one of the following is true turn off mechanism is available to turn the shortcut off remap mechanism is available to remap the shortcut to include one or more keyboard keys ctrl alt and active only on focus the keyboard shortcut for user interface component is only active when that component has focus
+for each time limit that is set by the content at least one of the following is true turn off the user is allowed to turn off the time limit before encountering it or adjust the user is allowed to adjust the time limit before encountering it over wide range that is at least ten times the length of the default setting or extend the user is warned before time expires and given at least seconds to extend the time limit with simple action for example press the spacebar and the user is allowed to extend the time limit at least ten times or exception the time limit is required part of event for example an auction and no alternative to the time limit is possible or essential exception the time limit is essential and extending it would invalidate the activity or hour exception the time limit is longer than hours
+for moving blinking scrolling or information all of the following are true moving blinking scrolling for any moving blinking or scrolling information that starts automatically lasts more than five seconds and is presented in parallel with other content there is mechanism for the user to pause stop or hide it unless the movement blinking or scrolling is part of an activity where it is essential and for any information that starts automatically and is presented in parallel with other content there is mechanism for the user to pause stop or hide it or to control the frequency of the update unless the is part of an activity where it is essential
+web pages do not contain anything that flashes more than three times in any one second period or the flash is below the general flash and red flash thresholds
+mechanism is available to bypass blocks of content that are repeated on multiple web pages
+web screens have titles that describe topic or purpose
+if web page can be navigated sequentially and the navigation sequences affect meaning or operation quality guidelines in accordance with gigw
+language if other than english language if other than english to apply as applicable validity if applicable all outdated announcements tenders recruitment notices news and press releases are removed from the placed into the archives as per the archival policy
+educational institutions and research and academic institutions or domains
+controls input if content is control or accepts user input then it has name that describes its purpose refer to success criterion for additional requirements for controls and content that accepts user input media if content is media then text alternatives at least provide descriptive identification of the content refer to guideline for additional requirements for media test if content is test or exercise that would be invalid if presented in text then text alternatives at least provide descriptive identification of the content sensory if content is primarily intended to create specific sensory experience then text alternatives at least provide descriptive identification of the content captcha if the purpose of content is to confirm that content is being accessed by person rather than computer then text alternatives that identify and describe the purpose of the content are provided and alternative forms of captcha using output modes for different types of sensory perception are provided to accommodate different disabilities and decoration formatting invisible if content is pure decoration is used only for visual formatting or is not presented to users then it is implemented in way that it can be ignored by assistive technology
+customizable the image of text can be visually customised to the user requirements essential particular presentation of text is essential to the information being conveyed and use of images for representing text should be limited
+vertical scrolling content at width equivalent to css pixels horizontal scrolling content at height equivalent to css pixels and except for parts of the content which require layout for usage or meaning
+user interface components visual information required to identify user interface components and states except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author graphical objects parts of graphics required to understand the content except when particular presentation of graphics is essential to the information being conveyed
+line height line spacing to at least times the font size spacing following paragraphs to at least times the font size letter spacing tracking to at least times the font size word spacing to at least times the font size and exception human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script
+dismissible mechanism is available to dismiss the additional content without moving pointer hover or keyboard focus unless the additional content communicates an input error or does not obscure or replace other content if pointer hover can trigger the additional content then the pointer can be moved over the additional content without the additional content disappearing and persistent the additional content remains visible until the hover or focus trigger is removed the user dismisses it or its information is no longer valid
+turn off mechanism is available to turn the shortcut off remap mechanism is available to remap the shortcut to include one or more keyboard keys ctrl alt and active only on focus the keyboard shortcut for user interface component is only active when that component has focus
+turn off the user is allowed to turn off the time limit before encountering it or adjust the user is allowed to adjust the time limit before encountering it over wide range that is at least ten times the length of the default setting or extend the user is warned before time expires and given at least seconds to extend the time limit with simple action for example press the spacebar and the user is allowed to extend the time limit at least ten times or exception the time limit is required part of event for example an auction and no alternative to the time limit is possible or essential exception the time limit is essential and extending it would invalidate the activity or hour exception the time limit is longer than hours
+moving blinking scrolling for any moving blinking or scrolling information that starts automatically lasts more than five seconds and is presented in parallel with other content there is mechanism for the user to pause stop or hide it unless the movement blinking or scrolling is part of an activity where it is essential and for any information that starts automatically and is presented in parallel with other content there is mechanism for the user to pause stop or hide it or to control the frequency of the update unless the is part of an activity where it is essential
+if web page can be navigated sequentially and the navigation sequences affect meaning or operation focusable components receive focus in an order that preserves meaning and operability
+copyright policy no copyright protected third party content has been used in the indian institute of technology jodhpur website material featured on this portal may be reproduced free of charge in any format or media without requiring specific permission
+this is subject to the material being reproduced accurately and not being used in derogatory manner or in misleading context
+where the material is being published or issued to others the source must be prominently acknowledged
+however the permission to reproduce this material does not extend to any material on this site which is identified as being the copyright of the third party
+authorization to reproduce such material is obtained from the copyright holders concerned
+clearer distinction between iit and content
+emphasis on accurate representation and avoiding misuse of content
+specific guidance on proper attribution including url references
+information on commercial use restrictions
+contact information for inquiries
+no copyright protected third party content has been used in the indian institute of technology jodhpur website material featured on this portal may be reproduced free of charge in any format or media without requiring specific permission
+objective the cmap policy at iit jodhpur aims to maintain high standard of academic integrity and quality across all content ensuring it aligns with the educational mission of the institution while fostering respectful and inclusive academic discourse
+submission guidelines contributors are encouraged to submit original images videos artwork or other creative content
+all submissions must follow the web portal creative themes which include art design and multimedia
+contributors are encouraged to submit original images videos artwork or other creative content
+following this policy we provide content management system
+this cms helps the website team by giving access to the administrator panel to different users
+admin can create the users by assigning him particular role and module to which functions of particular user are limited
+these users are known as web coordinators
+website is free from language
+clear and simple language has been used throughout the website
+there is adequate contrast between the text and background color
+alternate text is provided for elements
+web pages do not contain any content that flashes more than three times in second
+web coordinators from various will the information in bilingual hindi and english which will be verified by hindi office as per requested
+content archival policy cap content archival mechanism is in place to ensure that all outdated announcements are removed from the website or moved to archive
+this will help the website team in ensuring that the expired contents are removed from the main website
+the archival system is available on the website will transfer the expired content in the archives section as soon as it reaches the expiry date
+content archival mechanism is in place to ensure that all outdated announcements are removed from the website or moved to archive
+hyperlinking policy links to external at many places on iit jodhpur you shall find links to other
+these links have been placed for your convenience
+iit jodhpur is not responsible for the contents of the linked websites and does not necessarily endorse the views expressed in them
+we can not guarantee that these links will work all the time and we have no control over the availability of linked destinations
+links to iit jodhpur by other we do not object to you linking directly to the information that is hosted on this web site and no prior permission is required for the same
+also we do not permit our pages to be loaded into frames on your site
+the pages belonging to iit jodhpur must load into newly opened browser window of the user
+links of iit jodhpur portals as per requirement there are various links will be present on website which is developed by erp division of institute
+the contact information of relevant team will be given on portal regarding any queries regarding portal
+privacy policy this website does not automatically capture any specific personal information from you like name phone number or address that allows us to identify you individually
+we do not sell or share any personally identifiable information volunteered on the website site to any third party
+any information provided to this website will be protected from loss misuse unauthorized access or disclosure alteration or destruction
+we gather certain information about the user such as internet protocol ip addresses domain name browser type operating system the date and time of the visit and the pages visited
+we make no attempt to link these addresses with the identity of individuals visiting our site unless an attempt to damage the site has been detected
+terms conditions this website is intended to provide information about our academic programs research activities campus life and other initiatives
+while we make every effort to ensure the accuracy and timeliness of the information contained here it important to understand the limitations outlined below
+disclaimer information sources the content on this website including news announcements and regulations is derived from various sources within iit jodhpur
+however this website is not an official legal document and should not be relied upon
+accuracy and currency we diligently strive to keep the information accurate and up to date
+however errors or outdated information may inadvertently occur
+we encourage you to verify any critical information by checking with the relevant department or authority at iit jodhpur or consulting other reliable sources
+professional advice the information on this website is for general informational purposes only and is not intended to be substitute for professional advice
+for matters related to academics admissions legal issues or any other specific concerns please seek guidance from qualified professionals
+liability iit jodhpur assumes no responsibility for any expenses losses or damages arising from the use of this website including indirect or consequential damages data loss or service interruptions
+this applies even if we are notified of the possibility of these damages
+acceptance by accessing and using this website you acknowledge and agree to be bound by these terms and conditions
+if you do not agree to these terms please do not use this website
+governing law these terms and conditions are governed by and construed in accordance with the laws of india
+jurisdiction any dispute arising out of or relating to these terms and conditions shall be subject to the exclusive jurisdiction of the courts of india
+changes iit jodhpur reserves the right to modify these terms and conditions at any time without prior notice
+your continued use of this website following any such modification constitutes your agreement to the revised terms and conditions
+intellectual property all content on this website including text images videos and logos is the property of iit jodhpur or its licensors and is protected by copyright and other intellectual property laws
+unauthorized use of this content is strictly prohibited
+links to external websites this website may contain links to external websites that are not operated by iit jodhpur
+we have no control over the content of these websites and are not responsible for their content or practices
+your use of these external websites is at your own risk
+privacy policy please refer to our privacy policy for information on how we collect use and protect your personal information
+by using this website you agree to these disclaimers and terms of use
+if you have any questions or concerns please contact us
+website monitoring plan under this the website is monitored periodically to address and fix the quality and compatibility issues around the following parameters functionality all modules of the website are tested for their functionality for their smooth working
+performance all important pages of the website are tested for the download time
+broken links the website is thoroughly reviewed to rule out the presence of any broken links or errors
+functionality all modules of the website are tested for their functionality for their smooth working
+contingency management plan the hosting service provider iit jodhpur possesses security infrastructure which includes devices such as web application firewall waf intrusion prevention systems and endpoint protection that has been implemented in the hosting system
+the hosting service provider iit jodhpur possesses security infrastructure which includes devices such as web application firewall waf intrusion prevention systems and endpoint protection that has been implemented in the hosting system
+security policy increasing complexity of data access due to multiplicity of platforms leads to multiple leakage scenarios while data is being created accessed and utilized
+network server system endpoints application physical environments and communication are involved in the execution of data transaction elements contribute to the security posture of data
+value associated with data collected by an organization is increasing phenomenally attracting the attention of adversaries and attackers
+security threats are becoming more organized and targeted reaping immense benefits out of data compromises has led to the increasing concentration of these threats at the data layer
+we maintain appropriate security measures to protect your personal information from unauthorized access alteration or disclosure
+we utilize secure servers and encryption protocols to safeguard your data
+we regularly review and update our security practices to adapt to evolving threats
+we maintain proper data classification so no sharing of secret top secret document is permitted we are also maintaining network segmentation to reduce the attack surface
+increasing complexity of data access due to multiplicity of platforms leads to multiple leakage scenarios while data is being created accessed and utilized
+download section please follow the gigw guidelines for common structure of download section and archival page

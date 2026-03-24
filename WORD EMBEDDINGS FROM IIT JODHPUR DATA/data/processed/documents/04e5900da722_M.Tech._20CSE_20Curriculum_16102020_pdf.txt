@@ -1,0 +1,106 @@
+indian institute of technology jodhpur pg course booklet july indian institute of technology jodhpur course booklet for and dual degree
+cse phd programs offered by the department of computer science and engineering july
+introduction traditionally computer science and engineering cse teaching were focusing on two major areas theories and systems database computer hardware and operating systems
+with the advent of the era of cloud computing edge computing ai and big data the discipline is being transformed by incorporation of new emerging technologies
+it is becoming an instrumental tool in solving major problems faced by modern society such as energy natural disasters pollution and water
+through this newly revamped and dual degree programs in cse iit jodhpur is making conscious effort to divulge from the traditional path and planning to reposition itself to become leading institute in this new genre of computer science education
+objectives this and dual degree programs in cse will offer students with deep knowledge of core and applied computer science
+through this programme student will learn niche subject areas which are of paramount importance in the modern big data era such as computer systems and security
+this programme is aiming at imparting the necessary breadth and depth to the students for pursuing careers in academics as well as in industry
+this programme is aiming at extending undergraduate computing skills with and expertise in specialized areas of computer systems and security
+expected graduate attributes after completing this programme student will be able to develop an ability to
+understand fundamental concepts and knowledge of emerging fields in computer science
+conceive design and develop scalable parallel and distributed systems
+solve big data problems through the knowledge of advanced data structures distributed algorithmic design analysis and applications
+design and develop network protocols for wireless sensor mobile and vehicular networks
+ideate implement and integrate cryptographic fault tolerant algorithms for large scale distributed systems
+understand hardware platforms for running compute intensive distributed algorithms
+ability to understand and apply evolving ethics and privacy laws across various domains and territories
+plan and manage technical projects
+understand the fundamentals of algorithmic complexity advanced computer architecture advanced network and security protocols
+apply appropriate design principles framework and protocols to develop dependable systems
+demonstrate knowledge of cutting edge simulation synthesizing programming tools
+ability to design and develop system architecture for mobile cloud fog and edge computing
+demonstrate knowledge of virtualization data center design and management and software defined networking
+skills to comprehend and communicate effectively
+apply appropriate project and business management principles and tools for problems
+cat code course title cr cat code course title cr semester ii semester mc mal7xx0 statistics matrix computation optimization mc csl7xx0 computer architecture mc csl7xx0 algorithms for big data mc csl7xx0 software and data engineering mc csl7xx0 machine learning mc csl7xx0 security and its applications mc csp7xx0 data structures and practices me xxxxx program elective me xxxxx program elective mo xxxxx open elective me xxxxx program elective ng xxxxx ethics and professional life ng technical communication total credits total credits iii semester iv semester mp csd7xx major project part mp csd8xx major project part me xxxxx program elective me xxxxx program elective me xxxxx program elective ng xxxxx intellectual property mo xxxxx open elective ng xxxxx system design total credits total credits program core credits program electives credits open electives credits project credits credits total credits
+course structure for the
+cse program and dual degree
+program maths fractals linear algebra probability and random processes optimization
+program electives for
+cse and dual degree
+program courses offered by department of computer science and engineering
+advanced computer graphics
+ai for finance
+artificial intelligence ii
+digital image analysis
+edge and fog computing
+graph theory and applications
+human machine interface
+information retrieval and web mining
+introduction to augmented reality and virtual reality
+machine learning ii
+machine learning with big data
+natural language processing
+neuromorphic computing and design
+real time autonomous systems
+ad hoc wireless networks
+selected topics in artificial intelligence
+selected topics in artificial intelligence ii
+selected topics in artificial intelligence iii
+selected topics in computer science
+selected topics in computer science ii
+selected topics in computer science iii
+social network analysis
+vehicular networks vanets courses offered by department of electrical engineering adaptive signal processing advanced control system advanced digital communication advanced signal processing analog and interfacing circuits antenna engineering applied optimization for wireless communication backhaul networks for wireless systems coding theory
+cyber physical system modelling laboratory
+digital image and video processing lab
+digital image processing and applications
+digital signal processing
+digital video processing
+digital vlsi design
+embedded system design
+embedded system design lab
+flexible and printed electronics
+free space optical communications
+gnss signal processing
+image sensor design and applications
+introduction to systems
+machine learning for communication
+mathematical modelling and simulation
+microsystems fabrication technology
+millimeter wave technology
+network information theory
+optical fiber communications
+physical layer security
+principles of data and system security
+real time communications
+resource constrained ai
+selected topics in communication
+selected topics in communication ii
+selected topics in communication iii
+selected topics in sensors iot
+selected topics in sensors iot ii
+selected topics in sensors iot iii
+selected topics in signal processing
+selected topics in signal processing ii
+selected topics in signal processing iii
+sensors and iot lab
+sensors and measurement
+speech and audio signal processing
+statistical decision theory
+vlsi design lab
+wireless networks courses offered by department of mechanical engineering
+robotics courses offered by department of bioscience and bioengineering
+computational biology courses offered by department of mathematics
+computational game theory
+advanced topics in computational pde
+representation of finite groups courses offered by department of physics
+quantum information processing
+quantum cryptography and coding courses offered by idrp digital humanities digital humanities title algorithms for big data number csl7xx0 department computer science and engineering offered for
+year year type compulsory prerequisite none title data structures and practices number csp7xx0 department computer science and engineering offered for
+cse year type compulsory prerequisite computer programming title software and data engineering number csl7xx0 department computer science and engineering offered for
+type compulsory title computer architecture number csl7xx0 offered for
+year type compulsory prerequisite computer organization title machine number csl7xx0 title security and its application number csl7xx0 offered for
+type elective prerequisite networks

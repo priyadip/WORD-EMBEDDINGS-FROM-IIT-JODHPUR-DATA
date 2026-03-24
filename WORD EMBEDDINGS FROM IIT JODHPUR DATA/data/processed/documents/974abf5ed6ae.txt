@@ -1,0 +1,22 @@
+research seminar talk by shaily verma on january at pm speaker shaily verma title of the talk algorithmic advances in graph coloring focus on grundy coloring date time and venue january pm pm at seminar hall dept of mathematics
+abstract graph coloring is central problem in combinatorial optimization with numerous applications in scheduling register allocation and frequency assignment
+in this talk will center on my research contributions in graph coloring problems particularly my recent work in parameterized complexity of the partial grundy coloring problem
+the partial grundy coloring problem aims to color the vertices of given graph with maximum number of colors under certain constraints
+this problem is difficult to solve in polynomial time for general graphs
+in other words partial grundy coloring is for general graphs
+this computational difficulty motivates my research on the parameterized complexity of the problem
+parameterized complexity classifies computational problems based on their inherent difficulty with respect to different problem parameters
+to address these computational challenges recently with studied the parameterized complexity of the partial grundy coloring problem and showed that the problem is solvable in polynomial time with respect to the parameter as the number of colors used
+this talk will present tractable algorithm for the partial grundy coloring problem offering efficient solutions when parameterized by the number of colors
+these findings advance our understanding of graph coloring computational complexity
+about the speaker shaily verma is researcher at hasso plattner institute in germany
+her research in theoretical computer science broadly focuses on graph algorithms
+her research interests include parameterized complexity exact algorithms and graph theory
+earlier she worked as postdoctoral researcher at the institute of mathematical sciences in chennai
+she obtained her from the department of mathematics iit delhi
+speaker shaily verma title of the talk algorithmic advances in graph coloring focus on grundy coloring date time and venue january pm pm at seminar hall dept of mathematics
+date time and venue abstract graph coloring is central problem in combinatorial optimization with numerous applications in scheduling register allocation and frequency assignment
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

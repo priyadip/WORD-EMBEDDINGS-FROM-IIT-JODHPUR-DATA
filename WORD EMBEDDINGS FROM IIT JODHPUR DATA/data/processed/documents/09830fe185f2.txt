@@ -1,0 +1,13 @@
+departmental seminar by asha meena on nov at speaker asha meena title of the talk robust and efficient numerical schemes for hyperbolic partial differential equations date time and venue nov at meeting room dept of mathematics
+about the speaker asha meena is currently an assistant professor at central university of rajasthan
+she has done from iit delhi and post doc from broad research area is computational methods for pdes
+abstract the systems of hyperbolic balance laws and system of hyperbolic equations arise in several areas especially in computational fluid dynamics cfd and plasma flows
+due to lack of theory for the continuous problem designing of stable numerical algorithms for the systems of hyperbolic pdes is highly
+we are interested in numerical schemes for systems of pdes
+equations plasma equations shear shallow water equations which are robust and efficient
+robustness is achieved by designing positivity preserving and numerical schemes
+in particular we consider finite volume method finite difference method and discontinuous galerkin method
+further hybrid numerical strategies are considered to get efficiency in the available schemes
+here we will discuss the design of these numerical schemes for fluid flow and plasma flow models and their performance by numerical experiments
+speaker asha meena title of the talk robust and efficient numerical schemes for hyperbolic partial differential equations date time and venue nov at meeting room dept of mathematics
+date time and venue about the speaker asha meena is currently an assistant professor at central university of rajasthan

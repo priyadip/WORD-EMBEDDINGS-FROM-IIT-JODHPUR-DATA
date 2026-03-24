@@ -1,0 +1,65 @@
+SOURCE_PDF: 5717d38b804c_News-Syllabus-for-Written-Test-for-PhD-Admissions--638769583275107178.pdf
+
+Department of Mechanical Engineering
+Indian Institute of Technology Jodhpur
+Karwar, Jodhpur 342030, INDIA
+Annexure 3
+Syllabus for Written Test
+Common Syllabus
+(1) General Aptitude: Basic Mathematics, Reasoning and Aptitude: Basic geometry, Linear Algebra, Ordinary
+Differential Equations, Combinatorics, Probability, Analytical reasoning and aptitude
+(2) Engineering Mathematics: Systems of linear equations; Eigen values and eigen vectors; Differential
+equations, First order equations (linear and nonlinear), Higher order linear differential equations with
+constant coefficients, Initial and boundary value problems; Laplace transforms, Numerical solutions of linear
+and non-linear algebraic equations, single and multi-step methods for differential equations.
+Thermofluids Engineering Syllabus
+(3) Fluid Mechanics: Properties and classification of fluids; fluid statics, manometry, forces on immersed bodies,
+buoyancy, stability of floating bodies; control-volume analysis of mass, momentum and energy; fluid
+acceleration; differential equations of continuity and momentum; Bernoulli’s equation; dimensional analysis;
+viscous flow of incompressible fluids, boundary layer, elementary turbulent flow, flow through pipes, head
+losses in pipes, bends and fittings, measurement of flow rate and pressure drop.
+(4) Heat Transfer: Modes of heat transfer; one dimensional heat conduction, resistance concept, electrical
+analogy, unsteady heat conduction, fins; dimensionless parameters in free and forced convective heat
+transfer, various correlations for heat transfer in flow over flat plates and through pipes; thermal boundary
+layer; effect of turbulence; radiative heat transfer, black and grey surfaces, shape factors, network analysis;
+heat exchanger performance, LMTD and NTU methods.
+(5) Applications: Power Engineering: Steam Tables, Rankine, Brayton cycles with regeneration and reheat. I.C.
+Engines: air-standard Otto, Diesel cycles. Refrigeration and air-conditioning: Vapour refrigeration cycle, heat
+pumps, gas refrigeration, Reverse Brayton cycle; moist air: psychrometric chart, basic psychrometric
+processes. Turbomachinery: Pelton-wheel, Francis and Kaplan turbines — impulse and reaction principles,
+velocity diagrams.
+Solid Mechanics and Design Syllabus
+(6) Engineering Mechanics: Free body diagrams and equilibrium; trusses and frames; virtual work; kinematics
+and dynamics of particles and rigid bodies, impulse and momentum and energy formulations; impact.
+(7) Strength of Materials: Stress and strain, stress-strain relationship and elastic constants, Mohr’s circle for
+plane stress and plane strain, thin cylinders; shear force and bending moment diagrams; bending and shear
+stresses; deflection of beams; torsion of circular shafts; Euler’s theory of columns; strain energy methods;
+thermal stresses.
+(8) Kinematics and Dynamics of Machinery: Displacement, velocity and acceleration analysis of plane
+mechanisms; cam, gear trains, spatial mechanisms. Static force analysis and dynamics force analysis (planar),
+Dynamic force analysis (Spatial), Cam Dynamics, Balancing, Gyroscopes.
+(9) Mechanical Vibrations: Free and forced vibration of single degree of freedom systems; natural frequencies,
+resonance, effect of damping; Vibration under General forcing conditions, vibration isolation; critical speeds
+of shafts, Vibration control, torsional vibration, Vibration of Distributed Systems, Numerical Integration
+Methods in Vibration Analysis.
+Manufacturing
+(10)Engineering Materials: Structure and properties of engineering materials, stress-strain diagrams for
+engineering materials.
+(11) Metal Casting Processes: Casting Terminology, Expendable and Permanent Mould Casting Processes; Basic
+physics and understanding of casting shape, metal flow and solidification; Design principles for mold cavity,
+feeder and gating system; Casting defects and inspection of castings.
+
+(12)Machining and Machine Tool Operations: Mechanics of machining, Single and multi-point cutting tools, Tool
+geometry and materials, Tool life and wear; Kinematics of machine tools; Economics of machining;
+Non-traditional machining processes; Abrasive and Super-finishing Processes; Principles of work holding,
+Principles of jigs and fixtures design.
+(13)Metrology and Inspection: Limits, fits and tolerances; Linear and angular measurements; Comparators;
+Gauge design; Interferometry; Form and finish measurement; Co-ordinate Measuring Machine (CMM);
+Tolerance analysis in manufacturing and assembly.
+(14)Computer Integrated Manufacturing: Fundamentals of CNC machines, CNC Programming Fundamentals,
+CNC Hardware, CAD/CAM Integration, Computer Aided Process Planning, Rapid Prototyping.
+(15)Welding and Joining: Fundamentals of arc welding, Arc welding processes, Solid state welding processes,
+(16)Forming Processes: Plastic deformation and yield criteria; fundamentals of hot and cold working processes;
+bulk deformation processes (forging, rolling, extrusion, drawing) and sheet metal processes; principles of
+powder metallurgy, Powder metallurgy processes.
+Chairman, PG Admission, Department of Mechanical Engineering

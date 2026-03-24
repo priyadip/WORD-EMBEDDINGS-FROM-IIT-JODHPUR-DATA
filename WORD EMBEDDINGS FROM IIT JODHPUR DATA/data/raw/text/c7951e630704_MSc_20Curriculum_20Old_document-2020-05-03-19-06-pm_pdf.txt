@@ -1,0 +1,147 @@
+SOURCE_PDF: c7951e630704_MSc_20Curriculum_20Old_document-2020-05-03-19-06-pm.pdf
+
+Master of Science Program in
+Mathematics
+July 2015
+Indian Institute of Technology Jodhpur
+
+Cat. Course Course Title L-T-P Credits Cat. Course Course Title L-T-P Credits
+Number Number
+Semester 1 Semester 2
+C MA511 Linear 3-0-0 3 C MA521 Abstract 3-0-0 3
+algebra Algebra
+C MA512 Real analysis 3-0-0 3 C MA522 Complex 3-0-0 3
+C MA513 Ordinary 3-0-0 3 C MA523 Partial 3-0-0 3
+Differential Differential
+equations equations
+C MA514 Probability 3-0-0 3 C MA524 Numerical 3-0-0 3
+and statistics Analysis
+C MA515* Programing 3-3-0 4 C MA525 Functional 3-0-0 3
+techniques analysis
+Total 16 Total 15
+Semester 3 Semester 4
+E Elective 3-0-0 3 E Elective 3-0-0 3
+TH MA698 Thesis 15 TH MA698 Thesis 15
+Total 18 Total 18
+Grand total 67
+MA551 Topology
+MA552 Wavelets analysis and Applications
+BL755 Complex Networks
+MA553 Dynamical Systems
+MA524 Optimization
+S. No. Category Course Category Title Total Courses Total Credits
+1 C Compulsory 10 31
+2 E Electives 2 06
+3 TH Thesis 1 30
+Total 67
+Master of Science (M.Sc.) Program in Chemistry
+Curriculum
+Note: The students are encouraged to opt electives from B.Tech., M.Tech. and PhD. level 
+courses having mathematical orientation; e.g. Cryptography, Information Theory and 
+Coding, Data Structures and Algorithms, Digital Image Analysis, etc. This will assist in 
+integrating technological aspects into mathematics education.
+
+Course Title Linear Algebra Course No. MA511
+Department Mathematics Structure (LTPC) 3-1-0 [4]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None To take effect from
+
+Course Title Real Analysis Course No. MA512
+Department Mathematics Structure (LTPC) 3-1-0 [4]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+
+Course Title Ordinary Differential Equations Course No. MA513
+Department Mathematics Structure (LTPC) 3-0-0 [3]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+1. Motivations and origins, Existence-Uniqueness: Existence of solutions by Picard’s
+2. Second Order Linear Equations: General solution of homogeneous and non-
+3. Systems of Differential Equations: Phase plane method, critical points of the system
+4. Applications of differential equations
+
+Course Title Probability and Statistics Course No. MA514
+Department Mathematics Structure (LTPC) 3-0-0 [3]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+
+Course Title Programming Techniques Course No. MA515
+Department Mathematics Structure (LTPC) 3-3-0 [4]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+
+Course Title Abstract Algebra Course No. MA521
+Department Mathematics Structure (LTPC) 3-1-0 [4]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+
+Course Title Complex Analysis Course No. MA522
+Department Mathematics Structure (LTPC) 3-1-0 [4]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+
+Course Title Partial Differential Equations Course No. MA523
+Department Mathematics Structure (LTPC) 3-1-0 [4]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+2. Solving differential equations with series method, Green's function method, Laplace
+1. Motivations and origins, PDEs of engineering and physics (Heat, wave and Laplace
+2. First order partial differential equations: Linear, quasi-linear and fully nonlinear
+3. Second order partial differential equations: Classification and Canonical forms, Adjoint
+4. Elliptic, parabolic and hyperbolic equations: Laplace/Poisson equation, heat
+5. Applications of partial differential equations
+1. Sneddon, I. N. (1986) Elements of Partial Differential Equations, McGraw-Hill, New
+2. Prasad, P. and Ravindran, R. (2005) Partial differential equations, New Age
+3. Logan, J. D. (2015) Applied partial differential equations, 3rd Edition, Springer Verlag
+4. Pinchover, Y. and Rubinstein, J. (2005) An introduction to partial differential
+
+Course Title Numerical Analysis Course No. MA524
+Department Mathematics Structure 3-1-0 [4]
+Offered for M.Sc. Students Type Compulsory
+1. Learn numerical techniques for variety of mathematical problems
+2. Analyze the validity and error in the numerical results
+1. Solve numerically algebraic equations, linear systems of equations, ordinary and
+2. Develop understanding of numerical error and applicability of a particular method
+1. Errors: Roundoff errors and truncation errors
+2. Root finding methods: the bisection method, the method of false position, fixed point
+3. Numerical solution of linear system of equations: Direct methods (Gauss elimination,
+4. Interpolation: Errors in polynomial interpolation, finite differences, Newton’s
+5. Numerical integration: Trapezoidal rule, Simpson’s rules, Newton-Cotes integration
+6. Numerical differentiation: finite difference method, high accuracy differentiation
+7. Numerical solution of initial value and boundary value problems involving ordinary
+1. Mathews, J. H. , and Fink, K. D. (2004) Numerical Methods using MATLAB, 4th Edition,
+2. Süli, E. and Mayers, D. F. (2003), An Introduction to Numerical Analysis, Cambridge
+3. Burden, R. L. (2012) Numerical Analysis, 9th Edition, Cengage Learning India
+4. Conte, S. D., and Boor, C. (1980) Elementary Numerical Analysis: An Algorithmic
+
+Course Title Functional Analysis Course No. MA531
+Department Mathematics Structure (LTPC) 3-0-0 [3]
+Offered for M.Sc. Students Type Compulsory
+Pre-requisite None
+
+Course Title Optimization Techniques Course No. MA525
+Department Mathematics Structure (LTPC) 3-0-0 [3]
+Offered for M.Sc. Students Type Elective
+Pre-requisite None
+
+Course Title Topology Course No. MA551
+Department Mathematics Structure (LTPC) 3-0-0 [3]
+Offered for M.Sc. Students Type Elective
+Pre-requisite None
+
+Course Title Wavelet Analysis and Applications Course No. MA552
+Department Mathematics Structure (LTPC) 3-0-0 [0]
+Offered for M.Sc. Students Type Elective
+Pre-requisite None
+
+Course Title Complex Networks Course No. BL755
+Department Mathematics Structure (LTPC) 3-0-0 [3]
+Offered for M.Sc. Students Type Elective
+
+Course Title Dynamical Systems Course No. MA553
+Department Mathematics Structure (LTPC) 3-0-0 [3]
+Offered for M.Sc. Students Type Elective
+Pre-requisite None
+
+Course Booklet for M.Sc. (Mathematics) 
+2015

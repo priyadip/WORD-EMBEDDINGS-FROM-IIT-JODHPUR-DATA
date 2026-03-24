@@ -1,0 +1,1519 @@
+SOURCE_PDF: e1eaf14c5b53_CHEMISTRY_06092019.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+2 yr M.Sc. Chemistry
+Curriculum Structure
+
+products such as pharmaceutical drugs, paints, petrochemicals, food additives, plastics 
+etc. 
+(2) 
+Ability to use characterization tools for analysing reactions and monitoring chemical
+processes for product development. 
+(3) 
+Ability to handle analytical, spectroscopic, microscopic and other instrumental
+methods for interdisciplinary research areas. 
+(4) 
+Use of computational tools to understand and analyse chemical and biophysical
+processes, molecular structures and advanced materials. 
+(5) 
+Ability to comprehend, write and present scientific articles and technical reports.
+(6) 
+Develop oral and written communication skills.
+(7) 
+Appreciation and adherence to norms of professional ethics and sense of intellectual
+integrity. 
+(8) 
+Ability to plan and manage technical research projects and work in a team.
+Program Learning outcome 
+ 
+(1) 
+Strong fundamentals in theoretical and practical aspects of organic, inorganic and
+physical chemistry. 
+(2) 
+Develop appreciation of hands-on wet chemistry, analytical, instrumentation, and
+experimental data handling skills to solve scientific problems to address technological 
+challenges in various domains. 
+(3) 
+Knowledge of computational and theoretical chemistry.
+(4) 
+Skills for material synthesis and processes for device integration
+(5) 
+Develop the ability to exercise independent learning, thinking and problem solving
+skills. 
+(6) 
+Develop the ability to interact in a cross-cultural environment and acquire time and
+project management skills for carrying out guided research work in any of the research 
+area related to science and technology. 
+(7) 
+Develop skills to communicate scientific learning and present ideas.
+Course Curriculum Structure
+
+Course Number, L-T-P-D Credit Cat. Course Number, L-T-P- Credit
+Cat. Course Title s Course Title D s
+I Semester II Semester
+MC CYL6XX0 Organic 3-0-0-0 3 MC CYL6XX0 Organic 3-0-0- 3
+Reactions and Synthesis 0
+MC CYL6XX0 Transition 3-0-0-0 3 MC CYL6XX0 Solid State 3-0-0- 3
+Metal and and Material Chemistry 0
+MC CYL6XX0 Quantum 3-0-0-0 3 MC CYL6XX0 Molecular 3-0-0- 3
+Chemistry and Thermodynamics and 0
+Spectroscopy Chemical Kinetics
+MC CYL6XX0 Physical 3-0-0-0 3 MC CYL6XX0 Theory and 3-0-0- 3
+Organic Chemistry Applications of 0
+MC CYL6XX0 Main Group 3-0-0-0 3 ME Program elective-1 3-0-0- 3
+and Bioinorganic 0
+MC CYP6XX0 Organic 0-0-3-0 1.5 MC CYP6XX0 Physical 0-0-3- 1.5
+Laboratory Laboratory 0
+MC CYP6XX0 Inorganic 0-0-3-0 1.5 MC CYD6XX0 Minor 0-0-3- 1.5
+Chemistry Laboratory Project 0
+MC CYP6XX0 Hands on -1 0-0-3-0 1.5 MC CYP6XX0 Hands on-2 0-0-3- 1.5
+Total 19.5 Total 19.5
+III Semester IV Semester
+MO Open elective-1 3-0-0-0 3 ME Program Elective-5 3-0-0-0 3
+ME Program Elective-2 3-0-0-0 3 ME Program Elective-6 3-0-0-0 3
+ME Program Elective-3 0-0-3-0 3 MO Open Elective -2 3-0-0-0 3
+ME Program Elective-4 3-0-0-0 3 MP CYD7XX0: Project 0-0-0- 10
+MC CYP6XX0: Computatio 0-0-1-0 1.5
+MP CYD7XX0 Project 0-0-0-5 5
+MC CYQ6XX0 Seminar 0-0-1-0 0.5
+Total 19 Total 19
+Total Credits: 77
+Topic Clouds for MSc Chemistry Curriculum
+
+Topics Sub-Topic Clouds
+Quantum Principles, Exactly solved problems, Approximation
+Chemistry Methods, Electronic Structure Methods, Group Theory.
+Chemical Kinetics Molecular Thermodynamics, Chemical Kinetics, Catalysis,
+and Chemical Reaction Dynamics, Reaction Kinetics of special
+Thermodynamics reactions.
+Spectroscopy Fundamentals of Spectroscopic techniques and associated
+Electrochemistry Basics of Electrochemistry, DC and AC techniques,
+Statistical Molecular simulation, Polymer dynamics, Statistical
+Mechanics mechanics, Stochastic problems in biophysics.
+Hands on and Analytical Methods: UV-Vis, Fluorescence, FTIR etc.
+Experimental Electroanalytical methods (CV, EIS, GCD,
+Laboratory Chronopotentiometry, Ampereometric and steady state
+Topics Sub-Topic Clouds
+Organic Synthesis and Organic Reactions Mechanism and
+Catalysis Rearrangements, Organic methods, Pericyclic
+Asymmetric Synthesis Basics of Stereochemistry, Stereochemistry of
+Medicinal Chemistry and Fundamentals of Medicinal Chemistry, PK and PD,
+Drug Discovery ADME-TOX, Lipinski‟s Rule, Basics of Drug
+A. PHYSICAL CHEMISTRY
+B. ORGANIC CHEMISTRY
+
+Natural Products Retrosynthetic Analysis, Natural Product Isolation,
+Total Synthesis of Natural Products
+Laboratory and Hand- Synthesis Protocols, Purification and Distillation
+Techniques, Chromatography Structural
+Determination of Organic compounds
+Topic Cloud Sub-Topic Clouds
+Transition Metal, General consideration of d block elements,
+Coordination Coordination complexes: Structure, Bonding and
+chemistry, and Properties, Reaction Mechanism. Molecular Complexes,
+Organometallics Coordination polymers and their properties.
+Environmental Environmental Remediation, Soil Chemistry, Water
+Chemistry Chemistry, Chemical Sensors, Analytical Chemistry
+Laboratory and Hands- Synthesis Techniques for complexes and solids,
+on Characterization methods, spectroscopic and analytical
+C. INORGANIC CHEMISTRY
+Contents
+
+1 Organic Chemistry Core Courses and Laboratory
+2 Organic Chemistry Elective Courses
+3 Inorganic Chemistry Core Courses and Laboratory
+4 Inorganic Chemistry Elective Courses
+5 Physical Chemistry Core Courses and Laboratory
+6 Physical Chemistry Elective Courses
+7 Hands on-1
+
+Title Organic Reactions and Mechanisms Number CYL6XX0
+Organic Chemistry
+
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Compulsory
+Title Physical Organic Chemistry Number CYL6XX0
+
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Compulsory
+Title Organic Synthesis Number CYL6XX0
+
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+Organic Chemistry Laboratory Number CYP6XX0
+
+Department Chemistry L-T-P [C] 0–0–3[1.5]
+Offered for Type Compulsory
+
+Electives in Organic
+Chemistry
+
+Title Isolation and Synthesis of Natural Products Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Spectroscopic Determination of Course No. CYL7XX0
+Department Chemistry Structure (L-T-P-C) 3-0-0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+1. To t each b asic aspects of spectroscopic methods, important analytical tools in academic
+2. Elucidation of structures of organic compounds using in-depth analysis of different
+1. Ability to determine the structures of known/unknown organic molecules utilizing several
+
+Title Stereochemistry of Organic Compounds Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for MSc/PhD (CY) Program Type Elective
+
+Title Frontiers in Organic Chemistry Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+1. G ive an in-depth exposure to the latest advances in organic synthesis
+Advanced Enolate Chemistry: Diastereoselective aldol reactions, Evan‟s chiral auxiliary,
+1. Punniyamurthy,T., Catalytic Asymmetric Synthesis, NPTEL Course Material, Department
+
+Title Heterocyclic Chemistry Course No. CYL7XX0
+Department Chemistry Structure (L-T-P:C) 3-0-0 [3]
+Offered for M.Sc./PhD (CY) Program Status Elective
+
+Title Polymer Chemistry Number CY7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Inorganic Chemistry
+
+Title Main Group and Bioinorganic Chemistry Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Transition Metal and
+Organometallic Chemistry Number CYL6XX0
+Department Chemistry Structure L-T-P[C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Solid State and Material Chemistry Number CYL6XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Inorganic Chemistry Laboratory Number CYP6XX0
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc.(CY) Program Type Compulsory
+
+Elective
+of Inorganic Chemistry
+
+Title Catalysis for Energy Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for MSc./PhD (CY) Program Type Elective
+
+Title Nanomaterials and Nanodevices Number CYL7XX0
+Department Chemistry L-T-P [C] 2-0-1 [3]
+Offered for MSc/PhD (CY) Program Type Elective
+
+Title Compounds of p-block elements and Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+
+Title Advanced Materials Design Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+
+Course Title Characterization Techniques in
+Inorganic Chemistry Course No. CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Course Title Advance Catalysis Course No. CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for MSc/PhD (CY) Program Type Elective
+
+Course Title Water Chemistry Course No. CYL7XX0
+Department Chemistry L-T-P [C] 2–0–1 [3]
+Offered for BTech/MTech/MSc/PhD(CY) Program Type Elective
+Pre-requisite Consent of Teacher
+
+Title Frontiers in Organometallic Catalysis Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Physical Chemistry
+
+Title Quantum Chemistry and Spectroscopy Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Molecular Thermodynamics and Chemical Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Theory and Applications of Spectroscopic Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Course Title Physical Chemistry Laboratory Course No. CYP6XX0
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Computational Chemistry Laboratory Number CYP6XX0
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+Pre-requisite CYL6XX0 (Chemical Binding) Or Equivalent
+
+Electives of Physical
+Chemistry
+
+Title Numerical Methods and Group Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+1
+2
+1
+2 Objectives
+
+Title Chemical Binding Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Pre-requisite Basic Quantum Chemistry
+
+Title Principles of Nuclear Magnetic Resonance Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+1. Farrar, T.C. and Becker, E.D., (1971), Pulse and Fourier Transform NMR , 1st Edition,
+
+Title Molecular Dynamics Simulations Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Course Title Solid State NMR Methods for Materials Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+1. Duer, J. M., (2005), Introduction to Solid State NMR, Wiley.
+
+Title Group Theory and Molecular Spectroscopy Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for MSc./Ph.D. (CY) Program Type Elective
+1. Engel, T. and Reid, P., (2012), Quantum Chemistry and Spectroscopy, 3rd Edition, Pearson
+
+Title Modern Electronic Structure Theory Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–3 [4]
+Offered for Type Elective
+Prerequisite Basic Quantum Chemistry
+
+Title Chemical Reaction Dynamics Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Basic Quantum Chemistry
+
+Title Biophysical Techniques: Theory and Number CYL3XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc/PhD Program, B.Tech Type Elective
+
+Course Title Stochastic Problems in Biophysics Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+
+Course Title Polymer Dynamics Course No. CYL7XX0
+Department Chemistry L-T-P[C] 3-0-0 [3]
+Offered for Type Elective
+
+Course Title Statistical Mechanics and Molecular Course No. CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+
+Course Title Advanced Electrochemistry and
+Applications Number CYL7XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Course Title Hands On -1 Course No. CYP6XX0
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Course Title Hands on -2 Course No. CYP6XX0
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Master of Science (MSc) Program
+in
+Mathematics
+
+The classical mathematics provides foundations for analysis of key principles behind
+modern and emergent technologies, modern mathematics coupled with computational
+capabilities is opening new avenues for further explorations. M.Sc. (Mathematics)
+Program at IIT Jodhpur aims at tapping these opportunities by developing workforce
+specialized in mathematics needed for developing key technologies. The proposed four
+semester program strives to provide balance between analysis and application of
+Mathematics. The compulsory courses provide the basic understanding and foundation of
+mathematics enhancing analytic capabilities of the students. Students can further
+explore their area of interest with program and open elective courses. The project
+component spread over last two semesters provides research exposure to the students
+and provides an opportunity to apply their mathematical skills to solve real-life
+problems. Students are encouraged to undertake research Summer Internships in
+Institute of repute, Industry and R&D organizations.
+(2) Objectives of the Program:
+M.Sc. program in Mathematics at IIT Jodhpur is offered with the objective of tapping
+opportunities for nurturing motivated students in the frontline areas and well trained
+workforce for Academia and Industry. The Program also strives to provide a vibrant
+environment to support independent thinking and developing the spirit of team work.
+(3) Expected Graduate Attributes:
+(1) Skill set to analyze abstract mathematical structures.
+(2) Understanding about the recent areas in pure and applied mathematics such as
+algebra, analysis, statistics and computation.
+(3) Ability to formulate mathematics from computational aspect.
+(4) Knowledge and capability to develop and apply mathematical models for real life
+(5) Skill set to understand the abstraction of mathematical structures.
+(6) Analytical and scientific skill set to pursue higher studies and research in diverse
+areas of mathematics.
+(7) Ability to express ideas in the written and oral formats.
+(4) Learning Outcomes:
+(1) Understanding of fundamental aspects of real, complex and functional analysis.
+(2) Basic understanding of linear and abstract algebra.
+(3) Knowledge about basics and use of probability theory, statistics and differential
+(4) Skill set to cater computational aspects using programming techniques.
+(5) Basic understanding of symbolic solution tools such as MATLAB or Mathematica.
+(6) Demonstrate skills to communicate scientific ideas and/or application systems.
+
+Cat. Course Course Title L-T-P- Credits Cat. Course Course Title L-T-P- Credits
+Number D Number D
+Semester 1 Semester 2
+C MAL6XX0 Linear 3-0-0- 4 C MAL6XX0 Abstract 3-0-0-1 4
+algebra 1 Algebra
+C MAL6XX0 Real analysis 3-0-0- 4 C MAL5XX0 Comple x 3-0-0-1 4
+1 Analysis
+C MAL6XX0 Ordinary 3-0-0- 4 C MAL6XX0 Partial 3-0-0-0 3
+Differentia l 1 Differential
+equations equations
+C MAL5XX0 Probability 3-0-0- 4 C MAL6XX0 Functional 3-0-0-0 3
+and 1 analysis
+C MAL5XX0 Programming 2-0-2- 3 PE Xxxxx PE1 3-0-0-0 3
+Technique s 0
+Total 19 Total 19
+Semester 3 Semester 4
+C MAL6XX0 Topology 3-0-0- 3 PE Xxxxx PE5 3-0-0-0 3
+PE Xxxxx PE2 3-0-0- 3 PE Xxxxx PE6 3-0-0-0 3
+PE Xxxxx PE3 3-0-0- 3 OE Xxxxx OE2 3-0-0-0 3
+PE Xxxxx PE4 3-0-0- 3
+OE Xxxxx OE1 3-0-0- 3
+P MAP7XX0 Project 0-0-0- 5 P MAP7XX0 Project 0-0- 10
+Total 20 Total 19
+Grand total 77
+S.No. Category Course Total Total
+Category Title Courses Credits
+1 C Compulsory 11 38
+2 PE Program Electives 6 18
+3 OE Open Elective 2 6
+4 P Project 2 15
+Total 77
+(7) Acquire project management skills.
+(5) Program Structure:
+(6) Topic Cloud
+Compulsory Topics:
+(a) Linear Algebra (Finite dimensional Vector Spaces, linear transformations, Inner
+Product Spaces, Eigenvalues and Eigenvectors, Jordan canonical forms, Matrix
+theory, Eigenvalues and Eigenvectors, Spectral Analysis)
+
+(b) Real Analysis (Basic properties of real system, study of Metric spaces, Calculus of
+several variables, Function spaces), Abstract Algebra (Basic algebraic structures,
+group theory, ring theory, Galois Theory)
+(c) Topology (Topological structures and their properties, transformation between
+topological spaces), Functional Analysis (Normed linear spaces, Banach spaces, Lp
+Spaces, Hilbert Spaces, Linear transformations and their properties)
+(d) Complex Analysis (Fundamental theorem of Complex Analysis, Residue theorem,
+Contour integration and its applications, evaluation of Improper integrals, conformal
+(e) Probability theory (Univariate and multi-variate Probability Distributions and their
+properties, weak laws of large numbers, central limit theorem).
+(f) Statistics (sampling distributions, estimation of parameters, interval estimation,
+testing of hypotheses), Statistical modelling (Estimation of parameters, Interval
+estimation, Testing of hypotheses)
+(g) Ordinary Differential Equations (Existence and Uniqueness of solution, Sturm-
+Liouville problems and properties of its solutions)
+(h) Partial differential equations and their applications
+(i) Fundamentals of Programming
+(j) Numerical Techniques (Root finding methods, Solution for system of linear
+equations, Power method), Solution to System of linear Equations, Interpolation,
+Numerical solution of Ordinary Differential Equations.
+Elective Topics:
+Fourier analysis, Wavelets analysis, Dynamical Systems, Operations Research, Number 
+Theory, Calculus of Variations, Integral Equations, Statistical Inference, Graphs Theory, 
+Stochastic Calculus, Measure and Integration, Chaos Theory, Numerical Methods for 
+Partial Differential Equations, Discrete Mathematics.
+(7) List of Electives
+(a) Department of Mathematics
+ 
+MAL7XX0: Measure and Integration
+ 
+MAL7XX0: Financial Engineering
+ 
+MAL7XX0: Wavelets analysis and Applications
+ 
+MAL7XX0: Dynamical Systems
+ 
+MAL7XX0: Optimization
+ 
+MAL7XX0: Numerical Analysis
+ 
+MAL7XX0: Number Theory
+ 
+MAL7XX0: Statistical Inference
+ 
+MAL7XX0: Graph Theory
+ 
+MAL7XX0: Calculus of Variation and Integral Equations
+ 
+MAL7XX0: Stochastic Calculus
+ 
+MAL7XX0: Algebraic Number Theory
+ 
+MAL7XX0: Machine Learning and Pattern Recognition
+ 
+MAL7XX0: Chaos Theory and its Applications
+ 
+MAL7XX0: Representations of finite groups
+ 
+MAL8XX0: Numerical Partial Differential Equations
+ 
+MAL7XX0: Selected Topics in Mathematics - I (1-0-0-0)
+ 
+MAL7XX0: Selected Topics in Mathematics - II (2-0-0-0)
+ 
+MAL7XX0: Selected Topics in Mathematics - III (3-0-0-0)
+
+(b) From sister Departments
+ 
+Theory of Vibrations
+ 
+Finite Element Methods in Engineering
+ 
+Incompressible Fluid Flow
+ 
+Computer Graphics
+ 
+Advanced Computer Graphics
+ 
+Digital Image Analysis
+ 
+Statistical Signal Analysis
+ 
+Statistical Decision Theory
+ 
+Computational Imaging
+ 
+Multimedia Communication
+ 
+Classical Mechanics
+ 
+Quantum Mechanics
+ 
+Statistical Physics
+ 
+Introduction to Quantum Technologies
+
+Course Title Linear Algebra Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Vector Spaces, Matrices and System of Linear Equations [10 Lectures] : System of
+Linear Transformation and Inner Product Spaces [10 Lectures] : Linear
+Operators and Spectral Theorem [20 Lectures] :Linear functionals and adjoints,
+(8) Content of compulsory courses:
+
+Course Title Real Analysis Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Real Number System, Limits and Continuity [10 Lectures] : Countable and uncountable
+Metric Spaces [10 Lectures] : Metric spaces, continuous and uniformly continuous
+Sequences and Series of Functions: [10 Lectures] Sequences and Series of functions,
+Multivariable Calculus [10 Lectures] : Functions of several variables, continuity,
+
+Course Title Ordinary Differential Equations Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Motivations and origins, Existence-Uniqueness [7 Lectures] : Existence of solutions by
+Second Order Linear Equations [23 Lectures] : General solution of differential
+Systems of Differential Equations [10 Lectures] : Phase plane method, critical points of
+1. Agrawal, P. N. and Pandey, D. N., Ordinary and partial differential equations and
+applications, NPTEL Course Material, Department of Mathematics, IIT Roorkee,
+
+2. Raghavendra V., Ordinary differential equations, NPTEL Course Material,
+
+Course Title Probability and Statistics Course No. MAL5XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Probability spaces and Random Variables [15 lectures] : Probability measure,
+Joint Distributions [10 lectures] : Random vectors, joint, marginal and conditional
+Limit Theorems [3 lectures] : Convergence of sequences of random variables, weak and
+Estimation and Tests of Hypotheses [14 lectures] : Sampling distributions, estimation of
+
+Title Programing techniques Number MAL5XX0
+Department Mathematics L-T-P-D [C] 2–0–2-0
+[3]
+Offered for M.Sc.(MA) Type Compulsory
+
+Course Title Abstract Algebra Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Group Theory [10 lectures]: Review of Group theory (Symmetric Groups,
+Ring Theory [ 11 lectures] : Rings, Polynomial Rings, Prime ideals, Maximal Ideals,
+Field extensions [5 lectures]: Finite extension, algebraic extensions.
+Galois Theory [16 lectures] : Galois Theory, splitting Fields, Normal extension,
+
+Course Title Complex Analysis Course No. MAL5XX0
+Department Mathematics L-T-P-D [C] 3–0–0-1[4]
+Offered for M.Sc.(MA) Type Compulsory
+Introduction to functions of complex variables [14 Lectures] : Elementary functions,
+Complex Integration [14 Lectures] : Line and Contour Integrals, anti-derivatives of a
+Residue Theory [10 Lectures] Residues and poles, Cauchy‟s residue theorem, Jordan‟s
+Conformal mappings [4 Lectures] : Conformal mapping, Special transformation,
+
+Course Title Partial Differential Course No. MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA) Type Compulsory
+method, Laplace transform method, and Fourier transform method
+Motivations and origins [3 Lectures] : PDEs of engineering and physics (Heat, wave and
+First order partial differential equations [9 Lectures] : Linear, quasi-linear and fully
+Second order partial differential equations [12 Lectures] : Classification and Canonical
+with constant coefficients .
+Elliptic, parabolic and hyperbolic equations [16 Lectures] : Variable separation method for
+Green‟s function method .
+1. Rao, K. S., Introduction to partial differential equations, 3rd Edition, PHI, 2011
+2. Logan, J. D., Applied partial differential equations, 3rd Ed., Springer, 2015
+3. Pinchover, Y. and Rubinstein, J., An introduction to partial differential equations,
+1. Sneddon, I. N., Elements of Partial Differential Equations, McGraw-Hill, New
+2. Prasad, P. And Ravindran, R., Partial differential equations, New Age
+3. Mattheij, R. M. M., Rienstra, S. W., and ten Thije Boonkkamp, J. H. M., Partial
+1. Agrawal, P. N. and Pandey D.N., Ordinary and partial differential equations and
+2. Sinha, R. K., Partial differential equations, NPTEL Course Material, Department of
+
+Title Functional Analysis Number MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA) Type Compulsory
+
+Course Title Data Structures and Algorithms Course No. MAP5XX0
+Department Mathematics L-T-P-D [C] 1–0–2-0 [2]
+Offered for M.Sc.(MA) Type Compulsory
+Performance of algorithms [3 lectures] : Algorithm Development, Complexity analysis
+Data structures [11 lectures] : Arrays, pointers, linked lists, stacks, queues, binary
+1. Garg, N., Data Structures And Algorithms, NPTEL Course Material, Department of
+Computer Science and Engineering , IIT Delhi,
+
+Title Topology Number MAL6XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA) Type Compulsory
+
+Title Measure and Integration Number MAL7XX0
+Department Mathematics L-T-P-D
+[C] 3–0–0-0 [3]
+Offered for M.Sc.(MA) Type Elective
+(9) Content of Elective courses:
+
+Title Financial Engineering Number MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0 [3]
+Offered for M.Sc.(MA)/M.Tech.(DCS)/PhD (MA) Type Elective
+
+Course Title Wavelet Analysis and Applications Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA)/PhD (MA) Type Elective
+Fourier Analysis [12 Lectures] : Fourier and inverse Fourier transforms, Gabor
+Wavelet Analysis [18 Lectures] : Mother wavelet, orthogonal and biorthogonal
+Applications [12 Lectures] : Application of wavelet theory to feature detection, image
+Analysis, NPTEL Course Material, Department of Mathematics, IIT Bombay,
+
+Course Title Optimization Techniques Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA)/PhD (MA) Type Elective
+Linear Programming [23 lectures]: Linear combination of vectors, Convex set, Convex
+Nonlinear Programming [19 lectures] : First and second order conditions, Iterative
+
+Course Title Numerical Analysis Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA) Type Elective
+1. Learn numerical techniques for a variety of mathematical problems
+2. Analyze the validity and error in the numerical results
+1. Develop an understanding of numerical error and applicability of a particular
+method .
+2. Solve numerically algebraic equations, linear systems of equations, ordinary
+3. Carry out numerical differentiation, integration, and interpolation
+Errors analysis [4 Lectures] : Numerical Algorithms and errors, Floating point systems,
+Types of error, Propagation of Error, the stability of algorithms.
+Nonlinear equations [8 Lectures] : Newton-Raphson Method, Fixed-Point Iteration
+Numerical solution of linear system of equations [8 Lectures] : I ll- conditioned systems ,
+iterative methods (Gauss-Seidel method, Gauss-Jacobi method), matrix inversion, Rate
+methods for eigenvalue problems. methods for eigenvalue problems.
+Interpolation [8 Lectures] : Errors in polynomial interpolation, finite differences,
+interpolation, Spline interpolation. interpolation, Spline interpolation.
+Numerical Integration and Differentiation [6 Lectures] : Newton-Cotes integration
+formulae, Difference Formulae, Method of Undetermined Coefficients. formulae, Difference Formulae,
+Numerical IVPs for Ordinary Differential Equations [8 Lectures] : Taylor series method,
+Euler‟s Method, Modified Euler‟s Methods, Runge-Kutta Methods. Euler‟s Method, Modified Euler‟s Methods, Runge-Kutta Methods
+1. Süli, E. and Mayers, D.F., An Introduction to Numerical Analysis, Cambridge Uni.
+3. Burden, R. L., Numerical Analysis, 9th Edition, Cengage Learning India, 2012
+1. Conte, S.D. and Boor, C., Elementary Numerical Analysis: An Algorithmic
+
+Course Title Number Theory Course No. MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA) Type Elective
+Introduction [10 Lectures] : Divisibility, prime numbers, properties and their distribution,
+Congruences [10 Lectures] : Linear congruences, Chinese Remainder theorem, quadratic
+Arithmetical functions [15 Lectures] : examples, properties and their rate of growth,
+Diophatine equations [6 Lectures] : linear, quadratic and higher degree, some general
+
+Title Statistical Inference Number MAL7XX0
+Departmet Mathematics L-T-P-D [C] 3–0–0-0[3]
+Offered for M.Sc.(MA)/Ph.D. (MA) Type Elective
+
+Title Stochastic Calculus Number MAL7XX0
+Department Mathematics L-T-P-D
+[C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA)/Ph.D.(MA) Type Elective
+
+Title Calculus of variations and Integral
+Equations Number MAL7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-D [3]
+Offered for M.Sc.(MA)/Ph.D.(MA) Type Elective
+
+Title Chaos Theory and its Applications Number MA7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA)/PhD (MA) Type Elective
+
+Title Machine Learning and Pattern
+Recognition Number MA7XX0
+Department Mathematics L-T-P-D [C] 3–0–0-0
+[3]
+Offered for M.Sc.(MA)/M.Tech.(DCS)/PhD (MA) Type Elective
+
+Title Numerical solutions of Partial Differential
+Equations Number MAL8XX0
+Department Mathematics L-T-P
+[C] 3–0–0 [3]
+Offered for M.Tech.(DCS)/PhD (MA) Type Elective
+Prerequisite Partial Differential Equations
+[8 Lectures] Characterization of PDEs, Finite difference methods for elliptic, parabolic
+[6 Lectures] Stability, consistency and convergence theory, dissipation and dispersion,
+Parabolic equations [6 Lectures]: Fourier analysis of the error, Alternating direction
+Elliptic equations [6 Lectures] : Stability analysis by the energy method, Error analysis
+Hyperbolic equations [10 Lectures]: CFL condition, Von Neumann stability Analysis,
+Numerical linear algebra [6 Lectures]: Classical iterative Methods for solving linear
+
+1. Nayak, A. K., Numerical methods: Finite Difference Approach, NPTEL Course,
+Department 
+of 
+Mathematics, 
+IIT 
+Roorkee,
+
+Courses
+Offered by
+Humanities and Social Science Department
+Indian Institute of Technology Jodhpur
+
+PG Compulsory Courses(to be approved)
+1. HSN7XX0 Technical Communication 1-0-0 (1) 
+2. HSN7XX0 Ethics and Professional Life 1-0-0 (1)
+PG Electives (to be approved)
+1. HSL7XX0 Cine-Politics under National Emergency 3-0-0 (to be approved) 
+2. HSL7XX0 Sociology of Science and Technology 3-0-0 (to be approved)
+3. HSL7XX0 Digital Society 3-0-0 (to be approved)
+PG Electives (already approved)
+4. HSL7XX0 Gender and Society 3-0-0 (3) 
+5. HSL7XX0 Sociocultural Theories 3-0-0 (3) 
+6. HSL7XX0 Foundations of Sustainability 3-0-0 (3) 
+7. HSL7XX0 Nature Writings in American Literature 3-0-0 (3) 
+8. HSL7XX0 Literature and Environment 3-0-0(3) 
+9. HSL7XX0 Twentieth Century Analytic Philosophy 3-0-0 (3) 
+10. HSL7XX0 Language and Cognition 3-0-0 (3) 
+11. HSL7XX0 Ethical Theories and Moral Practices 3-0-0 (3) 
+12. HSL7XX0 Philosophy of Mind 3-0-0 (3) 
+13. HSL7XX0 Bioengineering Ethics 3-0-0 (3) 
+14. HSL7XX0 Cognitive Science 3-0-0 (3) 
+15. HSL7XX0 Qualitative and Quantitative Methodology 3-0-0(3) 
+16. HSL7XX0 Consciousness 3-0-0 (3)
+
+Title Technical Communication Number HSNXX
+Department Humanities and Social Sciences L-T-P [C] 1–0–0 [1]
+Offered for M.Tech and PhD Type Compulsory
+Prerequisite None
+
+Introduction to Technical Communication
+Writing – Mechanics of Technical Writing, Organization and Structure in Technical Writing, 
+Writing an abstract, Writing a Research Paper, Writing a Review, Report Writing, Writing 
+Technical descriptions, Copyediting and formatting, Referencing, Citations, Plagiarism.(4 hours)
+Reading – Identifying Language Errors, Reading Comprehension with specific reference to 
+passages/articles in Science and Technology. (1 hour)
+Lectures with Hands on Training – Grammarly, End note, Language software, Document 
+processing using software.(2 hours)
+Reference Books
+1.Raman, Meenakshi and Sangeeta Sharma. Technical Communication: Principles and Practice. 
+Oxford University Press: New Delhi, 2011.
+2. A Text Book of English for Engineers and Technologists. Division of Humanities and Social 
+Sciences, Anna University, Orient Black Swan: Chennai, 2002.
+Online Course Material
+1.Technical English for Engineers-https://nptel.ac.in/courses/109106094/
+
+Title Ethics and Professional Life Number HSN7XX0
+Department Humanities and Social Sciences L-T-P [C] 1–0–0 [1]
+Offered for M.Tech and PhD Type Compulsory
+Prerequisite None
+
+Title Cine-Politics under the National Emergency Number HSL7XX0
+Department Humanities and Social Sciences L-T-P [C] 3-0-0
+Offered for B. Tech., M. Tech. and Ph.D. Programs Type Elective
+Prerequisite None
+
+Textbooks
+1. Rajadhyaksha, Ashish. Indian Cinema in the Time of Celluloid: From Bollywood to
+the Emergency. Bloomington: Indiana University Press, 2009.
+Reference Book
+1. Joshi, Priya, and Rajinder Dudrah, eds. The 1970s and Its Legacies in India’s
+Cinemas. New York: Routledge, 2014.
+Online Course Material
+
+Title Sociology of Science and Technology Number HSL7XX0
+Department Humanities and Social Sciences L-T-P [C] 3-0-0
+Offered for B. Tech, M.Tech and Ph. D. Type Elective
+
+of Indian Science, Science and Governance in India (4 lectures)
+Textbooks
+1.Sismondo, S. (2010), An Introduction to Science and Technology Studies, 2nd 
+Edition, Wiley Blackwell
+2.Miller, D. et. al. edited (2012), Digital Anthropology, Berg.
+Reference Book
+Felt U., Fouche, R. et. al. edited (2017), The Handbook of Science and Technology 
+Studies, MIT Press
+Online Course Material
+1. Mallick, S.Science, Technology and Society, NPTEL Course Material, Department of
+HSS, IIT Guwahati, https://onlinecourses.nptel.ac.in/noc17_hs26/preview
+2. Mishra, A.Sociology of Science, NPTEL Course Material, Department of HSS, Indian
+Institute of Technology Roorkee, https://onlinecourses.nptel.ac.in/noc18_hs09/preview
+
+Title Digital Society Number HSL7XX0
+Department Humanities and Social Sciences L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Sc., M.Tech, Ph.D. Type Elective
+Prerequisite None
+
+2. Gere,C., (2008), Digital Culture, 2nd Edition, London: Reaktion Books Limited
+Reference Books
+1. Bentkowska-Kafel, A., Cashen, T., and Gardiner, H. (Eds.) (2009), Digital Visual
+Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+2. Karaganis, J. (Ed.), (2007), Structures of Participation in Digital Culture, Social
+Science Research Council, Columbia University Press
+3. Tredinnick, L. (2008), Digital Information Culture: The Individual and Society in the
+Digital Age, Oxford: Chandos Publishing Limited
+Online Resources
+1. Digital 
+Humanities 
+Seminar 
+Video 
+Archive 
+of 
+the 
+Open 
+University, 
+UK,
+
+Non Graded Institute Level Courses
+For
+M.Tech. and Ph.D.
+
+Title Systems Engineering and Project Management Number OAL7XX0
+Department L-T-P [C] 1-0-0 [1]
+Offered for M.Tech Program Type Compulsory
+NGU
+
+Management Plan, Work Breakdown Structure, Technical Reviews (2 L)
+ 
+Introduction to the concepts of TRL (Technology Readiness Levels) and 
+MRL(Manufacturability Readiness level) (1 L)
+ 
+Course Project ( 8 hrs of self-work corresponding to 2 scheduled contact hours)
+o 
+Application of Systems Engineering Methodology to the Major Project (M.Tech)
+o 
+Use of Microsoft Project as the software tool for managing their M.Tech project
+Evaluation
+Presentation of Systems Engineering Process of the Major Project
+Textbook
+1. Introduction to Systems Engineering by Ian Faulconbridge, Michael Ryan (Kindle
+Edition) 
+Argos Press, 2015.
+2. Systems Engineering Fundamentals
+Web Resources
+
+Title Innovation and IP Management
+Management of Innovation and IP Number OAL7XX0
+Department OA L-T-P [C] 1–0–0 [1]
+Offered for All M. Tech and PhD students <Shall also be
+considered for B.Tech Students> Type Compulsory
+Prerequisite Not required
+
+Ph.D. Programme
+In
+Digital Humanities
+Offered by
+Digital Humanities
+Inter Disciplinary Research Platform
+Indian Institute of Technology Jodhpur
+
+Introduction
+The digital revolution of the 20th and 21st centuries has created new knowledge and 
+spaces for humankind to evolve culturally with the construction of techniques and 
+technologies. As a corollary, a new field of organised research emerged at the beginning 
+of the 2000s examining the use and application of digital technologies in the humanities, 
+liberal arts, social science scholarship, computer sciences, and beyond. Popularly nested 
+under an umbrella term “Digital Humanities”, this area of scholarship takes a critical 
+stance to examine the role, use, application, and impact of digital tools in our everyday 
+life, our societies, economies, cultures, and governments. However, while the use of 
+computational tools in social science and humanities work is not very new, the 
+availability of a large body of cultural artefacts after the digital turn, as well as 
+emergence of new kinds of digital objects and embodiments, has opened up several 
+possibilities for social science and humanities research, practice and pedagogy using 
+computational approaches. Very soon, the question of whether something is, or is not, 
+„digital‟ will be increasingly secondary as many forms of culture become mediated, 
+produced, accessed, distributed or consumed through digital devices and technologies. 
+In 
+other 
+words, 
+the 
+field 
+of 
+Digital 
+Humanities 
+is 
+expected 
+to 
+grow 
+on
+interdisciplinaryrather than multidisciplinary principles. The research focus and pedagogy 
+in this program emphasize many of the emerging epistemological questions on 
+knowledge production about generating digital data from material objects, and on 
+rethinking existing processes of knowledge production.
+Objective of the Program
+IIT Jodhpur is one of the pioneering institutes in the country currently offering an 
+interdisciplinary doctoral degree in Digital Humanities. This doctoral program offers 
+unique opportunities to redraw conventional disciplinary boundaries among the 
+humanities, the social sciences, the arts, technology and engineering, and the natural 
+sciences. Primary objectives of the program include (but are not limited to):
+1. Introducing and exploring a broad spectrum of perspectives on the Digital
+Humanities
+2. Developing familiarity with a range of Digital Humanities projects, as well as the
+ability to evaluate the tools and methods involved in creating and analysing those 
+projects
+3. Critical and reflexive use of digital tools, technologies, and spaces by
+understanding that all technologies are complex and socially situated, through 
+which humans make meaning
+Doctoral students opting for this program are expected to contribute towards integrating 
+disciplinary approaches of the humanities, liberal arts, social sciences, and computer 
+technologies, with cross-disciplinary theorising and research that can be avant-garde to
+
+Semester 1 Semester 2
+Semester 3 Semester 4
+DH799Ph.D. Thesis DH799 Ph.D. Thesis
+Semester 5 Semester 6
+DH799 Ph.D. Thesis DH799 Ph.D. Thesis
+Semester 7 Semester 8
+DH799 Ph.D. Thesis DH799 Ph.D. Thesis
+the field of Digital Humanities. Doctoral research in Digital Humanities shall be premised 
+on project-oriented knowledge production, the practical application of methods, and shall 
+involve interdisciplinary collaboration workflows. To enhance such collaborative 
+workflows, the programme will actively involve academics and resource people from 
+other institutes and universities across the country and internationally.
+Expected Graduate Attributes
+In depth understanding of the fundamental concepts of broad areas in Humanities, Social 
+Sciences, and application areas of basic computational tools.
+1. Ability to undertake problems in multidisciplinary domains of Humanities, Social
+Sciences, Computer Sciences, Mathematics, and related disciplines.
+2. Skills to demonstrate basic principles of Humanities and Social Sciences through
+various application areas and analytical processes.
+3. Ability to make effective oral and written technical communication. 
+4. Appreciation and adherence to norms of professional ethics.
+Learning Outcomes
+1. Appreciate and critically discuss Digital Humanities projects in light of current
+methods and theoretical approaches to the field
+2. Explain how Digital Humanities methods and practices are applied in different
+disciplines
+3. Skillset to plan, develop, and evaluate a Digital Humanities research project 
+4. Fundamental understanding of research tools to plan for and evaluate the
+effectiveness of Digital Humanities methods including a multitude of platforms 
+such as social media and web tools.
+5. Understand what data mean in different contexts 
+6. Capture, collect, and analyse a variety of data types related to Digital Humanities
+research project
+Program Structure and Credit Structure:
+
+List of recommended electives:
+
+DH Electives
+
+Title Fundamentals of Digital Humanities Number DHL7010
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (Cr>=100); M.Sc. (Cr >=30);
+M.Tech. (Cr.>0); Ph.D. (Cr.>0) Type Elective
+Prerequisite None
+
+Marginalised Histories; Cyborgs, Gender, Space, and Place in Digital Societies [4 
+Lectures]
+Literature and Technology, Text Analysis, Data Visualisation [3 Lectures]
+Hands-on Exercises
+1. Identifying DH projects from traditional projects: Concrete examples and a
+range of approaches to DH from the traditional disciplines.
+2. Digital Humanities Project Critiques: Exploring the project goals, what type
+of data it used, how that data was found and/or transformed, what 
+technologies were used, and why.
+References Books
+1. Gere, C., (2008), Digital Culture, 2nd Edition, London: Reaktion Books
+Limited
+2. Bentkowska-Kafel, A., Cashen, T., and Gardiner, H. (Eds.) (2009), Digital
+Visual Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+3. Karaganis, J. (Ed.), (2007), Structures of Participation in Digital Culture,
+Social Science Research Council, Columbia University Press
+Online-course material
+Digital Humanities Seminar Video Archive of the Open University, UK, 
+http://www.open.ac.uk/arts/research/digital-humanities/videos
+Fractal 2: Data and Knowledge representations (DHL7012)
+Introduction: Data Sources, Transcribing (Multimedia data), Conversation, 
+Discourse Analysis [7 lectures]
+Knowledge Engineering: Ontological engineering, Representation of Ontologies, 
+Common Logic, RDFS, Web Ontology Language (OWL), Topic Maps, Multimedia 
+Web Ontology Language, Applications [ 7 Lectures]
+Hands-on Exercises
+1. Ethnographic data collection and analysis: A case study 
+2. Ontology formation from Multimedia Data: A case study
+
+References Books
+1. Christopher Joseph Jenks (2011), Transcribing Talk and Interaction: Issues
+in the Representation of Communication Data, John Benjamins Publishing 
+Company.
+2. Russel, S. & Norvig, P., (2009), Artificial Intelligence: A Modern Approach,
+Pearson Education
+3. S. Chaudhury, A. Mallik, and H. Ghogh (2016), Multimedia Ontology
+Representation and Applications, CRC Press.
+Online-Course Materials
+1. Knowledge Representation and Reasoning
+Fractal 3: Digital Archives (DHL7013)
+Digital memory, Methods of archiving, Theorizing the archive, database [6 lectures]
+Exhibition, installation, audio-visual essays [4 lectures]
+Aesthetics of recreation/ Digital aesthetics, Digital Art [4 lectures]
+References Books
+1. Ernst, W., (2013), Digital Memory and the Archive, Minneapolis: University
+of Minnesota Press
+2. Grau, O., Coones, W., and Ruhse, V. (Eds.) (2017), Museum and Archive on
+the Move: Changing Cultural Institutions in the Digital Era, Berlin and 
+Boston: De Gruyter
+Online-course material
+
+Title Digital Methods and Tools Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (Cr>=100); M.Sc. (Cr >=30);
+M.Tech. (Cr.>0); Ph.D. (Cr.>0) Type Elective
+Prerequisite None
+
+1. Kotu, V. and Deshpande, B. (2018) Data Science: Concepts and Practice,
+Morgan Kaufmann.
+2. Saltz, J.S. and Stanton, J.M. (2017) An Introduction to Data Science, SAGE
+3. Kelleher, J. D., and Tierney, (2018) Data Science, MIT Press Reference Books
+Reference Books
+1. Moreira, J., Carvalho, A. and Horvath, T. (2018) A General Introduction to
+Data Analytics, John Wiley & Sons.
+2. Mayer-Schonberger, V. and Cukier, K., (2013) Big data: The essential guide
+to work, life and learning in the age of insight, John Murray Publications.
+Fractal 2: Qualitative and Quantitative Analyses (DHL7XX2)
+Introduction: Research Question, Research Design, an introduction to research 
+methods in digital humanities and mapping the departure from traditional research 
+methods [2 lectures]
+Overview of Research Methods: Quantitative data collection and analysis, Survey 
+design and analysis; Interviews, focus groups and participant observation; 
+Discourse and Content Analysis [3 lectures]
+Research Methods in Digital Humanities: Case Studies and projects in Digital 
+Humanities; Research method as discipline - how digital humanities has been 
+expanding through deployment of digital methods to study society, culture, 
+philosophy and language [4 lectures]
+Techniques of data collection and analysis: Document Image Processing, OCR 
+Techniques and its challenges, NLP Introduction, and its applications, Qualitative 
+Analysis - Themes, Patterns, Coding using NVivo and MaxQDA [5 lectures]
+References Books
+1. Bryman, Alan (2014), Social Science Research Methods, Oxford University
+2. Levenberg, Nielsen, Tai, et. al. (2018), Research Methods for Digital
+Humanities, Palgrave Macmillan: New York.
+Fractal 3: Visualization Analysis and Design (DHL7XX3)
+Introduction: Design Effectiveness, Abstraction (Data and Task), Marks and 
+Channels, Analysis and Validation [7 lectures]
+Interaction Design: Arranging data, Spatial data, Network and Trees, Map Color and 
+Other Channels, Views, Applications, User Experience [ 7 Lectures]
+Hands-on Exercises
+
+1. Visualizing Quantitative and Qualitative Data. 
+2. Use case-based user experience design.
+References Books
+1. William Lidwell, Kritina Holden, Jill Butler (2010), Universal Principles of
+Design, Rockport Publishers.
+2. Tamara Munzner (2014), Visualization Analysis & Design, CRC Press.
+Online-course material
+1. Data Science and Visualization, Provided by Harvard University (HarvardX),
+2. NPTEL Course, Data Visualization in R,
+
+Title Selected Topics in Digital Humanities - I Number DHL7XX0
+Department IDRP-DH L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. (Cr>=14)
+Ph.D. (Cr>0) Type Elective
+Prerequisite None
+
+Title Selected Topics in Digital Humanities - II Number DHL7XX0
+Department IDRP-DH L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. (Cr>=14)
+Ph.D. (Cr>0) Type Elective
+Prerequisite None
+
+Title Selected Topics in Digital Humanities - III Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. (Cr>=14)
+Ph.D. (Cr>0) Type Elective
+Prerequisite None
+
+DH Electives
+
+Title Fundamentals of Digital Humanities Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+Prerequisite None
+
+Literature and Technology, Text Analysis, Data Visualisation [3 Lectures]
+Hands-on Exercises
+3. Identifying DH projects from traditional projects: Concrete examples and a
+range of approaches to DH from the traditional disciplines.
+4. Digital Humanities Project Critiques: Exploring the project goals, what type of
+data it used, how that data was found and/or transformed, what technologies 
+were used, and why.
+References Books
+4. Gere, C., (2008), Digital Culture, 2nd Edition, London: Reaktion Books Limited 
+5. Bentkowska-Kafel, A., Cashen, T., and Gardiner, H. (Eds.) (2009), Digital Visual
+Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+6. Karaganis, J. (Ed.), (2007), Structures of Participation in Digital Culture, Social
+Science Research Council, Columbia University Press
+Online-course material
+Digital Humanities Seminar Video Archive of the Open University, UK, 
+http://www.open.ac.uk/arts/research/digital-humanities/videos
+Fractal 2: Data and Knowledge representations (DHL7XX2) [1-0-0]
+Introduction: Data Sources, Transcribing (Multimedia data), Conversation, Discourse 
+Analysis [7 lectures]
+Knowledge Engineering: Ontological engineering, Representation of Ontologies, 
+Common Logic, RDFS, Web Ontology Language (OWL), Topic Maps, Multimedia Web 
+Ontology Language, Applications [ 7 Lectures]
+Hands-on Exercises
+3. Ethnographic data collection and analysis: A case study 
+4. Ontology formation from Multimedia Data: A case study
+References Books
+4. Christopher Joseph Jenks (2011), Transcribing Talk and Interaction: Issues in
+the Representation of Communication Data, John Benjamins Publishing 
+Company.
+5. Russel, S. & Norvig, P., (2009), Artificial Intelligence: A Modern Approach,
+
+Pearson Education
+6. S. Chaudhury, A. Mallik, and H. Ghogh (2016), Multimedia Ontology
+Representation and Applications, CRC Press.
+Online-Course Materials
+2. Knowledge Representation and Reasoning
+Fractal 3: Digital Archives (DHL7XX3) [1-0-0]
+Digital memory, Methods of archiving, Theorizing the archive, database [6 lectures]
+Exhibition, installation, audio-visual essays [4 lectures]
+Aesthetics of recreation/ Digital aesthetics, Digital Art [4 lectures]
+References Books
+3. Ernst, W., (2013), Digital Memory and the Archive, Minneapolis: University of
+Minnesota Press
+4. Grau, O., Coones, W., and Ruhse, V. (Eds.) (2017), Museum and Archive on the
+Move: Changing Cultural Institutions in the Digital Era, Berlin and Boston: De 
+Gruyter
+Online-course material
+
+Title Digital Methods and Tools Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+Prerequisite None
+
+Text Books
+4. Kotu, V. and Deshpande, B. (2018) Data Science: Concepts and Practice,
+Morgan Kaufmann.
+5. Saltz, J.S. and Stanton, J.M. (2017) An Introduction to Data Science, SAGE
+6. Kelleher, J. D., and Tierney, (2018) Data Science, MIT Press Reference Books
+Reference Books
+3. Moreira, J., Carvalho, A. and Horvath, T. (2018) A General Introduction to
+Data Analytics, John Wiley & Sons.
+4. Mayer-Schonberger, V. and Cukier, K., (2013) Big data: The essential guide
+to work, life and learning in the age of insight, John Murray Publications.
+Fractal 2: Qualitative and Quantitative Analyses (DHL7XX2) [1-0-0]
+Introduction: Research Question, Research Design, an introduction to research 
+methods in digital humanities and mapping the departure from traditional research 
+methods [2 lectures]
+Overview of Research Methods: Quantitative data collection and analysis, Survey 
+design and analysis; Interviews, focus groups and participant observation; 
+Discourse and Content Analysis [3 lectures]
+Research Methods in Digital Humanities: Case Studies and projects in Digital 
+Humanities; Research method as discipline - how digital humanities has been 
+expanding through deployment of digital methods to study society, culture, 
+philosophy and language [4 lectures]
+Techniques of data collection and analysis: Document Image Processing, OCR 
+Techniques and its challenges, NLP Introduction, and its applications, Qualitative 
+Analysis - Themes, Patterns, Coding using NVivo and MaxQDA [5 lectures]
+References Books
+
+Title Selected Topics in Digital Humanities - I Number DHL8XX0
+3. Bryman, Alan (2014), Social Science Research Methods, Oxford University
+4. Levenberg, Nielsen, Tai, et. al. (2018), Research Methods for Digital
+Humanities, Palgrave Macmillan: New York.
+Fractal 3: Visualization Analysis and Design (DHL7XX3) [1-0-0]
+Introduction: Design Effectiveness, Abstraction (Data and Task), Marks and 
+Channels, Analysis and Validation [7 lectures]
+Interaction Design: Arranging data, Spatial data, Network and Trees, Map Color and 
+Other Channels, Views, Applications, User Experience [ 7 Lectures]
+Hands-on Exercises
+3. Visualizing Quantitative and Qualitative Data. 
+4. Use case-based user experience design.
+References Books
+3. William Lidwell, Kritina Holden, Jill Butler (2010), Universal Principles of
+Design, Rockport Publishers.
+4. Tamara Munzner (2014), Visualization Analysis & Design, CRC Press.
+Online-course material
+3. Data Science and Visualization, Provided by Harvard University (HarvardX),
+4. NPTEL Course, Data Visualization in R,
+
+Department IDRP-DH L-T-P [C] 1–0–0 [1]
+Offered for Type Elective
+Prerequisite DHL7XX0 Fundamentals of Digital Humanities
+OR
+DHL7XX0 Digital Methods and Tools
+
+Title Selected Topics in Digital Humanities - II Number DHL8XX0
+Department IDRP-DH L-T-P [C] 2–0–0 [2]
+Offered for Type Elective
+Prerequisite DHL7XX0 Fundamentals of Digital Humanities
+OR
+DHL7XX0 Digital Methods and Tools
+
+Title Selected Topics in Digital Humanities - III Number DHL8XX0
+Department IDRP-DH L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite DHL7XX0 Fundamentals of Digital Humanities
+OR
+DHL7XX0 Digital Methods and Tools
+
+Ph.D. Programme
+In
+Quantum Information and Computation (QIC)
+Inter Disciplinary Research Platform
+
+Title Introduction to Quantum Number QCL6XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+e Objectives
+
+Title Quantum Computing Number QCL7XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Facets of Quantum Information Number QCL7XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Quantum Cryptography and
+Coding Number QCL6XX0
+Department IDRP (QC) L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Ph.D. Programme
+In
+Smart Healthcare
+Inter Disciplinary Research Platform
+
+PhD program in IDRP Smart healthcare
+The Smart Health Care IDRP aspires to create significant scientific and technological 
+advancements in the area of Healthcare by bringing together a multidisciplinary team of 
+scientists working in the interface of Biology, Chemistry, healthcare & Engineering. The 
+research is intended to focus on designing and developing sustainable solutions for 
+point-of-care health devices, drug discovery, affordable diagnostics, bio-compatible 
+implants, and remote health care, including telemedicine. The IDRP platform is expected 
+to support the development of various eHealth and mHealth based solutions for 
+improving the quality of healthcare and making it available to large segments of the 
+society.
+2. The major objectives are:
+ Augmenting existing methods for medical research using machine learning and
+artificial intelligence based approaches
+ Designing new and optimizing existing point-of-care health devices 
+ Identifying novel methods for early diagnosis and personalized treatments 
+ Creating a platform to use various electronic, mechanical, and bio-sensors for
+improving the remote health care facilities
+3. Expected Graduate Attributes
+Graduates will
+1. Be able to think critically and solve problems that are necessary for employment
+in biomedical, biotechnology, pharmaceutical industries, National research labs 
+and Academic institutions at the global level.
+2. Develop a sense of ownership on the National missions for technology
+development, which will cater to societal needs in the area of affordable 
+healthcare.
+3. Be exceptionally well trained in the laboratory enabling them to conduct high-
+quality, reproducible research.
+4. Be able to read, understand and review intellectual property documents and
+recognize their rights.
+5. Be able to express their research ideas and present their data clearly in written
+and spoken format.
+6. Develop a strong work ethic and understand ethical considerations in biological
+research, which are both necessary for high-quality research.
+7. Develop healthy time management skills to plan and manage laboratory work as
+well as other miscellaneous research-associated demands on their time to 
+effectively meet deadlines.
+
+Drug
+Development Point of care
+diagnostic device Systems
+Biology Artificial
+Intelligence &
+Machine
+learning Biomedical
+devices &
+implants
+Searching
+Microbiomes for
+novel antimicrobials
+Organic synthesis
+Drug screening &
+testing Sensor materials
+Biomarkers
+Biomolecular
+interactions
+Surface Immuno-
+technology
+Disease
+processes
+diagnostics
+therapeutics
+Synthetic Biology Machine learning
+Artificial
+Intelligence Tissue
+engineering
+Biomechanics
+Artificial Organs
+4. Learning outcome:
+Graduates will
+• 
+Be introduced to cutting-edge, interdisciplinary research areas like Diagnostics & 
+Therapeutics development, Machine learning and Artificial Intelligence for 
+healthcare, Novel drug development, Biomedical Instrumentation design, 
+Biomedical Imaging& Image processing, Systems & Synthetic Biology, Biosensors 
+and Biomaterials Engineering.
+• 
+Be exposed to common problems that are prevalent in the domains of affordable 
+healthcare such as sustainable point of care diagnostic devices, personalized 
+medicine, remote healthcare, bioimaging for specific diagnosis, and medical 
+devices & implants
+• 
+Receive effective, hands-on laboratory training as a part of laboratory courses 
+and short-term research projects that are designed to teach research 
+methodology and common lab techniques.
+• 
+Be introduced to Patents and other intellectual property documents, the rights 
+that they grant and necessary considerations while filing patents / technology 
+that is protected by patents.
+• 
+Develop their research communication skills by participating in seminars, journal 
+clubs; manuscript writing and research grant writing workshops.
+• 
+Receive training on building a work ethic by being a part of research groups 
+working towards a common goal. Graduates will also appreciate the ethical and 
+safety considerations while conducting biomedical research.
+• 
+Be taught how to prioritize items on their schedule and how to budget time across 
+the spectrum of activities including research and other necessary tasks.
+5. Essential Topic clouds
+
+Animal Models
+Personalized
+medicine
+AI for healthcare functionalization
+Sensor
+development
+Qualitative and
+Quantitative Assay
+Biosignals
+Biosignal
+Processing Vaccine
+development
+Identification of
+novel biomarkers
+Understanding
+disease
+development Biomaterials
+Cat Course Title L-T-P Credits Cat Course Title L-T-P Credits
+I Semester II Semester
+PE Elective 1 3-0-0 3 PE Elective 1 3-0-0 3
+PE Elective 2 3-0-0 3 PE Elective 2 3-0-0 3
+PE Elective 3 3-0-0 3 PE Elective 3 3-0-0 3
+PE Elective 3 3-0-0 3 PE Elective 3 3-0-0 3
+Total 12 Total (Graded + Non-graded) 12
+III Semester IV Semester
+PE Elective 2-0-0 2
+6. Program Structure
+
+TH Thesis 0-0-
+20 10 TH Thesis 0-0-24 12
+Total 12 Total 12
+V Semester VI Semester
+TH Thesis 0-0-
+24 12 TH Thesis 0-0-24 12
+Total 12 Total 12
+VII Semester VIII Semester
+TH Thesis 0-0-4 2
+Total 2
+Student with M Sc Students with M Tech Students with B Tech
+Course work credits 30
+Thesis 48 Course work 12
+Thesis 48 Course work credits 30
+Thesis 48
+
+Title Software and Data Engineering Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Compulsory
+Courses
+(In addition to the courses mentioned below, a student can opt for any course floated in other IDRP 
+programs relevant to the thesis)
+
+Title Algorithms for Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+1. Department of Computer Science, Stanford University, 
+ https://see.stanford.edu/Course/CS229
+
+Title Machine Learning II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Machine Learning-1
+
+Title Artificial Intelligence I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Artificial Intelligence II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Artificial Intelligence-1
+
+Title Mechanical Behavior of Materials Number MTL7320
+Department Metallurgical and Materials Engineering L-T-P-D [C] 3–0–2-0
+[4]
+Offered for M.Tech. and Ph.D. Type Elective
+Prerequisite None
+
+Title Frontiers in Organic Chemistry Number CYL7XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+1. G ive an in-depth exposure to the latest advances in organic synthesis
+Advanced Enolate Chemistry: Diastereoselective aldol reactions, Evan‟s chiral auxiliary,
+1. Punniyamurthy,T., Catalytic Asymmetric Synthesis, NPTEL Course Material, Department
+
+Title Theory and Applications of Number CYL6XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Type Compulsory
+
+Title Principles of Drug Discovery Number BBL7XX1
+CSL7XX1
+CSL7XX2
+Department Bioscience & Bioengineering and Computer
+Science and engineering L-T-P [C] 3-0-0 [2]
+Offered for M.Tech Type Elective
+Prerequisite None
+
+Title Introductory Chemical Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for M.Tech Type Elective
+Prerequisite None
+
+Title Algorithms in Biology Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Title Microbes as sensors Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 1-0-0 [1]
+Offered for Type Compulsory
+
+Title Immunodiagnostics and therapeutics Number BBL7XX0
+Department Bioscience & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for M.Tech. (MT) Program Type Elective
+
+2. Stanier, R. Y., General Microbiology, W.H. Freeman and Co., 2009.
+3. Pelczar, M.J., Chan, E. C. S., Krieg, N.R., Microbiology, Tata McGraw – Hill Education, 2001
+Reference Books
+New York: Garland Science.
+2. Madigan, M.T., Martinko, J.M., Brock, Biology of Microorganisms, Prentice-Hall, Inc.,
+Online Course Material
+1 NPTEL Video Lectures on Essentials in Immunology by Prof. R. Manjunath, Prof.
+Dipankar Nandi , Prof. Anjali Karande, Indian Institute of Science Bangalore 
+(http://nptel.ac.in/courses/104108055/)
+2. NPTEL Video Lectures on Cellular and Molecular Immunology by Prof. Sachin Kumar,
+Indian Institute of Technology Guwahati (http://nptel.ac.in/courses/102103038/)
+
+Title Flux Balance Analysis Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P
+[C] 3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Textbook
+1.Palsson B. O., (2006), Systems Biology: Properties of Reconstructed Networks, cambridge 
+Press.
+Self Learning Material
+1. Utah State University, https://systemsbiology.usu.edu/syllabus.php
+Preparatory Course Material
+1. 
+Department 
+of 
+Biotechnology, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+
+Title Systems Biology in Personalized Genomics Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P
+[C] 3–0–0[3]
+Offered for M.Tech Type Elective
+Prerequisite Nil
+
+Textbook
+1. Ma'ayan A. and MacArthur B. D. (eds.) (2012), New Frontiers of Network Analysis in Systems 
+Biology, Springer.
+Reference Books
+Research literature
+Self learning materials
+1. Mount Sinai Center for Bioinformatics, https://www.coursera.org/learn/network-biology
+
+Title Artificial Intelligence in Bioengineering
+Lab Number BBP7XX0
+Department Bioscience & Bioengineering L-T-P [C] 0-0-2 [1]
+Offered for Type Open
+Elective
+Prerequisite Machine Learning-1
+
+Course Title Advances in Food Safety and Technology Course No. CYP6XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Textbooks: Fundamentals of Food Engineering by Stanley Charm.
+1. Introduction to Food Engineering - R. Paul Singh, Dennis R. 
+2. Food microbiology: fundamentals and frontiers. 2nd ed. Washington (DC):
+American Society for Microbiology
+Reference Book:
+1. S. Damodaran, K.L. Parkin, and O. R. Fennema, Fennema‟s Food Chemistry,
+fourth edition, 2007, CRC Press
+2. Heldman, D.R., Food Process Engineering, The AVI Publishing Co; Westport, 1975
+Online Course Material

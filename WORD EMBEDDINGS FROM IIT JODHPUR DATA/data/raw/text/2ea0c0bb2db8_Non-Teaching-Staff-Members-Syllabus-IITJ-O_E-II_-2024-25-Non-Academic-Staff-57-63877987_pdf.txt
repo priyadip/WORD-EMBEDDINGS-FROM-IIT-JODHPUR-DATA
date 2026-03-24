@@ -1,0 +1,11 @@
+SOURCE_PDF: 2ea0c0bb2db8_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877987.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL ASSISTANT
+(Center for Research & Development of Scientific Instruments (CRDSI))
+(A) WRITTEN TEST
+(B) SKILL TEST
+a) Handling high end equipment such as NMR, AFM, SEM, TEM, XRD, Magnetic Measurement
+Systems, XRF, DLS, ICP, UV-Vis, FTIR, Mass spectrometer, Thermal Analyzer,
+b) Handling experience on Electronic Manufacturing Devices, Diffusion-Oxidation-Annealing
+furnaces, Sensors and Actuators

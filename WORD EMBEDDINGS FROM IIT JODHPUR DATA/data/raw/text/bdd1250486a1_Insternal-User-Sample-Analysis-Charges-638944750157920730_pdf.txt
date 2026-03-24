@@ -1,0 +1,38 @@
+SOURCE_PDF: bdd1250486a1_Insternal-User-Sample-Analysis-Charges-638944750157920730.pdf
+
+Sr.
+No. Equipment Charges Slot
+Category Internal Users
+1 FTIR (Including sample preparation) Per sample Rs. 150 (in KBr)
+2 UV-Vis Spectrophotometer Per Spectrum Rs. 100
+3 Fluorescence Spectrophotometer Per sample Rs. 150
+4 Optical Rotation Per sample Rs. 100
+5 Contac Angle Meter Per sample Rs. 100
+6 Electrochemical workstation Per sample Rs. 125
+7 pH & conductivity meter Per sample Rs. 50
+8 Purification Separation Filtration System Per sample Rs. 150
+9 Die Cast Alum Electronically Controlled Magnetic Stirrer Per hr. /sample Rs. 75
+10 Digital calorimeter for 8 filters Per sample Rs. 50
+11 Low temperature Laboratory Refrigerator (-80 OC) Per day /sample Rs. 50
+12 Low temperature Laboratory Refrigerator (-20 OC) Per sample Rs. 25
+13 High Vacuum Oven Per hr. /sample Rs. 25
+14 Centrifuge Machine Per sample Rs. 25
+15 Rotary Evaporator Per sample Rs. 125
+16 Gas-chromatograph Per sample Rs. 250
+17 Liquid nitrogen container (Dewar) Per day Rs. 45
+18 Ultrasonic Bath Per sample Rs. 50
+19 High performance workstation Per hr. Rs. 50
+20 High Resolution Mass Spectrometer (HRMS) Per sample Rs. 200
+21 Melting Point Apparatus Per sample Rs. 50
+22 UV Visible Chamber Per sample Rs. 25
+23 Fume Hood Facilities Per hr. Rs. 50
+24 Millipore deionized water Type 2 Per ltr. Rs. 25
+25 Electrical Heating Mantles with Controllers (T, Stirrer & time) Per sample Rs. 50
+26 Soxhlet Apparatus Per sample Rs. 75
+27 Ice Flaker Machine Per kg. Rs. 50
+Indian Institute of Technology Jodhpur
+Department of Chemistry
+NH-62, Nagaur Road, Karwar, Jodhpur,
+Rajasthan India-342030 
+.
+Sample Analysis Charges for Internal Users (IIT Jodhpur)

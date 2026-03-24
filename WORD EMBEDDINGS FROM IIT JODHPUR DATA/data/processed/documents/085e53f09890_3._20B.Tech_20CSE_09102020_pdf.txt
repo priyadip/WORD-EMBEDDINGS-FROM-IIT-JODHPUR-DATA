@@ -1,0 +1,189 @@
+introduction traditional curriculum in computer science and engineering cse has focused on two major areas theory and systems database computer hardware and operating systems
+with the advent of the era of edge computing cloud computing security ai and big data the discipline is being transformed by the incorporation of new emerging technologies
+the discipline is becoming instrumental in solving major problems faced by modern society such as healthcare security sustainability and challenges
+there is need to revamp the program in cse so as to prepare students to tackle problems which are fundamentally multidisciplinary in nature
+this would improve iit jodhpur participation and contribution towards providing solutions for global challenges
+iit jodhpur can become leading source of technology solutions for india
+objectives of the program the objective of the
+program in computer science and engineering cse at iit jodhpur is to equip students to undertake careers involving challenges of working on problems while innovating with their core competency in computer science
+the curriculum gives due importance to the foundational aspects of computer science as well as develops in students the necessary engineering skills for addressing emerging technological challenges
+the program offers flexibility in choosing elective courses for widening the understanding of emerging concepts and processes in different domains
+students can opt for specializations which provide coherent and increasingly sophisticated understanding so as to enable them to pursue preferred career opportunities
+the program will produce well prepared and workforce to undertake careers in research and industry involving innovation knowledge creation engineering and entrepreneurship
+expected graduate attributes
+learning outcomes area topics category techniques systems course theory and algorithms computing paradigms syntax semantics specification attribute grammar imperative programming procedures modules programming abstraction encapsulation reuse functional programming polymorphic data types recursion lambda calculus logic programming horn clauses backtracking concurrent programming synchronization multithreads core principles of programming languages pc abstract data types linear data structures non linear data structures stack queue link list heap sorting hashing algorithm analysis graph tree core data structures and algorithms complexity analysis greedy algorithms dynamic programming linear programming universal hashing approximation algorithms randomized algorithms core design and analysis of discrete structures logics set graph and trees deterministic finite automata finite automata pushdown automata context free grammar turing machine lexical and syntax analysis parsing core maths for computing computability decision trees and communication complexity time complexity space complexity complexity of counting and randomization core theory of computation pe graph algorithms directed and undirected graph planar graph graph coloring hamiltonion and eulorian graph bipartite graphs trees
+core graph theoretic pc bouquet problems bounded search tree iterative compression randomized methods kernelization sunflower lemma crown decomposition expansion lemma intractability core parameterized complexity
+new skill sets targeted
+designing reality systems
+developing sustainable computing solutions
+building secure intelligent and trustable systems
+designing and synthesizing digital systems for solving industrial problems
+topic clouds and mapping of topic clouds with proposed courses table
+topics and mapping of topic with courses persistence ds retroactive ds geometric ds ds for moving data dynamic optimality ds van emde boas sketching string ds low memory ds dynamic graphs core and techniques advanced data structures pe euclidean tsp metric tsp fptas ptas schema dual fitting embeddings sparsest cut random hyperplanes hashing makespan techniques approximatio algorithms randomized complexity classes probabilistic analysis markov chain random walk randomized graph algorithms randomized sorting and searching markov chebyshev chernoff techniques randomized computational model and complexity classes np np completeness complexity issues in cryptography lower bounds algebraic computational model levin theory hardness amplification logic in complexity theory circuit lower bounds core complexity theory pe complex numbers complex vector spaces quantum algorithms quantum programming languages quantum cryptography quantum information theory deutsch algorithm simon periodicity algorithm grover search algorithm the algorithm shor factoring algorithm quantum assembly programming quantum key exchange quantum teleportation von neumann entropy core quantum streaming algorithms stream mining using clustering massive data clustering data stream classification distributed mining of streaming data change diagnosis forecasting on stream dimensionality reduction for streaming data
+core and technique stream analytics pe hardware introduction to hdl design flow number representation arithmetic circuits design and analysis of synchronous circuits design of finite state machines cmos technology programmable logic devices cad core digital design cpu memory processor instruction set architecture alu bus architecture cache management performance core computer architecture embedded system design architectures of embedded processors arm cortex m3 programming for embedded systems real time os distributed embedded architectures real time scheduling algorithms systems systems embedded systems pc bouquet vlsi design flow hardware modelling principles hardware description behavioural synthesis logic optimization and synthesis chip architectures standard cells and fpga synthesis tools layout synthesis technique synthesis pe systems processes management process coordination deadlock memory management storage management protection and security core operating systems pc database architectures data granularity er model eer model relational model relational algebra relational calculus sql schema query data definition data manipulation data retrieval views normalization functional dependency transactions schedules acid properties concurrency control recoverability serializability deadlock prevention locking protocols timestamp protocols deadlock detection recovery protocols query optimization hashing indexing core database software development life cycle software engineering process model software design uml design pattern project management cost analysis ui design service oriented architecture software quality risk analysis agile methodologies software architecture core software engineering software testing quality engineering testing process automatic testing unit testing defect prevention process improvement quantifiable quality improvement quality model and measurements defect classification reliability engineering techniques software testing and quality assurance pe distributed systems centralized systems data transparency data fragmentation data allocation security semantic integrity query decomposition query localization query ordering query optimization transaction management concurrency control deadlock management reliability recovery protocols systems distributed database systems pe fog computing internet of things and analytics edge computing distributed computing and system design architecture contemporary cloud framework distributed data processing management middleware design issues and challenges edge fog for applications systems edge and fog concurrency events ordering distributed file systems distributed disk management fault tolerance microkernel operating system kernel systems distributed understanding software evolution software maintenance software reuse reverse engineering levels techniques systems software maintenance network security cyber security vulnerabilities and cyber security safeguards securing web application services and servers intrusion detection and prevention firewalls cyberspace and the law cyber forensics core cyber security osi reference model packet switching techniques performance metrics socket programming email ftp telnet ssh dns tcp udp transmission flow and congestion control tunneling internet protocol and its operation routing algorithms icmp arp rarp dhcp ipv6 rip core computer networks pc overview about manets vanets wsns and wmns modulation techniques at phy layer fading mitigation techniques mac protocols for manets error correcting codes distributed wireless routing algorithms transport level mobility management overview lpwan bluetooth systems introduction to wireless ad hoc network digital trust digital asset digital transactions distributed ledger technology digital signature cryptocurrency bitcoin hyperledger ethereum interaction service blockchain use cases blockchain security technology introduction to blockchain cooperative vehicular safety applications vehicular mobility modeling physical layer considerations for vehicular communications mac layer of vehicular communication networks vanet routing protocols emerging vanet applications standards and regulations systems vehicular hoc networks overview of wireless systems multiplexing link adaptation multihop routing protocols mobility and handoff management cellular technologies overview of lte and cellular networks architecture ran and dynamic cran mobility management and network slicing in pervasive computing context aware sensor networks localization android architecture and overview body area networks technology mobile and pervasive lte networks from to overview core signalling mobile edge and fog computing application vs wifi india policy and vision vision paper discussions technology mobile networks pe networking basics switching architecture sdn architectures openflow network function virtualization emerging sdn models data center networking core software defined basic encryption message integrity public key cryptography digital signatures protocols core cryptography and network security pe applicatio ns bayes decision theory regression bias variance maximum likelihood estimation bayesian parameter estimation decision tree random forest artificial neural network clustering svm feature selection dimensionality reduction core and technique pattern recognition and machine learning pc uninformed search strategies informed search strategies local search algorithms hill climbing constraint satisfaction problems backtracking adversarial search max algorithms propositional logic reasoning patterns logic syntax semantics policy technique artificial intelligence search engine architecture retrieval models performance evaluation text categorization text clustering web information retrieval structured document retrieval techniques information retrieval pe visual world geometry lights and optics tracking motion depth devices and tools technique introduction to ar and vr geometric primitives clipping viewing rendering animation shading coloring opengl technique computer graphics pe eye and early vision reasoning systems late vision visual attention cognitive architectures knowledge representation and learning neural networks for vision applications in vision tasks technique principles of biological vision and applications image formation and transformations camera calibration image restoration spatial and processing epipolar geometry sfm optical flow detection feature description and matching deep learning for vision applications technique computer vision pe data storage methods data access methods analysis representation visualization visual storytelling dashboard infographics technique data visualization neural networks gradient descent optimization regularization autoencoder convolutional neural network recurrent neural network lstm deep generative models generative adversarial network gan deep belief network deep convolutional gan variational autoencoder representation learning unsupervised transfer learning distributed representation domain adaptation neural language model adversarial learning technique deep learning kernel machines variants of support vector machines pac theory boosting graphical models structural predictions deep reinforcement learning space coding core and technique advanced machine learning pe utility theory utility functions decision networks sequential decision problems partially observable mdp game theory reinforcement learning generalization policy search hidden markov model kalman filter knowledge representation ontological engineering situation calculus semantic networks description logic planning graphs planning conditional planning continuous planning planning hierarchical task network planning domains core advanced artificial neuromorphic engineering neuroanatomy of human brain neuron models plasticity rules learning rules spiking neural networks snn nanodevices for neuron implementation synaptic emulation electronic synapses neuromorphic vlsi hardware implementation of synaptic circuits synaptic programming technique neuromorphic design and tradeoff interpretability problem predictability transparency traceability causality reasoning attention and saliency interpretable ai prediction consistency adversarial robustness trustworthy ai integrity reproducibility accountability ai ethics in ai technique dependable fuzzy computing fuzzy systems neural computing genetic algorithms rough sets knowledge representations fuzzification defuzzification swarm intelligence hybrid models systems computing technique soft biological signals biomedical imaging modalities ecg nmr spectroscopy electron microscopy mri and images visualization reconstruction restoration clustering graph partitioning deep learning for technique biometric devices biometric system design biometric data analysis face recognition fingerprint matching signature authentication biometric technique advanced biometrics computational complexity of ai models prediction accuracy numeric accuracy precision memory footprints edge ai memory optimization of models hardware accelerators for edge ai vision processing unit streaming hybrid architecture vector engine open neural network exchange systems and technique constrained word representation nlp tasks seq2seq model question answering sentiment analysis dialogue system machine translation natural language generation interpretability knowledge graphs
+technique natural language understanding spoken language technology dialog and conversational systems automatic speech recognition speech synthesis affect detection dialogue management
+techniques speech graphs network models network data generation structural properties link prediction community detection information cascade small world phenomenon homophily structural balance components network evolution layer network technique social
+course type course category regular
+double credit total credit total institute core engineering ie science is humanities ih programme linked science ls programme core programme compulsory pc programme electives pe
+project pp open open electives oe engineering science engineering science core ec engineering science elective ee total graded humanities nh engineering ne experience nd total graded
+course categories credit distribution and credit structure of
+proposed course categories and credit distribution in the proposed
+programmes type distribution of contact and beyond contact total credits contact hours beyond contact total hours ch hours bch th hour of lecture hr hr hr hour of tutorial hr hr hour of hr hr hr credit structure of
+programmes table credit structure for
+programmes up level contact hour for project refers to the involvement of students in the laboratory discussion etc
+no course name ltp contact hours credit data structure and algorithms maths for computing digital design interaction software engineering operating systems design and analysis of algorithms computer architecture database systems cyber security computer networks digital systems lab principles of programming languages randomized algorithms b1 approximation algorithms b1 distributed algorithms b1 optimization b1 vlsi design b2 synthesis b2 embedded systems b2 total
+list of programme compulsory courses table
+programme compulsory courses no
+stream courses theory and algorithms
+advanced data structures
+optimization math hardware
+embedded systems ee
+vlsi design ee
+hardware software cs systems
+software testing and quality assurance
+distributed database systems
+mobile and pervasive computing
+virtualization and cloud computing
+software maintenance network and security
+introduction to wireless ad hoc network
+mobile networks cs
+software defined networks cs
+intelligent radio networks ee
+data communication networks ee
+cryptography and network security
+introduction to blockchain
+advanced machine learning
+dependable artificial intelligence
+autonomous systems idrp
+ethics policy law and regulation in ai
+planning and decision making for robots idrp speech text and vision
+natural language understanding
+digital image processing
+programme elective courses table
+programme electives courses social computing
+ict for development
+machine learning for epidemiology
+computational social choice
+computational cognition behavior modelling
+ethics policy law and regulations in ai
+and human computing
+computational microeconomics no
+name of specialization specialization core credits specialization elective credits
+visual computing cse aide ee jointly with ee and aide jointly with ee and aide
+reality cs aide ee jointly with ee and aide jointly with ee and aide
+advanced algorithms advanced data structures complexity theory algorithms for big data from randomized algorithms approximation algorithms theory of computation distributed algorithms quantum computing idrp optimization graph theory and applications parameterized
+social and sustainable computing social computing sustainable computing ict for development machine learning for epidemiology health informatics computational social choice computational cognition behavior modelling social networks ethics policy law and regulations in ai and human computing environmental informatics computational microeconomics project
+intelligent communication and networking cs aide ee jointly with ee jointly with ee
+vlsi systems ee cs jointly with ee jointly with ee
+specializations offered by the department table
+specializations and courses cat course ltp cat course ltp semester ii semester ie introduction to electrical engineering ie engineering mechanics ie introduction to computer science is chemistry ie introduction to bioengineering is physics is chemistry lab is physics lab is mathematics is mathematics ii ie engineering visualization ie engineering realization ne engineering ne engineering design nh communication skill nh communication skill ii nh social connect and responsibilities nh social connect and responsibilities ii nh performing arts nh performing arts ii total total iii semester iv semester is probability statistics and stochastic processes ie materials science electronic materials
+in computer science and engineering direct entry table
+computer science and engineering ie mse energy materials ii computational material design ie thermodynamics ie signals and systems ie pattern recognition learning pc maths for computing pc software pc data structures and algorithms pc interaction ls foundations of quantum information processing program linked science elective pc digital design ih humanities ne intro
+to profession total total semester vi semester pc design and algorithms pc cyber security pc computer architecture pc computer networks pc operating systems pc digital systems lab pc principles of languages pc cs core bouquet pc database systems ih humanities ii pe elective nh professional ethics nh professional ethics total total vii semester viii semester ih humanities iv pp
+project pe oe electives pe electives ih humanities iii is environmental science total total total of graded credits total of credits design credits grand total ca course ltp ca course ltp gc iii semester iv semester ie materials science engineering es probability statistics and stochastic processes es modern physics es embedded systems and iot ie thermodynamics ie pattern recognition learning es data structures and algorithms es design of experiments ie signals and systems es control systems ih humanities ne intro
+to profession total total semester vi semester pc design and pc cyber security pc principles of pc computer networks pc operating systems pc software pc database systems pc
+curriculum of double
+in computer science and engineering and
+in engineering science table
+programme structure of double
+pc maths for computing pc digital design pc cs core bouquet ih humanities ii professional ethics professional ethics ii total total
+vii semester viii semester pe es ring science electives pp
+project ih humanities iii pc cs core bouquet algorithms hardware pe oe electives pc digital systems lab pc computer is environmental science total total
+total graded credits total of credits grand total note es are proposed engineering science compulsory courses course title operating systems course no
+cs xxx department computer science and engineering structure offered for type compulsory prerequisite data structures and algorithms
+detailed course content of programme compulsory courses course title interaction course no
+cs2xxx department computer science and engineering structure offered for cse aide type compulsory prerequisite none course title maths for computing course no
+cslxxx department computer science and engineering structure offered for cse aide type core course title design and analysis of algorithms course no
+cslxxx offered for cse aide type compulsory course title computer networks course no
+csl3xx department computer science and engineering structure prerequisite prob
+and stochastic process course title database systems course no
+cslxxx course title cyber security course no
+csl6xx department computer science and engineering structure offered for type core prerequisite computer networks course title computer architecture course no
+department cse and ee structure offered for
+cse type compulsory course title software engineering course no
+csl2xx department computer science engineering structure offered for cse type compulsory prerequisite introduction to computer science course title principles of programming languages course no
+csxxx department computer science engineering structure offered for type compulsory prerequisites data structures and algorithms computer
+detailed course content of programme elective courses core bouquet
+graph theoretic algorithms
+optimization mathematics course title randomized algorithms course no
+cs7xxx department computer science and engineering structure offered for cse aide type prerequisite design and analysis of algorithms course title approximation algorithms course no
+cs7xxx prerequisite design and analysis of algorithms course title distributed algorithms course no
+cs7xxx title algorithms number cs7xxx department computer science offered for tech
+type elective prerequisite algorithm design and analysis title parameterized complexity number cs7xxx core bouquet
+synthesis course title synthesis course no
+offered for type elective prerequisite basic knowledge of digital circuits theory and algorithms
+theory of computation
+quantum computing idrp
+optimization mathematics title theory of computation course no
+csl4xxx department computer science and engineering structure offered for cse type elective prerequisite mathematics for computing antirequisite course title complexity theory course no
+csl6xxx offered for cse type elective prerequisite maths for computing data structures and course title advanced data structures course no
+cs4xxx offered for cse aide type elective course title stream analytics course no
+csxxx offered for and years pg type elective prerequisite introduction to machine learning pattern hardware
+neuromorphic computing and design title hardware software number department engineering offered for
+type elective prerequisite digital design mapped interface coprocessor interface
+lectures course title neuromorphic computing and design course no
+cs7xx offered for mtech phd type elective prerequisite introduction to machine learning pattern systems
+software maintenance course title software testing and quality assurance course no
+cs7xxx prerequisite software engineering course title distributed database systems course no
+cs7xx prerequisites operating systems database systems computer objective course title distributed systems course no
+cs4xx department computer science and engineering structure offered for type elective prerequisite operating systems course title mobile and pervasive computing course no
+cs7xx offered for
+tech and tech type elective computer networks course title edge and fog computing course no
+cs4xx prerequisite operating systems computer networks course title virtualization and cloud computing course no
+cs7xx course title compiler design course no
+csl7xx0 department cse structure offered for
+type elective course title software maintenance course no
+cs4xx network and security
+software defined networks
+cognitive internet of vehicles ee
+delay tolerant networks ee course title introduction to wireless ad hoc network course no
+cs7xx course title mobile networks course no
+cs7xx department computer science and engineering structure offered for type core computer networks wireless title cryptography and network security course no
+cs department computer science and engineering structure prerequisite maths for computing and computer networks title introduction to blockchain course no
+csl departmen computer science and engineering structure offered for mtech phd
+type elective prerequisite cryptography andnetwork security course title software defined networks course no
+cs7xxx department computer science and structure offered for type elective artificial intelligence machine learning
+artificial intelligence aide
+deep learning aide
+dependable artificial intelligence aide
+advanced machine learning aide
+advanced artificial intelligence aide
+information retrieval aide
+social networks aide
+soft computing techniques aide
+ethics policy law and regulation in ai aide
+digital image processing aide
+computer graphics aide
+video processing aide
+computer vision aide
+introduction to ar and vr aide
+advanced biometrics aide
+data visualization aide
+natural language understanding aide
+speech understanding ee
+principles of biological vision and applications title principles of biological vision and applications number cs7xxx department computer science and engineering offered for
+type elective social and sustainable computing
+machine learning in epidemiology
+computational social choice theory
+computational cognition and behavior modelling
+computational microeconomics title social computing number cs l7xx0 offered for all type elective prerequisite data structure and algorithms title sustainable computing number cs l7xx0 prerequisite prml introduction to machine learning climate computational techniques for weather predictions models of climate variance
+lectures biosphere species distribution modelling aggregate phenomena modelling ecosystem modelling animal identification case study green security games bird returns program
+lectures title ict for development number cs l4xx0 department computer science and engineering title machine learning in epidemiology number cs l7xx0 prerequisite introduction to machine prml title health informatics number cs l7xx0 title computational social choice theory number cs l7xx0 title computational cognition behavior modelling number cs l4xx0 prerequisite probability statistics prml text books
+artificial intelligence modern approach
+computational modeling of cognition and behavior
+cambridge university press
+sustainable design hci usability and environmental concerns
+the parallel distributed processing approach to semantic cognition
+nature reviews neuroscience
+peterson abbott griffiths
+adapting deep network features to capture psychological representations
+presented at the annual conference of the cognitive science society
+kemp griffiths goodman
+how to grow mind statistics structure and abstraction
+griffiths lieder goodman
+rational use of cognitive resources levels of analysis between the computational and the algorithmic
+topics in cognitive science
+ten simple rules for the computational modeling of behavioral data
+concepts in probabilistic language of thought
+center for brains minds and machines cbmm
+title and number cs l7xx0 offered for all type program elective prerequisite social computing data structures algorithms title environmental informatics number cs l7xx0 title computational microeconomics number cs l7xx0 offered for all branches type program elective

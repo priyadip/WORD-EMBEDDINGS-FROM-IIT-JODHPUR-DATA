@@ -1,0 +1,19 @@
+research seminar by amrita mandal on nov at pm title of the talk quantum walks in ordered and disordered scenarios applications of permutation matrices date time nov at noon online abstract we focus on the quantum mechanical properties of the ordered and the disordered quantum walks defined on regular lattice and their connections to permutation matrices
+at first we define the clean or ordered with the coin operators as orthogonal matrices called generalized grover matrices which can be expressed as linear combinations of permutation matrices combinatorial structure inherited by the grover matrix
+we discuss the group structure of such matrices
+we show some applications of generalized grover matrices in quantum walk with special attention to the localization phenomena
+localization makes the propagation dynamics of walker strikingly different from that of classical random walks
+we show that the proposed quantum walks localize at their initial position for canonical initial coin states when the coin is the parametric one containing the grover matrix
+then we define disordered by considering glassy disorder in the jump length and discuss the spreading behavior of such walks
+in clean there is quadratic speedup in the spreading rate over the diffusive classical spreading
+we see that the ballistic spreading of the clean walk is inhibited in the presence of disorder and the walk becomes but remains
+at last will discuss shortly the spectral properties of doubly stochastic matrices which are convex combinations of permutation matrices for some specially structured matrices for example matrices for which rows are permutations of each other and matrices
+about the speaker amrita is working as an assistant professor in the dept
+of mathematics bit mesra since
+her current research focuses on quantum information and computation combinatorial matrix theory
+she has completed her from iit kharagpur in and master from jadavpur university in
+title of the talk quantum walks in ordered and disordered scenarios applications of permutation matrices date time nov at noon online abstract we focus on the quantum mechanical properties of the ordered and the disordered quantum walks defined on regular lattice and their connections to permutation matrices
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

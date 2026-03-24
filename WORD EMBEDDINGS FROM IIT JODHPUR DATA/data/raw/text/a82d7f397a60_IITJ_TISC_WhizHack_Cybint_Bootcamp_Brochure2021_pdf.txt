@@ -1,0 +1,269 @@
+SOURCE_PDF: a82d7f397a60_IITJ_TISC_WhizHack_Cybint_Bootcamp_Brochure2021.pdf
+
+Presents
+India's 1st Dual Certificate Program
+Powered by
+INDIAN INSTITUTE OF 
+TECHNOLOGY JODHPUR
+Technology Innovation & 
+Startup Centre (TISC)
+Israel
+
+India today not only faces unprecedented opportunity of widespread digital adoption but also 
+threat of sophisticated global cyber attacks.
+IITs have been at the forefront of nation building through innovation and technology 
+development. Five of the seven Indian companies that have recently entered the unicorn 
+club—startups valued over $1 billion—were founded by entrepreneurs who were trained at an IIT.
+IIT Jodhpur has specialised in joint initiatives with industry to meet modern technology needs of 
+India. WhizHack Technology is incubating a Centre of Excellence in Cybersecurity at IIT Jodhpur 
+with focus on developing technologies and training solutions to empower Indians to tackle next 
+generation of Indian and global cyber challenges.
+The Advanced Certificate Bootcamp Program in Cyber Defense blends the best of Indian 
+academicians, top industry experts, Israeli pedagogy and best practises lab to provide a unique 
+learning experience and dual certification to learners. Cyber security being a global issue, 
+excelling in skillsets automatically would allow learners to access the best of Global and Indian 
+careers.
+
+Cyber Defense Bootcamp
+Get the Skills. Land the Job.
+Dual Certification from 
+the Best of India and the Globe
+The explosion of high tech cyber attacks has led to industry and Government to shift 
+focus to "Proactive Cyber Defence". This means acting in anticipation to oppose an 
+attack involving computers and network. This skillset has maximum potential demand 
+from employers, in current and future.
+The Cyber Defense Bootcamp at WhizHack covers the hands-on and practical skills 
+necessary for Bootcampers to land high-paying careers in cybersecurity, one of the 
+world’s fastest growing industries.
+The Cyber Defense Bootcamp is an accelerated cybersecurity training program designed 
+to successfully prepare people with little or no background in IT for entry level jobs in 
+cybersecurity, a highly in-demand and lucrative career path. The Bootcamp is delivered 
+completely online with both live video classroom sessions and online self-paced 
+activities.
+
+Why Cyber security 
+and Cyber Defence?
+Not only is it a hot career path, but the
+field has had 0% unemployment for nearly
+a decade. With plentiful opportunities and
+competitive compensation, the only thing
+standing in your way of a lucrative, future-
+proof global career is skill and
+Cybersecurity is the fastest growing
+market in technology with 30x growth
+over the last decade.
+Selections to the Program will be on the
+basis of following
+Ÿ
+ Aptitude for Cyber Security
+Ÿ
+ Academic background
+Ÿ
+ Statement of Purpose
+Graduates from any discipline can apply
+The Cyber Defense Remote Bootcamp 
+is for anyone interested in becoming a 
+Global Cyber Defense Expert. The 
+training will ensure learners get the best 
+blend of skill sets to tackle global cyber 
+threats and also certification that’s 
+valued in India and beyond.
+
+The Cyber Defense Remote Bootcamp was developed around military training methodologies
+and hands-on learning. We know that everyone learns differently which is why
+offers Bootcampers with two accelerated tracks:
+• 
+Full time, 3 months: Fully online activities and live virtual classes every day with
+the Bootcamp Facilitator, with built-in one-on-one time.
+• 
+Part time, 6 months: This will cover the same content, over a longer period of time
+and with live virtual classes occurring only twice a week, 2 hours each day.
+• 
+12 months of continued access to
+online learning platform
+• 
+Connection to our alumni and
+career network
+• 
+A new career in: Cyber Forensics
+Analyst, Network Operations
+Specialist, Cyber Analyst, Cyber
+Incident Responder, Cyber
+Infrastructure Support Specialist
+How it Works:
+Upon Graduation
+During Bootcamp
+• 
+Self-paced and flexible learning
+with instant feedback
+• 
+Curriculum based on National
+Initiative for Cybersecurity
+Education (NICE)
+• 
+Access to faculties and industry
+experts
+• 
+Guidance on job searching and
+resume building
+WhizHack
+The dual certification program was developed around Israeli military training methodology and 
+live mentoring by top faculties. 50% of pedagogy comprises of hands on learning on live projects 
+and simulated scenarios.
+
+• Introduction to the Bootcamp
+• Overview of the Cybersecurity Landscape
+and Industry
+• Basics of Computer and Device Hardware,
+Software, Operating Systems and
+Processes
+• Basics of Networking Traffic, Hardware
+Components and Topology
+• Network Communication Principles and
+Methods
+MODULE 1
+480 Hours of
+quality content
+Learn from
+anywhere
+simulations
+• Network and Routing Protocols / Services
+• Packet Level Traffic Analysis 
+• Hands-on Operation of a Computer
+Network and Equipment, Monitoring and
+Analyzing Network Traffic Flow, Patterns
+and Performance
+• Hands-on Creation and Analysis of Critical
+Network Servers.
+MODULE 2
+• Hands-on Creation and Analysis of Telnet,
+Web, Data and Active Directory Servers
+• Hands-on Analysis of Network Topologies,
+Network Mapping and OS Fingerprinting
+• Telecommunication Concepts and Range
+• System and Network Admin Concepts,
+Management Principles and Controls
+• Hands-on Creation and Use of Virtual
+Machines and Bootable USB OS
+MODULE 3
+• Overview of Threats, Classes, Attackers,
+Tactics, and Application Security Risks
+• Hands-on Communications Security
+through Encrypting and Decrypting Data
+and Medias
+• Hands-on Backup and Recovery of Data,
+Devices and Servers
+• Network Security Principles, Methods,
+Protocols, Components and Architectures
+MODULE 4
+• Hands-on Assessment of Access Controls
+and Hardening Techniques to Ensure a
+Network’s Security
+• Hands-on Configuration and Utilization of a
+Firewall (on Windows, Linux and Hardware
+• Hands-on Configuration and Utilization
+of a Network/Host Intrusion Detection/
+Prevention System to Alert and Prevent
+Malicious Activity on a Network
+MODULE 5
+• Hands-on Configuration and Utilization
+of a Security Information and Event
+Management System to Correlate,
+Research, Analyze Logs and Provide Timely
+Detection of Misuse, Threats and Malicious
+Activity on the Network
+• Hands-on Malware Detection, Analysis,
+Isolation and Removal
+MODULE 6
+
+• Hands-on Forensics Investigation: Logs,
+System Files, Media, Memory Dump and
+Traffic Monitoring and Analysis
+MODULE 7
+• Overview of Network Vulnerabilities,
+Associated Attacks; Ethical Hacking
+Methodologies, Stages, Principles, Tools
+and Techniques
+• Hands-on Conducting of Vulnerability and
+Compliance Scanning; and Correction
+Recommendation
+• Hands-on Performing Incident Response,
+Damage Assessment, Incident Triage,
+Tracking and Reporting
+MODULE 8
+• Full Day Scenarios: Hands-on Protecting a
+Network from a Range of Cyber-Attacks
+(DDoS, SQL Injection, XSS, Ransomware,
+MiTM, ARP Poisoning, etc.)
+MODULE 9
+• Analysis of System Security and
+Organizational Posture Trends
+• Analysis of Cyber-Defense Trends and
+Staying at the Cutting Edge of the Industry
+• Performing of Security Design and
+Architecture Evaluation and Ensuing
+Recommendation
+MODULE 10
+• Hands-on Process of the Whole Chain of
+Custody for Handling Digital Evidence
+• Hands-on Performing of Static and
+Dynamic Analysis of Drive Images and
+other Data Sources, Recovery and
+Mitigation/Remediation of an Enterprise
+System
+MODULE 11
+• Risk and Security Management Processes
+and Security Models
+• Cybersecurity and Privacy Principles
+• Advising on Disaster Recovery,
+Contingency and Continuity
+• Summary and Presentation by
+Bootcampers
+• Technical and Soft-Skill Preparation of a
+Job Interview
+• Final Hands-on Scenario
+MODULE 12
+About Cybint, Israel
+Cybint is a global cyber education company that has been developed by a team of 
+Israeli military cyber experts, industry professionals, and educators. Cybint has 
+partnered with WhizHack Technology for training students and professionals in 
+India.
+Cyber-Forensic Investigation 
+Methodologies, Mindset, Tools
+
+Dr. Somitra Sanadhya : Associate Professor, IIT Jodhpur
+Prof. Somitra is a leading exponent in India in Cyber Security including Cryptography, 
+Quantum Computation and Blockchain and has worked in top projects with Indian 
+Defence and Industry. He was previously Head of Computer Department at IIT Ropar. He 
+is a B.Tech from IIT Delhi and Ph.D in Cryptology from Indian Statistical Institute.
+Dr. Debasis Das: Assistant Professor, IIT Jodhpur
+Prof. Debasis specialises in Cyber Defense particularly Network Security and Forensics. 
+He has worked on multiple national projects with DST (Department of Science and 
+Technology) and has earlier taught in BITS Pilani. He has done a Ph.D. in Compuer Science 
+from IIT Patna
+Roy Zur: CEO, Cybint Solutions
+Roy is the founder and CEO of Cybint, a cyber education company. As a retired Israeli 
+Defense Forces Major, Roy has more than 15 years of experience in cybersecurity and 
+intelligence operations and has developed cyber education programs and technological 
+solutions for companies, educational institutions and government agencies around the 
+world.
+Sanjay Sengupta: CTO, WhizHack Technologies
+Sanjay is a leading industry expert with more then 2 decades of experiences across 
+Silicon Valley and India. Sanjay was the Product Architect of World's #1 Cyber Deception 
+company, Attivo Networks and currently leads all technology initiatives with WhizHack 
+Technology. Sanjay is a M.Tech in Computer Science
+Aviel Tzarfaty: Product Manager, Cybint Solutions
+Aviel manages Cybint's enterprise cybersecurity training using behavioral changing 
+techniques. He specializes on Offensive Security, Cyber Defense, Risk Management, and 
+Incident Response. He is a certified Network Security Specialist.
+Program Fee : Rs. 225,000+GST
+Early Bird Fee: Rs. 200,000+GST (subject to acceptance of Statement of Purpose)
+EMI options against credit cards available
+For details, pls visit 
+ or write to 
+http:/
+/www.whizhack.com/tisc-iit-jodhpur-bootcamp
+Address: WhizHack Technologies Pvt. Ltd.
+4th Floor, JMD Empire Square, M G Road, Gurgaon - 122 001
+Faculty & Mentors
+Fee Details

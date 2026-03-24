@@ -1,0 +1,403 @@
+SOURCE_PDF: 8e135940713b_a46666d4-3e4f-4a0b-929d-7d7e4aedae15.pdf
+
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+Senate
+Minutes of 40th Meeting
+held on
+06 March 2025 (8.00 AM to 8.00 PM)
+Through online e-Senate web portal
+and
+07 March 2025 at 3.00 PM
+In physical mode at Senate Room, Chanakya Complex, Admin Wing (West), IIT Jodhpur
+
+This page is left blank, intentionally
+
+1. Prof. Avinash Kumar Agarwal, Director, IIT Jodhpur Chairman
+2. Prof. Vinod K. Singh, Department of Chemistry, IIT Kanpur Members
+3. Prof. Munmun Jha
+Department of Humanities and Social Sciences, IIT Kanpur
+4. Prof. Mayank Vatsa, Department of CS&E
+5. Prof. Richa Singh, Department of CS&E
+6. Prof. Mitali Mukerji, Department of BSBE
+7. Prof. Ajay Agarwal, Department of EE
+8. Prof. Gaurav Bhatnagar, Department of Mathematics
+9. Prof. Mahesh Kumar, Department of EE
+10. Prof. Deepakkumar M. Fulwani, Department of EE
+11. Prof. Anil Kumar Tiwari, Department of EE
+12. Prof. Manikandan Paranjothy, Department of Chemistry
+13. Prof. Ananya Debnath, Department of Chemistry
+14. Prof. B. Ravindra, Department of ME
+15. Prof. Anand Krishnan Plappally, Department of ME
+16. Prof. Prodyut Ranjan Chakraborty, Department of ME
+17. Prof. Rahul Chhibber, Department of ME
+18. Prof. Sushmita Jha, Department of BSBE
+19. Prof. Asif Ekbal, SAIDE
+20. Prof. Sandeep Kumar Yadav, Department of EE
+21. Prof. Hari Narayanan V, SoLA
+22. Prof. Bhabani Kumar Satapathy, Metallurgical and Materials Engg.
+23. Prof. Neeraj Jain, Dean of Faculty Affairs (DOFA)
+24. Prof. Samanwita Pal, Dean of Research and Development (DORD)
+Indian Institute of Technology Jodhpur
+The following members participated in e-Senate Meeting held on 06th March 2025 and/or 
+Senate Meeting held in physical mode on 07th March 2025:
+
+25. Dr. Aashish Mathur
+Acting Dean of Digital Infrastructure & Automation (DDIA)
+26. Prof. Atul Kumar, Dean of Academic Affairs (DOAA)
+27. Prof. Ankita Sharma, Dean of Student Affairs (DOSA)
+28. Prof. Ram Prakash, Dean of Infrastructure Planning (DOIP)
+29. Prof. Kaushal A. Desai, Dean of Resources & Alumni (DORA)
+30. Prof. Shree Prakash Tiwari, Dean of Administration (DOAD)
+31. Prof. Amit Mishra
+Head, Department of Bioscience and Bioengineering
+32. Prof. Parag Arvind Deshpande
+Head, Department of Chemical Engineering
+33. Prof. Gaurav Harit
+Head, Department of Computer Science & Engineering
+34. Prof. Bharat Singh Rajpurohit
+Head, Department of Electrical Engineering
+35. Prof. Suril V. Shah
+Head, Department of Mechanical Engineering
+36. Prof. K.R. Ravi
+Head, Department of Metallurgical & Materials Engineering
+37. Dr. Deepika Bhattu
+Acting Head, Department of Civil & Infrastructure Engineering
+38. Dr. Reetanjali Moharana, Head, Department of Physics
+39. Dr. V.V. M.S. Chandramouli, Head, Department of Mathematics
+40. Dr. Sandip Murarka, Head, Department of Chemistry
+41. Dr. Deepak Saxena
+Acting Head, School of Management & Entrepreneurship (SME)
+42. Dr. Alok Ranjan
+Head, School of Liberal Arts (SoLA)
+43. Dr. Dipanjan Roy
+Acting Head, School of Artificial Intelligence & Data Science (AIDE)
+44. Dr. Nimish Vohra, Head, School of Design
+45. Dr. Neha Jain, Department of Bioscience and Bioengineering
+46. Dr. Vikky Anand, Department of Chemical Engineering
+47. Dr. Rohan Diliprao Erande, Department of Chemistry
+48. Dr. Saran Aadhar, Department of Civil & Infrastructure Engg.
+49. Dr. Angshuman Paul, Department of Computer Science & Engineering
+50. Dr. Saakshi Dhanekar, Department of Electrical Engineering
+
+51. Dr. Dilpreet Kaur, Department of Mathematics
+52. Dr. Arun Kumar R, Department of Mechanical Engineering
+53. Dr. Jaiveer Singh, Department of Metallurgical & Materials
+Engineering
+54. Dr. Santosh Mogurampelly, Department of Physics
+55. Dr. Ramesh Metre, Inter-disciplinary Research Division (IDRD)
+56. Dr. Anuj Pal Kapoor, School of Management & Entrepreneurship
+57. Dr. Bhivraj Suthar, School of Artificial Intelligence & Data Science
+58. Dr. Farhat Naz, School of Liberal Arts
+59. Dr. Gaurav Vinod Vaidya, School of Design
+60. Dr. Goverdhan Dutt Puri, Executive Director, AIIMS Jodhpur
+61. Chairman, Senate Under Graduate Committee (SUGC) Permanent
+Invitees
+62. Chairman, Senate Post Graduate Committee (SPGC)
+63. Chairman, Senate Online Education Committee (SOEC)
+64. Prof. S. R. Vadera, Advisor to the Director Special
+Invitees
+65. Dr. Trishikhi Raychoudhury,
+Department of Civil & Infrastructure Engineering
+66. Dr. Sumit Kamal, School of Design
+67. General Secretary, ACAC Student
+Represent
+ative
+68. General Secretary, Student Senate
+69. Dr. Ankur Gupta, Offg. Registrar Secretary
+to the
+Senate
+1. Prof. Manoj K. Tiwari, Director, Indian Institute of
+Management, Mumbai Members
+2. Prof. Surajit Ghosh, Department of BSBE
+3. Prof. Rakesh Kumar Sharma, Department of Chemistry
+4. Prof. Subhashish Banerjee, Department of Physics
+5. Prof. Ambesh Dixit, Department of Physics
+6. Prof. Meenu Chhabra, Department of BSBE
+7. Prof. Krishna P. Kaliappan, Department of Chemistry, IIT
+Bombay
+8. Prof. Somitra K. Sanadhya, Department of CS&E
+
+S. No. Items
+40.1 Welcome by the Chairman, Senate
+40.1.1 Confirmation of Minutes of the 39th Meeting of the Senate held on 22-
+23 October 2024
+The following were the outcomes of the Senate Meeting:
+
+40.1.2 Report on Action Taken on decisions of the 39th Meeting of the Senate
+held on 22-23 October 2024
+40.2 Discussion Items
+40.2.1 Proposal to restructure all M.Tech. and Ph.D. Programs of the
+institute
+Item Discussion Items Action Taken
+39.2.1 Proposal for issuance of SSI based Degree based on
+blockchain technology and Digital Wallet with inhouse
+Degree & Certificate printing Implemented
+39.2.2 Proposal for approval of Degree/Diploma certificates for
+new programs in which students are graduating this
+year Implemented
+39.2.3 Proposal for Direct Admission of Meritorious Implemented
+39.2.4 Proposal for revised guidelines for comprehensive Implemented
+39.3 Procedural Items
+39.3.1 Recommendations to confer the Award of B.Tech.,
+B.Tech. Minor/Specialization, M.Sc., M.Tech., MBA,
+MBA-Technology, MBA Double Degree, Masters
+(Medical Technologies), M.Sc.-M.Tech., and Ph.D.
+Degrees, PG Diploma/Certificate to students, who meet
+the various academic requirements Implemented
+39.3.2 Updated Information related to the endowed Award for Implemented
+39.3.3 Proposal for norms for Scholarships and Prizes and Implemented
+
+Cat. Course
+Number,
+Course Title L-T-P Credits Cat. Course Number,
+Course Title L-T-P Credits
+I Semester II Semester
+C ME
+L7X
+X0 Compu
+lsory 3-0-
+0 3 C MEL7XX0 Compuls
+ory 3-0-0 3
+C ME
+L7X
+X0 Compu
+lsory 3-0-
+0 3 E MEL7XX0 Elective 3-0-0 3
+C ME
+L7X
+X0 Compu
+lsory 3-0-
+0 3 E MEL7XX0 Elective 3-0-0 3
+E ME
+L7X
+X0 Elective 3-0-
+0 3 E MEL7XX0 Elective 3-0-0 3
+NG1 HS
+N7
+XX
+0 Non-
+Graded I 1-0-
+0 S/X NG2 HSN7XX0 Non-
+Graded
+II 1-0-0 S/X
+Total 12 Total 12
+III Semester IV Semester
+T ME
+T8X
+Xo Thesis 16 T MET8XX
+0 Thesis 16
+Total 16 Total 16
+S. No. Course
+Number Course Title L-T-P Credits
+S. No. Category Course Category
+Title Total Courses Total Credits
+1 C COMPULSORY 4 12
+2 E ELECTIVES 4 12
+3 T Thesis 2 (16+16) 32
+Total 56
+
+S. Ph.D. in With Minimum courses
+No. required
+1. Engineering
+discipline M.Tech., M.E. or M.Sc.
+(Engineering) in an
+Engineering discipline 4 Compulsory (equivalent
+to a minimum of 12
+Credits, same as that of
+the M.Tech. program)
+M.Sc. degree in a Science
+discipline 4 Compulsory (Same as
+Above) + 4 Electives
+B.Tech., B.S., B.E. or
+B.Sc. (Engineering) in an
+Engineering discipline 4 Compulsory (Same as
+Above) + 4 Electives
+2. Science,
+Humanities or
+Social Science
+discipline M.Sc., M.A. and M.Phil.
+degree in a Science,
+Humanities or Social
+Science discipline 4 Compulsory
+3. Management,
+Design As per approved norms
+after 2 years of Masters
+degree in appropriate
+discipline 4 Compulsory
+
+40.2.2 Proposal to award one-year of post-doctoral fellowship to the Ph.D.
+students submitting their thesis within 3/4 years
+
+40.2.3 Revised norms for partial financial support Ph.D. students for
+attending and presenting their work in international conferences
+
+40.2.4 Proposal for Implementation of Half Time Research Assistantship
+(HTRA) for an additional year for female Ph.D. Students in
+compliance of MoE directives
+
+40.2.5 Concept Note for a New M.Des. Program in Smart Product Design
+from School of Design
+
+40.2.6 Concept Note for a New M.Tech. Program in Bridge Engineering from
+the department of Civil and Infrastructure Engineering
+
+40.2.7 Concept Note for a New M.Tech. Program in Unmanned Aerial Vehicle
+from the department of Mechanical Engineering
+40.2.8 Revised publication requirements for Ph.D. students graduation -
+School of Management & Entrepreneurship
+40.2.9 Revised publication requirements for Ph.D. students graduation-
+School of Liberal Arts
+
+40.2.10 Revised guidelines for the Award of Best Ph.D. Thesis
+
+40.2.11 Revised guidelines for Branch-Change of B.Tech. students
+40.2.12 To consider and approve the creation of a MedTech Centre
+After
+Sem Branch
+Enrolled Branch
+Applied CGPA Eligibil
+ity Lower
+Limit Upper
+Limit
+II Any Any Others
+(For SC,
+ST, PWD) E1
+E2
+E3 90% of
+current
+Strength 110% of
+Sanctione
+d Strength
+II Any ES Others
+(For SC,
+ST, PWD) E1
+E2
+E3 90% of
+current
+Strength 30
+grown and evolved significantly over the past few years. In its 37 th meeting
+
+40.2.13 Proposal to award the Honoris Causa Degrees
+
+40.2.14 Proposal to organize 11th Convocation of the Institute in the last week
+of June 2025
+S. No. Name Brief Details
+1. Dr. Vijay
+Kumar
+Saraswat
+Padma Bhushan,
+Member, NITI
+Aayog, and
+Former
+Chancellor,
+Jawaharlal
+Nehru University Dr. Vijay Kumar Saraswat, one of India's most
+gifted scientists and an accomplished
+researcher with more than four decades of
+experience spanning over several fields and
+areas in both basic and applied sciences of
+defence research. Apart from being a scientist,
+he is a rare combination of an innovator,
+technologist and visionary.
+A Brief Profile of Dr. Vijay Kumar Saraswat is
+attached for consideration.
+2. Dr. Ashutosh
+Sharma
+Padma Shri,
+Institute Chair
+Professor & C. V.
+Seshadri Chair
+Professor and
+Former
+Secretary, Dept.
+of Science &
+Technology Prof. Ashutosh Sharma is a distinguished
+academician known for his contributions to
+nanosciences and nanotechnology. He served
+as Secretary of the Department of Science and
+Technology (2015-2021) and is an Institute
+Chair Professor at IIT Kanpur. A recipient of
+the Shanti Swarup Bhatnagar Award, he
+became President of the Indian National
+Science Academy in 2022. In 2025, he has
+been honored with the Padma Shri by the
+Government of India.
+A Brief Profile of Padma Shri Dr. Ashutosh
+Sharma is attached for consideration.
+3. Shri Vipin
+Sondhi
+Former
+Managing
+Director & Chief
+Executive
+Officer, Ashok
+Leyland, JCB
+India, and
+Tecumseh India Shri Vipin Sondhi has also worked with Tata
+Steel and Shriram Honda. With 37 years of
+experience in the manufacturing and
+engineering sector, 21 of which were spent as
+an MD & CEO, he is currently the Chairperson
+of the National Board for Quality Promotion at
+the Quality Council of India, and the
+Industry) Council for Green Mobility.
+A Brief Profile and CV of Mr. Vipin Sondhi are
+attached for consideration.
+
+40.2.15 Proposal for Endowment Award to Support Inbound and Outbound
+Tenure Amount Tenure
+Endowment Award Per
+Student Per Month UG- Upto INR 15,000/-
+PG- Upto INR 20,000/-
+Ph.D.- Upto INR 50,000/- Minimum 3
+months
+
+Tenure Amount
+Endowment Award Per Student per
+Year Upto INR 1,50,000/-
+Sr. No. Office Responsibility
+1. Office of
+International
+Relations 1. The Office of IR will seek endowment
+support in coordination with the Office of DORA.
+2. The Office will select the student and will
+provide the financial support as per
+requirements.
+2. Office of DORA 1. The Office will run an active campaign for
+seeking endowment support.
+2. The Office will perform all tasks associated
+with signing the MoU and donor with the approval
+of the competent authority.
+3. Office of
+Student 1. The Office will disburse the amount of the
+award to the selected student.
+2. The Office will maintain all records related
+to fund disbursal, accrued interest and
+generation of the annual Utilization Certificate
+(UC) in consultation with DORA Office.
+
+Sr.
+No. Office Responsibility
+1. Office of
+International
+Relations 1. The Office of IR will seek endowment support in
+coordination with the Office of DORA.
+2. The Office will select the student and will provide
+financial support as per requirement.
+2. Office of DORA 1. The Office will run an active campaign seeking
+endowment support.
+2. The Office will perform all tasks associated with
+signing the MoU and donor with the approval of
+the competent authority.
+3. Office of Student 1. The Office will disburse the amount of the award
+to the selected student.
+2. The Office will maintain all records related to fund
+disbursal, accrued interest and generation of the
+annual Utilization Certificate (UC) in consultation
+with DORA Office.
+
+40.2.16 Proposal for the establishment of Manekshaw Centre of Excellence for
+National Security Studies and Research (MCOENSSR) at IIT Jodhpur
+
+40.2.17 Transfer of Ph.D. Students of the Regular Faculty Members of Other
+Institutes Joining IIT Jodhpur

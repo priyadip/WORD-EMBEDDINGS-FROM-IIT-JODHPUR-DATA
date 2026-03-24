@@ -1,0 +1,18 @@
+course number course title cre dits cat
+course number course title credits semester ii semester csl7xx0 mathematical foundations for computer science mel7xx0 deep learning csl7xx0 artificial intelligence xxx7xx0 elective csl7xx0 machine learning xxx7xx0 elective xxx7xx0 elective xxx7xx0 elective ng1 hsn7xx ng2 hsn7xx0 ii total total iii semester iv semester met8xx thesis met8xx0 thesis total total
+course number course title csl7xxx autonomous systems csl7xxx speech understanding csl7xxx computer vision csl7xxx foundation models and generative ai csl7xxx learning on graphs and its applications csl7xxx machine learning with big data csl7xxx ml ops and csl7xxx natural language understanding csl7xxx selected topics in ai csl7xxx computer graphics csl7xxx systems for ml csl7xx0 advanced data structures and algorithms department of computer science engineering indian institute of technology jodhpur reduced list of electives ai no
+categ ory course category title total courses total credits compulsory electives thesis total
+in with minimum courses required
+degree in science humanities or social science discipline compulsory
+management design as per approved norms after years of masters degree in appropriate discipline compulsory note
+the department should retain only the relevant courses as electives for the
+the courses that are either irrelevant or not attracting more than students should be removed from the pg booklet
+course credit requirements for phd students
+departments can design various sets of compulsory courses based on their research themes
+these courses can either be existing ones or new courses introduced by the department
+the four compulsory courses account for minimum of credits as per the current regulations
+direct students holding
+degree can choose to pursue an additional
+degree by fulfilling the
+thesis work must be separate from the thesis
+the additional degree will be awarded alongside the degree only upon the completion of the program

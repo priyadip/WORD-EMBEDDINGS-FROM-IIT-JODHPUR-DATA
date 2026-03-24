@@ -1,0 +1,25 @@
+SOURCE_PDF: 75cb91d89087_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Concepts of
+Documents
+Digitization - Digital Resource Management
+- Tools used for document digitisation.
+- Proficient in Microsoft Word, Excel and Power point
+- Familiar with Modern Operating System
+- FTP server.
+- GoI record retention policy.
+- Verification of Logs
+- Devices -- like printer, scanners
+- Tools and technique for document size compressions and data
+encryption
+- DMS Software management
+- Preparation of SOPs
+- OCR
+- Data Analytics and automation
+- Basic Knowledge of Data Base
+- Data quality control
+- SQL Query
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL SUPERINTENDENT (Digitization)
+(Integrated Information System (IIS) Division)
+(WRITTEN TEST & SKILL TEST)

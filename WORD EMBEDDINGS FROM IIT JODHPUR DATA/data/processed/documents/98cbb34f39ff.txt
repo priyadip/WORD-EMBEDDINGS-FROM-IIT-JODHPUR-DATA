@@ -1,0 +1,13 @@
+experimental investigation and performance evaluation of harq technique for optical communication systems aashish mathur pi serb completion in free space optical fso communication deals with the transmission of information in an optical carrier from the source to the destination via atmosphere
+fso links are appealing for applications such as access backhauling services and high transmissions
+however the performance of fso communication system is severely affected by atmospheric conditions such as fog and snowfall atmospheric turbulence pointing errors pes which include boresight and jitter background radiation thermal noise and shot noise
+this project aims at improving the performance of fso systems using hybrid automatic repeat request harq technique which is link layer technique that combines channel coding with arq scheme
+experimental to emulate the actual atmospheric turbulence under laboratory controlled environment will be developed that will be very useful for future researches in fso domain
+physical layer security has been very limitedly explored in fso literature
+the secrecy performance of fso systems under correlated turbulence will be analyzed in this project in terms of different metrics such as average secrecy capacity secrecy outage probability and strictly positive secrecy capacity which will clearly indicate the effect of boresight pes and the eavesdropper eve location
+thus physical layer security issue will be addressed to ensure secure transmission to legitimate receiver bob over fso communication links in the presence of eavesdropper
+free space optical fso communication deals with the transmission of information in an optical carrier from the source to the destination via atmosphere
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated mar pm

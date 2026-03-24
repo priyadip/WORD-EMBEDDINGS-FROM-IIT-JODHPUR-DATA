@@ -1,0 +1,20 @@
+cyber physical system modelling laboratory cps modeling laboratory is teaching laboratory for
+the seamless integration of cyber systems with physical systems poses challenges to analyse such systems
+it is necessary to model physical and cyber components in unified way
+the cyber component includes hardware and associated software
+the design of cyber components also requires software level abstraction to have system level model of cyber component
+this also allows designing very high reliability system as the model allows predictable behaviour
+conventionally software is developed without formal models and largely depends on programmers experience and knowledge however requirements of safety reliability in cps demand higher levels of abstractions at software level as well
+this allows the system to remain correct by design
+the cps laboratory studies interaction of physical and cyber components to understand holistic systems
+the tools used for this laboratory are stateflow matlab
+the laboratory also has helicopter emulatory system which is used to emulate different control aspects of the helicopter system
+the lab also has comsol multiphysics modeling software
+cps modeling laboratory is teaching laboratory for
+facilities and equipment the tools used for this laboratory are and comsol multiphysics modeling software
+deepak kumar fulwani research interests embedded control control of control of uncertain system office location room no
+department of electrical engineering phone web research interests embedded control control of control of uncertain system office location room no
+department of electrical engineering phone web
+anoop jain research interests cooperative control systems formation control nonlinear control event triggered control systems office location ee phone web research interests cooperative control systems formation control nonlinear control event triggered control systems office location ee
+niladri sekhar tripathy research interests dynamics and control mechatronics systems cybersecurity office location ee email phone web research interests dynamics and control mechatronics systems cybersecurity office location ee email contact details room no
+please write to one of the following for more details please write to one of the following for more details

@@ -1,0 +1,19 @@
+research seminar by nupur patanker on august at pm title of the talk parameters of families of linear codes date time venue august at pm seminar hall dept
+of mathematics abstract linear codes form large family of codes
+due to their algebraic properties they are the most studied codes from the mathematical point of view
+in this talk we will be focusing on two families of linear codes and our work on determining their parameters
+after reviewing the basics of linear codes we will introduce family of linear codes called toric codes over hypersimplices
+these codes were defined by jaramillo pinto and villarreal in
+they determined the dimension and minimum distance of these codes
+in this talk we will discuss our work on computing the weight of these codes using tools from bases theory
+following this we will discuss our work on the number of minimal weight codewords and weight codewords of these toric codes
+these are joint works with carvalho ufu brazil
+then we will discuss another parameter of linear codes called generalized hamming weights
+we will demonstrate how tools from bases theory can also be used to determine the generalized hamming weights of these codes
+this is joint work with my supervisor sanjay kumar singh iiser bhopal
+we will conclude this talk by discussing my other works in brief and potential future directions
+about the speaker nupur patanker is currently postdoctoral fellow dst project in the department of electrical communication engineering at iisc bangalore
+her research area is algebraic coding theory
+she completed her in mathematics from iiser bhopal
+she was an postdoctoral fellow in the department of electrical communication engineering at iisc bangalore february research in the department of mathematics at iit jammu june and nbhm postdoctoral fellow in the department of mathematics at iiser pune june
+title of the talk parameters of families of linear codes date time venue august at pm seminar hall dept

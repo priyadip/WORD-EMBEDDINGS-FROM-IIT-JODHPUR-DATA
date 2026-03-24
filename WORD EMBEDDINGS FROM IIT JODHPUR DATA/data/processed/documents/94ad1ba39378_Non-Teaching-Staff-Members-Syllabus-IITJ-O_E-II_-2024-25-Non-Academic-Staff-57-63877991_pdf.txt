@@ -1,0 +1,17 @@
+indian institute of technology jodhpur syllabus for the post of junior technical superintendent metallurgical material engineering written test mechanical testing tensile compression hardness fatigue creep impact
+heat treatment heat treatment of steels and aluminium alloys
+surface hardening treatment
+metallography sample preparation micro and macro etching
+microstructure of ferrous and metals
+metal casting mould design involving feeding gating and risering melting and casting practices casting defects hot warm and cold working of metals metal forming basics of metal forming processes of rolling forging extrusion wire drawing and sheet metal forming defects in forming metal joining principles of soldering brazing and welding welding metallurgy defects in welded joints in steels and aluminium alloys powder metallurgy production of powders compaction and sintering testing ndt ultrasonic radiography eddy current acoustic emission and magnetic particle inspection methods iron and steel making operation of blast furnace
+primary steel making basic oxygen furnace process dynamics oxidation reactions electric arc furnace basics of phase diagram of steels and aluminium alloys mineral beneficiation size classification flotation gravity and other methods of mineral beneficiation agglomeration sintering pelletizing and briquetting
+electrochemistry and corrosion single electrode potential electrochemical cells nernst equation ph diagrams
+forms of corrosion
+basics of semiconductor intrinsic and extrinsic semiconductors doping donor and accepter in semiconductor effective mass band theory of solids direct and indirect band gap
+semiconductor devices junction diode capacitor mosfet transistor logic gates
+basics of characterization techniques diffraction transmission electron microscopy electron diffraction atomic force microscopy scanning electron microscopy scanning tunnelling microscopy ftir raman spectroscopy phase contrast microscopy
+basic working expertise with maintenance of computers
+basic mathematics skill test mechanical testing tensile compression hardness impact
+metallography sample preparation micro and macro etching microstructure of ferrous and nonferrous metals optical microscopy
+metal casting melting and casting practices
+material characterization probe method probe method mvsh mvst measurements lithography visible basic skills to operate computational tools

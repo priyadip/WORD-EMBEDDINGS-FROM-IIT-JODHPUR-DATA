@@ -1,0 +1,15 @@
+course number course title credits mathematical physics classical mechanics quantum electronics statistical physics electronics lab condensed matter physics lab total electrodynamics condensed matter physics of atoms molecules particle physics program elective atomic nuclear physics lab optics lasers lab program elective program elective program elective open elective computational physics lab seminar project total program elective program elective open elective project total program structure
+physics semester program electives multidisciplinary science and technology
+high energy physics and space science introduction to space science gtr particle physics neutrino telescope astronomy cosmology
+advanced condensed matter physics
+introduction to materials characterization
+introduction to medical physics optical radiation based image analysis mri fundamentals of plasma fusion science
+introduction to quantum technologies
+computational materials science
+statistical methods for data analysis
+nonlinear dynamics and chaos engineering physics
+fibre optics communication
+energy harvesting technologies
+solar energy technologies
+quantum optics engineering
+cold plasma technologies

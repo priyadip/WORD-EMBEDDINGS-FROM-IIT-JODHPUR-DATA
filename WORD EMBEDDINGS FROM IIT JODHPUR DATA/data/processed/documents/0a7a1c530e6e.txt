@@ -1,0 +1,18 @@
+invited talk by basant lal sharma on january at speaker basant lal sharma from the dept
+of mechanical engineering iit kanpur title of the talk on analysis of some direct and inverse problems in scattering involving lattices
+date time venue at pm on seminar room dept
+of mathematics abstract in this talk will give brief overview of physical problems involving crystal lattices that lead to certain idealized cases which permit an interesting application of mathematics
+will mainly focus on those applications where fourier analysis factorization theory of inverse problems and stochastic calculus play dominant role
+in such an overview of several works available in public domain will touch upon topic just enough to highlight connection with mathematics and also point out some open problems
+however may not be able to go into details but discussions after seminar can be used to get into details
+will start with the problem of scattering of waves by sharp slits in crystal lattices which can be understood in the paradigm of mechanical waves as well as approximations in quantum mechanics
+some of these problems involve issues related to matrix factorization and are currently open
+will also talk about some recent works dealing with the inverse problems for such discrete models based on the observations of scattering data
+will discuss briefly some ways to capture effects of stochasticity in lattice model specifications and obtain analogues of certain rigorous results available in the continuous framework
+useful refs see complete list here sharma bl diffraction of waves on square lattice by crack siam journal on applied mathematics
+sharma bl field for diffraction on square lattice by crack siam journal on applied mathematics
+sharma bl wave propagation in bifurcated waveguides of square lattice strips siam journal on applied mathematics
+sharma bl electronic transport across junction between armchair graphene nanotube and zigzag nanoribbon the european physical journal
+novikov rg sharma bl inverse source problem for discrete helmholtz equation inverse problems
+garnier sharma bl surface waves in randomly perturbed discrete models siam multiscale modeling simulation
+speaker basant lal sharma from the dept

@@ -1,0 +1,11 @@
+aptitude quantitative aptitude data interpretation data graphs bar graphs pie charts and other graphs representing data and plots maps and tables numerical computation and estimation ratios percentages powers exponents and logarithms permutations and combinations and series mensuration and geometry elementary statistics and probability
+analytical aptitude logic deduction and induction analogy numerical relations and reasoning
+mathematics linear algebra matrices determinants system of linear equations eigenvalues and eigenvectors lu decomposition
+calculus limits continuity and differentiability maxima and minima mean value theorem integration
+probability statistics random variables uniform normal exponential poisson and binomial distributions
+mean median mode and standard deviation
+conditional probability and bayes theorem
+programming recursion arrays stacks queues linked lists trees binary search trees binary heaps graphs
+dsa basic data structures stacks queues linked lists trees hash tables algorithms linear search and binary search sorting algorithms basic sorting algorithms selection sort bubble sort and insertion sort divide and conquer mergesort quicksort graph theory basic graph algorithms traversals minimum spanning trees and shortest path instructions for the written test for
+and are as follows multiple choice question with negative marking calculators or any other devices watches mobile phones etc
+are not allowed

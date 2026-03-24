@@ -1,0 +1,18 @@
+research seminar by raina raj on august at pm title of the talk performance analysis of high altitude platforms using stochastic modelling date time venue august pm seminar hall dept
+of mathematics abstract in the current era of communication systems the technology known as sixth generation is anticipated to extensively utilize networks sat
+high altitude platforms haps and low earth orbit leo satellites are essential components of the sat network
+the presented study proposes an architecture which concentrates on energy saving of hap in the sat network
+further stochastic model has been proposed which considers three energy saving states of hap power saving standby and sleep states
+it has been assumed that in these states the energy consumption of hap is very low or zero
+whenever there is an arrival of packet in the system hap will start providing service immediately and the whole system will be in active state
+the analysis of the stochastic model has been carried out using the markov process mp and process smp
+the system has been analysed in for both the mp and smp to obtain the probabilities
+through the numerical results the effective contribution of energy saving states in enhancing the energy saving of hap systems has been provided and comparison for the mp and smp case has been described in detail
+to verify the accuracy of the presented model simulation approach is employed
+about the speaker raina raj received the degree in stochastic modelling of cellular networks with optimization methods from central university of rajasthan ajmer india in february
+since august she has worked as research associate with prof dharmaraja in the department of mathematics iit delhi
+from november onwards she has been working as an institute post doc fellow in bharti school of telecommunication technology management iit delhi
+her research interests include stochastic modeling of wireless communication systems
+title of the talk performance analysis of high altitude platforms using stochastic modelling date time venue august pm seminar hall dept
+of mathematics august pm seminar hall dept
+in the current era of communication systems the technology known as sixth generation is anticipated to extensively utilize networks sat

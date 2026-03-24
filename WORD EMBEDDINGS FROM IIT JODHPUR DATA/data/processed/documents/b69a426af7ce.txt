@@ -1,0 +1,33 @@
+list of open electives course name structure course level basic neuroscience
+sensation and perception
+principles of neural design cognitive science
+introduction to cognitive science
+theories of intelligence
+consciousness computational neuroscience
+basics of computational neuroscience
+computational cognitive neuroscience neuroscience methods tools techniques
+methods and tools of science of intelligence
+eeg signal analysis
+introduction to brain computer interface mathematical economics
+fundamentals of economics
+games and economic behaviour
+mathematics for economics
+individual and strategic decision making theory and applications
+social choice theory
+introduction to mechanism design
+social and economic networks
+behavioural economics and decision theory econometric techniques
+theoretical foundations of econometrics
+analysis of economic data
+machine learning for economists operations research and computation
+decision sciences applications
+operations research for economics
+foundations of operations analytics
+computational intelligence macroeconomics
+modern growth economics
+principles of neural design
+cognitive architectures computational neuroscience
+computational cognitive neuroscience
+introduction to brain computer interface
+behavioural economics and decision theory
+machine learning for economists

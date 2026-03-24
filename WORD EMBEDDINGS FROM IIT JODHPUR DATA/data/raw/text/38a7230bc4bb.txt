@@ -1,0 +1,90 @@
+SOURCE_URL: https://www.iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=c1c7138c-d67b-4b10-b54e-0886fc2c2aea
+
+Congratulations to Shubham Garg and Dr Kirankumar R Hiremath for publishing their research paper in the Journal of Physics A: Mathematical and Theoretical
+Congratulations to Shubham Garg and Dr Kirankumar R Hiremath for publishing their research paper in the Journal of Physics A: Mathematical and Theoretical
+Title: Improved reduced order model for study of coupled
+phenomena Authors: Shubham Garg and Kirankumar R Hiremath Journal: Journal of Physics A: Mathematical and Theoretical Link/DOI: Improved reduced
+order model for study of coupled phenomena Year: 2024 Publisher: Institute of Physics Abstract: Many interesting phenomena in applications are based on
+interactions between their constituent sub-systems. The first principle exact
+models of these phenomena can be quite complicated. Therefore, many
+practitioners prefer to use so-called phenomenological models, which are
+generally known as models based on coupled mode theory (CMT). This type of
+reduced-order model captures the dominant behavior of the system under
+appropriate conditions. Quite often, these validity conditions are
+qualitatively described, but no detailed mathematical analysis is provided.
+This work addresses this issue and presents improvements in the traditional
+phenomenological models. Although an LC circuit model is used for illustration
+due to its simplicity, the results in this work are equally applicable to a
+wide variety of coupled models. A detailed mathematical analysis is carried out
+to quantify the order of approximation involved in the model-based CMT. Using
+it, the validity of the model in the regime from weak coupling to strong
+coupling is analytically investigated. An improved reduced-order model is
+proposed, which gives better results than the traditional phenomenological
+model. The analytical studies are verified with numerical simulations, which
+clearly show better validity of the proposed improved model of coupled systems. Upload Date : 30 September 2024
+Title: Improved reduced order model for study of coupled
+phenomena
+Improved reduced order model for study of coupled
+phenomena
+Authors: Shubham Garg and Kirankumar R Hiremath
+Shubham Garg and Kirankumar R Hiremath
+Journal: Journal of Physics A: Mathematical and Theoretical
+Journal of Physics A: Mathematical and Theoretical
+Link/DOI: Improved reduced
+order model for study of coupled phenomena
+Improved reduced
+order model for study of coupled phenomena
+Publisher: Institute of Physics
+Institute of Physics
+Abstract: Many interesting phenomena in applications are based on
+interactions between their constituent sub-systems. The first principle exact
+models of these phenomena can be quite complicated. Therefore, many
+practitioners prefer to use so-called phenomenological models, which are
+generally known as models based on coupled mode theory (CMT). This type of
+reduced-order model captures the dominant behavior of the system under
+appropriate conditions. Quite often, these validity conditions are
+qualitatively described, but no detailed mathematical analysis is provided.
+This work addresses this issue and presents improvements in the traditional
+phenomenological models. Although an LC circuit model is used for illustration
+due to its simplicity, the results in this work are equally applicable to a
+wide variety of coupled models. A detailed mathematical analysis is carried out
+to quantify the order of approximation involved in the model-based CMT. Using
+it, the validity of the model in the regime from weak coupling to strong
+coupling is analytically investigated. An improved reduced-order model is
+proposed, which gives better results than the traditional phenomenological
+model. The analytical studies are verified with numerical simulations, which
+clearly show better validity of the proposed improved model of coupled systems.
+Many interesting phenomena in applications are based on
+interactions between their constituent sub-systems. The first principle exact
+models of these phenomena can be quite complicated. Therefore, many
+practitioners prefer to use so-called phenomenological models, which are
+generally known as models based on coupled mode theory (CMT). This type of
+reduced-order model captures the dominant behavior of the system under
+appropriate conditions. Quite often, these validity conditions are
+qualitatively described, but no detailed mathematical analysis is provided.
+This work addresses this issue and presents improvements in the traditional
+phenomenological models. Although an LC circuit model is used for illustration
+due to its simplicity, the results in this work are equally applicable to a
+wide variety of coupled models. A detailed mathematical analysis is carried out
+to quantify the order of approximation involved in the model-based CMT. Using
+it, the validity of the model in the regime from weak coupling to strong
+coupling is analytically investigated. An improved reduced-order model is
+proposed, which gives better results than the traditional phenomenological
+model. The analytical studies are verified with numerical simulations, which
+clearly show better validity of the proposed improved model of coupled systems.
+Upload Date : 30 September 2024
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

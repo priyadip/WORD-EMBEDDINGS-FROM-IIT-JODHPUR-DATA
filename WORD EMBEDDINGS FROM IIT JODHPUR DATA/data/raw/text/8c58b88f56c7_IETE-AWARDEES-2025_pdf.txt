@@ -1,0 +1,150 @@
+SOURCE_PDF: 8c58b88f56c7_IETE-AWARDEES-2025.pdf
+
+IETE AWARDS 2025 WINNERS
+➢
+IETE MAIN AWARDS
+➢
+IETE CORPORATE AWARDS
+➢
+IETE BEST PAPER AWARDS
+➢
+IETE ACADEMIC AWARDS
+The following is a list of the recipients of the IETE Awards 2025. IETE would 
+like to extend its congratulations to all of the recipients of this year's 
+awards. The 2025 IETE Award ceremony will be held at the CSIR-Central 
+Scientific Instruments Organisation (CSIO), Sector 30, Chandigarh, during 
+the 68th Annual IETE Convention (AIC), which will take place from 
+September 27th to 28th, 2025.
+The IETE will send specific correspondence to each recipient, which will 
+include details of the event and schedule of the Award ceremony.
+
+➢ IETE BEST PAPER AWARDEES-2025 ➢
+Awards Awardees
+IETE SK Mitra
+Memorial
+Award- The
+best research
+oriented paper-
+2025 “Modified 2D-EWT-based Automated
+System for Glaucoma Diagnosis” by Amit
+Rawat, Maheshwari Prasad Singh and Rishi
+Raj Sharma, published in IETE Journal of
+Research, Vol 70 No. 07, July 2024 issue,
+pp 6228-6238.
+
+IETE JC Bose
+Memorial
+Award- The
+best
+engineering
+oriented paper-
+2025 “Design and Development of a Low-Cost
+Vision-Based 6 DoF Assistive Feeding Robot
+for the Aged and Specially-Abled People” by
+Priyam Parikh, Reena Trivedi, Jatin Dave,
+Keyur Joshi and Dipak Adhyaru, published
+in IETE Journal of Research, Vol 70 No 2,
+Feb 2024 issue, pp 1716-1744
+IETE MN Saha
+Memorial
+Award- The
+best application
+oriented paper
+-2025 “Designing of a Reduced Switch MLI-Based
+Standalone Solar Inverter Suitable for
+Water Pump Application” by Shubhajit Pal,
+Avik Bhattacharya and Rubell Sen Goopta,
+published in IETE Technical Review, Vol 41
+No. 6, Nov-Dec 2024 Issue, pp 695-708.
+
+IETE KS
+Krishnan
+Memorial
+Award- The
+best system
+oriented paper-
+2025 “An Energy-aware Technique for Resource
+Allocation in Mobile Internet of Thing (MIoT)
+Using Selfish Node Ranking and an
+Optimization Algorithm” by Zhengbing
+Zheng and Habibeh Nazif, published in IETE
+Journal of Research, Vol 70 No. 4, Apr 2024
+issue, pp 3546-3571.
+IETE CDIL
+Award for
+Industry- The
+best paper
+contributed by
+authors working
+in Industry -
+2025 “Chiplets for Integration of Electronic
+Systems” by C P Ravikumar, published in
+IETE Journal of Education, Vol 65 No 2,
+July-Dec 2024, pp 92 - 108.
+
+IETE Gowri
+Memorial
+Award- The
+best paper on
+topic of general
+Interest-2025 “Metaheuristic Algorithms in Smart
+Farming: An Analytical Survey” by
+Aishwarya Mishra and Lavika Goel,
+published in IETE Technical Review, Vol 41
+No 1, Jan-Feb 2024 pp 46-65.
+IETE Journal of
+Education
+Award- Two
+best papers
+from IETE
+Journal of
+Education -
+2025 1. “Experimental Observation of Chaotic
+Attractors from the FPGA implementation
+of 3D Chaotic Systems” by José David
+Rodríguez-Muñoz, Jonathan Daniel
+Tavizón-Aldama and Esteban Tlelo-Cuautle,
+published in IETE Journal of Education, Vol
+65 No 1, Jan-June 2024, pp 6-14.
+
+➢ IETE ACADEMIC AWARDEES-2025
+
+Challenges and Opportunities for Photonics in Next Generation Computing
+Prof. Sukhdev Roy
+Department of Physics and Computer Science
+Dayalbagh Educational Institute, Agra 282005, India
+The anticipated demand for ultra-high bandwidth ultra-high-speed communication and 
+computing has given the impetus to develop the next-generation photonic technologies, 
+with the promise of higher performance at lower cost. There is tremendous effort directed 
+towards multi- and single-mode links and all-photonic switching, routing and optical 
+interconnect technologies, to eliminate the electronic bottleneck and integration of 
+photonics and electronics to enable new architectures. This raises a multitude of 
+opportunities and challenges for research and innovation. 
+ 
+The advent of nature-inspired nano and bio technologies in the design, synthesis and 
+characterization of novel materials, structures and devices and photonic integrated circuits, 
+have opened up exciting new possibilities. The talk would provide a broad overview of 
+recent advances for high performance, parallel and energy efficient photonic information 
+processing that include nano photonics, plasmonics, organic and silicon photonics, photonic 
+crystals and metamaterials, ultrahigh Q-micro resonator structures, bio- and quantum 
+photonics. Advances in conservative and reversible photonic logic and molecular, quantum 
+and neuromorphic photonics have also opened up new vistas for computing with light. 
+ 
+The talk would focus on some of our recent experimental and theoretical results on all-
+optical switching in a variety of configurations, that include, graphene, organometallics, 
+organic 
+materials, 
+namely, 
+transition 
+metal 
+dichalcogenides 
+(MoTe₂/MoS₂ 
+heterostructures), BODIPY derivatives, CoTCPP SURMOF nanofilms, ultra-sensitive natural 
+photoreceptor proteins, nanostructures such as, high-Q silica and silicon microring 
+resonators, opto-genetically controlled neurons and neuromorphic devices, to design a wide 
+range of all-optical ultrafast Boolean, reversible and reconfigurable computing circuits that 
+include, various logic gates, half-full adders-subtractors, counters, MUX/DE-MUXs, decoder-
+encoder, comparator, flip-flops, RAM and arithmetic logic unit (ALU). The talk would review 
+the status of current technologies, highlight the importance of integrating them and identify 
+important challenges that need to be overcome to realize the next generation information 
+processing systems.

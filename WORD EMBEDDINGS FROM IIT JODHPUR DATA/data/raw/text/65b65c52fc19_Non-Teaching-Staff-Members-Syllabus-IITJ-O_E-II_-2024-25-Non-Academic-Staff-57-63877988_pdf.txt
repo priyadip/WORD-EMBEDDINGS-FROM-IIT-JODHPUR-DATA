@@ -1,0 +1,40 @@
+SOURCE_PDF: 65b65c52fc19_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Server
+Administration - Basic and Advanced Linux Commands
+- Windows Server Administration
+- Storage Servers and their Connectivities: NFS, SAN, NAS, PFS
+Network
+Management - Basics of OSI, TCP/IP Model
+- Basics of IPv4 and IPv6 (Internet Protocol), IPv4 Subnetting,
+VLAN, Network Topology, Network Protocol, Type of Network
+Devices, Port Security, TCP/UDP, Basic of Routing (static as well
+as dynamic), VoIP.
+- Wireless LANs, Wireless LAN 802.11 Service Set, Wireless
+Security, Wireless Authentication Methods along with DHCP
+and DNS
+IT Equipments and
+Interpreting
+Technical Data
+Sheets - Server Configurations and Data Sheets
+- CPU/GPU Configurations and Data Sheets
+- CPU Variants such as Server Processors, Desktop Processors,
+Different OEM
+- RAM Type, Bus Speed
+- UPS Configurations
+Productivity Tools - MS Office or Other Office suites
+- Microsoft Excel and PowerPoint
+- Collaborative Platforms such as Google Docs, Overleaf, etc.
+- Calendar Management
+Technical
+Documentation - Understanding and Creating UML/BPMN Documentation
+- Creating Technical Diagrams: Vector Diagrams such as EPS, SVG
+- Generate different charts from data
+- Creation of Technical Presentations
+Event Management - Understanding of Google Calendar, WebEx, Google Meet etc.
+- Screen Recording, OBS Studio etc.
+Automation
+Through Scripting - Python/Shell Script for String and File Handling, Searching, RegEx
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL SUPERINTENDENT (Computer Science & Engineering)
+(WRITTEN TEST & SKILL TEST)

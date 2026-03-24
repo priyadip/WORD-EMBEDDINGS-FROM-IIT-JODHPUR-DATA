@@ -1,0 +1,38 @@
+item segmentation algorithms for automatic concealed object detection using terahertz imaging no thumbnail available files kb kb of kb kb kb show more date researcher chandel sushmita supervisor bhatnagar gaurav journal title journal issn volume title publisher indian institute of technology jodhpur abstract the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+the increasing threat of concealed weapons and other valuable objects under human clothing calls for sophisticated and reliable security screening technologies
+traditional methods like metal detectors and scanners face limitations in detecting objects and can often be intrusive raising privacy concerns
+moreover the growing diversity and ingenuity of concealed objects require advanced imaging systems that can address these challenges while ensuring public safety
+this thesis presents novel approaches leveraging passive terahertz thz imaging
+it is covert and contactless way of scanning humans for visualizing potential concealed objects
+when applied to these images image processing and computer vision algorithms give an automatic solution to the problem
+they can provide completely automatic solution to detect localize and recognize these objects in real time
+this technology is in its infancy and has huge potential in the near future
+this thesis attempts to solve the problem by taking segmentation based approach to the problem
+unlike the visible spectrum which also captures an object color and inner texture the object visualization in this spectrum captures only the shape size and morphology of the objects
+thus localization would be more appropriate
+the goal of this thesis is to review and analyze various image processing and computer vision based algorithms suggested in the literature to perform automatic concealed object detection under human clothing for security check and entry control applications using passive terahertz imaging with particular focus on investigating and analyzing image segmentation based approaches for the same
+the most prominent methods in the literature are broadly classified into binary extraction methods and object detection methods
+the former methods give binary mask leading to the detection and localization of concealed objects in manner
+they thus can be used for all kinds of known and unknown object classes
+on the other hand the latter is more concerned with the recognition of specific classes apart from just detection and localization and mostly uses deep learning concepts to give optimal performance
+the research undertaken is broadly divided into three parts the first part chapter and aims to study all the binary segmentation methods for the effective detection and localization of concealed objects on an extensive dataset to propose and analyze novel segmentation based algorithms for the same
+the method in chapter utilizes particular image properties of the dataset principles of focus of attention and superpixel segmentation to give generic image processing method free of any kind of learning for the purpose
+additionally robustness to noise is also inherently considered in the study
+thereafter to make the approach robust to varying imaging conditions the principles of machine learning are leveraged in chapter to suggest more general solution to the problem
+it is worth mentioning that the particular insights developed in chapter help us engineer robust features for this method in chapter
+the second part chapter of the thesis takes an take on object detection
+for this novel approach based on hierarchical segmentation has been proposed to give region proposal technique starting point for many object detection algorithms
+the proposed technique is technique free of any kind of learning and utilizes specific image properties for the same
+finally the third part chapter of the thesis is more concerned with measuring the accuracy of superpixel segmentation used in the first part of the research
+apart from general literature review novel and mathematically rich information theoretic measure for the same has been proposed and analyzed
+it can be used to evaluate the refinement accuracy of the superpixel segmentation and choose optimal parameters
+in conclusion comprehensive study of segmentation and hierarchical segmentation based automatic and accurate yet resource methods for the application has been done
+additionally all the novel segmentation algorithms proposed in this thesis are implemented and empirically evaluated on dataset in this thesis
+description keywords citation chandel sushmita algorithms for automatic concealed object detection using terahertz imaging doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses full item page item segmentation algorithms for automatic concealed object detection using terahertz imaging segmentation algorithms for automatic concealed object detection using terahertz imaging no thumbnail available files kb kb of kb kb kb show more date researcher chandel sushmita supervisor bhatnagar gaurav journal title journal issn volume title publisher indian institute of technology jodhpur abstract the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+indian institute of technology jodhpur uri collections doctoral theses full item page no thumbnail available files kb kb of kb kb kb show more date researcher chandel sushmita supervisor bhatnagar gaurav journal title journal issn volume title publisher indian institute of technology jodhpur no thumbnail available files kb kb of kb kb kb show more kb kb of kb kb kb show more of researcher chandel sushmita supervisor bhatnagar gaurav publisher indian institute of technology jodhpur indian institute of technology jodhpur abstract the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+indian institute of technology jodhpur uri collections doctoral theses full item page abstract the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+citation chandel sushmita algorithms for automatic concealed object detection using terahertz imaging doctor thesis
+indian institute of technology jodhpur chandel sushmita algorithms for automatic concealed object detection using terahertz imaging doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses

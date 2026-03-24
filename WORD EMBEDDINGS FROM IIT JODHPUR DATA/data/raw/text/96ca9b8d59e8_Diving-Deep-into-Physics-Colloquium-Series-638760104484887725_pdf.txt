@@ -1,0 +1,28 @@
+SOURCE_PDF: 96ca9b8d59e8_Diving-Deep-into-Physics-Colloquium-Series-638760104484887725.pdf
+
+About the Speaker
+Dr. Anjali Gaur completed her Ph.D. under the guidance of Prof. 
+Balasubramanian Sundaram at JNCASR, Bengaluru. Her doctoral 
+research focused on force field development for liquids and 
+investigating their physical properties using ab initio and classical 
+molecular dynamics simulations. Currently, she is working on the 
+development of machine learning potentials for liquid ethylene 
+glycol. As a postdoctoral researcher, she will join the PHENIX 
+CNRS lab to work with Prof. Mathieu Salanne on the 
+development of machine learning-based classical force fields for 
+battery electrolytes.
+Venue: Kothari Seminar Hall, Department of Physics
+IIT
+Jodhpur
+Diving Deep Into Physics
+A Seminar Series of The
+Department of Physics
+Seminar on
+From Empirical to Machine Learning Potentials: Modeling
+Liquid Ethylene Glycol
+By
+Dr. Anjali Gaur
+Jawaharlal Nehru Centre For Advanced Scientific Research,
+Bengaluru
+Jan 6, 2025
+05:00 PM to 06:00 PM

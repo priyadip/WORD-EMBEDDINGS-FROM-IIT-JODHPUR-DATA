@@ -1,0 +1,121 @@
+SOURCE_PDF: edf5f2eb0624_PhD-Thesis-Defense-of-Ms-Sushmita-Yadav-on-15-January-2026-at-0300-PM-63904070835683674.pdf
+
+Qualitative Analysis of Non-Autonomous
+Dynamical Systems
+Sushmita Yadav (P20MA010)
+Supervisor: Prof. Puneet Sharma
+Department of Mathematics, IIT Jodhpur
+The modern theory of dynamical systems traces its origins to the late nineteenth cen-
+tury with the pioneering work of Henri Poincar´
+e, who explored the dynamics of the
+three-body problem in celestial mechanics. Traditionally, most studies have focused on
+autonomous systems, where the governing rules remain invariant over time. However,
+many real-world processes are inherently non-autonomous, with dynamics that evolve
+under time-dependent rules. To more accurately model these processes, it is essential
+to consider systems with time-varying behavior.
+Qualitative analysis of non-autonomous dynamical systems (NADS) was first stud-
+ied by Kolyada and Snoha [KS+96] in 1996. In [KS+96], the authors investigate the
+topological entropy of NADS. Later in [KST04], the authors discuss minimality con-
+ditions for NADS. In [BO12], authors investigate dynamical notions such as Li-Yorke
+chaos, topological weak mixing, and topological entropy for a general non-autonomous
+dynamical system. These contributions have attracted many researchers in the qualita-
+tive analysis of non-autonomous dynamical systems, for instance, see [Dvo12, SR18b,
+LC17, ˇ
+Ste15, MMAS18, SR18a]. Although progress has been made in studying discrete-
+time non-autonomous systems, numerous fundamental questions remain open in this
+setting.
+In this thesis work, we present a comprehensive study of the qualitative analysis
+of non-autonomous discrete systems, with a focus on their asymptotic behavior under
+various dynamical properties. We begin by investigating some dynamical notions such
+as minimality, almost periodicity, and equicontinuity for general non-autonomous sys-
+tems on compact metric spaces as a phase space. Further, we explore various notions
+of proximality, such as syndetic, regional, and regionally syndetic proximality. We pro-
+vide a sufficient criterion for proximal and syndetically proximal relations to coincide in
+a non-autonomous system. We also discuss various proximal notions in product spaces.
+In the setting of topological flows, the notion of the enveloping semigroup plays a
+central role in understanding long-term dynamical behavior [Ell60, Ell93, EN89]. Mo-
+tivated by this, we introduce an analogous notion for non-autonomous systems, which
+we call an enveloping cover, though it does not inherit a semigroup structure in the
+non-autonomous setting. Before delving into the dynamics of non-autonomous sys-
+
+tems via this construction, we first examine the classical case: we explore the envelop-
+ing semigroup of a topological flow and study the induced flow it supports. We then
+relate various dynamical properties of the original flow to those of the induced flow
+on its enveloping semigroup. With this foundation, we return to the non-autonomous
+setting and investigate the structure of the enveloping cover. In particular, we establish
+the equivalence of equicontinuity and distality for non-autonomous systems on the real
+line using the enveloping cover, and further demonstrate how several topological prop-
+erties of the enveloping cover reflect the dynamics of the underlying non-autonomous
+system.
+References
+[BO12]
+Francisco Balibrea and Piotr Oprocha.
+Weak mixing and chaos
+in nonautonomous discrete systems. Applied Mathematics Letters,
+25(8):1135–1141, 2012.
+[Dvo12]
+J Dvoˇ
+r´
+akov´
+a.
+Chaos in nonautonomous discrete dynamical sys-
+tems. Communications in Nonlinear Science and Numerical Simulation,
+17(12):4649–4652, 2012.
+[Ell60]
+Robert Ellis. A semigroup associated with a transformation group.
+Transactions of the American Mathematical Society, 94(2):272–281,
+1960.
+[Ell93]
+Robert Ellis. The enveloping semigroup of projective flows. Ergodic
+Theory and Dynamical Systems, 13(4):635–660, 1993.
+[EN89]
+Robert Ellis and Mahesh Nerurkar. Weakly almost periodic flows.
+Transactions of the American Mathematical Society, 313(1):103–119,
+1989.
+[KS+96]
+Sergi˘
+ı Kolyada, Lubomir Snoha, et al.
+Topological entropy of
+nonautonomous dynamical systems. Random and computational dy-
+namics, 4(2):205, 1996.
+[KST04]
+S Kolyada, L’ Snoha, and S Trofimchuk. On minimality of nonau-
+tonomous dynamical systems.
+Nonlinear Oscillations, 7(1):83–89,
+2004.
+[LC17]
+Tianxiu Lu and Guanrong Chen. Proximal and syndetical proper-
+ties in nonautonomous discrete systems. Journal of Applied Analysis
+and Computation, 7(1):92–101, 2017.
+
+[MMAS18] Alejandro Miralles, Marina Murillo-Arcila, and Manuel Sanchis.
+Sensitive dependence for nonautonomous discrete dynamical sys-
+tems. Journal of Mathematical Analysis and Applications, 463(1):268–
+275, 2018.
+[SR18a]
+Puneet Sharma and Manish Raghav. Dynamics of nonautonomous
+discrete dynamical systems. Topology Proceedings, 52:45–59, 2018.
+[SR18b]
+Puneet Sharma and Manish Raghav. On dynamics generated by a
+uniformly convergent sequence of maps. Topology and its Applica-
+tions, 247:81–90, 2018.
+[ˇ
+Ste15]
+Marta ˇ
+Stef´
+ankov´
+a.
+Inheriting of chaos in uniformly convergent
+nonautonomous dynamical systems on the interval. Discrete and
+Continuous Dynamical Systems, 36(6):3435–3443, 2015.
+List of Publications/Pre-prints from the Thesis
+1. S. Yadav and P. Sharma, ”Dynamical Behavior of a General Non-autonomous
+Dynamical System”, Applied General Topology, 26 (2025) (1), 203-219.
+2. S. Yadav and P. Sharma, ”Equivalence of Equicontinuity and Distality for
+Real Non-Autonomous Systems”, Filomat, 39 (2025) (14), 4907-4912.
+3. S. Yadav and P. Sharma, ”Enveloping Cover of Non-Autonomous Sys-
+tems”, (Under Revision).
+4. S. Yadav and P. Sharma, ”Dynamics of Enveloping Semigroup of Flows”,
+(Under Review).
+5. S. Yadav and P. Sharma, ”Various Notions of Proximality of Non-Autonomous
+Dynamical Systems”, (Under Review).

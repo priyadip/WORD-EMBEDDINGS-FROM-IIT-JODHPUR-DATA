@@ -1,0 +1,65 @@
+SOURCE_PDF: 23a5fe9dd8bf_-brochure-for-Executive-MTech--638887974356693709.pdf
+
+Admission to M.Tech in Intelligent VLSI Systems for Part-time and Part-time project sponsored
+categories
+IIT Jodhpur invites applications for admission to Part-time M. Tech. (Intelligent VLSI Systems) program for 
+Semester commencing from September 2022. The proposed Executive M. Tech program in Intelligent VLSI Systems 
+of IIT Jodhpur includes state of the art semiconductor devices and modeling techniques, analog and digital VLSI 
+circuits and systems, mixed signal circuits, testing and verification algorithms, issues with system integration for 
+performance considerations, covering wide aspects of embedded and computing systems, and emerging applications. 
+The minimum duration of the programme will be three academic years.
+Eligibility
+B.Tech./B.E. (ECE/EE/CSE/EI/MSc. Physics/MSc. Electronics or equivalent) with at least 60% marks.
+Categories of admission 
+ 
+Part-time: The students will attend regular classes as per the schedule of the Institute. The student must be employed 
+in the neighbourhood of IIT Jodhpur and must produce a NOC from the employer for pursuing the programme at IIT 
+Jodhpur. The student can register only for a limited number of credits as compared to a full-time regular student. At 
+least 2 years of professional work experience is required.
+Part-time project sponsored: This category is opened for candidates who are/will be working full time for the 
+internal projects of IIT Jodhpur to pursue M.Tech in Intelligent VLSI Systems. The applications in this category 
+will be processed as per the available positions in the department.
+Selection Procedure
+Candidates must fill an online application at https://oa.iitj.ac.in/OA_PG_ADMISSION/. Selection will be based on 
+written test and/or interview and/or any other criteria deemed suitable by the admission committee. Prior research 
+exposure and/or industry experience in areas related to VLSI will be considered a plus. The department reserves the 
+right to set any cut off criteria for shortlisting the candidates. Mere fulfillment of the eligibility criteria does not 
+guarantee that the candidate will be shortlisted, as the shortlisting criteria are often stricter than the eligibility criteria. 
+Shortlisting criteria is decided after receiving the applications, and is aimed at limiting the number of candidates 
+considered for evaluation.
+Program Fee: The fee structure will be as per the revised M.Tech. Fee structure for 2022-2023 session. For updates, 
+please visit
+Fees once paid will not be refunded, if the candidate fails to join the program.
+Written Test Topics: Basics of programming, basic mathematics, basics of electronics, circuit theory, digital 
+electronics
+Credit Requirements
+Students need to earn 62 credits as per the course structure in order to qualify for the degree over a period of 3 years. 
+More details related to the program are available here: 
+https://iitj.ac.in/department/index.php?dept=ee&cat=program&id=59
+Faculty
+Instructors comprising of IITJ faculty members and industry experts.
+
+Important Dates
+August 14, 2022: Last date of receiving applications 
+August 17, 2022: Announcing the list of shortlisted candidates 
+August 27, 2022: Written-test/interview 
+September 6, 2022: Announcement of selected candidates 
+September 8-11, 2022: Fee link activation 
+September 12-13, 2022 Registration of students 
+September 15, 2022 Orientation of new students 
+September 17, 2022 Commencement of classes 
+ 
+Application Procedure
+Applicants are requested to use the following link to fill and submit the application form online: 
+https://oa.iitj.ac.in/OA_PG_ADMISSION
+Applicants are required to pay the processing fee of Rs. 500 online while submitting the application form. The 
+application fees is non-refundable.
+Cancellation of admission
+The Institute reserves the right to cancel, at any stage, the admission of a candidate admitted to a programme and is 
+later found that he/she is not entitled, being unqualified or ineligible in accordance with the Regulations in vogue, or 
+suspension/termination of programme. In case of cancellation/withdrawn of admission after registration from 
+programme, refund of fee will not be permissible.
+Contact us:
+In case of any query with respect to the online application, candidates may contact: Office of Automation 
+(oa_automation@iitj.ac.in) and other general queries may be directed to the office of the Department of Electrical 
+Engineering at the following phone number: 0291-2801352 or email address: office_ee@iitj.ac.in.

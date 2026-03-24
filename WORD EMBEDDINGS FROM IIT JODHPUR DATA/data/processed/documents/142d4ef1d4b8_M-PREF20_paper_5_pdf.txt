@@ -1,0 +1,360 @@
+partition aggregation for budgeting laurent bulteau and pallavi jain2 and nimrod talmon abstract
+motivated by certain aggregation tasks related to ipatory budgeting such as clustering projects and modeling project interactions we study several variants of the following aggregation problem given set of projects and partitions of the task is to aggregate these partitions into one aggregated partition
+we consider several aggregation methods for this setting ing methods and methods and uate these methods by analyzing their computational complexity and their behavior with respect to certain relevant axiomatic properties
+introduction in participatory budgeting pb the task is to aggregate voter preferences over set of projects to decide upon bundle of those projects to fund
+it has received quite extensive recent attention from the research community resulting in some aggregation methods to be used for such settings
+one aspect of pb which is neglected by existing methods is project interactions consider toy pb instance consisting of projects one school and two parks p1 and p2 in many cases it is natural to assume that while certain voters might wish to have one park built in their city not many voters would feel that funding two parks especially if these parks are geographically close to each other is good use of lic funds
+the above example is of substitutions as the two parks are substitutes for each other
+indeed there could be other types of interactions most notably complementarities which correspond to positive interactions between projects for presentation we consider here only substitutions
+in this paper we are interested in out the stitution structure of the set of projects in pb instance
+in the toy example described above it might indeed be the case that the two parks p1 and p2 are substitutes for most voters
+so the tion structure of this example would be the partition p1 p2 each part and p1 p2 of this partition is referred to stitution class
+in particular taking utilitarian approach assume that each voter has utility for each bundle of projects so the ity of voter from set of projects p1 p2 is
+then the substitution structure means that the utility function is submodular wrt
+projects of the same part in the partition that is p1 p2 p1 p2
+there are several ways by which an organizer of pb instance might tackle this aspect of substitutions dictatorial decision one possibility would be for the organizer to ligm cnrs univ gustave eiffel ee france email university of the negev israel email university of the negev israel email decide herself upon the substitution structure then she might ask voters to approve projects the election to be an approval one but do not allow voters to approve more than one project in each substitution class
+explicit exponential elicitation another possibility would be for the organizer to allow each voter to explicitly specify her utility from each bundle of projects however this would mean an nential explosion and thus is probably not feasible
+preliminary election yet another possibility would be for the organizer to perform preliminary election in which she asks from the voters perhaps only subset of the voters to vide their substitution structures
+then the organizer can gate those partitions provided by the voters and use the aggregated partition as the global substitution structure
+here we choose the last option thus concentrate on the lem of aggregating partitions
+here one would be wondering why do we want to conduct election in two phases that is asking for substitution structures from some voters and then conduct standard election
+the one reason is that elicitation cost is high
+since this is the preliminary step of participatory budgeting it is natural that we only ask some people to give substitution structure say only taries of different societies
+of course the question of how to use the aggregated partition in the subsequent participatory budgeting tion is central we do not tackle it in the current paper however to maintain focus we leave it as the main future work
+we acknowledge one natural criticism of our approach namely that we assume that the substitution structure is somehow global in the sense that it can be to be the same for all voters
+while indeed this might not ways be the case we believe that in most pb instances it is roughly global
+verifying this intuition and identifying cases in which this intuition is true and other cases in which it is violated is again an interesting avenue for future research
+finally while here we concentrate on identifying aggregated titions to be used for deciding on substitution structures for pb stances we mention other motivations for this task visualizing projects pb organizer shall distribute pamphlet explaining the projects to the voters
+on each page only certain number of projects can be explained thus in fact the pamphlet partitions the projects into pages
+using partition aggregation method might help here in particular as the presentation affects the preferences
+community structure consider the task of identifying ties in set of agents
+one way to achieve this is to request each voter to provide partition of the set of agents to communities and then using an algorithm for aggregating partitions
+however in some cases asking people to vote for communities might yield distorted results
+related work special case of the partition aggregation problem is cluster sembles which is also known as cluster aggregation and consensus clustering
+in cluster aggregation we are given set of clusterings and the goal is to clustering which agrees with the input clusterings as much as possible
+cluster aggregation is solvable when the input has two partitions while it is apx hard when we have three partitions
+strehl and ghosh proposed some techniques for cluster aggregation
+in one of their proaches given set of clustering they construct hypergraph and hyperedge separator that partitions the hypergraph into connected components of approximately the same size
+gionis et al
+gave some approximation algorithms
+they sidered cluster aggregation problem and correlation clustering
+in cluster aggregation they measure the dissimilarity between the terings
+let be the given set of objects and c1
+cm be the set of clusterings
+for two objects and in and two ings c1 c2 du c1 c2 if and are in same part in c1 and different parts in c2 or otherwise
+the ity between two clusterings c1 and c2 is as c1 c2 du c1 c2
+the goal is to clustering such that the total dissimilarity pm ci is minimized
+this function is also known as total mirkin distance
+they also studied the mization version of consensus clustering
+towards this they similarity between two partitions c1 and c2 denoted by c1 c2 as the number of objects which either belong to the same part in both the partitions or in different parts in both partitions
+the goal is to partition such that pm ci is maximised
+dornfelder et al
+proved that cluster aggregation is even when every partition contains at most two clusters
+they posed an fpt algorithm for cluster aggregation with respect to rameter average mirkin distance
+they also studied the local search variant of the problem and showed that the problem is when parameterized by radius of the neighborhood
+we also mention work on aggregating graphs as aggregating partitions is equivalent to aggregating cluster graphs graphs that are collection of disjoint cliques
+formal model formally we have set p1
+pm of projects in pb there is cost for each we do not include these in our formal model as they do not affect the substitution structure and set v1
+vn of voters where voter vi corresponds to partition pvi of partition pv is disjoint set of parts whose union is pv p1
+pz where for every pi pj each pj is referred to as part of the partition pv
+partition aggregation method is function taking partitions of and returning partition of referred to as the aggregated partition
+we ignore issues of as they ter the presentation without adding insights
+we denote an instance of partition aggregation as where is the set of projects and is the collection of partitions of utilitiarian approach the main question we are studying is how to good tion
+here we take utilitiarian approach we assume that each voter based on her partition pv would derive certain utility from each possible aggregated partition while these utilities are unknown they might be estimated similarly to set extensions which are used to estimate utilities over committees based on utilities over single candidates in multiwinner elections
+given way of mating such utilities over the set of possible partitions natural tition aggregation method would return as the aggregated partition partition which maximizes the sum over the voters of these utilities
+such utilitarian approach has been applied successfully for many social choice settings including multiwinner elections and participatory budgeting
+example consider the set of projects p1 p2 p3 p4 and voter with the partition pv p1 p2 p3 p4
+it is natural to assume that the utility of voter from the tion s1 p1 p2 p3 p4 would be fairly high as pv and s1 are quite similar
+furthermore the utility of from s2 p1 p2 p3 p4 might be less than her utility from s1 as s2 seems to be less similar to pv than s1 is
+our utilitarian approach is formally below
+utility function let be set of projects and let be the set of all partitions of utility function is function
+for voter and possible aggregated partition is understood as the utility that voter gets from the higher the better
+two utility functions we consider two utility functions
+the pa utility function is perhaps the utility function one might think of the utility of voter equals the number of pairs for which her vote agrees with the gated vote
+the pam utility function is slightly less natural as the utility is the number of pairs for which the voter agrees with the gregated vote minus the number of pairs not in the same partition in the voter partition but in the same partition in the aggregated vote
+thus in essence we larger for merging pair of projects unnecessarily of than for splitting pair of projects unnecessarily of
+the reason for this asymmetry is our motivation from substitution structures we believe that an gated partition that set of projects as substitutions to each other while most voters prefer not to have them as such is more harmful than an aggregated partition that simply fails to substitution in cases in which it should
+number of pairwise agreements pa let p1 p2 be two projects in for voter and an aggregated partition let if p1 p2 are in same different part in both pv and otherwise
+we the number of pairwise agreements pa utility function for voter from to be as follows number of pairwise agreements minus number of mergings pam let p1 p2 be two projects in for voter and gated partition let p1 p2 if p1 p2 are in same different part if p1 and p2 are in same part in pv but in different parts in if p1 and p2 are in different parts in pv but in same part in
+we the number of pairwise agreements minus number of mergings pam utility function for voter from to be p1 p1 p2
+aggregation goals given utility function we consider two partition aggregation goals maximizing the sum of utilities total and maximizing the minimum utility egal
+total utility total given set of projects lection of partitions p1
+pn and utility function the goal in total utility aggregation is to partition such that pi is maximized
+that is in total utility aggregation we look for partition that maximizes the total utility pi
+in the decision version of the problem given an integer additionally we look for partition that has total utility at least we use the same problem name for optimisation as well as decision version of the problem as it will be clear from the context
+we also consider egalitarian aggregation methods in which we care for the least voter similarly in spirit to egalitarian mittee scoring rules
+egalitarian utility egal given set of projects collection of partitions p1
+pn and utility function in egalitarian utility aggregation the goal is to partition such that pi is maximized
+in the decision version of the problem given an integer ally we look for partition that has egalitarian utility at least illustrating example our two utility functions and two aggregation types four aggregation methods and pam
+consider the following set of partitions to illustrate the difference between these methods
+let pv1 p1 p2 p3 pv2 p1 p2 p3 and pv3 p1 p2 p3
+let p1 p2 p3 be an aggregated partition
+we describe for the pair of projects p1 p2 v1 p1 p2 as p1 and p2 are in same part in both the partitions however v1 p1 p3 as p1 and p3 are in same part for v1 and in different parts in ilarly v1 p2 p3
+hence the pa utility for voter v1 from pa v1 is
+similarly the pa utility for voter v2 and v3 from are and respectively
+the utility from is
+the utility is
+next we describe utility
+for the pair of projects v1 p1 p2 however v1 p1 p3 and v1 p2 p3
+hence the pam utility for v1 from pam v1 is
+furthermore v2 p1 p2 as p1 and p2 are in different parts for v2 while they are in the same part in v2 p1 p3 and v2 p2 p3
+hence the pam utility for v2 from is
+similarly the pam utility for v3 from is
+fore the utility from is and the utility is
+computational complexity first we study the computational complexity and show ity of our partition aggregation methods
+and recall that the problem of an aggregated partition with imum is equivalent to the consensus clustering problem
+since consensus clustering is known to be even for three partitions we have the following result
+proposition is even for three voters
+consensus clustering is also known to be when every input partition has at most two parts
+hence we have following result
+proposition is even when every voter has at most two parts
+we next present our intractability result for
+theorem is even when each partition tains at most two parts
+we give polynomial time reduction from the known hard problem cluster deletion given graph and an integer we shall decide the existence of at most set of edges whose deletion from results into cluster graph disjoint union of cliques
+let be an instance of the cluster deletion lem
+let without loss of generality assume that for some positive integer
+we struct the set of projects for each vertex we add project in the set now we construct collection of tions of projects
+for every pair of vertices we create collection of partitions cuv as follows
+if uv then otherwise
+if uv then in every partition in cuv and are in same part otherwise and are in different parts in every partition in cuv
+for every pair of vertices there are partitions in cuv in which and are in different parts and partitions in which and are in same part
+this collection of partitions can be construed in polynomial time however we skip the due to space constraint
+the intuitive idea for such collection of partitions is that for pair of project the total pam utility due to partitions in cuv where are distinct from is for any aggregated partition as if are in different parts in the gated partition then the total pam utility due to these partitions is otherwise
+in essence the utility of pair of project for cu does not depend on the parts to which belongs in the aggregated partition
+however for project total pam utility for cu depends on their parts in the aggregated tion
+the set of partitions in our instance is cuv
+we set total pam utility as method complexity unanimity iip even for prop
+yes no even for theorem open table
+summary of our results
+we denote the maximum number of parts in any partition by
+next we show the equivalence between the instance of cluster deletion and the instance of total pam
+in the forward direction let be subset of edges of size such that is cluster graph
+we construct an aggregated partition for the instance as follows
+two projects are in same part in if and only if their corresponding vertices in are in same clique
+note that the number of parts in is same as the number of cliques in
+now we show that the total pam utility for is at least
+recall that for any pair of projects for all collections cxy where
+note that if uv then uv as we only delete edges from therefore for if then
+fore if uv then
+we further note that if uv then uv as we do not add any edge to therefore for if then
+furthermore if uv then
+therefore if uv and if uv but uv then
+since there can be at most edges in which are not in total pam utility for is this completes the proof in the forward direction
+in the reverse direction let be an aggregated partition to such that total pam utility for is at least
+claim if and belong to same part in then uv
+towards the contradiction suppose that there exists projects and in part in such that uv
+then as and are in different parts in each partition in cuv
+therefore hence total pam utility for is as since is cluster graph if uv then uv
+since there are at least pairs such that and are in same part in each partition in cuv but in different parts in
+we can show that in this case the total pam utility for is less than contradiction to that is solution to
+the reverse direction follows from claim and
+and proposition and are
+due to lack of space we only give sketch of the reduction
+we reduce from unary bin packing seen as partition problem one seeks partition of kb into parts of size where items represented as disjoint subsets must be included in single parts
+we use kb as the set of projects and build two voters kb and
+we can enforce that the solution must have utility at least tr with and ts with ts in the pam model
+these two thresholds yield partition with blocks of size
+then for each pair of elements from the same item we enforce that both elements are in the same part using partition qe kb with utility threshold tq tr or tq tr in the pam model
+together these constraints ensure that the target solution is valid bin packing of the original instance we achieve distinct utility thresholds with additional gadgets appended to each partition
+axiomatic properties here we consider various axiomatic properties that are relevant for partition aggregation methods and test our partition aggregation methods against them
+while it is possible to many axiomatic properties we chose axioms that seem especially relevant with the application of aggregating substitution structures in mind
+our sults regarding both the computational complexity and the axiomatic properties of our four partition aggregation methods and are summarized in table
+the axiom of unanimity next says that if all voters agree on whether some two projects shall be in the same part or in different parts all voters are unanimous wrt
+to this pair of projects then the aggregated partition shall also agree with the voters regarding these two projects
+unanimity partition aggregation method unanimity if the following hold let p1
+pn be the set of partitions of projects p1
+if two projects pi and pj belong to the same part in pi for all then pi pj belong to the same part in the aggregated partition
+similarly if pi pj belong to different parts in pi for all then pi pj belong to different parts in the aggregated partition
+while unanimity requires that the aggregated partition agrees with the voters on those pairs of projects for which all voters are in complete agreement aggregation considers pairs of projects with majority agreement among the voters
+as we show next such aggregated partitions need not exist thus we require an aggregation method to output such partitions only when they exist
+majority based aggregation an aggregated tion is if any two projects p1 p2 are in the same part in if and only if p1 and p2 are placed in the same part for more than half of the voters
+partition aggregation method aggregation if it always outputs aggregated partitions whenever such an aggregated partition exists
+remark one might consider continuum of axioms between aggregation and unanimity by employing jorities an aggregated partition would place pair of projects in the same partition iff at least among the voters does so
+we also consider an adaptation of the fundamental axiom of dependent of irrelevant alternatives to our setting of aggregating partitions we refer to our adaptation as independent of irrelevant projects
+in essence it means that if the restriction of some two to pair of projects is the same then the restriction to this pair of projects of both aggregated partition shall be the same
+independent of irrelevant projects partition gregation method independent of irrelevant projects if the following holds let and be two partition and let and be their aggregated partitions according to let p1 and p2 be two projects such that the number of voters that places them in the same part in and in are the same
+then and shall either both place p1 and p2 in the same part or in different parts
+here we compare our four aggregation methods wrt
+to the axiom of unanimity we wish to identify which of our methods are imous and which are not
+first we note that unanimous partition always exists and can be found in polynomial time observation unanimous partition always exists and can be found in polynomial time
+the proof follows from the fact that we can output any partition that is provided by some voter
+note that it is unanimous
+next we show that is also unanimous
+this is intuitively appealing as to maximize the total utility it seems natural for the aggregated partition to agree with the voters at least on those pairs of projects for which the voters are in total agreement among selves
+theorem is unanimous
+let be an optimal aggregated partition for set of voters v1
+vn that maximizes total let p1 and p2 be two projects that are in same part in all the partitions while in different parts in we claim that there exists an aggregated partition in which p1 and p2 are in same part and utility for is same as that of we create as follows
+initially is same as let s1 and s2 be two parts containing p1 and p2 respectively
+we delete p2 from s2 and add it to s1
+next we prove that ity from is larger than that from we denote new s1 and s2 as and respectively
+consider parts s1 and s2 in the tion let pn vi p1 n1 number of wise agreements between project p1 and the projects in s1 pn vi p2 n2 number of pairwise ments between project p2 and the projects in s1
+now we claim that n1 n2
+towards the contradiction suppose that n1 n2
+then when we move p2 from s2 to s1 the utility for p2 and the vertices in s1 is n1 as p1 and p2 are in same part in all the partitions
+note that the utility for other pairs of projects do not change
+therefore the total pa for this partition is greater than for contradiction
+similarly if n2 n1 then by moving p1 from s1 to s2 we obtain partition whose is more than that from contradiction
+therefore n1 n2 and hence total pa utility for is same as that of next we consider the case when p1 and p2 are in different parts in all the partitions while in the same part say s1 in let pn vi p1 n1 number of pairwise agreements between project p1 and the projects in s1 and vi p2 n2 number of pairwise ments between project p2 and the projects in s1
+since p1 and p2 are in different parts for all the voters if p2 s1 n1
+similarly if p1 vi p1 n2
+therefore if n1 n2 then deleting p2 from s1 and adding part p2 to increase the total pa utility contradiction to that maximises total utility
+similarly if n2 n1 then deleting p1 from s1 and adding part p1 to increase the total pa utility contradiction
+thus if we create partition by deleting p2 from s1 and adding part p2 to total pa utility remains same
+in contrast is not unanimous
+this is also intuitively pealing as egalitarian methods care for the least voter
+proposition is not unanimous
+we show this by an example
+suppose that we have voters and projects p1 p2 p3 p4 p5
+let the partition for voter be p1 p2 p3 p4 p5 and for second voter it is p1 p2 p3 p4 p5
+let us consider some possible aggregated partition
+in particular we consider all partitions in which p1 and aggregated partition pa utility voter voter p2 are in the same part and one partition in which p1 and p2 are in different parts to show that any partition containing p1 and p2 in same part can not be optimal solution of
+note that partitions p1 p2 p3 p4 p5 p1 p2 p3 p4 p4 and p1 p2 p4 p5 p3 have same pa utility for both the voters therefore in table we only mention one of these
+similarly we omit some partitions in the table that contains p1 p2 in same part but have same utilities as some partition in the table
+example for of egalitarian pa lemma next we consider
+while we show that similarly to also unanimity we conjecture that similarly to does not satisfy unanimity
+let p1 and p2 be two projects which are in same part for all the voters while in different parts say s1 s2 respectively in let pn vi p1 n1 number of pairwise agreements between project p1 and the projects in s1 minus number of mergings and pn vi p2 n3
+note that if n1 n3 then moving p2 from s2 to s1 increases the total pam utility contradiction to optimality of similarly if n3 n1 then moving p1 from s1 to s2 increases the total pam utility contradiction
+thus moving p1 from s1 to s2 does not change the total pam utility
+hence there exists an optimal aggregated partition in which p1 and p2 are in same part
+next we show that if p1 and p2 are in different parts for all the voters then p1 and p2 are not in the same part in any timal aggregated partition
+towards the contradiction suppose that there exists an optimal aggregated partition in which p1 and p2 are in same part say s1
+note that for project if pn vi p1 n1 then pn vi p2 and
+therefore and requiring the contradicting requirements of and as the canonical example of condorcet paradox
+nevertheless aggregation exists for some for these it can be found in polynomial time
+theorem majority based aggregated partition can be found in polynomial time if it exists
+let be the set of projects
+let be the set of voters
+we construct an aggregated partition iteratively as follows
+in each iteration we add part si in as follows consider project that is project that has not been added in any part in previous iterations add it in the part si and add all the projects such that and are in same part for more than half of the voters in si
+now we check whether every two projects in si are in same part for more than half of the voters
+if not then the algorithm returns no
+we also check whether there exists projects and where such that and are in different parts for at least half of the voters
+we repeat until there is project which is not placed in any part in and return set clearly the algorithm runs in polynomial time
+next we prove the correctness of the algorithm
+indeed if the algorithm returns partition then it is majority based aggregated partition as at every step the algorithm checks this property
+now we show that if the algorithm returns no then there is no majority based aggregated partition for
+towards the contradiction let be majority based aggregation for
+note that the algorithm returns no in two cases there are two projects say in part say si in that are not in same part for more than half of the voters or there are two projects say in different parts say si sj respectively of that are in same part for more than half of the voters
+consider the case
+clearly and are in different parts in
+let the algorithm added project to si
+thus and are in same part for more than half of the voters as the algorithm added in si contradiction that is majority based aggregation
+next consider case
+clearly are in same part in
+then algorithm added to si but not
+this implies that are in same part for more thant half of the voters but not
+since the part containing in does not contain as are in different parts for at least half of the voters contradiction that is majority based aggregation as are in different parts in
+we have following corollary from the algorithm described above
+corollary the existence of partition for given can be decided in polynomial time
+moreover note that if it exists then aggregated partition is unique
+next we check whether our partition aggregation methods output the partition whenever it exists
+theorem if majority based aggregated partition exists then it maximizes let be set of partitions corresponding to all the voters
+let be the majority based aggregated partition for
+let be an optimal solution of for
+since majority based aggregated partition is unique is not majority based aggregated partition
+thus either there exists part si in containing two projects that are not in same part for more than half of the voters or there exists two parts si sj in such that there is project in si and project in sj that are in same part for more than half of the voters
+let and be two projects in si that are in different parts for at least half of the voters
+let mx be the set of projects that are in same part with for more than half of the voters and nx be the set of projects that are not in same part with for more than half of the voters
+note that pair of projects where and are not in same part for more than half of the voters otherwise majority based aggregated partition does not exist
+also note that every two projects in mx are in same part for more than half of the voters otherwise majority based aggregated partition does not exist
+now create new partition by deleting nx from si and add new set of projects nx to since every pair of project where and are in different parts for at least half of the voter either the total pa utility of new partition is same as that of or larger than that of it can not be larger as is an optimal solution of we apply this step for all the parts in si that contains at least two projects that are not in same part for more than half of the voters
+note that the total pa utility for new partition is same as that of
+let us denote this new partition by
+next we consider case
+note that if there exists two parts si sj in such that there is project in si and project in sj that are in same part for more than half of the voters then such parts also exist in because we have not merged any two parts
+let sp and sq be two parts in that contains and respectively such that and are in same part for more than half of the voters
+we merge parts sp and sq in the partition
+since does not contain any part that violates majority based aggregation property due to case all the pair of projects in sp or sq are in same part for more than half of the voters
+note that every pair of projects such that and are in same part for more than half of the voters otherwise majority based aggregated partition does not exist
+therefore merging sp and sq increases the total pa utility contradiction to the optimality of hence does not contain parts that condition in case
+using the same example as in lemma we have following result
+proposition does not satisfy gregation
+we go on to consider and
+proposition does not satisfy tion
+we show this by counterexample
+consider set of projects p1 p2 and set of voters
+let the partition for voters be p1 p2 and for voters the partition is p1 p2
+note that p1 p2 is majority based aggregated partition its total pam utility is
+however the total pam utility for p1 p2 is
+proposition does not satisfy the property of jority based aggregation
+independent of irrelevant projects next we consider our adaptation of the axiom of independence of irrelevant alternatives to our setting
+proposition does not satisfy independence of irrelevant projects
+let and be two and we have voters
+suppose that the partitions for are pv1 p1 p2 p3 p4 pv2 p1 p2 p3 p4 and pv3 p1 p2 p3 p4 and for partitions are v1 p1 p2 p3 p4 v2 p1 p2 p4 p3 and v3 p1 p3 p2 p4
+we consider here pair of project p1 p2
+in both the p1 and p2 are in same part for voters
+let and be aggregated partitions for and respectively
+since is unanimous lemma projects p3 and p4 are in different parts in both the partitions and
+moreover in p4 is singleton and p2 p3 are in same part
+now if p1 is in the same part as in p2 p3 total pa utility for is otherwise
+now let us consider partition
+suppose that p1 and p2 are in same part
+then there are three cases either p1 p2 p3 p4 or p1 p2 p3 p4 or p3 p1 p2 p4
+in all the case total pa utility is
+however if p1 p3 p2 p4 then total pa utility is
+observe that if an aggregation rule is not unanimous then it can not satisfy independent of irrelevant projects properties as we can have one in which all the projects are in the same part or equivalently in different parts for all voters and another which is an instance that violates the unanimity axiom
+hence due to lemma we have following result
+corollary does not satisfy independence of evant projects
+outlook we have studied several partition aggregation methods for the ting in which each voter provides an arbitrary partition over the same set of projects and the aggregation goal is to output single gated partition
+here we discuss few other variants of this setting and describe some for each of them
+partitions with parts in certain cases it might be desired to require that each input partition as well as the output partition shall consist of at most given number of parts
+as natural consider set of projects for ticipatory budgeting where the election organizer wishes to partition the projects into thematic subjects to ease the elicitation process
+it is natural to require parts does requiring some upper bound of parts
+such scenarios can be modeled as follows given input partitions each consisting of at most parts the aggregation method shall output single aggregated partition also consisting of at most parts
+as different example of different consider system employing liquid democracy in which the system wishes to cluster the proposals on the table into subjects say education health etc
+then one approach would be to ask subset of the voters to assign the proposals to the different given subjects
+such scenario can be modeled as follows we have set of types and each voter shall partition the projects into these types
+the aggregation method shall then output partition of the projects into these types
+observe that in the example the parts are indistinguishable while in the second example these are distinguishable as they have different ids
+we thus refer to the problem corresponding to the example as partition into anonymous parts and to the problem responding to the second example as partition into distinguishable parts
+anonymous parts the problem of partitioning set of projects into anonymous parts is formally equivalent to the problem we mainly study in this paper with the only difference that we restrict the input partitions as well as the output partition to consist of at most parts
+due to of mirkin distance minimization given by chen et al
+total pa is even for
+an interesting approach to the problem of aggregating partitions into anonymous parts is via clustering for example embed the set of projects into metric space where each project pi is an ment and the distance between pair of projects pi and pj equals the number of voters placing pi and pj in different parts
+then one can use algorithm to projects acting as centers and viewing each center as representative of part assign to each center all projects that are the closest to this center among all ters
+other option would be to those centers as the set of projects that if chosen as centers would minimize the maximum tance between any pair of projects assigned to the same cluster we mention that this aggregation method does not seem to be via of the sort we consider in this paper
+studying such clustering algorithm is left for future work
+distinguishable parts this problem variant is ferent from the problem we mainly study in this paper as we are not interested in standard partitions but in partitions into distinguishable parts
+in fact we can view the input votes as well as the aggregated output as strings each vote is string of length recall that is the number of projects and each character in such string is number between to representing the type of the project pi
+thus we have in fact that for this variant is equivalent to the problem closest string
+aggregating signed partitions recall that the main motivation for our study of partition tion methods is of deciding on substitution structure for tory budgeting instances
+related task would be to decide upon complementarities structure in which projects inside tarity part in the output partition would enjoy supermodular relations in contrast to projects inside substitution structure which should suffer from submodular relations
+indeed one can use our partition aggregation methods for deciding upon complementarities ture as well as for deciding upon substitution structure
+more involved task would be to simultaneously aggregate stitution structures and complementarity structures that is given set of projects we would like to partition them into parts and cide for each part whether it is substitution part or mentarity part
+modeling this task would be natural via studying aggregation methods each voter provides partition which is partition of the set of projects such that each partition is labeled with say either for complementarity part or for substitution part the task of aggregation method would be to output over the same set of projects
+the problem of aggregating is fundamentally different than the problem we mainly study here aggregation partitions and we leave it as natural future research direction
+references haris aziz piotr faliszewski bernard grofman arkadii slinko and nimrod talmon
+egalitarian committee scoring rules
+in proceedings of ijcai pages
+haris aziz barton lee and nimrod talmon
+proportionally sentative participatory budgeting axioms and algorithms
+in ings of aamas pages
+gerdus benade swaprava nath ariel procaccia and nisarg shah
+preference elicitation for participatory budgeting
+in aaai conference on intelligence
+paola bonizzoni gianluca della vedova riccardo dondi and tao jiang
+on the approximation of correlation clustering and consensus clustering
+journal of computer and system sciences
+florian brandl felix brandt dominik peters christian stricker and warut suksompong
+donor coordination collective distribution of dividual contributions
+participatory budgeting contribution to participatory democracy
+environment and urbanization
+jiehua chen danny hermelin and manuel sorge
+note on clustering aggregation
+martin ornfelder jiong guo christian komusiewicz and mathias weller
+on the parameterized complexity of consensus clustering
+oretical computer science
+ulle endriss and umberto grandi
+piotr faliszewski piotr skowron arkadii slinko and nimrod talmon
+committee scoring rules axiomatic and hierarchy
+piotr faliszewski and nimrod talmon
+framework for budgeting methods
+rupert freeman david pennock dominik peters and jennifer wortman vaughan
+truthful aggregation of budget proposals
+aristides gionis heikki mannila and panayiotis tsaparas
+acm transactions on knowledge discovery from data tkdd
+ron shamir roded sharan and dekel tsur
+cluster graph problems
+alexander strehl and joydeep ghosh
+cluster edge reuse framework for combining multiple partitions
+journal of machine learning research

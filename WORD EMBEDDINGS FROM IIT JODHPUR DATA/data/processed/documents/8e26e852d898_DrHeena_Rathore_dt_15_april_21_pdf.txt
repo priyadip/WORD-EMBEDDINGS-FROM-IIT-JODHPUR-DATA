@@ -1,0 +1,17 @@
+cse webinar on march date and time mach at pm ist speaker heena rathore university of texas sa usa title brain variable reward structure for cooperative machine learning in iot network abstract recent advances in machine learning research have resulted in techniques where the reinforcement learning rl agents are focused on either using methods or methods with the goal of reducing variance in the reward signal thereby trying to reach an optimal state in the shortest period
+metrics such as the number of iterations taken to reach optimal reward structure or the number of interactions needed with the environment to achieve this are generally used as key performance indicators
+there is large body of research work that shows how the agents can achieve this using either large amounts of training data or using complex algorithms that require power and computational elements
+but such strategy may not be applicable for resource and network of iot devices and more importantly differs fundamentally from how humans learn
+to overcome this challenge we have been looking at the field of neuroscience to derive inspiration from how the human brain works specifically towards the release of dopamine in response to variable reward structure
+typical rl systems focus on receiving observations from the environment calculating reward and then deciding on the next set of actions at fixed intervals or based on fixed responses
+however scientific research on human brain activity has shown higher activity in dopamine release in response to rewards received at variable times
+in this presentation findings on two particularly interesting areas in neuroscience and psychology are presented one is related learning which supports the concept of cooperative learning
+it has been shown that the active dopamine release activity will be available to increase the processing of new information
+second is related to the study that has found that cooperative groups generate more participation and stimulate multiple brain regions
+in such an environment the efficiency of the network increases dramatically
+we will discuss how rl techniques can learn from this behavior especially in an iot system that may contain several nodes
+rather than expecting agents running on all the nodes at fixed time intervals our research investigates the efficiency gain by invoking agents at different time instances thereby providing them with an opportunity to receive reward signals
+just like variable reward structure results in increased dopamine activity in human brains such an approach can help achieve higher efficiency in iot systems
+about the speaker dr heena rathore is an assistant professor at the university of texas san antonio usa
+prior to that she was visiting assistant professor at texas university usa
+she also worked as data scientist and program manager at hiller measurements for professional and major trade publications major media such as microwave journal

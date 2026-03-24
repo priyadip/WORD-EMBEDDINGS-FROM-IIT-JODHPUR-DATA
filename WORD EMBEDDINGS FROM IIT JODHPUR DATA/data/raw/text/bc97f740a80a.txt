@@ -1,0 +1,23 @@
+SOURCE_URL: https://iitj.ac.in/Electrical-Engineering/en/Design-and-Development-of-NavIC-Receiver
+
+Design and Development of NavIC Receiver
+Design and Development of NavIC Receiver
+Design and Development of NavIC Receiver
+Design and Development of NavIC Receiver
+Arun Kumar Singh, PI / Ministry of Electronics and Information Technology, Government of India / Completion in 2020 The aim of the project is to design and develop an indigenous dual frequency NavIC Receiver. The work includes design and development of baseband signal processing algorithms for signal acquisition, code and carrier tracking, control lock detection, accumulated delta range computation and data demodulation. NavIC signals are inherently weak and susceptible to both accidental and intentional interference from terrestial systems operating in NavIC frequency band and multipath interference caused by ionospheric reflection/refraction, and reflection from terrestrial objects in the neighborhood of the NavIC receiver. The scope of the proposed work also includes development of algorithms, for multipath mitigation, anti-jamming and anti-spoofing, that ensure proper functioning of NavIC receiver even in the indoor and urban environments with relatively high interference levels.
+The aim of the project is to design and develop an indigenous dual frequency NavIC Receiver. The work includes design and development of baseband signal processing algorithms for signal acquisition, code and carrier tracking, control lock detection, accumulated delta range computation and data demodulation. NavIC signals are inherently weak and susceptible to both accidental and intentional interference from terrestial systems operating in NavIC frequency band and multipath interference caused by ionospheric reflection/refraction, and reflection from terrestrial objects in the neighborhood of the NavIC receiver. The scope of the proposed work also includes development of algorithms, for multipath mitigation, anti-jamming and anti-spoofing, that ensure proper functioning of NavIC receiver even in the indoor and urban environments with relatively high interference levels.
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

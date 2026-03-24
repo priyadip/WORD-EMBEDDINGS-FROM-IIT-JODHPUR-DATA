@@ -1,0 +1,354 @@
+contents lists available at sciencedirect bulletin des sciences journal homepage geometry of clairaut riemannian warped product submersions arkadeepta roy kiran meena hemangi madhusudan shah department of mathematics research institute ci of hbni chhatnag road jhunsi prayagraj uttar pradesh india department of mathematics indian institute of technology jodhpur nh article history received august available online november msc primary secondary keywords clairaut submersions riemannian warped product trivial warping harmonic maps conformal flatness einstein manifolds in this paper we introduce and study the concept of clairaut riemannian warped product submersions between riemannian warped product manifolds
+by generalizing the notion of clairaut riemannian submersions to the setting of riemannian warped product submersions we define such submersions via warping function satisfying clairaut relation along geodesics
+we establish necessary and conditions under which riemannian warped product submersion satisfies the clairaut condition showing that it holds if and only if the girth function defining the clairaut condition has horizontal gradient one component of the fibers is totally geodesic and the other is totally umbilical with mean curvature vector governed by the warping function
+we examine the geometric consequences of this structure study the harmonicity conditions and the behavior of the weyl tensor etc
+additionally we illustrate the theory with several examples
+in the latter part of the paper we explore detailed study of the curvature behavior of such submersions
+explicit formulas for the riemannian ricci and sectional curvature tensors of the source space are derived in terms of the geometry of the target and fiber manifolds as well as the warping and girth functions
+these computations provide geometric insight into how warping and corresponding author
+elsevier masson sas
+all rights are reserved including those for text and data mining ai training and similar technologies
+the clairaut condition curvature properties such as conformal flatness and the of certain mixed curvatures
+we also analyze the conditions for trivial warping of the source manifold and for the fibers to be locally symmetric
+furthermore the einstein condition has been explored in various scenarios
+finally we also extend and answer question posed in to the setting of clairaut warped product submersion
+introduction isometric immersions and riemannian submersions have been the subject of extensive study and have wide applications including theory theory supergravity and superstring theories among others
+they are also used to struct some riemannian manifolds with positive or sectional curvature as well as einstein manifolds
+these notions become more interesting in the context of product manifolds as riemannian warped product manifolds have applications in the construction of schwarzschild and cosmological models and in the identification of new classes of hamiltonian stationary lagrangian submanifolds
+every riemannian manifold hence the warped product manifold can be embedded in some euclidean space
+let m1 and m2 be two smooth maps between riemannian manifolds and let n1 and m1 be two smooth functions
+define smooth map m1 m2 n2 between warped product manifolds such that p1 p2 p1 p2
+then we have the following notions
+if and are isometric immersions then is also an isometric immersion namely warped product isometric immersion
+if and are riemannian submersions then is also riemannian submersion namely riemannian warped product submersion
+we note that warped product isometric immersions have been explored in the literature see
+on the other hand the notion of riemannian warped product submersion was recently introduced by erken and murathan
+although erken et al
+studied some properties of such mappings in we still need to explore more of the geometry of such submersions in depth
+with that inspiration the present paper investigates various geometric properties and their applications to such submersions
+the clairaut relation states that for every geodesic on surface of revolution sin is constant where is the distance of point of from the axis of rotation and is the angle between the tangent vector of the geodesic and the meridian
+motivated by the importance of the clairaut relation and geodesics bishop introduced the concept of clairaut riemannian submersion as follows
+riemannian submersion between two riemannian manifolds and is said to be clairaut riemannian submersion if there exists function such that for any geodesic on the function sin is constant where at any is the angle between and the horizontal space at
+furthermore meena and zawadzki extended this notion to the notion of clairaut conformal submersion in
+however for particular dilation both become the same
+in this paper we generalize the concept of clairaut riemannian submersions to the tion of clairaut riemannian warped product submersions and explore various geometric properties of such submersions to fill the gap
+clairaut riemannian warped product maps have been recently explored in which are particular riemannian warped product maps
+very recently explored whether riemannian submersions preserve metric quantities such as the intermediate ricci curvature
+the paper is organized as follows
+in section we recall some basic information that is needed for subsequent sections
+section is dedicated to the notion of clairaut riemannian warped product submersion with examples
+it also covers such submersions with some conformally changed metrics
+section covers harmonic tions for clairaut riemannian warped product submersions
+further in section we derive the curvature relations mainly for the riemannian scalar and ricci curvature tensors
+finally section covers various geometric implications and important results such as symmetry conformal flatness trivial warping einstein condition etc
+preliminaries in this section we review some key notions and results that will be required for our investigation throughout the paper
+let be smooth map between two riemannian manifolds and let tpm be its derivative map at for each regular value is an dimensional submanifold of the submanifolds are called fibers of
+if we assume is surjective for all then considering ker for any we obtain an integrable distribution to the foliation of determined by the fibers of such that where
+each is called the vertical space at vertical distribution and the sections of vertical vector fields
+at any we have tpm is called the horizontal space at horizontal distribution and the sections of horizontal vector fields
+thus vector field on is called vertical if it is always tangent to the
+consequently vector field on is called horizontal if it is always orthogonal to the fibers
+moreover vector field on is called basic if is horizontal and to vector field on
+in addition we denote the projection morphism on the distributions ker ker respectively
+then we have the following notion of riemannian submersion
+let be smooth map between two riemannian manifolds
+the map is called riemannian submersion if it satisfies the following properties is onto
+ii is surjective mapping of maximal rank at any point
+iii the lengths of the horizontal vectors
+neill defined the fundamental tensors of riemannian submersion defined as above
+these tensors are extensively used to study the geometry of riemannian mersions
+they are on and are given by the following formulae for any vector fields and on where the connection of
+we also have the following lemmas from
+for any vertical vectors and horizontal vectors on the tensor satisfy lemma
+if are basic vector fields on to respectively then ii is basic to iii is basic vector field corresponding to where is the connection on iv for any vertical vector field is vertical
+moreover if is basic and is vertical then axu
+in addition from and we have for and where on any fiber with the connection with respect to the metric induced by on
+observe that acts on the fibers as the second fundamental form
+restricted to vertical vector fields it can be seen that is equivalent to the condition that the are totally geodesic
+riemannian submersion is called riemannian submersion with totally geodesic fibers if vanishes identically
+be an orthonormal frame of
+then the horizontal vector field tuiui is called the mean curvature vector field of the fibers
+riemannian submersion is called riemannian submersion with totally umbilical fibers if for
+for any tm te and ae are operators on tm that reverse horizontal and vertical distributions in the following sense tef teg and aef aeg for any tm
+according to lemma the horizontal distribution integrable if and only if
+we denote the riemannian curvature tensor of the vertical and horizontal distributions by and
+then we have the following equations that provide curvature relations between them where and
+now we recall the notion of warped product manifold
+let m1 g1 and m2 g2 be two riemannian manifolds
+let m1 be positive smooth function
+then warped product m1 m2 of m1 and m2 is the cartesian product m1 m2 with the metric g1
+more precisely the riemannian metric on m1 m2 is defined for vector fields on m1 m2 by where m1 m2 and m1 m2 are projections
+we recall that these projections are submersions
+in this case it can be easily seen that the fibers m2 and the leaves m1 are riemannian submanifolds of m1 m2
+for more details we refer to and
+the following lemma describes the connection on warped product lemma
+let m2 be warped product manifold and and denote the connections on m1 and m2 respectively
+if e1 f1 are vector fields on m1 and e2 f2 are vector fields on m2 then is the lift of e1f1 iv tan is the lift of e2f2 where denotes the gradient of the fundamental tensors associated with riemannian submersions play central role in the study of riemannian warped product submersions in particular
+they give rise to the fundamental equations involving these tensors as follows
+let m1 m2 n1 n2 be nian warped product submersion between two riemannian warped product manifolds
+if ui vi and xi yi then we have roy et al
+clairaut riemannian warped product submersions in this section we define clairaut riemannian warped product submersions and cuss some examples
+first we introduce the notion of clairaut riemannian warped product submersion motivated by bishop idea of clairaut riemannian mersion see
+riemannian warped product submersion between two riemannian warped product manifolds and is said to be clairaut riemannian warped product submersion if there exists function such that for any geodesic on the function sin is constant where at any is the angle between the following proposition gives necessary and conditions for curve on warped product manifold to be geodesic
+this will be used to prove the main result of this section
+let be riemannian warped product submersion
+let be regular curve on such that u1 u2 and x1 x2
+then is geodesic on if and only if and proof
+let be regular curve on parametrized by arc length such that where and
+let x1 x2 and u1 u2 where xi ui
+we know that is geodesic on if and only if that is roy et al
+then applying lemma and separating the horizontal and vertical parts we obtain the required conditions
+now we state and prove the main result of this section
+the clairaut condition for riemannian warped product submersion let be riemannian warped product submersion with connected fibers
+then is clairaut with where is smooth function called girth function if and only if is horizontal ii the fibers of are totally umbilical with mean curvature vector field h1 and iii the fibers of are totally geodesic
+let be geodesic and for u1 u2 x1 x2
+let denote the angle in between and
+then similar to the proof of theorem and theorem one can show that is clairaut with if and only if we have along where u1 u2 are vertical and horizontal components of respectively
+now we proceed to show that is horizontal
+for m1 m2 let w1 w2 where wi mi
+if we consider any geodesic with initial vertical tangent vector that is assuming equivalently x1 x2 then from we have which implies that
+hence is constant on any fiber as the fibers are connected
+hence is horizontal that is w1 w2 are both horizontal
+thus becomes here x1 x2 w1 w2 x1 w1 x2 w2 and u1 u1 u2 u2
+so we have roy et al
+in the following steps we establish the remaining statements
+let us consider the geodesic with initial tangent vector for arbitrary
+then from we have subtracting and we obtain which must hold for all so we must have using and in we have since we have assumed that u1 u2 x1 x2 are all from we x2 w2
+since w2 is horizontal we have w2 thus w1
+from we conclude which gives since and are both horizontal vector fields on m1 we have roy et al
+from we as w2 we have but t2 u2 u2 is horizontal vector field on m2 we have this shows that has totally geodesic fibers as if the dimension of the fibers is one this is immediate
+and if the fibers are of dimension if and are orthogonal vertical vectors in m2 then and
+then for u2 by we have similarly u2 in yields taking the of and we have for any two orthogonal vertical vector and on m2 t2
+thus we can write for any vertical and horizontal x2 on m2 and hence t2 which shows that has totally geodesic fibers
+again from we have this gives by the same lines as above for any vertical vector fields on m1 consequently the above equation shows that has totally umbilical fibers with mean curvature vector field roy et al
+this proves our theorem
+now we have the following immediate corollaries
+let m1 m2 n1 n2 be clairaut mannian warped product submersion with and horizontal integrable distribution
+let denote the leaves of the horizontal foliation of and and denote the fibers of and respectively
+then we have the following m1 locally splits as twisted product m1 and consequently m1 the universal cover of m1 splits as m1
+in addition m2 locally splits as product m2 and consequently m2
+hence locally splits as ii if hess then we have local splitting of m1 as m1
+hence locally proof
+the proof follows from proposition
+let be clairaut riemannian warped product submersion with connected fibers and
+let be function on such that for all we have then is clairaut riemannian warped product submersion with
+clearly for and hence is riemannian warped product submersion
+in fact it is clairaut riemannian warped product submersion by theorem
+let be clairaut roy et al
+positive function on such that then is clairaut riemannian warped product submersion with
+then is clairaut riemannian warped product submersion with
+let be clairaut riemannian warped product submersion with
+then we have the laplacian of proof
+since is clairaut riemannian warped product submersion the fibers of are connected is horizontal and
+now in some neighborhood of fixed point we choose parallel basis e1
+m2 where e1 m1 e2 and m2 denote the orthonormal frames of the vertical and horizontal distributions of and respectively
+then now we construct some examples of the clairaut riemannian warped product example
+let be riemannian submersion with connected and totally geodesic fibers
+let be function on and the metric on given by for any
+this makes clairaut riemannian submersion where on similarly to example it is easy to see that the fibers of are totally umbilical with the mean curvature vector h1
+now consider with m1 m2 n1 n2 equipped with warped product metrics and where and is given by then is clairaut riemannian warped product submersion with where roy et al
+this gives wide class for examples of clairaut riemannian warped product submersions where one can vary and get new examples
+consider map r4 g1 r3 where g1 both are standard metrics defined by then is clairaut riemannian submersion with for ln
+the of are totally umbilical with mean curvature vector field also consider the projection map g2 rn where g2 both are the standard metrics defined by then is riemannian submersion with totally geodesic fibers and hence clairaut riemannian submersion trivially
+now consider with g1 g2 and where and are given by then is clairaut riemannian warped product submersion with where and
+now we classify all the clairaut riemannian warped product submersions from rn considered as warped product manifold
+we will use the following notation to describe bundle map
+fiber bundle is indicated as where is the base space is the total space is the fiber and is the bundle map of the fiber bundle
+then m1 m2 where is the warping function and the warped product metric is dr2
+then any clairaut riemannian warped product submersion with is classified as follows n1 for some and given by
+then from the relation we have defined by bx roy et al
+n1 and is
+then from the relation is also
+in both cases we have at any ker and ker where is the basis of also now we want sm to be riemannian submersion with totally geodesic fibers
+assuming of then as fiber bundle is one of the following types as classified in s1 for s3 for
+harmonicity in this section we study the harmonicity for clairaut riemannian warped product submersions
+to obtain harmonic conditions we need their second fundamental form the tension field etc
+we recall these concepts here
+the second fundamental form of map between two riemannian manifolds is defined as in for any local vector fields on where the connection of and the pullback of the connection of to the induced vector bundle tn
+furthermore the tension field is defined as the trace of that is where ei is local orthonormal frame around point
+moreover we say that is harmonic map if and only if vanishes at each point
+using these concepts we have the following result
+then is harmonic if and only if either h1 or m1 m2
+here where e1
+is basis of m1 m2
+hence this implies that if and only if m1 m2 that is either m1 m2 or
+but and are riemannian submersions so m1 and m2 and thus m1 m2 gives m1 m2
+thus we conclude that roy et al
+then is harmonic if and only if either is product or dim m1 dim n1 and dim m2 dim n2
+curvature relations in this section we derive formulae for the riemann curvatures ricci curvatures and sectional curvatures for the source manifold of clairaut riemannian warped product submersion with
+in the sequel m1 m2 will denote clairaut riemannian warped product submersion with and xi yi zi hi ui vi wi fi
+m2 denote the orthonormal frames of the vertical and horizontal distributions of and respectively in some neighborhood of fixed point
+in what follows r1 and r2 denote the riemannian curvature tensors of m1 and m2 respectively and r1 and r2 denote the riemannian curvature tensors of of and respectively
+then by we have the following lemma
+let m1 m2 be warped product manifold
+let hessf denote the hessian of if e1 f1 g1 m1 and e2 f2 g2 m2 then ii e1 f2 f1 hessf e1 f1 using appropriate applications of lemmas and clairaut condition of orem together with the curvature relations mentioned in section and performing some straightforward computations we obtain the following relations
+let m1 m2 n1 n2 be clairaut riemannian warped product submersion with
+then for any xi yi zi hi ui vi wi fi the following relations hold roy et al
+hessf u1 x1 u2 v2 hessf x1 u1 u2 v2 hessf x1 y1 u2 v2 hessf u1 x1 x2 y2 hessf x1 v1 x2 y2 u1 u2 v1 e1 for any e1 tm1 u1 u2 v1 x2 x1 x2 y1 e1 for any e1 tm1 x1 x2 y1 u2 e2 g2 e1 for any e1 tm1 e2 g2 tm2 and tm u1 u2 v2 x2 u1 u2 y2 v2 u1 u2 y2 y1 u1 u2 y2 y2 x1 u2 v2 e2 for any e2 tm2 x1 u2 y2 for any tm
+from theorem we observe that for ui vi wi we have roy et al
+let sec sec1 and sec2 denote the sectional curvatures of m1 and m2 respectively and sec sec1 and sec2 denote the sectional curvatures of the fibers of and respectively
+then by direct computation using theorem the following relations for the sectional curvature can be obtained
+let m1 m2 n1 n2 be clairaut now we compute the ricci curvatures using theorem
+let ric ric1 and ric2 denote the ricci curvatures of m1 and m2 respectively
+and ric ric1 and ric2 denote the ricci curvature of fibers of and respectively
+and xi yi ricrange for
+then we have the following relations
+let m1 m2 n1 n2 be clairaut ui vi wi fi the following hold ric u2 v2 ric2 u2 v2 u2 v2 roy et al
+recall that e1
+m2 and m2
+then using theorem we compute substituting the values from and in we obtain roy et al
+similarly we can establish and
+geometric implications of curvature relations this section is dedicated to the applications of the curvature relations obtained in the previous section
+we present each case individually in the subsections
+local symmetry in this subsection we discuss the local symmetry of the fibers of clairaut nian warped product submersion
+we know that riemannian manifold is locally symmetric if and only if
+using this fact we have the following result
+let m1 m2 n1 n2 be clairaut riemannian warped product submersion with and
+if is locally symmetric then the fibers of and are also locally symmetric
+since is symmetric we have for all ker
+this implies that and
+thus for any e1 u1 v1 w1 ker we have employing equation lemma and theorem the above equation yields using remark and the fact into the above equation we get roy et al
+since we have t1 e1 u1 v1 w1 we conclude that hence the fibers of are locally symmetric
+in addition proceeding similarly using remark lemma and theorem we can show that the fibers of are also locally symmetric
+in the setting of the above theorem the fibers of and are locally symmetric subspaces of moreover if we suppose that the leaves of the horizontal spaces of and are integrable and complete then they must also be locally symmetric subspaces of consequently locally and the universal covering space of can be written as warped product proposition
+suppose that the fibers of and are complete
+if is space form having sectional curvature then the fibers of and are also space forms having sectional curvature and respectively
+in addition if the horizontal spaces of and are integrable and complete they are also space forms having sectional curvatures and respectively
+under the hypothesis of the above proposition additionally assuming that the leaves of the horizontal spaces of and are integrable and complete we get to the following classification if that is is isometric to euclidean space then and are isometric to and respectively
+also and must be totally geodesic submanifolds of so they must be isometric to rn1 and sn2 respectively
+ii if by similar argument we get
+local conformal flatness now we turn to establish the relationship between the local conformal flatness of and that of the fibers of m1 and m2
+first we recall that riemannian manifold is said to be locally conformally flat if every point has neighborhood that is conformally equivalent to an open subset of euclidean space
+now we prove the following result
+assume that the fibers of and are of dimension
+if is locally conformally flat then the fibers of and are also locally conformally flat
+to prove our claim we use an equivalent criterion given in theorem which says that the local conformal flatness of is equivalent to at every point and for every quadruple of orthogonal vectors e1 e2 e3 e4 let p1 p2 and u1 v1 w1 f1 be four orthogonal vectors in tpm
+since is locally conformally flat we have using corollary in the aforementioned equation we obtain note that as is riemannian submersion its fibers are submanifolds of m1
+hence using the preceding criterion we conclude that the fibers of are locally conformally
+in addition one can show the local conformal flatness of the fibers of along similar lines
+we know that riemannian manifold is locally conformally flat if and only if its weyl tensor is identically zero for details see
+hence we conclude that roy et al
+under the hypotheses of theorem if is locally conformally flat then the weyl tensors of and are identically zero
+in other words and is weyl flat
+trivial warping in this subsection as another application of theorem we discuss some of the cases where the source manifold of admits trivial warping
+in what follows we let m1 m2 n1 n2 be clairaut riemannian warped product submersion with connected fibers and
+recall that dim m1 m1 dim m2 m2 dim n1 n1 and dim n2 n2
+if is clairaut riemannian warped product submersion between m1 m2 and n1 n2 with then the warping function is trivial attains maximum minimum provided sec and for m1 n1 ii attains maximum minimum provided sec x1 x2 for all xi for m1 n1
+from theorem we have where u1 v1 and x1 y1
+consider parallel orthonormal bases e1 m1
+m1 of m1 in neighborhood of some fixed point
+then the aforementioned equation yields roy et al
+we have by corollary and e1 e1
+also recall that
+thus we have by hypothesis sec for all and then sec e1 for all
+then from we have fix smooth function
+then consider the elliptic operator acting on with respect to defined in as
+in particular choosing we obtain then from we have since is riemannian submersion we know m1
+if m1 then from we have that is is subharmonic with respect to
+then invoking the strong maximum principle we have that if attains maximum then is constant
+ii if m1 n1 we use theorem which states that for any xi yi we have proceeding similarly to above we get by hypothesis sec x1 x2 for all xi then sec for all
+m1 and m2
+m2 and consequently we have that is is subharmonic
+then invoking the strong maximum ple we see that if attains maximum then is constant
+hence in both cases m1 m2
+thus we have the following immediate corollary
+within the framework of theorem if m1 is compact then has trivial warping and becomes product manifold
+let be clairaut riemannian warped product submersion between m2 and with
+suppose that has constant sectional curvature and m1 is compact
+then the warping function is trivial and in this case and consequently m1 and m2 are flat
+without loss of generality we assume that
+if then the argument follows in similar way
+since m1 is compact reaches maximum and minimum
+then by theorem is trivial and thus becomes product
+to prove the flatness we argue as follows for any ei fi mi we have from lemma since is constant hessf e1 f1
+also having constant sectional curvature implies that then gives e1 f1 f2 e2
+thus and therefore is flat
+over lemma ensures that m1 and m2 are flat
+in addition if then by similar argument is constant
+consequently m1 and m2 are flat by virtue of lemma
+let denote the universal cover of in the aforementioned setup we have rm2 or where iso rmi
+let m1 m2 n1 n2 be clairaut riemannian warped product submersion with connected fibers
+under the hypothesis of theorem if m1 is compact then has sectional curvature
+einstein condition this subsection is devoted to exploring the geometry of clairaut warped product submersion when is einstein
+by we know that riemannian manifold is einstein if its ricci tensor satisfies ric where is constant
+finally we conclude the section by investigating question posed in as an extended of clairaut warped product submersion
+we start with the following results
+let m2 be clairaut riemannian warped product submersion with connected fibers integrable horizontal tribution and
+if has constant sectional curvature then the fibers of are einstein if mi for
+for any u1 v1 from corollary we have using the fact that has constant sectional curvature sec we have also from the assumption that the horizontal distribution is integrable we have
+thus from the above equation we have the following if dimension of the fibers of is m1 then invoking schur lemma we can conclude that the fibers of are einstein and consequently by similar argument the fibers of are einstein if dimension of the fibers of is m2 and we get corollary
+in the same of theorem we find that is distance function that is with constant
+comparing the equations and we get constant and which shows that is distance function
+let m1 m2 n1 n2 be clairaut riemannian warped product submersion with with connected fibers
+if is einstein then the fibers of and have constant scalar curvatures
+moreover the scalar curvature restricted to the horizontal space of is also constant
+from corollary we have for u1 v1 if is einstein with ric that is ric u1 v1 u1 v1 then we taking trace over the basis e1
+m1 of we have with respect to u1 we have which shows that sec1 and hence sec1 is constant
+that is the fibers of have constant scalar curvature
+similarly we can show that the fibers of also have constant scalar curvature
+now we proceed to prove the last statement
+from corollary we have for x2 y2 if is einstein with ric that is ric x2 y2 x2 y2 then roy et al
+taking trace over the basis m1
+m2 we have along x2 we get now let us take the divergence of
+then x2 which implies that x2 and hence constant
+let m1 m2 n1 n2 be attains the minimum maximum then m1 m2 is riemannian product manifold provided is einstein and m2 m1 proof
+by theorem is constant
+then employing we obtain assuming that the leaves of that is are integrable and compact we have which implies that as is compact there exists some point p1 p2 with p1 such that which implies and consequently n2
+hence using corollary we have from roy et al
+thus as that is is subharmonic
+then using the fact that is compact we find that attains maximum and consequently we establish that is constant
+if we find that is constant which implies that is constant and hence admits trivial warping
+question posed in in order to build new compact einstein manifolds from the given ones it was questioned in does there exist compact einstein warped product manifold with warping function
+indeed proposition of answers this question by constructing compact einstein warped product space
+in analogy we can ask does there exist compact einstein warped product manifold m1 m2 admitting clairaut riemannian warped product submersion with
+we attempt to answer this question in the following theorem
+suppose that g1 is manifold and is smooth function on satisfying for constant and m1 m2 n1 then satisfies for constant
+hence for compact einstein space g2 of dimension m1 m2 with we can make compact einstein warped product space with where g1 g2 g1 g2 being the riemannian metrics on and respectively
+moreover if we take compact einstein manifolds of dimension m1 and of dimension m2 satisfying roy et al
+respectively then is compact einstein warped product manifold admitting clairaut riemannian warped product submersion with integrable horizontal distribution whose fibers are and and the leaves of the horizontal spaces are and respectively
+to prove the above theorem we need to prove the following proposition
+let m1 m2 n1 n2 be is einstein then the following identity holds for any x1 proof
+for x1 y1 from corollary we have since is einstein ric x1 y1 x1 y1
+thus we have which reduces to also we can choose parallel basis while taking the trace and get roy et al
+along x1 we get again using the parallel basis argument we have also from we get which shows that now we take the divergence of and get when acted on x1 this reduces to comparing and we get roy et al
+now we come to the proof of theorem
+we prove the theorem by extending proposition using similar technique
+the required steps follow from corollary equation and the fact that for horizontal integrable distribution
+credit authorship contribution statement conceptualization methodology investigation validation writing draft review ing and reading have been performed by all the authors of the paper
+ethics approval the submitted work is original and not submitted to more than one journal for multaneous consideration
+consent to participate not applicable
+consent for publication code availability funding declaration of competing interest the authors have no conflict of interest and no financial interests in this article
+acknowledgements arkadeepta roy gratefully acknowledges research institute graj india for its doctoral research fellowship
+in addition all the authors are thankful to the reviewer for comments towards improvement
+dedication the author kiran meena dedicates this paper to celebrate the birth of her first child madhav meena
+data availability no data was used for the research described in the article
+references aso yorozu generalization of clairaut theorem and umbilical foliations nihonkai math
+besse einstein manifolds berlin heidelberg new york
+bishop neill manifolds of negative curvature trans
+bishop clairaut submersions in geometry in honor of yano kinokuniya
+chen warped product immersions geom
+chen geometry of warped product manifolds and submanifolds world scientific publishing pte
+chen geometry of warped products as riemannian submanifolds and related problems chow
+chen dillen warped product decompositions of real space forms and stationary lagrangian submanifolds nonlinear anal
+erken murathan riemannian warped product submersions result
+siddiqui inequalities on riemannian warped product submersions for casorati curvatures mediterr
+falcitelli ianus pastore riemannian submersions and related topics world scientific river edge nj
+trudinger elliptic partial equations of second order springer berlin phelan wilhelm do riemannian submersions preserve positive intermediate ricci curvature arxiv preprint
+escobales jr submersions from spheres bull
+kim compact einstein warped product spaces with nonpositive scalar curvature
+kulkarni curvature structures and conformal transformations
+lee introduction to riemannian manifolds springer cham
+meena zawadzki clairaut conformal submersions bull
+meena shah geometry of clairaut conformal riemannian maps aust
+meena shah riemannian warped product maps result
+moore isometric immersions of riemannian products
+nash the imbedding problem for riemannian manifolds ann
+nore second fundamental form of map ann
+isometric immersions of warped products
+neill the fundamental equations of submersion mich
+neill geometry with applications to relativity academic press new york petersen riemannian geometry third edition springer london
+ponge reckziegel twisted products in geometry geom
+pressley elementary geometry springer london
+riemannian submersions riemannian maps in hermitian geometry and their tions academic press
+tojeiro conformal immersions of warped products geom
+yadav kaur shanker on the geometry of riemannian warped product maps arxiv

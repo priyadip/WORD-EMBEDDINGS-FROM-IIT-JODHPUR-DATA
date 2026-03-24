@@ -1,0 +1,97 @@
+SOURCE_PDF: 64b7a51d8a07_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Network
+Fundamentals - Introduction to the OSI and TCP/IP Model
+- Introduction to IPv4 (Internet Protocol)
+- IPv4 Packet Header
+- Address Resolution Protocol (ARP)
+- Introduction to TCP and UDP
+- TCP Header
+- Introduction to ICMP
+- Introduction to DNS, DNS lookup
+- User mode and Privileged mode
+- Spanning tree protocols
+- Network Topology
+- Different Type of Network devices and its configurations
+- PoE, NTP
+- Public and Private IP Addresses
+- Multicast
+- NGFW and IPS
+- Network Collisions, Jitter, Latency, Delay etc.
+- Security Concepts( Threats, Vulnerabilities, exploits etc)
+Switching - MAC learning and Aging
+- Frame switching and Flooding.
+- Layer 2 Discovery Protocol
+- L2 vs L3 Switching
+- Layer 2 and Layer 3 Ether Channel (LACP, PAGP)
+- VoIP
+- STP
+VLANs - VLANs Basic, VTP
+- How to configure VLANs, Trunk etc.
+- L3 and L2 VLAN
+IPv4 Subnetting and
+Super netting - Introduction to Subnetting and Supernetting
+- Basics of Binary Numbers
+- Subnetting in Binary, Decimal (Fast Method)
+- Classless Inter-Domain Routing (CIDR)
+- Variable Length Subnet Mask (VLSM)
+- Hexadecimal to Binary and Decimal Conversion
+IPv6 - Introduction to IPv6
+- Shortening IPv6 Addresses
+- How to find IPv6 Prefix
+- IPv6 Address Types
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL ASSISTANT
+(Integrated Information System (IIS) Division)
+(WRITTEN TEST & SKILL TEST)
+
+DHCP (Dynamic
+Host Configuration
+Protocol) - Introduction to DHCP
+- DHCP Server Configuration
+- DHCP Relay Agent
+- DHCP Client
+Routing - Default Gateway
+- Static and Dynamic Routing
+- Inter VLAN Routing
+- OSPF, BGP
+- Routing table
+- Classful v/s Classless Routing
+- Routing Protocol-Prefix, Network Mask, Administrative Distance,
+Gateway, Next-Hop, Metric etc.
+- Routing loops
+Security - AAA Authentication Protocol
+- ACL
+- Port Security
+- Device Access
+- Layer 2 Security Features (DHCP Snooping, Dynamic ARP Inspection,
+Port Security etc)
+Device Management - Introduction to SNMP
+- Syslog configuration and management
+- Flows
+- System Dump
+- Configuration Backup
+- OS upgradation
+NAT - Introduction to NAT and PAT
+- NAT Static & Dynamic
+- Port Address Translation (PAT)
+Other Service - Introduction to Quality of Service (QoS)
+- Port Channel
+- VoIP
+- IP Phone management etc.
+- CCTV and Physical Access Control
+- IoT and OT device
+- Data Center Monitoring
+- NMS Management
+Passive Networking - Lan cable color code
+- Crimping of Ethernet cables, I/Os
+- Testing and rectification of faulty cables.
+- Network RACK
+- Physical Interfaces and Cabling Types (Single Mode, Multimode Fiber)
+- Troubleshoot interface and cable issues
+Wireless - Introduction to Wireless Networks
+- Introduction to Wireless LANs
+- Wireless LAN 802.11 Service Sets
+- Introduction to Wireless Security
+- Wireless Authentication Methods
+- Wireless Encryption and Integrity

@@ -1,0 +1,23 @@
+all research highlights structure and exfoliation mechanism of boron nanosheets tittle of the paper structure and exfoliation mechanism of boron nanosheets nature communications pranay ranjan department of metallurgical and materials engineering iit jodhpur description exfoliation of nanosheets from der waals crystals represents an emerging strategy for materials engineering that could significantly increase the library of materials
+yet the exfoliation mechanism in which nanosheets are derived from crystals that are not intrinsically layered remains unclear
+here we show that planar defects in the starting boron material promote the exfoliation of boron combining exfoliation scanning transmission electron microscopy raman spectroscopy and density functional theory calculations
+we demonstrate that boron nanosheets consist of planar arrangement of icosahedral cleaved along the planes of boron
+correspondingly intrinsic stacking faults in boron form parallel layers of faulted planes in the same orientation as the exfoliated nanosheets reducing the cleavage energy
+planar defects represent potential engineerable pathway for exfoliating sheets from boron and more broadly the other covalently bonded materials
+figure liquid phase exfoliation of boron
+schematic depiction of products through exfoliation from van der waals vdw crystals isotropic polycrystalline materials and boron
+scanning electron microscopy sem images of the starting boron material sample sample and sample yamanaka advanced materials
+converged beam transmission electron microscopy tem image and corresponding annular darkfield haadf scanning transmission electron microscopy stem image of boron sheets suspended on holey carbon tem grid
+figure role of planar defects in the exfoliation mechanism of boron
+tem bf image of boron sample with high density of planar defects in the bottom right crystal grain stem image of boron projected along the showing sequence of parallel planar defects including twins and stacking faults dashed lines indicate the defect plane
+the icosahedral columns are represented as circles for easier visualization of the symmetry breaking due to the defects
+the magnified images of the twin boundary and stacking fault sf boxed in light blue and red respectively are shown on the right with the faulted plane marked by the black arrows
+model of the unit cell projected in the depicting the atoms red circles forming the defect planes
+density functional theory dft calculated energies for the formation of the and surfaces from the pristine crystal and from the planar defects
+schematic of the exfoliation process viewed from the orientation
+the icosahedral columns are represented as circles stacking faults as dashed lines and symmetry breaking of the crystal as solid lines
+the black arrows represent the cleaving of the crystal from the stacking faults article by pranay ranjan link research domain materials borophene tittle of the paper nature communications department of metallurgical and materials engineering iit jodhpur exfoliation of nanosheets from covalently bonded materials
+the black arrows represent the cleaving of the crystal from the stacking faults article by pranay ranjan link research domain materials borophene important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated mar pm

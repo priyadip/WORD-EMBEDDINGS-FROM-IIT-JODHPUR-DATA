@@ -1,0 +1,103 @@
+SOURCE_PDF: 353a153a1df9_National_20Ranking_20_Important_.pdf
+
+Parameter Placement (2015 - 2016)
+3A.GPHE S.No. Academic Year Name of the Company No of students
+recruited Minimum
+salary Offered Maximum salary
+offered Average salary
+offered Median salary
+offered
+2015-2016 Angara Ecommerce Pt Ltd 2 6 6 8.35 Lakhs Median Salary
+Offered - 7 Lakhs
+C42 Engineering India Pvt Ltd 3 10.5 10.5
+Coal India Limited 7 8.2 8.2
+Cognizant 13 6.5 6.5
+Cognizant Technology Solutions 1 6.5 6.5
+CRISIL 1 6 6
+D. E. Shaw India Software Pvt. Ltd 2 24.5 24.5
+Drishti Soft Solutions Pvt Ltd. 3 24.5 24.5
+Futures First Info Services Pvt Ltd 1 8.9 8.9
+Grofers India Pvt Ltd 2 14 14
+HCL Technologies 3 7 7
+HPCL 5 10.64 10.64
+IgniteWorld Pvt. Ltd. 1 9 9
+Ishi Systems 2 10 10
+JSW Energy Ltd. 3 4.2 4.2
+Larsen and Toubro 3 5.11 5.11
+Mahindra & Mahindra Ltd 6 5.75 5.75
+Maxheap Technologies Pvt
+Ltd_(CommonFloor.com) 2 11 11
+Microsoft 3 16.9 16.9
+Morgan Stanley 3 16.17 16.17
+National Engineering Industries 2 6.39 6.39
+Nucleus Software Exports Limited 1 10 10
+Practo Technologies Pvt. Ltd 2 20 20
+Samsung India Software Center (SISC) 4 12 12
+SteelWedge Technologies Private Limited 5 9 9
+Tata Consultancy Services (R&D) 6 6.27 7
+Tata Motors Ltd 5 5.6 5.6
+Voylla Fashions Pvt Ltd_ 5 6 6
+
+3A.GPHE S.No. Academic Year Name of the Company No of students
+recruited Minimum
+salary Offered Maximum salary
+offered Average salary
+offered Median salary
+offered
+2014-2015 Aasaanjobs Private Limited 3 15 15 Avearge Salary - 8.5 Median Salary is 6.5
+Lakhs.
+Amazon 3 22 22
+BPCL 1 12 12
+C42 Engineering India Pvt Ltd 1 8 8
+Cognizant 19 6 6
+CRISIL 1 6 6
+Directi 1 22 22
+DRDO Delhi 1 6.8 6.8
+Future Supply Chain Solutions Ltd 1 3.5 3.5
+Girnar Software Pvt Ltd 1 9 9
+Havells India Ltd. 4 4.8 4.8
+HCL Technologies 2 7 7
+JSW Energy Ltd. 2 6.5 6.5
+Maxheap Technologies Pvt
+Ltd_(CommonFloor.com) 4 15 15
+Microsoft Corporation 4 18 18
+Misys Software Solutions (I) Pvt Ltd 6 7 7
+Morgan Stanley 4 13 13
+Mu Sigma Business Solutions Pvt Ltd 1 6.5 6.5
+Nagarro Software Pvt Ltd 4 6 6
+OANDA 1 7 7
+Sigmoid Analytics 3 6 6
+Snapdeal 3 15 15
+Tata Consultancy Services 5 6 7
+Tata Motors Ltd 10 5 5
+Tescra Software Pvt. Ltd. 4 6 6
+Voylla Retail Pvt Ltd 7 7 7
+
+3A.GPHE S.No. Academic Year Name of the Company No of students
+recruited Minimum
+salary Offered Maximum salary
+offered Average salary
+offered Median salary
+offered
+2013-2014 Amadeus Software Labs India Pvt Ltd 2 9.8 9.8 Average salary offered-
+7.5 Lakhs Median Salary is 6.3
+Lakhs
+ARM Embedded Technologies Pvt. Ltd. 3 9.6 9.6
+Cisco 3 12.47 12.47
+Cognizant Technology Solutions 7 6.3 6.3
+DRDO Delhi 8 6.3 6.3
+Futures First Info Services Pvt Ltd 1 8.7 8.7
+Havells India Ltd. 4 4.8 4.8
+Morgan Stanley 4 13.4 13.4
+Nagarro Software Pvt Ltd 4 6 6
+National Instruments ( R&D Division) 2 10 10
+Nucleus Software Exports Ltd. 2 6 6
+Oracle Corporation 3 7.5 7.5
+Oracle Financial Services Software Ltd. 2 7.5 7.5
+Resonance Eduventures Private Limited 2 6 6
+Samsung R&D India Institute-Delhi 3 7 7
+Free Scale Semiconductor 1 5 5
+Cisco 2 9.3 10
+Tata Consultancy Services 1 7 7
+Tata Motors Ltd 2 5 5
+Trident Group 1 9 9

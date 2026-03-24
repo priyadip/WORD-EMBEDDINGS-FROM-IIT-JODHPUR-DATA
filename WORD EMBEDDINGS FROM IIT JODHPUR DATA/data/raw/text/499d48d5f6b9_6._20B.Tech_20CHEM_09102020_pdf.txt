@@ -1,0 +1,1029 @@
+SOURCE_PDF: 499d48d5f6b9_6._20B.Tech_20CHEM_09102020.pdf
+
+1. Introduction
+Engineering disciplines have become increasingly interdisciplinary in nature and Chemical Engineering is not an 
+exception to that. The flexibility of opting for different specialization is ingrained in formulating the structure and 
+curriculum of the Chemical Engineering programme. Traditionally, Chemical Engineering teaching is focused on 
+transport phenomena, chemical engineering thermodynamics, mass transfer, fluid mechanics, heat transfer, chemical 
+kinetics, computational systems and process control. With the advent of the era of Artificial Intelligence (AI), Machine 
+Learning (ML), Molecular Engineering, Industry 4.0 in Chemical Plants; the discipline is being transformed by 
+incorporation of new emerging technologies. Through this Under-Graduate (UG) programme in Chemical 
+Engineering, IIT Jodhpur is making conscious effort to divulge from traditional path and planning to establish itself to 
+become a leading institute in this new genre of Chemical Engineering education, which includes foundational courses, 
+fundamental courses in chemical engineering, emerging areas in chemical engineering, and sustainability aspects for 
+chemical engineers. 
+ 
+The program begins with students pursuing a common foundation in mathematics, physics, chemistry, engineering 
+sciences, engineering design and programming. Students are expected to build on this foundation with the 
+concentration on core chemical engineering subjects ranging from material and energy balance, process control, 
+chemical engineering thermodynamics to chemical reaction engineering. Core courses are followed by a set of 
+departmental electives that enable students to target their degree program towards in-depth knowledge of areas 
+matching their specific interests. The program ensures that the design experience, which includes both analytical 
+studies and experiments, is integrated throughout the curriculum in a structured manner leading to advanced work. 
+Students can tailor their focus areas in consultation with a faculty advisor. Students can choose their departmental 
+electives (streams) from the following areas: 
+1. Chemical Engineering Design; 
+2. Process Engineering Intelligence 
+3. Complex Fluids & Interfacial Engineering; 
+4. Sustainability; 
+5. Molecular Engineering and, 
+6. Biochemical Engineering. 
+7. Comprehensive understanding of these areas will provide graduates with the ability to adapt and maintain
+leadership roles through the application of fundamental principles to a rapidly changing and growing discipline. 
+The curriculum also offers numerous options that enable students to gain practical experience, ranging from 
+collaborative projects in industries to entrepreneurship opportunities at the institute's incubation centre.
+2. Objective of the program
+The key objectives of this program are to:
+1. Enable students to have fundamental understanding of the core concepts of Chemical Engineering. 
+2. Offer opportunities for specialization in emerging and multidisciplinary areas including Molecular Engineering,
+Data Science and AI applications, Polymer Engineering, Sustainability, Biochemical Engineering and Complex 
+Fluids & Interfacial Engineering.
+3. Empower students with emerging concepts for plant design in context of chemical engineering via courses designed
+with AI, ML, and Industry 4.0 applications.
+4. Integrate analytical and computational ability with experimental skills to create individuals competent in
+professional engineering practices in the domain of Chemical Engineering.
+5. Inculcate an attitude towards commitment to engineering ethics, leadership qualities, entrepreneurship and
+professional development.
+3. Expected Graduate Attribute
+Graduates of B.Tech. program in Chemical Engineering will have: 
+1. Strong understanding of mathematics, science and engineering fundamentals of Chemical Engineering. 
+2. Aptitude to implement AI, ML, Molecular Engineering and Industry 4.0 relevant technologies in chemical
+
+3. Ability to use simulation and computational tools for a better understanding and designing of chemical
+4. Technical competency for addressing sustainability issues and ability to provide technological solutions of
+sustainable nature.
+5. Entrepreneurial spirit to undertake disruptive innovations. 
+6. Skills to communicate engineering concepts and ideas to peers in written or oral forms. 
+7. Commitment towards professional ethics and have humanitarian engineering skills. 
+ 
+4. Learning Outcome
+Graduates of the B.Tech. program in Chemical Engineering will: 
+1. Gain a strong understanding of mathematics, science and engineering fundamentals of Chemical engineering
+including the concepts of material and energy balance; computational methods; transport phenomena; reaction 
+engineering; mass transfer; thermodynamics; heat transfer; fluid mechanics and process control.
+2. Have the ability to design a process equipment or plant to meet desired requirements under socio-economic and
+environmental constraints.
+3. Be equipped with knowledge of emerging domains: (i) Data Science & AI applications; (ii) Molecular Engineering. 
+4. Have technical capability for addressing sustainability issues related to water, energy and environment. 
+5. Receive effective hands-on laboratory training as a part of laboratory courses and short-term research projects, and
+be able to design and conduct experiments as well as to analyse and interpret data.
+6. Develop their communication skills by participating in classroom presentations, entrepreneurial events, seminars
+and workshops.
+5. New skillsets targeted
+Graduates of UG programme in Chemical Engineering at IIT Jodhpur will have, 
+1. Capability to design and develop process equipment and plants using computer-aided design and modelling
+2. Advanced technical capability to work with AI/ ML and Industry 4.0 aspects in chemical plants. 
+3. Latest industrial aptitude in the areas of Recycle and Reuse, Zero Liquid Discharge (ZLD), Wealth from Waste, AI
+in Process Engineering, Molecular Engineering, Complex fluids and Interfacial Engineering, 3D Printing Materials 
+and Processes, and Packaging of Electronic Devices.
+4. Fluency with scientific computing techniques via courses including Material and Energy Balance, Scientific
+Computations and Data Analytics in Process Modelling and Simulation.
+
+Area Topics Category Course (PC/PE/IE/IS)
+Chemical
+Engineering
+Design Fluid Statics, Dynamics, Viscous Flow,
+Turbulence and Compressible Flow
+Fundamentals, Fluid Handling. Fundamentals and
+Techniques Fluid Mechanics (PC)
+Material Balance, Energy Balance, Fundamentals Material and Energy
+Balance (PC)
+Liquid-Liquid Mass Transfer, Gas-
+Liquid Mass Transfer, Solvent
+Extraction. Fundamentals and
+Techniques Mass Transfer (PC)
+Conduction, Convection, Radiation, Fundamentals and
+Techniques Heat Transfer (PC)
+Kinetics of Homogeneous Reactions,
+Batch Reactor, CSTR, PFR. Fundamentals and
+Techniques Chemical Reaction
+Engineering (PC)
+Errors in computation, Linear systems Fundamentals Scientific Computations
+of equations, ODE, PDE (PC)
+Thermodynamics of Chemical Reaction,
+Fugacity, Thermodynamic analysis of
+processes Fundamentals Chemical Engineering
+Thermodynamics (PC)
+Process Plant Design, Equipment Fundamentals and Process Plant Design &
+Design, Cost Economics Techniques Economics (PC)
+Transport Properties, Continuity Fundamentals Fundamentals Transport Phenomena (PC) Transport Phenomena (PC)
+Different forms of Corrosion and Fundamentals Corrosion (IE)
+Industrial Management, Hazards &
+Safety, SOPs, Techniques Industrial Management and
+Safety for Chemical
+Engineers (PE)
+Product Design, Common Techniques and Product Design in Chemical
+Methodologies and Strategies Systems Engineering (PE)
+Conventional Unit Operations in
+Process Industries, Filtration and
+Membrane Separation, floatation,
+sedimentation Technique Unit Operations (PE)
+Fundamentals of Conventional
+Membrane Technology Fundamentals, Membrane Technology (PE)
+Process
+Engineering
+Intelligence Conventional Process Control, AI in
+Process Industries Fundamentals and
+Techniques Process Control and AI
+Applications (PC)
+Introduction of Machine Learning, Fundamentals Machine Learning (IE)
+Neural network era, deep learning and
+data science era, AI based modeling,
+applications Fundamentals and
+techniques Applications of Artificial
+Intelligence in Chemical
+Engineering (PE)
+Introductory Aspects of Petrochemical Fundamentals Petrochemical Engineering
+Engineering (PE)
+6. Topic clouds and Mapping of Topic clouds with proposed course 
+ 
+Table 1: Topics, and Mapping of Topics with Courses
+
+Data driven modeling of distillation
+units, FCC, catalyst regeneration units Technology and
+techniques Petroleum Refinery Process
+Modelling (PE)
+Reliability and Maintainability Fundamentals Basics of Reliability and
+Engineering, failure detection models, Maintainability Engineering
+reliability models, maintainability for System Safety (PE)
+Calibration methods, signals and
+process analysis in chemical plants,
+Spectroscopic data analysis Fundamentals and
+Techniques Chemometrics (PE)
+Reactor models, Bayesian estimators,
+observers, filters, applications Fundamentals and
+techniques Artificial Intelligence in
+Introduction to AI, predicate logic, Fundamentals Artificial Intelligence-1 (PE) Artificial Intelligence-1 (PE)
+Basics of ML, decision trees, neural Fundamentals Machine learning-1 (PE)
+Introduction to IoT architecture, Fundamentals and
+Technology Introduction to Internet of
+sensing, actuation, cloud, edge and fog Things (IoT) (PE), Sensors
+computing and IoT lab (PE)
+Sensor types, nanoparticles as Technology Nanosensors (PE) Nanosensors (PE)
+Introduction to mathematical
+modelling, Equation solving
+approaches, Decomposition of
+networks, Convergence Promotion Techniques Data Analytics in Process
+Modelling and Simulation
+(PE)
+Introduction to manufacturing systems, Fundamentals and
+systems Industry 4.0 Applications in
+Manufacturing Systems (PE)
+Complex fluids
+and interfacial
+engineering Fundamentals and Introductory Fundamentals and Colloids and Suspensions
+Aspects of Colloids and Suspensions Techniques (IE)
+Introduction to Polymer Fundamentals Polymer (IE)
+Fundamentals of Complex Liquids Fundamentals of Complex Liquids Fundamentals Fundamentals Physics of Complex fluids
+Introductory aspects of Complex Fluids Fundamentals Introduction to Complex
+Fluids (PE)
+Fundamentals of Interfacial Fundamentals Interfacial Engineering in
+Engineering in Soft Matter Soft Matter (PE)
+Introduction, processes and
+applications of bioprinting Fundamentals &
+technology Bioprinting (PE)
+Various materials in 3-D printing and Technology 3-D Printing: Material
+their processing, Post-processing and Processing and Properties
+Inspection techniques (PE)
+Polymer Engineering and Principles Polymer Engineering and Principles Fundamentals and Introductory Principles in
+Techniques Polymer Engineering (PE)
+Sustainability Environmental Studies Fundamentals Environmental Science (IS)
+Concepts of Conventional and
+Emerging Waste Management Concepts of Conventional and Fundamentals, Solid Waste Management
+(PE) Solid Waste Management
+Emerging Waste Management Techniques and (PE)
+Process related Air Pollution Control Techniques and Air Pollution Control
+Technology Technology Technology (PE)
+
+Introduction of Rare-earth Materials Techniques and
+Systems Processing of Rare-earth and
+Radioactive Materials (PE)
+Different kinds of Energy Resources Technology and Energy Resources (PE)
+and their Utilization Systems
+Waste Water Characteristics,
+Conventional Treatment Techniques &
+Systems Waste Water Treatment (PE)
+Forecasting environmental changes, Fundamentals and
+techniques Environmental Impact
+Assessment (EIA) (PE)
+Advanced treatment methodologies, Techniques & Advanced Waste Water
+Recycle and Reuse, ZLD. Systems Treatment (PE)
+Introduction, design and applications Technology Microfluidic Fuel Cell (PE)
+Fundamentals of Catalytic reactions Fundamentals and
+Technology Fundamentals and Catalysis for Energy (PE) Catalysis for Energy (PE)
+and its application for energy Technology
+Hydrogen and methanol as fuel Techniques &
+Technology Hydrogen & Methanol
+Economy (PE)
+Ocean Thermal Energy Conversion Fundamentals and
+Technology Ocean Thermal Energy
+(OTEC) cycles, hybrid OTEC systems Conversion (OTEC)
+and technological challenges Processes (PE)
+Molecular
+Engineering Introduction, approached and Fundamentals and Molecular engineering (PC) Molecular engineering (PC)
+applications in molecular engineering technology
+Transport at molecular level, Boltzmann Fundamentals Fundamentals Molecular Transport
+Phenomena (PE)
+Thermodynamic Principles of Self- Fundamentals Fluid-Like Structures and
+Assembly, Interaction Between Lipid Self-Assembling Systems
+Bilayer and Biological Membrane (PE)
+Electronic and optoelectronic polymers,
+small molecules and complexes for
+electronic systems Electronic and optoelectronic polymers, Fundamentals and
+technology Organic Molecules,
+small molecules and complexes for Complexes and Polymers
+electronic systems for Electronics and
+Microstates of a system, statistical Fundamentals Molecular Thermodynamics
+(PE) Molecular Thermodynamics
+mechanics and thermodynamics, (PE)
+Food engineering, preservation, Fundamentals and Food Engineering (PE)
+composition, quality control techniques
+Properties of water molecule, Fundamentals and
+technology Fundamentals and Molecular Engineering of
+Water (PE)
+supercritical water, confined and technology
+Intermolecular and Molecule-Surface Fundamentals Modelling of Atoms,
+Molecules and Surfaces (PE)
+Structure-property of electronic and Fundamentals and
+Technology Polymers for Electronics and
+Optoelectronics I (PE)
+
+Molecular dynamics, basics of Monte Fundamentals and Molecular Simulations (PE)
+Carlo method techniques
+Biochemical
+Engineering Basics of Biology, Immobilized enzyme, Fundamentals Fundamentals Biochemical Engineering
+(PE)
+Industrial importance of Technology Bioprocess Technology (PE)
+Momentum, heat and mass transfer in Fundamentals Bio-Transport Phenomena
+(PE)
+Separation processes in biochemical Technology Biochemical Separation
+Processes (PE)
+Bioprocess overview, membrane Fundamentals and
+techniques Bioreactors (PE)
+
+S.
+N. Course Type Course Category Regular B.Tech. Double B.Tech. B.Tech. with
+Credit Total Credit Credit Total Total Credit Credit Tot
+1 Institute Core
+(I) Engineering (IE) 34 69 34 59 34 69 69
+Science (IS) 16 16 16
+Humanities (IH) 12 9 12
+2 Programme
+Linked (L) Science (LS) 7 0 7 7
+3 Programme
+Core (P) Programme Compulsory 50 71 50 71 50 71
+Programme Electives (PE) 18 18 18
+B.Tech. Project (PP) 3 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0 0 0
+5 5 Engineering
+Science (E) Engineering Engineering Science/ 0 0 0 0 22 22 22 8 8 8 8
+Science (E) Specialization Core
+Engineering Science/ 0 0 8 8 8 12 12
+Total Graded 150 160 160
+6 Non-Graded
+(N) Humanities (NH) 6 15 6 15 6 15 15
+Engineering (NE) 3 3 3
+Design/Practical Experience 6 6 6 6 6 6
+Total Graded + Non-Graded 165 175 175
+7. Course Categories, credit distribution and Credit Structure of B.Tech. Programmes
+Table 2: Proposed Course Categories and credit distribution in the proposed B.Tech. Programmes
+
+Type L-T-P Distribution of contact and beyond contact hours Total Credits
+(TC=TH/3)
+Contact Hours
+(CH) Beyond Contact
+Hours (BCH) Total
+Hours
+(TH)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+8. Credit Structure of B.Tech. Programmes 
+ 
+Table 3. Credit Structure for B.Tech. Programmes
+#Contact hour for project refers to the involvement of students in the laboratory, discussion, etc.
+
+Sr. No Course Name LTP Contact Hours Credit
+1 Fluid Mechanics 3-1-0 4 4
+2 Data Structure and Algorithm-CS 3-0-2 5 4
+3 Molecular Engineering 3-0-0 3 3
+4 Material and Energy Balance 3-0-0 3 3
+5 Mass Transfer I 3-0-3 6 4.5
+6 Heat Transfer 3-0-0 3 3
+7 Chemical Reaction Engineering 3-0-3 6 4.5
+8 Scientific Computations 3-0-2 5 4
+9 Chemical Engineering Thermodynamics 3-0-0 3 3
+10 Heat Transfer-Lab 0-0-2 2 1
+11 Mass transfer II 3-0-3 5 4.5
+12 Process Plant Design & Economics 3-0-3 6 4.5
+13 Transport Phenomena 3-1-0 4 4
+14 Process Control and AI Applications 3-0-2 5 4
+15 Fluid Mechanics-Lab 0-0-2 2 1
+Total 52
+9. List of Programme Compulsory Courses 
+ 
+Table 4. Programme Compulsory Courses
+
+Stream S .No Courses L-T-P Credit Course
+Level
+Chemical
+Engineering
+Design 1 Industrial Management and Safety for
+Chemical Engineers 3-0-0 3 4XX0
+2 Product Design in Chemical Engineering 2-0-0 2 4XX0
+3 Unit Operations 3-0-0 3 4XX0
+4 Membrane Technology 3-0-0 3 4XX0
+Process
+Engineering
+Intelligence 5 Applications of Artificial Intelligence in
+Chemical Engineering 3-0-0 3 4XX0
+6 Petrochemical Engineering 3-0-0 3 4XX0
+7 Petroleum Refinery Process Modelling 1-0-2 2 4XX0
+8 Basics of Reliability and Maintainability
+Engineering for System Safety 3-1-0 4 4XX0
+Complex fluids
+and interfacial
+engineering 9 Introduction to Complex Fluids 3-0-0 3 4XX0
+10 Interfacial Engineering in Soft Matter 3-0-0 3 4XX0
+11 Bioprinting 3-0-0 3 4XX0
+12 3-D Printing: Material Processing and
+Properties 3-0-0 3 4XX0
+13 Introductory Principles in Polymer
+Engineering 3-0-0 3 4XX0
+Sustainability 14 Solid Waste Management 3-0-0 3 4XX0
+15 Air Pollution Control technology 3-0-0 3 4XX0
+16 Processing of Rare-earth and Radioactive
+Materials 3-0-0 3 4XX0
+17 Energy Resources 3-0-0 3 4XX0
+18 Waste Water Treatment 3-0-0 3 4XX0
+Molecular
+Engineering 19 Molecular Transport Phenomena 2-0-0 2 4XX0
+20 Fluid-Like Structures and Self-Assembling
+Systems 2-0-0 2 4XX0
+21 Organic Molecules, Complexes and
+Polymers for Electronics and
+Optoelectronics 3-0-0 3 4XX0
+22 Molecular Thermodynamics 3-0-0 3 4XX0
+Biochemical
+Engineering 23 Biochemical Engineering 3-0-0 3 4XX0
+24 Bioprocess Technology 3-0-0 3 4XX0
+25 Bio-Transport Phenomena 2-0-0 2 4XX0
+26 Biochemical Separation Processes 2-0-0 2 4XX0
+27 Bioreactors 3-0-0 3 4XX0
+10. Stream-wise Programme Elective Courses
+Table 5. Stream-wise Programme Elective Courses
+
+Mini-Project(0-0-6) 
+Program elective component for 8th semester 
+ 
+ 
+Design/Practical Experience (ND) 
+Options: Three Summer Design Projects (0-0-4) for 2 Credits each or in regular semesters.
+
+S.No. Name of
+specialization Specialization Core (8 credits) Specialization Elective (12 Credits)
+1 Process
+Engineering
+Intelligence Applications of
+Artificial
+Intelligence in
+Chemical
+Engineering 3-0-0 4XX0 Basics of Reliability
+and Maintainability
+Engineering for System
+Safety 3-1-0 4XX0
+Petroleum
+Refinery Process
+Modelling 1-0-2 4XX0 Chemometrics 3-0-0 7XX0
+Petrochemical
+Engineering 3-0-0 4XX0 Artificial Intelligence in
+Chemical Reactor
+Control 3-0-2 7XX0
+Nanosensors 3-0-0 7XX0
+Data Analytics in
+Process Modelling and
+Simulation 2-0-2 7XX0
+Artificial Intelligence-1 3-0-0 7XX0
+Machine Learning-1 3-0-0 7XX0
+Introduction to Internet
+of Things (IoT) 1-0-0 7XX0
+Sensors and IoT Lab 0-0-2 7XX0
+Industry
+4.0Applications in
+Manufacturing Systems 1-0-0 7XX0
+Specialization focused
+Mini Project 0-0-6 4XX0
+Specialization focused
+Design & practical
+experience 0-0-4 4XX0
+Specialization focused
+research review 0-0-2 4XX0
+2 Sustainability Solid Waste
+Management 3-0-0 4XX0 Air Pollution Control
+technology 3-0-0 4XX0
+Waste Water
+Treatment 3-0-0 4XX0 Energy Resources 3-0-0 4XX0
+Ocean Thermal
+Energy
+Conversion 1-0-0 7XX0 Catalysis for Energy
+(CY) 3-0-0 6XX0
+Microfluidic Fuel
+Cell 1-0-0 7XX0 Membrane Technology 3-0-0 4XX0
+Unit Operations 3-0-0 4XX0
+Processing of Rare-
+earth and Radioactive
+Materials 3-0-0 4XX0
+11. Specializations to be offered by the Department: 
+ 
+Table 6: Specialization and courses
+
+Advanced Waste Water
+Treatment 3-0-2 7XX0
+Environmental Impact
+Assessment (EIA) 3-0-0 7XX0
+Hydrogen & Methanol
+Economy 3-0-0 7XX0
+Specialization focused
+Mini Project 0-0-6 4XX0
+Specialization focused
+Design & practical
+experience 0-0-4 4XX0
+Specialization focused
+research review 0-0-2 4XX0
+3 Molecular
+Engineering Molecular
+Transport
+Phenomena 2-0-0 4XX0 Organic Molecules,
+Complexes and
+Polymers for
+Electronics and
+Optoelectronics 3-0-0 4XX0
+Introduction to
+Complex Fluids 3-0-0 4XX0 Introductory Principles
+in Polymer Engineering 3-0-0 4XX0
+Interfacial
+Engineering in
+Soft Matter 3-0-0 4XX0 Molecular
+Thermodynamics 3-0-0 4XX0
+Fluid-Like Structures
+and Self-Assembling
+Systems 2-0-0 4XX0
+Molecular Engineering
+of Water 1-0-0 7XX0
+Polymers for
+Electronics and
+Optoelectronics 2-0-0 7XX0
+Molecular Simulations 2-0-0 7XX0
+Food Engineering 3-0-0 7XX0
+Modelling of Atoms,
+Molecules and Surfaces 3-0-0 7XX0
+Specialization focused
+Mini Project 0-0-6 4XX0
+Specialization focused
+Design & practical
+experience 0-0-4 4XX0
+Specialization focused
+research review 0-0-2 4XX0
+
+I Semester II Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communicatio 0-0-2 2 1 - NH Communication 0-0-2 2 1 -
+NH Social Connect 0-0-1 1 0.5 - NH Social Connect
+and
+responsibilities II Social Connect 0-0-1 1 0.5 -
+and and
+responsibilities responsibilities II
+NH Performing 0-0-1 1 0.5 - NH Performing Arts
+II/Sports II 0-0-1 1 0.5 -
+Total 11-2-
+12 25 3 16 Total 12-1-
+14 27 3 17
+III Semester IV Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+LS Probability,
+Statistics &
+Stochastic
+Process 3-1-0 4 - 4 IE Materials
+Fractals: Polymer,
+Corrosion,
+Colloids &
+suspensions 3 ×
+1-0-0 3 - 3
+IE Thermodynam
+ics 3-1-0 4 - 4 IE Signals &
+Systems 3-1-0 4 4 -
+PC Fluid 3-1-0 4 - 4 PC Data Structure 3-0-2 5 4
+Mechanics and Algorithm
+IE Introduction to
+Machine
+Learning 3-0-2 5 - 4 PC Molecular
+Engineering Molecular 3-0-0 3 - 3
+LS Physics of
+Complex
+Fluids 3-0-0 3 - 3 PC Material and
+Energy Balance 3-0-0 3 - 3
+NE Intro. To 0-0-2 2 1 IH Humanities 3-0-0 3 - 3
+Total 15-3-
+4 22 1 19 Total 18-1-2 21 - 20
+12. Curriculum of B.Tech. Chemical Engineering (Regular)
+Table 7. Curriculum of B.Tech. in Chemical Engineering
+
+V Semester VI Semester
+Cat Course LTP CH N
+C GC Cat Course LTP CH NC GC
+PC Mass Transfer 3-0-3 6 - 4.5 PC Mass transfer II
+PC Heat Transfer Heat Transfer 3-0-0 3 - 3 PC Process Plant 3-0-3 3-0-3 6 6 - - 4.5 4.5
+PC Chemical 3-0-3 6 - 4.5 PC Transport
+Phenomena Transport 3-1-0 4 - 4
+Reaction Phenomena
+PC Scientific
+Computations Scientific 3-0-2 5 - 4 PC Process Control 3-0-2 5 - 4
+Computations and AI
+PC Chemical 3-0-0 3 - 3 PC Fluid Mechanics-
+Lab Fluid Mechanics- 0-0-2 2 1
+Engineering Lab
+PC Heat Transfer 0-0-2 2 - 1 PE Programme
+Elective-1 3-0-0 3 - 3
+IH Humanities II 3-0-0 3 - 3 NH Professional
+Ethics II 0-1-0 1 1 -
+NH Professional 0-1-0 1 1 -
+Total 18-1-
+10 29 1 23 Total 15-2-
+10 27 1 21
+VII Semester VIII Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+PP B. Tech.
+Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE Programme
+Elective-2 3-0-0 3 - 3 PE Programme
+Elective-4 3-0-0 3 - 3
+PE Programme
+Elective-3 3-0-0 3 3 PE Programme
+Elective-5 2-0-0 2 2
+OE Open Elective-
+1 3-0-0 3 3 PE Programme
+Elective-6 2-0-0 2 2
+IH Humanities III 3-0-0 3 - 3 OE Open Elective-2 3-1-0 4 4
+IS Environmental
+Science 2-0-0 2 - 2 OE Open Elective-3 3-0-0 3 3
+Total 14-0-
+6 20 - 17 Total 16-1-0 17 - 17
+Total of Non-graded and Graded Credit respectively 9 150
+Non-Graded Design Credits 6 -
+Grand Total 15 165
+
+I Semester II Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer
+Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communicatio 0-0-2 2 1 - NH Communicatio 0-0-2 2 1 -
+NH Social Connect 0-0-1 1 0.5 - NH Social Connect 0-0-1 1 0.5 -
+and and
+responsibilities responsibilities
+NH Performing
+Arts I /Sports I Performing 0-0-1 1 0.5 - NH Performing 0-0-1 1 0.5 -
+Arts I /Sports I Arts II/Sports
+Total 11-2-
+12 25 3 16 Total 12-1-
+14 27 3 17
+III Semester IV Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+ES ES Probability and
+Statistics Probability and 3-1-0 3-1-0 4 4 - - 4 4 IE Materials
+Science &
+Engineerin
+g 3 ×
+1-0-0 3 - 3
+ES Modern
+Physics 3-0-0 3 - 3 ES Embedded 3-0-2 5 - 4
+IE Thermodynami
+cs 3-1-0 4 - 4 ES Data 3-0-2 5 - 4
+IE Signals and
+Systems 3-1-0 4 - 4 ES Design of 3-0-0 3 - 3
+IE Machine
+Learning 3-0-2 5 - 4 ES Modelling 3-0-2 5 - 4
+13. Curriculum of Double B.Tech. : B.Tech. Chemical Engineering and Engineering Science 
+ 
+Table 8. Programme structure of Double B.Tech.
+
+NE Intro. To 0-0-2 2 1 IH Humanities
+I 3-0-0 3 - 3
+Total 15-3-
+4 22 1 19 Total 18-0-6 24 - 21
+V Semester VI Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+PC Mass Transfer I 3-0-3 6 4.5 PC Mass transfer II
+PC Heat Transfer 3-0-0 3 - - 3 PC Process Plant 3-0-3 3-0-3 6 6 - - 4.5 4.5
+PC Chemical 3-0-3 6 - 4.5 PC Transport
+Phenomena Transport 3-1-0 4 - 4
+Reaction Phenomena
+PC Fluid
+Mechanics Fluid 3-1-0 4 - 4 PC Process Control 3-0-2 5 - 4
+Mechanics and AI
+PC Chemical 3-0-0 3 - 3 PC Fluid
+Mechanics-Lab Fluid 0-0-2 2 1
+Engineering Mechanics-Lab
+PC Heat Transfer 0-0-2 2 - 1 PC Material and 3-0-0 3 - 3
+Lab Energy Balance
+IH Humanities II 3-0-0 3 - 3 PE Programme
+Elective-1 3-0-0 3 - 3
+NH Professional 0-1-0 1 1 - NH Professional 0-1-0 1 1 -
+Ethics I Ethics II
+Total 17-3-
+8 28 1 23 Total 18-2-
+10 30 1 24
+VII Semester VIII Semester
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+PP B. Tech. Project 0-0-6 6 - 3 PE/
+ES Programme/E
+ngineering
+Science
+Electives 14-0-
+0 14 - 14
+PC Scientific P C Molecular 3-0-0 3 - 3
+Computations 3-0-2 4 - 4 Engineering
+PE/
+OE Programme/
+Engineering
+Science
+Elective-2 11-0-
+0 11 - 11 IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 16-1-
+6 23 - 20 Total 20-0-
+0 20 - 20
+Total of Non-Graded and Graded Credits respectively 9 160
+Non-Graded Design Credits 6 -
+Grand Total 15 175
+
+Title Fluid Mechanics Number MEL2XX0/ CHL2XX0
+Department Mechanical Engineering/ Chemical
+Engineering L-T-P [C] 3–1–0 [4]
+Offered for B.Tech (ME, CH) Type Program Compulsory (PC)
+14. Detailed Course Content of Programme Compulsory Courses
+
+Course Title Data Structures and Algorithms Course No. CSxxx
+Department Computer Science and Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech of all branches Type PC
+Prerequisite Introduction to Computer Programming
+
+Title Molecular Engineering Number CHL2XX0
+Department Department of Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for BTech Type PC
+Prerequisite None
+
+Title Material and Energy Balance Number CHL2XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for BTech Type PC
+Prerequisite None
+
+Title Mass Transfer I Number CHL3XX0
+Department Chemical Engineering L-T-P [C] 3-0-3 [4.5]
+Offered for BTech Type PC
+Prerequisite None
+
+Title Heat Transfer Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite Basics of Thermodynamics & Fluid Mechanics
+
+Title Chemical Reaction Engineering Number CHLP3XX0
+Department Chemical Engineering L-T-P [C] 3-0-3 [4.5]
+Offered for B.Tech. Type PC
+Prerequisite None
+
+Title Scientific Computations Number MAL2XX0
+Department Mathematics L-T-P-D [C] 3-0-2 [4]
+Offered for B.Tech ME, MT, CHE Type Compulsory
+
+Title Chemical Engineering Thermodynamics Number CHL3XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for BTech Type PC
+Prerequisite None
+
+Title Heat Transfer Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2 [1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Heat and Mass Transfer
+
+Title Mass Transfer II Number CHL3XX0
+Department Chemical Engineering L-T-P [C] 3-0-3 [4.5]
+Offered for BTech Type PC
+Prerequisite Mass Transfer I
+
+Title Process Plant Design & Economics Number CHLP4XX0
+Department Chemical Engineering L-T-P [C] 3-0-3 [4.5]
+Offered for B.Tech. Type PC
+Prerequisite None
+
+Title Transport Phenomena Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-1-0 [4]
+Offered for B.Tech Type PC
+Prerequisite None
+
+3. Deen, W.M., (1998), Analysis of Transport Phenomena, Oxford University Press. 
+4. Thompson, W.J., (2000) Introduction to Transport Phenomena, Prentice Hall. 
+ 
+Online Course Material 
+Transport Phenomena’ by Prof. S.K. Gupta, NPTEL: https://nptel.ac.in/courses/103/102/103102024/
+
+Title Process Control & AI
+Applications Number CHLP4XX0
+Department Chemical Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech. Type PC
+Prerequisite None
+
+2. Quantrille, T.E. and Liu, Y.A., (1991), Artificial Intelligence in Chemical Engineering, Academic Press. 
+ 
+Reference Books
+1. Stephanopoulos G., (1990), Chemical Process Control – An Introduction to Theory and Practice, Prentice-Hall
+of India.
+2. Boullart, L., Krijgsman, A., Vingerhoeds,R.A., (1992), Application of Artificial Intelligence in Process Control,
+Pergamon Press Ltd. England.
+Online Course Material
+1. Jogwar, S., Chemical Process Control, NPTEL Course Material, Department of Chemical Engineering IIT
+2. Rengasamy, R., Process Control-Design, Analysis and Assessment, NPTEL Course Material, Department of
+Chemical Engineering IIT Madras, https://nptel.ac.in/courses/103/106/103106148/
+
+Title Fluid Mechanics Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fluid Mechanics
+
+Title Industrial management and safety for Chemical
+engineers Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type Program Elective
+Prerequisite None
+15. Detailed Course Content of Programme Elective Courses:
+
+Title Product Design in Chemical Engineering Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 2-0-0 (2)
+Offered for B.Tech. Type PE
+Prerequisite None
+
+Title Unit operations Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type PE
+
+Title Membrane Technology Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type PE
+Prerequisite Fluid Mechanics
+
+Title Applications of Artificial Intelligence in Chemical
+Engineering Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech, Dual Degree Type PE
+Prerequisite Material and Energy Balance, Scientific Computations
+
+Title Petrochemical Engineering Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for BTech Type PE
+Prerequisite None
+
+Title Petroleum Refinery Process Modelling Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 1-0-2 [2]
+Offered for B.Tech., Dual Degree in Chemical Engineering Type PE
+Prerequisite None
+
+Title Basics of Reliability and Maintainability Engineering
+for System Safety Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-1-0 [4]
+Offered for B.Tech, Dual Degree Type Elective
+Prerequisite Mathematics I and Mathematics II
+
+Title Introduction to Complex Fluids Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type Program Elective
+Prerequisite Fluid Mechanics
+
+Title Interfacial engineering in soft matter Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type PE
+
+Title Bioprinting Number BSBE4XX0
+Department BSBE L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Program Type Program Elective
+Prerequisite Basic knowledge of bioengineering
+
+Title 3-D Printing: Material Processing and Properties Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Materials Engineering Type PE
+Prerequisite Nil
+
+Title Introductory Principles in Polymer Engineering Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for BTech Type PE
+Prerequisite None
+
+Title Solid Waste Management Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for BTech Type PE
+Prerequisite None
+
+Title Air Pollution Control Technology Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type Program Elective
+Prerequisite None
+
+Title Processing of rare earth & radioactive materials Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type PE
+
+Title Energy resources Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type PE
+Prerequisite None
+
+Title Waste Water Treatment Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Type PE
+Prerequisite None
+
+Title Molecular Transport
+Phenomena Number CHL4XX0
+Department Chemical Engineering L-T-P (C) 2-0-0
+Offered for B.Tech. Type Elective
+
+Title Fluid-Like Structures and Self-Assembling Systems Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 2-0-0 [2]
+Offered for B.Tech, Dual Degree Type Elective
+Prerequisite None
+
+Title Organic Molecules, Complexes and Polymers for
+Electronics and Optoelectronics Number 4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech Type PE
+Prerequisite Polymer as material fractal
+
+Title Molecular Thermodynamics Number CHL4XX0
+Department Chemical Engineering L-T-P (C) 3-0-0
+Offered for B.Tech. Type Elective
+
+Title Biochemical Engineering Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech Type PE
+
+Title Bioprocess Technology Number CHL4XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for BTech Type PE
+Prerequisite An introductory course on Biochemical Engineering
+
+Title Bio-Transport Phenomena Number CHL6XX0
+Department Chemical Engineering L-T-P (C) 2-0-0 (2)
+Offered for B.Tech Type PE
+Prerequisite None
+
+Title Biochemical Separation Processes Number CHL400X
+Department Chemical Engineering L-T-P (C) 2-0-0 (2)
+Offered for B.Tech. Type PE
+Prerequisite None
+
+Title Bioreactors Number CHL400X
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for B.Tech Type PE
+Prerequisite None
+
+Title Introduction to Internet of Things (IoT) Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for st
+M. Tech. 1 year Type Compulsory
+
+Title Sensors and IoT Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for st
+M. Tech. 1 year Type Compulsory
+
+Title Industry 4.0 Applications i
+n Manufacturing Systems Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 1-0-0-0 [1]
+Offered for Type Program Core
+
+Title Chemometrics Number CHL7XX0
+Department Chemical Engineering, L-T-P (C) 3-0-0 (3)
+Offered for B.Tech., M.Tech., M.Tech.-Ph.D. Type Programme Elective
+Prerequisite basics of chemical engineering
+
+Title Artificial Intelligence in Chemical Reactor Control Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech, M.Tech., M.Tech-Ph.D. Dual Degree Type Elective
+Prerequisite Material and Energy Balance, Chemical Reaction
+Engineering, Scientific Computations
+
+3. Rajendra K. Mutha, William R. Cluett, Alexander Penlidis, 1997, On-Line Nonlinear Model-Based
+Estimation and Control of a Polymer Reactor, AIChE Journal, Vol. 43, Number 11 
+Pramod Vachhani, Raghunathan Rengaswamy, Vikrant Gangwal, 2005, Recursive Estimation in 
+Constrained Nonlinear Dynamical Systems, AIChE Journal, Vol. 51, Number 3
+
+Title Nanosensors Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for B. Tech, M. Tech and PhD Type Open Elective
+
+Title Data Analytics in Process Modelling and
+Simulation Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-2 (3)
+Offered for M.Tech., M.Tech-Ph.D. Dual Degree in Chemical
+Engineering Type Elective
+Prerequisite None
+
+Title Artificial Intelligence-1 Number CSXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for st st
+M.Tech. 1 Year, Ph.D. 1 Year Type Compulsory
+Prerequisite None
+
+Title Machine Learning-1 Number CSXXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for st st
+M.Tech. 1 Year, Ph.D. 1 Year Type Compulsory
+Prerequisite None
+
+Title Ocean Thermal Energy Conversion (OTEC) Process Number CH7XX0
+Department Chemical Engineering L-T-P [C] 1-0-0
+Offered for B. Tech./ M.Tech./M.Tech.-Ph.D./ Ph.D. Type Elective
+Prerequisite Thermodynamics
+
+Title Microfluidic Fuel Cells Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 1-0-0
+Offered for B. TECH, MTECH, MTECH-PhD Type Elective
+Prerequisite none
+
+Title Catalysis for Energy Number CY6XX0
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+
+Title Advanced Waste Water Treatment Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-2 [4]
+Offered for B.Tech., M.Tech., M.Tech.-Ph.D. Type PE
+Prerequisite None
+
+Online Course Material 
+Tiwari M K, Wastewater treatment and recycling, NPTEL course material, Department of Civil Engineering, IIT 
+Kharagpur, https://nptel.ac.in/courses/105105178/
+
+Title Environmental Impact Assessment (EIA) Number CHL7XX0
+Department (i) Chemical Engineering
+(ii) Civil and Infrastructure Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech., M.Tech., M.Tech.-Ph.D. Type PE
+
+Title Hydrogen and Methanol Economy Number CHL7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for MTECH, MTECH-PhD, PhD Type Elective
+Prerequisite none
+
+Title Molecular
+Engineering of Water Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 1-0-0
+Offered for B.Tech. Type Elective
+
+Title Polymers for Electronics and Optoelectronics Number 7XX0
+Department Chemical Engineering L-T-P [C] 2-0-0
+Offered for BTech Type PE
+Prerequisite Polymer as material fractal
+
+Title Molecular Simulations Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 2-0-0
+Offered for B.Tech. Type Elective
+
+Title Food Engineering Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-0 (3)
+Offered for B.Tech Type PE
+Prerequisite None
+
+Title Modelling of Atoms, Molecules and Surfaces Number CHL7XX0
+Department Chemical Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B.Tech, M.Tech., M.Tech-Ph.D. Dual Degree Type Elective
+Prerequisite None

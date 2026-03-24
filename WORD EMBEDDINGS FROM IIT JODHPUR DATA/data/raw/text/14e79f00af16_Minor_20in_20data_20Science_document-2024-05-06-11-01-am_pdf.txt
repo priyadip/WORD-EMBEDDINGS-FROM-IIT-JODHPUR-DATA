@@ -1,0 +1,110 @@
+SOURCE_PDF: 14e79f00af16_Minor_20in_20data_20Science_document-2024-05-06-11-01-am.pdf
+
+S.
+No. Course Name Course Level
+(400/600/700) L-T-P structure
+1 Introduction to Data Science 700 1-0-0
+2 Statistical Inference and Simulation Techniques 400 3-0-0
+3 Advanced Machine Learning 700 3-0-0
+4 Applied ML Lab 700 0-0-2
+S.
+No
+. Course Name Course Level
+(400/600/700) L-T-P structure
+1 Introduction to Financial Engineering 400 3-0-0
+2 Stochastic Calculus for Finance 400 3-0-0
+3 Time Series Analysis 400 3-0-0
+4 Reliability Engineering and Life Testing 400 3-0-0
+5 Introduction to Game Theory 400 3-0-0
+6 Optimization 400 3-0-0
+7 Non-linear dynamics and chaos 400 3-0-0
+8 Maths for Big Data 400 2-1-0
+9 Discrete Mathematical Structures and Applications 600 3-0-0
+10 Mathematical Biology 700 3-0-2
+11 Statistical Models and Regression 700 3-0-0
+12 Topological Data Analysis 700 3-0-0
+13 Group Theory for Machine Learning 700 3-0-0
+Department of Mathematics
+Minor in Data Science
+1. Introduction
+Data Science is the art of generating insight, knowledge and predictions by processing of data gathered
+about a system or a process. It emerges as a multi-disciplinary field that generally highlight the use of
+statistics, predictive modelling and machine learning without changing its application, irrespective of the
+domain. Today, data science has far reaching implications in many fields, both academic and applied
+research domains like governance, finance, security, transportation, healthcare, energy management,
+agriculture, population studies, weather prediction, economics, social sciences, predictive maintenance,
+structural health monitoring, smart manufacturing and computational structural biology. The growing
+importance of data science has in turn led to the need of inculcating it in the educational ecosystem to
+come up with the future workforce.
+2. Objectives of the minor
+The main objective of specialization in Data Science is to equip students with the fundamental concepts,
+approaches, and methods in data science. On the completion of the minor, students will develop critical
+and logical thinking to solve problems in data science and further will be able to use appropriate
+technology that aids their problem-solving and data analysis.
+3. Minor Compulsory courses (8 Credits)
+4. Minor Electives courses (12 Credits)
+
+14 Visual Analytics 700 3-0-0
+15 Image and Video Analytics 700 3-0-0
+16 Text Mining 700 3-0-0
+17 Artificial Intelligence 400 3-0-0
+18 Advanced Artificial Intelligence 700 3-0-0
+19 Information Retrieval - 3-0-0
+20 Graph Theoretic Algorithms 700 3-0-0
+21 Image and Video Forensics 700 3-0-0
+22 Social Networks 400 3-0-0
+23 Introduction to AR and VR 700 3-0-0
+24 Coding Theory 700 3-0-0
+25 Project - 0-0-12
+Title Applied ML Lab Number MAP7xxx
+Department L-T-P [C] 0-0-2 [1]
+Offered for Minor in Data Science Type
+5. Offered for: All BTech students except BTech CSE, BTech AI&DE and BTech EE
+6. Detailed Course Content of Compulsory Courses
+
+Title Discrete Mathematical Structures and Applications Number MAL6xxx
+Department Mathematics L-T-P [C] 3-0-0 [3]
+Offered for Minor in Data Science Type
+7. Detailed Course Content of Elective Courses
+
+Title Statistical Models and Regression Number MAL7XX0
+Department Mathematics L-T-P [C] 3–0–2 [4]
+Offered for Minor in Data Science Type Core
+Prerequisite Probability, Statistics and Random Processes
+
+Title Topological Data Analysis Number MAL7xxx
+Department L-T-P [C] 3-0-0 [3]
+Offered for Minor in Data Science Type
+
+Title Group Theory for Machine Learning Number MAL7xxx
+Department L-T-P [C] 3-0-0 [3]
+Offered for Minor in Data Science Type
+
+Title Visual Analytics Number MAL7xxx
+Department L-T-P [C] 3-0-0 [3]
+Offered for Minor in Data Science Type
+
+Title Image and Video Analytics Number MAL7xxx
+Department L-T-P [C] 3-0-0 [3]
+Offered for Minor in Data Science Type
+
+Title Text mining Number MAL7xxx
+Department L-T-P [C] 3-0-0 [3]
+Offered for Minor for Data Science Type
+
+Title Mathematical Biology Number MAL7XX
+Department Mathematics L-T-L-P [C] 3-0-2-0
+Offered for Minor in Data Science Type
+3. To develop student’s skills in algebraic manipulation, and the calculus of ordinary differential
+
+1. Dr.
+Ameeya
+Kumar
+Nayak,
+IIT
+Roorkee,
+Mathematical
+Modeling,
+Analysis
+and
+application:

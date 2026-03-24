@@ -1,0 +1,105 @@
+SOURCE_PDF: 9b5605d82945_Adv_Ex-MTech_AI.pdf
+
+Indian Institute of Technology Jodhpur
+Office of Academics
+NH 62, Nagaur Road, Karwar, Jodhpur 342037, INDIA
+Admission to Executive M.Tech. Artificial Intelligence Program for Working Professionals
+IIT Jodhpur invites applications for admission to the Executive M.Tech. Artificial Intelligence program
+for working professionals for the Semester commencing in January 2022. AI has been emerging as a
+core technology with a significant impact on productivity. To cater to the immediate requirement of
+working manpower trained in emerging AI technologies, IIT Jodhpur offers an Executive M.Tech. Artificial
+Intelligence program for working professionals. The program has received an overwhelming response
+across the country. It is designed to allow professionals to pursue M.Tech. in executive mode as off-campus
+students and also periodically visit the institute for experiencing the IIT environment. The program is
+conducted by faculties at IIT Jodhpur as well as Industry experts.
+Eligibility Criteria and Admission Process
+▪
+Eligibility:
+B.Tech. /B.E. (in any branch of Engineering)/MCA/MSc (Computer Science/Information Technology or
+Electronics) with at least 60% marks. At least 2 years of professional work experience with sufficient
+hands-on experience in computer programming.
+Note: Must have working experience after qualifying degree completion. Internship experience will not be
+counted. 2 years of experience should be completed as on December 31, 2021.
+▪
+Selection Procedure:
+Candidates must fill an online application at https://oa.iitj.ac.in/OA_PG_ADMISSION/. Selection will be
+based on programming and/or written test and/or interview and/or any other criteria deemed suitable by
+the admission committee. Prior research exposure and/or industry experience in areas related to AI will be
+considered a plus. The department reserves the right to set any cut off criteria for shortlisting the
+candidates. Mere fulfillment of the eligibility criteria does not guarantee that the candidate will be
+shortlisted, as the shortlisting criteria are often stricter than the eligibility criteria.
+▪
+Program Fee:
+Rs 6,000/- per credit registered in a semester. For example, if a student registers for 9 credits in a semester,
+the fee will be Rs 54,000/- for the semester. Total credit requirement is 62.
+Features of the Program:
+▪
+Class Schedule
+Classes will be conducted in the evening (e.g. from 5 PM to 8 PM) or on the weekends at a convenient time.
+A student can register for up to 12 credits in a semester. There will be two to three lectures every day, each
+of duration 50 to 80 minutes.
+
+▪
+Online Instruction
+o
+Lectures will be in an online mode and students will attend in a synchronous audio-visual mode.
+Students can interact and ask questions during the lectures. Recorded lectures and teaching
+materials will be made available online.
+o
+Course management and discussions will be enabled via widely-used tools such as Google
+classroom, Piazza and Moodle.
+o
+Attendance will be taken through online mode.
+▪
+Contact Weeks
+o
+There will be mandatory two contact weeks in a semester. Students need to be present during the
+contact weeks and attend lectures and discussion sessions with instructors, and participate in
+offline evaluations. Alternatively, these contact weeks can be organized in remote locations, subject
+to higher demand.
+o
+The first contact week will align with the 5th week of the semester. The second contact week will
+align with the last week of the semester (subjected to COVID19 pandemic situation). Institute may
+provide hostel accommodation during the contact weeks, subject to availability.
+▪
+Assessment
+Grading will be based on continuous assessment components throughout the semester, projects and
+examinations.
+▪
+Credit Requirement
+o
+Students need to earn 62 credits as per the course structure in order to qualify for the degree
+M.Tech. Artificial Intelligence.
+o
+The delivery of the program is primarily targeted for off-campus professionals who are keen to
+acquire knowledge and skills in the area of AI. However, a professional, with the necessary
+permissions from their organization can choose to attend courses on-campus.
+●
+Curriculum
+The curriculum and course contents are available at https://cse.iitj.ac.in/Ex-MTech-AI.html
+
+Important Dates
+Admission Timeline:
+●
+October 01, 2021: Commencement of online application process.
+●
+November 05, 2021: Last date for submitting online applications
+●
+November Mid 2021: Announcement of the shortlisted candidates
+●
+November 20-25, 2021: Programming/Written-test/Interview
+●
+December 10, 2021 : Announcement of results
+●
+January 2022 (first week): Registration and commencement of classes.
+Application Procedure
+Applicants are requested to use the following link to fill and submit the online application form:
+This online link will remain active until November 05, 2021 (11:59 PM IST).
+Application Processing Fee:
+Rs. 300 to be paid online while submitting the application form.
+Contact us
+In case of any query with respect to the online application form, candidates may contact: Office of
+Automation (oa_automation@iitj.ac.in). Other general queries may be directed to the office of the
+Department of Computer Science and Engineering at the following phone number: 0291-2801170/1252 or
+Email address: mtech_wp_ai@iitj.ac.in
+Please visit the following link for the frequently asked questions:

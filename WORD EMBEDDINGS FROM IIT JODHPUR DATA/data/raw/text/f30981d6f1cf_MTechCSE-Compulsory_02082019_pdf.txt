@@ -1,0 +1,360 @@
+SOURCE_PDF: f30981d6f1cf_MTechCSE-Compulsory_02082019.pdf
+
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+and
+Dual degree M.Tech. (CSE) + PhD
+Programs
+offered by the
+Department of Computer Science and Engineering
+July 2019
+
+M.Tech and M.Tech-Ph.D dual degree programs 
+in Computer Science and Engineering 
+Introduction: 
+Traditionally Computer Science and Engineering (CSE) teaching were focusing on two major areas, 
+i.e., theories and systems (database, computer hardware, and operating systems). With the advent of 
+the era of Cloud Computing, Edge Computing, AI and Big Data, the discipline is being transformed 
+by incorporation of new emerging technologies. It is becoming an instrumental tool in solving major 
+problems faced by modern society such as energy, natural disasters, pollution, and water. Through 
+this newly revamped M.Tech and M.Tech-Ph.D dual degree programs in CSE, IIT Jodhpur is making 
+a conscious effort to divulge from the traditional path and planning to reposition itself to become a 
+leading institute in this new genre of Computer Science education. 
+Objectives: 
+This M.Tech and M.Tech-Ph.D dual degree programs in CSE will offer students with deep 
+knowledge of core and applied computer science. Through this programme, a student will learn niche 
+subject areas which are of paramount importance in the modern big data era, such as Computer 
+Systems and Security. This programme is aiming at imparting the necessary breadth and depth to the 
+students for pursuing careers in academics as well as in industry. This programme is aiming at 
+extending undergraduate computing skills with up-to-date and in-depth expertise in specialized areas 
+of Computer Systems and Security. 
+Expected Graduate Attributes: 
+After completing this programme, a student will be able to develop an ability to:
+1. Understand fundamental concepts and hands-on knowledge of emerging fields in Computer
+2. Conceive, Design and Develop state-of-the-art scalable parallel and distributed systems 
+3. Solve Big data problems through the knowledge of advanced data structures, distributed
+algorithmic design, analysis, and applications.
+4. Design and develop network protocols for Wireless, Sensor, Mobile, and Vehicular networks. 
+5. Ideate, Implement and Integrate cryptographic, fault tolerant algorithms for large scale
+distributed systems
+6. Understand state-of-the-art hardware platforms for running compute intensive distributed
+algorithms
+7. Ability to understand and apply evolving ethics and privacy laws across various domains and
+8. Plan and manage technical projects
+Learning Outcome:
+1. Understand the fundamentals of algorithmic complexity, advanced computer architecture,
+advanced network, and security protocols.
+2. Apply appropriate design principles, framework and protocols to develop dependable
+3. Demonstrate hands-on knowledge of cutting edge simulation, synthesizing, programming
+4. Ability to design and develop system architecture for mobile, cloud, fog, and edge
+5. Demonstrate hands-on knowledge of virtualization, data center design and management, and
+software defined networking.
+6. Skills to comprehend and communicate effectively. 
+7. Apply appropriate project and business management principles and tools for real-world
+
+Cat Code Course Title L-­‐T-P­‐ Cr Cat Code Course Title L-­‐T-P­‐ Cr
+I Semester II Semester
+C MAL7xx0 Statistics I
+Matrix C omputation
+Optimization 1-0­‐ -­‐0
+1 -0­‐ -­‐0
+1-0­‐ -­‐0 3 C CSL7xx0 Computer Architecture 3-­‐0-0­‐ 3
+C CSL7xx0 Algorithms for Big
+Data 2-­‐0-0­‐ 2 C CSL7xx0 Software and Data
+Engineering 3-­‐0-0­‐ 3
+C CSL7xx0 Machine L earning I 3-0­‐ -0­‐ 3 C CSL7xx0 Security and its
+applications 3-­‐0-0­‐ 3
+C CSP7xx0 Data S tructures a nd
+Practices 0-0­‐ -2­‐ 1 PE xxxxx Program Elective 3 3-­‐0-0­‐ 3
+PE xxxxx Program Elective 1 3-0­‐ -0­‐ 3 OE xxxxx Open Elective 1 3-­‐0-0­‐ 3
+PE xxxxx Program Elective 2 3-0­‐ -0­‐ 3 NG xxxxx Ethics and Professional Life 1-0­‐ -­‐0 1
+NG Technical
+Communication 1-0­‐ -­‐0 1
+Total Credits: 16 Total Credits: 16
+Cat Code Course Title L-T­‐ -P­‐ Cr Cat Code Course Title L-­‐T-P­‐ Cr
+III Semester IV Semester
+P CSD7xx
+0 Major P roject – Part 1 0-0­‐ -1­‐ 0 5 P CSD8x
+x0 Major P roject – P art 2 0-­‐0-­‐22 11
+PE xxxxx Program Elective 4 3-­‐0-0­‐ 3 PE xxxxx Program Elective 6 3-0­‐ -0­‐ 3
+PE xxxxx Program Elective 5 3-­‐0-0­‐ 3 NG xxxxx Intellectual Property 1-0­‐ -­‐0 1
+OE xxxxx Open Elective - ­‐ 2 3-­‐0-0­‐ 3
+NG xxxxx System Design 1-0­‐ -0­‐ 1
+Total C redits: 15 Total Credits: 15
+1 Program C ore 18 credits
+2 Program Electives 18 c redits
+3 Open Electives 6 credits
+4 Project 16 c redits
+5 Non-g­‐ raded 4 credits
+Total 62 credits
+Course	  Structure	  for	  the
+M.Tech.	  (CSE)	  Program	  and
+Dual	  Degree	  M.Tech.	  (CSE)+Ph.D.	  Program
+*Maths	  Fractals:	  Linear	  Algebra,	  Probability	  and	  Random	  Processes,	  Optimization
+
+Program	  Electives	  for	  M.Tech.	  (CSE)	  and
+Dual	  Degree	  M.Tech.	  (CSE)+Ph.D.	  Program
+Courses	  offered	  by	  Department	  of	  Computer	  Science	  and	  Engineering
+• 
+Advanced	  Computer	  Graphics
+• 
+AI	  for	  Finance
+• 
+Artificial	  Intelligence	  I
+• 
+Artificial	  Intelligence	  II
+• 
+Bio-­‐image	  computing
+• 
+Blockchain
+• 
+Computer	  Graphics
+• 
+Computer	  Vision
+• 
+Computational	  Optimization
+• 
+Data	  Visualization
+• 
+Dependable	  AI
+• 
+Digital	  Image	  Analysis
+• 
+Edge	  and	  Fog	  Computing
+• 
+Embedded	  Systems
+• 
+GPU	  Programming
+• 
+Graph	  Theory	  and	  Applications
+• 
+Human	  Machine	  Interface
+• 
+Information	  Retrieval	  and	  Web	  Mining
+• 
+Introduction	  to	  Augmented	  Reality	  and	  Virtual	  Reality
+• 
+Machine	  Learning	  II
+• 
+Machine	  Learning	  with	  Big	  Data
+• 
+Natural	  Language	  Processing
+• 
+Neuromorphic	  Computing	  and	  Design
+• 
+Real	  time	  Autonomous	  Systems
+• 
+Ad	  hoc	  Wireless	  Networks
+• 
+Selected	  Topics	  in	  Artificial	  Intelligence	  -­‐	  I
+• 
+Selected	  Topics	  in	  Artificial	  Intelligence	  -­‐	  II
+• 
+Selected	  Topics	  in	  Artificial	  Intelligence	  -­‐	  III
+• 
+Selected	  Topics	  in	  Computer	  Science	  -­‐	  I
+• 
+Selected	  Topics	  in	  Computer	  Science	  -­‐	  II
+• 
+Selected	  Topics	  in	  Computer	  Science	  -­‐	  III
+• 
+Social	  Network	  Analysis
+• 
+Speech	  processing
+• 
+Stream	  Analytics
+• 
+Vehicular	  Ad-­‐hoc	  Networks	  (VANETs)
+Courses	  offered	  by	  Department	  of	  Electrical	  Engineering
+• 
+Adaptive	  Signal	  Processing
+• 
+Advanced	  Control	  System
+• 
+Advanced	  Digital	  Communication
+• 
+Advanced	  Signal	  Processing
+• 
+Analog	  and	  Interfacing	  Circuits
+• 
+Antenna	  Engineering
+• 
+Applied	  Optimization	  for	  Wireless	  Communication
+
+• 
+Backhaul	  Networks	  for	  Wireless	  Systems
+• 
+Coding	  Theory
+• 
+Compressive	  Sensing
+• 
+Computational	  Imaging
+• 
+Cyber	  Physical	  System	  Modelling	  Laboratory
+• 
+Data	  Compression
+• 
+Digital	  image	  and	  Video	  Processing	  Lab
+• 
+Digital	  Image	  Processing	  and	  Applications
+• 
+Digital	  Signal	  Processing
+• 
+Digital	  Video	  Processing
+• 
+Digital	  VLSI	  	  Design
+• 
+Embedded	  System	  Design
+• 
+Embedded	  System	  Design	  Lab
+• 
+Flexible	  and	  Printed	  Electronics
+• 
+Free	  Space	  Optical	  Communications
+• 
+GNSS	  Signal	  Processing
+• 
+Image	  Sensor	  Design	  and	  Applications
+• 
+Introduction	  to	  Cyber-­‐Physical	  Systems
+• 
+Machine	  Learning	  for	  Communication
+• 
+Mathematical	  Modelling	  and	  Simulation
+• 
+Microfluidics	  Technology
+• 
+Microsystems	  Fabrication	  Technology
+• 
+Millimeter	  Wave	  Technology
+• 
+Multi-­‐rate	  Digital	  Signal	  Processing
+• 
+Nanosensors
+• 
+Network	  Information	  Theory
+• 
+Neuromorphic	  computing	  and	  design
+• 
+Optical	  Fiber	  Communications
+• 
+Optimal	  Filtering
+• 
+Physical	  Layer	  Security
+• 
+Principles	  of	  Data	  and	  System	  Security
+• 
+Real	  Time	  Communications
+• 
+Resource	  Constrained	  AI
+• 
+RF	  IC	  Design
+• 
+RF	  IC	  Design	  Lab
+• 
+Selected	  Topics	  in	  Communication	  I
+• 
+Selected	  Topics	  in	  Communication	  I
+• 
+Selected	  Topics	  in	  Communication	  II
+• 
+Selected	  Topics	  in	  Communication	  III
+• 
+Selected	  Topics	  in	  Sensors	  &	  IoT	  I
+• 
+Selected	  Topics	  in	  Sensors	  &	  IoT	  II
+• 
+Selected	  Topics	  in	  Sensors	  &	  IoT	  III
+• 
+Selected	  Topics	  in	  Signal	  Processing	  I
+• 
+Selected	  Topics	  in	  Signal	  Processing	  II
+• 
+Selected	  Topics	  in	  Signal	  Processing	  III
+• 
+Sensors	  and	  IoT	  Lab
+• 
+Sensors	  and	  Measurement
+• 
+Smart	  Grid
+• 
+Speech	  and	  Audio	  Signal	  Processing
+• 
+Statistical	  Decision	  Theory
+
+• 
+Systems-­‐on-­‐Chips	  Design
+• 
+VLSI	  Design	  Lab
+• 
+Wavelets
+• 
+Wireless	  Communication
+• 
+Wireless	  Networks
+Courses	  offered	  by	  Department	  of	  Mechanical	  Engineering
+• 
+Robotics
+Courses	  offered	  by	  Department	  of	  Bioscience	  and	  Bioengineering
+• 
+Bioinformatics
+• 
+Computational	  Biology
+Courses	  offered	  by	  Department	  of	  Mathematics
+• 
+Financial	  Engineering
+• 
+Computational	  finance
+• 
+Computational	  Game	  Theory
+• 
+Advanced	  topics	  in	  computational	  PDE
+• 
+Dynamical	  Systems
+• 
+Stochastic	  Processes
+• 
+Representation	  of	  Finite	  Groups
+Courses	  offered	  by	  Department	  of	  Physics
+• 
+Quantum	  Computing
+• 
+Quantum	  Information	  Processing
+• 
+Quantum	  Cryptography	  and	  Coding
+Courses	  offered	  by	  IDRP	  Digital	  Humanities
+• 
+Digital	  Humanities
+
+Title Algorithms for Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Data structures and practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. (CSE) 1st Year Type Compulsory
+Prerequisite Computer Programming
+
+Title Software and Data Engineering Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Compulsory
+
+Title Computer Architecture Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Compulsory
+Prerequisite Computer Organization
+
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Security and Its Application Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Networks
+
+computer-security-spring-2014/ 
+2. Cryptography I, Coursera, Stanford University, https://www.coursera.org/learn/crypto

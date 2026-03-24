@@ -1,0 +1,25 @@
+SOURCE_URL: http://www.iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=142fd32c-aeae-4cd0-806e-44af505af2ed
+
+Congratulations to Dr. Moumita Mandal, Mr. Arnab Kayal, and Dr. Gnaneshwar Nelakanti for the acceptance of their research article in the Journal of Applied Numerical Mathematics.
+Congratulations to Dr. Moumita Mandal, Mr. Arnab Kayal, and Dr. Gnaneshwar Nelakanti for the acceptance of their research article in the Journal of Applied Numerical Mathematics.
+Title: Projection methods for approximate solution of a class of nonlinear Fredholm integrodifferential equations Authors: Moumita Mandal, Arnab Kayal and Gnaneshwar Nelakanti Journal: Applied Numerical Mathematics Volume: 184 Year: 2022 Publisher: Elsevier DOI: Projection methods for approximate solution of a class of nonlinear Fredholm integrodifferential equations Abstract: The aim of this article is to find the approximate solution of the nonlinear Fredholm integro-differential equations of second kind with smooth kernels with less computational complexity and investigate the asymptotic behavior of convergence of the approximate solutions by using global polynomials based projection methods. We develop the theoretical framework for the nonlinear Fredholm integro-differential equations to obtain the super-convergence results by Legendre polynomial based projection methods and their iterated versions. Numerical examples are considered to demonstrate the theoretical results.
+Title: Projection methods for approximate solution of a class of nonlinear Fredholm integrodifferential equations
+Authors: Moumita Mandal, Arnab Kayal and Gnaneshwar Nelakanti
+Journal: Applied Numerical Mathematics
+DOI: Projection methods for approximate solution of a class of nonlinear Fredholm integrodifferential equations
+Abstract: The aim of this article is to find the approximate solution of the nonlinear Fredholm integro-differential equations of second kind with smooth kernels with less computational complexity and investigate the asymptotic behavior of convergence of the approximate solutions by using global polynomials based projection methods. We develop the theoretical framework for the nonlinear Fredholm integro-differential equations to obtain the super-convergence results by Legendre polynomial based projection methods and their iterated versions. Numerical examples are considered to demonstrate the theoretical results.
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

@@ -1,0 +1,819 @@
+SOURCE_PDF: 5b10c724fb87_NIRF_202025_20Innovation_20Final_20Sumitted_20Data_2031Jan2025.pdf
+
+Academic Year 2023-24 2022-23 2021-22 2020-21 2019-20 2018-19
+UG [4 Years Program(s)] 510 530 490 490 - -
+PG [2 Year Program(s)] 276 229 - - - -
+PG [3 Year Program(s)] 11 0 0 - - -
+(All programs
+of all years) No. of Male
+Students No. of Female
+Students Total Students Within State
+(Including male
+& female) Outside State
+(Including male
+& female) Outside
+Country
+(Including male
+& female) Economically
+Backward
+(Including male
+& female) Socially
+Challenged
+(SC+ST+OBC
+Including male
+& female) No. of students
+receiving full
+tuition fee
+reimbursement
+from the State
+and Central
+Government No. of students
+receiving full
+tuition fee
+reimbursement
+from Institution
+Funds No. of students
+receiving full
+tuition fee
+reimbursement
+from the Private
+Bodies No. of students
+who are not
+receiving full
+tuition fee
+reimbursement
+UG [4 Years
+Program(s)] 1565 365 1930 429 1501 0 291 967 155 663 44 396
+PG [2 Year
+Program(s)] 683 194 877 101 776 0 223 422 7 152 4 482
+PG [3 Year
+Program(s)] 7 4 11 1 10 0 7 1 0 0 0 8
+Name of Venture Year of recognition by DPIIT/startup India DPIIT/Start up India Registration No.
+Divya Plasma Solutions Pvt. Ltd 2021-22 DIPP120986
+Novealthy Innovations Pvt. Ltd 2022-23 DIPP92337
+Healyantra Medical Technologies Pvt. Ltd. 2023-24 DIPP131278
+Caldor Health Technologies Pvt. Ltd. 2023-24 DIPP117705
+Medvocare Pvt. Ltd. 2023-24 DIPP117791
+Cellverse Pvt. Ltd. 2023-24 DIPP116483
+NxGen Healtech pvt. Ltd 2023-24 DIPP152244
+Sarbit Innovations Pvt. Ltd 2023-24 DIPP152082
+Rigvedita Technologies Pvt Ltd 2023-24 DIPP155762
+Sensekriti Technology Solutions Pvt. Ltd. 2023-24 DIPP177940
+Unicorniz Innovation Private Limited 2023-24 DIPP125907
+Submitted Institute Data for NIRF'2025'
+Sanctioned (Approved) Intake
+Total Actual Student Strength (Program(s) Offered by Your Institution)
+(All programs
+of all years)
+No. of Male
+Students
+No. of Female
+Students
+No. of students
+who are not
+receiving full
+tuition fee
+reimbursement
+UG [4 Years
+Start up recognized by DPIIT/startup India
+
+Name of startups DPIIT No. Amount received Organisation Name Year of receiving VC investment Achievement Level Type of Investment
+na NA 0 NA Select Year Select Level NA
+Name of the Start-up DPIIT No. Seed funding received(in
+Rupees) Name of Government
+Organization providing Seed
+Funding Year of Receiving the Fund Achievement Level Type of Investment
+na NA 0 NA Select Year Select Level NA
+Name of startups DPIIT No. FDI investment received(in
+Rupees) Organization Name Year of receiving FDI
+investment Achievement Level Type of Investment
+na NA 0 NA -Select- --Select Level-- NA
+Name of Government organisation from which grant is
+received Name of the Program or Scheme Amount of Grant received Year of receiving grant
+MSME Developing Endoscope socket to provide uninterpreted
+endoscopic visual field to ENT doctor for diagnosing patients
+with minimal discomfort 1050000 2023-24
+MSME A smart sensors array based system to detect breath VOCs
+related to respiratory diseases 1050000 2023-24
+MSME Frugal Oral care irrigation device to reduce risk of ventilator
+associated pneumonia 1050000 2023-24
+MSME Prevention of Pressure ulcers in critically ill patients using
+vented horizontally led air column mattress 1050000 2023-24
+MSME Development of a Point-of-Care (POC) device for Detection of
+Tuberculosis 1050000 2023-24
+BIRAC BioNest 25531224 2021-22
+BIRAC Biotechnology Ignition Grant Scheme 4970000 2021-22
+BIRAC Biotechnology Ignition Grant Scheme 5000000 2022-23
+Department of Science and Technology, Govt. of Rajasthan Entrepreneurship Development Program 170000 2021-22
+BIRAC Big Grant Biotechnology Ignition Grant Scheme 5000000 2022-23
+MSME Design and development of small scale milk disinfaction
+system using mercury-free plasma (MFP) UV Lamp technology 1050000 2021-22
+MSME Development of Transparent, Durable superhydrophobic-
+coating for self-cleaning of Endoscope 1050000 2021-22
+MSME A Wellness Device for Real-time Non-contact Blood Oxygen
+Saturation Measurements 1050000 2021-22
+MSME Human perception driven on-chip compression for power
+efficient CMOS image sensors 1050000 2021-22
+Startups which have got VC investment in previous 3 years
+Seed Funding
+FDI investment in previous 3 years
+Name of Government organisation from which grant is
+received
+Tuberculosis
+
+Calendar year 2023 2022 2021
+No. of Patents Published 7 4 1
+No. of Patents Granted 2 5 4
+Calendar year 2023 2022 2021
+Patents Commercialized & Technology Transferred 0 0 0
+Income from Technology Transferred(in Rupees). 0 0 0
+Name of the Start-up DPIIT No. Innovation Name Stage of technology
+Healyantra Medical Technologie DIPP131278 Single Operator Single hand syringe for Ultrasound guided
+procedures Analytical and experimental critical function and/or
+characteristic proof-of-concept.
+Caldor Health Technologies Pvt DIPP117705 Electromechanical Reshaping Analytical and experimental critical function and/or
+characteristic proof-of-concept.
+Medvocare Pvt. Ltd. DIPP117791 Endotracheal Tube with oral irrigator Analytical and experimental critical function and/or
+characteristic proof-of-concept.
+Cellverse Pvt. Ltd. DIPP116483 3D Bioprinted non animal disease models Component and/or breadboard validation in a laboratory
+environment.
+Cellverse Pvt. Ltd. DIPP116483 3D Bioprinted non animal disease models System prototype demonstration in an operational
+environment.
+NxGen Healtech pvt. Ltd DIPP152244 iVac Endo Analytical and experimental critical function and/or
+characteristic proof-of-concept.
+Sarbit Innovations Pvt. Ltd DIPP152082 Kavak Sensorium Analytical and experimental critical function and/or
+characteristic proof-of-concept.
+Rigvedita Technologies Pvt Ltd DIPP155762 Simulation Software System/subsystem model or prototype demonstration in a
+laboratory environment.
+Sensekriti Technology Solution DIPP177940 Alcohol Breath Analyzer Analytical and experimental critical function and/or
+characteristic proof-of-concept.
+Unicorniz Innovation Private L DIPP125907 VR Kshetra Actual system completed and qualified through test and
+demonstration.
+Name of startups DPIIT No. Company's Turnover
+Name of the Alumni Program passed from Year of passing Founder of company Year in which company appeared in Forbes /
+Fortune 500
+Patents
+Patents Commercialized & Technology Transferred
+Innovations at various stages of Technology Readiness Level
+Ventures/startups grown to turnover of 50 lacs
+Alumni that are Founders of Forbes/Fortune 500 companies
+
+Financial Year 2023-24 2022-23 2021-22
+Number of participants in Pre-incubation activities 0 0 0
+Expenditure on pre-incubation activities 0 0 0
+Financial Year 2023-24 2022-23 2021-22
+Number of participants Incubated 13 1 1
+Expenditure on incubation activities 7213949 9549400 13056300
+Income generated by institution through incubation activities 1441326 67000 403000
+Academic year Title of Course Program Coordinator(PC) Contact Details of(PC) No.of Participants Expenditure Program Start Date Program End Date
+2023-24 FDP on Pedagogy and
+Technology-enabled Learning Dr. Rajlaxmi Chouhan - 100 93000 2023-07-19 2023-07-23
+2022-23 NAiBS 2023: Next-Gen AI:
+Inspiration from Brain
+Science Dr. Suman Dhaka 0291-2801415 125 939463 2023-01-26 2023-01-29
+2023-24 AI in Healthcare Dr. Bikash Santra 0291-2801763 150 0 2024-11-16 2024-11-16
+2022-23 Workshop on - Understanding
+the brain using
+electrophysiology, imaging
+and stimulation Dr. Vignesh M 0291-2801753 30 225639 2023-07-02 2023-07-06
+2023-24 Online International Faculty
+Development Programme
+titled Dr. Tonisha Guin tonisha@iitj.ac.in 809 0 2023-08-19 2023-09-16
+Academic year Title of Course Course Code Type of Course Level of Course(UG/PG/PhD) Course Offering
+Department/Centre/ UnitName Total Credit Score
+2023-24 Evolution of Entrepreneurship
+through History MSL71310 Elective Course PhD School of Management and
+Entrepreneurship 2-0-1
+2023-24 Managing New Ventures MSL7220 Elective Course UG/PG School of Management and
+Entrepreneurship 2-0-0
+2023-24 Starting up New Venture MSL7240 Core Course UG/PG School of Management and
+Entrepreneurship 2-0-0
+2023-24 Business Plan Phase-I MSP7030 Core Course UG/PG School of Management and
+Entrepreneurship 0-0-8
+2023-24 Innovation and IP Management MSL71380 Elective Course UG/PG School of Management and
+Entrepreneurship 1-0-0
+2023-24 Innovation & IP Management OAL7010 Core Course PhD Institute Level 1-0-0
+Pre-incubation Activities
+Incubation Activities
+2023-24
+FDP on Pedagogy and
+Technology-enabled Learning
+2022-23
+NAiBS 2023: Next-Gen AI:
+Inspiration from Brain
+Science
+2022-23
+Workshop on - Understanding
+the brain using
+electrophysiology, imaging
+and stimulation
+2023-24
+Online International Faculty
+Development Programme
+titled
+Academic Courses in Innovation, Entrepreneurship and IPR
+2023-24
+Evolution of Entrepreneurship
+through History
+Faculty Details
+
+Srno Name Age Designation Gender Qualification Experience (In
+Months) Currently working
+with institution? Joining Date Leaving Date Association type
+1 Abir Bhattacharyya 36 Associate Professor Male Ph.D 105 Yes 20-09-2018 -- Regular
+2 Amandeep Kaur 35 Assistant Professor Female Ph.D 76 Yes 09-09-2019 -- Regular
+3 Amitava Mitra 64 Professor Male Ph.D 480 No 09-12-2019 30-10-2024 Regular
+4 Anuj Pal Kapoor 38 Associate Dean Male Ph.D 119 Yes 01-07-2020 -- Regular
+5 Asif Ekbal 46 Professor Male Ph.D 176 Yes 29-04-2024 -- Regular
+6 B M Krishna
+Mariserla 40 Assistant Professor Male Ph.D 126 Yes 09-05-2019 -- Regular
+7 Bhupendra
+Hardikkumar
+Kothadia 36 Associate Dean Male Ph.D 102 Yes 28-05-2018 -- Regular
+8 Bithin Ghorai 33 Assistant Professor Male Ph.D 34 No 18-09-2023 27-12-2023 Regular
+9 Chhabra Meenu 41 Professor Female Ph.D 182 Yes 01-08-2011 -- Regular
+10 Debnath Ananya 45 Professor Female Ph.D 193 Yes 16-05-2013 -- Regular
+11 Devendra Singh
+Negi 36 Assistant Professor Male Ph.D 98 Yes 15-11-2021 -- Regular
+12 Dipanjan Roy 46 Associate Professor Male Ph.D 112 Yes 07-10-2021 -- Regular
+13 Ganesh Manjhi 42 Assistant Professor Male Ph.D 197 Yes 27-06-2022 -- Regular
+14 Gourhari Ghosh 32 Assistant Professor Male Ph.D 28 Yes 22-09-2022 -- Regular
+15 Hiremath
+Kirankumar R 47 Associate Professor Male Ph.D 226 Yes 20-07-2012 -- Regular
+16 Jayant Kumar
+Mohanta 31 Assistant Professor Male Ph.D 68 Yes 15-03-2021 -- Regular
+17 Kanak Yadav 33 Assistant Professor Female Ph.D 84 Yes 25-08-2023 -- Regular
+18 Kumar Atul 44 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 172 Yes 15-03-2012 -- Regular
+19 Malyala Pavana
+Ravi Sai Kiran 33 Assistant Professor Male Ph.D 49 Yes 15-04-2021 -- Regular
+20 Mayank Suman 33 Assistant Professor Male Ph.D 37 Yes 24-03-2022 -- Regular
+21 Mitali Mukerji 56 Professor Female Ph.D 310 Yes 25-05-2021 -- Regular
+22 Mukherjee Soumava 37 Associate Professor Male Ph.D 95 Yes 26-12-2016 -- Regular
+23 Niladri Sekhar
+Tripathy 38 Assistant Professor Male Ph.D 81 Yes 19-12-2019 -- Regular
+24 Nitin Bhatia 34 Associate Professor Male Ph.D 91 Yes 01-05-2019 -- Regular
+25 Parag Arvind
+Deshpande 38 Professor Male Ph.D 158 Yes 01-01-2024 -- Regular
+26 Pradip Kumar
+Tewari 65 Professor Male Ph.D 492 Yes 15-07-2019 -- Regular
+27 Pratik Mazumder 33 Assistant Professor Male Ph.D 58 Yes 10-08-2022 -- Regular
+Mariserla
+7
+Bhupendra
+Hardikkumar
+Kothadia
+11
+Devendra Singh
+Negi
+15
+Hiremath
+Kirankumar R
+16
+Jayant Kumar
+Mohanta
+19
+Malyala Pavana
+Ravi Sai Kiran
+23
+Niladri Sekhar
+Tripathy
+25
+Parag Arvind
+Deshpande
+26
+Pradip Kumar
+Tewari
+
+28 Ramesh Asapu 38 Assistant Professor Male Ph.D 104 Yes 28-09-2020 -- Regular
+29 Richa Singh 44 Professor Female Ph.D 202 Yes 16-12-2019 -- Regular
+30 Sahu Satyajit 43 Associate Professor Male Ph.D 214 Yes 15-02-2013 -- Regular
+31 Saran Aadhar 32 Assistant Professor Male Ph.D 40 Yes 25-11-2021 -- Regular
+32 Sharma Ankita 39 Dean / Principal /
+Director / Vice
+Chancellor Female Ph.D 140 Yes 07-03-2013 -- Regular
+33 Shrutidhara Sarma 35 Assistant Professor Female Ph.D 85 Yes 16-04-2019 -- Regular
+34 Somitra Kumar
+Sanadhya 51 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 184 Yes 17-11-2020 -- Regular
+35 Subrata Chakraborty 38 Assistant Professor Male Ph.D 114 Yes 11-06-2019 -- Regular
+36 Sumana Som 34 Assistant Professor Female Ph.D 17 Yes 20-07-2023 -- Regular
+37 Suresh Kumar
+Padala 28 Assistant Professor Male Ph.D 18 No 25-09-2023 22-07-2024 Regular
+38 Tekcham Gishan
+Singh 33 Assistant Professor Male Ph.D 56 Yes 20-01-2021 -- Regular
+39 Vadera Raj Sampat 65 Other Male Ph.D 491 Yes 20-07-2018 -- Regular
+40 Vijay Vivek 46 Associate Professor Male Ph.D 299 Yes 11-03-2010 -- Regular
+41 Yerasani Sinjana 33 Assistant Professor Female Ph.D 55 No 11-05-2020 19-04-2024 Regular
+42 Abhinaba Lahiri 34 Assistant Professor Male Ph.D 74 Yes 23-08-2021 -- Regular
+43 Alok Ashutosh
+Kumar 45 Professor Male Ph.D 205 Yes 31-10-2011 -- Regular
+44 Amit Singh 33 Assistant Professor Male Ph.D 44 No 28-01-2022 31-05-2024 Regular
+45 Ankur Gupta 39 Associate Dean Male Ph.D 106 Yes 20-06-2019 -- Regular
+46 Ashish Pathak 36 Assistant Professor Male Ph.D 53 Yes 04-05-2021 -- Regular
+47 Ayan Sadhukhan 37 Assistant Professor Male Ph.D 91 Yes 07-02-2022 -- Regular
+48 Bhatnagar Gaurav 40 Professor Male Ph.D 169 Yes 12-09-2013 -- Regular
+49 Bimal Mandal 34 Assistant Professor Male Ph.D 68 Yes 01-07-2022 -- Regular
+50 Chandan Pandey 34 Assistant Professor Male Ph.D 76 Yes 15-04-2019 -- Regular
+51 Debanjan Guha Roy 33 Assistant Professor Male Ph.D 65 Yes 01-01-2020 -- Regular
+52 Deepika Bhattu 37 Associate Professor Female Ph.D 100 Yes 20-01-2020 -- Regular
+53 Dinesh Kumar
+Ahirwar 41 Assistant Professor Male Ph.D 174 Yes 29-03-2022 -- Regular
+54 Gandhi Saurabh
+Rajendra 33 Assistant Professor Male Ph.D 52 Yes 12-01-2024 -- Regular
+55 Gopakumar K U 37 Assistant Professor Male Ph.D 99 Yes 18-08-2022 -- Regular
+56 Harshit Agarwal 35 Associate Professor Male Ph.D 86 Yes 26-12-2019 -- Regular
+57 Jaiveer Singh 37 Associate Professor Male Ph.D 101 Yes 29-10-2019 -- Regular
+34
+Somitra Kumar
+Sanadhya
+37
+Suresh Kumar
+Padala
+38
+Tekcham Gishan
+Singh
+43
+Alok Ashutosh
+Kumar
+53
+Dinesh Kumar
+Ahirwar
+54
+Gandhi Saurabh
+Rajendra
+
+58 Kalra Sumit 36 Assistant Professor Male Ph.D 160 Yes 23-07-2018 -- Regular
+59 Krishna Kumar
+Balaraman 52 Associate Professor Male Ph.D 289 Yes 24-08-2020 -- Regular
+60 Lawqueen Kanesh 31 Assistant Professor Female Ph.D 42 Yes 24-01-2022 -- Regular
+61 Manu Kanchan 38 Assistant Professor Male Ph.D 39 Yes 02-11-2023 -- Regular
+62 Mishra Amit Kumar 43 Professor Male Ph.D 227 Yes 19-07-2010 -- Regular
+63 Moumita Mandal 34 Assistant Professor Female Ph.D 77 Yes 19-07-2019 -- Regular
+64 Neeraj Jain 63 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 448 Yes 12-02-2021 -- Regular
+65 Nirmalya Bachhar 39 Assistant Professor Male Ph.D 86 No 26-11-2020 14-10-2024 Regular
+66 Pankaj Sheshrao
+Chavan 35 Assistant Professor Male Ph.D 48 Yes 26-06-2024 -- Regular
+67 Prabhat Kumar
+Jaiswal 40 Associate Professor Male Ph.D 146 Yes 18-04-2019 -- Regular
+68 Prashant Kumar
+Gupta 36 Assistant Professor Male Ph.D 64 Yes 16-11-2020 -- Regular
+69 Rajyalakshmi
+Garaga 32 Assistant Professor Female Ph.D 51 Yes 14-07-2023 -- Regular
+70 Riby Abraham Boby 40 Assistant Professor Male Ph.D 82 Yes 25-08-2022 -- Regular
+71 Saakshi Dhanekar 40 Associate Professor Female Ph.D 228 Yes 09-09-2019 -- Regular
+72 SAPTARSHI PYNE 36 Assistant Professor Male Ph.D 70 No 24-07-2023 27-06-2024 Regular
+73 Shahab Ahmad 38 Associate Professor Male Ph.D 115 Yes 03-09-2019 -- Regular
+74 Shreya Banerjee 32 Assistant Professor Female Ph.D 48 Yes 03-10-2023 -- Regular
+75 Sk Md Hasan 36 Assistant Professor Male Ph.D 65 Yes 09-11-2021 -- Regular
+76 Subir Debnath 56 Other Male Ph.D 336 No 25-08-2023 22-08-2024 Regular
+77 Suman Kundu 40 Assistant Professor Male Ph.D 178 Yes 01-07-2019 -- Regular
+78 Surajit Ghosh 46 Professor Male Ph.D 230 Yes 09-07-2019 -- Regular
+79 Tara Chand
+Kumawat 34 Assistant Professor Male Ph.D 77 Yes 03-01-2022 -- Regular
+80 V V M S
+Chandramouli 49 Associate Professor Male Ph.D 251 Yes 30-11-2009 -- Regular
+81 Vignesh T G 36 Assistant Professor Male Ph.D 86 No 01-12-2022 03-12-2024 Regular
+82 Yashaswi Verma 34 Assistant Professor Male Ph.D 94 Yes 11-04-2019 -- Regular
+83 Ajay Agarwal 57 Professor Male Ph.D 307 Yes 12-05-2021 -- Regular
+84 Amit Bhardwaj 37 Associate Professor Male Ph.D 99 Yes 03-09-2019 -- Regular
+85 Amrita Puri 35 Assistant Professor Female Ph.D 65 Yes 15-07-2019 -- Regular
+86 Anupama Mohan 46 Associate Professor Female Ph.D 164 Yes 21-12-2022 -- Regular
+87 Atul Kumar Sharma 31 Assistant Professor Male Ph.D 60 Yes 11-05-2020 -- Regular
+59
+Krishna Kumar
+Balaraman
+66
+Pankaj Sheshrao
+Chavan
+67
+Prabhat Kumar
+Jaiswal
+68
+Prashant Kumar
+Gupta
+69
+Rajyalakshmi
+Garaga
+79
+Tara Chand
+Kumawat
+Chandramouli
+
+88 Benarjee
+Subhashish 51 Professor Male Ph.D 232 Yes 12-07-2010 -- Regular
+89 Bhupendra Reniwal 39 Assistant Professor Male Ph.D 109 Yes 18-10-2022 -- Regular
+90 Byomakesh Debata 39 Assistant Professor Male Ph.D 57 No 01-01-2024 22-07-2024 Regular
+91 Chhanda
+Chakraborti 70 Professor Female Ph.D 335 No 31-08-2021 30-08-2024 Regular
+92 Deepak Arora 45 Associate Professor Male Ph.D 150 Yes 10-02-2020 -- Regular
+93 Devi Prasad Dash 37 Assistant Professor Male Ph.D 63 Yes 12-10-2020 -- Regular
+94 Dixit Ambesh 45 Professor Male Ph.D 212 Yes 25-07-2011 -- Regular
+95 Gangawane Krunal
+Madhukar 39 Assistant Professor Male Ph.D 104 Yes 06-03-2023 -- Regular
+96 Gupta Ritu 38 Associate Professor Female Ph.D No 07-08-2015 30-06-2023 Regular
+97 Hirshikesh 34 Assistant Professor Male Ph.D 74 Yes 19-10-2022 -- Regular
+98 Jaywanth H Arakeri 67 Professor Male Ph.D 437 Yes 13-02-2023 -- Regular
+99 Kashyap Bhagwati P 76 Professor Male Ph.D 640 Yes 02-08-2017 -- Regular
+100 Kumar Mahesh 44 Professor Male Ph.D 226 Yes 18-03-2013 -- Regular
+101 Manish Aggarwal 45 Associate Professor Male Ph.D 234 Yes 27-05-2020 -- Regular
+102 Mayank Vatsa 43 Professor Male Ph.D 194 Yes 16-12-2019 -- Regular
+103 Mithu Rani Kuiti 36 Assistant Professor Female Ph.D 54 Yes 03-01-2022 -- Regular
+104 Mukhopadhyay
+Sudipto 45 Assistant Professor Male Ph.D 276 Yes 16-12-2016 -- Regular
+105 Nilkamal Hazra 36 Associate Professor Male Ph.D 108 Yes 30-05-2019 -- Regular
+106 Nitin Kumar Sharma 31 Assistant Professor Male Ph.D 67 Yes 13-09-2021 -- Regular
+107 Paranjothy
+Manikandan 45 Professor Male Ph.D 191 Yes 25-02-2013 -- Regular
+108 Pradip Sasmal 35 Assistant Professor Male Ph.D 80 Yes 23-06-2022 -- Regular
+109 Praveenkumar
+Sappidi 36 Assistant Professor Male Ph.D 85 Yes 07-12-2020 -- Regular
+110 Ramesh Kashinath
+Metre 41 Associate Professor Male Ph.D 119 Yes 11-07-2016 -- Regular
+111 Renuka Verma 32 Assistant Professor Female Ph.D 7 No 10-04-2023 07-07-2023 Regular
+112 S Srivatsa Srinivas 30 Assistant Professor Male Ph.D 30 Yes 24-06-2022 -- Regular
+113 Santosh
+Mogurampelly 41 Associate Professor Male Ph.D 127 Yes 30-04-2019 -- Regular
+114 Shah Suril
+Vijaykumar 43 Professor Male Ph.D 151 Yes 14-07-2015 -- Regular
+115 Shobhana Singh 37 Assistant Professor Female Ph.D 136 Yes 19-09-2019 -- Regular
+116 Sinha Monika 47 Associate Professor Female Ph.D 241 Yes 01-07-2011 -- Regular
+117 Subhasish Dey 66 Other Male Ph.D 480 Yes 12-07-2023 -- Regular
+88
+Benarjee
+Subhashish
+91
+Chhanda
+Chakraborti
+95
+Gangawane Krunal
+Madhukar
+104
+Mukhopadhyay
+Sudipto
+107
+Paranjothy
+Manikandan
+109
+Praveenkumar
+Sappidi
+110
+Ramesh Kashinath
+Metre
+113
+Santosh
+Mogurampelly
+114
+Shah Suril
+Vijaykumar
+
+118 Suman Dhaka 35 Assistant Professor Female Ph.D 74 Yes 31-12-2020 -- Regular
+119 Suraj Srivastava 35 Assistant Professor Male Ph.D 57 Yes 14-12-2023 -- Regular
+120 Tanmoy Kundu 34 Assistant Professor Male Ph.D No 05-04-2022 31-05-2023 Regular
+121 Tuhina Mukherjee 32 Assistant Professor Female Ph.D 65 Yes 01-03-2021 -- Regular
+122 Vignesh
+Muralidharan 34 Assistant Professor Male Ph.D 73 Yes 27-03-2023 -- Regular
+123 Yadav Sandeep
+Kumar 48 Associate Dean Male Ph.D 237 Yes 21-12-2010 -- Regular
+124 Reetanjali Moharana 39 Associate Professor Female Ph.D 115 Yes 30-05-2019 -- Regular
+125 S C Bose 65 Professor Male Ph.D 328 No 15-05-2019 14-05-2024 Regular
+126 Santanu Choudhury 63 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 388 No 10-12-2018 01-05-2024 Regular
+127 Seema 32 Assistant Professor Female Ph.D 8 Yes 26-10-2023 -- Regular
+128 Shilpa Dang 40 Assistant Professor Female Ph.D 69 Yes 12-10-2021 -- Regular
+129 Singh Priyanka 40 Associate Professor Female Ph.D 168 Yes 01-05-2017 -- Regular
+130 Subhash Bhagat 42 Assistant Professor Male Ph.D 69 Yes 22-08-2022 -- Regular
+131 Sukhendu Ghosh 37 Associate Professor Male Ph.D 100 Yes 28-11-2019 -- Regular
+132 Sunita 36 Assistant Professor Female Ph.D 80 Yes 06-09-2022 -- Regular
+133 Tanmay Nitin
+Inamdar 30 Assistant Professor Male Ph.D 31 Yes 15-12-2023 -- Regular
+134 Trishikhi
+Raychaudhury 44 Associate Professor Female Ph.D 141 Yes 13-12-2021 -- Regular
+135 Venkatesha Murthy
+R 42 Associate Dean Male Ph.D 146 Yes 19-05-2020 -- Regular
+136 Vinod Vijay Kumar 35 Assistant Professor Male Ph.D 53 Yes 19-06-2023 -- Regular
+137 Aali Pant 34 Assistant Professor Female Ph.D 46 Yes 22-03-2022 -- Regular
+138 Akolekar Harshal
+Deepak 33 Assistant Professor Male Ph.D 51 Yes 31-01-2022 -- Regular
+139 Amit Mukherjee 35 Assistant Professor Male Ph.D 67 Yes 29-09-2023 -- Regular
+140 Angan Sengupta 38 Assistant Professor Male Ph.D 93 Yes 22-05-2020 -- Regular
+141 Arani Ali Khan 37 Assistant Professor Male Ph.D 85 Yes 01-04-2019 -- Regular
+142 Avinash Sharma 40 Associate Professor Male Ph.D 132 Yes 22-06-2023 -- Regular
+143 Bhargab
+Chattopadhyay 40 Associate Professor Male Ph.D 147 Yes 06-05-2022 -- Regular
+144 Bijnan
+Bandyopadhyay 67 Professor Male Ph.D 450 Yes 03-01-2022 -- Regular
+145 Chakraborty Prodyut
+Ranjan 47 Professor Male Ph.D 163 Yes 23-07-2014 -- Regular
+122
+Vignesh
+Muralidharan
+123
+Yadav Sandeep
+Kumar
+Chancellor
+133
+Tanmay Nitin
+Inamdar
+134
+Trishikhi
+Raychaudhury
+135
+Venkatesha Murthy
+138
+Akolekar Harshal
+Deepak
+143
+Bhargab
+Chattopadhyay
+144
+Bijnan
+Bandyopadhyay
+145
+Chakraborty Prodyut
+Ranjan
+
+146 Chiranjoy
+Chattopadhyay 42 Assistant Professor Male Ph.D No 13-07-2015 30-05-2022 Regular
+147 Deepak M Fulwani 47 Associate Dean Male Ph.D 265 Yes 11-04-2011 -- Regular
+148 Dibyendu Kumar
+Sasmal 39 Associate Professor Male Ph.D 133 Yes 12-09-2019 -- Regular
+149 Farhat Naz 42 Associate Professor Female Ph.D 220 Yes 29-07-2019 -- Regular
+150 George K J 53 Associate Professor Male Ph.D 210 Yes 22-03-2011 -- Regular
+151 Hari Narayanan V 46 Associate Professor Male Ph.D 205 Yes 14-03-2011 -- Regular
+152 Indranil Hazra 32 Assistant Professor Male Ph.D 22 No 05-06-2023 19-07-2023 Regular
+153 Jitendra Kumar 37 Assistant Professor Male Ph.D 76 Yes 02-02-2023 -- Regular
+154 Kirti Sankhala 31 Assistant Professor Female Ph.D 67 Yes 26-05-2023 -- Regular
+155 Kunwar Aditya 37 Assistant Professor Male Ph.D 93 Yes 05-10-2021 -- Regular
+156 Manoharan Shankar 37 Associate Dean Male Ph.D 120 Yes 19-12-2017 -- Regular
+157 Md Abu
+Talhamainuddin
+Ansary 35 Assistant Professor Male Ph.D 59 Yes 15-09-2021 -- Regular
+158 Monika Dubey 32 Assistant Professor Female Ph.D 14 Yes 18-09-2023 -- Regular
+159 Narayanan V 55 Associate Professor Male Ph.D 241 Yes 27-01-2012 -- Regular
+160 Nipal Deka 36 Assistant Professor Male Ph.D 47 No 18-08-2023 30-09-2024 Regular
+161 Palas Das 37 Assistant Professor Male Ph.D 94 Yes 31-08-2022 -- Regular
+162 Patnayakuni Ravi
+Prakash 32 Assistant Professor Male Ph.D 63 Yes 01-03-2021 -- Regular
+163 Prasenjeet
+Tribhuvan 41 Assistant Professor Male Ph.D 103 Yes 15-04-2019 -- Regular
+164 Rajdeep Konar 37 Assistant Professor Male Ph.D 56 Yes 17-04-2023 -- Regular
+165 Ranju Mohan 41 Associate Dean Female Ph.D 99 Yes 15-06-2020 -- Regular
+166 Ravi Yadav 31 Assistant Professor Male Ph.D 46 Yes 07-06-2021 -- Regular
+167 Romi Banerjee 38 Assistant Professor Female Ph.D 145 Yes 13-04-2020 -- Regular
+168 Sanhita Das 36 Assistant Professor Female Ph.D 67 Yes 05-06-2023 -- Regular
+169 Saurabh
+Maheshwari 41 Assistant Professor Male Ph.D 139 Yes 29-05-2023 -- Regular
+170 Sharma Rakesh
+Kumar 48 Professor Male Ph.D 240 Yes 03-05-2010 -- Regular
+171 Siddharth Srivastava 51 Other Male Ph.D 247 Yes 11-10-2021 -- Regular
+172 Sreejit Krishnan 33 Assistant Professor Male Ph.D 40 Yes 08-01-2024 -- Regular
+173 Suchetana
+Chakraborty 37 Associate Dean Female Ph.D 98 Yes 01-12-2020 -- Regular
+174 Sunanda Sangwan 67 Professor Female Ph.D No 14-10-2022 13-10-2023 Regular
+175 Suresh Sarkar 40 Assistant Professor Male Ph.D 77 Yes 21-12-2022 -- Regular
+146
+Chiranjoy
+Chattopadhyay
+148
+Dibyendu Kumar
+Sasmal
+Talhamainuddin
+Ansary
+162
+Patnayakuni Ravi
+Prakash
+163
+Prasenjeet
+Tribhuvan
+169
+Saurabh
+Maheshwari
+170
+Sharma Rakesh
+Kumar
+173
+Suchetana
+Chakraborty
+
+176 Tiwari Shree
+Prakash 43 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 199 Yes 12-05-2011 -- Regular
+177 Venkat Ram Reddy
+Ganuthula 34 Assistant Professor Male Ph.D 80 Yes 08-05-2020 -- Regular
+178 Vimal Raj Sharma 34 Assistant Professor Male Ph.D 33 Yes 01-09-2022 -- Regular
+179 Ruhi Sonal 35 Assistant Professor Female Ph.D No 06-01-2021 07-08-2023 Regular
+180 Sankalp Pratap 51 Associate Professor Male Ph.D No 10-09-2020 16-05-2023 Regular
+181 Saurabh Sanjay
+Nene 36 Associate Professor Male Ph.D 87 Yes 13-08-2020 -- Regular
+182 Sherin Sabu 35 Assistant Professor Female Ph.D 45 Yes 13-04-2023 -- Regular
+183 Singh Arun Kumar 44 Associate Professor Male Ph.D 215 Yes 30-05-2013 -- Regular
+184 Srijan Sengupta 36 Assistant Professor Male Ph.D 86 Yes 11-05-2020 -- Regular
+185 Sudipta
+Bhattacharyya 40 Associate Professor Male Ph.D 137 Yes 30-08-2019 -- Regular
+186 Sunil Kumar Lohar 40 Assistant Professor Male Ph.D 184 Yes 21-04-2023 -- Regular
+187 Sushmita Paul 40 Assistant Professor Female Ph.D No 23-05-2016 07-12-2022 Regular
+188 Tonisha Guin 34 Assistant Professor Female Ph.D 85 Yes 13-07-2022 -- Regular
+189 Venkatesan C 73 Professor Male Ph.D 508 Yes 02-07-2018 -- Regular
+190 Vinay Reddy
+Venumuddala 33 Assistant Professor Male Ph.D 103 No 05-06-2023 20-08-2024 Regular
+191 Abhilasha
+Maheswari 31 Assistant Professor Female Ph.D 42 No 06-09-2021 30-05-2024 Regular
+192 Akshay 32 Assistant Professor Male Ph.D 44 Yes 04-09-2023 -- Regular
+193 Amit Sharma 37 Assistant Professor Male Ph.D 53 Yes 30-07-2020 -- Regular
+194 Angshuman Paul 36 Assistant Professor Male Ph.D 78 Yes 01-06-2021 -- Regular
+195 Arun Kumar R 38 Assistant Professor Male Ph.D 109 Yes 03-06-2019 -- Regular
+196 Awathare Nitin
+Niranjan 36 Assistant Professor Male Ph.D 61 Yes 03-10-2023 -- Regular
+197 Bhaswati Sarma 37 Other Female Ph.D 57 Yes 03-04-2023 -- Regular
+198 Bikash Santra 39 Assistant Professor Male Ph.D 87 Yes 03-11-2023 -- Regular
+199 Chandan Datta 34 Assistant Professor Male Ph.D 61 Yes 05-01-2024 -- Regular
+200 Chouhan Rajlaxmi 37 Associate Professor Female Ph.D 120 Yes 23-05-2016 -- Regular
+201 Deepak Mishra 37 Associate Dean Male Ph.D 63 Yes 06-09-2019 -- Regular
+202 Dilpreet Kaur 37 Associate Professor Female Ph.D 113 Yes 23-07-2019 -- Regular
+203 Gafoor Shaik Abdul 57 Associate Professor Male Ph.D 354 Yes 04-07-2013 -- Regular
+204 Ghosh Somnath 43 Associate Dean Male Ph.D 151 Yes 28-11-2016 -- Regular
+205 Harit Gaurav 46 Professor Male Ph.D 223 Yes 08-07-2010 -- Regular
+176
+Tiwari Shree
+Prakash
+177
+Venkat Ram Reddy
+Ganuthula
+181
+Saurabh Sanjay
+Nene
+185
+Sudipta
+Bhattacharyya
+190
+Vinay Reddy
+Venumuddala
+191
+Abhilasha
+Maheswari
+196
+Awathare Nitin
+Niranjan
+
+206 Jai Narayan Tripathi 38 Assistant Professor Male Ph.D 122 Yes 08-11-2019 -- Regular
+207 Jitesh Mohnot 39 Assistant Professor Male Ph.D 97 Yes 04-01-2022 -- Regular
+208 Koundinya NTBN 35 Assistant Professor Male Ph.D 52 Yes 16-04-2024 -- Regular
+209 Lalit 33 Assistant Professor Male Ph.D 55 Yes 14-08-2023 -- Regular
+210 Manoj Choudhary 55 Professor Male Ph.D 265 No 11-10-2021 16-01-2023 Regular
+211 Milan Kumar Hazra 33 Assistant Professor Male Ph.D 56 Yes 10-10-2023 -- Regular
+212 Monika Tanwar 38 Assistant Professor Female Ph.D 136 Yes 31-01-2022 -- Regular
+213 Natasa Thoudam 41 Assistant Professor Female Ph.D 102 Yes 11-01-2021 -- Regular
+214 Nipun Arora 35 Assistant Professor Male Ph.D 82 Yes 16-09-2019 -- Regular
+215 Pallavi Jain 35 Assistant Professor Female Ph.D 82 Yes 15-05-2020 -- Regular
+216 Plappally Anand
+Krishnan 44 Professor Male Ph.D 211 Yes 01-03-2012 -- Regular
+217 Prasenjit Sarkar 37 Assistant Professor Male Ph.D 99 Yes 22-09-2020 -- Regular
+218 Rajendra Nagar 33 Assistant Professor Male Ph.D 70 Yes 29-07-2019 -- Regular
+219 Ravi K R 48 Associate Professor Male Ph.D 218 Yes 24-09-2018 -- Regular
+220 Abhishek Sarkar 36 Associate Dean Male Ph.D 103 Yes 31-07-2019 -- Regular
+221 Alok Ranjan 35 Assistant Professor Male Ph.D 131 Yes 28-12-2020 -- Regular
+222 Amitava Banerjee 36 Assistant Professor Male Ph.D 62 Yes 03-12-2021 -- Regular
+223 Anoop Jain 38 Assistant Professor Male Ph.D 102 Yes 26-08-2019 -- Regular
+224 Ashok Joshi 67 Professor Male Ph.D 466 No 14-09-2021 30-11-2024 Regular
+225 Ayla Joncheere 35 Associate Professor Female Ph.D 86 Yes 22-06-2023 -- Regular
+226 Bhivraj Suthar 37 Assistant Professor Male Ph.D 72 Yes 25-10-2023 -- Regular
+227 Binod Kumar 32 Assistant Professor Male Ph.D 43 Yes 02-06-2021 -- Regular
+228 Chandana N 34 Assistant Professor Female Ph.D 66 Yes 08-06-2023 -- Regular
+229 Debasis Das 39 Associate Professor Male Ph.D 106 Yes 15-05-2019 -- Regular
+230 Desai Kaushalkumar
+A 43 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 169 Yes 24-12-2014 -- Regular
+231 Dip Sankar Banerjee 37 Associate Professor Male Ph.D 106 Yes 01-12-2020 -- Regular
+232 Gandi Naidu Appala 43 Associate Professor Male Ph.D 204 Yes 13-12-2017 -- Regular
+233 Gopal Rawat 34 Assistant Professor Male Ph.D No 09-09-2022 19-10-2022 Regular
+234 Himanshu Kumar 38 Assistant Professor Male Ph.D 111 Yes 07-08-2019 -- Regular
+235 Jangam Bhushan
+Praveen 31 Assistant Professor Male Ph.D 30 Yes 03-02-2023 -- Regular
+236 Kamaljit Rangra 65 Professor Male Ph.D 448 Yes 11-04-2019 -- Regular
+237 Kshitij Gajjar 40 Assistant Professor Male Ph.D 48 No 24-06-2022 21-01-2024 Regular
+216
+Plappally Anand
+Krishnan
+230
+Desai Kaushalkumar
+235
+Jangam Bhushan
+Praveen
+
+238 Malvika Tyagi 36 Assistant Professor Female Ph.D No 07-06-2021 20-12-2022 Regular
+239 Mathur Ashish 35 Associate Dean Male Ph.D 85 Yes 26-12-2017 -- Regular
+240 Mishra
+Durgamadhab 41 Assistant Professor Male Ph.D 131 Yes 28-06-2018 -- Regular
+241 Mriganka Mandal 34 Assistant Professor Male Ph.D 51 Yes 18-07-2022 -- Regular
+242 Neha Jain 42 Associate Professor Female Ph.D 126 Yes 09-05-2019 -- Regular
+243 Nishanth Kumar 38 Assistant Professor Male Ph.D 78 Yes 09-08-2021 -- Regular
+244 Pankaj Yadav 36 Assistant Professor Male Ph.D 103 Yes 27-06-2019 -- Regular
+245 Pradeep Kumar
+Dammala 34 Associate Dean Male Ph.D 62 Yes 08-05-2020 -- Regular
+246 Pratiher Barun 43 Associate Professor Male Ph.D 217 Yes 04-07-2011 -- Regular
+247 Ram Prakash 51 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 236 Yes 24-05-2019 -- Regular
+248 Raviraj Vankayala 40 Associate Professor Male Ph.D 136 Yes 20-01-2020 -- Regular
+249 Rohan Diliprao
+Erande 38 Assistant Professor Male Ph.D 103 Yes 22-04-2019 -- Regular
+250 Sangeeta Sahney 52 Professor Female Ph.D 263 No 27-12-2021 10-12-2023 Regular
+251 Sarveswaran Vidya 53 Associate Professor Female Ph.D No 08-06-2012 16-06-2023 Regular
+252 Sharma Puneet 41 Associate Professor Male Ph.D 160 Yes 15-06-2012 -- Regular
+253 Shuvajit Mukherjee 36 Assistant Professor Male Ph.D 51 Yes 28-02-2024 -- Regular
+254 Sreedevi D 38 Assistant Professor Female Ph.D 61 Yes 22-08-2022 -- Regular
+255 Sucharita Dey 41 Assistant Professor Female Ph.D 130 Yes 16-06-2021 -- Regular
+256 Sumit Kamal 32 Assistant Professor Male Ph.D 39 Yes 03-01-2022 -- Regular
+257 Suresh P 39 Assistant Professor Male Ph.D No 05-01-2023 24-04-2023 Regular
+258 Tiwari Anil Kumar 56 Professor Male Ph.D 329 Yes 19-05-2010 -- Regular
+259 Varanasi Santhosh
+Kumar 32 Assistant Professor Male Ph.D 52 Yes 22-05-2023 -- Regular
+260 Vikky Anand 33 Assistant Professor Male Ph.D 51 Yes 16-11-2020 -- Regular
+261 Ravindra B 57 Professor Male Ph.D 363 Yes 04-01-2010 -- Regular
+262 Akanksha
+Choudhary 32 Assistant Professor Female Ph.D 63 Yes 01-08-2022 -- Regular
+263 Amit Kumar Rathi 36 Assistant Professor Male Ph.D 62 Yes 22-05-2020 -- Regular
+264 Anand Mishra 39 Assistant Professor Male Ph.D 95 Yes 22-07-2019 -- Regular
+265 Apurba Narayan
+Bhattacharya 60 Other Male B.E 433 No 10-05-2024 25-10-2024 Regular
+266 Avinash Kumar
+Agarwal 51 Dean / Principal /
+Director / Vice
+Chancellor Male Ph.D 324 Yes 01-05-2024 -- Regular
+240
+Mishra
+Durgamadhab
+245
+Pradeep Kumar
+Dammala
+249
+Rohan Diliprao
+Erande
+259
+Varanasi Santhosh
+Kumar
+262
+Akanksha
+Choudhary
+265
+Apurba Narayan
+Bhattacharya
+266
+Avinash Kumar
+Agarwal
+
+267 Bharat Singh
+Rajpurohit 42 Professor Male Ph.D 186 Yes 21-08-2023 -- Regular
+268 Bhupendra Singh 32 Assistant Professor Male Ph.D 73 Yes 19-01-2021 -- Regular
+269 C S Upadhyay 56 Professor Male Ph.D No 01-03-2021 02-12-2021 Regular
+270 Chhibber Rahul 45 Professor Male Ph.D 213 Yes 11-01-2012 -- Regular
+271 Deepak Kumar
+Saxena 43 Assistant Professor Male Ph.D 146 Yes 13-01-2022 -- Regular
+272 Dibyadyuti Roy 38 Assistant Professor Male Ph.D No 03-05-2021 10-05-2022 Regular
+273 Dweepobotee
+Brahma 34 Assistant Professor Female Ph.D 58 Yes 12-07-2021 -- Regular
+274 Gaurav Vaidya 35 Assistant Professor Male Ph.D 75 Yes 07-08-2023 -- Regular
+275 Gurujegan M 36 Assistant Professor Male Ph.D 101 Yes 26-07-2022 -- Regular
+276 Indranil Banerjee 46 Associate Professor Male Ph.D 149 Yes 18-12-2019 -- Regular
+277 Jha Sushmita 43 Professor Female Ph.D 186 Yes 19-04-2012 -- Regular
+278 Khandelwal Arpit 33 Associate Dean Male Ph.D 82 Yes 11-01-2018 -- Regular
+279 Kuntal Som 33 Assistant Professor Male Ph.D 27 Yes 03-10-2023 -- Regular
+280 Manish Narwaria 40 Associate Dean Male Ph.D 143 Yes 13-05-2019 -- Regular
+281 Mayurakshi
+Chaudhuri 44 Assistant Professor Female Ph.D No 06-06-2016 30-05-2022 Regular
+282 Moni Kumari 34 Assistant Professor Female Ph.D 66 No 30-09-2022 09-04-2024 Regular
+283 Murarka Sandip 40 Associate Professor Male Ph.D 127 Yes 03-05-2017 -- Regular
+284 Nimish Vohra 54 Associate Professor Male Ph.D 355 Yes 14-03-2022 -- Regular
+285 Pal Samanwita 43 Dean / Principal /
+Director / Vice
+Chancellor Female Ph.D 166 Yes 27-12-2012 -- Regular
+286 Parichay Patra 38 Assistant Professor Male Ph.D 89 Yes 03-06-2019 -- Regular
+287 Pranay Ranjan 36 Assistant Professor Male Ph.D 68 Yes 22-11-2021 -- Regular
+288 Rachel Philip 39 Assistant Professor Female Ph.D 69 Yes 18-07-2022 -- Regular
+289 Rana Nirmal Kumar 41 Associate Professor Male Ph.D 122 Yes 02-11-2017 -- Regular
+267
+Bharat Singh
+Rajpurohit
+271
+Deepak Kumar
+Saxena
+273
+Dweepobotee
+Brahma
+281
+Mayurakshi
+Chaudhuri
+285
+Pal Samanwita
+43
+Dean / Principal /
+Director / Vice
+Chancellor

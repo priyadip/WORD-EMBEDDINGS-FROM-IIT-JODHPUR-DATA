@@ -1,0 +1,5 @@
+SOURCE_URL: https://erp.iitj.ac.in/SSOAdministration/login.htm?sessionToken=2F155F1096AB73F312D10B3306671096.worker2&requestedUrl=https://erp.iitj.ac.in/IIT_ERP3
+
+Change Password Change Security Questions Reset Account
+Change Password Change Security Questions Reset Account
+Change Security Questions

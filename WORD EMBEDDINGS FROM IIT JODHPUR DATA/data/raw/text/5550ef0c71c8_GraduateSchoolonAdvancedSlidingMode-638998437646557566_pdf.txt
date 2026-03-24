@@ -1,0 +1,144 @@
+SOURCE_PDF: 5550ef0c71c8_GraduateSchoolonAdvancedSlidingMode-638998437646557566.pdf
+
+Graduate School on Advanced Sliding Mode Control
+Sponsored by International Federation of Automatic Control
+Indian Institute of Technology Jodhpur, India
+Date: December 05-10, 2024
+Chief Patron: 
+ Prof. Avinash K. Agarwal, 
+ Director, IIT Jodhpur 
+ 
+Organizing Committee:
+§ Prof. Bijnan Bandyopadhyay,
+(Chair) IIT Jodhpur
+§ Dr. Jayesh Barve, GE Vernova 
+§ Prof. Deepakkumar M.
+Fulwani, IIT Jodhpur
+§ Dr. Abhisek K. Behera, IIT
+Roorkee
+Contact: 
+ Prof. Bijnan Bandyopadhyay 
+ Department of Electrical Engg. 
+ IIT Jodhpur, India 
+ Tel: +91 9619877889 
+ Email: bijnan@iitj.ac.in 
+ 
+Registration Dates: 
+ Start: 01/10/2024 
+ End: 30/11/2024 
+ 
+Registration Fees: 
+ Student: 5,000 INR 
+ Industry: 12,000 INR 
+ Academic: 8,000 INR 
+ Young Women: 3,000 INR 
+ (Below 30 Years) 
+ 
+Bank Details: 
+ Account Name: Research & 
+Development IIT Jodhpur 
+ Account No: 01421000144666 
+ Bank: HDFC 
+ Address: HDFC Bank Limited, 57 
+B, 9th Chopasani Road, Jodhpur 
+342003, Rajasthan 
+ IFSC Code: HDFC0000142
+The Graduate School on Advanced Sliding Mode Control, sponsored by IFAC, is to be held at IIT 
+Jodhpur, from December 5-10, 2024. It provides an opportunity for young researchers and 
+students to participate and interact with leading researchers in the variable structure and sliding 
+mode control. 
+ 
+IFAC: (www.ifac-control.org/) The International Federation of Automatic Control was founded in 
+September 1957. IFAC multinational federation is concerned with automatic control and its 
+representation in the fields of engineering, science and the impact of control technology on 
+society. Join us in challenging the new era in electronic communication, publication and exchange 
+of ideas. 
+ 
+ACDOS: (www.acdos.org) Automatic Control & Dynamic Optimization Society (ACDOS) was 
+established in the year 2011 with a noble objective to promote automatic control and dynamic 
+optimization discipline in academia and industry across India. The society aims to host 
+international conferences and technical workshops regularly in order to promote close interaction 
+between industry and academia. The society also participates in curriculum development for 
+graduate and under-graduate studies in addition to facilitating productive research in this field. 
+The society volunteers to honor eminent persons who excelled in this field in industry and 
+academic circles. ACDOS is also a proud National Member Organization (NMO) of the IFAC. 
+ 
+Speakers:
+Prof. Sarah K. Spurgeon, UCL, UK 
+Prof. Antonella Ferrara, Univ. of Pavia, Italy 
+Prof. Bijnan Bandyopadhyay, IIT Jodhpur, India 
+Prof. Jaime A. Moreno, UNAM, Mexico 
+Prof. Andrzej Bartoszewicz, Lodz Univ. of Tech., 
+Poland
+Prof. S. Janardhanan, IIT Delhi, India 
+Prof. Deepakkumar M. Fulwani, IIT Jodhpur, 
+India 
+Dr. Shyam Kamal, IIT (BHU) Varanasi, India 
+Dr. Sohom Chakrabarty, IIT Roorkee, India 
+Dr. Abhisek. K. Behera, IIT Roorkee, India
+Sliding Mode Control and Observation 
+Optimization Based Sliding Mode Control 
+Discrete-Time Sliding Mode Control 
+Higher Order Sliding Mode Control 
+Lyapunov Based Design of Sliding Mode Control
+Free-Will Arbitrary Time Sliding Mode 
+Control 
+Event-Triggered Sliding Mode Control 
+Applications to Robotics, Energy Systems, 
+Transportation Systems
+§ 
+Registration is on first-come first service basis.
+§ 
+Free accommodation and return travel support (III-Tier AC train from place of work to Jodhpur) for young women 
+participants (proof of date of birth is required).
+§ 
+The list of eligible Young Women participants will be informed by email.
+§ 
+Accommodation will be provided in the IIT Jodhpur campus on payment basis (subject to availability).
+§ 
+Please send the copy payment details and age proof along with registration form by email to bijnan@iitj.ac.in.
+§ 
+For any query, kindly email to either bijnan@iitj.ac.in or abhisek@ee.iitr.ac.in with subject Advanced Graduate School 
+on SMC 2024.
+
+Registration Form
+Name: ______________________________________________________________ 
+ 
+Designation: _________________________________________________________ 
+ 
+Institution/Organization: ________________________________________________ 
+ 
+Age: ________ Gender: ____________ Contact No:_________________________ 
+ 
+Email: ______________________________________________________________ 
+ 
+ 
+---------------------------------------- Payment Details ---------------------------------------------- 
+ 
+Category: Student/Academic/Industry/Young Women (Below 30 years) 
+ 
+Registration Fees:_____________________________________________________ 
+ 
+Date: _______________________________________________________________ 
+ 
+Bank:____________________________________________________________________ 
+ 
+Transaction Details: ___________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank Details for Online Transfer: 
+ 
+ Account Name: Research & Development IIT Jodhpur 
+ Account No: 01421000144666 
+ Bank: HDFC 
+ Address: HDFC Bank Limited, 57 B, 9th Chopasani Road, Jodhpur 342003, 
+Rajasthan 
+ IFSC Code: HDFC0000142
+Sponsored by International Federation of Automatic Control
+Indian Institute of Technology Jodhpur, India
+Date: December 05-10, 2024

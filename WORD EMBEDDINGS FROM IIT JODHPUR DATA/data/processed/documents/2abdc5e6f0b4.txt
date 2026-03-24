@@ -1,0 +1,13 @@
+yogeshwar nath mishra has the world fastest microscope with his collaborators at in usa and fau in germany
+congratulations yogeshwar nath mishra and his collaborators in usa and germany for publishing their joint collaborative work entitled two dimensional mapping of fluorescent molecules by ultrafast polarization anisotropy imaging in nature communications
+it is proud moment for the department
+the team has developed compressed ultrafast planar polarization anisotropy imaging cup2ai which they describe as the world fastest microscopic imaging tool for sizing of fluorescent molecules in liquids and gases in at hundreds of billions of frames per second
+it was tested on commonly known as conjugate of fluorescein and natural to mimic biomolecules
+fluorescein is dye also found in food and drink coloring
+fitc is biodegradable and widely used in applications such as monitoring blood flow drug delivery and tissue and cell labeling
+additionally cup2ai was employed to map polycyclic aromatic hydrocarbons pahs in flames which are precursors to black carbon known to pose significant environmental and health risks
+while traditional techniques often rely on scanning cup2ai captures the scene in single shot in delivering data without the need for temporal averaging or spatial scanning
+it achieves imaging speeds of hundreds of billions of frames per second enabling the observation of molecular interactions and delicate samples in unprecedented slow motion
+this technology holds significant potential for applications in disease detection biomarker development and pharmaceutical research
+it can also be applied to study nanoparticle growth and aggregation particle sizing in combustion processes and the spray drying industry
+the published paper can be accessed from here

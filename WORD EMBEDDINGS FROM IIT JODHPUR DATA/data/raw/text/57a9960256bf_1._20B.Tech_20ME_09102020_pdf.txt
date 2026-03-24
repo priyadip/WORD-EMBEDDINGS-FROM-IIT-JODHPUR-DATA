@@ -1,0 +1,1163 @@
+SOURCE_PDF: 57a9960256bf_1._20B.Tech_20ME_09102020.pdf
+
+Indian Institute of Technology Jodhpur
+2nd year B.Tech. Mechanical Engineering
+Curriculum Structure
+
+2nd year B.Tech. Mechanical Engineering
+Curriculum Structure
+
+1. Introduction
+Reckoned as one of the most versatile engineering disciplines, Mechanical Engineering virtually touches every 
+aspect of modern life, from mobile phones and biomedical devices, to aircrafts and power plants. It is concerned 
+with technological advancements through the development of products, processes, and power, at scales ranging 
+from nano-scale to large and complex systems. Mechanical Engineering principles and skills are involved at some 
+stage during the conception, design, development, and manufacture of every human-made object. While design 
+and manufacturing involves design of mechanisms and the analysis of materials, thermo-fluid systems include 
+methods of energy conversions, heat transfer and fluid flow. Future innovations crucial to the country’s growth 
+will always have their roots in the world of mass, motion, forces and energy- the world of mechanical engineers. 
+At IIT Jodhpur, mechanical engineers are therefore trained, educated and positioned, in a way not only to adapt, 
+but to define direct change. This is reflected in the portfolio of current activities of the department. Our faculty 
+are involved in a wide range of projects in the areas of Energy conversion and power systems, heat transfer and 
+fluid mechanics, mechanics of solid, mechanical vibrations, robotics, autonomous unmanned vehicles, design 
+optimization, acoustics and noise control, control systems, rotor dynamics, micro-nano materials and 
+applications, biomechanics, bio inspired thermofluids, fluid structure interaction etc. to name a few. 
+Additionally, efforts are being made to introduce advance concepts like smart manufacturing, Industry 4.O, 
+computational techniques, high-performance computing, applications of artificial intelligence, machine learning 
+algorithms, sensors and IoT as a part of solving mechanical engineering problems. Keeping a balance between 
+theory and hands-on-experience, the department intends to provide its students a solid foundation in core as 
+well as emerging areas of mechanical engineering by inspiring critical thinking and nurturing problem solving 
+skills. 
+ 
+2. Objective of the program
+The key objectives of this program are: 
+a. To enable students to have fundamental understanding of the core concepts of Mechanical Engineering 
+b. To integrate analytical and computational ability with experimental skills to create individuals competent in
+professional engineering practices
+c. To stimulate critical thinking towards application of mechanical engineering concepts in interdisciplinary
+problem solving
+d. To expose students to advanced concepts like AI & ML, Industry 4.0 and IoT for product and system design 
+e. To inculcate an attitude towards commitment to engineering ethics, leadership qualities and professional
+3. Expected Graduate Attribute
+Graduates of B.Tech program in Mechanical Engineering will have: 
+1. Strong understanding of fundamentals of Thermofluids, Mechanical Design and Manufacturing (Processes
+and Systems)
+2. Ability to apply mechanical engineering principles to address challenges in real life problems through creative
+interdisciplinary thinking
+3. Ability to use different simulation and computational tools for a better understanding and designing of
+mechanical processes/systems
+4. Capability to appreciate the use of some of the advanced concepts like AI & ML, Robotics, Industry 4.0, IoT
+in Mechanical Engineering applications
+5. Awareness of grassroots problems of the society and ability to provide technological solutions of sustainable
+6. Entrepreneurial spirit to undertake disruptive innovations 
+7. Skills to communicate engineering concepts and ideas to peers in written or oral forms 
+8. Commitment towards professional ethics and have humanitarian engineering skills.
+4. Learning Outcome
+Graduates of the B.Tech. program in Mechanical Engineering will: 
+1. Gain a strong understanding of mathematics, science and engineering fundamentals of mechanical
+engineering
+2. Be able to design and conduct experiments as well as to analyze and interpret data
+
+3. Be introduced to concepts including engineering design / optimization / sensors fabrication / computational
+methods / simulation tools /manufacturing systems and processes/ Industry 4.O/ thermal systems / fluid 
+flow systems/ energy engineering/ micro-nano materials and applications/ AI/ IoT/ Smart Computing for 
+various applications
+4. Have the ability to design a mechanical system, component or process tailored to meet desired needs under
+socio-economic and environmental constraints
+5. Be exposed to common problems that are prevalent in the domains of energy storage, systems and devices,
+clean energy, and micro-nano materials and applications, futuristic technology, and advanced scientific 
+computation methods, allowing them to innovate and develop technological solutions for the same
+6. Receive effective, hands-on laboratory training as a part of laboratory courses and short-term research projects 
+7. Develop their communication skills by participating in classroom presentations, seminars and workshops on
+manuscript / patent writing / presentation skills
+8. Be taught the value of team work and group discussion in problem solving, and time management to continue
+co-curricular activities without compromising for academics.
+5. New skillsets targeted
+Multi and interdisciplinary approaches: 
+1. Design, develop and manufacturing of new or modified components for mechanical systems using computer-
+aided design/modelling software/additive manufacturing
+2. Latest industrial pursuits, particularly in the areas of automation, robotics, and smart scientific computing,
+microfluidics etc.
+3. Development of smart manufacturing capabilities for relevant industries 
+4. To play key roles in improving the range and performance of hybrid and electric automotive vehicles 
+5. Design of power-producing machines in the fields of alternative energies 
+6. Experimental validation of computational designs 
+7. Selection of materials based on engineering applications to ensure that it is safe, reliable and efficient 
+8. Advanced mechanical testing and characterization techniques 
+9. Familiarity with advanced and futuristic scientific computing techniques
+
+Area Topics Category (Core/
+Techniques
+Technology/Syst
+ems) Course (PC/PE)
+Design Stress, Strain, Bending &
+Torsion Core Mechanics of Solid (PC)
+Hydraulic and Pneumatic
+Systems, Mechatronic
+systems Core and
+Techniques Control of Mechanical
+Systems (PC)
+Geometric & Functional
+Requirements, Theory of
+Failures, Design and
+Selection of Machine
+Elements Core and
+Techniques Design of Machine
+Elements (PC)
+6. Topic clouds and Mapping of Topic clouds with proposed courses
+Table 1. Topics and Mapping of Topic with Courses
+
+Mechanism Synthesis,
+Motion Analysis, Force
+Analysis, Gear Trains,
+Cams, Dynamics of Multi-
+Cylinder Engines Core and
+Techniques Kinematics & Dynamics
+of Machines (PC)
+Engineering Mechanics Core Engineering Mechanics
+(IE)
+Advanced concepts of stress
+analysis, analysis of systems
+such as rotating disks, thick
+cylinders etc. Core Advanced Mechanics of
+Solids (PE)
+Galerkin methods Finite
+element methods Techniques Finite element Methods
+and Applications (PE)
+Mechanical vibrations of
+one, two and multi degree
+of freedom systems, types of
+damping, vibration control Core Mechanical Vibrations
+(PE)
+Noise control of various
+engineering applications Core and
+Techniques Techniques of Noise
+Control (PE)
+Advanced Theories in
+Vibration Core Principles and Techniques
+of Vibration Control (PE)
+Theory of Helicopter Flight Techniques and
+Technology Helicopter Dynamics (PE)
+kinematics & kinetics of
+microsystem deformations Core and
+Techniques Micro-Nano Mechanics
+(PE)
+Non-linear mechanical
+behaviours displayed by
+soft materials and tissues Core and
+Techniques Mechanics of Soft
+Materials (PE)
+Product life cycle, Product
+Design Core and
+Techniques Product Design and
+Feasibility
+Modal Analysis
+Measurement Techniques Techniques Experimental Modal
+Analysis (PE)
+Curves, Surfaces and Solid
+Modeling Core, systems
+and Techniques Computer aided Design
+(PE)
+Electro-Mechanical systems Systems and
+Technology Mechatronics (PE)
+Biomechanical systems Systems and
+Techniques Principles of
+Biomechanics (PE)
+Control system Systems and
+Techniques Control Systems (PE)
+Experimental Robotics Systems and
+Techniques Introduction to Robotics
+(PE)
+Dynamics of rotating
+machines Core and
+Systems Rotor Dynamics
+
+Links, mechanisms and
+dynamics in vehicles Systems Vehicle dynamics (PE)
+Nonlinear phenomena and
+solutions, bifurcation and
+stability, Chaos Core and
+Techniques Nonlinear Oscillations
+and Chaos (PE)
+Theory of sound generation,
+propagation and reception. Systems Introduction to Acoustics
+(PE)
+Manufacturin
+g Theory of Casting, Welding
+and Forming Core and
+Techniques Manufacturing Process
+Principles in Production &
+Operations Management Core and
+Techniques Production and
+Operations Management
+(PC)
+Techniques in Machining
+Science and Metrology Core and
+Techniques Machining Science and
+Inspection Technology
+(PC)
+Principles of Smart
+Manufacturing Core and
+Techniques Smart Manufacturing
+(PC)
+Principles of Digital
+fabrication Core and
+Techniques Digital Fabrication (PC)
+Manufacturing Lab Core and
+Techniques Manufacturing Process
+and Systems Lab (PC)
+Machining Lab Core and
+Techniques Machining and
+Automated
+Manufacturing Lab (PC)
+Casting and Allied
+Processes Technology Core and
+Technology Casting and Allied
+Processes (PE)
+Welding Science and
+Technology Technology Core and
+Technology Welding Science and
+Technology (PE)
+Micro-Nano Manufacturing
+Technology Core and
+Technology Micro-Nano
+Manufacturing (PE)
+Design and Manufacturing
+of Bio Materials Core and
+Technology Design and
+Manufacturing of Bio
+Materials (PE)
+Principles of Computer
+Integrated Manufacturing Core and
+Technology Computer Integrated
+Manufacturing (PE)
+Non Traditional Machining
+Process Technology Core and
+Technology Non Traditional
+Machining Process (PE)
+Tool Design Techniques Core and
+Technique Tool Design (PE)
+Modeling and CAD in
+Product Design Technique and
+Technology Geometric Modeling and
+CAD
+Modeling and Control of
+Robot Manipulators Technique and
+Technology Robotics (PE)
+
+CNC Technology in
+manufacturing Technique and
+Technology Computer-Aided
+Manufacturing (PE)
+Technologies for additive
+rapid manufacturing Technique and
+Technology Additive Manufacturing
+(PE)
+Micro systems and its
+manufacturing techniques Technique and
+Technology MEMS & Microsystem
+Technologies (PE)
+Modern methods of micro-
+forming technologies Technique and
+Technology Micro Forming
+Techniques (PE)
+Precision Micro/Nano
+Manufacturing Mechatronic
+System Design Precision and Micro
+Manufacturing(PE)
+Elements of Mechatronic
+System Design Mechatronic
+System Design Mechatronic System
+Design (PE)
+Applied Ergonomics Core and
+Technology Applied Ergonomics (PE)
+Design for Manufacturing Core and
+Technology Design for Manufacturing
+(PE)
+Welding metallurgy
+Technology Core and
+Technology Welding Metallurgy (PE)
+Forming Technology Core and
+Technology Fundamentals of Metal
+Forming Technology (PE)
+Thermofluids Fluid Statics, Kinetics,
+Inviscid and Viscous Flow,
+Turbulence and
+Compressible flows Core and
+Techniques Fluid Mechanics (PC)
+Conduction, Convection,
+Radiation, Boiling &
+Condensation Core and
+Techniques Heat Transfer (PC)
+Thermodynamics Core Thermodynamics (PC)
+Heat engines and Power
+Plant Cycles,
+Turbomachines,
+Refrigeration and Air-
+conditioning Systems and
+Technique Thermofluids Engineering
+(PC)
+Turbines, pumps &
+Compressors Systems and
+Technique Turbomachinery (PE)
+Combustion engines Systems and
+Technique Automotive
+Propulsion(PE)
+Refrigeration cycles and air-
+conditioning systems Systems and
+Technique Refrigeration and Air-
+conditioning(PE)
+Cycles in power plant and
+energy conversion systems Systems and
+Technique Power Plant
+Engineering(PE)
+Fluid dynamics in porous
+media Core and
+Technique Porous media flows and
+applications(PE)
+
+Computational techniques
+for heat and fluid flow Core and
+Technique Computational Fluid
+Dynamics and Heat
+Transfer (PE)
+Solar Energy systems Technique and
+Technology Solar Thermal Systems
+(PE)
+Liquid transport in micro-
+nano flows Core and
+Techniques Micro-Nano Flows (PE)
+Exposer to various sensors
+and equipments used in
+micro system analysis Core and
+Techniques Micro Fluidics Lab (PE)
+Characterizing of sensors
+based on nanomaterials Technique and
+Technology Nano Sensors (PE)
+Non-Conventional energy
+sources and Technologies Technique and
+Technology Non-Conventional
+Sources of Energy and
+Emerging Technologies
+(PE)
+Fuel Combustions,
+Premixed Flames Core and
+Techniques Combustion Technology
+(PE)
+Fluid Flow Measurement Systems and
+Techniques Fluid Mechanics Lab (PE)
+Heat Transfer
+Measurements Systems and
+Techniques Heat Transfer Lab (PE)
+Measurements in various
+Thermofluids equipment’s Systems and
+Techniques Thermofluids Lab (PE)
+
+S.
+N. Course Type Course Category Regular B.Tech. Double B.Tech.
+Credit Total Credit Total
+1 Institute Core (I) Engineering (IE) 34 69 34 59
+Science (IS) 16 16
+Humanities (IH) 12 9
+2 Programme Linked
+(L) Science (LS) 7 0
+3 Programme Core (P) Programme Compulsory (PC) 52 71 52 71
+Programme Electives (PE) 16 16
+B.Tech. Project (PP) 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0
+5 Engineering Science
+(E) Engineering Science Core 0 0 22 22
+Engineering Science Elective (EE) 0 0 8 8
+Total Graded 150 160
+6 Non-Graded (N) Humanities (NH) 6 15 6 15
+Engineering (NE) 3 3
+Design/Practical Experience (ND) 6 6
+Total Graded + Non-Graded 165 175
+7. Course Categories, credit distribution and Credit Structure of B.Tech. Programmes 
+ 
+Table 2. ProposedCourse Categories and credit distribution in the proposed B.Tech. Programmes
+
+Type L-T-P Distribution of contact and beyond contact hours Total Credits
+(TC=TH/3)
+Contact Hours Beyond Contact Total Hours
+(CH) Hours (BCH) (TH)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+8. Credit Structure of B.Tech. Programmes 
+ 
+Table 3. Credit Structure for B.Tech. Programmes
+#Contact hour for projects refers to the involvement of students in the laboratory, discussion, etc.
+
+Sr. No Course Name LTP Contact
+Hours Credit
+1 Fluid Mechanics 3-1-0 4 4
+2 Fluid Mechanics-Lab 0-0-2 2 1
+3 Heat Transfer 3-0-0 3 3
+4 Heat Transfer-Lab 0-0-2 2 1
+5 Thermofluids Engineering 3-1-0 4 4
+6 Thermofluids Engineering Lab 0-0-2 2 1
+7 Thermodynamics 3-1-0 4 4
+Total 18
+1 Mechanics of Solids 3-1-0 4 4
+2 Kinematics and Dynamics of Machines 3-0-2 5 4
+3 Design of Machine elements 3-0-2 5 4
+4 Engineering Visualization 0-0-2 2 1
+5 Engineering Mechanics 2-1-0 3 3
+6 Engineering Design I 0-0-2 2 1
+7 Engineering Design II 0-0-2 2 1
+Total 18
+1 Manufacturing Process 3-0-0 3 3
+2 Production & Operations Management 3-0-0 3 3
+3 Machining Science and Metrology 3-0-0 3 3
+4 Digital Fabrication 3-0-0 3 3
+5 Smart Manufacturing 2-0-2 3 3
+6 Manufacturing Processes and Systems lab 0-0-2 2 1
+7 Machining and Automated Manufacturing Lab 0-0-2 2 1
+8 Engineering Realization 0-0-2 2 1
+Total 18
+Total 53
+9. List of Programme Compulsory Courses 
+ 
+Table 4. Distribution of courses under Thermofluids, Manufacturing and Design categories
+
+Sr. No Course Name LTP Contact Hours Credi
+t
+1 Fluid Mechanics 3-1-0 4 4
+2 Fluid Mechanics-Lab 0-0-2 2 1
+3 Heat Transfer 3-0-0 3 3
+4 Heat Transfer-Lab 0-0-2 2 1
+5 Thermofluids Engineering 3-1-0 4 4
+6 Thermofluids Engineering Lab 0-0-2 2 1
+7 Mechanics of Solids 3-1-0 4 4
+8 Kinematics and Dynamics of Machines 3-0-2 5 4
+9 Design of Machine elements 3-0-2 5 4
+10 Manufacturing Process 3-0-0 3 3
+11 Production & Operations Management 3-0-0 3 3
+12 Machining Science and Metrology 3-0-0 3 3
+13 Digital Fabrication 3-0-0 3 3
+Total 38
+Sr. No Course Name LTP Contact Hours Credit
+1 Control of Mechanical Systems 3-0-4 7 5
+2 Data Structure and Algorithm (CS) 3-0-2 5 4
+3 Smart Manufacturing 2-0-2 3 3
+4 Manufacturing Processes and Systems lab 0-0-2 2 1
+5 Machining and Automated Manufacturing
+Lab 0-0-2 2 1
+Total 14
+Table 5.Programme Vertical Compulsory Courses
+Table 6. Programme Horizontal Compulsory Courses
+
+Area S.No Courses L-T-P Credit Course Level
+Design 1 Introduction to Acoustics 3-0-0 3 400
+2 Mechanical Vibrations 3-0-0 3 400
+3 Computer Aided Design 3-0-2 4 400
+4 Principles of Biomechanics 3-0-0 3 400
+5 Mechatronics 2-0-2 3 600
+6 Finite Element Methods and
+Applications 3-0-0 3 600
+7 Introduction to Robotics
+(offered by IDRP on RM) 3-0-0 3 400
+8 Embedded Systems (offered by
+electrical) 3-0-2 4 300
+Manufacturing 1 Tool Design 3-0-0 3 400
+2 Applied Ergonomics 3-0-0 3 400
+3 Micro-Nano Manufacturing 3-0-0 3 400
+4 Design and Manufacturing of Bio
+Materials 3-0-0 3 600
+5 Computer Integrated Manufacturing 3-0-0 3 600
+6 Design for Manufacturing 3-0-0 3 600
+ThermoFluids 1 Turbomachinery 3-0-0 3 400
+2 Refrigeration and Air-conditioning 3-0-0 3 400
+3 Solar Thermal Systems 3-0-0 3 600
+4 Porous media flows and applications 3-0-0 3 600
+5 Power Plant Engineering 3-0-0 3 700
+6 Computational Fluid Dynamics and
+Heat Transfer 3-1-0 4 700
+10. Area-wise Programme Elective Courses
+Table 7. Stream-wise Programme Electives Courses
+
+S. No. Name of Specializations Credit requirement
+Core Elective
+1 Micro-Nano Engineering 8 credits 12 credits
+2 Energy Engineering 8 credits 12 credits
+2 Design Engineering 8 credits 12 credits
+3 Smart Manufacturing 8 credits 12 credits
+S.
+No
+. Name of
+Specialization Specialization Core
+(8 credits) Specialization Electives
+(12 credits)
+1 Micro-Nano
+Engineering 1. Micro-Nano Flows
+[3-0-0, Credit:3, 600
+Level]
+2. MEMS and
+Microsystems
+Technology [3-0-2,
+Credit:4, Level: 700]
+3. Microfluidics Lab [0-
+0-2, Credit:1, 600
+level] 1. Nanomaterials (MT)[3-0-0, Credit:3, Level: 400]
+2. Porous media flows & applications [3-0-0, Credit:3, Level:
+600]
+3. Precision and Micro-Manufacturing [3-0-0, Credit:3, Level:
+700]
+4. Nanosensors [3-0-0, Credit:3, Level: 700]
+5. Microsystems Fabrication Technology (EE) [3-0-0, Credit:3,
+Level: 700]
+6. Micro-Forming Techniques [3-0-0, Credit:3, Level: 700]
+7. Micro-Nano Mechanics[2-0-0, Credit:2, Level: 600]
+8. Computational Fluid Dynamics and Heat Transfer [3-1-0,
+Credit:4, 700 Level]
+9. Computational Materials Science (PH)[3-0-0, Credit:3,
+Level: 700]
+10. Project (3 Credits)
+2 Energy
+Engineering 1. Solar Thermal
+Systems (ME) [3-0-0,
+Credit:3, Level: 600]
+2. Power Plant
+Engineering [3-0-0,
+Credit:3, Level: 700]
+3. Energy Storage
+Systems (ME fractals)
+[2-0-0, Credit:2, Level:
+700] 1. Non-Conventional Sources of Energy and Emerging
+Technologies (ME) [3-0-0, Credit:3, Level: 700]
+2. Solar Energy and Applications (ME) [3-0-2, Credit:4, Level:
+700]
+3. Wind turbine and field design (Civil)[3-0-0, Credit:3, Level:
+700]
+4. Energy Harvesting (PHY)[3-0-0, Credit:3, Level: 700]
+5. Biomass Energy Conversion(BIO) [3-0-0, Credit:3, Level:
+700]
+6. Hydropower (ME)[3-0-0, Credit:3, Level: 700]
+7. Building services and Intelligent building (Civil)[3-0-0,
+Credit:3, Level: 700]
+8. Smart Grid (EE) [3-0-2, Credit:4, Level: 700]
+9. Computational Fluid Dynamics and Heat Transfer
+[3-1-0, Credit:4, 700 Level]
+10. Renewable Energy Systems (EE) [3-0-0, Credit:3, Level:
+700]
+11. Automotive Propulsion [3-0-2, Credit:4, Level: 700]
+12. Combustion Technology [3-0-0, Credit:3, Level: 700]
+13. Materials for Energy Conversion and Storage (MT)[ 3-0-
+0, Credit:3, Level: 400]
+11. Specialization to be offered by the department 
+ 
+Table 8. Specializations List
+Table 9. Specialization core and elective courses
+
+2 Design
+Engineering 1. Advanced Mechanics
+of Solid [3-0-0,
+Credit:3, 700 Level]
+2. Finite Element
+Methods and its
+Application [3-0-0,
+Credit:3, 600 Level]
+3. Optimization [1-0-0,
+Credit:1, 600 Level]
+4. Design Lab [0-0-2,
+Credit:1, 600 Level] 1. Mechanical Vibrations [3-0-0, Credit:3, 700 Level]
+2. Introduction to Acoustics [3-0-0, Credit:3, 600 level]
+3. Geometric Modeling & CAD [2-0-2, Credit:3, 700 Level]
+4. Robotics [3-0-2, Credit:4, 700 Level]
+5. Principles and Techniques of Vibration Control [3-0-0,
+Credit:3, 600 level]
+6. Techniques of Noise Control[3-0-0, Credit:3, 600 level]
+7. Mechanics of Soft Materials[3-0-0, Credit:3, 600 level]
+8. Product Design & Feasibility[3-0-0, Credit:3, 600 level]
+9. Nonlinear Oscillations and Chaos [3-0-0, Credit:3, 600
+Level]
+10. Experimental Modal Analysis [3-0-2, Credit:4, 600 Level]
+11. Vehicle Dynamics [3-0-0, Credit:3, 600 Level]
+12. Theory of vibrations [3-0-0, Credit:3, 700 Level]
+13. Rotor Dynamics [3-0-0, Credit:3, 700 Level]
+14. Helicopter Dynamics [3-0-0, Credit:3, 700 Level]
+15. Project Credit:3
+3 Smart
+Manufacturing 1. Artificial
+Intelligence-1: CS
+[3-0-0, Credit:3]
+2. Introduction to
+Cyber Physical
+Systems: CPS [3-0-0,
+credit:3]
+3. Statistics 2: Data &
+Computational
+Science [2-0-0,
+credit:2] 1. Applied Ergonomics [3-0-0, Credit:3, 400 Level]
+2. Casting and Allied Processes [3-0-0, Credit:3, 400 Level]
+3. Welding Science & Technology [3-0-2, Credit:4, 400 Level]
+4. Non Traditional Machining Process [3-0-0, Credit:3, 400
+Level]
+5. Design for Manufacturing [3-0-0, Credit:3, 600 Level]
+6. Geometric Modelling & CAD [2-0-2, Credit:3, 700 Level]
+7. Robotics [3-0-2, Credit:4, 700 Level]
+8. Computer-Aided Manufacturing [3-0-2, Credit:4, 700 Level]
+9. Additive Manufacturing [3-0-0, Credit:3, 700 Level]
+10. MEMS & Microsystems Technology [3-0-2, Credit:4, 700
+Level]
+11. Precision and Micro Manufacturing [3-0-0, Credit:3, 700
+Level]
+12. Mechatronic Systems Design [3-0-0, Credit:3, 700
+Level]
+13. Computer Aided Inspection & Quality Control [3-0-0,
+Credit:3, 700 Level]
+14. Welding Metallurgy [3-0-0, Credit:3, 700 Level]
+15. Fundamentals of Metal Forming Technology[3-0-0,
+Credit:3, 600 Level]
+16. Micro-forming Techniques [3-0-0, Credit:3, Level: 700]
+17. Project Credit:3
+
+Cat Course LTP CH NC GC Cat Course LTP CH N GC
+I Semester II Semester
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering Design II 0-0-2 2 1 -
+NH Communication 0-0-2 2 1 - NH Communication Skill 0-0-2 2 1 -
+NH Social Connect and 0-0-1 1 0.5 - NH Social Connect and 0-0-1 1 0. -
+responsibilities I responsibilities II 5
+NH Performing Arts I 0-0-1 1 0.5 - NH Performing Arts 0-0-1 1 0. -
+/Sports I II/Sports II 5
+Total 11-2-
+12 25 3 16 Total 12-1-
+14 27 3 17
+III Semester IV Semester
+LS Scientific
+Computations 3-1-0 4 - 4 IE Materials Science &
+Engineering
+F1:Material Selection
+F2: Structure of
+Materials
+F3: Physical
+Metallurgy 3 ×
+1-0-0 3 - 3
+IE Thermodynamics 3-1-0 4 - 4
+PC Data Structure and 3-0-2 5 4
+PC Mechanics of
+solids 3-1-0 4 - 4
+IE Signals and Systems 3-1-0 4 - 4
+IE Introduction to
+Machine Learning 3-0-2 5 - 4 PC Fluid Mechanics 3-1-0 4 - 4
+PC Fluid Mechanics-Lab 0-0-2 2 1
+11. Curriculum of B.Tech. Mechanical Engineering (Regular)
+Table 10. Curriculum of B.Tech. Mechanical Engineering
+
+LS Statistical
+Mechanics 2-0-0 2 - 2 PC Manufacturing
+Process 3-0-0 3 - 3
+Optical
+Measurement
+Techniques 1-0-0 1 1 IH Humanities I 3-0-0 3 - 3
+NE Intro. To 0-1-0 1
+Total 15-3-
+2 20 1 19 Total 18-2-4 24 - 22
+V Semester VI Semester
+PC Production &
+Operations
+Management 3-0-0 3 - 3 PC Design of Machine
+elements 3-0-2 5 4
+PC Manufacturing
+Processes and
+Systems lab (HC) 0-0-2 2 - 1 PC Machining and
+Automated
+Manufacturing Lab
+(HC) 0-0-2 2 1
+PC Heat Transfer 3-0-0 3 3 PC Smart
+Manufacturing(HC) 2-0-2 4 3
+PC Kinematics and
+Dynamics of
+Machines 3-0-2 5 4 PC Thermofluids
+Engineering 3-1-0 4 4
+PC Machining Science
+and Metrology 3-0-0 3 3 PC Control of
+Mechanical Systems –
+(HC) 3-0-4 7 5
+PC Digital Fabrication 3-0-0 3 3 PE Programme Elective-
+1 3-0-0 3 3
+PC Heat Transfer Lab 0-0-2 2 1
+IH Humanities II 3-0-0 3 - 3
+NH Professional Ethics 0-1-0 1 - NH Professional Ethics II 0-1-0 1 -
+Total 18-0-
+6 24 1 21 Total 14-1-
+10 25 1 20
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE Programme
+Electives 6-0-0 6 - 6 PE Programme Electives 7-0-0 7 - 7
+PC Thermofluids Lab 0-0-2 2 1 OE Open Elective-2 3-1-0 4 4
+OE Open Elective-1 3-0-0 3 3 OE Open Elective-3 3-0-0 3 3
+IH Humanities III 3-0-0 3 - 3
+
+IS Environmental
+Science 2-0-0 2 - 2
+Total 14-0-
+8 22 - 18 Total 16-1-0 17 - 17
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 1
+5 165
+
+Cat Course LTP CH NC GC Cat Course LTP CH NC GC
+I Semester II Semester
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer
+Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering Design 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+NH Communication 0-0-2 2 1 - NH Communication 0-0-2 2 1 -
+Skill I Skill II
+NH Social Connect and 0-0-1 1 0.5 - NH Social Connect 0-0-1 1 0.5 -
+responsibilities I and
+NH Performing Arts I 0-0-1 1 0.5 - NH Performing Arts 0-0-1 1 0.5 -
+/Sports I II/Sports II
+Total 11-2-12 25 3 16 Total 12-1-14 27 3 17
+III Semester IV Semester
+IE Materials
+Science &
+Engineering
+F1: Material
+Selection
+F2: Structure of
+Materials
+F3: Physical
+Metallurgy 3 ×
+1-0-0 3 - 3
+ES Probability and 3-1-0 4 - 4
+ES Modern Physics 3-0-0 3 - 3 ES Embedded 3-0-2 5 - 4
+IE Thermodynamics 3-1-0 4 - 4
+ES Data Structure 3-0-2 5 - 4
+13. Curriculum of Double B.Tech. : B.Tech. Mechanical Engineering and Engineering Science
+Table 11. Programme structure of Double B.Tech.
+
+IE Signals and Systems 3-1-0 4 - 4
+ES Design of 3-0-0 3 - 3
+IE Machine Learning 3-0-2 5 - 4
+ES Modelling and 3-0-2 5 - 4
+IH Humanities I 3-0-0 3 - 3
+NE Intro. To Profession 0-0-2 2
+Total 15-3-2 20 2 19 Total 18-0-6 24 - 21
+V Semester VI Semester
+PC Manufacturing
+Processes and
+Systems lab (H) 0-0-2 2 - 1 PC Design of
+Machine
+elements 3-0-2 5 4
+PC Heat Transfer 3-0-0 3 3 PC Fluid
+Mechanics-
+Lab 0-0-2 2 1
+PC Kinematics and
+Dynamics of
+Machines 3-0-2 5 4 PC Machining
+and
+Automated
+Manufacturin
+g Lab (HC) 0-0-2 2 1
+PC Machining Science
+and Metrology 3-0-0 3 3 PC Smart
+Manufacturin
+g(HC) 2-0-2 4 3
+PC Mechanics of solids 3-1-0 4 - 4 PC Thermofluids
+Engineering 3-1-0 4 4
+PC Fluid Mechanics 3-1-0 4 - 4 PE/Es Control of
+Mechanical
+Systems 3-0-4 7 5
+PC Heat Transfer Lab 0-0-2 2 1 PC Manufacturin
+g Process 3-0-0 3 - 3
+IH Humanities II 3-0-0 3 - 3 PE Programme
+Electives-2 3-0-0 3 3
+NH Professional Ethics I 0-1-0 1 1 - NH Professional
+Ethics II 0-1-0 1 1 -
+Total 18-2-6 26 1 23 Total 17-2-10 30 1 24
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 PE/
+ES Programme/Eng
+ineering Science
+Electives 15-0-0 15 - 15
+PC Production &
+Operations
+Management 3-0-0 3 - 3 IH Humanities III 3-0-0 3 - 3
+PC Digital Fabrication 3-0-0 3 3 PC
+
+ES Scientific
+Computation 3-0-2 5 4
+PC Thermofluids Lab 0-0-2 2 1
+PE/
+OE Programme/Engine
+ering Science
+Electives 6-0-0 6 - 6
+IS Environmental
+Science 2-0-0 2 - 2
+Total 17-0-10 27 - 22 Total 18-0-0 18 - 18
+Total of graded and Non-Graded Credit 9 160
+Non-Graded Design Credits 6 -
+Grand Total 15 170
+Note: 1. ES are proposed Engineering Science compulsory courses, 
+* Students will be required to take 4 extra credits under Engineering Science Elective in lieu of double counting 
+of Embedded System and IOT
+
+Title Fluid Mechanics Number MEL2XX0/ CHL2XX0
+Department Mechanical Engineering/ Chemical
+Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME, CH) Type Program Compulsory (PC)
+14. Detailed Course Content of Programme Compulsory Courses
+
+Title Heat Transfer Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite Basics of Thermodynamics & Fluid
+Mechanics
+
+Title Thermofluids Engineering Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–1–0 [4]
+Offered for B.Tech (ME) Type Programme Compulsory (PC)
+Prerequisite Basics of Thermodynamics and
+Fluid Mechanics
+
+Title Heat Transfer Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Heat Transfer
+
+Title Fluid Mechanics Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fluid Mechanics
+
+Title Thermofluids Lab Number MEP4XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fluid Mechanics
+
+Title Mechanics of Solids Number ME2XX
+Department Mechanical Engineering L-T-P-Th [C] 3–1–0–0 [4]
+Offered for B.Tech (ME) Type Programme Compulsory (PC)
+
+Title Kinematics and Dynamics of Machines Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite Engineering Mechanics
+
+Self-Learning Material 
+1. Ashok K Mallik, Kinematics of Machines, NPTEL Course, Department of Mechanical Engineering, IIT
+2. Amitabh Ghosh, Dynamics of Machines, NPTEL Course, Department of Mechanical Engineering, IIT
+
+Title Design of Machine Elements Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–2–0 [4]
+Offered for B.Tech (ME) Type Programme Compulsory (PC)
+Prerequisite Basic knowledge in Mechanics
+and kinematics
+
+Title Control of Mechanical Systems Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–4 [5]
+Offered for B. Tech (ME) Type Program Compulsory
+(PC)
+Prerequisite Basic Knowledge of Systems
+
+Textbook: 
+1. Nise, N.S. (2014), Control Systems Engineering, 6th Edition, John-Wiley India, 2014 
+2. G. F. Franklin, J. D. Powell and A. E. Emami-Naeini (2002), Feedback Control of Dynamic Systems;
+Prentice Hall Inc.,
+3. Perry Xiao., (2018), Designing Embedded Systems and the Internet of Things (IoT) with the ARM®
+Mbed™, John Wiley & Sons Ltd.
+Reference Books 
+1. Ogata, K. (2012), Modern Control Engineering, 5th Edition, Prentice-Hall India, 2012, 
+2. Gopal, M. (2000), Control Systems - Principles & Design, 3rdEdition, Tata McGraw-Hill, 2015 
+3. Dorf, R.C. & Bishop, R.H. (2008), Modern Control Systems, 11th Edition, Pearson, 200 
+ 
+Self-Learning Material 
+1. Gopal, M., Control Engineering, NPTEL Course Material, Department of Electrical Engineering, Indian
+Institute of Technology Delhi, https://nptel.ac.in/courses/108102043/
+2. Ramkrishna Pasumarthy R., Control Engineering, NPTEL Course Material Department of Electrical
+Engineering, IIT Madras, Link: https://onlinecourses.nptel.ac.in/noc17_ee12/preview
+
+Title Manufacturing Processes Number MEL2XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite ----
+
+Self-Learning Material 
+1. D. B. Karunakar, Metal Casting, NPTEL Course Department of Mechanical and Industrial
+Engineering, IIT Roorkee, Link: https://nptel.ac.in/courses/112107083/
+2. P. Biswas, Fundamental of Welding Science and Technology, Department of Mechanical Engineering,
+IIT Guwahati, https://nptel.ac.in/courses/112107083/
+3. P. K. Jha, Principles of Metal Forming Technology, Department of Mechanical and Industrial
+Engineering, IIT Roorkee, https://nptel.ac.in/courses/112107250/
+
+Title Machining Science and Metrology Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite ----
+
+3. Boothroyd, G., and Knight, W. A., (1932), Fundamentals of Machining and MAchine Tools, CRC Press.
+Self-Learning Material 
+1. V. K. Jain, Advanced Machining Processes, NPTEL Course Department of Mechanical Engineering, IIT
+2. M. S. Shunmugam, Metrology, NPTEL Course Department of Mechanical Engineering, IIT Madras,
+3. U. S. Dixit, Mechanics of Machining, NPTEL Course Department of Mechanical Engineering
+4. A. B. Chattopadhyay, Manufacturing Processes II, NPTEL Course of Department of Mechanical
+Engineering, IIT Kharagpur, https://nptel.ac.in/courses/112/105/112105126/.
+
+Title Productions and Operations Management Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Compulsory
+(PC)
+Prerequisite ----
+
+Reference Books 
+1. Sen R, (2016), Operations Research, Prentice Hall. 
+2. Hiller F S and Liberman G J, (2005), Introduction to Operations Research, McGraw Hill. 
+3. Pai J K, (2010), Operations Research, Oxford University Press.
+Self-Learning Material 
+1. G Srinivasan, Operations Research, NPTEL Course Department of Mechanical Engineering, IIT Madras,
+2. A Kanda, Project and Production Management, NPTEL Course Department of Mechanical Engineering,
+IIT Delhi, Link: http://nptel.ac.in/courses/112102106/
+
+Title Digital Fabrication Number MEL3XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite --
+
+Title Manufacturing Processes and Systems Lab Number MEP3XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program
+Compulsory (PC)
+Prerequisite Fundamentals of Manufacturing Processes and Systems
+
+Title Machining and Automated Manufacturing Lab Number MEP4XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2[1]
+Offered for B. Tech (ME) Type Program Compulsory (PC)
+Prerequisite Fundamentals of Manufacturing Processes and
+Systems
+
+Title Smart Manufacturing Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 2–0–2 [2]
+Offered for B.Tech (ME) Type Program Compulsory (PC)
+Prerequisite --
+
+Title Turbomachinery Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basics of Fluid Mechanics and
+Thermodynamics
+15. 
+Detailed Course Content of Programme Elective Courses
+
+Title Refrigeration and Air-conditioning Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic Knowledge in Thermodynamics,
+Thermofluids Engineering
+
+Title Power Plant Engineering Number ME7XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic Knowledge in
+Thermodynamics
+
+Title Solar Thermal Systems Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Programme
+Elective (PE)
+
+Title Non-Conventional Sources of Energy and
+Emerging Technologies Number ME7XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech/M.Sc./M.Tech/M.Tech-
+Ph.D./Ph.D. Type Programme Elective (PE)
+
+Title Porous Media Flows and Applications Number ME6XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic knowledge in Fluid Mechanics
+
+3. M. Beran, Statistical Continuum Theories, Wiley Interscience,1968. 
+4. S. Torquato, Random Heterogeneous Materials, Springer, 2002.
+
+Title Micro-Nano Flows Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Program Elective (PE)
+Prerequisite Fluid Mechanics & Heat Transfer
+
+Title Microfluidics Lab Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 0–0–2 [1]
+Offered for B.Tech (ME) Type Program Elective (PC)
+Prerequisite Fluid Mechanics & Heat Transfer
+
+Title Tool Design Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+
+Title Applied Ergonomics Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME) Type Program Elective (PE)
+
+Title Micro-Nano Manufacturing Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+
+Title Design and Manufacturing of
+Biomaterials Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+
+Title Computer Integrated Manufacturing Number MEL6XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+
+Title Design for Manufacturing Number MEL6XX0
+Department Mechanical Engineering L-T-P[C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Program Elective
+
+Title Casting and Allied Processes Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+
+Title Non-Traditional Machining Processes Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME) Type Program Elective
+(PE)
+Prerequisite ----
+
+4. Sommer C, (2000), Non-traditional Machining Handbook, Advance Publishing Inc.
+Self-Learning Material
+V K Jain, Advanced Machining Processes, NPTEL Course Department of Mechanical Engineering, IIT Kanpur, 
+https://nptel.ac.in/courses/112104028/
+
+Title Welding Science and Technology Number MEL4XX0
+Department Mechanical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B. Tech (ME) Type Program Elective (PE)
+Prerequisite ----
+
+Title Welding Metallurgy Course No. MEL6XX0
+Department Mechanical Engineering L-T-P[C] 3-0-0[3]
+Offered for B. Tech (ME) Type Program Elective
+
+Course Title Fundamentals of Metal Forming
+Technology Number MEL6XXX
+Department Mechanical Engineering L-T-P-Th [C] 3-0-0-0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+
+Title Introduction to Acoustics Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0–0 [3]
+Offered for B.Tech (ME) Type Program Elective (PE)
+Prerequisite Linear Algebra and Calculus
+
+Title Computer Aided Design Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–2 [4]
+Offered for B.Tech (ME) Type Program
+Elective (PE)
+Prerequisite Linear Algebra and Calculus
+
+Title Principle of Biomechanics Number ME4XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–0[3]
+Offered for B.Tech (ME, BS & BE) Type Programme
+Elective(PC)
+Prerequisite Engineering mechanics, linear
+algebra, differential equations, and
+mechanics of materials
+
+Title Mechanical Vibrations Number ME4XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (ME) Type Program Elective (PE)
+
+Title Introduction to Robotics Number RM4XX0
+Department/
+IDRP Robotics and Mobility Systems L-T-P [C] 3-0-0 [3]
+Offered for B. Tech (All Branches) Type Specialization
+Core
+
+Title Mechatronics Number ME6XX
+Department Electrical Engineering L-T-P-Th [C] 2–0–2–0 [3]
+Offered for B.Tech (ME) Type Programme Elective (PE)
+Prerequisite Basic knowledge in Mechanisms
+
+1. NPTEL IIT Kharagpur: https://nptel.ac.in/courses/106105166/ 
+2. Stanford: https://online.stanford.edu/courses/xee100-introduction-internet-things 
+3. https://www.coursera.org/specializations/iot (basic raspberry pi and Arduino) 
+4. Curtin university Micromasters program in IOT. https://news.curtin.edu.au/media-releases/curtin-offer-
+
+Title Finite Element Methods and Applications Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech (ME and CI) Type Program
+Elective (PE)
+
+Title Vehicle Dynamics Course No. ME6XX0
+Department Mechanical Engineering L-T-P[PE] 3-0-0[3]
+Offered for B.Tech (ME) Type Program Elective
+
+Title Experimental Modal Analysis Number ME6XX
+Department Mechanical Engineering L-T-P-Th [C] 3–0–2–0 [4]
+Offered for B.Tech (ME) Type Programme Elective
+(PE)
+Prerequisite Linear algebra, calculus and
+Mechanical Vibrations
+
+Title Techniques of Noise Control Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME, CI) Type Programme
+Elective (PE)
+Prerequisite Introduction to Acoustics
+
+Title Nonlinear Oscillations and Chaos Number ME6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME, CI, EE, PH, MA) Type Programme Elective
+(PE)
+Prerequisite Differential equations and linear algebra,
+Engineering Mechanics, Mechanical vibrations
+
+Title Micro-Nano Mechanics Number ME 6XX
+Department Mechanical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech (ME, EE) Type Programme Elective
+(PE)
+Prerequisite Mathematics, Basic Sciences, Engineering Mechanics,
+Mechanical vibration, and Structural mechanics
+
+Title Principle of Vibration Control Number MT 7XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (ME) Type Programme Elective
+(PE)
+Prerequisite Mathematics, Basic Sciences, Solid Mechanics,
+Mechanical vibration, and Structural mechanics
+
+Title Mechanics of Soft Materials Number MT6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME, BS & BE) Type Programme Elective
+(PE)
+Prerequisite Mechanics of materials, Advanced mechanics of solids
+
+Title Product Design and Feasibility Number MT6XX
+Department Mechanical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (ME, BS & BE) Type Programme Elective
+(PE)
+Prerequisite Mechanics of materials, Advanced mechanics of solids

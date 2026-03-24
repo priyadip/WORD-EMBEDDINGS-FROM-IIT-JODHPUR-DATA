@@ -1,0 +1,7 @@
+new dinuclear ni ii complex ni2ii is synthesized from hydrazineyl ligand and structurally characterized by various analytical tools including the diffraction scxrd technique
+in the solid state both ni ii metal centers in complex exist in distorted square planar geometry and display the presence of rare anagostic interactions to form linear motif in the supramolecular array
+complex is further stabilized in the solid state by interactions between the highly delocalized phenalenyl rings
+the redox features of complex have been analyzed by the cyclic voltammetry cv technique in solution as well as in the solid state revealing the crucial involvement of both the ni ii metal centers for undergoing oxidation reactions on the application of an anodic sweep
+complex glassy carbon electrode is employed as an electrocatalyst for oxygen evolution reaction oer in koh giving an oer onset at and very low oer overpotential mv vs the reversible hydrogen electrode rhe to reach ma current density
+furthermore displayed fast oer kinetics with tafel slope of mv significantly lower tafel slope value than those of previously reported molecular ni ii catalysts
+in situ electrochemical experiments and postoperational fourier transform infrared scanning electron spectroscopy and photoelectron spectroscopy xps studies were performed to analyze the stability of the molecular nature of complex and to gain reasonable insights into the true oer catalyst

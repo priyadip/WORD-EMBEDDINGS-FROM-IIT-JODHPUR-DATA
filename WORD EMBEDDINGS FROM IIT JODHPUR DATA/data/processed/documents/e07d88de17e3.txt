@@ -1,0 +1,17 @@
+research seminar by gaurav sood on nov at pm title of the talk on merge resolution proof system for quantified boolean formulas date time nov at noon online abstract we study proofs that system of diophantine linear equations or boolean formulas has no solution
+while trivial proof checks all possible assignments major open question in computational complexity theory asks whether shorter
+of length polynomial in proofs exist
+as baby step one fixes specific proof format and asks whether all unsatisfiable systems have short proofs in that proof format
+we study systems in which some variables are quantified universally and study specific proof format called merge resolution
+we show that there are systems which require long
+exponential size proofs in merge resolution
+about the speaker gauarv sood is an assistant professor at iit mandi school of computing electrical engg
+he obtained his phd from the institute of mathematical sciences chennai in and tech in computer sci
+from national institute of technology calicut in
+he was postdoctoral fellow at technion israel dept
+of computer sci
+title of the talk on merge resolution proof system for quantified boolean formulas date time nov at noon online abstract we study proofs that system of diophantine linear equations or boolean formulas has no solution
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

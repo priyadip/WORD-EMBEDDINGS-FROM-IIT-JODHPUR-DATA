@@ -1,0 +1,116 @@
+rupees eighteen lakh nine thousand nine hundred only superintending engineer iit jodhpur notice inviting superintending engineer indian institute of technology jodhpur invites online percentage rate tender from contractors for the following work
+name of work infrastructure work in berm and
+time for completion infrastructure work in berm e01 and
+integraty pact subject infrastructure work in berm e01 and
+subject submission of bid for the infrastructure work in berm and
+in witness whereof the parties have signed and executed this integrity pact at the place and date first above mentioned in the presence of following witnesses for and on behalf of for and on behalf of witnesses signature name and address indian institute of technology jodhpur percentage rate tender contract for works tender for the work of infrastructure work in berm and
+schedule reference to general conditions of contract general conditions of contract for works gcc for construction works for cpwd works as amended up to last date of submission of bid name of work infrastructure work in berm e01 and
+sub head upgradation work estimated cost of work as per tender notice earnest money iii performance guarantee iv security deposit of the gross amount of each running and final bill till the sum deducted will amount to security deposit of of the tendered amount of the work
+whether clause is applicable not applicable number of days from the date of issue of letter of acceptance for reckoning date of start of start mile stone as per table given below days no
+description of milestone physical time allowed in days from date of start amount to be in case of of milestone
+installation testing commissioning of upss along with electrical and data work
+days of bill value time allowed for execution of work days extension of time superintending engineer iit jodhpur ii rescheduling of mile stones superintending engineer iit jodhpur iii shifting of date of start in case of delay in handing over of site superintending engineer iit jodhpur clause applicable
+specifications to be followed for execution of work cpwd specifications for civil and internal and external for electrical works with upto date correction slips manufacturers specifications nit type of work infrastructure work in berm and
+safety and installation guide lines for fiber optic cable this section describes general precautions to be taken when installing fiber optic cable in building and the safe handling and disposal of optical cable
+the methods and instructions provided are intended only as guidelines as each installation will be influenced by local conditions and user preferences
+the reader should be experienced in fiber optic cable installation methods used for installing fiber optic cables are very similar to those used for installing standard copper cable
+however the qualities and characteristics fiber optic cable can be degraded when it is subjected to excessive pulling
+crushing forces leave the protective covering on the reel intact until it arrives at the installation site
+if the covering has been previously removed secure the cable end during transit to prevent damage
+personnel normally should not remain in an area where cable is being pulled under tension around piece of hardware
+personnel can remain in such an area to observe the alignment of cable around corner block if he or she stays clear of the hardware under tension and has clear path to safety
+laser light can damage your eyes
+laser light is invisible
+viewing it directly does not cause pain
+the iris of the eye will not close involuntarily as when viewing bright light
+consequently serious damage to the retina of the eye is possible
+never look into the end of fiber which may have laser coupled to it
+should accidental eye exposure to laser light be suspected arrange for an eye examination immediately the following section provides general guidelines for internal installation of fiber optic cable
+this information is based upon standard cable designs
+mechanical specifications minimum bend radii and cable temperature ranges can be obtained by contacting the oem
+caution fiber optic cable is sensitive to excessive pulling bending and crushing
+any such damage may alter the cable characteristics to the extent that the cable may have to be replaced
+to ensure all specifications are met consult the specific cable specification sheet for the cable being installed
+cable reels should be stored vertically on their flanges in rows and chocked to prevent rolling
+make sure that reels rest with reels in adjacent rows to prevent damage to cables
+before the installation begins carefully inspect the cable reel for protrusions such as nails and broken flanges which might cause damage to the cable as it is unreeled
+take precautions to protect reeled cable from mishaps or other sources of possible damage
+any damage to section of cable may require replacement of the entire section
+if the cable must be unreeled during installation use the configuration to prevent kinking or twisting
+do not coil fiber optic cable in continuous direction except for lengths of or less
+fiber optic cable can be installed inside buildings using the same methods as coax or twisted pair however the following guidelines should be observed
+do not deform the cable sheath specifically when using cable fasteners or ties to secure the cable to support or hardware
+do not exceed the cable maximum pulling tension
+do not pull fiber optic cables with copper cables
+do not pull fiber optic cables over existing cables
+the friction could be excessive and cause cable damage
+the cables may also become entangled resulting in damage to the fiber optic cable
+do not exceed minimum installed and bend radius
+the minimum bend radius varies with the cable diameter
+consult the appropriate cable specification
+do not pull the cable around sharp corners such as support brackets
+provide additional crush mechanical protection in environments
+secure the cable to larger permanent cables or available supports when possible
+do not attach the cable to cables that may be removed later or to steam or water lines
+use the following guidelines when installing cable in rigid conduit ensure the conduit system does not exceed minimum bend radius
+do not pull the cable through pull boxes or junction boxes unless the cable bend radius can be maintained through the use of conduit or inner duct avoid the use of elbows if possible and use an elbow only if the cable bend radius can be maintained
+never pull cable through an elbow
+pull the cable out of the elbow and it into the conduit exiting the elbow for second pull
+inner duct is plastic tubing commonly used in fiber optic installations to subdivide the duct and to provide for future cable pulls
+proper size and installation of the inner duct is critical for ease of cable installation
+if additional cables specifically larger bulkier cables are to be installed in the same conduit install the fiber optic cable inside an inner duct for mechanical protection eliminate sharp edges
+tension monitoring fiber optic cable is subject to damage if the cable specified maximum tensile force is exceeded
+except for short runs or hand pulls tension must be monitored
+maximum pulling tension varies with the cable fiber count
+refer to cable specification sheets for maximum tension
+all pulling equipment and hardware which will contact the cable during installation must maintain the cable minimum bend radius
+vertical runs each fiber optic cable in the vertical run needs to be supported by its own support grip at the top of the run
+never use fiber optic cables as support for other cables
+cables that are individually supported may be taped or together every meters for cable management not support
+fiber optic cable disposal at the end of the products service life there is the potential to recover and recycle component parts of the cable
+when handling and disposing of waste fiber optic cable observe the following guidelines comply with local legislation
+consider recycling opportunities
+fiber waste should be disposed of safely the use of sharps containers is recommended for waste fiber shards
+oem must provide otdr olts penta scanning or fluke test report with years warranty
+proposed ofc connectivity is building to building and inside the building rack to rack technical specification for data works
+fiber optics cable components supported applications but not limited to ieee data terminal equipment dte power via media dependent interface mdi telecom bri pri and digital subscriber loop dsl applications voice video and isdn applications references standards but not limited to international electro technical commission iec european committee for electro technical standardization cenelec american national standards institute ansi institution of electrical and electronics engineers ieee type single mode os2 fiber cabling system and all its components must be from single oem cables components networks speeds supported and standard compliance iec performance testing must have etl verified fibre channel compliance to foros2 warranty systems warranty from oem including otdr test reports warranty to cover bandwidth of the specified and installed cabling system cable type core iso os2
+single mode armoured gel filled multi tube construction cable
+fiber type single mode micron primary coated buffers
+fiber core must be as per telecordia gr20 g652d iec caab cable construction type loose tube corrugated steel tape armoured cable provided with frp or equivalent central strength member outer jacket construction high density polyethylene anti termite anti rodent suitable for direct burial application
+jacket must be uv stabilized
+losses frequency mating cycles
+idc contacts with insertion cycles acc
+to iec contact resistance veff compatible according to iec poe and compatible according to iec material and free in acc
+with eu directives rohs information outlet faceplate face plate port material abs color white size security features it should be lockable
+this is an optional feature suitable for rj45 connection modules connection module isdn patch panel unloaded modular patch panel fastening kit labelling fields with exchangeable labelling strips
+the ports are prepared for visual color coding system panel steel powder black port capacity suitable for individual information outlet no
+pipes and accessories isi tata jindal sail street led light fixtures philips crompton wipro bajaj schreder jaquar lighting led chip for street and led light fixtures philips crompton wipro bajaj exit and emergency lights philips crompton wipro bajaj prolite cable tyco commscope molex panduit schneider actassi legrand led light fixture philips crompton wipro bajaj schreder selector switch rishab kaycee siemens abb photo chromatic switch bajaj wipro philips annunciation panel crompton areva siemens kirloskar terminal blocks bch industrial control jainson change over switch socomec siemens hager abb bus bar jindal indalco century gi pipes jindal tata sail timers contactors to be mounted in db siemens schneider hager legrand list of approved materials electrical mv starters siemens schneider legrand abb protective relays areva siemens kwh meters electronic digital type meter voltmeter schneider conzerv siemens neptune abb indication button bch ge fans crompton greaves orient havells cable tray mem profab rico indiatech rmcon legrand raceway legrand mk schneider polycarbonate junction boxes hensel clipsal menekkes fasteners hilti fischer bosch wunh tv cable finolex havells beldon splitter box mx sharp catvision chemical earthing jef ecosafe erico terec plus dwc pipe tirupati gemini rex tricolite ups schneider vertiv socomec numeric abb mitsuibshi sealed maintenance free batteries exide quanta amaron inner rocket panasonic
+street light grp poles schreder philips bajaj creative composite aeron composite pu paints on street light grp poles azko nobel asian no
+material manufacturer fiber optics components data single mode multimode cables lius shelves pigtails cords connectors couplers splices
+tyco commscope molex panduit schneider actassi legrand
+outdoor mounted enclosure molex hoffman hensel panduit schneider ip66 rated core external splicing kit for outdoor fiber optics cable molex raychem tyco schneider networking racks data centre racks distribution racks from sizes to molex president rittal pannet schneider valrack cat6a cable for cat6a patch panel face plate modular box tyco commscope molex panduit schneider actassi cctv camera pelco sony bosch axis
+network video pelco sony bosch axis
+monitor sony samsung philips networking switch cisco extreme juniper ip based epabx system siemens cisco alca tel access control system access controllers lenel cassirusco smart motorola access control management lenel cassirusco smart motorola data networking cctv access control system epbax system door interlock controller lenel cassirusco smart motorola biometric fingerprint reader lenel cassirusco smart motorola smart card reader lenel cassirusco smart motorola smart cards lenel cassirusco smart motorola electromagnetic locks trimec bel algatech computer ibm hp lenovo note superintending engineer iit jodhpur reserves the right to add or delete any material and brands in the list of preferred on the recommendation of
+unit rate total supply and drawing following sizes of frls pvc supplying and fixing following modular switch each
+pin socket outlet each
+supplying and fixing following modules gi module each
+supply and fixing of following sizes of medium class meter
+supply and fixing of following ways horizontal type double door each
+wiring for submain wiring alongwith earth earth wire meter
+online input supply three phase output supply three phase online input supply three phase output each power module shall be kva each
+supplying and fixing of following rating four pole each
+supplying and drawing of utp pair cat lan metre
+supply installation testing commissioning of each
+sitc of single utp cat6a of specified make each
+supply and fixing of mm dlp pvc trucking system including all accessories like flexible cover cover joints body joints angles and end caps etc
+supply laying testing and commissioning of fibre core single mode optical cable metre
+of fibre optic cable cores using each
+supplying and fixing tpn sheet steel enclosure on recess but without complete with connections etc
+supplying and fixing tpn sheet steel enclosure on each
+supply and installation of abc dcp type fire each
+supply and installation of co2 type fire each
+total total dsr items rs
+total items rs
+less for correction factor on dsr items rs total amount number text number text number number text sl
+total amount with taxes in in words infrastructure work in berm e01 and
+inr eighteen lakh nine thousand nine hundred sixty two only total in figures inr eighteen lakh quoted rate in figures select inr zero only quoted rate in words inr zero only

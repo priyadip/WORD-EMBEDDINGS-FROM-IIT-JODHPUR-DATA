@@ -1,0 +1,96 @@
+engineering mechanics force resolution of force moment of force force system composition of forces equilibrium friction centroid and center of gravity simple machines
+building construction building components substructure superstructure type of structure load bearing framed and composite structures
+building material masonry materials stones bricks and mortars timber and miscellaneous materials glass plastic fibre aluminium steel galvanized iron bitumen pvc cpvc and ppf
+construction of substructure job layout earthwork foundation types dewatering coffer dams bearing capacity
+superstructure stone masonry brick masonry hollow concrete block masonry composite masonry cavity wall doors and windows vertical communication stairs lifts escalators scaffolding and shoring
+building finishes floors finishes process of laying walls plastering pointing painting and roofing materials including rcc
+building maintenance cracks causes type grouting epoxy etc
+settlement causes and remedial measures and techniques
+building drawing conventions type of lines symbols planning of building principles of planning for residential and public buildings rules and byelaws drawing plan elevation section site plan location plan foundation plan working drawing perspective drawing
+concrete technology properties of various grades of cement properties of coarse and fine aggregates properties of concrete water cement ratio properties of fresh and hardened concrete concrete quality control of concrete batching formwork transportation placing compaction curing waterproofing extreme weather concreting and chemical admixtures properties of special concrete ready mix rcc fibre reinforced precast high performance
+surveying types of survey chain and cross staff survey principle ranging triangulation chaining errors finding area compass survey principle bearing of line prismatic compass traversing local attraction calculation of bearings angles and local attraction levelling dumpy level recording in level book
+temporary adjustment methods of reduction of levels classification of levelling tilting level auto level sources of errors precautions and difficulties in levelling contouring contour interval characteristics methods of locating interpolation establishing grade contours uses of contour maps area and volume measurements lane table survey principles setting method theodolite survey components adjustments measurements traversing tachometric survey curves types setting out advanced survey equipment aerial survey and remote sensing
+computer aided design cad software autocad auto civil max etc
+cad commands generation of plan elevation section site plan area statement view
+indian institute of technology jodhpur syllabus for the post of junior engineer civil geo technical engineering application of geo technical engineering in design of foundation pavement earth retaining structures earthen dams physical properties of soil permeability of soil and seepage analysis shear strength of soil bearing capacity of soil compaction and stabilization of soil site investigation and sub soil exploration
+hydraulics properties of fluid hydrostatic pressure measurements of liquid pressure in pipes fundamentals of fluid flow flow of liquid through pipes flow through open channel flow measuring devices hydraulic machines
+irrigation engineering hydrology investigation and reservoir planning percolation tanks diver head works
+mechanics of structure stress and strain shear force and bending moment moment of intertia stresses in beams analysis of trusses strain energy
+theory of structure direct and bending stresses slope and deflection fixed beam continuous beam moment distribution method columns
+design of concrete structure working stress method limit state method analysis and design of singly reinforced and doubly reinforced sections shear bond and development length analysis and design of beam slab axially laded column and footings
+design of steel structure types of sections grades of steel strength characteristics is code connections design of tension and compression members steel roof truss beams column bases
+transportation engineering railway engineering alignment and gauges permanent way railway track geometrics branching of tracks stations and yards track maintenance bridge engineering site selection investigation component parts of bridge permanent and temporary bridges inspection and maintenance tunnel engineering classification shape and sizes tunnel investigation and surveying method of tunnelling in various strata precautions equipment explosives lining and ventilation
+highway engineering road engineering investigation for road project geometric design of highways construction of road pavements and materials traffic engineering hill roads drainage of roads maintenance and repair of roads
+environmental engineering environmental pollution and control public water supply domestic sewage solid waste management environmental sanitation and plumbing
+advanced construction techniques and equipment fibers and plastics artificial timber advanced concreting methods under water concreting ready mix concrete tremix concreting special concretes formwork construction soil reinforcing techniques hosting and conveying equipment earth moving machinery exaction and compaction equipment concrete mixers stone crushers pile driving equipment working of hot mix bitumen plant bitumen paver floor polishing estimating and costing types of estimates approximate detailed mode of measurements and rate analysis
+contracts and accounts types of engineering contracts tender and tender documents payment specification
+work procedure as per cpwd guidelines
+knowledge of computer applications like excel power point and etc
+basic concepts concepts of resistance inductance capacitance and various factors affecting them
+concepts of current voltage power energy and their units
+circuit law kirchhoff law simple circuit solution using network theorems
+magnetic circuit concepts of flux mmf reluctance different kinds of magnetics materials magnetic calculations for conductors of different configuration
+straight circular solenoidal etc
+electromagnetic induction self and mutual induction
+ac fundamentals instantaneous peak
+and average values of alternating signal representation of sinusoidal wave form simple series and parallel ac circuits consisting of
+and resonance tank circuit
+poly phase and delta connection phase power dc and sinusoidal signal response of circuit
+measurement and measuring instruments measurement of power phase and phase both active and and energy wattmeter method of phase power measurement measurement of frequency and phase angle ammeter and voltmeter both moving oil and moving iron type extension of range wattmeter megger energy meter ac bridges
+use of cro signal generator ct pt and their uses
+earth fault detection
+electrical machines machine construction basic principles of motors and generators their characteristics speed control and starting of motors
+method of braking motor losses and efficiency of machines
+phase and phase constructions principles of operation equivalent circuit voltage regulation
+and tests losses and efficiency
+effect of voltage frequency and wave form on losses parallel operation of phase induction motors characteristics and applications
+phase induction motors rotating magnetic field principle of operation equivalent circuit characteristics starting and speed control of phase induction motors
+methods of braking effect of voltage and frequency variation on torque speed characteristics fractional kilowatt motors and single phase induction motors characteristics and applications
+synchronous machines generation of phase
+armature reaction voltage regulation parallel operation of two alternators synchronizing control of active and reactive power starting and applications of synchronous motors
+generation transmissions and distribution different types of power stations load factor diversity factor demand factor cost of generation of power stations
+power factor improvement various types of tariffs types of faults short circuit current for symmetrical faults
+switchgears and protection rating of circuit breakers principles of arc extinction by oil and air fuses protection against earth leakage over current etc
+buchholz relay syllabus for the post of junior engineer electrical estimation and costing estimation of lighting scheme electrical installation of machines and relevant rules earthling practices and ie rules
+utilization of electrical engineering illumination electric heating electric welding electroplating electric drivers and motors
+basic electronics working of various electronic devices
+junction diodes transistors pnp and pnp type bjt and jfet simple circuits using these devices
+air conditioning general principles of refrigeration and terminology factors affecting load psychrometric chart comfort air conditioning general principles of window split air conditioners
+earthing design layout and installation procedures for building substation earth lightning protection and surge protection devices
+routine work preparation of estimate for electrical work estimation and costing of the electrical related work preparation of notice inviting tender notice inviting quotation and market rate analysis
+knowledge of measuring instrument like meggar multimeter watt hour meter lux meter db meter temperature and pressure gauge etc
+switchgear and busbar system used at the kv substation
+earthing system used at ss and buildings
+lightning arrester used at substation and high rise buildings
+dg operation and maintenance
+overhead line of kv
+underground cabling of kv laying procedure of cable testing of cable etc
+knowledge about transformer and yard maintenance
+mechanical engineering science energy and steam forms sources and classification of energy steam classification classification principle of operation of impulse and reaction gas water turbine classification
+engines parts refrigeration and air conditioning lathe and drilling machines milling and grinding machines joining processes lubrication and bearings soldering brazing and welding power transmission belt drives fasteners
+engineering mechanics introduction to engineering mechanics composition of forces free body diagram equations of equilibrium conditions of static equilibrium for different force systems lami theorem friction statically determinate beams centroids and moment of inertia
+strength of material stress and strain shear stress bending moment and shear force diagrams elastic constants principal stresses maximum stresses in beams deflection of beams and torsion of shaft engineering drawing introduction drawing instruments and their uses bis conventions lettering dimensioning and free hand practicing orthographic projections orthographic projections of plane surfaces projections of solids sections and development of lateral surfaces of solids isometric projection using isometric scale only
+material science metallurgy structure of crystalline solids diffusion diffusion mechanism fick laws of diffusion
+gibbs phase rule binary phase diagrams diagram
+mechanical properties of materials tension test hardness tests and impact tests elastic and plastic behaviour yield point phenomenon true strain relationships types of fracture stages in cup cone fracture fatigue fatigue tests curves
+composite materials types of composite materials
+properties of fibers and matrix materials
+general methods of production properties and applications of frp prc mmc and structural composites
+expressions for density young modulus and strength of continuous fiber reinforced composites in strain and iso stress conditions
+applications of composite materials in aerospace automobile and other fields
+thermal fluides engineering thermodynamics system surroundings boundary property state process cyclic process path function point function zeroth law first and second of thermodynamics
+carnot cycle irreversibility and availability
+concept of heat engines efficiency of heat concept of heat pump and refrigerator coefficient of performance
+fluid mechanics concepts of continuum shear stress as applied to fluids fluid properties viscosity newton law surface tension bulk modulus compressibility vapour pressure capillarity gauge and absolute pressures of fluid
+principle of manometers simple and differential manometers bourdon pressure gauge pascal law syllabus for the post of junior engineer mechanical mechanical measurements measurements and measurement systems definition significance of measurement generalized measurement system definitions and concept of accuracy precision calibration sensitivity repeatability linearity standards of measurement limits fits tolerance and gauging principle of interchageability indian standards comparators and angular measurement mechanical and optical comparators lvdt pneumatic comparators transducers primary and secondary transducers electrical mechanical electronic transducers intermediate modifying and terminating devices mechanical cathode ray oscilloscope oscillographs plotters
+measurement of force torque pressure temperature and strain
+heating air conditioning refrigeration system air conditioning introduction to air conditioning factors affecting air conditioning psychometric chart and its use psychometric sensible heating and cooling humidifying and dehumidifying adiabatic saturation process equipments used in air conditioning cycle air conditioning units and plants
+refrigeration and tools tools used in refrigeration and air conditioner installation installation procedure faults in refrigeration and air conditioning system servicing procedure pumps principle of working and applications types of casings and impellers concept of multistage priming and its methods cavitation manometric head work done manometric efficiency overall efficiency
+numericals on calculations of overall efficiency and power required to drive pumps
+steam turbines impulse and reaction turbines condensers jet surface condensers cooling towers internal combustion engines and refrigeration otto diesel and dual cycles and diagrams ic engines stroke and stroke
+air compressors functions of air compressor uses of compressed air types of air compressors single stage reciprocating air compressor its construction and working with line diagram using diagram multi stage compressors advantages over single stage compressors rotary compressors centrifugal compressor axial flow type compressor and vane type compressors
+general preparation of budget estimate for mechanical work estimation and costing of the electrical related work preparation of notice inviting tender notice inviting quotation and analysis of market rates
+having piping knowledge leak detection and attention system
+planning and scheduling of work
+root cause and failure analysis
+corrosion and inspection of piping and other equipments

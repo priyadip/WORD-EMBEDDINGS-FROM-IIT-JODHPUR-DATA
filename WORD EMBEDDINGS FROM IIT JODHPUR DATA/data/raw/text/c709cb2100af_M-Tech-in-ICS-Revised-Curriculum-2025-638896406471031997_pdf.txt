@@ -1,0 +1,136 @@
+SOURCE_PDF: c709cb2100af_M-Tech-in-ICS-Revised-Curriculum-2025-638896406471031997.pdf
+
+Indian Institute of Technology Jodhpur
+M.Tech. in Communication Systems
+(previously M.Tech. in Intelligent Communication Systems)
+Revised Curriculum Structure for AY 2025-26 Onwards
+
+ 
+Ability to teach and express ideas in both written and oral formats
+Learning outcome
+• 
+Ability to statistically characterize and evaluate the performance of communication systems.
+• 
+Ability to apply the different methods for signal detection and estimation to real world engineering 
+problems and advanced research
+• 
+Develop understanding of cutting-edge research on future generations of wireless communication.
+• 
+Analyze multi-user networks and understanding of techniques like opportunistic communication, 
+multiuser diversity, superposition coding and successive interference cancellation
+• 
+Implement end-to-end wireless communication systems with various MIMO technologies like 
+maximal ratio combining, OFDM, interleaving/de-interleaving, and Alamouti codes
+• 
+Ability to master a specific set of methods appropriate to their dissertation, with the depth needed 
+to produce methodologically rigorous research.
+• 
+Carry out research work demonstrating scientific problem solving and generate IPR
+
+Cat. Course Number, Course Title L-T-P Credits Cat. Course Number, Course Title L-T-P Credits
+I Semester II Semester
+C EEL7XX0 Applied Linear
+Algebra 3-0-0 3 C EEL7XX0 Wireless
+Communications 3-0-0 3
+C EEL7XX0 Statistical Signal
+Analysis 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+C EEL7XX0 Digital
+Communications 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+E EEL7XX0 Elective 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+NG1 HSN7XX0 Non-Graded I 1-0-0 S/X NG2 HSN7XX0 Non-Graded II 1-0-0 S/X
+Total 12 Total 12
+III Semester IV Semester
+T EET8XXo Thesis 16 T EET8XX0 Thesis 16
+Total 16 Total 16
+Applied Linear Algebra Statistical Signal
+Analysis Digital Communications Wireless
+Communications
+ Fundamental
+Concepts of Linear
+Algebra
+ Eigenvalues,
+Eigenvectors, and
+Diagonalization
+ Matrix Theory &
+Factorization
+ Matrix Computations
+in Signal Processing &
+Communications  Random Processes
+ Stationarity and
+Ergodicity
+ Random parameter
+estimation
+ Non-random
+parameter
+estimation
+ Multiple parameter
+estimation  Signal
+Representation and
+Digital Modulation
+Schemes
+ Receiver Design,
+Sufficient Statistics
+and Performance
+Analysis
+ Carrier and Symbol
+Synchronization
+ Introduction to
+Coding and design
+tradeoffs  Fading channel
+models
+ Error performance in
+AWGN and fading
+channels
+ Diversity Techniques
+ Capacity of fading
+channels
+ Multiuser systems-
+multiple and random
+access techniques
+ Multiuser diversity
+ Ad-Hoc Networks
+Program’s Structure
+Overall Structure (M. Tech. Degree Requirements for Communication Systems)
+Topic Clouds
+
+S. No. Course Number Course Title L-T-P Credits
+1 EEL7240 Cellular Communication Networks 3-0-0 3
+2 EEL7200 Data Communication and Networking 2-0-2 3
+3 EEL7110 MIMO Wireless Communications 3-0-0 3
+4 EEL7990 RF system design for Communications 3-0-0 3
+5 EEL7630 Coding Theory 3-0-0 3
+6 EEL71320 Network Information Theory 3-0-0 3
+7 EEL7760 Design and Analysis of Communication
+Networks 3-0-0 3
+8 EEL7030 Advanced Digital Signal Processing 3-0-0 3
+9 EEL7930 Optical Communication Systems 3-0-0 3
+10 CSL7620 Machine Learning 3-0-0 3
+11 CSL7590 Deep Learning 3-0-0 3
+12 EEL7480 Machine Learning for Communications 3-0-0 3
+List of Program Electives
+
+Title: Applied Linear Algebra Number
+: EEL7XX0
+Department: Electrical Engineering L-T-P
+[C] 3-0-0 [3]
+Offered for: M. Tech. and Ph.D.
+Type: Core Course for Communication and Signal
+Processing groups
+Curriculum of Core Courses
+
+Title: Statistical Signal Analysis Number: EEL7XX0
+Department: Electrical Engineering L-T-P [C] 3-0-0 [3]
+Offered for: M. Tech. and Ph.D.
+Type: Core Course for Communication and Signal
+Processing groups
+
+Title Digital Communication Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. and PhD Type Compulsory
+Prerequisite Knowledge of Probability Theory and Fundaments of
+Communications
+
+Title Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Fundamentals of Communications

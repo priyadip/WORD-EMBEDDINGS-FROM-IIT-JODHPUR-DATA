@@ -1,0 +1,12 @@
+research seminar by raj kamal maurya on august at pm title of the talk inference and optimal design of life testing experiments under censored data date time venue august pm seminar hall dept
+of mathematics abstract this work explores the reliability modelling of load sharing systems under progressive censoring and integrates it with compound optimal design cod to improve experimental efficiency
+in load sharing systems component failure affects the stress on remaining units altering their failure behaviour
+progressive censoring allows selective removal of units during testing making data collection more practical
+we develop cod framework that balances precision of parameter estimation with test cost ensuring both statistical and operational efficiency
+applications to weibull lifetime models demonstrate the advantages of this approach through simulation and numerical studies
+about the speaker raj kamal maurya is currently serving as an assistant professor in the department of applied mathematics and humanities at sardar vallabhbhai national institute of technology svnit surat
+he received his in mathematics with specialization in statistics from the indian institute of technology iit patna under the supervision of yogesh mani tripathi
+his research interests include bayesian modelling reliability analysis progressive censoring compound optimal design and statistics
+maurya has prior teaching experience at kiit university bhubaneswar and he has taught wide range of undergraduate and postgraduate courses
+he is actively involved in statistical research and has published in reputed international journals
+title of the talk inference and optimal design of life testing experiments under censored data date time venue august pm seminar hall dept

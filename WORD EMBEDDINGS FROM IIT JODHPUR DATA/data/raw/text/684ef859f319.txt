@@ -1,0 +1,95 @@
+SOURCE_URL: https://iitj.ac.in/Electrical-Engineering/en/Control-and-Computing-Laboratory
+
+Control and Computing Laboratory
+Control and Computing Laboratory
+Control and Computing Laboratory
+Control and Computing Laboratory
+This lab facilitates students with hand-on experiments on the real physical systems that apply fundamentals of control system theory. The lab contains a variety of equipment used in the design and experimentation of digital and analog electromechanical feedback control systems. The topics studied in this lab include system modeling, digital and analog data acquisition systems, electro-mechanical interfacing, controller design, and implementation using MATLAB. 
+
+The lab also includes equipment and simulation kits useful for realizing the various DSP techniques into hardware. The lab aims to provide the experience of developing various DSP algorithms and then, porting them to the hardware for real time applications.  Thus, this bridges the necessary gap of DSP Theory and development of hardware aware DSP algorithms. The experiments in the DSP lab ranges from basic implementation of sampling, filtering, fourier transform to complex real life applications such as noise cancellation, audio processing etc. In addition, the laboratory imparts knowledge of processor architecture, real time scheduling algorithms and use of different embedded processors in different applications. The embedded processors come with reach peripherals like GPIOs, Timers, Analog inputs, I2C Bus, USART, RTC etc. The students learn programming of these peripherals using programming languages like C. The students also use assembly language programming to understand low level drivers. Students are exposed to Hardware Abstraction Layer (HAL) for accessing different peripherals through high level languages like C. image: Control system
+This lab facilitates students with hand-on experiments on the real physical systems that apply fundamentals of control system theory. The lab contains a variety of equipment used in the design and experimentation of digital and analog electromechanical feedback control systems. The topics studied in this lab include system modeling, digital and analog data acquisition systems, electro-mechanical interfacing, controller design, and implementation using MATLAB. 
+
+The lab also includes equipment and simulation kits useful for realizing the various DSP techniques into hardware.
+The lab aims to provide the experience of developing various DSP algorithms and then, porting them to the hardware for real time applications.  Thus, this bridges the necessary gap of DSP Theory and development of hardware aware DSP algorithms. The experiments in the DSP lab ranges from basic implementation of sampling, filtering, fourier transform to complex real life applications such as noise cancellation, audio processing etc.
+In addition, the laboratory imparts knowledge of processor architecture, real time scheduling algorithms and use of different embedded processors in different applications. The embedded processors come with reach peripherals like GPIOs, Timers, Analog inputs, I2C Bus, USART, RTC etc. The students learn programming of these peripherals using programming languages like C. The students also use assembly language programming to understand low level drivers. Students are exposed to Hardware Abstraction Layer (HAL) for accessing different peripherals through high level languages like C.
+This lab is used for research as well as conducting lab experiments in following areas: Control systems Microprocessors and Microcontrollers Embedded systems Digital signal Processing This lab is also used for conducting experiments associated with embedded systems for the M.Tech. students enrolled in Cyber Physical Systems and Sensors & IoT branches.
+This lab is used for research as well as conducting lab experiments in following areas:
+Microprocessors and Microcontrollers
+Digital signal Processing
+This lab is also used for conducting experiments associated with embedded systems for the M.Tech. students enrolled in Cyber Physical Systems and Sensors & IoT branches.
+Facilities Magnetic Levitation System Ball and Beam Active Suspension System Industrial Emulator Rotary Inverted Pendulum Q-Aero USB (Helicopter) Coupled Tank System Real Time Digital Simulator (RTDS) Data Acquisition System Software MATLAB 8085 Based Microprocessor Kits Dual DAC Interface Module Logic Controller Interface Module 16 Channel 8-Bit ADC Interface Module LCD(16*2) Interface Module Musical Tone Generator Interface Module Real Time Clock Interface Module Traffic Light Interface Module Elevator Interface Module DM 164134 HPC Curisoity Board Digital Storage Oscilloscope Software MP LAB IDE TMS320C5515 DSP Kit DM6437 Digital Video Development Platform DSP F28335 Board Code composer studio Evaluation Modules TMS320LF2407 EVM board DM642 Digital Media Developer Kit DM6437 Davinci with Camera Video and Image Kit SMT8039 Keil μVision Software ST32CubeMX software Cortex-M4 STM32F407VET6 Development Board ST LINK V2 - ST-LINK Programmer
+Magnetic Levitation System Ball and Beam Active Suspension System Industrial Emulator Rotary Inverted Pendulum Q-Aero USB (Helicopter) Coupled Tank System Real Time Digital Simulator (RTDS) Data Acquisition System Software MATLAB 8085 Based Microprocessor Kits Dual DAC Interface Module
+Magnetic Levitation System
+Active Suspension System
+Rotary Inverted Pendulum
+Q-Aero USB (Helicopter)
+Real Time Digital Simulator (RTDS)
+Data Acquisition System
+8085 Based Microprocessor Kits
+Dual DAC Interface Module
+Logic Controller Interface Module 16 Channel 8-Bit ADC Interface Module LCD(16*2) Interface Module Musical Tone Generator Interface Module Real Time Clock Interface Module Traffic Light Interface Module Elevator Interface Module DM 164134 HPC Curisoity Board Digital Storage Oscilloscope Software MP LAB IDE TMS320C5515 DSP Kit
+Logic Controller Interface Module
+16 Channel 8-Bit ADC Interface Module
+LCD(16*2) Interface Module
+Musical Tone Generator Interface Module
+Real Time Clock Interface Module
+Traffic Light Interface Module
+Elevator Interface Module
+DM 164134 HPC Curisoity Board
+Digital Storage Oscilloscope
+DM6437 Digital Video Development Platform DSP F28335 Board Code composer studio Evaluation Modules TMS320LF2407 EVM board DM642 Digital Media Developer Kit DM6437 Davinci with Camera Video and Image Kit SMT8039 Keil μVision Software ST32CubeMX software Cortex-M4 STM32F407VET6 Development Board ST LINK V2 - ST-LINK Programmer
+DM6437 Digital Video Development Platform
+Code composer studio
+Evaluation Modules TMS320LF2407 EVM board
+DM642 Digital Media Developer Kit
+DM6437 Davinci with Camera
+Video and Image Kit SMT8039
+Keil μVision Software
+Cortex-M4 STM32F407VET6 Development Board
+ST LINK V2 - ST-LINK Programmer
+People Faculty 1. Deepak kumar M. Fulwani Research Interests: Embedded Control, Control of Micro-Grids, Control of Uncertain System Office location: Room no. 227, Department of Electrical Engineering Phone: (91 291) 280 1355 Web: https://sites.google.com/a/iitj.ac.in/deepak-fulwani/home
+1. Deepak kumar M. Fulwani
+Research Interests: Embedded Control, Control of Micro-Grids, Control of Uncertain System
+Office location: Room no. 227, Department of Electrical Engineering
+Phone: (91 291) 280 1355
+Web: https://sites.google.com/a/iitj.ac.in/deepak-fulwani/home
+2. Anoop Jain Research Interests: Cooperative Control; Multi-Agent Systems; Formation Control; Nonlinear Control; Event,Triggered Control, Cyber-Physical Systems Office location: 204, EE, eMail: anoopj@iitj.ac.in Phone: (91 291) 280 1371 Web: https://sites.google.com/view/anoopjain/
+Research Interests: Cooperative Control; Multi-Agent Systems; Formation Control; Nonlinear Control; Event,Triggered Control, Cyber-Physical Systems
+Office location: 204, EE,
+eMail: anoopj@iitj.ac.in
+Phone: (91 291) 280 1371
+Web: https://sites.google.com/view/anoopjain/
+3. Niladri Sekhar Tripathy Research Interests: Dynamics and Control, Mechatronics, Cyber-physical Systems, Cybersecurity Office location: 106, EE, eMail: niladri@iitj.ac.in Phone: (91 291) 280 1375 Web: http://home.iitj.ac.in/~niladri/
+3. Niladri Sekhar Tripathy
+Research Interests: Dynamics and Control, Mechatronics, Cyber-physical Systems, Cybersecurity
+Office location: 106, EE,
+eMail: niladri@iitj.ac.in
+Phone: (91 291) 280 1375
+Web: http://home.iitj.ac.in/~niladri/
+4. Himanshu Kumar Assistant Professor Research Interests: : Image and Video Processing, Computer Vision, Deep Learning, Computational Imaging Ph.D.: Indian Institute of Technology Kanpur eMail: hkumar@iitj.ac.in Phone: (91 291) 280 1370 Web: https://sites.google.com/a/iitj.ac.in/himanshu-kumar/home
+Research Interests: : Image and Video Processing, Computer Vision, Deep Learning, Computational Imaging
+Ph.D.: Indian Institute of Technology Kanpur
+eMail: hkumar@iitj.ac.in
+Phone: (91 291) 280 1370
+Web: https://sites.google.com/a/iitj.ac.in/himanshu-kumar/home
+Staff Kailash Chander eMail: kchander@iitj.ac.in Phone: (91 291) 280 1393
+eMail: kchander@iitj.ac.in
+Phone: (91 291) 280 1393
+Contact Details Room No. 104 Deepak kumar M. Fulwani : df@iitj.ac.in Anoop Jain: anoopj@iitj.ac.in
+Deepak kumar M. Fulwani : df@iitj.ac.in
+Anoop Jain: anoopj@iitj.ac.in
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

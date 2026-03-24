@@ -1,0 +1,25 @@
+SOURCE_URL: http://www.iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=8baa4ce4-3809-4657-97fa-917a54a112ec
+
+Congratulations to Dr. Moumita Mandal for the acceptance of her research article in the journal International Journal of Nonlinear Analysis and Applications
+Congratulations to Dr. Moumita Mandal for the acceptance of her research article in the journal International Journal of Nonlinear Analysis and Applications
+Title: Projection and multi-projection methods for second kind Volterra-Hammerstein integral equation Authors: M. Mandal, K. Kant and G. Nelakanti Journal: International Journal of Nonlinear Analysis and Applications Volume: In Press Year: 2020 Publisher: Semnan University Abstract: In this article, we discuss the piecewise polynomial based Galerkin method to approximate the solutions of second kind Volterra-Hammerstein integral equations. We discuss the convergence of the approximate solutions to the exact solutions and obtain the orders of convergence O(h^r ) and O(h^{2r} ), respectively, for Galerkin and its iterated Galerkin methods in uniform norm, where h, r denote the norm of the partition and smoothness of the kernel, respectively. We also obtain the superconvergence results for multi-Galerkin and iterated multi-Galerkin methods. We show that iterated multi-Galerkin method has the order of convergence O(h 3r ) in the uniform norm. Numerical results are provided to demonstrate the theoretical results.
+Title: Projection and multi-projection methods for second kind Volterra-Hammerstein integral equation
+Authors: M. Mandal, K. Kant and G. Nelakanti
+Journal: International Journal of Nonlinear Analysis and Applications
+Publisher: Semnan University
+Abstract: In this article, we discuss the piecewise polynomial based Galerkin method to approximate the solutions of second kind Volterra-Hammerstein integral equations. We discuss the convergence of the approximate solutions to the exact solutions and obtain the orders of convergence O(h^r ) and O(h^{2r} ), respectively, for Galerkin and its iterated Galerkin methods in uniform norm, where h, r denote the norm of the partition and smoothness of the kernel, respectively. We also obtain the superconvergence results for multi-Galerkin and iterated multi-Galerkin methods. We show that iterated multi-Galerkin method has the order of convergence O(h 3r ) in the uniform norm. Numerical results are provided to demonstrate the theoretical results.
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

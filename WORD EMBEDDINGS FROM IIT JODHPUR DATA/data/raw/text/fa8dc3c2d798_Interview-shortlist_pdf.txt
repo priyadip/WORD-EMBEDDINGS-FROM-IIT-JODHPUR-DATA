@@ -1,0 +1,59 @@
+SOURCE_PDF: fa8dc3c2d798_Interview-shortlist.pdf
+
+SR NO APPLICATION NUMBER Name
+1 IITJ/RA/PhD/SoLA/1 Sonal Sinha
+2 IITJ/RA/PhD/SoLA/82 Sagar Jangid
+3 IITJ/RA/PhD/SoLA/80 Amritesh Kumar Jha
+5 IITJ/RA/PhD/SoLA/61 Nisha Daga
+6 IITJ/RA/PhD/HS/2270 Gyanendra Tiwari
+7 IITJ/RA/PhD/SoLA/79 Dr Prafful Kalla
+8 IITJ/RA/PhD/SoLA/130 Ahana Bhattacharjee
+9 IITJ/RA/PhD/SoLA/224 Sunidhi Upadhyay
+10 IITJ/RA/PhD/SoLA/74 Satyam Pathak
+11 IITJ/RA/PhD/SoLA/170 Pooja Yadav
+12 IITJ/RA/PhD/HS/2364 Suvankar Goswami
+13 IITJ/RA/PhD/SoLA/7 Ankit Kumar
+14 IITJ/RA/PhD/SoLA/178 Uma Mehta
+15 IITJ/RA/PhD/HS/2360 Prashant Naresh Vashistha
+16 IITJ/RA/PhD/SoLA/47 Banwari Lal Pareek
+17 IITJ/RA/PhD/SoLA/161 Abhishek Meel
+18 IITJ/RA/PhD/HS/2373 Priyal Gehlot
+19 IITJ/RA/PhD/SoLA/152 Ranjana Kumari
+20 IITJ/RA/PhD/HS/2342 Bino Shadrach Berry
+21 IITJ/RA/PhD/HS/2119 Chaitali Mandal
+22 IITJ/RA/PhD/SoLA/98 Pulkita Jain
+23 IITJ/RA/PhD/SoLA/209 Bhanupriya Pareek
+24 IITJ/RA/PhD/HS/2329 Priyanka Yadav
+25 IITJ/RA/PhD/HS/2309 Madhulika Rathore
+26 IITJ/RA/PhD/HS/2369 Dhriti Jain
+27 IITJ/RA/PhD/SoLA/108 Jenifer Nixon
+28 IITJ/RA/PhD/SoLA/147 Sanchita Gupta
+29 IITJ/RA/PhD/SoLA/183 Akanksha Mishra
+30 IITJ/RA/PhD/SoLA/165 Gayathri Suresh Babu
+31 IITJ/RA/PhD/SoLA/28 Shikha Sharma
+32 IITJ/RA/PhD/SoLA/212 Aprajita Shruti
+33 IITJ/RA/PhD/SoLA/100 Prashant Mishra
+34 IITJ/RA/PhD/SoLA/56 Riya Sharma
+35 IITJ/RA/PhD/SoLA/181 Deeksha Arora
+36 IITJ/RA/PhD/SoLA/187 Deepti Aditya
+37 IITJ/RA/PhD/HS/2350 Siddhanth Chaturbhuj
+38
+39 IITJ/RA/PhD/SoLA/50
+IITJ/RA/PhD/SoLA/95 Rachayita Bhattacharyya
+Aparna Reghunathan
+School of Liberal Arts
+Indian Institute of Technology Jodhpur
+The list of candidates shortlisted for the interview round for the PhD program at School of Liberal Arts,
+Indian Institute of Technology, Jodhpur. Details shall be sent to the shortlisted candidates through
+
+40 IITJ/RA/PhD/SoLA/201 Aishani Pande
+41 IITJ/RA/PhD/SoLA/199 Sagar Das
+42 IITJ/RA/PhD/SoLA/225 Pratishtha Pandey
+43 IITJ/RA/PhD/SoLA/124 Sarath M N
+44 IITJ/RA/PhD/SoLA/191 Pradarshika Biswas
+45 IITJ/RA/PhD/SoLA/220 Ayushi Pulukool
+46 IITJ/RA/PhD/HS/2377 Debadrita Saha
+47 IITJ/RA/PhD/SoLA/258 Arunima Kundu
+48 IITJ/RA/PhD/SoLA/174 Chandrima Banerjee
+School of Liberal Arts
+Indian Institute of Technology Jodhpur

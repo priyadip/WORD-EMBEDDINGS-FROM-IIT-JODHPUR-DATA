@@ -1,0 +1,52 @@
+qualitative analysis of dynamical systems sushmita yadav p20ma010 supervisor puneet sharma department of mathematics iit jodhpur the modern theory of dynamical systems traces its origins to the late nineteenth tury with the pioneering work of henri who explored the dynamics of the problem in celestial mechanics
+traditionally most studies have focused on autonomous systems where the governing rules remain invariant over time
+however many processes are inherently with dynamics that evolve under rules
+to more accurately model these processes it is essential to consider systems with behavior
+qualitative analysis of dynamical systems nads was first ied by kolyada and snoha in
+in the authors investigate the topological entropy of nads
+later in kst04 the authors discuss minimality ditions for nads
+in bo12 authors investigate dynamical notions such as chaos topological weak mixing and topological entropy for general dynamical system
+these contributions have attracted many researchers in the tive analysis of dynamical systems for instance see dvo12 sr18b lc17 ste15 mmas18 sr18a
+although progress has been made in studying time systems numerous fundamental questions remain open in this setting
+in this thesis work we present comprehensive study of the qualitative analysis of discrete systems with focus on their asymptotic behavior under various dynamical properties
+we begin by investigating some dynamical notions such as minimality almost periodicity and equicontinuity for general tems on compact metric spaces as phase space
+further we explore various notions of proximality such as syndetic regional and regionally syndetic proximality
+we vide sufficient criterion for proximal and syndetically proximal relations to coincide in system
+we also discuss various proximal notions in product spaces
+in the setting of topological flows the notion of the enveloping semigroup plays central role in understanding dynamical behavior ell60 ell93 en89
+tivated by this we introduce an analogous notion for systems which we call an enveloping cover though it does not inherit semigroup structure in the setting
+before delving into the dynamics of tems via this construction we first examine the classical case we explore the ing semigroup of topological flow and study the induced flow it supports
+we then relate various dynamical properties of the original flow to those of the induced flow on its enveloping semigroup
+with this foundation we return to the setting and investigate the structure of the enveloping cover
+in particular we establish the equivalence of equicontinuity and distality for systems on the real line using the enveloping cover and further demonstrate how several topological erties of the enveloping cover reflect the dynamics of the underlying system
+references bo12 francisco balibrea and piotr oprocha
+weak mixing and chaos in nonautonomous discrete systems
+applied mathematics letters
+chaos in nonautonomous discrete dynamical tems
+ell60 robert ellis
+semigroup associated with transformation group
+transactions of the american mathematical society
+ell93 robert ellis
+the enveloping semigroup of projective flows
+en89 robert ellis and mahesh nerurkar
+weakly almost periodic flows
+kolyada lubomir snoha et al
+topological entropy of nonautonomous dynamical systems
+random and computational namics
+kst04 kolyada snoha and trofimchuk
+on minimality of tonomous dynamical systems
+lc17 tianxiu lu and guanrong chen
+proximal and syndetical ties in nonautonomous discrete systems
+journal of applied analysis and computation
+mmas18 alejandro miralles marina and manuel sanchis
+sensitive dependence for nonautonomous discrete dynamical tems
+sr18a puneet sharma and manish raghav
+sr18b puneet sharma and manish raghav
+topology and its tions
+ste15 marta inheriting of chaos in uniformly convergent nonautonomous dynamical systems on the interval
+discrete and continuous dynamical systems
+yadav and sharma dynamical behavior of general dynamical system applied general topology
+yadav and sharma equivalence of equicontinuity and distality for real systems filomat
+yadav and sharma enveloping cover of tems under revision
+yadav and sharma dynamics of enveloping semigroup of flows under review
+yadav and sharma various notions of proximality of dynamical systems under review

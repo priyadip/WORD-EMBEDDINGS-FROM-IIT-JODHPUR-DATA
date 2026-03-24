@@ -1,0 +1,67 @@
+SOURCE_URL: https://home.iitj.ac.in/~binod
+
+Hi, I  am working as an Assistant Professor in Electrical Engineering department at IIT  Jodhpur (IITJ). You can reach me at binod@iitj.ac.in
+Office  Location:  Room No.- PHY 209 (1st Floor), Physics Building (adjacent to Electrical Engineering building), IIT  Jodhpur
+Broad Research Interests: Hardware Design for AI, VLSI CAD & EDA, Reconfigurable Computing (FPGA-based system design), Formal and Semi-formal Design Verification, Hardware Security and Trust
+I have received Ph.D. (alongwith Masters) in Electrical Engineering from Indian Institute of Technology Bombay (IITB) . 
+   Before Joining IITJ, I spent ~2 years at Qualcomm India (SoC DfT) working in test, debug and post-silicon validation strategy development for some of the most advanced and complex chipsets of the industry. 
+   I have a Bachelor of Technology degree in Electronics & Communication Engineering (ECE) from National Institute of Technology Silchar (NITS) . For a brief period after my 
+ graduation, I worked at Reliance Jio in the IP Multi-Media Sub-system team in testing and validation roles.
+Course(s) Taught/Teaching:
+Autumn 2021: Formal Verification, Engineering Realization (Embedded Hardware Component)
+Spring 2022: Embedded Systems, Digital Systems Laboratory, VLSI Testing, High Level Synthesis (jointly with other colleagues)
+Autumn 2022: Formal Verification
+Autumn 2022 (Visiting Faculty @ NRTI Vadodara ): Introduction to Electrical & Electronics
+            Engineering, Electronic System Design: Analog Electronic Devices
+Spring 2023: Embedded Systems, Digital Systems Laboratory, Hardware-software Co-design
+Autumn 2023: Formal Verification [ Minor 1 QP , Minor 2 QP , Major QP ], Digital ASIC Design Lab
+Spring 2024: Embedded Systems[ Minor 1 QP , Minor 2 QP , Major QP ], Digital Systems Laboratory, Hardware-software Co-design[ Minor 1 QP , Minor 2 QP , Major QP ] 
+          Hardware Design for AI [ Minor 1 QP , Minor 2 QP , Major QP ]
+Autumn 2024: Formal Verification [ Minor , Major ], 
+         Digital ASIC Design Lab, Processor Design [ Minor , Major ], Network-On-Chip [ Minor , Major ]
+Spring 2025: Embedded Systems [ Minor , Major ], Digital Systems Laboratory, Hardware-software Co-design [ Minor , Major ], 
+          Hardware Design for AI [ Minor , Major ], 
+           ML in VLSI CAD [ Minor , Major ]
+Summer 2025: High-Level Synthesis [ Minor , Major ]
+Autumn 2025: Formal Verification [ Minor , Major ], 
+          AI for EDA [ Minor , Major ], 
+      Hardware Software Co-design [ Minor , Major ], 
+      Processor Design [ Minor , Major ], 
+      GPU Programming [ Minor , Major ]
+Other information: LinkedIn
+Feb 26: Sakshi qualifies for second round of Fujitsu $100,000 Quantum Simulator Challenge 2025-26
+Jan 26: Our work is set to appear in ISCAS-2026: A Graph-Based Methodology for Dynamic KV-Cache Compression in Transformer Inference
+Jan 26: Our work is accepted in IEEE Sensor: MultimodalMamba: An Efficient DHCNN–FAM–Mamba Architecture for Human Activity Recognition
+Dec 25: Delivered keynote talk in online manner at SPARC workshop, IIITDM Kancheepuram: Hardware Software Co-design for Edge AI
+Dec 25: Abhishek selected for prestigious JSPS Fellowhip
+Aug 25: Our work on DL model security appears in NeuroComputing: Variational inference-aided neural architecture search for secure deep learning implementation
+Aug 25: Research Staff Vyom Kumar Gupta (PhD from IIIT Allahabad) selected for prestigious JSPS Fellowhip , Graduated MTech Student Rahul Aryan joins Qualcomm India as Firmware Development Engineer.
+July 25: Our work appears in IEEE Transactions on Biomedical Circuits and Systems: FPGA-based Medical Image Processing Using Hardware-Software Co-design Approach
+July 25: Our work on DL-based human activity recognition (HAR) is accepted in IEEE Sensors Journal: Hierarchical Multiscale CNN with Frequency-Aware Attention for Enhanced HAR
+June 25: Our work appears in Embedded System Letters: Zero-Shot Fused Attention-Based GPT-2 Accelerator for Resource-Constrained Embedded Platform
+May 25: Our work is accepted at ISVLSI-2025 : Resource-Efficient LSTM Architecture for Keyword Spotting with CORDIC-Activation Approximation
+Apr 25: Ayush (MTech graduate) starts his job at Sandlogic to work on AI accelerator architectures.
+Jan 25: Our work is accepted in Embedded System Letters: Lightweight Surveillance Image Classification Through Hardware-Software Co-Design
+Dec 24: Paper accepted at IEEE TIM: On-Chip Implementation of Neural Network Based Classifier Models For E-nose With Chemometric Analysis [Collaborative work with IIITA]
+Nov 24: Elevated to Senior Member, IEEE
+Oct 24: Papers accepted at Asian Test Symposium-2024 : MEMFD: A Multi-EDT Multi-Fault Scan Chain Diagnosis Methodology with Deep Learning, LLM-aided Front-End Design Framework For Early Development of Verified RTLs
+Oct 24: Paper accepted at VLSID-2025 : Multi-Object Detection through Meta-Training in Resource-Constrained UAV-based Surveillance Applications
+Sept 24: Two papers accepted at IEEE-iSES'24 : Harnessing Knowledge-Distillation for Lightweight AI-Implementation on Resource-Constrained Device, A Reconfigurable Floating-Point Compliant Hardware Architecture for Neural Network Implementation
+Sept 24: Received Distinguished Teacher Award from IIT Jodhpur
+May 24: Two papers accepted at ISOCC'24 :  Resource-efficient DL Model Inference with Weight Clustering and Zero-skipping, Lightweight DL-based Drone Image Classification for Surveillance Applications
+Apr 24: Received Qualcomm Faculty Award
+Jan 24: Patent granted (design bug localization)
+Aug 23: Paper accepted at ATS-2023: A Case Study on Formally Verifying an Open-source Deep Learning Accelerator Design [Work done with Anshul Jain (Intel)]
+July 23: Delivered an expert talk in Karyashala workshop on AI/ML Algorithms and Applications in VLSI Design and 
+            Technology at DAIICT, Gandhinagar.
+MTech student Sourav placed in IBM hardware EDA R&D.
+[New] DRDO: Methodology Development of RISCV-based SoC Design Validation
+[New] SAC, ISRO: Custom Voice Command Identification
+[New] URSC, ISRO: High-level Synthesizable Digital Designs Modelled by using C/C++/python
+[Completed] DRDO: Development of Hardware Trojan Testing Methodology
+[Completed] SERB, DST: Specification-guided Design of Intelligent, Secure and Dependable Hardware Architectures for Edge Computing Applications
+IITJ: Fully Verifiable Hardware Architecture Design and Development for Efficient and Reconfigurable Edge AI
+[Completed] Krivya Semicon: Investigation of ATPG KPI on opensource designs
+Projects (Design Credits or Course) done by undergrduate students under my supervision are maintained at here
+Technical Program Committee (TPC) member in Asian Test Symposium (ATS) -2020, 2021, 2022, 2023, 2024
+TPC member in Design Automation Conference (DAC) -2022, 2023

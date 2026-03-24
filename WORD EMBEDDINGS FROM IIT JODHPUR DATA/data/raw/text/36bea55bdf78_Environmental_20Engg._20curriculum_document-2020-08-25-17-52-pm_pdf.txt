@@ -1,0 +1,1754 @@
+SOURCE_PDF: 36bea55bdf78_Environmental_20Engg._20curriculum_document-2020-08-25-17-52-pm.pdf
+
+M. Tech. and M. Tech. – Ph. D. Dual
+Degree
+in
+Infrastructure Engineering with
+Specialization in Environmental
+Engineering
+
+Introduction
+The program provides students an opportunity to acquire new technical competences in 
+various environmental models and processes that form the core of relevant engineering 
+practices, and future academic and professional environmental leaders. Our future 
+engineers will extend their knowledge from core technical competencies of Environmental 
+Engineering to in-depth understanding of social, economic and health consequences of 
+pollution problems, natural disasters, exceedances, climate change and other related threats.
+Objective of the program
+
+Expected Graduate Attributes
+A successful graduate of this program should be able to:
+Learning Outcomes
+
+Category Program
+Core Specialization
+Stream
+Electives
+(SSE) M.
+Tech.
+Elective
+(ME) M.
+Tech.
+Open
+(MO) M.
+Tech.
+Project
+(MP) Non-
+Graded
+Courses Total
+Graded
+Credits 3 17 17 3 16 4 60
+Cat. Course Title L-T-P Credits Cat. Course Title L-T-P Credits
+I Semester II Semester
+PC 3 SSE Specialization stream - 2
+3 SSE Specialization stream - 4
+4 ME Program Elective – 1 3
+NG OAL7XX0: Innovation 1-0- 1
+and IP Management 0
+Total (Graded + Non-graded) 15 Total (Graded + Non-graded) 16
+III Semester IV Semester
+3-0-0 3 NG HSN7XX0: Professional 1-0- 1
+Ethics 0
+ME Program Elective - 5 3-0-0 3
+ME Program Elective - 6 2-0-0 2
+NG OAN7XX0: Systems 1-0-0 1 1
+MO Open Elective-1 3-0-0 3
+SSE Specialization stream -
+SSE Specialization stream -
+SSE Specialization stream -3 3-0-2
+NG HSN7XX0: Technical 1-0-0
+Program Structure:
+Semester wise distribution of credits
+
+Total (Graded+ Non-graded) 17 Total (Graded + Non-graded) 12
+1. Air Pollution and Control
+2. Advanced Wastewater Treatment
+3. Solid Waste Management
+4. Remote Sensing and GIS for Environment Management
+5. Climate Change and Impact
+6. Environmental Engineering Laboratory
+7. Environmental Economics and Management
+8. Environmental Hydrology
+9. Environmental Biotechnology and Bioremediation
+10. 10. Machine Learning for Environmental Engineering.
+11. 11. Statistics for Environmental Engineering
+12. 12. Environmental Impact Assessment
+13. 13. Ecological Engineering
+14. 14. Fate of Chemicals in the Environment
+15. 15. Indoor Air Pollution
+16. 16. Environmental Microbiology
+17. 17. Biosafety and Public health
+18. 18. GIS and Public Health
+19. 19. Environmental and Health Risk Assessment
+List of Core Courses
+S.No.
+Course Title 
+L-T-P
+Credits
+1. 
+Introduction to Sustainable Infrastructure Engineering 
+3-0-0
+3
+List of Specialization Stream Courses
+S.No.
+Course Title 
+L-T-P
+Credits
+
+20. 20. Geomorphology
+21. 21. Contaminant transport to sub-surface environments
+
+S.No. Courses Topic clouds
+1 Air Pollution and Control Air Pollution and Control Sources and classification of air pollutants; Air
+2 Advanced Wastewater
+Treatment Introduction to wastewater like municipal
+3 Solid Waste Management Solid waste type, its Classification and
+4 Remote Sensing and GIS
+for Environment
+Management Basic principles of Surveying and GIS; Airborne
+or Satellite systems; Functional Imaging
+Technologies and Image Interpretation Basic principles of Surveying and GIS; Airborne
+5 Climate Change and
+Impact Climate and Climate Change; Convection
+6 Environmental
+Engineering Laboratory Organic Pollution load testing (COD, BOD, DO);
+Nitrogen, Phosphorus and Fluoride testing;
+Disinfection method; Microbiological tests;
+Advanced Analytical Instrumentation Organic Pollution load testing (COD, BOD, DO);
+7 Environmental Economics
+and Management Cost of Environmental Protection, Positive and
+8 Environmental Hydrology Water food industry nexus, transport from
+9 Environmental
+Biotechnology and
+Bioremediation Basics of Microbiology; Kinetics and Reactors;
+Topic Clouds Mapped with Specialization Stream Courses
+
+10 Machine Learning for
+Environmental
+Engineering Regression; Gradient Descent; Support Vector
+11 Statistics for
+Environmental
+Engineering Statistics and Probability; Data types; Error
+12 Environmental Impact
+Assessment Evolution of EIA, forecasting environmental
+13 Ecological Engineering Ecological Engineering; Ecosystem Valuation,
+14 Fate of Chemicals in the
+Environment Diffusion, Dispersion, Advection, Partitioning in
+15 Indoor Air Pollution Indoor environment, Standards and
+16 Environmental
+Microbiology Microbial Evolution and Biodiversity, Microbial
+17 Biosafety and Public
+health Principles of Biosafety, Regulatory bodies and
+
+18 GIS and Public Health GIS, Health application; Spatial data collection
+19 Environmental and Health
+Risk Assessment Legal balancing of risks, economic costs, and
+20 Geomorphology Earth’ components, Geological time scale;
+21 Contaminant transport to
+sub-surface environments Natural and anthropogenic climatic changes,
+
+S. No. Program Elective Course Title L-T-P Credits
+1. Stability of Slopes 3-0-0 3
+List of Program (M.Tech.) Elective Courses
+2. 
+Rock Mechanics and Rock Engineering 
+3-0-0 3
+3. 
+Reliability Engineering 
+3-0-0 3
+4. 
+Structural Dynamics 
+3-0-0 3
+5. 
+Wind and Earthquake Engineering 
+3-0-0 3
+6. 
+Offshore Geo-technology 
+3-0-0 3
+7. 
+Green Building and Sustainable Materials 
+3-0-0 3
+8. 
+Traffic Flow Theory 
+3-0-0 3
+9. 
+Traffic System and Management 
+3-0-0 3
+10. 
+Environmental Aspects of Power Plant 
+1-0-0 1
+11. 
+Soil Stabilization and Ground Improvement 
+3-0-0 3
+12. 
+Foundation Engineering 
+3-0-0 3
+13. 
+Advanced Mechanics of Solids 
+3-0-0 3
+14. 
+Theory of Vibration 
+3-0-0 3
+15. 
+Ocean Thermal Energy Conversion 
+1-0-0 1
+16. 
+Process Safety and Hazards 
+3-0-0 3
+17. 
+Advanced Energy Systems 
+3-0-0 3
+18. 
+Plugin Electric Vehicles 
+3-0-2 4
+19. 
+Smart Grid 
+3-0-2 4
+20. 
+Transmission Infrastructure 
+3-0-0 3
+21. 
+Substation Infrastructure 
+2-0-0 2
+22. 
+Gas Insulated Substations 
+2-0-0 2
+23. 
+Power System Protection 
+3-0-0 3
+24. 
+Cyber-Physical Security in Smart Grid 
+3-0-0 3
+25. 
+Energy Harvesting 
+3-0-0 3
+26. 
+Energy Economics and Policy 
+1-0-0 1
+27. 
+Wind turbine and field design 
+3-0-0 3
+28. 
+Off-shore Wind Energy Harvesting 
+3-0-0 3
+
+Materials for Electrochemical energy Conversion and 2-0-0
+29. 
+Off-shore Tidal Energy Harvesting 
+3-0-0 3
+30. 
+Power Plant Engineering 
+3-0-2 4
+31. 
+Energy Storage 
+3-0-0 3
+32. 
+Biomass Energy Conversion 
+3-0-2 4
+33. 
+Hydrogen and Methanol Economy 
+3-0-0 3
+34. 
+Hydropower 
+3-0-0 3
+35. 
+Fuel Cell Technology 
+3-0-0 3
+36. 
+Electrochemical Conversion and Storage 
+3-0-0 3
+37. 
+Selected Topics in Distributed Generations 
+3-0-0 3
+39. 
+Solar Energy and Application 
+3-0-0 3
+40. 
+Artificial Intelligence-I 
+3-0-0 3
+
+Title Introduction to Sustainable Number MEL7XX0
+Department Civil and Infrastructure Engineering L-T-P-Th 3-0-0 [3]
+Offered for M.Tech/M. Tech-PhD Type Compulsory
+Prerequisite Prerequisite B.Tech Degree
+Course Content of Program Core Course
+
+Title Air Pollution and Control Number
+Department Civil Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-Ph.D. [CIE-EE] Type Specialization
+Stream Elective
+Course Content of Specialization Stream Course
+Air Pollution and Control
+
+Dispersion of air pollutants and Air Quality modeling: Dispersion models, Gaussian 
+dispersion model: assumptions, dispersion parameters and effective stack height, plume rise 
+and plume behavior, Receptor models, Introduction to Dispersion and receptor modeling 
+software [Lectures 6].
+Effects of Air Pollution on Climate and Human health: Tropospheric Ozone chemistry, 
+Photochemical Smog, Acid Rain, Visibility, Indoor Air Pollution, Dose Response and Health 
+effects [Lectures 4].
+Text Books
+1. Atmospheric Chemistry and Physics- From Air Pollution to Climate Change, J. H. Seinfeld
+and S. N. Pandis, John Wiley and Sons, Inc., Third Edition, 2013.
+2. Aerosol Technology-Properties, Behavior and Measurement of Airborne Particles, W. C.
+Hinds, John Wiley and Sons, Inc., Second Edition, 1998.
+3. Introduction to Air Pollution Science, R. F. Phalen and R. N. Phalen, Jones & Bartlett
+4. Aerosol Measurement: Principles, Techniques and Applications, edited by K. Willeke, P.
+Baron, Van Nostrand Reinhold, 1993.
+Online course Material
+
+Title Advanced Wastewater Treatment Number
+Department (i) Chemical Engineering,
+(ii) Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-2 [4]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE-EE] Type (i)
+Programme
+Elective for
+Chemical
+Engineering,
+(ii)
+Specialization
+Stream
+Elective for
+Environmental
+Engineering
+Advanced Wastewater Treatment
+
+beds, thermal and biological processes for sludge and land fillings. Membrane Reactors, 
+ New Technologies for Waste Water Disinfection [Lectures 12].
+Waste Water Treatment Design Lab [28 hours] 
+Clarifier 
+Aerator 
+Sand filtration system 
+Municipal waste water system 
+Grey water treatment system 
+Sewage water treatment system 
+Industrial waste water systems 
+Pond water treatment
+Text Books
+1.
+Burton F.L., Tchobanoglous G., Stensel H.D., 2017, Waste Water Engineering
+Treatment and Reuse, 4thed.,Tata McGraw-Hill.
+2.
+Arceivala S.J. and Asolekar S.R., 2007, Wastewater Treatment for Pollution Control
+and Reuse, 3rd Ed., Tata McGraw Hill.
+Reference Books
+1.
+Henze M., van-Loosdrecht M.C.M., Ekama G.A. and Brdjanovic D., 2008, Biological
+Wastewater Treatment: Principles, Modelling and Design, IWA publishing.
+2.
+Sincero A.P. and Sincero G.A., 1996, Environmental Engineering – A Design
+Approach, Prentice-Hall.
+Online Course Material
+Tiwari M K, Wastewater treatment and recycling, NPTEL course material, Department of Civil 
+Engineering, IIT Kharagpur, https://nptel.ac.in/courses/105105178/
+
+Title Solid Waste Management Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-Ph.D. [CIE-EE] Type Specialization
+Stream Elective
+Solid Waste Management
+
+Text Books
+References Books
+Online Resources
+T 
+V 
+Ramachandra 
+Municipal 
+Soild 
+Waste 
+Management, 
+IISc 
+Bangalore
+Solid and Hazardous Waste Management,IITM, https://nptel.ac.in/courses/105106056/
+
+Title Remote Sensing and GIS for
+Environment Management Number
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-2 [4]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE-EE] Type Specialization
+Stream
+Elective
+Remote Sensing and GIS for Environment Management
+
+Note: Labs will have hands-on use of the latest Google Earth Engine (GEE), QGIS, ERDAS 
+IMAGINE, and ArcGIS software. It will also look into application of remote sensing imagery 
+in soil and water analysis, overlaying data retrieved from different subject areas of 
+engineering, lidar imagery and other GIS data.
+List of Experiments on Surveying Based Laboratory:
+1.
+To assess the distance between two inaccessible points in a specific area using a
+compass as well as plotting the area using closed traverse (prismatic compass).
+2.
+To solve two-point, and three-point problems using plane table survey.
+3.
+To understand differential levelling, vertical/cross sectional plotting and contouring
+using automatic levellers.
+4.
+To survey a nearby plot bounded by any polygon using a theodolite and also to perform
+trigonometric levelling to find the characteristics of a nearby building.
+5.
+To plot a known area using GPS measurements and assess the accuracy of the
+measurement
+List of Experiments in GIS Laboratory:
+4.
+To create a stream network or perform stream order generation or delineate watersheds
+created by a water body using DEM files.
+5.
+To perform site suitability analysis for a service building (example hospital) near to a
+agricultural and inhabited land near an arid village at the edge of an oasis near Jodhpur.
+6.
+Basic experiments on image sharpening and image resolution using ARC GIS/ ERDAS
+IMAGINE processing tool.
+Text Books
+1.
+John R. Jenkins, Remote Sensing of the Environment: An Earth Prespective
+2.
+Lillesand, T.M., Kiefer, R.W. & Chipman, J.W. 2008. Remote Sensing and Image
+Interpretation, 6th Edition, John Wiley and Sons.
+Reference Books
+3.
+Barrett, E.C. & Curtis, L.F. 2007. Introduction to Environmental Remote Sensing,
+Routledge Publisher.
+
+Title Climate Change and Impact Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Climate Change and Impact
+
+Climate sensitivity and feedback mechanisms: Equilibrium Climate sensitivity, 
+Transient 
+Climate 
+Response, 
+Feedback: 
+Concept, 
+Fast 
+and 
+slow 
+feedback
+mechanisms/Processes, Climate sensitivity estimates [Lectures 5].
+Climate Variability: 
+Buffering atmospheric temperature changes, Atmosphere-ocean
+coupling: El Nino and Southern Oscillations [Lectures 3].
+Climate modeling: One layer energy balance model, 1D EBM, Global Circulation Model, 
+difference between Weather forecast models and GCMs [Lectures 8].
+Climate Change Impacts and future projections: Sea level rise, Ecosystem and 
+biodiversity, Shifting water resources, Agricultural impacts, severe weather impacts and 
+Human health; Impact assessment of GHGs on global temperature, rainfall and drought 
+patterns, atmospheric circulation. [Lectures 5].
+Text Books
+1.
+Atmospheric Chemistry and Physics- From Air Pollution to Climate Change, J. H. Seinfeld
+and S. N. Pandis, John Wiley and Sons, Inc., Third Edition, 2013.
+2.
+Fundamentals of Atmospheric modeling, Marck Jacobson, Cambridge University Press,
+Second Edition, 2005.
+3.
+Air Pollution and Global Warming: History, Science and Solutions, Mark Jacobson,
+Cambridge University Press, Second Edition, 2012.
+4.
+Atmosphere, Ocean, and Climate Dynamics, John Marshall ad R. Alan Plumb, Elsevier
+Academic Press, 2008.
+Online course Material
+
+Title Environmental Economics
+and Management Number
+Department (i) Civil and Infrastructure
+Engineering
+(ii) School of Management and
+Entrepreneurship L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Environmental Economics and Management
+
+Life Cycle Assessment of Products, Processes and Services; Special topics and case studies 
+on 
+environmental 
+economics; 
+Environmental 
+Justice 
+and 
+Environmental 
+Ethics;
+Environmental Movement; Environmental Activism [Lectures 6].
+Text Books
+1.
+Environmental Economics, Charles. D. Kolstad, Oxford University Press, Second Edition,
+2011.
+2.
+Environmental Economics in Theory and Practice, N. Hanley, J. F. Shorgen, B. White,
+Macmillan.
+
+Title Environmental Hydrology Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-2 [4]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Environmental Hydrology
+
+Leachate impact, sub-surface water, aquifers, wells, recharge, ground water mapping 
+[Lectures 5].
+Experimental Outline- Modeling
+1.
+Use the local historical precipitation data of Jodhpur and find the probability
+distribution function, which can effectively predict it.
+2.
+Use the local precipitation data as an input to derive synthetic mass curves. Further,
+utilize the data to calculate runoff and land use. Use HydroCAD v.9.0.
+Text Books
+2.
+Engineering Hydrology K Subramanya, Fourth Edition, McGraw Hill Education (India),
+Pvt, Ltd., New Delhi ISBN 1-25-902997-2, 978-1-25902997-4, 2013.
+
+Title Environmental Biotechnology
+and Bioremediation Number
+Department (i) Civil and Infrastructure
+Engineering
+(ii) Bioscience and
+Bioengineering 3-0-2 [4]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type (i) Specialization
+Stream Elective for
+Civil Engineering,
+(ii) Program
+Elective for
+Bioscience and
+Bioengineering
+Environmental Biotechnology and Bioremediation
+
+Detoxification of hazardous chemicals: Molecular recalcitrance, Biodegradation of
+problem environmental contaminants [Lectures 4].
+Text Books
+1.
+Environmental Biotechnology: Principles and Applications, Rittmann, B.E., McCarty,
+P.L., Tata McGraw Hill, 2001.
+Reference Books
+1.
+Bioprocess Engineering: Basic Concepts, Shuler, M., Kargi, F., Second Edition Prentice
+Hall, 2002.
+2.
+General Microbiology, Stanier, R. Y., W.H. Freeman and Co, 2009.
+Online course material
+
+Title Machine Learning for
+Environmental Engineering Number
+Department Civil and Infrastructure
+Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Prerequisite Statistics for Environmental
+Engineering
+Anti-requisite Machine Learning-I
+Machine Learning for Environmental Engineering
+
+Dimensionality 
+reduction: 
+Principal 
+Component 
+Analysis, 
+Random 
+projections,
+Compressed sensing [Lectures 2].
+Generative Models: Maximum likelihood estimator, Naive Bayes, Linear Discriminant 
+Analysis, Latent variables and Expectation-maximization algorithm, Bayesian learning 
+[Lectures 5].
+Feature Selection and Generation: Feature selection, Feature transformations, Feature 
+learning [Lectures 4].
+(Fractal 3) Application to Environmental Data 1-0-1 [1]: Assessment of Surface water 
+quality parameters; Assessment of Landfill leachate treatment; Air Quality Assessment and 
+source recognition; Spatial differences in river estuaries and possible sources, Miscellaneous 
+case studies [Lectures 14].
+Text Books
+1. Applied Multivariate Statistical Analysis, Johnson, R. A. and Wichern, D. W., Pearson
+Prentice Hall, Sixth Edition, 2007.
+2. Multivariate Statistical Methods: A Primer, Manly, B. F. J., Chapman and Hall/CRC, Third
+Edition, 2005.
+3.
+Applied Multivariate Statistical Analysis, Wolfgang, K. H. and Leopold, S., Springer,
+Fourth Edition, 2015.
+4. Understanding Machine Learning: From Theory to Algorithms, Shalev-Shwartz,S., Ben-
+David,S., Cambridge University Press, 2014.
+5. Applied Statistics for Environmental Science with R, Alkarkhi, A. F. M. and Alqaraghuli,
+W. A. A., Elsevier, ISBN 978-0-12-818622-0.
+Reference Books
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Online course material
+Self Learning Material
+Department of Computer Science, Stanford University,
+
+Title Statistics for Environmental
+Engineering Number
+Department Civil and Infrastructure
+Engineering 3-0-2 [4]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Statistics for Environmental Engineering
+
+Regression Analysis: Simple linear regression, Assumptions, Least square estimation, 
+Significance testing, Residual analysis, Multiple regression, Regression comparison, 
+Selection of variables, Categorical variables [Lectures 6].
+ADVANCED DATA TYPES AND HANDLING
+Spatial analysis for Environmental Processes: Spatial point process models, Spatial 
+sampling and design [Lectures 3].
+Time series analysis (3): time and frequency domain, auto-correlation, tests for 
+randomness, cross-correlation [Lectures 3].
+SPECIAL TOPICS 
+ANOVA: Experimental design and variance analysis (completely randomized and 
+randomized block design, F-test, Fischer’s LSD, Cochrans Q test) [Lectures 3].
+Analysis of ranked data: Introduction, Log rank test, spearman rank correlation, 
+Wilcoxin Signed rank test [Lectures 2].
+Monte Carlo methods, Toxicology concerns, Quantal response [Lectures 2].
+Computational Lab (Matlab/R or any statistically computing environment) 
+Introduction to R/Matlab 
+Probability distributions and sampling 
+Monte Carlo Method 
+Maximum likelihood basics 
+Regression 
+Interval estimation 
+Dose-Response relationship 
+Spatial and time series exploratory data analysis 
+ANOVA
+Text Books
+1. Environmental Statistcis- Methods and Applications, V. Barnett, John Wiley and Sons,
+Inc., 2004.
+2.
+Statistics for Environmental science and Management, B. F. J. Manly, Chapman and
+Hall/CRC Press, Second Edition, 2008.
+3.
+Probability, Statistics and Reliability for Engineers and Scientists, Ayyub, B. M. and
+McCuen, R.H., Boca Raton: CRC Press, 2011.
+References
+1. Ang, A. H-S. and W. H. Tang, Probability Concepts in Engineering: Emphasis on
+Applications to Civil and Environmental Engineering, John Wiley & Sons, Inc., USA, Second
+Edition, 2006.
+2. Benjamin, J.R. and Cornell, C.A., Probability, Statistics and Decision for Civil Engineers,
+McGraw-Hill, New York, 2014.
+
+Title Geomorphology Number
+Department Civil and Infrastructure
+Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Geomorphology
+
+Coastal Geomorphology: Ocean waves, currents and tides; Oceanic sediments; Shore 
+processes; Coastal erosion and sediment transport; Depositional features formed by waves. 
+[Lectures: 5]
+Tectonic Geomorphology: Continental drift and evidences; Plate tectonics; Continental 
+crust and plate tectonics; Causes of plate tectonics; geomorphics markers; Paleoseismology; 
+Deformation and landscape responses. [Lectures: 4]
+Earthquakes: Location of an earthquake; Measurement and classification; The cause of 
+origin; Spatial and temporal distribution of earthquakes; Earthquake hazard. [Lectures: 4]
+Volcanoes: Magma and lava flows; Global distribution of volcanoes; Classification of 
+volcanoes; Modes of eruption; Volcanic Explosivity Index; Volcanic landforms; Submarine 
+volcanoes. [Lectures: 4]
+Applied Geomorphology: Geomorphological hazard; Hazard assessment for risk analysis 
+and risk management; Geomorphic hazards and sustainable development; Geomorphology 
+and disaster prevention. [Lectures: 4]
+Text Books
+Additional Reading
+1.
+Douglas W. Burbank, Robert S. Anderson (2011) Tectonic Geomorphology (2nd Ed).
+Wiley-Blackwell; ISBN: 978-1-444-33886-7
+2.
+Ro Charlton (2007) Fundamentals of Fluvial Geomorphology (1st Ed). Taylor & Francis
+Group. ISBN: 9780203371084
+3.
+Eric C. F. Bird (2008) Coastal Geomorphology: An Introduction (2nd Ed). Wiley. ISBN:
+978-0-470-51729-1
+4.
+Anthony J. Parsons, A. D. Abrahams (2009) Geomorphology of Desert Environments.
+Springer. ISBN 978-1-4020-5719-9
+5.
+I Alcántara-Ayala, A. Goudie (Eds.). (2010). Geomorphological Hazards and Disaster
+Prevention. Cambridge: Cambridge University Press. doi:10.1017/CBO9780511807527
+
+Title Environmental Impact
+Assessment Number
+Department (i) Chemical Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type (i) Programme
+Elective for
+Chemical
+Engineering, (ii)
+Specialization
+Stream Elective for
+Environmental
+Engineering
+Environmental Impact Assessment
+
+2.
+Rau, G.J. and Wooten, C.D., Environmental Impact Analysis Handbook, McGraw Hill,
+New York, 1980. Preventive environmental management.
+Online course Material
+
+Title Ecological Engineering Number
+Department Civil and Infrastructure
+Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Ecological Engineering
+
+References
+1.
+Glenn W. Suter II, Ecological Risk Assessment, 2016, 2nd Edition, CRC Press, ISBN-13:
+978-1566706346, ISBN-10: 1566706343
+2.
+E.P. Odum (1969) The Strategy of Ecosystem Development. Science.
+3.
+Reid et al., (2005). Ecosystems and human well-being: Synthesis. A report of the
+millennium ecosystem assessment. Pages 1- 24.
+
+Title Fate of Chemicals in the
+Environment Number
+Department Infrastructure Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Prerequisite Chemistry, Flow Mechanics,
+Soils
+Fate of Chemicals in the Environment
+
+Atmospheric Transport: Area and Point source of pollutants in air, box model for area 
+source plume model for point sources, dry and wet deposition at surfaces or soil, uptake by 
+plant roots, transpiration, metabolism and photo-degradation [Lectures 5].
+Text Books
+Open Source Models
+ICECRM 1.1 (indoor chemical exposure classification/ranking model)
+The CoZMoMAN Model- The Multimedia fate and transport models
+The Global Distribution Model (Globo-POP Version 1.1)- Global fate of organic chemicals
+NPTEL
+Dr Bhanu Prakash Vellanki,Environmental Remediation of Contaminated sites, 
+https://nptel.ac.in/courses/105/107/105107181/, IIT Roorkee
+Dr Manoj Datta, Geoenvironmental Engineering, (Environmental Geotechnology); Landfills, 
+Slury Ponds & Contaminated Sites, IIT Delhi 
+https://nptel.ac.in/courses/105/102/105102160/#
+
+Title Contaminants Transport to
+Sub-surface Environments Number
+Department Infrastructure Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Prerequisite Chemistry, Flow Mechanics,
+Soils
+Contaminants Transport to Sub-surface Environments
+
+Text Books
+Jerald L. Schnoor, Environmental Modeling: Fate and Transport of Pollutants in Water, Air, 
+and Soil, October 1996 704, ISBN: 978-0-471-12436-8
+Harold F. Hemond, Elizabeth J. Fechne, Chemical Fate and Transport in the Environment 
+Academic Press; 3 edition (13 June 2014),
+Online Course Material
+Dr Bhanu Prakash Vellanki,Environmental Remediation of Contaminated sites, 
+https://nptel.ac.in/courses/105/107/105107181/, IIT Roorkee
+Dr Manoj Datta, Geoenvironmental Engineering, (Environmental Geotechnology); Landfills, 
+Slury Ponds & Contaminated Sites, IIT Delhi https://nptel.ac
+
+Title Indoor Air Pollution Number
+Department Civil and Infrastructure
+Engineering 2-0-0 [2]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Indoor Air Pollution
+
+3. 
+Atmospheric Chemistry and Physics- From Air Pollution to Climate Change, J. H. Seinfeld
+and S. N. Pandis, John Wiley and Sons, Inc., Third Edition, 2013.
+4. 
+Aerosol Technology-Properties, Behavior and Measurement of Airborne Particles, W. C.
+Hinds, John Wiley and Sons, Inc., Second Edition, 1998.
+5. 
+Organic Indoor Air Pollutants: occurrence, measurement, evaluation, Salthammer, T.
+and Uhde, E., O., Wiley-VCH, 2009.
+
+Title Envrionmental Microbiology Number
+Department (i) Civil and Infrastructure
+Engineering
+(ii) Bioscience and
+Bioengineering 2-0-0 [2]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type (i) Specialization
+Stream Elective for
+Civil Engineering,
+(ii) Program
+Elective for
+Bioscience and
+Bioengineering
+Environmental Microbiology
+
+Reference Books
+1.
+Biology of Microorganisms, Brock, et al., Benjamin Cummings, Boston, MA, 13th
+2.
+Principles of Biochemistry, Lehninger, A., Nelson, D.L., Cox, M., W.H. Freeman and
+Co., 2009.
+Online course Material
+David Schauer, and Edward DeLong. 20.106J Systems Microbiology. Fall 2006. 
+Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu.
+
+Title Biosafety and Public health Number
+Department Civil and Infrastructure
+Engineering 2-0-0 [2]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Biosafety and Public health
+
+Text Books
+1.
+Biological Safety: Principles and Practices, Wooley, D. P. and Byers, K. B., Washington
+D.C.:ASM Press, Fifth Edition, 2017.
+Reference Books
+
+Title GIS and Public health Number
+Department Civil and Infrastructure
+Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+GIS and Public Health
+
+outbreaks; forecasting spatial diffusion of communicable diseases; planning public health 
+interventions; privacy and confidentiality [Lectures 5].
+Exploring the Ecology of Vector-Borne Diseases: Global burden of zoomatic diseases 
+and the challenge of emerging infectious diseases; surveillance and mapping of vector-borne 
+diseases; modelling of vector-borne diseases; environmental impacts of controlling vector-
+borne diseases; systematic perspective on disease [Lectures 4].
+Analyzing Access to Health Services: mapping service locations; mapping health care 
+needs and services; assessing potential access to health services; analysing service 
+utilization [Lectures 4].
+Locating Health Services: health care shortage areas; components and dimensions of 
+health service delivery systems; client population distribution; meaning of “centrality” in 
+health service facility location; normative models of facility location and service delivery; 
+incorporating normative models of facility location and service delivery into GIS; spatial 
+decision support systems [Lectures 4].
+Health 
+disparities: 
+context 
+and 
+composition; 
+visualizing 
+and 
+measuring 
+area
+characteristics; defining neighbourhood contexts; modelling neighbourhood effects on 
+health; location processes and link between location and well-being [Lectures 4].
+Text Books
+1.
+GIS and Public Health, Ellen K. Cromley, Sara L. McLafferty, Guilford Publications, Second
+Edition, 2017, ISBN 978-1-60918-750-7.
+2.
+GIS in Public Health Practice, Ravi Maheswaram, Massimo Craglia, CRC Press, 2004,
+ISBN 0-415-30655-8.
+
+Title Environmental and Health Risk
+Assessment Number
+Department Civil and Infrastructure
+Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Specialization
+Stream Elective
+Environmental and Health Risk Assessment
+
+decision making; Analysis of variance; Kruskal-Wallis test; K independent samples [Lectures 
+4].
+Contingency tables in risk assessment and management: Chi-squared test; Measuring 
+agreement or conformity; sensitivity and specificity [Lectures 4].
+Statistical associations and causation: Qualitative aspects of causal associations; 
+Pearson’s coefficient of correlation; Additional measures of association; Consistency of 
+scientific studies; Causal diagram in modelling causation [Lectures 4].
+Risk assessment framework: Risk-based corrective action framework; US EPA Risk 
+assessment framework; Selected probability distributions; Poisson process in risk 
+assessment; Probabilistic risk assessment; Risk calculations in accident analysis; Simple 
+dynamic model of infection; Toxicological modelling for risk assessment [Lectures 4].
+Decisions for risk management: Representing risky choices; Practice of making risky 
+decisions; Foundations of utility theory; Decision trees; Game theory [Lectures 4].
+Text Books
+1.
+Paolo F. Ricci (2010) Environmental and health Risk Assessment and Management:
+Principles and practices. Springer. ISBN-10 1-4020-3776-7 (e-book)
+
+Title Environmental Engineering
+Laboratory Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 1-0-4 [3]
+Offered for M. Tech, M. Tech.-Ph.D. [CIE] Type Specialization
+Stream
+Elective
+Sr. No. Experiment Laboratory
+1 Introduction to the requirements of National Accreditation
+Board for Testing and Calibration Laboratories (NABL)
+accreditation of environmental laboratories
+2 Introduction to laboratory and preliminary examination of
+water (color, odor and taste)
+3 Determination of pH, alkalinity, turbidity and optimum
+coagulant dose, and conductivity
+4 Determination of solids (total, dissolved, organic, inorganic
+and settleable) and hardness
+5 Determination of chloride, sulphates and sulfide in water
+6 Determination of iron and manganese in water
+7 Determination of DO and BOD in wastewater
+8 Determination of nitrogen, phosphorus and fluoride in water
+9 Determination of free and combined residual chlorine in water
+10 Determination of coliforms in water
+11 Demonstration of Analytical Instruments: water –related
+12 Demonstration of Air (Particle and Gas-phase) and Noise
+Pollution Monitoring Devices
+13 Demonstration of Air Sampling Devices and Weather
+Monitoring Station
+Environmental Engineering Laboratory
+Contents
+Text Books:
+
+Title Stability of Slopes Number
+Department Civil and Infrastructure
+Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Detailed course content of Program Electives
+Stability of Slopes
+
+Toppling failure: Types of toppling failure; Kinematic analysis of block toppling failure; 
+Limit equilibrium analysis of toppling [Lecture: 5]
+Stabilization of slopes: Stablization programs: Rock slope Inventory, Hazard rating 
+analysis; Stabilization by rock reinforcements; Stabilization by rock removal; Measures 
+against rock fall [Lecture: 5]
+Movement monitoring: Types of slope movement: Initial response, Regressive and 
+progressive movements, Long-term creep; Surface monitoring methods; Data interpretation 
+[Lecture: 4]
+Text Books 
+1. Duncan C Wyllie, Christopher W. Mah (2005) Rock Slope Engineering, 4th Ed, Spon Press
+(Taylor & Francis Group), ISBN 0–415–28001–X (pbk).
+2. Robin Chowdhury, Phil Flentje, Gautam Bhattacharya (2010) Geotechnical Slope Analysis.
+CRC Press (Taylor & Francis Group), ISBN: 978-0-415-46974-6 (Hbk).
+
+Title Rock Mechanics and Rock
+Engineering Number
+Department Civil and Infrastructure
+Engineering 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Rock Mechanics and Rock Engineering
+
+interaction analysis, Classification, Primary reinforcement, Secondary support system; Rock 
+blasting process, control, and optimization [Lectures 5].
+Rock mechanics for hydrocarbon reservoir: Tectonic stress field; Pore pressure 
+measurement; Mechanical properties and stress data from laboratory analysis and field data; 
+Concepts of critically stressed crust; Basics of hydraulic fracturing; Wellbore stability 
+[Lectures 6].
+Text Books
+1.
+Richard E. Goodman (1989) Introduction to Rock Mechanics (2nd Ed). Wiley. ISBN-
+10: 0471812005.
+2.
+Mark D. Zoback. (2007) Reservoir Geomechncs. Cambridge University Press. ISBN-
+978-0-521-77069-9.
+3.
+Debasis Deb, Abhiram Kumar Verma (2016) Fundamentals and Applications of Rock
+Mechanics. PHI Learning Pvt. Ltd. ISBN-978-81-203-5182-0.
+Onlin Online course Material
+1.
+V. B. Maji. Rock Mechanics – Web course. https://nptel.ac.in/courses/105106055/
+
+Title Reliability Engineering Number CIE7XX0
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD,
+Ph.D Type M.Tech Elective
+Prerequisite Nil
+Reliability Engineering
+
+Response surface based methods: Conventional response surface method; advanced 
+response surface methods with examples [Lectures 4].
+Reliability based design: Stochastic models of loads; determination of partial safety 
+factors; code calibration; safety checking format [Lectures 4].
+Reliability of structural systems: System reliability – series and parallel; bounds on 
+system reliability; modelling of structural systems [Lectures 3].
+Advanced reliability methods: Importance sampling method; subset simulation method; 
+stochastic response surface method [Lectures 3].
+Brief on advanced topics: Fatigue reliability estimation; S-N curve approach; time-
+dependent reliability [Lectures 3].
+Design optimization: Introduction to the concept of design optimization; examples on 
+solving reliability based design optimization problems [Lectures 3].
+Application of reliability analysis and design: applications to steel, concrete, offshore 
+structures etc. to determine probability of failure and safe design [Lectures 3].
+Text Books:
+1.
+P. Thoft-Christensen and M.J. Baker (1982) Structural Reliability: Theory and its
+Applications, Springer-Verlag Berlin, Heidelberg. ISBN 978-3-642-68699-3.
+2.
+A.H.S. Ang and W. H. Tang (1984) Probability Concepts in Engineering Planning and
+Design Vol. II Decision, Risk and Reliability, John Wiley and Sons, New York. ISBN
+978-0-471-03201-4
+3.
+P. Thoft-Christensen and Y. Murotsu (1986) Applications of Structural Systems
+Reliability Theory, Springer Verlag Berlin, Heidelberg. ISBN 978-3-642-82766-2.
+4.
+O. Ditlevsen and H.O. Madsen (1996) Structural Reliability Methods, John Wiley &
+Sons Ltd, Chichester. ISBN 978-0-471-96086-7.
+5.
+S.-K. Choi, R.V. Grandhi and R.A. Canfield (2007) Reliability-based Structural
+Design, Springer-Verlag, London. ISBN 978-1-84628-444-1.
+6.
+R. Ranganathan (2011) Structural Reliability Analysis and Design (3rd Ed), Jaico
+Publishing House, Mumbai. ISBN 81-7224-851-2.
+7.
+R.E. Melchers and A.T. Beck (2018) Structural Reliability Analysis and Prediction
+(3rd Ed), John Wiley and Sons Ltd, Hoboken, NJ. ISBN 978-1-119-26599-3.
+Additional References:
+1.
+Reliability Engineering (2009) by Prof. G.L. Sivakumar Babu on NPTEL.
+https://nptel.ac.in/courses/105/108/105108128/
+2.
+Structural Reliability (2014) by Dr. Arunasis Chakraborty on NPTEL.
+https://nptel.ac.in/courses/105/103/105103140/
+3.
+Risk and Reliability of Offshore Structures (2016) by Prof. Srinivasan
+Chandrasekaran on NPTEL. https://nptel.ac.in/courses/114/106/114106041/
+
+Title Structural Dynamics Number CIE7XX0
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD,
+Ph.D Type M.Tech Elective
+Prerequisite Nil
+Structural Dynamics
+
+
+Response to harmonic and periodic motions: Response of SDOF systems to harmonic
+loads and periodic excitations; Fourier series representation [Lectures 4].
+
+Earthquake response of MDOF systems: Time history analysis; response spectrum
+analysis [Lectures 2].
+
+Applications: Introduction to finite element method; formation of element stiffness,
+mass and force matrices; examples for seismic analysis and response [Lectures 2].
+Text Books:
+1.
+J.M. Biggs (1964) Introduction to Structural Dynamics, McGraw Hill, NY. ISBN 07-
+005255-7.
+2.
+R.W. Clough and J. Penzien (1993) Dynamics of Structures (2nd Ed), McGraw Hill
+Inc Editor. ISBN 0-07-011392-0.
+3.
+A.K. Chopra (2017) Dynamics of Structures Theory and Application to Earthquake
+Engineering (5th Ed), Prentice Hall, NJ. ISBN 978-0-134-55512-6.
+4.
+A.K. Jain (2017) Dynamics of Structures with MATLAB® Applications, Pearson
+Education, Chennai, India. ISBN 978-9-332-55855-7
+5.
+M. Paz and Y.H. Kim (2019) Structural Dynamics Theory and Computation (6th Ed),
+Springer Nature, Switzerland. ISBN 978-3-319-94742-6.
+Additional References:
+1.
+Structural Dynamics (2012) by Dr. Pradipta Banerji on NPTEL.
+https://nptel.ac.in/courses/105/101/105101006/
+2.
+Structural Dynamics (2016) by Prof. Ramancharala Pradeep Kumar on NPTEL.
+https://nptel.ac.in/courses/105/106/105106151/
+3.
+Structural Dynamics for Civil Engineers - SDOF Systems (2019) by Prof. Riya
+Catherine George on NPTEL. https://nptel.ac.in/courses/105/104/105104189/
+
+Title Wind and Earthquake Engineering Number
+Department Civil Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech
+Elective
+Wind and Earthquake Engineering
+
+Title Offshore Geo-technology Number CIVIL7XX0
+Department Civil Engineering L-T-P-D [C] 3–0–0 [3]
+Offered for Offered for M.Tech, M.Tech -Ph.D. [CIE] M.Tech, M.Tech -Ph.D. [CIE] Type Type M.Tech
+Objectives
+1. To familiarize students with the dynamics of offshore environment.
+2. To introduce methods of soil and site investigation.
+3. To introduce designs, types, and analyses of piled foundation, shallow foundation, and
+anchoring systems.
+4. To introduce specific consideration of soil structure interaction of on-bottom and pipelines
+and risers.
+5. To provide overview of geo-hazards.
+Learning outcomes:
+1. Detailed knowledge of geophysical, geotechnical investigation, laboratory test and use
+of centrifuge modelling.
+2. Understanding of soil response under static and dynamic loads.
+3. Knowledge of the analysis and design of shallow foundation, piled foundation, anchoring
+system and on-bottom pipelines and risers.
+4. Understanding of marine slope failure and slides.
+Contents:
+Offshore environment: Marine geology, Plate tectonics, Continental self, Marine-
+sediments, Geotechnical characteristics, Ocean wind and waves, currents, wave theories,
+hydrodynamic forces (Lectures 7).
+Offshore site and soil investigation: Geophysical and Geotechnical investigations; Soil
+classifications and tests- undrained tri-axial compression test, undrained strength; cyclic
+loading test, failure under cyclic loading, Centrifuge modelling [Lectures 7].
+Offshore foundations: Shallow and deep foundations and their applications, Design of
+offshore foundations as per API and DNV codes, Pile drivability and dynamic monitoring,
+Capacity of driven piles, Installation piled and shallow foundations in fine grained and
+permeable sediments, Stability of shallow foundations, Dynamic analysis of vertical and
+inclined pile foundations, Impedance function of piles and frequency domain analysis
+[lectures 10].
+Anchoring systems: Buoyant platforms and mooring systems, Mooring line analysis and
+forces on anchors, Types of anchors and their design; API and DNV code provisions for
+anchor design, Dynamic effects on anchor and uplift of anchors, Dynamically penetrating
+anchors [Lectures 7].
+Pipeline and riser geotechnics: Geotechnical inputs to pipeline design; Design issues and
+code provisions; Soil structure interaction for on-bottom pipelines and risers, Secondary
+stabilization [Lecture 6]
+Offshore geo-hazard: Types of marine geo-hazard and their identification, Submarine
+slope failures and slides, probabilistic hazard analysis [Lectures 5].
+Text Books:
+1. Mark Randolph, Susan Gourvenec (2011). Offshore Geotechnical Engineering. Spon
+Press (Taylor & Francis), ISBN13: 978-0-415-47744-4(hbk).
+2. Paolo Boccotti (2000). Wave Mechanics for Ocean Engineering (1st Ed), Elsevier
+Science. ISBN: 9780080543727 (eBook) Objectives
+Offshore Geo-technology
+
+Title Green building and
+Sustainable Materials Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Green Building and Sustainable Materials
+
+reduction; active mechanical system; water-heating system; electrical power systems; 
+innovative energy optimization strategies; renewable energy systems; fuel cells; smart 
+buildings and energy management systems; ozone-depleting chemicals in HVAC&R systems; 
+reducing carbon footprint of the built environment. (Lectures: 4) 
+Built environment hydrological cycle: global water resource depletion; hydrological cycle 
+terminology; high-performance building hydrological cycle strategy; designing the high-
+performance building hydrological cycle; water budget rules of thumb; sustainable 
+stormwater management; landscaping water efficiency. (Lectures: 4)
+Closing materials loops: distinguishing between green building products and green 
+building materials; LCA of building materials and products; environmental product 
+declaration; materials and product certification systems; emerging construction materials 
+and products; design for deconstruction. (Lectures: 4)
+Indoor environmental quality: IEQ issues; design; main components of integrated IEQ 
+design; emission from building materials; economic benefits of good indoor environmental 
+quality. (Lectures: 3)
+Construction operations and commissioning: site protection planning; indoor air quality 
+during construction; construction materials management; construction and demolition waste 
+management. (Lectures: 3)
+Green building economics: the business case for high-performance green building; the 
+economics of green building; quantifying green building benefits. (Lectures: 3)
+Text Books
+1.
+Charles J. Kibert (2013). Sustainable Construction. John Wiley & Sons. ISBN 978-1-
+118-33013-5
+2.
+J. Newman and Ban Sang Choo (2003) Advanced Concrete Technology-Constituent
+Materials (1st Ed), Elsevier. ISBN 9780080489988.
+3.
+S. Kubba (2010) LEED Practices, Certification, and Accreditation Hand book (1st Ed)
+Elsevier. ISBN 9780080958590.
+Additional materials:
+1.
+Ministry of Power, Energy Conservation Building Code 2018, Revised Version, Bureau
+of Energy Efficiency, 2018,
+2.
+Indian Building Congress, Practical Handbook on Energy Conservation in Buildings, 1
+st ed. Nabhi Publication, 2008.
+3.
+TERI-Griha’s Green Design practices (www.teriin.org/bcsd/griha/griha.htm)
+4.
+Sartori, I., and Hestnes, A. G. “Energy use in the life cycle of conventional and low-
+energy buildings: A review article”, Energy and Buildings., 20, 249-257.2007
+5.
+Green
+Building 
+Basics, 
+California 
+Integrated 
+Waste 
+Management 
+Board
+Online course Material
+“NOC:Energy Efficiency, Acoustics and daylighting in Building” by Prof. B. Bhattacharjee on 
+NTPEL. https://nptel.ac.in/courses/105/102/105102175/
+
+Title Traffic Flow Theory Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Traffic Flow Theory
+
+1.
+Kadiyali. L. R. (2016).Traffic Engineering and Transport Planning. Khanna
+Publishers
+2.
+Chakroborty, P., Animesh Das (2017). Principles of Transportation Engineering.
+Second Edition, PHI Learning Private Limited
+3.
+Saxena S. C. (2014). Textbook of Highway and Traffic engineering. CBS
+4.
+Samuel Morgan (2016) Traffic Engineering and Transport Planning. Williford Pr.
+5.
+Jaume Barceló. (2010) Fundamentals of Traffic Simulation. Springer.
+6.
+Roess, R.P., Prassas E. S., McShane W. R. (2010) Traffic Engineering. Pearson
+
+Title Traffic System and
+Management Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Traffic System and Management
+
+1.
+Kadiyali. L. R. (2016).Traffic Engineering and Transport Planning. Khanna
+Publishers
+2.
+Chakroborty, P., Animesh Das (2017). Principles of Transportation Engineering.
+Second Edition, PHI Learning Private Limited
+3.
+Roess, R.P., Prassas E. S., McShane W. R. (2010) Traffic Engineering. Pearson
+
+Title Environmental Aspects of
+Power Plant Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 1-0-0 [1]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Environmental Aspects of Power Plant
+
+Title Soil Stabilization and
+Ground Improvement Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Soil Stabilization and Ground Improvement
+
+Case histories of ground improvement: traditional ground improvements adopted in 
+weak soils in India and abroad; codal suggestions [Lectures 2].
+Text Books
+1.
+Dr. Purushottama Raj (2005). Ground Improvement Techniques. Laxmi
+Publications. ISBN: 9788170088370.
+2.
+Hausmann, M.R. (1990). Engineering Principles of Ground Modification, McGraw-Hill
+International Editions. ISBN: 9780070272798.
+3.
+Bowles J.E. (1997). Foundation Analysis and Design (5th Ed). Tata McGraw-Hill
+International Edition. ISBN 0-07-912247-7.
+Online course Material
+1.
+Ground Improvement Techniques by Dr. G.L. Sivakumar Babu on NTPEL.
+https://nptel.ac.in/courses/105/108/105108075/
+
+Title Foundation Engineering Number
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Foundation Engineering
+
+Geotechnical earthquake engineering: seismological concepts; ground motion 
+parameters; dynamic soil behavior; ground response analysis; liquefaction; slope 
+stability [Lectures 4].
+Seismic 
+strengthening/retrofitting 
+methods 
+for 
+foundations: 
+earthquake
+structural damage; foundation settlement; retaining walls; foundation alternatives to 
+mitigate earthquake effects [Lectures 4].
+Grading and other soil improvement methods: grading; compaction; soil 
+improvement methods [Lectures 4].
+Foundation excavation, underpinning, and field load tests: foundation excavation 
+and construction; field load tests; foundation underpinning; observational method. 
+[Lectures 4].
+Subsurface investigation and instrumentations: traditional in-situ investigations; 
+advanced geophysical tests; field instrumentations [Lectures 3].
+International building code for foundations: general regulations for footing and 
+foundations; foundation adjacent slopes; retaining walls; geotechnical earthquake 
+engineering [Lectures 3].
+Text Books
+1.
+Bowles JE (1997) Foundation Analysis and Design (5th Ed). Tata-McGraw Hill
+International Edition. ISBN 0-07-912247-7.
+2.
+Robert W. day (2010). Foundation Engineering Handbook (2nd Ed). McGraw-Hill
+Professional. ISBN 978-0-07-174010-4.
+3.
+Budhu. M (2012). Soil Mechanics and Foundations (3 rd Ed). John Wiley and Sons.
+ISBN: 978-0-470-55684-9.
+4.
+Robert W. day (2010). Foundation Engineering Handbook (2 nd Ed). McGraw-Hill
+Professional. ISBN 978-0-07-174010-4.Manjriker
+Additional references
+Foundation Engineering (2018) by Prof. Kousik Deb on NPTEL. 
+https://nptel.ac.in/courses/105105176/
+
+Title Advanced Mechanics of
+Solids Number
+Department Mechanical Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Advanced Mechanics of Solids
+
+2.
+Timoshenko, S.P., and Goodier, J.N. (1980), Theory of Elasticity, Tata McGraw- Hill
+3.
+Sadd, M. H. (2006), Elasticity: Theory, Applications and Numerics, Academic Press
+Online course Material
+
+Title Theory of Vibrations Number MEL7XX0
+Department Civil Engineering L-T-P-Th [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech
+Elective
+Prerequisite Basic knowledge of mechanical
+vibrations
+Theory of Vibration
+
+Reference Books
+1.
+Meirovitch, L., Principles and Techniques of Vibrations, 3rd Edition, Prentice Hall
+2.
+Meirovitch, L., Analytical Methods in Vibration Analysis, Macmillan
+3.
+Clough, R.W., and Penzien, J., Dynamics of Structures, McGraw Hill
+Online course Material
+
+Title Ocean Thermal Energy Conversion (OTEC) Number CH7XX0
+Department Chemical Engineering L-T-P [C] 1-0-0 [1]
+Offered for B. Tech./ M.Tech./M.Tech.-Ph.D./ Ph.D. Type M.Tech Elective
+Prerequisite Thermodynamics
+Ocean Thermal Energy Conversion
+
+Title Process safety and Hazards Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Prerequisite None
+Process safety and Hazards
+
+Reference Books
+1.
+R. W. King and J. Magid, Industrial Hazards and Safety Handbook, Butterworth,
+1982.
+2.
+G. L. Wells, Safety in Process Plant Design, John Wiley and Sons Inc., 1980.
+3.
+Fawcett, H.H. and W.S. Wood, Safety and Accident Prevention in Chemical
+Operations, 2nd Edition, Wiley-Interscience, New York, 1982.
+
+Title Advanced Energy Systems Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Prerequisite None
+Advanced Energy Systems
+
+Title Plugin Electric Vehicles Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech./M.Tech./Ph.D. Type M.Tech Elective
+Objectives
+The Instructor will:
+1. Provide understanding of various technologies of plugin electric vehicle and hybrid electric
+vehicle and their role in smart grid operation
+Learning Outcomes
+The students are expected to have the ability to:
+1. Design powertrain circuit topology and appropriate control scheme for electric vehicle
+2. Understand and design EV charging infrastructure
+Contents
+Introduction to EV: Recent development trends, types of electric vehicles [Lectures 2].
+Powertrain: Concepts of powertrain sizing in EV and PHEV, starting, braking [Lectures 6].
+Storage systems: Battery types, parameters, battery modeling, battery management
+[Lectures 5].
+Charging Infrastructure: Domestic charging infrastructure, public charging infrastructure,
+normal charging station, occasional charging station, fast charging station, battery swapping
+station, types of charging: constant voltage, constant current, pulse charging, inductive,
+conductive charging [Lectures 8].
+Vehicle-to-X systems: Vehicle-to-grid, vehicle-to-home, vehicle-to-building, vehicle-to-
+vehicle [Lectures 8].
+Hybrid Electric Vehicle: Configuration of HEV (series, parallel, series-parallel & complex),
+power flow control in HEV configurations, control [Lectures 6].
+Vehicle Communication: Introduction to in-vehicle communications and controller area
+network [Lectures 4].
+PEV integration: Impact on transmission and distribution network [Lectures 3].
+Laboratory: Experiments related to the following topics will be conducted under laboratory
+component: SoC estimation, control of electric vehicle drives, regenerative braking,
+powertrain and vehicle dynamics, EV chargers and their control, vehicle-to-grid technology,
+vehicle-to-vehicle technology, EV charging from solar PV, performance of aggregator, Use of
+simulation tools (MATLAB, SIEMENS EV related softwares) to simulate different subsystems
+of EV and different scenarios.
+Textbook
+1. Husain,I., (2011), Electric and Hybrid Vehicles Design Fundamentals, 2nd Edition, CRC Press
+2. Ehsani,M., Gao,Y., Emadi,A., (2011), Modern Electric, Hybrid Electric, and Fuel Cell Vehicles
+3. Fundamentals, Theory and Design, 2nd Edition, CRC Press
+4. Larminie,J., Lowry,J., (2003), Electric Vehicle Technology Explained, Wiley
+Self Learning Material Objectives
+Plugin Electric Vehicles
+
+Title Smart Grid Number EE7XX0
+Department Electrical Engineering L-T-P
+[C] 3–0–2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Smart Grid
+
+Textbook
+1.
+Bollean,M.H.J., Hasan,F., (2011), Integration of Distributed Generation in the Power
+Systems, Willey-IEEE India Press
+2.
+Ehsani,M., Gao,Y., Gay,S.E., Emadi,A., (2005), Modern Electric, Hybrid Electric, and
+Fuel Cell Vehicles: Fundamentals, Theory, and Design, CRC Press
+3.
+Bansal,R., (2019), Power System Protection in Smart Grid Environment, CRC Press
+Self-Learning Material
+The Smart Grid: An Introduction, 
+http://www.oe.energy.gov/SmartGridIntroduction.htm, Department of Energy, 2008.
+
+Title Transmission Infrastructure Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech./Ph.D. Type M.Tech Elective
+Prerequisite Introduction to Smart Grid
+Transmission Infrastructure
+
+Title Substation Infrastructure Number EE7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Substation Infrastructure
+
+Title Gas Insulated Substation Number EE7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Gas Insulated Substation
+
+Title Power System Protection Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Power System Protection
+
+Textbook
+2.
+Ram,B., Vishwakarma,D.N., (2017), Power System Protection and Switchgear,
+2nd Edition, Tata McGraw Hill Publications.
+3.
+Phadke,A.G., Thorp,J.S., (2009), Computer relaying for Power System, 2nd
+Edition, John Wiley & Sons Ltd. Publications
+Self Learning Material
+Soman,S.A., Power System Protection, NPTEL Course Material, Department of 
+Electrical Engineering, Indian Institute of Technology Bombay,
+
+Cyber-Physical Security in Smart Grid Number EE7XX0
+Electrical Engineering L-T-P
+[C] 3–0–0 [3]
+M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Cyber-Physical Security in Smart Grid
+
+EV charging coordination via blockchain-based charging power quota trading, Microgrid: 
+microgrid monitoring and control using blockchain [Lectures 12].
+Textbook
+
+Title Energy Harvesting Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for B.Tech./M.Tech/Ph.D. Type M.Tech
+Elective
+Energy Harvesting
+
+Title Energy Economics and
+Policy Number
+Department L-T-P-D [C] 1-0-0 [1]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+1. Briand, D., Yeatman, E., Roundy, S., Micro Energy Harvesting Wiley, 2015.
+2. Shashank, P., Inman, D. J., Energy Harvesting Technologies, Springer, 2009.
+Self-Learning Material
+1.
+Elvin, N., Erturk, A., Advances in Energy Harvesting Methods, Springer, 2013.
+Preparatory Course Material
+4.
+Pal, K., Selection of Nanomaterials for Energy harvesting and Energy Storage
+Applications, https://nptel.ac.in/courses/112107283/
+Energy Economics and Policy
+
+Title Wind turbine and field design Number CIVIL7XX0
+Department Civil Engineering L-T-P [C] 3–0–0 [3]
+Offered fo r M.Tech, M.Tech.-Ph.D. [CIE] Type M.Tech Elective
+Wind turbine and field design
+
+Title Offshore Wind Energy Harvesting Number CIVIL7XX0
+Department Civil Engineering L-T-P [C] 3–0–0 [3]
+Offered for Offered for M.Tech, M.Tech.-Ph.D. [CIE] M.Tech, M.Tech.-Ph.D. [CIE] Type Type M.Tech
+Objectives
+1. To highlight the complexities of an offshore wind farms and differences with their
+onshore counterpart.
+2. To introduce the principles of an offshore wind farm design.
+3. To introduce principles of management and economics of a wind farm
+Learning Outcomes
+The students will have understanding of:
+1. Aerodynamic, hydrodynamic, and structural loads on offshore wind structures.
+2. Design of fixed and floating platforms for wind turbines.
+3. Principles of designs of a wind firm, its control, and maintenance.
+4. Details of the life-cycle cost and economic feasibility study of an offshore wind farm.
+Contents
+The offshore environment: Atmospheric wind flow and its characteristic in the boundary
+layer, ocean winds, wave theories, wind and wave forces on offshore structures [Lectures 7].
+Fixed and floating offshore platforms, their analysis, and design: Fixed and floating
+offshore platforms, mooring lines-their dynamic analysis, wind forces on offshore structures,
+Design provisions in API and DNV codes, Fixed and floating offshore wind turbines-their
+dynamic analysis, coupled and uncoupled analysis, Fatigue consideration [Lectures 8].
+Floating offshore wind turbines (FOWT): OWT drivetrain and gearbox simulation;
+Dynamic behaviour of bearings on offshore wind turbine gearbox: Experimental
+characterization of OWT gearbox in operation [Lectures 7].
+Offshore wind turbine field design: Spatiotemporal wind resource assessment;
+Bathymetry and other sea constraints; Strategic planning; Offshore wind farm design; Large
+eddy simulation of wind farm aerodynamics [Lectures 7].
+Operation and Maintenance Modelling: Classification of models; State-of-the-art in
+modelling; Decision support tools: vessel-fleet optimization models, cost-benefit evaluation
+of remote inspection [Lectures 7].
+Life-cycle cost and economic feasibility of a floating offshore wind farm: Life-cycle
+cost calculation: Economic Map Tools and Restrictions Maps Tools; Life-cycle definition,
+breakdown structure of processes, and calculation of costs; CAPEX and OPEX; Net Present
+Value (NPV); Internal Rate of Return (IRR); Discounted Pay-Back Period (DPBP); Levelized
+Cost of Energy (LCOE); Cost of Power Ratio [Lectures 7].
+Suggested Textbooks:
+1. Olimpo Anaya-Lara, John O. Tande, Kjetil Uhlen, Karl Merz (2018) Offshore Wind
+Energy Technology. Wiley. ISBN 9781119097785.
+2. Joao Cruz, Mairead Atcheson (2016). Floating offshore wind energy (1st Ed). Springer.
+ISBN 978-3-319-29398-1.
+3. Wiesław Ostachowicz, Malcolm McGugan, Jens-Uwe Schroder-Hinrichs, Marcin Luczak.
+MARE-WINT. New Materials and Reliability in Offshore Wind Turbine Technology.
+Springer Nature. ISBN 978-3-319-39034-9.
+4. Laura Castro-Santos, Vincente Diaz-Casas (2016) Floating Offshore Wind Farms.
+Springer. ISBN 978-3-319-27972-5.
+5. S. K. Chakrabarti (2021). Dynamics of floating offshore structures. World Scientific.
+ISBN: 9789814280563 Objectives
+Offshore Wind Energy Harvesting
+
+Title Offshore Tidal Energy Harvesting Number CIVIL7XX0
+Department Civil Engineering L-T-P [C] 3–0–0 [3]
+Offered for Offered for M.Tech, M.Tech.-Ph.D. [CIE] M.Tech, M.Tech.-Ph.D. [CIE] Type Type M.Tech
+Objectives
+1. Holistic introduction of different aspects of a tidal energy system.
+2. Introduction of design principles and size optimization.
+3. Basics of control and reliability assessment of a tidal system.
+Learning Outcomes
+1. Knowledge of prefeasibility assessment models.
+2. Knowledge of optimization techniques to increase efficiency of a tidal energy system.
+3. Different control system of a tidal current turbine.
+4. Knowledge of different failure models for reliability assessment.
+Content
+Introduction of tidal energy: Principles and components of tidal power plants; Available
+technologies and concepts; Estimation of energy calculation; Tidal dynamics and structures
+of tidal currents [Lectures 7].
+Prefeasibility analysis: Analysis of location; Physical boundaries of assessment; Static v/s
+transect field survey; Location assessment: Farm method and Flux method [Lectures 7].
+Optimum sizing and modelling of tidal energy system: Modelling of tidal energy
+conversion systems; Numerical solution of tidal energy systems; Modelling of a tidal current
+turbine; Tidal energy facility size [Lectures 7].
+Control system: Automatic control system; Control strategies of ocean wave conversion
+systems; Reactive power control of tidal turbine; Dynamic control of tidal current turbine;
+Power system stability analysis [Lectures 7].
+Reliability assessment: The failure distribution model; Constant failure rate model; Time
+dependent failure model; Assessment of tidal energy system by fault tree analysis [Lectures
+7].
+Advances in tidal energy systems: Tidal energy system scenario: India and World;
+Environmental assessment; Tidal harmonic analysis; Assessment of tidal energy system:
+Optimization technique and Game theory; Economic analysis [Lectures 7].
+Textbook
+1. Vikas Khare, Cheshta Khare , Savita Nema, Prashant Baredar (2019). Tidal energy
+systems. Elsevier. ISBN: 978-0-12-814881-5.
+2. S. K. Chakrabarti (2021). Dynamics of floating offshore structures. World Scientific.
+ISBN: 9789814280563 Objectives
+Offshore Tidal Energy Harvesting
+
+Title Power Plant Engineering Number MEL7XX0
+Department Civil and Infrastructure Engineering L-T-P-Th [C] 3-0-2 [4]
+Offered for B.Tech./M.Tech/Ph.D. Type M.Tech
+Elective
+Prerequisite B.Tech
+Power Plant Engineering
+
+Site selection: Selection of for power station, load estimation, load duration curve, load 
+factor, capacity factor, use factor, diversity factor, demand factor, Effect of variable load on 
+power plant, selection of the number and size of units [Lectures 4].
+Economics and Environmental Considerations: Capital cost, Cost of energy production, 
+Operational cost of power plants, tariffs for electrical energy, Environmental impact, different 
+types of pollution, fuel availability [Lectures 3].
+Electrical components of power plants: generator, transformer, speed governing 
+systems, generator excitation systems, switchyard [Lectures 4].
+Laboratory Classes [12-13 Classes]
+Steam Power Plant: Start-up, Operation and maintenance, Shut down of Steam Power Plant, 
+Control and monitoring. 
+Boilers: Efficiency of a steam generator, Analysis of exhaust gas from boiler, Determination 
+of the heat flux density and the overall heat transfer coefficient in boilers. 
+Steam Turbine: Demonstration of the function of a steam turbine, Operating Characteristics 
+of Steam turbine. 
+Cooling tower: Determination of cooling capacity, Operating Characteristics of Cooling tower 
+Gas Turbine: Determination of specific fuel consumption, Determination of Shaft power and 
+System efficiency.
+Reference Books
+1.
+M. M. Ei-Wakil, Power Plant Technology, Tata McGraw-Hill.
+2.
+P. K. Nag, Power Plant Engineering, Tata McGraw-Hill.
+3.
+F. T. Morse, Power Plant Engineering, D. Van Nostran, New York.
+Learning Material
+
+Title Energy Storage Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech./Ph.D. Type M.Tech Elective
+Prerequisite Introduction to Smart Grid
+Energy Storage
+
+Title Biomass Energy Conversion Course BBXX
+Department Bioscience and Bioengineering L-T-P [C] 3-0-2 [4]
+Offered for Offered for Type Type M.Tech
+Objectives
+The Instructor will:
+1. Illustrate the principles and applications of bio-energy harnessing systems ranging
+from conventional processes to the latest developments in the area.
+Learning Outcomes
+The students are expected to have the ability to:
+1. Have an understanding of the existing and emerging biomass to energy technologies.
+2. Utilize the knowledge of bioenergy systems while integrating bioenergy with other
+renewable energy systems.
+3. Suggest potential solutions for energy needs by incorporating bioenergy technology.
+Contents
+Bioenergy context: Introduction, Biofuels and biopower; automobile and biofuels,
+feedstocks (harvested and residual), Emissions from biofuels [Lecture 6].
+Thermochemical biomass conversion: Chemical composition, Biomass types and
+characteristics, Biomass pre-treatment and processing, Combustion, Gasification, Pyrolysis,
+Catalytic conversion of biomass to liquid biofuels, Life cycle analysis [Lecture 14].
+Biochemical biomass conversion: Anaerobic fermentation technology: Biogas
+production, process microbiology, different types of bioreactors, basic process kinetics,
+Various types of biofuels,1st and 2nd generation biofuels, Algal Biofuels, ASTM standards for
+biofuels, Engineered microbes for biofuel [Lecture 10].
+Bioelectrochemical systems: Introduction to Microbial Fuel cells (MFC), Nernst equation
+and electrochemical potential difference, the redox reactions, calculating and measuring
+potentials, The exoelectrogenic microbes, MFC components, Applications of MFC, Bio
+electrochemical system for Hydrogen production, Artificial photosynthesis [Lecture 12].
+Lab:
+Biomass acid treatment process and estimation of reducing sugars, performing ethanol
+fermentation and determine ethanol yield and productivity, performing butanol fermentation,
+setting up a biogas production process, Screening cellulose producers from natural
+environments, enzyme activity assays for lignocellulosic waste, performing acid
+catalysed/base catalysed biodiesel production-comparison of process kinetics, determine
+biodiesel yield with sequential base/acid treatment for free fatty acid rich microbial oil, Setting
+up Microbial fuel cells.
+Textbooks
+1. German Solar Energy Society, Ecofys, (2006) Planning and installing bioenergy
+systems: A guide for installers, architects and engineers, Earthscan,
+2. Vertes, A. A., Qureshi, A., Yukawa, H., Blaschek, H.P.,(2010) Biomass to Biofuels,
+Wiley.
+3. H. S. Mukunda, Understanding Clean Energy and Fuels from Biomass, Wiley India
+Pvt. Ltd., 2011.
+Reference Books
+1. Stanier, R. Y., (2009) General Microbiology, W.H. Freeman and Co.
+2. Pelczar, M.J., Chan, E. C. S., Krieg, N.R.,(2001) Microbiology, Tata McGraw - Hill
+Education
+Online course material
+Michelle O'Malley, Fueling Sustainability: Engineering Microbial Systems for Biofuel Objectives
+Biomass Energy Conversion
+
+Production, Spring 2011, MIT OpenCourseWare Massachusetts Institute of Technology, 
+https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+
+Title Hydrogen and Methanol Economy Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for Offered fo MTech, MTech-PhD, PhD MTech, MTech-PhD, PhD Type Type M.Tech
+Prerequisite none
+Hydrogen and Methanol Economy
+
+Title Hydropower Number ME7XX0
+Department Mechanical Engineering, electrical
+Engineering, Civil & Infrastructure
+Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech Elective
+Hydropower
+
+Electronic Control of Hydropower: Phase angle control, relay switched on loads, Mark-
+Space ratio controller (Lectures: 3)
+Pumped Storage Hydropower: Pumped storage hydropower plant, turbines, motors 
+(Lectures: 3)
+Hydropower House: Classification, equipment, accessories, layout, components, sizing 
+(Lectures: 3)
+Fractal 2 (CIE)
+Site investigation techniques: Geological environments: rocks and soils; Geological, 
+geotechnical, and geophysical investigation; Trenching and drilling (Lectures: 2)
+Design of embankment dams: freeboard; Slope protection; Embankment crest details; 
+Dimensioning and tolerances; Conduits through embankments; Flood control 
+structures; Seismic stability analysis of embankments; Liquefaction of dam 
+embankments and foundations. (Lectures: 4)
+Concrete face rockfill dams and Concrete gravity dams: Selection of dam types; Rockfill 
+zones; Concrete face; Construction aspects; Settlements, and displacements of the face 
+slab, and joints; Leakage; Strength and compressibility of rock foundations; Strength 
+of concrete in the dam; Strength of the concrete-rock contact; Silt and ice load 
+(Lectures: 4)
+Foundation preparation: General foundation preparation for embankment dams; Cutoff 
+foundation for embankment dams; Width and batter slopes; Slope modification; 
+Foundation preparation for concrete gravity dams. (Lectures: 4)
+Textbook
+1.
+Breeze,P., (2018), Hydropower, Academic Press
+2.
+Pandey,B., Karki,A., (2017), Hydroelectric Energy, Renewable Energy and the
+Environment, CRC Press
+3.
+Robin Fell, Patrick MacGregor, David Stapledon, Graeme Bell (2005) Geotechnical
+Engineering of Dams. A. A. Balkema publishers. ISBN 04 1536 440 x.
+
+Title Fuel Cell Technology Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Prerequisite None
+Fuel Cell Technology
+
+Reference Books
+1.
+Bent Sorensen, 2012, Hydrogen and Fuel Cells: Emerging Technologies and
+Applications, Elsevier, Second Edition.
+2.
+Frano Barbir, 2013, PEM Fuel Cells: Theory and Practice, Elsevier Inc., Second
+Edition.
+3.
+Ryan O'Hayre, Suk-Won Cha, Whitney Colella, Fritz B. Prinz, 2009, Fuel Cell
+Fundamentals, Wiley, Second Edition.
+
+Title Electrochemical Conversion and Storage Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Prerequisite None
+Electrochemical Conversion and Storage
+
+Title Selected Topics in Distributed Generations Number EE7XX0
+Department Electrical Engineering L-T-P
+[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Selected Topics in Distributed Generations
+
+2.
+Masters,G.M., (2004), Renewable and Efficient Electric Power Systems, John
+Wiley & Sons, Inc.
+3.
+Bevrani,H., Francois,B., Ise,T., (2017), Microgrid Dynamics and Control, John
+Wiley & Sons, Inc.
+
+Title Materials for Electrochemical Energy
+Conversion and Storage Number
+Department Physics and Metallurgical & Materials Engineering L-T-P [C] 2-0-0 [2]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Prerequisite -
+Materials for Electrochemical Energy Conversion and Storage
+
+Reference Book
+Rosen M. A. (2012) Energy Storage, Nova
+Online Course Materials
+1. Prof. Bazant M., MITopencourseware: Electrochemical Energy Systems, MIT Course
+Number 10.626 / 10.426, https://ocw.mit.edu/courses/chemical-engineering/10-626-
+electrochemical-energy-systems-spring-2014/
+2. Prof. Pal K., Selection Of Nanomaterials For Energy Harvesting And Storage Application,
+NPTEL Course Material, Mechanical Engineering, Indian Institute of Technology Roorkee,
+https://nptel.ac.in/courses/112/107/112107283/
+
+Title Solar Energy and Applications Number MEL7XX0
+Department Department Mechanical Engineering Mechanical Engineering L-T-P-Th 3-0-0 [3] 3-0-0 [3]
+Offered for M.Tech Type Type M.Tech
+Prerequisite B.Tech Degree
+Solar Energy and Applications
+
+Title Artificial Intelligence – 1 Number CS 7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type M.Tech
+Elective
+Artificial Intelligence-I

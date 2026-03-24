@@ -1,0 +1,16 @@
+congratulations to sukhendu ghosh for publishing chapter in the book mathematical modelling and scientific computing with applications
+title stability analysis of film flow down an incline in the presence of floating flexible membrane authors sani behera and sukhendu ghosh journal springer proceedings in mathematics statistics book series year publisher springer abstract the present study deals with the effects of floating flexible membrane on the instability of flow down an incline
+linear stability of the flow system is explored using analysis
+free surface flow is unstable at much lower reynolds numbers
+instability of such flow can be controlled either by changing behavioral of the lower wall or by altering the surface waves at the free surface which is done here by including floating flexible membrane at the top of the liquid layer
+influence of membrane tension is taken into account in terms of stress jump at the free surface
+the system of the flow is solved numerically using spectral collocation method
+the results displays destabilizing role of membrane tension for wide range of parameters
+the growth rate of the perturbation waves increases with an increase of membrane tension and the critical reynolds number becomes smaller
+therefore it is possible to enhance the instability of the flow system with help of membrane properties which may be useful in ocean engineering and coating title stability analysis of film flow down an incline in the presence of floating flexible membrane book name mathematical modelling and scientific computing with applications authors sani behera and sukhendu ghosh journal springer proceedings in mathematics statistics book series volume year publisher springer abstract the present study deals with the effects of floating flexible membrane on the instability of flow down an incline
+therefore it is possible to enhance the instability of the flow system with help of membrane properties which may be useful in ocean engineering and coating industries
+title stability analysis of film flow down an incline in the presence of floating flexible membrane authors sani behera and sukhendu ghosh journal springer proceedings in mathematics statistics book series abstract the present study deals with the effects of floating flexible membrane on the instability of flow down an incline
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

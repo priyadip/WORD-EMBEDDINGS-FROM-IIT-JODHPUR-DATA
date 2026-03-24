@@ -1,0 +1,125 @@
+SOURCE_PDF: 78f724eb3e9f_vlsifaq-638887974798919698.pdf
+
+FAQs for an Executive M.Tech. in Intelligent VLSI Systems
+(for working professionals)
+2022 - 2023 onwards | EE, IIT Jodhpur
+Q1. Does an Executive M.Tech. in Intelligent VLSI Systems from IIT Jodhpur hold
+equal value as a Full-time M.Tech. from IIT Jodhpur?
+Answer: Yes in terms of learning outcomes
+Q2. After completing the program, does a student get IIT Jodhpur Alumni Status?
+Answer: Yes
+Q3. Do students of this program also get campus placements?
+Answer: No, since this is a program for working professionals.
+Q4. What will be the syllabus of the written exam?
+Answer: Fundamentals of programming, basics of electronics and circuit theory, digital
+electronics, basic mathematics
+Q5. What is the fee to be paid?
+Answer: Rs. 65,000 per semester
+Q6.What is the minimum attendance percentage required?
+Answer: As per the institute policy.
+Q7. After the completion of the course, will there be any convocation?
+Answer: Yes
+Q8. What will be the duration of course?
+Answer: Minimum 3 years.
+Q9. What are the courses that will be taught? Will these courses be taught by IITJ
+faculties?
+Answer: Please visit the following website for a tentative list of courses under Executive
+M.Tech. IVS
+Courses will be taught by IITJ faculty members. Some sessions in courses sometimes
+full courses are offered by domain experts from other reputed institutes and industries.
+Q10. Can I opt for elective courses? What elective courses are offered in this
+program?
+
+Answer: Please visit the following website for a list of electives which may be offered as
+part of this programme:
+Q11. Will I be eligible for a PhD Admission after completing this MTech course?
+Answer: Yes
+Q12. Is there any scholarship available for this program?
+Answer: No
+Q13: I have a payment related query. Whom shall I contact?
+Answer: Please contact : oa_automation@iitj.ac.in
+Q14: I have a related query to Executive M.Tech. IVS . Whom shall I contact?
+Answer: You may write to office of EE: office_ee@iitj.ac.in
+Q15. If after two semesters I need a gap due to personal reasons or something
+else can I shift my next semester ?
+Answer: Yes, the program is designed to allow candidates to choose their pace. You
+may have a look into PG regulations for more details.
+Q16. What will be the difference between a regular Mtech IVS Program &
+Executive Mtech IVS program?
+Answer: The mode of teaching (Online vs Classroom teaching). The syllabus and credit
+requirements will be the same. Further, the duration of the program is different. This is
+because the executive program is for working professionals who cannot commit the
+same/similar work hours as our full-time students.
+Q17. As it's an Executive Mtech Program, So If for some reason I leave the Job is
+it going to affect this Program if I leave my job?
+Answer: No. You can still continue this program, along with NOC from the new
+employer.
+Q18. I have a query regarding the total time period of the program. How many
+semesters one has to complete bare minimum to get the mtech.
+Answer: This is an Executive (Part-time) program. However, you would need a minimum
+6 semesters to finish the program.
+Q19. Can Internship be shown as work experience?
+Answer: No.
+
+Q20. Can the degree certificate be submitted for government jobs?
+Answer: Yes
+Q21. I am interested in pursuing this program. However, I would like to know the
+syllabus and/or course content before signing up for the same.
+Answer: Please visit
+Q22. I have done my graduation/AMIE from The Institution of Engineers (IE
+INDIA). Is that allowed for admission?
+Answer: Yes.
+Q23. Will hostel accommodation be provided for outstation candidates from
+different states?
+Answer: During campus visit in contact hours, paid accommodation may be made
+available subject to availability.
+Q24. I am from Computer Science and Engineering. Will I be able to cope up with
+the Intelligent VLSI Systems program? What is the syllabus? What would be the
+extent of it ?
+Answer: Basic knowledge of digital and analog electronics is required. Also, basic
+knowledge of programming languages like C/C++ will help in developing skills toward
+hardware description languages like Verilog, VHDL, SystemC.
+Q 25. What if I plan to discontinue the program after completing a few courses.
+Answer: You will be given a course completion certificate upon request for the courses
+which you would have completed.
+Q26. Would the outcome of the course be suited for people who want to develop
+hardware related businesses ? Would this help someone in pursuing a career in
+tech companies on the business side or is it suited for people who want to
+pursue a career in the technical and programming areas ?
+Answer: The syllabus is more inclined towards the technology side focusing mainly on
+VLSI Systems and its applications.
+Q27. How rigorous is this course and how many hours of studying and project
+work beyond lecture time would it need every week/month approximately ?
+Answer: A unit of credit equates to three hours of student work per week. That means if
+you register for 10 credits, you are expected to work 30 hours a week including 10
+
+hours of lectures. For more detail information, you may have a look into PG regulations:
+https://iitj.ac.in/uploaded_docs/Regulation/Academic_Regulations_Final_03_09_2019.p
+df
+Q28. Tell me a tentative plan of credit selection so that I can complete this
+program in three years.
+Answer:
+Semester - 1 : 11 credits (including1 non-graded credits)
+Semester - 2 : 10 credits (including 1 non-graded credits)
+Semester - 3 : 10 credits (including 1 non-graded credits)
+Semester - 4 : 10 credits(including 1 non-graded credits, 4 credits of project)
+Semester - 5 : 11 credits (including 4 credits of project)
+Semester - 6 : 10 credits (project)
+—------------------------------------------------------------------------
+Total
+: 62 credits
+If you plan to complete it at a slow pace, say in 4 years by taking lesser credits per
+semester, then that will be allowed from semester - 2.
+Q29. How many lectures per course per semester will be there?
+Answer: 42 hours of lectures per course per semester.
+Q30. How long is a typical semester?
+Answer: Around 4 months.
+Q31. What are the other documents required for admission?
+Answer: A selected applicant will need to submit a no objection certificate from the
+current employer (only if currently employed), a physical fitness certificate, and a
+character certificate by either the current employer or a gazetted officer. These
+documents are required only at the time of admission and not at the time of application.
+The formats for these documents will be sent to the selected candidates.
+Q32. Can I do MTech in IITJ while doing job?
+Answer: Yes, you can pursue MTech in IITJ while doing a job as IITJ offers a special
+part time Executive MTech course for working professionals.

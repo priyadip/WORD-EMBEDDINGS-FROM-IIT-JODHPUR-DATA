@@ -1,0 +1,26 @@
+network cybersecurity the entire campus network at iit jodhpur runs on backbone with capacity of up to gbps
+the dia manages internet leased lines with bandwidths of up to gbps from airtel pgcil nkn and bsnl ensuring reliable and fast internet access for students faculty staff guests and visitors from other institutions
+lan and services are available throughout the campus including both academic and residential areas
+additionally the dia supports an telephony system for communication among faculty group officers departments and various offices
+cctv surveillance and access control systems are implemented at various locations to restrict unauthorized entry and safeguard institutional resources
+to ensure the security of the campus network iit jodhpur is equipped with strong network firewall and regularly conducts cybersecurity awareness programs
+network services dia recommended practices please be cautious about opening any external and spam emails external and spam tags will be filtered by our email providers
+never give out your account password to anyone
+visitors and guests are given guest id with time limit and eduroam facility is also available on the campus
+always use whenever possible with complex passwords
+keep all your systems always updated with latest versions
+it recommended to use antivirus software in your systems
+scan the removable media with antivirus software before accessing
+hpc policy must be followed while using the facilities
+internet surfing avoid bypassing campus firewall protection by using proxies or other online resources
+limit and control the of personal information while accessing social media and networking sites
+always check the authenticity of the person before accepting request as
+network switches and access points and routers should never be installed without involving dia
+faculty members purchasing rack servers or storage must install them in the centralized data center for better utilization of cooling and ups needs and dia representative must include at pic
+the entire campus network at iit jodhpur runs on backbone with capacity of up to gbps
+dia recommended practices please be cautious about opening any external and spam emails external and spam tags will be filtered by our email providers
+avoid bypassing campus firewall protection by using proxies or other online resources
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated mar pm

@@ -1,0 +1,47 @@
+SOURCE_PDF: 250b7c654a78_Temtative_MTech_DCS_Structure.pdf
+
+Cat. Course Course Title L-T-P Credits Cat. Course Course Title L-T-P Credits
+Number Number
+Semester 1 Semester 2
+C MAxxx Introduction to 1-0-0-0 1 C MAxxx Numerical 1-0-0-0 1
+Data Science Methods for PDE
+C CSxxx Machine 3-0-0-0 3 C CSxxx Machine 3-0-0-0 3
+Learning 1 Learning 2
+C MAxxx Statistics 1 1-0-0-0 1 C CSxxx Software and 1-0-0-0 1
+C MAxxx Statistics 2 2-0-0-0 2 C MAxxx Introduction to 1-0-0-0 1
+C MAxxx Matrix 1-0-0-0 1 E CSxxx Computer 1-0-0-0 1
+Computations Network and
+C MAxxx Optimization 1-0-0-0 1 C CSxxx Data structures 0-1-2-0 2
+C MAxxx Modelling and 1-0-0-0 1 E xxxxx PE2 3-0-0-0 3
+C MAxxx Data Analytics 0-0-2-0 1
+C Professional 0-0-0-0 0 C Understanding 0-0-0-0 0
+Ethics of IP
+Total 14 Total 15
+Semester 3 Semester 4
+P MA6xx Project 0-0-0-5 5 P MA6xx Project 0-0-0- 11
+Total 14 Total 14
+Grand total 57
+S.No. Category Course Total Total
+Category Title Courses Credits
+1 C Compulsory 5 17
+3 PE Program Electives 5 15
+4 OE Open Electives 2 6
+5 P Project 1 16
+Total 57
+
+S.No. Course Title S.No. Course Title
+1 Visualization 15 Computational linguistics
+2 Machine learning for big data 16 Computational economics
+3 Human-machine interface 17 Digital Humanities
+4 AR/VR 18 Cultural informatics
+5 Security 19 Finance engineering
+6 Computational electro magnetism 20 Computational finance
+7 Computational optics 21 Computational Game Theory
+8 Quantum Information System 22 Graph Theory and Complex Networks
+9 Quantum Cryptography 23 Dynamical Systems
+10 Quantum Computing 24 Reliability Theory
+11 Bioinformatics 25 Stochastic Processes
+12 Computational biology 26 Digital Image Analysis
+13 Computational chemistry 27 Natural Language Processing and Text analytics
+14 Computational material science 28 Robotics
+List of Program Electives:

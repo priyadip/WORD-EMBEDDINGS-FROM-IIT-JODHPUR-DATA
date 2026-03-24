@@ -1,0 +1,68 @@
+SOURCE_PDF: 9d6018269f8c_biocourses3-638769676842435203.pdf
+
+PhD Courses 
+ 
+Program Elective Set 1 - Bioimaging & Health Informatics 
+BBL7XX0 Fundamentals of Neuroscience [3-0-0] 
+BBL7XX0 Principles of Drug Development [3-0-0] 
+BBL7XX0 Introduction to Chemical Biology [3-0-0] 
+CSL7XX0 Digital Image Analysis [3-0-0] 
+CSL7XX0 Machine Learning-1 [3-0-0] 
+CSLEEL7XX0 Image Sensor Design and Applications [3-0-0] 
+PH7XX0 Introduction to Medical Physics fractal 1 & 3 [2-0-0] 
+ 
+Program Elective Set 2- Multi-omics 
+BBL7XX1 Omics Databases [1-0-0] 
+MAL7XX0 Introduction to Data Science [1-0-0] 
+CSL7XX2 Data Management [1-0-0] 
+BBL7XX0 Proteomics Data Analysis [2-0-0] 
+BBL7XX0 Microbial Genomes & Microbiomes [3-0-0] 
+BBL7XX0 RNA Sequencing Data Analysis [3-0-0] 
+BBL7XX0 Microarray Data Analysis [2-0-0] 
+BBL7XX0 Metabolomics [3-0-0] 
+BBL7XX0 Algorithms in Biology [3-0-0] 
+ 
+Program Elective Set 3- Biological systems & Biosensors 
+BBL7XX0 Disease Processes diagnostics & therapeutics [3-0-0] 
+BBL7XX0 Quantitative Physiology: systems and controls of the human machine [3-0-0] 
+BBP7XX0 Quantitative Physiology lab [0-0-2] 
+BBL7XX0 Cell and Molecular Biology [3-0-0] 
+BBL7XX0 Sensory-neural systems [3-0-0] 
+BBL7XX3 Visual perception [1-0-0] 
+BBL7XX2 Auditory perception: from cell to signal [1-0-0] 
+BBL7XX1 Synaptic communication: function and dysfunction [1-0-0] 
+BBL7XX0 Immunodiagnostics and therapeutics [2-0-2]
+BBL7XX0 Cardiovascular Physiology: Signals, systems and controls
+BBL7XX1 Microbes as sensors [1-0-0] 
+MEL7XXO Microfluidics technologies [3-0-0] 
+CSL7XX0 Measurement in remote healthcare [1-0-0] 
+CSL7XX0 Analog & Interfacing Circuits [3-0-0] 
+CYL6XX0 Biophysical Techniques: Theory and applications [3-0-0] 
+MEL7XX0 Fluid Flow in Biological Processes [2-0-0] 
+ 
+Program Elective Set 4 – Systems Biology 
+BBL7XX0 Synthetic Biology [3-0-0] 
+BBL7XX0 Systems Biology in Personalized Genomics [3-0-0] 
+BBL7XX0 RNA Sequencing Data Analysis [2-0-0] 
+BBL7XX0 Flux Balance Analysis [3-0-0] 
+BBL7XX0 Immunotechnology [3-0-0] 
+CYL6XX1 Thermodynamics [1-0-0] 
+CYL6XX3 Chemical Kinetics [1-0-0] 
+MAL6XX0 Ordinary Differential Equations [3–0–0] 
+MAL7XX0 Numerical Methods for PDE [1-0-0] 
+Program Elective Set 5 – Biomaterials Engineering 
+BBL7XX0 Biophysics [2-0-0]
+
+BBL7XX0 Biomechanics [2-0-0] 
+BBL7XX0 Tissue Engineering & Medical devices and Implants [3-0-0] 
+BBL7XX0 Selected topics in Biomaterials Engineering [1-0-0] 
+MT7LXX0 Principles of Engineering Material Selection 3-0-0 [3] 
+MTL7XX0 Computational material Engineering [3-0-0] 
+Program Elective Set 6 – Bioenergy & Environmental Technologies 
+BBL7XX0 Environmental Microbiology [2-0-0] 
+BBL7XX0 Environmental Biotechnology and Bioremediation [3-0-0] 
+BB7XX0 Bioenergy Systems [3-0-0] 
+BB7XX0 Bio-electrochemical Systems [2-0-0] 
+MEL7XX0 Water Energy nexus [3-0-0] 
+MEL7XX0 Soil and Water Conservation engineering [3-0-0] 
+MT7XX0 Industrial waste: control & utilization [3-0-0]

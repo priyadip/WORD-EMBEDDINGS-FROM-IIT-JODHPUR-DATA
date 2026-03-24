@@ -1,0 +1,41 @@
+and phd program course curriculum department of chemical engineering indian institute of technology jodhpur cat
+course number course title credits cat
+course number course title credits semester ii semester advanced mathematical methods in chemical engineering advanced thermodynamics advanced reaction engineering elective advanced transport phenomena elective elective elective ii total total iii semester iv semester thesis thesis total total
+course number course title
+advanced wastewater treatment
+computational fluid dynamics
+heterogeneous catalysis and catalytic reactors
+modeling of atoms molecules and surfaces
+nanocomposite membrane technology
+novel separation processes
+principles of electrochemical engineering
+process safety hazards
+structure property for polymers
+in department of chemical engineering course structure semester wise distribution of credits list of electives url
+category course category title total courses total credits compulsory electives ng thesis total in with minimum courses total credits required
+engineering in an engineering discipline compulsory
+degree in science discipline compulsory same as
+engineering in an engineering discipline compulsory same as doctoral compulsory dc electives advanced mathematical methods in chemical engineering pg elective list program in the department of chemical engineering course credit requirements for phd students advanced mathematical methods in chemical course no
+department chemical engineering structure offered for
+type compulsory prerequisite none detailed course contents course title advanced thermodynamics course no
+title advanced reaction engineering number department chemical engineering structure offered for in chemical engineering type compulsory fluidized bed reactor introduction regimes of fluidized bed reactor parameters for reactor design models for reactor design kuni levenspiel model lectures slurry bed and trickle bed reactor different regimes of fluid flow mass transfer coefficient slurry bed models trickle bed models lectures membrane reactors types transport mechanism case study for production lectures text books
+froment bischoff chemical reactor analysis and design john wiley
+doraiswamy and uner chemical reaction engineering beyond the fundamentals crc press
+smith chemical engineering kinetics mcgraw hill third edition
+carberry varma chemical reaction and reactor engineering online course material
+shankar advanced chemical reaction engineering nptel course material department of chemical engineering iit bombay
+viswanathan chemical reaction engineering ii nptel course material department of chemical engineering iit bombay advanced transport phenomena course no
+course title advanced wastewater treatment course no
+type elective course title chemometrics course no
+prerequisite basics of chemical engineering course title computational fluid dynamics course no
+course title heterogeneous catalysis and catalytic reactors course no
+prerequisite basic knowledge of chemical kinetics course title modelling of atoms molecules and surfaces course no
+course title molecular simulations course no
+course title nanocomposite membrane technology course no
+prerequisite basic knowledge of engineering and chemistry course title novel separation processes course no
+prerequisite mass transfer separation processes design and applications design of membrane modules dialysis gas miscellaneous separation processes pervaporation membrane distillation etc
+ho and sirkar membrane handbook vol and vol springer course title principles of electrochemical engineering course no
+prerequisite basic knowledge of thermodynamics course title process optimization course no
+course title process safety hazards course no
+prerequisite basic knowledge of chemical engineering course title structure property for polymers course no
+prerequisite an introductory course on polymers for none for

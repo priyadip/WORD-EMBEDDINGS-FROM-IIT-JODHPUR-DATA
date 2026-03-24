@@ -1,0 +1,41 @@
+SOURCE_PDF: 3fb3b8bd6cbc_mtech_cse.pdf
+
+Title Data structures and practices Number CSXXX
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. (CSE) 1​st​ Year Type Compulsory
+Prerequisite Computer Programming
+
+Title Software and Data Engineering Number CSXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Compulsory
+
+Title Computer Architecture Number CSXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2​nd​ Year Type Compulsory
+Prerequisite Computer Organization
+
+Title Machine Learning-1 Number CSXXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1​st​ Year, Ph.D. 1​st​ Year Type Compulsory
+Prerequisite None
+
+Title Ad-Hoc Wireless Networks Number CS 6XX
+Department Computer Science and Engineering L-T-P[C] 3–0–0 [3]
+Offered for M.Tech. 1​st​ Year, PhD 1​st​ Year Type Compulsory
+Prerequisite Networks
+
+4. Cheng, X., Huang, X., & Du, D. Z. (Eds.). (2013). ​Ad hoc wireless networking (Vol. 14).
+Springer Science & Business Media 
+ 
+Self Learning Material 
+1. Computer Networks - MIT OpenCourseWare 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-netw
+orks-fall-2002/lecture-notes/ 
+2. Mobile and Wireless Networks and Applications, Stanford University, 
+https://web.stanford.edu/class/cs444n/ 
+3. IEEE Transactions and other journals
+
+Title Autonomous Systems Number CSXXX
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. (CSE) 1​st​ Year Type Compulsory
+Prerequisite Networks and Machine Learning-1

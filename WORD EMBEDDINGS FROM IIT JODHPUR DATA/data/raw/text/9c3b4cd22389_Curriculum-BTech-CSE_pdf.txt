@@ -1,0 +1,767 @@
+SOURCE_PDF: 9c3b4cd22389_Curriculum-BTech-CSE.pdf
+
+Indian Institute of Technology Jodhpur
+2nd year B.Tech Computer Science &
+Engineering
+Curriculum Structure
+August 2020
+
+2nd year B.Tech Computer Science & Engineering
+Curriculum Structure
+
+1. Introduction
+Traditional curriculum in Computer Science and Engineering (CSE) has focused on two major areas, i.e., theory 
+and systems (database, computer hardware, and operating systems). With the advent of the era of Edge 
+Computing, Cloud Computing, Security, AI and Big Data, the discipline is being transformed by the 
+incorporation of new emerging technologies. The discipline is becoming instrumental in solving major real-world 
+problems faced by modern society such as healthcare, security, sustainability, and socio-economic challenges. 
+There is a need to revamp the B.Tech program in CSE so as to prepare students to tackle problems which are 
+fundamentally multidisciplinary in nature. This would improve IIT Jodhpur’s participation and contribution 
+towards providing solutions for global challenges. IIT Jodhpur can become a leading source of technology 
+solutions for self-reliant India. 
+ 
+ 
+2. Objectives of the Program
+The objective of the B.Tech. program in Computer Science and Engineering (CSE) at IIT Jodhpur is to equip 
+students to undertake careers involving challenges of working on real-world problems, while innovating with 
+their core competency in computer science. The curriculum gives due importance to the foundational aspects of 
+computer science, as well as develops in students the necessary engineering skills for addressing emerging 
+technological challenges. The program offers flexibility in choosing elective courses for widening the 
+understanding of emerging concepts and processes in different domains. Students can opt for specializations 
+which provide a coherent and increasingly sophisticated understanding so as to enable them to pursue preferred 
+career opportunities. The program will produce a well prepared and well-motivated workforce to undertake 
+careers in research and industry involving innovation, knowledge creation, engineering, and entrepreneurship. 
+ 
+3. Expected Graduate Attributes
+4. Learning Outcomes
+
+Area Topics Category
+(Core/
+Techniques
+Technology/
+Systems) Course (IE/IS/
+PC/PE)
+Theory
+and
+Algorithms Computing Paradigms, Syntax, Semantics Specification,
+Attribute Grammar, Imperative Programming, Procedures,
+Modules, Object-oriented Programming, Abstraction,
+Encapsulation, Reuse, Functional Programming, Polymorphic
+Data Types, Recursion, Lambda Calculus, Logic Programming,
+Horn Clauses, Backtracking, Concurrent Programming,
+Synchronization, Multithreads Core Principles of
+Programming
+Languages
+(PC)
+Abstract Data Types, Linear Data Structures, Non Linear Data
+Structures, Stack, Queue, Link List, Heap, Sorting, Hashing,
+Algorithm Analysis, Graph, Tree Core Data
+Structures and
+Algorithms
+(PC)
+Complexity Analysis, Divide-and-conquer, Greedy
+Algorithms, Dynamic Programming, Linear Programming,
+Universal Hashing, Approximation Algorithms, Randomized
+Algorithms Core Design and
+Analysis of
+Algorithms
+(PC)
+Discrete Structures, Logics, Set, Graph and Trees, Deterministic
+Finite Automata, Non-deterministic Finite Automata,
+PushDown Automata, Context Free Grammar, Turing
+Machine, Lexical and Syntax Analysis, Parsing Core Maths for
+Computing
+(PC)
+Computability, Decision Trees and Communication
+Complexity, Time Complexity, Space Complexity, Complexity
+of Counting and Randomization Core Theory of
+Computation
+(PE)
+Graph algorithms, Directed and Undirected graph, Planar
+graph, Graph coloring, Hamiltonion and Eulorian graph,
+Bipartite graphs, Trees. Core Graph
+Theoretic
+Algorithms
+(PC Bouquet)
+NP-Hard problems, Bounded Search Tree, Iterative
+Compression, Randomized Methods, Kernelization, Sunflower
+Lemma, Crown Decomposition, Expansion Lemma,
+Intractability Core Parameterized
+Complexity
+(PC Bouquet)
+5. New Skill Sets Targeted
+1. Designing user-centric human-machine interfaces 
+2. Designing end-to-end socio-digital reality systems 
+3. Developing sustainable computing solutions 
+4. Building secure, intelligent, and trustable systems 
+5. Designing and synthesizing digital systems for solving industrial problems 
+ 
+6. Topic Clouds and Mapping of Topic Clouds with Proposed Courses
+Table 1. Topics and Mapping of Topic with Courses
+
+Persistence DS, Retroactive DS, Geometric DS, DS for Moving
+Data, Dynamic Optimality, Cache-oblivious DS, van Emde
+Boas, Sketching, String DS, Low Memory DS, Dynamic Graphs Core and
+Techniques Advanced
+Data
+Structures (PE)
+Euclidean TSP, Metric TSP, FPTAS, PTAS, Primal-Dual
+Schema, Dual Fitting, Embeddings, Sparsest Cut, Random
+Hyperplanes, Hashing, Makespan Techniques Approximatio
+n Algorithms
+(PE)
+Randomized Complexity Classes, Probabilistic Analysis,
+Markov Chain, Random Walk, Randomized Graph
+Algorithms, Randomized Sorting and Searching, Markov,
+Chebyshev, Chernoff Techniques Randomized
+Algorithms
+(PE)
+Computational Model and Complexity Classes, NP, NP
+Completeness, Complexity Issues in Cryptography, Lower
+Bounds, Algebraic Computational Model, Levin’s Theory,
+Hardness Amplification, Logic in complexity theory, Circuit
+Lower Bounds Core Complexity
+Theory (PE)
+Complex Numbers, Complex Vector Spaces, Quantum
+Algorithms, Quantum Programming Languages, Quantum
+Cryptography, Quantum Information Theory, Deutsch’s
+Algorithm, Simon’s Periodicity Algorithm, Grover’s Search
+Algorithm, The Deutsch–Jozsa Algorithm, Shor’s Factoring
+Algorithm, Quantum Assembly Programming, Quantum Key
+Exchange, Quantum Teleportation, von Neumann Entropy Core Quantum
+Computing
+(PE)
+Streaming Algorithms, Stream mining using Clustering,
+Massive Data Clustering, Data Stream Classification,
+Distributed Mining of Streaming Data, Change Diagnosis,
+Forecasting on Stream, Dimensionality Reduction for
+Streaming data. Core and
+Technique Stream
+Analytics (PE)
+Hardware Introduction to HDL, Design flow, Number representation,
+Arithmetic circuits, Design and Analysis of Synchronous
+circuits, Design of Finite State Machines, CMOS Technology,
+Programmable Logic Devices, CAD Core Digital Design
+(PC)
+CPU, Memory, Processor, Instruction set Architecture, I/O,
+ALU, Bus Architecture, Cache management, Performance Core Computer
+Architecture
+(PC)
+Embedded system design, Architectures of embedded
+processors, Hardware-Software Co-design, ARM Cortex M3,
+Programming for Embedded Systems, Real time OS,
+Distributed Embedded Architectures, Real time scheduling
+algorithms, Multi-rate systems Systems Embedded
+Systems (PC
+Bouquet)
+VLSI design flow, hardware modelling principles, hardware
+description, Behavioural synthesis, logic optimization and
+synthesis, Chip architectures, standard cells and FPGA,
+Synthesis tools, layout synthesis Technique High-level
+Synthesis (PE)
+
+Systems Processes Management, Process Coordination, Deadlock,
+Memory Management, Storage Management, Protection and
+Security Core Operating
+Systems (PC)
+Database Architectures, Data Granularity, ER Model, EER
+Model, Relational Model, Relational Algebra, Relational
+Calculus, SQL, Schema, Query, Data Definition, Data
+Manipulation, Data Retrieval, Views, Normalization,
+Functional Dependency, Transactions, Schedules, ACID
+Properties, Concurrency Control, Recoverability,
+Serializability, Deadlock Prevention, Locking Protocols,
+Timestamp Protocols, Deadlock Detection, Recovery Protocols,
+Query Optimization, Hashing, Indexing Core Database
+Systems (PC)
+Software Development Life Cycle, Software Engineering
+Process Model, Software Design, UML, Design Pattern, Project
+Management, Cost Analysis, UI Design, Service Oriented
+Architecture, Software Quality, Risk Analysis, Agile
+Methodologies, Software Architecture Core Software
+Engineering
+(PC)
+Software Testing, Quality Engineering, Testing Process,
+Automatic Testing, Unit Testing, Defect Prevention, Process
+Improvement, Quantifiable Quality Improvement, Quality
+Model and Measurements, Defect Classification, Reliability
+Engineering Techniques Software
+Testing and
+Quality
+Assurance (PE)
+Distributed Systems, Centralized Systems, Data Transparency,
+Data Fragmentation, Data Allocation, Security, Semantic
+Integrity, Query Decomposition, Query Localization, Query
+Ordering, Query Optimization, Transaction Management,
+Concurrency Control, Deadlock Management, Reliability,
+Recovery Protocols Systems Distributed
+Database
+Systems (PE)
+Fog Computing, Internet of Things and Analytics, Edge
+Computing, Distributed computing and system design,
+architecture, contemporary cloud framework, distributed data
+& processing management, middleware design issues and
+challenges, Edge & Fog for AI-driven applications Systems Edge and Fog
+Computing
+(PE)
+Concurrency, events & ordering, distributed file systems,
+distributed disk management, fault tolerance, microkernel,
+operating system kernel Systems Distributed
+Systems (PE)
+Understanding Software & Evolution, Software Maintenance,
+Software Reuse, Reverse engineering levels & techniques Systems Software
+Maintenance
+(PE)
+Network
+and
+Security Cyber Security Vulnerabilities and Cyber Security Safeguards,
+Securing Web Application, Services and Servers, Intrusion
+Detection and Prevention, Firewalls, Cyberspace and the Law,
+Cyber Forensics Core Cyber Security
+(PC)
+OSI reference model, Packet switching techniques,
+Performance metrics, Socket programming, Email, FTP, Telnet,
+SSH, DNS, TCP, UDP, Transmission, Flow and Congestion
+Control, Tunneling, Internet Protocol and its operation,
+Routing algorithms, ICMP, ARP, RARP, DHCP, IPv6, RIP, Core Computer
+Networks (PC)
+
+Overview about MANETs, VANETs, WSNs and WMNs,
+Modulation techniques at PHY layer, Fading mitigation
+techniques, MAC protocols for MANETs, Error correcting
+codes, distributed wireless routing algorithms, transport level
+mobility management, 5G overview, LPWAN, Bluetooth Systems Introduction to
+Wireless Ad
+hoc Network
+(PE)
+Digital Trust, Digital Asset, Digital Transactions, Distributed
+Ledger Technology, Digital Signature, Cryptocurrency,
+Bitcoin, Hyperledger, Ethereum Interaction, Blockchain-as-a-
+service, Blockchain Use Cases, Blockchain Security Technology Introduction to
+Blockchain
+(PE)
+Cooperative Vehicular Safety Applications, Vehicular
+Mobility Modeling, Physical Layer Considerations for
+Vehicular Communications, MAC Layer of Vehicular
+Communication Networks, VANET Routing protocols,
+Emerging VANET Applications, Standards and Regulations Systems Vehicular Ad-
+Hoc Networks
+(PE)
+Overview of wireless systems, Multiplexing, Link adaptation,
+Multihop routing protocols, Mobility and Handoff
+management, Cellular Technologies, Overview of LTE and 5G
+Cellular Networks, 5G Architecture, RAN and dynamic
+CRAN, Mobility management and Network slicing in 5G,
+Pervasive computing, Context aware sensor networks,
+Localization, Android architecture and Overview, Body area
+networks Technology Mobile and
+Pervasive
+Computing
+(PE)
+4G LTE networks, From 4G to 5G, 5G overview, core,
+signalling, 5G mobile edge and fog computing, application, 5G
+vs mm-wave WiFi, India’s 5G policy and vision, 6G vision,
+paper discussions Technology 5G Mobile
+Networks (PE)
+Networking basics, switching architecture, SDN architectures,
+OpenFlow, Network function virtualization, Emerging SDN
+models, Data center networking Core Software
+Defined
+Networks (PE)
+Basic symmetric-key encryption, Message integrity, Public key
+cryptography, Digital signatures ,Protocols Core Cryptography
+and Network
+security (PE)
+Applicatio
+ns Bayes Decision Theory, Regression, Bias variance, Maximum
+Likelihood Estimation, Bayesian Parameter Estimation,
+Decision Tree, Random Forest, Artificial Neural Network,
+Clustering, k-means, SVM, Feature Selection, Dimensionality
+Reduction Core and
+Technique Pattern
+Recognition
+and Machine
+Learning (PC)
+Uninformed Search Strategies, Informed Search Strategies,
+Local Search Algorithms, Hill Climbing, Constraint
+Satisfaction Problems, Backtracking, Adversarial Search, Min-
+Max algorithms, Propositional Logic, Reasoning Patterns,
+First-order logic, Syntax, Semantics, Q-value, Policy, Technique Artificial
+Intelligence
+(PE)
+
+Search Engine Architecture, Retrieval Models, Performance
+Evaluation, Text Categorization, Text Clustering, Web
+Information Retrieval, Structured Document Retrieval Techniques Information
+Retrieval (PE)
+Visual World, Geometry, Lights and Optics, Tracking,
+Motion, Depth, Devices and tools Technique Introduction to
+AR and VR
+(PE)
+Geometric primitives, Clipping, Viewing, Rendering,
+Animation, Shading, Coloring, OpenGL Technique Computer
+Graphics (PE)
+Eye and early vision, Reasoning systems, Late vision, visual
+attention, Cognitive architectures, Knowledge representation
+and learning, Neural networks for vision, Applications in
+vision tasks Technique Principles of
+Biological
+Vision and
+Applications
+(PE)
+Image formation and transformations, Camera calibration,
+Image restoration, Spatial and Wavelet-based processing,
+Epipolar Geometry, SfM, Optical flow, Key-point detection,
+Feature description and matching, Deep learning for vision,
+Applications Technique Computer
+Vision (PE)
+Data storage methods, data access methods, analysis,
+representation, visualization, visual storytelling, Dashboard,
+Infographics Technique Data
+Visualization
+(PE)
+Neural Networks, Gradient Descent, Optimization,
+Regularization, Autoencoder, Convolutional Neural Network,
+Recurrent Neural Network, LSTM, Deep Generative Models,
+Generative Adversarial Network (GAN), Deep Belief Network,
+Deep Convolutional GAN, Variational Autoencoder,
+Representation Learning, Unsupervised Pre-training, Transfer
+Learning, Distributed Representation, Domain Adaptation,
+Neural Language Model, Adversarial Learning Technique Deep Learning
+(PE)
+Kernel Machines, Variants of Support Vector Machines, PAC
+Theory, Boosting, Graphical Models, Structural Predictions,
+Deep Reinforcement Learning, Space Coding Core and
+Technique Advanced
+Machine
+Learning (PE)
+Decision-making, Utility Theory, Utility Functions, Decision
+Networks, Sequential Decision Problems, Partially Observable
+MDP, Game Theory, Reinforcement Learning, Generalization,
+Policy Search, Hidden Markov Model, Kalman Filter,
+Knowledge Representation, Ontological Engineering,
+Situation Calculus, Semantic Networks, Description Logic,
+Planning graphs, Partial-order Planning, Conditional
+Planning, Continuous Planning, Multi-agent Planning,
+Hierarchical Task Network Planning, Non-deterministic
+Domains Core Advanced
+Artificial
+Intelligence
+(PE)
+Neuromorphic Engineering, Neuroanatomy of human brain,
+Neuron models, Plasticity rules, Learning rules, Spiking
+Neural Networks (SNN), Nanodevices for Neuron
+Implementation, Synaptic emulation, Electronic synapses,
+Digital/Analog neuromorphic VLSI, Hardware
+implementation of synaptic circuits, Synaptic programming Technique Neuromorphic
+Design and
+Computing
+(PE)
+
+Accuracy-explainability tradeoff, Interpretability problem,
+Predictability, Transparency, Traceability, Causality,
+Reasoning, Attention and Saliency, Interpretable AI, Prediction
+Consistency, Adversarial Robustness, Trustworthy AI,
+Integrity, Reproducibility, Accountability, Bias-free AI, Ethics
+in AI Technique Dependable
+Artificial
+Intelligence
+(PE)
+Fuzzy Computing, Fuzzy Systems, Neural Computing, Genetic
+Algorithms, Rough Sets, Knowledge Representations,
+Fuzzification, Defuzzification, Swarm Intelligence, Hybrid
+Models, Neuro-fuzzy systems, Rough-neural computing Technique Soft
+Computing
+Techniques
+(PE)
+Biological Signals, Biomedical Imaging Modalities, ECG, NMR
+spectroscopy, electron microscopy, MRI, and X-Ray Images,
+Visualization, Reconstruction, Restoration, Clustering, Graph
+Partitioning, Deep Learning for Bio-image Technique Bio-image
+Computing
+(PE)
+Biometric Devices, Biometric System Design, Biometric Data
+Analysis, Face Recognition, Fingerprint Matching, Signature
+Authentication, Biometric Technique Advanced
+Biometrics
+(PE)
+Computational complexity of AI models, Prediction accuracy,
+Numeric accuracy, Precision, Memory footprints, Edge AI,
+Memory Optimization of Models, Hardware accelerators for
+Edge AI, Vision Processing Unit, Streaming Hybrid
+Architecture Vector Engine, Open Neural Network Exchange Systems and
+Technique Resource-
+Constrained
+Artificial
+Intelligence
+(PE)
+Word representation, NLP tasks, Seq2Seq model, Question
+Answering, Sentiment Analysis, Dialogue system, Machine
+Translation, natural language generation Interpretability,
+Knowledge Graphs. Technique Natural
+Language
+Understanding
+(PE)
+Spoken language technology, dialog and conversational
+systems, automatic speech recognition, speech synthesis, affect
+detection, dialogue management. Techniques Speech
+Understanding
+(PE)
+Graphs, Network Models, Network Data Generation,
+Structural Properties, Link Prediction, Community Detection,
+Information Cascade, Small World Phenomenon, Homophily,
+Structural Balance, Components, Network Evolution, Multi-
+layer network Technique Social
+Networks (PE)
+
+S.N
+. Course Type Course Category Regular B.Tech. Double
+Credit Total Credit Total
+1 Institute Core (I) Engineering (IE) 34 69 34 59
+Science (IS) 16 16
+Humanities (IH) 12 9
+2 Programme Linked
+(L) Science (LS) 7 0
+3 Programme Core (P) Programme Compulsory (PC) 51 71 51 71
+Programme Electives (PE) 17 17
+B.Tech. Project (PP) 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0
+5 Engineering Science
+(E) Engineering Science Core (EC) 0 0 22 22
+Engineering Science Elective (EE) 0 0 8 8
+Total Graded 150 160
+6 Non-Graded (N) Humanities (NH) 6 15 6 15
+Engineering (NE) 3 3
+Design/Practical Experience (ND) 6 6
+Total Graded + Non-Graded 165 175
+7. Course Categories, Credit Distribution and Credit Structure of B.Tech. Programmes
+Table 2. Proposed Course Categories and credit distribution in the proposed B.Tech. Programmes
+
+Type L-T-P Distribution of contact and beyond contact Total Credits
+(TC=TH/3)
+Contact Hours Beyond Contact Total Hours
+(CH) Hours (BCH) (TH)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+8. Credit Structure of B.Tech. Programmes
+Table 3. Credit Structure for B.Tech. Programmes (Up 6000 Level)
+#Contact hour for a project refers to the involvement of students in the laboratory, discussion, etc.
+
+Sr. No Course Name LTP Contact Hours Credit
+1 Data Structure and Algorithms 3-0-2 5 4
+2 Maths for Computing 3-1-0 4 4
+3 Digital Design 2-0-2 4 3
+4 Human-Machine Interaction 0-0-4 4 2
+5 Software Engineering 3-0-2 5 4
+6 Operating Systems 3-0-2 5 4
+7 Design and Analysis of Algorithms 3-1-0 4 4
+8 Computer Architecture 3-0-0 3 3
+9 Database Systems 3-0-2 5 4
+10 Cyber Security 3-0-2 5 4
+11 Computer Networks 3-0-3 5 4.5
+12 Digital Systems LAB 0-0-3 3 1.5
+13 Principles of Programming Languages 3-0-0 3 3
+14a Randomized Algorithms (B1) 3-0-0 3 3
+14b Approximation Algorithms (B1) 3-0-0 3 3
+14c Distributed Algorithms (B1) 3-0-0 3 3
+14d Optimization (B1) 3-0-2 5 4
+15a VLSI Design (B2) 3-0-0 3 3
+15b High-Level Synthesis (B2) 3-0-0 3 3
+15c Embedded Systems (B2) 3-0-0 3 3
+Total 51/52
+9. List of Programme Compulsory Courses
+Table 4. Programme Compulsory Courses
+
+S. No. Stream Courses L-T-P
+1 Theory and
+Algorithms 1. Randomized Algorithms (700)
+2. Approximation Algorithms (700)
+3. Complexity Theory (400)
+4. Advanced Data Structures (400)
+5. Quantum Computing (400)
+6. Graph-theoretic Algorithms (700)
+7. Parameterized Complexity (700)
+8. Optimization (Math) (400) 3-0-0
+2 Hardware 1. High-level Synthesis (EE/CS)(700)
+2. Embedded Systems (EE)
+3. VLSI Design (EE)
+4. Hardware Software Co-Design (CS) (700) 3-0-0
+3 Systems 1. Software Testing and Quality Assurance (700)
+2. Distributed Database Systems (700)
+3. Distributed Systems (2-0-0) (400)
+4. Mobile and Pervasive Computing (700)
+5. Virtualization and Cloud Computing (700)
+6. Compiler Design (700)
+7. Software Maintenance (400) 3-0-0
+2-0-2
+4 Network and
+Security 1. Introduction to Wireless Ad hoc Network (700)
+2. 5G Mobile Networks(CS)(700)
+3. Software Defined Networks (CS)(700)
+4. Intelligent Radio Networks (EE) (700)
+5. Data Communication Networks (EE) (300)
+6. Cryptography and Network Security (CS/EE) (400)
+7. Introduction to Blockchain (700) 3-0-0
+2-0-0
+3-0-2
+5 AI-ML 1. Deep Learning (400)
+2. Artificial Intelligence (400)
+3. Advanced Machine Learning
+4. Dependable Artificial Intelligence (400)
+5. Information Retrieval (700)
+6. Autonomous Systems (IDRP) (400)
+7. Ethics, Policy, Law and Regulation in AI (700)
+8. Planning and Decision making for Robots
+(IDRP)(700) 3-0-0
+6 Speech,Text,
+and Vision 1. Natural Language Understanding (700)
+2. Digital Image Processing (400)
+3. Computer Vision (400)
+4. Computer Graphics (400)
+5. Speech Understanding (700) 3-0-0
+10. Area-wise Programme Elective Courses
+Table 5. Stream-wise Programme Electives Courses
+
+7 Social
+Computing 1. Social Computing
+2. Sustainable Computing
+3. ICT for Development
+4. Machine Learning for Epidemiology
+5. Health Informatics
+6. Computational Social Choice
+7. Computational Cognition & Behavior Modelling
+8. Social Networks
+9. Ethics, policy, law and regulations in AI
+10. Crowd-sourcing and human computing
+11. Environmental Informatics
+12. Computational Microeconomics 3-0-0
+3-0-0
+2-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+0-0-2
+3-0-0
+3-0-0
+3-0-0
+
+S. No. Name of
+Specialization Specialization Core (8
+Credits) Specialization Elective (12 Credits)
+1. Visual Computing
+(CSE, AIDE, EE) Jointly with EE and AIDE Jointly with EE and AIDE
+2. Socio-Digital Reality
+(CS, AIDE, EE) Jointly with EE and AIDE Jointly with EE and AIDE
+3. Advanced
+Algorithms Advanced Data Structures
+(3-0-0), Complexity Theory
+(3-0-0), Algorithms for Big
+Data (from M.Tech, 2-0-0) Randomized Algorithms, Approximation
+Algorithms, Theory of Computation,
+Distributed Algorithms, Quantum
+Computing (IDRP), Optimization, Graph
+Theory and Applications, Parameterized
+Complexity
+4. Social and
+Sustainable
+Computing Social Computing (3-0-0),
+Sustainable Computing (3-
+0-0),
+ICT for Development (2-0-
+0) Machine Learning for Epidemiology (3-0-
+0), Health Informatics (3-0-0),
+Computational Social Choice (3-0-0),
+Computational Cognition & Behavior
+Modelling (3-0-0), Social Networks (3-0-0),
+Ethics, Policy, Law and regulations in
+AI(0-0-2), Crowd-sourcing and human
+computing (3-0-0), Environmental
+Informatics (3-0-0), Computational
+Microeconomics (3-0-0), Project (0-0-6)
+5. Intelligent
+Communication and
+Networking
+(CS, AIDE, EE) Jointly with EE Jointly with EE
+6. VLSI Systems
+(EE, CS) Jointly with EE Jointly with EE
+11. Specializations Offered by the Department
+Table 6. Specializations and courses
+
+Cat Course LTP C N G Cat Course LTP C N G
+I Semester II Semester
+IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4 IE Engineering
+Mechanics 2-1-0 3 - 3
+IE Introduction to
+Computer Science 3-0-2 5 - 4 IS Chemistry 3-0-0 3 - 3
+IE Introduction to
+Bioengineering 3-0-2 5 - 4 IS Physics 3-0-0 3 - 3
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering Design 0-0-2 2 1 -
+NH Communication
+Skill I 0-0-2 2 1 - NH Communication
+Skill II 0-0-2 2 1 -
+NH Social Connect and
+responsibilities I 0-0-1 1 0.5 - NH Social Connect and
+responsibilities II 0-0-1 1 0.5 -
+NH Performing Arts I
+/Sports I 0-0-1 1 0.5 - NH Performing Arts
+II/Sports II 0-0-1 1 0.5 -
+Total 12-1-
+14 27 3 17 Total 11-2-
+12 24 3 16
+III Semester IV Semester
+IS Probability,
+Statistics and
+Stochastic
+Processes 3-1-0 4 - 4 IE Materials Science &
+Engineering
+(Electronic
+materials) 1-0-0 1 - 1
+12. Curriculum of B.Tech. in Computer Science and Engineering (Direct Entry)
+Table 7. Curriculum of B.Tech. (Computer Science and Engineering)
+
+IE MSE -
+(i) Energy materials
+(ii) Computational
+Material Design 2X 1-
+0-0 2 - 2 IE Thermodynamics 3-1-0 4 - 4
+IE Signals and
+Systems 3-1-0 4 - 4
+IE Pattern Recognition
+and Machine
+Learning 3-0-2 5 - 4
+PC Maths for
+Computing 3-1-0 4 4 PC Software 3-0-2 5 4
+PC Data Structures
+and Algorithms 3-0-2 5 - 4 PC Human-Machine
+Interaction 0-0-4 4 2
+LS Foundations of
+Quantum
+Information
+Processing
+(Program Linked
+Science Elective) 3-0-0 3 - 3
+PC Digital Design 2-0-2 4 3
+IH Humanities I 3-0-0 3 3
+NE Intro. To Profession 0-0-2 2 1
+Total 17-3-
+4 24 1 21 Total 15-1-
+10 23 - 21
+V Semester VI Semester
+PC Design and
+Analysis of
+Algorithms 3-1-0 4 4 PC Cyber Security 3-0-2 5 4
+PC Computer
+Architecture 3-0-0 3 3 PC Computer Networks 3-0-3 6 4.5
+PC Operating Systems 3-0-2 5 4 PC Digital Systems Lab 0-0-3 3 1.5
+PC Principles of
+Programming
+Languages 3-0-0 3 3 PC CS Core Bouquet -1 3-0-0 3 3
+PC Database Systems 3-0-2 5 4
+IH Humanities II 3-0-0 3 - 3 PE Programme/Open
+Elective 6-0-0 6 6
+NH Professional Ethics
+I 0-1-0 1 - NH Professional Ethics 0-0-2 1 -
+Total 18-2-
+4 23 1 21 Total 15-1-
+8 23 1 19
+VII Semester VIII Semester
+
+IH Humanities IV 3-0-0 3 - 3
+PP B. Tech. Project 0-0-6 6 - 3
+PE
+/
+OE Programme/Open
+Electives 6-0-0 6 - 6 PE
+/
+OE Programme/Open
+Electives 15-0-
+0 15 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 14-0-
+6 20 - 17 Total 18-0-
+0 18 - 18
+Total of Graded Credits - 15
+0
+Total of Non-Graded Credits 9 -
+Non-Graded Design Credits 6 -
+Grand Total 165
+
+Ca Course LTP C N G Ca Course LTP C N GC
+I Semester II Semester
+III Semester IV Semester
+IE Materials Science &
+Engineering 3 ×
+1-0-0 3 - 3
+ES Probability,
+Statistics, and
+Stochastic Processes 3-1-0 4 - 4
+ES Modern Physics 3-0-0 3 - 3 ES Embedded Systems
+and IoT 3-0-2 5 - 4
+IE Thermodynamics 3-1-0 4 - 4 IE Pattern Recognition
+and Machine
+Learning 3-0-2 5 - 4
+ES Data Structures and
+Algorithms 3-0-2 5 - 4 ES Design of
+Experiments 3-0-0 3 - 3
+IE Signals and Systems 3-1-0 4 - 4
+ES Control Systems 3-0-2 5 - 4
+IH Humanities I 3-0-0 3 - 3
+NE Intro. To Profession 0-0-2 2 1
+Total 15-3-4 22 1 19 Total 18-0-6 24 - 21
+V Semester VI Semester
+PC Design and 3-1-0 4 4 PC Cyber Security 3-0-2 5 4
+PC Principles of 3-0-0 3 3 PC Computer Networks 3-0-3 6 4.5
+PC Operating Systems 3-0-2 5 4 PC Software 3-0-2 5 4
+PC Database Systems 3-0-2 5 4 PC Human-Machine 0-0-4 4 2
+13. Curriculum of Double B.Tech.: B.Tech. in Computer Science and Engineering and B.Tech. in
+Engineering Science
+Table 8. Programme structure of Double B.Tech.
+
+PC Maths for
+Computing 3-1-0 4 4 PC Digital Design 2-0-2 4 3
+PC CS Core Bouquet - 1 3-0-0 3 3
+IH Humanities II 3-0-0 3 - 3
+N Professional Ethics I 0-1-0 1 - N Professional Ethics II 0-1-0 1 -
+Total 18-3-4 24 1 22 Total 15-1-
+14 29 1 20.
+5
+VII Semester VIII Semester
+PE
+/
+ES Programme/Enginee
+ring Science
+Electives 17-0-0 17 - 17
+PP B. Tech. Project 0-0-6 6 - 3
+IH Humanities III 3-0-0 3 - 3
+PC CS Core Bouquet -
+1 (Algorithms)/ 2
+(Hardware) 3-0-0 3 3
+PE
+/
+OE Programme/
+Engineering Science
+Electives 12-0-0 12 - 12
+PC Digital Systems Lab 0-0-3 3 1.5
+PC Computer 3-0-0 3 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 20-0-6 26 - 23 Total 20-0-0 20 - 21.
+5
+Total Graded Credits - 160
+Total of Non-Graded Credits 9 -
+Non-Graded Design Credits 6 -
+Grand Total 175
+Note: ES are proposed Engineering Science compulsory courses

@@ -1,0 +1,14 @@
+research seminar by jagannath bhanja on august at pm title of the talk inverse problem in additive number theory date time venue august pm seminar hall dept
+of mathematics abstract an inverse problem in additive number theory is to uncover the underlying structure of sets of integers or subsets of abelian groups from information about their sumsets
+in this talk we will discuss what we can deduce about the set if we know that the sumset is small
+we will start with brief survey of some key results in this area including the infamous freiman theorem which characterizes sets with small doubling
+we then try to answer question of melvyn nathanson on the subset sum set
+along the way we will also discuss some open problems in this direction
+about the speaker jagannath bhanja is currently working as an assistant professor in the department of sciences and humanities at the indian institute of information technology design and manufacturing iiitdm kancheepuram
+prior to his joining at iiitdm he worked as postdoctoral fellow at the institute of mathematical sciences chennai and the research institute prayagraj
+he received his degree from the
+his research interests include additive number theory and extremal combinatorics
+title of the talk inverse problem in additive number theory date time venue august pm seminar hall dept
+of mathematics date time venue august pm seminar hall dept
+an inverse problem in additive number theory is to uncover the underlying structure of sets of integers or subsets of abelian groups from information about their sumsets
+jagannath bhanja is currently working as an assistant professor in the department of sciences and humanities at the indian institute of information technology design and manufacturing iiitdm kancheepuram

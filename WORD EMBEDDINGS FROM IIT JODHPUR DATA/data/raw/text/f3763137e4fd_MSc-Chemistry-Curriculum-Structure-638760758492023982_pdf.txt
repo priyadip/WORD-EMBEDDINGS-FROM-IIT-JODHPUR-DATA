@@ -1,0 +1,210 @@
+SOURCE_PDF: f3763137e4fd_MSc-Chemistry-Curriculum-Structure-638760758492023982.pdf
+
+Course Number, L-T-P-D Credits Cat. Course Number, Course L-T-P-D C redits
+Cat. Course Title Title
+I Semester II Semester
+C CY5XX: Organic 3-0-0-0 3 C CY5XX Organic 3-0-0-0 3
+Reactions and Synthesis
+C CY5XX:Transition Metal 3-0-0-0 3 C CY5XX Solid State and 3-0-0-0 3
+and Organometallic Material Chemistry
+C CY5XX: Quantum 3-0-0-0 3 C CY5XX: Molecular 3-0-0-0 3
+Chemistry and Thermodynamics and
+Spectroscopy Chemical Kinetics
+C CY5XX: Physical 3-0-0-0 3 C CY5XX: Theory and 3-0-0-0 3
+Organic Chemistry Applications of
+C CY5XX: Main Group 3-0-0-0 3 E Program elective-1 3-0-0-0 3
+C Lab-1:Organic 0-0-3-0 1.5 C Lab-3: Physical 0-0-3-0 1.5
+Laboratory Laboratory
+C Lab-2: Inorganic 0-0-3-0 1.5 C Minor Project 0-0-3-0 1.5
+C Hands on -1 0-0-3-0 1.5 C Hands on-2 0-0-3-0 1.5
+Total 19.5 Total 19.5
+III Semester IV Semester
+E Open elective-1 3-0-0-0 3 E Program Elective-5 3-0-0-0 3
+E Program Elective-2 3-0-0-0 3 E Program Elective-6 3-0-0-0 3
+E Program Elective-3 0-0-3-0 3 E Open Elective -2 3-0-0-0 3
+E Program Elective-4 3-0-0-0 3 R Project 0-0-0-10 10
+R Project 0-0-0-5 5
+C Seminar 0-0-1-0 0.5
+Total 19 Total 19
+MSc Chemistry Curriculum Structure
+Course Curriculum Structure (2019 onwards)
+Total Credits: 77
+
+1 Core Courses
+2 Laboratories
+3 Elective Courses
+Contents
+
+Core Courses
+
+Title Organic Reactions and Mechanisms Number CY5XX
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+Prerequisite Prior consent of the instructor
+
+Title Physical Organic Chemistry Number CY5XX
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Organic Synthesis Number CY5XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Main Group and Bioinorganic Chemistry Number CY522
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Transition Metal and
+Organometallic Chemistry Number CY512
+Department Chemistry Structure L-T-P[C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Solid State and Material Chemistry Number CY523
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Quantum Chemistry and Spectroscopy Number CY514
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Molecular Thermodynamics and Chemical Number CY513
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Theory and Applications of Spectroscopic Number CY5xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Laboratories and Hands-on
+
+Title Organic Chemistry Laboratory Number CY5XX
+Department Chemistry L-T-P [C] 0–0–3[1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Inorganic Chemistry Laboratory Number CY5XX
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc.(CY) Program Type Compulsory
+
+Course Title Physical Chemistry Laboratory Course No. CY5xx
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Title Computational Chemistry Laboratory Number CY 5xx
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+Pre-requisite CY 524 (Chemical Binding)
+
+Course Title Hands on -1 Course No. CY5xx
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Course Title Hands On -2 Course No. CY5xx
+Department Chemistry L-T-P [C] 0-0-3 [1.5]
+Offered for M.Sc. (CY) Program Type Compulsory
+
+Electives
+
+Title Catalysis for Energy Number CY6xx
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for MSc./PhD (CY) Program Type Elective
+
+Title Nanomaterials and Nanodevices Number CY653
+Department Chemistry L-T-P [C] 2-0-1 [3]
+Offered for MSc/PhD (CY) Program Type Elective
+
+Title Compounds of p-block elements and Number CY6XX
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+
+Title Advanced Materials Design Number CY7xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+
+Course Title Characterization Techniques in
+Inorganic Chemistry Course No. CY 6xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc/PhD Program Type Elective
+
+Course Title Advance Catalysis Course No. CY6XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for MSc/PhD (CY) Program Type Elective
+
+Course Title Water Chemistry Course No. CY6XX
+Department Chemistry L-T-P [C] 2–0–1 [3]
+Offered for BTech/MTech/MSc/PhD(CY) Program Type Elective
+Pre-requisite Consent of Teacher
+
+Title Frontiers in Organometallic Catalysis Number MT6XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. and Ph.D Type Elective
+Prerequisite Consent of teacher
+
+Title Numerical Methods and Group Number CY515
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Elective
+
+Title Chemical Binding Number CY524
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./Ph.D (Chemistry) Type Elective
+Pre-requisite CY 514 (Quantum Chemistry and
+
+Title Principles of Nuclear Magnetic Resonance Number CY6XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+Prerequisite CY211
+1. Farrar, T.C. and Becker, E.D., (1971), Pulse and Fourier Transform NMR , 1st Edition,
+
+Title Quantum Information Number CY652
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc. (CY) Program Type Elective
+Prerequisite MA111
+
+Title Molecular Dynamics Simulations Number CY665
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Compulsory
+
+Course Title Solid State NMR Methods for Materials Number CY7XX
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for MSc./PhD (CY) Program Type Elective
+1. Duer, J. M., (2005), Introduction to Solid State NMR, Wiley.
+
+Title Quantum Computing Number CY751
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for Ph.D. (CY) Program Type Elective
+Prerequisite MA111/CY514/PH513
+
+Title Group Theory and Molecular Spectroscopy Number CY6xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for MSc./Ph.D. (CY) Program Type Elective
+1. Engel, T. and Reid, P., (2012), Quantum Chemistry and Spectroscopy, 3rd Edition, Pearson
+
+Title Modern Electronic Structure Theory Number CY6XX
+Department Chemistry L-T-P [C] 3–0–3 [4]
+Offered for M.Sc./PhD (CY) Program Type Elective
+Prerequisite CY 514 (Quantum Chemistry and
+
+Title Chemical Reaction Dynamics Number CY764
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc./PhD (CY) Program Type Elective
+Prerequisite CY 514 (Quantum Chemistry and
+
+Title Biophysical Techniques: Theory and Number CY5XX
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc/PhD Program, B.Tech Type Elective
+
+Course Title Stochastic Problems in Biophysics Number CY758
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for PhD (CY) Program Type Elective
+
+Course Title Polymer Dynamics Course No. CY760
+Department Chemistry L-T-P[C] 3-0-0 [3]
+Offered for PhD (CY) Program Type Elective
+
+Course Title Statistical Mechanics and Molecular Course No. CY758
+Department Chemistry L-T-P [C] 3-0-0 [3]
+Offered for PhD (CY) Program Type Elective
+
+Course Title Advanced Electrochemistry and
+Applications Number CY6xx
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for M.Sc/PhD Program Type Elective

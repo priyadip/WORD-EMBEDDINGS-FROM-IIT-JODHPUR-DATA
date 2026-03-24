@@ -1,0 +1,1143 @@
+SOURCE_PDF: 8fe78573afec_4._20B.Tech_20BB_09102020.pdf
+
+1. Introduction
+Every life form, beginning from microscopic bacteria to multicellular organisms, can be considered as a system 
+that has been perfected over millennia by Evolution. Beginning from thermodynamically efficient cellular 
+processes to the molecular motors driving the bacterial flagella, each product of evolution is an optimized 
+engineering design that can be translated into real-life applications across disciplines. Today’s interdisciplinary 
+biology is well complemented by engineering domains including electronics, computer science, mechanics, and 
+materials engineering. Computational biology, for example, permits solving biology problems using statistical, 
+artificial intelligence and machine learning approaches. Extensive use of computational biology is essential in 
+data-driven approaches including Genomics, Proteomics, Transcriptomics, and Metabolomics. This 
+amalgamation of biology and computer science has transformed the landscape of the infectious and non-
+infectious diseases research allowing the development of new diagnostic and therapeutic modalities. Today’s 
+disease diagnosis is much more specific and sensitive, thanks to biosensors, which have far-reaching 
+applications not only in healthcare but also in the environment, energy, and agriculture. Some applications 
+include in-situ biosensors for human biochemical parameters, environmental contaminants, soil moisture, soil 
+physicochemical parameters, etc. Advances in Biology have not only permitted the early diagnosis of disease 
+but have also contributed abundantly to therapeutic interventions. It is now possible to intervene in diseases 
+taking a multi-pronged approach, including the development of new drugs; production of recombinant 
+therapeutics; development of implantable sensors, control systems; and editing genetic defects. Similarly, 
+synthetic biology and genome editing tools have enabled the development of industrially important organisms 
+for biofuel production as well as environmental remediation. Together, these technologies have significantly 
+contributed to extending the healthy lifespan of the human race and have shown promise towards food, water, 
+and energy security. In other words, bioengineering as a discipline has evolved to a great extent in last couple 
+of decades and now demands a different intellectual outlook and scientific understanding for its further study. 
+Therefore, an undergraduate academic program in Bioengineering should reflect this rapid evolution of the 
+discipline, underlying scientific and technological advancements and interdisciplinary cross talk so as to capture 
+the mind of the next generation. 
+ 
+The Indian Institute of Technology Jodhpur is committed to achieving excellence in shaping the young minds 
+of tomorrow with a unique blend of teaching techniques and hands-on research-based learning. The Institute 
+works towards the holistic development of students allowing them to be able to assume leadership positions in 
+Industry, Academia, and Entrepreneurial ventures. The Department of Bioscience & Bioengineering is 
+committed to this goal and has developed academic programs that are interdisciplinary in nature and include 
+a substantial component of courses from other science and engineering Departments. The Department aspires 
+to produce Graduates, who can develop solutions to tackle local and global problems related to healthcare, 
+energy, environment, water, and food. 
+ 
+2. Objectives of the program
+The B. Tech. program in Bioengineering at IIT Jodhpur aims to equip our graduates with in-depth knowledge 
+and hands-on training in areas that will be relevant for the next decade. The curriculum aims to impart 
+knowledge and skills to budding engineers to address future challenges. This includes innovative pedagogy 
+and highly interdisciplinary approach towards problem-solving. 
+ 
+The key objectives of this program are: 
+1. To provide a strong foundational understanding of concepts in biology, engineering, mathematics, and allied
+sciences, enabling students to approach bioengineering problems through interdisciplinary lenses.
+2. To stimulate the development of disruptive technologies and futuristic research in the domains of healthcare,
+energy, and the environment
+3. Expected Graduate Attributes 
+ 
+1. Graduates of the B. Tech program in Bioengineering will: 
+2. be able to choose, design, develop, and implement engineering solutions to solve technical problems in
+bioscience and bioengineering using trans-disciplinary knowledge and skill set.
+3. be able to think out-of- the box to solve critical challenges and be able to innovate novel technologies for
+affordable healthcare, clean energy, sustainable agriculture, and safe environment.
+
+4. be able to work effectively as a member and leader in a multi-disciplinary team. 
+5. have the requisite skills and knowledge to be bio-entrepreneurs. 
+6. be able to effectively communicate biological/ bioengineering problems and solutions within the
+professional sphere and with the society at large.
+7. be committed to high ethical standards in professional and social practices. 
+ 
+4. Learning Outcomes
+1. Graduates of the B. Tech program in Bioengineering: 
+2. Will have comprehensive understanding of the essential concepts of bioscience and bioengineering
+encompassing cell and molecular biology, physiology, immunology, microbiology, genetics, genetic 
+engineering, multi-omics, computational and systems biology.
+3. Will gain trans-disciplinary knowledge and skill sets pertaining to biosensors, bioimaging, biomedical device
+development, biomaterials engineering and drug discovery.
+4. Will be able to design, develop and implement technological solutions related to affordable healthcare, clean
+energy, sustainable agriculture and safe environment adopting a trans-disciplinary approach.
+5. Will gain a strong understanding of the fundamentals of basic science, engineering, designing, computing
+and will get hands-on training on cutting edge technologies.
+6. Will be able to apply the knowledge of artificial intelligence and machine learning in solving complex
+biological problems.
+7. Will learn to think critically to solve complex problems pertaining to bioscience and bioengineering. 
+8. Will develop communication skills (verbal and written) to communicate effectively in the professional and
+social sphere.
+9. Will be committed to high ethical standards. 
+10. Will gain the knowledge and skills required to be an innovator-entrepreneur. 
+ 
+5. New skillsets targeted
+Ability to: 
+1. Design and develop AI-based technologies in healthcare, environment, and agriculture. 
+2. Analyze spatial complexity of living systems using imaging and image processing. 
+3. Analyze and solve complex problems in the diverse fields of bioscience and bioengineering using omics
+and systems biology.
+4. Integrate multidisciplinary technologies for the development of lab-on-chip devices, biosensors, and other
+smart devices.
+5. Integrate omics data to quantitative structure-activity relationship for drug discovery and development 
+6. Design and develop smart biomaterials using micro- and nano-scale technologies 
+7. Design novel strategies for tissue engineering application 
+8. Design new therapeutic molecule in silico.
+
+Area Topics Category (Core/
+Techniques
+Technology/Systems) Course (IE/IS/PC/PE)
+Omics • Cells and organelles Core and Techniques Concepts & Dynamics:
+Molecular Cell Biology
+(PC 4th)
+Pre/Co-Req:
+Biochemistry (PC 3rd)
+• DNA, RNA, Proteins, Core and Techniques Biochemistry
+(PC 3rd)
+Pre/Co-Req: None
+• Inheritance Core, Techniques and
+Systems Genetics & Gene
+• Polymerase chain reaction Manipulation (PC 5th)
+• Gene therapy Pre/Co-Req: None
+• Genomics Core and Techniques Introductory Omics
+(PC 6th)
+Pre/Co-Req: Concepts
+& Dynamics:
+Molecular Cell Biology
+(PC 4th) Introductory Omics
+• Transcriptomics (PC 6th)
+• Proteomics Pre/Co-Req: Concepts
+• Metabolomics & Dynamics:
+• Mass Spectroscopy Molecular Cell Biology
+• Microbial communities
+• Metagenome library
+• Metagenome sequencing • Microbial communities Core and Techniques Microbiomes and
+• Metagenome library Metagenomics (PE)
+• Metagenome sequencing Pre/Co-Req:
+• Biological networks and
+pathways
+• Data modeling
+• Multi-omics integration Systems Computational
+• Omics analysis algorithms Core, Techniques and
+Systems Microarray data
+analysis (PE)
+Pre/Co-Req: None Microarray data
+• DNA microarray analysis (PE)
+• Data normalization Pre/Co-Req: None
+• Neural network
+• Deep learning models
+• Deep generative models
+• Representation learning Systems Deep Learning (PC
+• Neural network 6th)
+• Deep learning models (From CS)
+• Deep generative models Pre/Co-Req:
+• Representation learning Introduction to
+Biomaterials
+Engineering • Biocompatibility and Core, Techniques and
+Systems Biomaterials
+Engineering (PC 6th)
+Pre/Co-Req: None Biomaterials
+Biodegradability Engineering (PC 6th)
+• Biomaterial characterization Pre/Co-Req: None
+• Cell adhesion on substrate Core and Techniques Cell-material
+Interactions (PE)
+6. Topic clouds and Mapping of Topic clouds with proposed courses 
+ 
+Table 1 Topics and Mapping of Topic with Courses
+
+• Tissue repair and regeneration
+• Scaffolds
+• Animal cell culture Core, Techniques and
+Systems Tissue Engineering
+• Sustained, on-demand and Core, Techniques and
+Systems Therapeutic delivery
+systems (PE)
+Pre/Co-Req:
+Biomaterials
+Engineering (PC 6th) Therapeutic delivery
+targeted delivery systems (PE)
+• Drug loading and drug release Pre/Co-Req:
+• Pharmacokinetics and Biomaterials
+pharmacodynamics Engineering (PC 6th)
+• Human locomotion
+• Tissue mechanics
+• Viscoelasticity • Human locomotion Core Principles of
+• Tissue mechanics Biomechanics (PE)
+• Viscoelasticity (From ME)
+• 3D printing
+• Field deposition model (FDM)
+• Selective laser sintering
+• Stereo lithography Techniques and
+Systems Additive
+• Bio-transport
+• Hemodynamics
+• Momentum conservation
+• Bio-rheology Core and Systems Bio-transport
+Computational
+& Systems
+Biology • Bioinformatics
+• Bio computation
+• Mathematical modelling Core and Techniques Computational and
+• Numerical Methods for PDE
+• Ordinary Differential
+Equations Core and Techniques Mathematical Biology
+• Methods and method Core, Techniques and
+Systems Algorithms in biology
+(PE)
+Pre/Co-Req: None Algorithms in biology
+development in computational (PE)
+biology Pre/Co-Req: None
+• Biosystems Core and Techniques Modelling biological
+• Boundary conditions systems (PE)
+• Experiment design
+• validation • Experiment design Core Design of experiments
+• validation (PE)(From MA)
+
+Bioimaging • Optical microscopy
+• Fluorescence microscopy
+• Digital imaging
+• Medical imaging Core, Techniques and
+Systems Bioimaging (PC 6th)
+(From CS/EE)
+Pre/Co-Req: None
+• Fourier transform theory
+• Filtering
+• Image enhancement Techniques and
+Systems Digital Image
+• Image reconstruction
+• Image restoration
+• Deep learning
+• 2D, 3D registration Techniques and
+Systems Bio-image computing
+(PE) (From CS)
+Pre/Co-Req:
+Bioimaging (PC 6th) Bio-image computing
+• Electron scattering and
+diffraction
+• Scanning and transmission
+• Immuno and cryo-electron
+microscopy Techniques and
+Systems Electron microscopy
+for biology (PE)
+(From CY)
+Pre/Co-Req:
+Bioimaging (PC 6th)
+Biosensors • Impedimetric, voltammetric, Core, Techniques and
+Systems Biosensors (PC 5th)
+amperometric, electrical, optical (From EE)
+sensors Pre/Co-Req:
+• Selectivity and sensitivity Biochemistry (PC 3rd)
+• Genetic circuits for Techniques and
+Systems Whole cell based
+biosensors biosensors (PE)
+• RNA based sensors Pre/Co-Req:
+• Reporter genes Biosensors (PC 5th)
+• Lithography
+• Micromachining
+• MEMS • Lithography Techniques and
+Systems Microsystems
+• Micromachining Fabrication
+• MEMS Technology (PE)(From
+• Aptamer sensor
+• Cation-selective sensor
+• Dendrimer based sensor Techniques and
+Systems Chemosensors (PE)
+Microbial
+systems for
+sustainable
+development • Microbial phylogeny Core and Systems Microbiology (PC 3rd) Microbiology (PC 3rd)
+• Wastewater treatment
+• Bio-geo chemical cycling
+• Solid waste management
+• In situ and ex situ
+bioremediation • Wastewater treatment Systems Microbial remediation
+• Bio-geo chemical cycling and Environmental
+• Solid waste management Biotechnology (PE)
+• In situ and ex situ Pre/Co-Req:
+bioremediation Microbiology (PC 3rd)
+• Probiotic, symbiotic, plant – Systems Microbes in food and
+microbe interaction sustainable agriculture
+• Fortified food (PE)
+• Nutritional supplements Pre/Co-Req:
+• Single cell protein Microbiology (PC 3rd)
+
+• Solid , liquid, gaseous
+biofuels
+• Engineering microbes for
+biofuel production
+• Different generations of
+biofuels and sustainability analysis Systems Bioenergy (PE)
+Pre/Co-Req:
+Microbiology (PC 3rd) Bioenergy (PE)
+Drug design • Protein-protein interaction
+• Protein crystallography
+• Protein folding Core and Techniques Biophysics and
+and Structural Biology (PC
+Development Development 6th)
+• Drug targets
+• Computer-aided drug
+design
+• Virtual screening Core, Techniques and
+Systems Principles of Drug
+• Pharmacophore Core and Techniques Medicinal chemistry
+(PE) (CY)
+Pre/Co-Req: None Medicinal chemistry
+• Drug metabolism (PE) (CY)
+• Chiral drug molecule Pre/Co-Req: None
+• Virus life cycle Core, Techniques and
+Systems Viral infection and
+antiviral drug
+development (PE)
+Pre/Co-Req: None
+Fundamental
+courses • Innate immunity Core and Techniques The Human Immune
+System: Mechanisms
+to Detect, Defend and
+Attack (PC 4th)
+Pre/Co-Req: None
+• Membrane transportation Core The Human Machine
+• Muscle mechanics for Engineers:
+• Membrane potential Quantitative
+• Cardiovascular, pulmonary, Physiology (PC 5th)
+renal physiology Pre/Co-Req: None
+
+S.N. Course Type Course Category Regular Double B.Tech.
+Credit Credit Tota Credit Credit Total Total
+1 Institute Core (I) Engineering (IE) 34 69 34 59
+Science (IS) 16 16
+Humanities (IH) 12 9
+2 Programme Linked (L) Science (LS) 7 0
+3 Programme Core (P) Programme Compulsory (PC) 50 71 50 71
+Programme Electives (PE) 18 18
+B.Tech. Project (PP) 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0
+5 5 Engineering Science Engineering Science Core (EC) 0 0 22 22
+(E) Engineering Science Elective (EE) 0 0 8 8
+Total Graded 150 160
+6 Non-Graded (N) Humanities (NH) 6 15 6 15
+Engineering (NE) 3 3
+Design/Practical Experience (ND) 6 6
+Total Graded + Non-Graded 165 175
+7. Course Categories, credit distribution and Credit Structure of B. Tech Programmes 
+ 
+Table 2 Proposed Course Categories and credit distribution in the proposed B. Tech Programmes
+
+Type L-T-P Distribution of contact and beyond contact hours Total
+Contact Hours Beyond Contact Total Hours Credits
+(CH) Hours (BCH) (TH) (TC=TH/3)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+8. Credit Structure of B. Tech Programmes 
+ 
+ Table 4 Credit Structure for B. Tech Programmes (Up 6000 Level)
+#Contact hour for project refers to the involvement of students in the laboratory, discussion, etc.
+
+S. No Course Name Semester L-T-P Contact
+Hours Credit
+1 Biochemistry III 3-0-0 3 3
+2 Microbiology III 3-0-2 5 4
+3 Data Structures and Algorithms IV 3-0-2 5 4
+4 Concepts and Dynamics: Molecular Cell
+Biology IV 2-0-2 4 3
+5 The Human Immune System: Mechanisms
+to detect, defend and Attack IV 3-0-0 3 3
+6 Biochemistry Laboratory IV 0-0-2 2 1
+7 Computational and Systems Biology V 3-0-2 5 4
+8 The Human Machine for Engineers:
+Quantitative Physiology V 3-0-0 3 3
+9 Biophysics and Structural Biology VI 3-0-1 4 3.5
+10 Genetics and Gene manipulation V 3-0-2 5 4
+11 Biosensors V 3-0-2 5 4
+12 Bioimaging VI 3-0-0 3 3
+13 Introductory Omics VI 3-0-0 3 3
+14 Biomaterials Engineering VI 3-0-0 3 3
+15 Deep Learning VI 3-0-3 6 4.5
+Total 50
+9. List of Programme Compulsory Courses 
+ 
+ Table 5 Programme Compulsory Courses
+
+S. No. Stream Courses L-T-P Credit
+1 Omics - Microbiomes and metagenomics (level 4) 3-0-0 3
+- Computational methods for multi-omics (level 3-0-2 4
+2 Biomaterials
+Engineering - Cell-material interactions (level 4) 3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0
+3-0-0 3-0-0 3
+3
+3
+3
+3
+3 3
+- Tissue engineering (level 4) 3-0-0 3
+- Therapeutic delivery systems (level 4) 3-0-0 3
+- Principles of biomechanics (level 4; from ME) 3-0-0 3
+3 Computationa
+l and Systems
+Biology - Mathematical biology (level 4; from MA)
+- Algorithms in biology (level 4)
+- Modelling of biological systems (level 4)
+- Design of experiments (level 4; from MA) - Mathematical biology (level 4; from MA) 3-0-0
+3-0-0
+2-0-2
+3-0-0 3
+- Algorithms in biology (level 4) 3
+- Modelling of biological systems (level 4) 3
+- Design of experiments (level 4; from MA) 3
+4 Bioimaging - Electron microscopy for biology (level 4/6; from 3-0-0
+3-0-0
+3-0-0 3
+3
+3 3
+- Special topics on biomedical imaging (level 4) 3
+5 Biosensors - Whole cell based biosensors (level 4) 3-0-0
+3-0-0
+3-0-0
+3-0-0 3
+3
+3
+3
+6 Microbial
+systems for
+sustainable
+development - Microbial remediation and environmental 3-0-0 3
+3
+3
+- Microbes in food and sustainable agriculture 3-0-0
+7 Drug design
+and
+development - Principles of drug discovery (level 4) 3-0-0
+3-0-0
+3-0-0 3-0-0 3
+3
+3
+- Medicinal chemistry (level 4) 3-0-0
+- Viral infection and antiviral drug development 3-0-0
+10. Area-wise Programme Elective Courses
+Table 6 Stream-wise Programme Electives Courses
+
+S.
+No. Name of
+Specialization Specialization Core (8 credits) Specialization Elective (12 Credits)
+1 Therapeutic
+engineering and
+drug discovery • Modern approaches of drug
+designing (3-0-0)
+• Introduction to Precision Medicine
+(3-0-0)
+• AI based drug discovery (2-0-0) • Principles of drug discovery (3-0-
+2 Microbial systems
+engineering • Engineering Microbes (3-0-0)
+• Bioprocess Engineering and
+Fermentation (3-0-0)
+• Mathematical modelling of microbes
+(1-0-2) • Microbial Nanotechnology (3-0-0)
+11. Specialization to be offered by the department 
+ 
+Table 7 Specialization and courses
+
+Cat Course LTP CH N
+C GC Ca
+t Course LTP CH NC GC
+I Semester II Semester
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry
+Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics
+I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering Design
+II 0-0-2 2 1 -
+NH Communicat 0-0-2 2 1 - N
+H Communication Skill
+II 0-0-2 2 1 -
+NH Social 0-0-1 1 0
+.
+5 - N
+H Social Connect and
+responsibilities II 0-0-1 1 0.5 -
+NH Performing 0-0-1 1 . 0
+5 - N
+H Performing Arts
+II/Sports II 0-0-1 1 0.5 -
+Total 11-2-12 25 3 16 Total 12-1-
+14 27 3 17
+III Semester IV Semester
+LS Probability,
+statistics and
+stochastic
+process 3-1-0 4 - 4 IE Materials Science &
+Engineering
+F1: Materials
+selection,
+F2:Structure of
+materials,
+F3:Polymers 3 ×
+(1-0-0) 3 - 3
+IE Signals and
+Systems 3-1-0 4 - 4 IE
+PC
+PC
+PC
+PC Thermodynamics
+Data Structure and
+Algorithm
+Concepts &
+Dynamics: Molecular
+Cell Biology
+The Human Immune
+System: Mechanisms
+to Detect, Defend
+and Attack 3-1-0
+3-0-2
+2-0-2
+3-0-0
+0-0-2 4
+5
+4
+3
+2 - 4
+IE
+PC
+PC Introduction
+to Machine
+Learning
+Biochemistry
+Microbio
+logy 3-0-2
+3-0-0
+3-0-2 5
+3
+5 -
+-
+- 4
+3
+4 - 4
+12. Curriculum of B.Tech. Bioengineering (Regular) 
+ 
+Table 8a. Curriculum of B.Tech in BB
+
+LS Nanoscience 3-0-0 3 - 3 IH Humanities I 3-0-0 3 - 3
+NE Intro. To 0-0-2 2 1
+Total 18-2-6 26 1 22 Total 17-1-6 24 - 21
+V Semester VI Semester
+PC PC Programme 3-0-2
+3-0-0
+3-0-2
+3-0-2 5
+3
+5
+5 -
+-
+-
+-
+- 4
+3
+4
+4 PC PC Programme
+Compulsory
+Introductory Omics
+Biomaterials
+Engineering
+Biophysics &
+Structural Biology
+Deep Learning
+Bioimaging 3-0-0
+3-0-0
+3-0-1
+3-0-3
+3-0-0 3
+3
+4
+6
+3 -
+-
+-
+-
+- 3
+3
+3.5
+4.5
+3
+nal and 3
+System 3
+Biology 3.5
+Machine for 4.5
+Physiology 3
+Program 3-0-0 3 3
+IH Humanities
+II 3-0-0 3 - 3 PE Program Elective -II 3-0-0 3 3
+NH Professional 0-1-0 1 1 - N Professional Ethics II 0-1-0 1 1 -
+Total 18-1-6 25 1 21 Total 18-1-4 23 1 20
+VII Semester VIII Semester
+PP B. Tech.
+Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE
+/
+OE Programme
+Elective-III
+&IV 6-0-0 6 - 6 PE
+/
+OE Programme Elective
+5&6 6-0-0 6 - 6
+Open 6-0-0 6 6 Open Electives -III &
+IV 4-0-0 4 4
+IH Humanities
+III 3-0-0 3 3
+IS Environmen
+tal Science 2-0-0 2 - 2
+Total 17-0-6 23 - 20 Total 13-0-0 13 - 13
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 1
+5 165
+
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE Programme
+Elective-III &IV Programme 6-0-0 6-0-0 6 6 - 6 6 PE Programme Elective
+5&6 Programme Elective 6-0-0 6-0-0 6 6 - - 6 6
+Open Electives - 6-0-0 6 6 Open Electives -III & 4-0-0 4 4
+Specialization 3-0-0 3 3 Specialization 3-0-0 3 3
+Elective -I Elective -II
+IH Humanities III Humanities III 3-0-0 3 - 3 Specialization 0-0-8 8 4
+IS Environmental 2-0-0 2 - 2
+Total 20-0-6 26 - 23 Total 16-0-8 24 - 20
+Total of graded and Non-Graded Credit 9 160
+Non-Graded Design Credits 6 -
+Grand Total 15 175
+Cat Course LTP C N G
+C Ca Course LTP CH N GC
+I Semester II Semester
+IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4 IE Engineering
+Mechanics 2-1-0 3 - 3
+IE Introduction to
+Computer
+Science 3-0-2 5 - 4 IS Chemistry 3-0-0 3 - 3
+IE Introduction to
+Bioengineering 3-0-2 5 - 4 IS Physics 3-0-0 3 - 3
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communication 0-0-2 2 1 - N Communication 0-0-2 2 1 -
+NH Social Connect 0-0-1 1 0.
+5 - N
+H N Social Connect 0-0-1 1 0.
+5 -
+and H and
+responsibilities I responsibilities II
+NH Performing Arts 0-0-1 1 0.
+5 - N Performing Arts 0-0-1 1 0. -
+I /Sports I H II/Sports II 5
+Total 12-1-14 27 3 17 Total 11-2-12 25 3 16
+III Semester IV Semester
+LS Programme
+linked
+Mathematics Core 3-1-0 4 - 4 IE Materials Science
+& Engineering 3 ×
+1-0-0 3 - 3
+PC Data Structures
+and Algorithms 3-0-2 IE Pattern 3-0-2 5 - 4
+IE Thermodynamics 3-1-0 4 - 4 PC
+Distribution of courses in 7th & 8th Semester for specialization
+Table 8b. Curriculum of B.Tech.in AI/CS/EE Engineering
+
+IE Signals and
+Systems 3-1-0 4 - 4 Programme 6-0-0
+0-0-4
+0-2-0 6
+4
+2 -
+-
+- 6
+2
+2
+LS Programme
+linked Science
+Core 3-0-0 3 - 3 IH Humanities I 3-0-0 3 - 3
+NE Intro. To 0-0-2 2 1
+Total 15-3-4 22 1 19 Total 15-2-6 23 - 20
+V Semester VI Semester
+PC PC Programme 12-0-0
+0-0-8
+0-2-0 12
+8
+2 -
+-
+- 12
+4
+2 PC PC Programme 12-0-0
+0-0-8
+0-2-0 12
+8
+2 -
+-
+- 12
+4
+2
+Compulsory 12 Compulsory 12
+IH Humanities II 3-0-0 3 - 3 PE Programme/Ope
+n Elective 3-0-0 3 3
+NH Professional 0-1-0 1 - N Professional 0-1-0 1 -
+Ethics I H Ethics II
+Total 15-3-8 25 1 21 Total 15-3-8 25 1 21
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE
+/
+OE Programme/Ope
+n Electives 10-0-0 10 - 10 PE
+/
+OE Programme/Ope
+n Electives 15-0-0 15 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 15-0-6 21 - 18 Total 18-0-0 18 - 18
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 15 165
+
+Cat Course LTP CH N GC Cat Course LTP CH NC GC
+I Semester II Semester
+III Semester IV Semester
+ES ES Probability, Statistics, 3-1-0 4 - 4 I E Materials Science
+& Engineering 3 ×
+1-0-0 3 - 3
+ES Morden Physics Morden Physics 3-0-0 3 - 3 ES Embedded 3-0-2 5 - 4
+IE Thermodynamics 3-1-0 4 - 4 IE Pattern
+Recognition and
+Machine Learning 3-0-2 5 - 4
+ES Data Structures and 3-0-2 5 - 4 ES Design of 3-0-0 3 - 3
+Algorithms Experiments
+IE Signals and Systems 3-1-0 4 - 4 E S Control Systems 3-0-2 5 - 4
+NE Intro. To Profession 0-0-2 2 1 IH Humanities I 3-0-0 3 - 3
+Total 15-3-4 22 1 19 Total 18-0-6 24 - 21
+V Semester VI Semester
+PC
+H PC Programme
+Compulsory
+Biochemistry
+Microbiology
+Computational
+and System
+Biology
+Genetics and Gene
+Manipulation
+Biosensors
+Humanities II Programme 3-0-0
+3-0-2
+3-0-2
+3-0-2
+3-0-2
+3-0-0 3
+5
+5
+5
+5
+3 3
+4
+4
+4
+4
+3 PC C Programme 2-0-2
+0-0-2
+3-0-0
+3-0-3
+3-0-0
+3-0-0 4
+2
+3
+6
+3
+3 -
+-
+-
+-
+-
+- 3
+1
+3
+4.5
+3
+3
+Compulsory Compulsory
+- 3 Concepts & 3
+Biochemistry Dynamics:
+- 4 Molecular Cell 1
+Microbiology Biology
+Computational Biochemistry
+and System Laboratory 5
+Biology - 4
+Introductory 3
+Genetics and Gene Omics
+Manipulation - 4
+Deep Learning 3
+H - 3 Bioimaging
+Humanities II The Human
+Biophysics & 3-0-1 4 - 3.5
+NH Professional Ethics 0-1-0 1 - NH Professional 0-1-0 1 -
+Total 18-1-8 26 1 22 Total 17-1-8 25 1 21
+VII Semester VIII Semester
+PP PP B. Tech. Project B. Tech. Project 0-0-6 6 - 3 3 PC C Biomaterials 3-0-0 3 - 3
+13. Curriculum of Double B.Tech. :B.Tech. Bioengineering and Engineering Science 
+ 
+ Table 9. Programme structure of Double B.Tech.
+
+/ neering Science
+S Electives
+PC Programme 3-0-0 3 -
+- 3 IH H Humanities III Humanities III 3-0-0 3 - 3
+IS Environmental 2-0-0 2 - 2
+Total 20-0-6 26 - 23.0 Total 21-0-0 21 - 21
+Total of graded and Non-Graded Credit 9 160
+Non-Graded Design Credits 6 -
+Grand Total 15 175
+Note: ES are proposed Engineering Science compulsory courses
+
+Title Biochemistry Number
+Department Biosciences & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Compulsory
+Prerequisite None
+
+Title Microbiology Number
+Department Bioscience & Bioengineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech Type Compulsory
+Prerequisite None
+
+Title The Human Immune System: Mechanisms to Detect,
+Defend and Attack Number
+Department Biosciences & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech Type Compulsory
+Prerequisite None
+
+Title Concepts and dynamics: molecular cell
+biology Number
+Department Biosciences & Bioengineering L-T-P [C] 2–0–2 [3]
+Offered for B. Tech Type Compulsory
+Prerequisite None
+
+Title Biochemistry Laboratory Number
+Department Biosciences & Bioengineering L-T-P [C] 0–0–2 [1]
+Offered for B. Tech Type Compulsory
+Prerequisite Biochemistry (PC 3rd)
+
+Course Title Computational and Systems Biology Course No. BBL3XXX0
+Department Bioscience and Bioengineering Structure (L-T-P-C) 3-0-2 [4]
+Offered for B.Tech. Type Program Compulsory (PC)
+Pre-requisite Pre-requisite Basic understanding of molecular
+
+Title The Human Machine for Engineers:
+Quantitative Physiology Number
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Type Compulsory
+Prerequisite None
+
+Title Biophysics and Structural Biology Number
+Department Bioscience and Bioengineering L-T-P [C] 3–0–1 [3.5]
+Offered for B. Tech Type Compulsory
+
+Course Title Genetics and Gene Manipulation Number
+Department Bioscience and Bioengineering L-T-P [C] 3-0-2 [4]
+Offered for B. Tech Type Compulsory
+Pre-requisite None
+
+Title Introductory Omics Number BBL4XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Compulsory
+Prerequisite None
+
+Title Biomaterials Engineering Number
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Compulsory
+Prerequisite None
+
+S. No Title of the course Offered by
+1 Microbiomes and Metagenomics BSBE
+2 Computational Methods for Multi-omics BSBE
+3 Microarray Data Analysis BSBE
+15. Detailed Course Content of Programme Elective Courses
+
+Title Microbiomes and Metagenomics Number BBL4XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Type Elective
+
+Title Computational Methods for Multi-
+omics Number BBL4XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech Type Programme Elective (PE)
+Prerequisite Introductory Omics
+
+Title Microarray Data Analysis Course No. BB4XX0
+Department Bioscience and Bioengineering Structure (L-T-P-C) 3-0-0 [3]
+Offered for B.Tech. Type Elective
+Pre-requisite Basic understanding of molecular biology and
+
+S. No Title of the course Offered by
+1 Cell-Material Interactions BSBE
+2 Tissue Engineering BSBE
+3 Therapeutic Delivery Systems BSBE
+4 Principles of Biomechanics ME
+5 Additive Manufacturing ME
+Biomaterials Engineering
+
+Title Cell-Material Interactions Number BBL4XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Elective
+Pre/Co-requisite Biomaterials Engineering (PC)
+
+Title Tissue Engineering Number BBL4XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Elective
+Prerequisite Biomaterials Engineering (PC)
+Cell-Material Interactions (PE)
+
+Title Therapeutic Delivery Systems Number BBL4XX0
+Department Bioscience and Bioengineering L-T-P [C] 2–0–0 [2]
+Offered for B. Tech Type Elective
+Prerequisite Biomaterials Engineering (PC)
+
+Title Bio-Transport Phenomena Number
+Department BSBE/ME/ChE L-T-P (C) 3-0-0 (3)
+Offered for B.Tech Type PE
+Prerequisite None
+
+S. No Title of the course Offered by
+1 Algorithms in Biology BSBE
+2 Modelling Biological Systems BSBE
+3 Mathematical Biology MA
+4 Design of experiments MA
+Computational and Systems Biology
+
+Title Algorithms in Biology Number BB6XX
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0[3]
+Offered for B.Tech Type Elective
+Prerequisite Nil
+
+Course Title Modelling Biological Systems Course No. BBL3XX0
+Department Bioscience and Bioengineering Structure (L-T-P-C) 2-0-2 [3]
+Offered for B.Tech. (BB) Type Program Elective (PE)
+
+S. No Title of the course Offered by
+1 Electron microscopy for Biology CY
+2 Digital Image processing CS
+3 Special topics in Biomedical Imaging BSBE
+4 Bio-image computing CS
+Bio imaging
+
+S. No Title of the course Offered by
+1 Whole cell based biosensors BSBE
+2 Microsystems fabrication technology EE
+3 Special topics in biosensors BSBE
+4 Chemosensors CY
+Biosensors
+
+Title Whole Cell based Biosensors Number BBL4XX0 (Level
+400)
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Elective
+Pre / Co-requisite Biosensors (PC)
+
+S. No Title of the course Offered by
+1 Microbial remediation and environmental biotechnology BSBE
+2 Microbes in food and sustainable agriculture BSBE
+3 Bioenergy BSBE
+Microbial Systems for Sustainable Development
+
+Title Microbial remediation and Environmental
+Biotechnology Number BBL4XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B Tech. Type Elective
+Prerequisite Microbiology (PC)
+
+Title Microbes in food and sustainable agriculture Number BBL4XX0
+Department Biosciences & Bioengineering Structure 3-0-0 [3]
+Offered for B. Tech. Type Elective
+Prerequisite Microbiology (PC)
+
+Title Bioenergy Course BBL4XX0 (Level 4)
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for B Tech. Type Elective
+Prerequisite Microbiology (PC)
+
+S. No Title of the course Offered by
+1 Principles of drug discovery BSBE
+2 Medicinal chemistry CY, BSBE
+3 Viral infection and antiviral drug development BSBE
+Drug Design and Development
+
+Title Principles of drug discovery Number BBL4XX0 (Level 400)
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Elective
+Pre/Co-requisite Biophysics and Structural Biology (PC)
+Biochemistry (PC)
+
+Title Medicinal Chemistry Number BBXXX
+Department BSBE L-T-P [C] 3–0–0 [3]
+Offered for B.Tech Type Elective
+
+Title Viral infection and antiviral drug development Number
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Elective
+Prerequisite Biochemistry
+
+Specialization Core (8 credits) Specialization Elective (12 Credits)
+- Engineering Microbes (3-0-0)
+- Bioprocess Engineering and
+Fermentation (3-0-0)
+- Mathematical modelling of microbes (1-
+0-2) - Microbial Nanotechnology (3-0-0)
+- Metabolic Engineering for biofuels (2-0-0)
+- Microbial remediation and environmental
+biotechnology
+- Microbes in food and sustainable agriculture
+- Bioenergy (3-0-0)
+- Soil Microbiome & Microbial Technology (2-
+0-0)
+- Biofilms: Bacterial communities (3-0-0)
+- Gut microbiomes in health and diseases (3-0-
+0)
+- Downstream processing (3-0-0)
+- Industry collaborated project
+4 credit (0-0-6) x 1
+16. Detailed Course Content of Departmental Specializations 
+ 
+Microbial Systems Engineering
+
+Title Engineering Microbes Number
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0[3]
+Offered for B.Tech Type Specialization Compulsory
+Prerequisite Genetics & Gene Manipulation (PC)
+
+Title Bioprocess Engineering & Fermentation Number BBL4XX0
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for B Tech. Type Specialization
+Compulsory
+Prerequisite Microbiology (PC)
+
+Course Title Mathematical modelling of Course No. BBL4XX0
+Department Bioscience and Bioengineering Structure (L-T-P-C) 1-0-2 [2]
+Offered for B.Tech. (BB) Type Specialization Compulsory
+
+Title Microbial Nanotechnology Number
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Specialization Elective
+Prerequisite None
+
+Course Title Biofilms: Bacterial communities Course No.
+Department Biosciences & Bioengineering Structure (L-T-P:C) 3-0-0 [3]
+Offered for Type Specialization Elective
+Pre-requisite Microbiology
+
+Title Metabolic Engineering for biofuels Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 2–0–0 [2]
+Offered for Type Specialization Elective
+
+Title Soil Microbiome & Microbial Technology Number BBL7XX0
+Department Bioscience and Bioengineering L-T-P [C] 2–0–0 [2]
+Offered for Type Specialization Elective
+
+Title Gut Microbiome in Health & Disease Number BBL4XX0
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (BB) Type Specialization Elective
+Prerequisite Basic understanding of Microbiology
+
+Title Downstream processing Number BBL4XX0 (Level 400)
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Specialization Elective
+Pre/Co-requisite Bioprocess Engineering and Fermentation
+
+Specialization Core (8 credits) Specialization Elective (12 Credits)
+- Modern approaches of drug designing
+(3-0-0)
+- Introduction to Precision Medicine (3-
+0-0)
+- AI based drug discovery (2-0-0) - Anti-microbial drug and drug resistance (2-0-0)
+- Anticancer drug discovery and development
+(3-0-0)
+- Modern approaches for immunotherapy (3-0-0)
+- Novel Drug Delivery Systems (3-0-0)
+- Theranostic Systems (3-0-0)
+- Industry collaborated project
+4 credit (0-0-6) x 1
+
+Title Modern approaches of drug designing Number BBL4XX0 (Level 400)
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Specialization Compulsory
+Prerequisite Biophysics and Structural Biology (PC)
+Biochemistry (PC)
+
+Title Introduction to Precision medicine Number
+Department Bioscience & Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech Type Specialization
+Compulsory
+
+Title AI based drug discovery Number BB4XX
+Department Bioscience & Bioengineering L-T-P [C] 2–0–0[2]
+Offered for Offered for B.Tech B.Tech Type Type Specialization
+Prerequisite Nil
+
+Title Anti-microbial drugs and drug resistance Number BBL4XX0
+Department Bioscience & Bioengineering L-T-P
+[C] 2–0–0 [2]
+Offered for B.Tech. (BB) Type Specialization
+Elective
+Prerequisite Basic understanding of Microbiology
+
+Title Anticancer Drug Discovery and Development Number BBL4XX0 (Level 400)
+Department Bioscience & Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. Program 4th Year Type Specialization Elective
+Prerequisite Biochemistry
+
+Title Modern approaches for
+immunotherapy Number BBL4XX0 (Level 400)
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Specialization Elective
+Pre/Co-
+requisite The human immune system:
+mechanisms to detect, defend and
+attack
+
+Title Novel Drug Delivery Systems Number
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech Type Specialization Elective
+
+Title Theranostic Systems Number
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech Type Specialization Elective
+Prerequisite None
+
+Title Neuroscience Number
+Department Bioscience and Bioengineering L-T-P [C] 3-0-0 [3]
+Offered for B. Tech Type Program-linked Science
+Program-linked Science Elective/Open Elective

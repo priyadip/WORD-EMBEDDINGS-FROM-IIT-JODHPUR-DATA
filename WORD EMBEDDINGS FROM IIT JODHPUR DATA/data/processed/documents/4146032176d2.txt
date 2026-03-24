@@ -1,0 +1,5 @@
+the plant thylakoid membrane hosting the complex lhcii is the site of oxygenic photosynthesis
+contrary to the earlier consensus of single lamellar phase of the thylakoid despite containing lipids recent experiments confirm the polymorphic state of the functional thylakoid
+what then is the origin of this polymorphism and what factors control it
+the current letter addresses the question using total of long simulations of thylakoids with and without lhcii and varying concentrations of lipids using and at the lhcii redistributes the lipids into its annular region increases the bending modulus and the stalk formation free energy reduces the nonzero mean curvature propensity and resists the polymorphism these lipids promote
+the thermodynamic between lipids and lhcii dictates the degree of nanoscopic curvature leading to polymorphism crucial for quenching under excess light conditions

@@ -1,0 +1,360 @@
+dual degree in infrastructure engineering with specialization in environmental engineering introduction the program provides students an opportunity to acquire new technical competences in various environmental models and processes that form the core of relevant engineering practices and future academic and professional environmental leaders
+our future engineers will extend their knowledge from core technical competencies of environmental engineering to understanding of social economic and health consequences of pollution problems natural disasters exceedances climate change and other related threats
+objective of the program expected graduate attributes successful graduate of this program should be able to learning outcomes category program core specialization stream electives sse tech
+elective me open mo project mp graded courses total credits cat
+course title credits semester ii semester pc sse specialization stream sse specialization stream me program elective ng oal7xx0 innovation and ip management total graded total graded iii semester iv semester ng hsn7xx0 professional ethics me program elective me program elective ng oan7xx0 systems mo open elective sse specialization stream sse specialization stream sse specialization stream ng hsn7xx0 technical program structure semester wise distribution of credits total total graded
+air pollution and control
+advanced wastewater treatment
+solid waste management
+remote sensing and gis for environment management
+climate change and impact
+environmental engineering laboratory
+environmental economics and management
+environmental biotechnology and bioremediation
+machine learning for environmental engineering
+statistics for environmental engineering
+environmental impact assessment
+fate of chemicals in the environment
+indoor air pollution
+gis and public health
+environmental and health risk assessment list of core courses
+course title credits
+introduction to sustainable infrastructure engineering list of specialization stream courses
+contaminant transport to environments
+courses topic clouds air pollution and control air pollution and control sources and classification of air pollutants air advanced wastewater treatment introduction to wastewater like municipal solid waste management solid waste type its classification and remote sensing and gis for environment management basic principles of surveying and gis airborne or satellite systems functional imaging technologies and image interpretation basic principles of surveying and gis airborne climate change and impact climate and climate change convection environmental engineering laboratory organic pollution load testing cod bod do nitrogen phosphorus and fluoride testing disinfection method microbiological tests advanced analytical instrumentation organic pollution load testing cod bod do environmental economics and management cost of environmental protection positive and environmental hydrology water food industry nexus transport from environmental biotechnology and bioremediation basics of microbiology kinetics and reactors topic clouds mapped with specialization stream courses machine learning for environmental engineering regression gradient descent support vector statistics for engineering statistics and probability data types error environmental impact assessment evolution of eia forecasting environmental ecological engineering ecological engineering ecosystem valuation fate of chemicals in the environment diffusion dispersion advection partitioning in indoor air pollution indoor environment standards and environmental microbiology microbial evolution and biodiversity microbial biosafety and public health principles of biosafety regulatory bodies and gis and public health gis health application spatial data collection environmental and health risk assessment legal balancing of risks economic costs and geomorphology earth components geological time scale contaminant transport to environments natural and anthropogenic climatic changes no
+program elective course title credits
+stability of slopes list of program
+rock mechanics and rock engineering
+wind and earthquake engineering
+green building and sustainable materials
+traffic flow theory
+traffic system and management
+environmental aspects of power plant
+soil stabilization and ground improvement
+advanced mechanics of solids
+theory of vibration
+ocean thermal energy conversion
+process safety and hazards
+advanced energy systems
+plugin electric vehicles
+gas insulated substations
+power system protection
+security in smart grid
+energy economics and policy
+wind turbine and field design
+wind energy harvesting materials for electrochemical energy conversion and
+tidal energy harvesting
+power plant engineering
+biomass energy conversion
+hydrogen and methanol economy
+fuel cell technology
+electrochemical conversion and storage
+selected topics in distributed generations
+solar energy and application
+artificial title introduction to sustainable number mel7xx0 department civil and infrastructure engineering offered for
+type compulsory prerequisite prerequisite degree course content of program core course title air pollution and control number department civil engineering offered for tech type specialization stream elective course content of specialization stream course air pollution and control dispersion of air pollutants and air quality modeling dispersion models gaussian dispersion model assumptions dispersion parameters and effective stack height plume rise and plume behavior receptor models introduction to dispersion and receptor modeling software lectures
+effects of air pollution on climate and human health tropospheric ozone chemistry photochemical smog acid rain visibility indoor air pollution dose response and health effects lectures
+atmospheric chemistry and from air pollution to climate change seinfeld and pandis john wiley and sons third edition
+aerosol behavior and measurement of airborne particles hinds john wiley and sons second edition
+introduction to air pollution science phalen and phalen jones bartlett
+aerosol measurement principles techniques and applications edited by willeke baron van nostrand reinhold
+online course material title advanced wastewater treatment number department chemical engineering ii civil and infrastructure engineering offered for type programme elective for chemical engineering ii specialization advanced wastewater treatment beds thermal and biological processes for sludge and land fillings
+membrane reactors new technologies for waste water disinfection lectures
+waste water treatment design lab hours clarifier aerator sand filtration system municipal waste water system grey water treatment system sewage water treatment system industrial waste water systems pond water treatment burton tchobanoglous stensel waste water engineering treatment and reuse tata
+and asolekar wastewater treatment for pollution control and reuse tata mcgraw hill
+reference books henze ekama
+and brdjanovic biological wastewater treatment principles modelling and design iwa publishing
+and sincero environmental engineering design approach
+online course material tiwari wastewater treatment and recycling nptel course material department of civil engineering iit kharagpur title solid waste management number department civil and infrastructure engineering solid waste management references books online resources ramachandra municipal soild waste management iisc bangalore solid and hazardous waste management iitm title remote sensing and gis for environment management number department civil and infrastructure engineering offered for type specialization remote sensing and gis for environment management note labs will have use of the latest google earth engine gee qgis erdas imagine and arcgis software
+it will also look into application of remote sensing imagery in soil and water analysis overlaying data retrieved from different subject areas of engineering lidar imagery and other gis data
+list of experiments on surveying based laboratory to assess the distance between two inaccessible points in specific area using compass as well as plotting the area using closed traverse prismatic compass
+to solve and problems using plane table survey
+to understand differential levelling sectional plotting and contouring using automatic levellers
+to survey nearby plot bounded by any polygon using theodolite and also to perform trigonometric levelling to find the characteristics of nearby building
+to plot known area using gps measurements and assess the accuracy of the measurement list of experiments in gis laboratory to create stream network or perform stream order generation or delineate watersheds created by water body using dem files
+to perform site suitability analysis for service building example hospital near to agricultural and inhabited land near an arid village at the edge of an oasis near jodhpur
+basic experiments on image sharpening and image resolution using arc erdas imagine processing tool
+john jenkins remote sensing of the environment an earth prespective lillesand kiefer
+remote sensing and image interpretation edition john wiley and sons
+introduction to environmental remote sensing routledge publisher
+title climate change and impact number offered for cie type specialization climate change and impact climate sensitivity and feedback mechanisms equilibrium climate sensitivity transient climate response feedback concept fast and slow feedback climate sensitivity estimates lectures
+climate variability buffering atmospheric temperature changes coupling el nino and southern oscillations lectures
+climate modeling one layer energy balance model ebm global circulation model difference between weather forecast models and gcms lectures
+climate change impacts and future projections sea level rise ecosystem and biodiversity shifting water resources agricultural impacts severe weather impacts and human health impact assessment of ghgs on global temperature rainfall and drought patterns atmospheric circulation
+atmospheric chemistry and from air pollution to climate change seinfeld fundamentals of atmospheric modeling marck jacobson cambridge university press second edition
+air pollution and global warming history science and solutions mark jacobson cambridge university press second edition
+atmosphere ocean and climate dynamics john marshall ad alan plumb elsevier academic press
+title environmental economics and management number department civil and infrastructure ii school of management and entrepreneurship environmental economics and management life cycle assessment of products processes and services special topics and case studies on environmental economics justice ethics environmental movement environmental activism lectures
+environmental economics charles
+kolstad oxford university press second edition
+environmental economics in theory and practice hanley shorgen
+title environmental hydrology number environmental hydrology leachate impact water aquifers wells recharge ground water mapping lectures
+experimental modeling use the local historical precipitation data of jodhpur and find the probability distribution function which can effectively predict it
+use the local precipitation data as an input to derive synthetic mass curves
+further utilize the data to calculate runoff and land use
+engineering hydrology subramanya fourth edition mcgraw hill education india pvt new delhi isbn
+title environmental biotechnology and bioremediation number ii bioscience and bioengineering offered for cie type specialization stream elective for civil engineering ii program bioscience and bioengineering environmental biotechnology and bioremediation detoxification of hazardous chemicals molecular recalcitrance biodegradation of problem environmental contaminants lectures
+environmental biotechnology principles and applications rittmann mccarty tata mcgraw hill
+bioprocess engineering basic concepts shuler kargi second edition prentice hall
+general microbiology stanier
+freeman and co
+online course material title machine learning for environmental engineering number engineering prerequisite statistics for environmental machine machine learning for environmental engineering dimensionality reduction principal component analysis random projections compressed sensing lectures
+generative models maximum likelihood estimator naive bayes linear discriminant analysis latent variables and algorithm bayesian learning feature selection and generation feature selection feature transformations feature learning lectures
+fractal application to environmental data assessment of surface water quality parameters assessment of landfill leachate treatment air quality assessment and source recognition spatial differences in river estuaries and possible sources miscellaneous case studies lectures
+applied multivariate statistical analysis johnson and wichern pearson prentice hall sixth edition
+multivariate statistical methods primer manly chapman and third edition
+applied multivariate statistical analysis wolfgang and leopold springer fourth edition
+understanding machine learning from theory to algorithms david cambridge university press
+applied statistics for environmental science with alkarkhi and alqaraghuli
+machine learning tata self learning material department of computer science stanford university title statistics for environmental engineering number engineering statistics for environmental engineering regression analysis simple linear regression assumptions least square estimation significance testing residual analysis multiple regression regression comparison selection of variables categorical variables lectures
+advanced data types and handling spatial analysis for environmental processes spatial point process models spatial sampling and design lectures
+time series analysis time and frequency domain tests for randomness lectures
+special topics anova experimental design and variance analysis completely randomized and randomized block design fischer lsd cochrans test lectures
+analysis of ranked data introduction log rank test spearman rank correlation wilcoxin signed rank test lectures
+monte carlo methods toxicology concerns quantal response lectures
+computational lab or any statistically computing environment introduction to probability distributions and sampling monte carlo method maximum likelihood basics regression interval estimation relationship spatial and time series exploratory data analysis anova
+environmental methods and applications barnett john wiley and sons
+statistics for environmental science and management manly chapman and press second edition
+probability statistics and reliability for engineers and scientists ayyub and mccuen boca raton crc press
+ang and tang probability concepts in engineering emphasis on applications to civil and environmental engineering john wiley sons usa second edition
+benjamin and cornell probability statistics and decision for civil engineers new york
+title geomorphology number geomorphology coastal geomorphology ocean waves currents and tides oceanic sediments shore processes coastal erosion and sediment transport depositional features formed by waves
+lectures tectonic geomorphology continental drift and evidences plate tectonics continental crust and plate tectonics causes of plate tectonics geomorphics markers paleoseismology deformation and landscape responses
+lectures earthquakes location of an earthquake measurement and classification the cause of origin spatial and temporal distribution of earthquakes earthquake hazard
+lectures volcanoes magma and lava flows global distribution of volcanoes classification of volcanoes modes of eruption volcanic explosivity index volcanic landforms submarine volcanoes
+lectures applied geomorphology geomorphological hazard hazard assessment for risk analysis and risk management geomorphic hazards and sustainable development geomorphology and disaster prevention
+lectures additional reading douglas burbank robert anderson tectonic geomorphology ed
+ro charlton fundamentals of fluvial geomorphology ed
+taylor francis group
+eric bird coastal geomorphology an introduction ed
+isbn anthony parsons abrahams geomorphology of desert environments
+geomorphological hazards and disaster prevention
+cambridge cambridge university press
+title environmental impact assessment number department chemical engineering offered for cie type programme engineering ii environmental impact assessment rau
+and wooten environmental impact analysis handbook mcgraw hill new york
+preventive environmental management
+title ecological engineering number ecological engineering glenn suter ii ecological risk assessment edition crc press
+odum the strategy of ecosystem development
+ecosystems and human synthesis
+report of the millennium ecosystem assessment
+title fate of chemicals in the environment number department infrastructure engineering prerequisite chemistry flow mechanics soils fate of chemicals in the environment atmospheric transport area and point source of pollutants in air box model for area source plume model for point sources dry and wet deposition at surfaces or soil uptake by plant roots transpiration metabolism and lectures
+open source models icecrm indoor chemical exposure model the cozmoman the multimedia fate and transport models the global distribution model version global fate of organic chemicals nptel dr bhanu prakash vellanki environmental remediation of contaminated sites iit roorkee dr manoj datta geoenvironmental engineering environmental geotechnology landfills slury ponds contaminated sites iit delhi title contaminants transport to environments number contaminants transport to environments jerald schnoor environmental modeling fate and transport of pollutants in water air and soil october isbn harold hemond elizabeth fechne chemical fate and transport in the environment academic press edition june title indoor air pollution number engineering indoor air pollution aerosol behavior and measurement of airborne particles organic indoor air pollutants occurrence measurement evaluation salthammer and uhde
+title envrionmental microbiology number bioengineering environmental microbiology biology of microorganisms brock et benjamin cummings boston ma principles of biochemistry lehninger nelson cox
+david schauer and edward delong
+massachusetts institute of technology mit opencourseware title biosafety and public health number biosafety and public health biological safety principles and practices wooley and byers washington asm press fifth edition
+title gis and public health number gis and public health outbreaks forecasting spatial diffusion of communicable diseases planning public health interventions privacy and confidentiality lectures
+exploring the ecology of diseases global burden of zoomatic diseases and the challenge of emerging infectious diseases surveillance and mapping of diseases modelling of diseases environmental impacts of controlling borne diseases systematic perspective on disease lectures
+analyzing access to health services mapping service locations mapping health care needs and services assessing potential access to health services analysing service utilization lectures
+locating health services health care shortage areas components and dimensions of health service delivery systems client population distribution meaning of centrality in health service facility location normative models of facility location and service delivery incorporating normative models of facility location and service delivery into gis spatial decision support systems lectures
+health disparities context composition visualizing measuring area characteristics defining neighbourhood contexts modelling neighbourhood effects on health location processes and link between location and lectures
+gis and public health ellen cromley sara mclafferty guilford publications second edition isbn
+gis in public health practice ravi maheswaram massimo craglia crc press isbn
+title environmental and health risk environmental and health risk assessment decision making analysis of variance test independent samples lectures
+contingency tables in risk assessment and management test measuring agreement or conformity sensitivity and specificity lectures
+statistical associations and causation qualitative aspects of causal associations pearson coefficient of correlation additional measures of association consistency of scientific studies causal diagram in modelling causation lectures
+risk assessment framework corrective action framework us epa risk assessment framework selected probability distributions poisson process in risk assessment probabilistic risk assessment risk calculations in accident analysis simple dynamic model of infection toxicological modelling for risk assessment lectures
+decisions for risk management representing risky choices practice of making risky decisions foundations of utility theory decision trees game theory lectures
+paolo ricci environmental and health risk assessment and management principles and practices
+isbn title environmental engineering laboratory number engineering offered for tech cie type specialization no
+experiment laboratory introduction to the requirements of national accreditation board for testing and calibration laboratories nabl accreditation of environmental laboratories introduction to laboratory and preliminary examination of water color odor and taste determination of ph alkalinity turbidity and optimum coagulant dose and conductivity determination of solids total dissolved organic inorganic and settleable and hardness determination of chloride sulphates and sulfide in water determination of iron and manganese in water determination of do and bod in wastewater determination of nitrogen phosphorus and fluoride in water determination of free and combined residual chlorine in water determination of coliforms in water demonstration of analytical instruments water demonstration of air particle and and noise pollution monitoring devices demonstration of air sampling devices and weather monitoring station environmental engineering laboratory contents text books title stability of slopes number offered for cie type elective detailed course content of program electives stability of slopes toppling failure types of toppling failure kinematic analysis of block toppling failure limit equilibrium analysis of toppling lecture stabilization of slopes stablization programs rock slope inventory hazard rating analysis stabilization by rock reinforcements stabilization by rock removal measures against rock fall lecture movement monitoring types of slope movement initial response regressive and progressive movements creep surface monitoring methods data interpretation lecture
+duncan wyllie christopher mah rock slope engineering ed spon press taylor francis group isbn pbk
+robin chowdhury phil flentje gautam bhattacharya geotechnical slope analysis
+crc press taylor francis group isbn hbk
+title rock mechanics and rock rock mechanics and rock engineering interaction analysis classification primary reinforcement secondary support system rock blasting process control and optimization lectures
+rock mechanics for hydrocarbon reservoir tectonic stress field pore pressure measurement mechanical properties and stress data from laboratory analysis and field data concepts of critically stressed crust basics of hydraulic fracturing wellbore stability lectures
+richard goodman introduction to rock mechanics ed
+debasis deb abhiram kumar verma fundamentals and applications of rock mechanics
+phi learning pvt
+onlin online course material maji
+rock mechanics web course
+title reliability engineering number cie7xx0 offered for
+tech tech type elective prerequisite nil reliability engineering response surface based methods conventional response surface method advanced response surface methods with examples lectures
+reliability based design stochastic models of loads determination of partial safety factors code calibration safety checking format lectures
+reliability of structural systems system reliability series and parallel bounds on system reliability modelling of structural systems lectures
+advanced reliability methods importance sampling method subset simulation method stochastic response surface method lectures
+brief on advanced topics fatigue reliability estimation curve approach dependent reliability lectures
+design optimization introduction to the concept of design optimization examples on solving reliability based design optimization problems lectures
+application of reliability analysis and design applications to steel concrete offshore structures etc
+to determine probability of failure and safe design lectures
+and baker structural reliability theory and its applications berlin heidelberg
+ang and tang probability concepts in engineering planning and design vol
+ii decision risk and reliability john wiley and sons new york
+and murotsu applications of structural systems reliability theory springer verlag berlin heidelberg
+madsen structural reliability methods john wiley sons ltd chichester
+grandhi and canfield structural design london
+ranganathan structural reliability analysis and design ed jaico publishing house mumbai
+melchers and beck structural reliability analysis and prediction ed john wiley and sons ltd hoboken nj
+additional references reliability engineering by
+sivakumar babu on nptel
+structural reliability by arunasis chakraborty on nptel
+risk and reliability of offshore structures by srinivasan chandrasekaran on nptel
+title structural dynamics number cie7xx0 structural dynamics response to harmonic and periodic motions response of sdof systems to harmonic loads and periodic excitations fourier series representation lectures
+earthquake response of mdof systems time history analysis response spectrum analysis lectures
+applications introduction to finite element method formation of element stiffness mass and force matrices examples for seismic analysis and response lectures
+biggs introduction to structural dynamics mcgraw hill ny
+clough and penzien dynamics of structures ed mcgraw hill inc editor
+chopra dynamics of structures theory and application to earthquake engineering ed prentice hall nj
+jain dynamics of structures with applications pearson education chennai india
+kim structural dynamics theory and computation ed springer nature switzerland
+structural dynamics by pradipta banerji on nptel
+structural dynamics by ramancharala pradeep kumar on nptel
+structural dynamics for civil engineers sdof systems by riya catherine george on nptel
+title wind and earthquake engineering number offered for cie type wind and earthquake engineering title offshore number civil7xx0 department civil engineering offered for offered for cie cie type type objectives
+to familiarize students with the dynamics of offshore environment
+to introduce methods of soil and site investigation
+to introduce designs types and analyses of piled foundation shallow foundation and anchoring systems
+to introduce specific consideration of soil structure interaction of and pipelines and risers
+to provide overview of
+detailed knowledge of geophysical geotechnical investigation laboratory test and use of centrifuge modelling
+understanding of soil response under static and dynamic loads
+knowledge of the analysis and design of shallow foundation piled foundation anchoring system and pipelines and risers
+understanding of marine slope failure and slides
+contents offshore environment marine geology plate tectonics continental self sediments geotechnical characteristics ocean wind and waves currents wave theories hydrodynamic forces lectures
+offshore site and soil investigation geophysical and geotechnical investigations soil classifications and undrained compression test undrained strength cyclic loading test failure under cyclic loading centrifuge modelling lectures
+offshore foundations shallow and deep foundations and their applications design of offshore foundations as per api and dnv codes pile drivability and dynamic monitoring capacity of driven piles installation piled and shallow foundations in fine grained and permeable sediments stability of shallow foundations dynamic analysis of vertical and inclined pile foundations impedance function of piles and frequency domain analysis lectures
+anchoring systems buoyant platforms and mooring systems mooring line analysis and forces on anchors types of anchors and their design api and dnv code provisions for anchor design dynamic effects on anchor and uplift of anchors dynamically penetrating anchors lectures
+pipeline and riser geotechnics geotechnical inputs to pipeline design design issues and code provisions soil structure interaction for pipelines and risers secondary stabilization lecture offshore types of marine and their identification submarine slope failures and slides probabilistic hazard analysis lectures
+mark randolph susan gourvenec
+offshore geotechnical engineering
+spon press taylor francis isbn13 hbk
+wave mechanics for ocean engineering ed elsevier science
+isbn ebook objectives offshore title green building and sustainable materials number green building and sustainable materials reduction active mechanical system system electrical power systems innovative energy optimization strategies renewable energy systems fuel cells smart buildings and energy management systems chemicals in hvac systems reducing carbon footprint of the built environment
+lectures built environment hydrological cycle global water resource depletion hydrological cycle terminology building hydrological cycle strategy designing the performance building hydrological cycle water budget rules of thumb sustainable stormwater management landscaping water efficiency
+lectures closing materials loops distinguishing between green building products and green building materials lca of building materials and products environmental product declaration materials and product certification systems emerging construction materials and products design for deconstruction
+lectures indoor environmental quality ieq issues design main components of integrated ieq design emission from building materials economic benefits of good indoor environmental quality
+lectures construction operations and commissioning site protection planning indoor air quality during construction construction materials management construction and demolition waste management
+lectures green building economics the business case for green building the economics of green building quantifying green building benefits
+lectures charles kibert
+newman and ban sang choo advanced concrete materials ed elsevier
+kubba leed practices certification and accreditation hand book ed elsevier
+additional materials ministry of power energy conservation building code revised version bureau of energy efficiency indian building congress practical handbook on energy conservation in buildings st ed
+green design practices sartori and hestnes energy use in the life cycle of conventional and energy buildings review article energy and green building basics california integrated management board noc energy efficiency acoustics and daylighting in building by bhattacharjee on ntpel
+title traffic flow theory number traffic flow theory kadiyali
+engineering and transport planning
+khanna publishers chakroborty animesh das
+principles of transportation engineering
+second edition phi learning private limited saxena
+textbook of highway and traffic engineering
+cbs samuel morgan traffic engineering and transport planning
+fundamentals of traffic simulation
+roess prassas mcshane traffic engineering
+pearson title traffic system and management number traffic system and management title environmental aspects of power plant number engineering environmental aspects of power plant title soil stabilization and ground improvement number soil stabilization and ground improvement case histories of ground improvement traditional ground improvements adopted in weak soils in india and abroad codal suggestions lectures
+ground improvement techniques
+engineering principles of ground modification international editions
+foundation analysis and design ed
+tata international edition
+ground improvement techniques by
+sivakumar babu on ntpel
+title foundation engineering number foundation engineering geotechnical earthquake engineering seismological concepts ground motion parameters dynamic soil behavior ground response analysis liquefaction slope stability lectures
+seismic methods for foundations earthquake structural damage foundation settlement retaining walls foundation alternatives to mitigate earthquake effects lectures
+grading and other soil improvement methods grading compaction soil improvement methods lectures
+foundation excavation underpinning and field load tests foundation excavation and construction field load tests foundation underpinning observational method
+subsurface investigation and instrumentations traditional investigations advanced geophysical tests field instrumentations lectures
+international building code for foundations general regulations for footing and foundations foundation adjacent slopes retaining walls geotechnical earthquake engineering lectures
+bowles je foundation analysis and design ed
+hill robert day
+foundation engineering handbook ed
+soil mechanics and foundations rd ed
+john wiley and sons
+foundation engineering handbook nd ed
+isbn additional references foundation engineering by kousik deb on nptel
+title advanced mechanics of solids number department mechanical engineering advanced mechanics of solids timoshenko and goodier
+theory of elasticity tata hill sadd elasticity theory applications and numerics academic press title theory of vibrations number mel7xx0 department civil engineering prerequisite basic knowledge of mechanical vibrations theory of vibration meirovitch principles and techniques of vibrations edition prentice hall meirovitch analytical methods in vibration analysis macmillan clough and penzien dynamics of structures mcgraw hill title ocean thermal energy conversion otec number ch7xx0 department chemical engineering offered for
+type elective prerequisite thermodynamics ocean thermal energy conversion title process safety and hazards number ch7xx0 department chemical engineering offered for tech type prerequisite none process safety and hazards king and magid industrial hazards and safety handbook butterworth
+wells safety in process plant design john wiley and sons
+wood safety and accident prevention in chemical operations edition new york
+title advanced energy systems number ch7xx0 advanced energy systems title plugin electric vehicles number ee7xx0 department electrical engineering offered for
+type elective the instructor will
+provide understanding of various technologies of plugin electric vehicle and hybrid electric vehicle and their role in smart grid operation the students are expected to have the ability to
+design powertrain circuit topology and appropriate control scheme for electric vehicle
+understand and design ev charging infrastructure introduction to ev recent development trends types of electric vehicles lectures
+powertrain concepts of powertrain sizing in ev and phev starting braking lectures
+storage systems battery types parameters battery modeling battery management charging infrastructure domestic charging infrastructure public charging infrastructure normal charging station occasional charging station fast charging station battery swapping station types of charging constant voltage constant current pulse charging inductive conductive charging lectures
+systems vehicle lectures
+hybrid electric vehicle configuration of hev series parallel complex power flow control in hev configurations control lectures
+vehicle communication introduction to communications and controller area network lectures
+pev integration impact on transmission and distribution network lectures
+laboratory experiments related to the following topics will be conducted under laboratory component soc estimation control of electric vehicle drives regenerative braking powertrain and vehicle dynamics ev chargers and their control technology technology ev charging from solar pv performance of aggregator use of simulation tools matlab siemens ev related softwares to simulate different subsystems of ev and different scenarios
+ehsani gao emadi modern electric hybrid electric and fuel cell vehicles
+fundamentals theory and design edition crc press
+larminie lowry electric vehicle technology explained wiley self learning material objectives plugin electric vehicles title smart grid number ee7xx0 department electrical engineering smart grid bollean hasan integration of distributed generation in the power systems india press ehsani gao gay emadi modern electric hybrid electric and fuel cell vehicles fundamentals theory and design crc press bansal power system protection in smart grid environment crc press material the smart grid an introduction department of energy
+title transmission infrastructure number ee7xx0 department electrical engineering offered for
+type elective prerequisite introduction to smart grid transmission infrastructure title substation infrastructure number ee7xx0 department electrical engineering substation infrastructure title gas insulated substation number ee7xx0 gas insulated substation title power system protection number ee7xx0 power system protection ram vishwakarma power system protection and switchgear edition tata mcgraw hill publications
+phadke thorp computer relaying for power system edition john wiley sons publications soman power system protection nptel course material department of electrical engineering indian institute of technology bombay security in smart grid number ee7xx0 electrical engineering tech type security in smart grid ev charging coordination via charging power quota trading microgrid microgrid monitoring and control using blockchain lectures
+title energy harvesting number phl6xx0 department physics offered for
+type energy harvesting title energy economics and policy number department
+briand yeatman roundy micro energy harvesting wiley
+shashank inman energy harvesting technologies springer
+elvin erturk advances in energy harvesting methods springer
+preparatory course material pal selection of nanomaterials for energy harvesting and energy storage applications energy economics and policy title wind turbine and field design number civil7xx0 department civil engineering offered fo cie type elective wind turbine and field design title offshore wind energy harvesting number civil7xx0 offered for offered for cie cie type type
+to highlight the complexities of an offshore wind farms and differences with their onshore counterpart
+to introduce the principles of an offshore wind farm design
+to introduce principles of management and economics of wind farm the students will have understanding of
+aerodynamic hydrodynamic and structural loads on offshore wind structures
+design of fixed and floating platforms for wind turbines
+principles of designs of wind firm its control and maintenance
+details of the cost and economic feasibility study of an offshore wind farm
+the offshore environment atmospheric wind flow and its characteristic in the boundary layer ocean winds wave theories wind and wave forces on offshore structures lectures
+fixed and floating offshore platforms their analysis and design fixed and floating offshore platforms mooring dynamic analysis wind forces on offshore structures design provisions in api and dnv codes fixed and floating offshore wind dynamic analysis coupled and uncoupled analysis fatigue consideration lectures
+floating offshore wind turbines fowt owt drivetrain and gearbox simulation dynamic behaviour of bearings on offshore wind turbine gearbox experimental characterization of owt gearbox in operation lectures
+offshore wind turbine field design spatiotemporal wind resource assessment bathymetry and other sea constraints strategic planning offshore wind farm design large eddy simulation of wind farm aerodynamics lectures
+operation and maintenance modelling classification of models in modelling decision support tools optimization models evaluation of remote inspection lectures
+cost and economic feasibility of floating offshore wind farm cost calculation economic map tools and restrictions maps tools definition breakdown structure of processes and calculation of costs capex and opex net present value npv internal rate of return irr discounted period dpbp levelized cost of energy lcoe cost of power ratio lectures
+olimpo john tande kjetil uhlen karl merz offshore wind energy technology
+joao cruz mairead atcheson
+floating offshore wind energy ed
+ostachowicz malcolm mcgugan marcin luczak
+new materials and reliability in offshore wind turbine technology
+laura vincente floating offshore wind farms
+dynamics of floating offshore structures
+isbn objectives offshore wind energy harvesting title offshore tidal energy harvesting number civil7xx0
+holistic introduction of different aspects of tidal energy system
+introduction of design principles and size optimization
+basics of control and reliability assessment of tidal system
+knowledge of prefeasibility assessment models
+knowledge of optimization techniques to increase efficiency of tidal energy system
+different control system of tidal current turbine
+knowledge of different failure models for reliability assessment
+content introduction of tidal energy principles and components of tidal power plants available technologies and concepts estimation of energy calculation tidal dynamics and structures of tidal currents lectures
+prefeasibility analysis analysis of location physical boundaries of assessment static transect field survey location assessment farm method and flux method lectures
+optimum sizing and modelling of tidal energy system modelling of tidal energy conversion systems numerical solution of tidal energy systems modelling of tidal current turbine tidal energy facility size lectures
+control system automatic control system control strategies of ocean wave conversion systems reactive power control of tidal turbine dynamic control of tidal current turbine power system stability analysis lectures
+reliability assessment the failure distribution model constant failure rate model time dependent failure model assessment of tidal energy system by fault tree analysis lectures
+advances in tidal energy systems tidal energy system scenario india and world environmental assessment tidal harmonic analysis assessment of tidal energy system optimization technique and game theory economic analysis lectures
+vikas khare cheshta khare savita nema prashant baredar
+tidal energy systems
+offshore tidal energy harvesting title power plant engineering number mel7xx0 department civil and infrastructure engineering prerequisite power plant engineering site selection selection of for power station load estimation load duration curve load factor capacity factor use factor diversity factor demand factor effect of variable load on power plant selection of the number and size of units lectures
+economics and environmental considerations capital cost cost of energy production operational cost of power plants tariffs for electrical energy environmental impact different types of pollution fuel availability lectures
+electrical components of power plants generator transformer speed governing systems generator excitation systems switchyard lectures
+laboratory classes classes steam power plant operation and maintenance shut down of steam power plant control and monitoring
+boilers efficiency of steam generator analysis of exhaust gas from boiler determination of the heat flux density and the overall heat transfer coefficient in boilers
+steam turbine demonstration of the function of steam turbine operating characteristics of steam turbine
+cooling tower determination of cooling capacity operating characteristics of cooling tower gas turbine determination of specific fuel consumption determination of shaft power and system efficiency
+power plant technology tata
+nag power plant engineering tata
+morse power plant engineering van nostran new york
+learning material title energy storage number ee7xx0 energy storage title biomass energy conversion course bbxx department bioscience and bioengineering offered for offered for type type
+illustrate the principles and applications of harnessing systems ranging from conventional processes to the latest developments in the area
+have an understanding of the existing and emerging biomass to energy technologies
+utilize the knowledge of bioenergy systems while integrating bioenergy with other renewable energy systems
+suggest potential solutions for energy needs by incorporating bioenergy technology
+bioenergy context introduction biofuels and biopower automobile and biofuels feedstocks harvested and residual emissions from biofuels lecture
+thermochemical biomass conversion chemical composition biomass types and characteristics biomass and processing combustion gasification pyrolysis catalytic conversion of biomass to liquid biofuels life cycle analysis lecture
+biochemical biomass conversion anaerobic fermentation technology biogas production process microbiology different types of bioreactors basic process kinetics various types of and generation biofuels algal biofuels astm standards for biofuels engineered microbes for biofuel lecture
+bioelectrochemical systems introduction to microbial fuel cells mfc nernst equation and electrochemical potential difference the redox reactions calculating and measuring potentials the exoelectrogenic microbes mfc components applications of mfc bio electrochemical system for hydrogen production artificial photosynthesis lecture
+lab biomass acid treatment process and estimation of reducing sugars performing ethanol fermentation and determine ethanol yield and productivity performing butanol fermentation setting up biogas production process screening cellulose producers from natural environments enzyme activity assays for lignocellulosic waste performing acid catalysed biodiesel of process kinetics determine biodiesel yield with sequential treatment for free fatty acid rich microbial oil setting up microbial fuel cells
+german solar energy society ecofys planning and installing bioenergy systems guide for installers architects and engineers earthscan
+qureshi yukawa blaschek biomass to biofuels wiley
+mukunda understanding clean energy and fuels from biomass wiley india pvt
+stanier general microbiology
+pelczar chan krieg microbiology tata mcgraw hill education michelle fueling sustainability engineering microbial systems for biofuel objectives biomass energy conversion production spring mit opencourseware massachusetts institute of technology license creative commons title hydrogen and methanol economy number ch7xx0 offered for offered fo mtech phd mtech phd type type prerequisite none hydrogen and methanol economy title hydropower number me7xx0 department mechanical engineering electrical engineering civil infrastructure engineering offered for tech type elective hydropower electronic control of hydropower phase angle control relay switched on loads space ratio controller lectures pumped storage hydropower pumped storage hydropower plant turbines motors lectures hydropower house classification equipment accessories layout components sizing fractal cie site investigation techniques geological environments rocks and soils geological geotechnical and geophysical investigation trenching and drilling lectures design of embankment dams freeboard slope protection embankment crest details dimensioning and tolerances conduits through embankments flood control structures seismic stability analysis of embankments liquefaction of dam embankments and foundations
+lectures concrete face rockfill dams and concrete gravity dams selection of dam types rockfill zones concrete face construction aspects settlements and displacements of the face slab and joints leakage strength and compressibility of rock foundations strength of concrete in the dam strength of the contact silt and ice load lectures foundation preparation general foundation preparation for embankment dams cutoff foundation for embankment dams width and batter slopes slope modification foundation preparation for concrete gravity dams
+lectures breeze hydropower academic press pandey karki hydroelectric energy renewable energy and the environment crc press robin fell patrick macgregor david stapledon graeme bell geotechnical engineering of dams
+title fuel cell technology number ch7xx0 fuel cell technology bent sorensen hydrogen and fuel cells emerging technologies and applications elsevier second edition
+frano barbir pem fuel cells theory and practice elsevier second edition
+ryan cha whitney colella fritz prinz fuel cell fundamentals wiley second edition
+title electrochemical conversion and storage number ch7xx0 electrochemical conversion and storage title selected topics in distributed generations number ee7xx0 selected topics in distributed generations masters renewable and efficient electric power systems john wiley sons inc
+bevrani francois ise microgrid dynamics and control john title materials for electrochemical energy conversion and storage number department physics and metallurgical materials engineering prerequisite materials for electrochemical energy conversion and storage reference book rosen
+energy storage nova online course materials
+bazant mitopencourseware electrochemical energy systems mit course number
+pal selection of nanomaterials for energy harvesting and storage application nptel course material mechanical engineering indian institute of technology roorkee title solar energy and applications number mel7xx0 department department mechanical engineering mechanical engineering offered for type type prerequisite degree solar energy and applications title artificial intelligence number cs department computer science and engineering artificial

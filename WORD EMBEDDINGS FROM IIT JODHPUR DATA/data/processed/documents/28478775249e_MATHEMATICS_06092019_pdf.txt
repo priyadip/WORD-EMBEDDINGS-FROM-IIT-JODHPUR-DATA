@@ -1,0 +1,51 @@
+indian institute of technology jodhpur pg course booklet july dual degree in data and computational science introduction data science is the art of generating insight knowledge and predictions by processing of data gathered about system or process
+computational science is the art of developing validated simulation models in order to gain better understanding of phenomenon system or processes
+computational sciences focus on development of causal models using latent patterns in the observed data rather than only extracting patterns or knowledge from data by statistical methods
+objective of the programme to produce professionals with deep knowledge and innovative analytical and computational research skills to handle problems in variety of domains including governance finance security transportation healthcare energy management agriculture population studies weather prediction economics social sciences predictive maintenance structural health monitoring smart manufacturing and computational structural biology
+expected graduate attributes
+skill set to clean process analyze manage and handle security and privacy aspects of structured and unstructured data
+ability to identify design and apply appropriate pattern recognition and data mining methods for generating relevant insight from data
+knowledge and capability to develop and apply machine learning techniques for data driven modelling
+ability to develop models and simulation schemes based upon domain knowledge in chosen domains and possible combination with data driven models
+capability to follow uniquely interdisciplinary approach for solving problems using knowledge of mathematics statistics computing and one or more selected domains among physics chemistry biology and engineering sciences
+skill to use and design appropriate visualization techniques for representation and presentation of insights and solutions
+ability to innovate and contribute towards next generation data driven technology development
+high quality technical communication skills
+appreciation and adherence to norms of professional ethics
+ability to plan and manage technical projects
+strong understanding of fundamentals of data mining machine learning modelling simulation optimization and numerical techniques
+basic understanding of cryptographic and blockchain techniques
+knowledge about basics and use of visual analytics
+skill set to develop applications using big data
+advanced analytical and data driven modelling and simulation skills to address technological challenges in one or more specialized knowledge domains like physics chemistry biology and engineering sciences
+demonstrate skills to communicate scientific ideas application systems
+acquire project management skills
+course course title credits cat
+course course title credits number number semester semester introduction to numerical data science methods for pde machine machine learning learning mathematics for software and data science data statistics security and its introduction to data analytics modeling lab xxxxx xxxxx data structure xxxxx ng xxxxx technical ng xxxxx innovation andip communicatio management total total semester semester xxxxx xxxxx xxxxx xxxxx project project ng xxxxx system ng xxxxx professional ethics engineering and total total grand total
+category course total total category title courses credits compulsory labs pe program electives oe open electives project total without courses program structure fractal from the course
+topic cloud compulsory topics data including redundancy removal storage data representation data handling data query data cleaning
+relational data bases graph databases nosql columnar db unstructured data map reduced techniques and indexing
+distributions test of hypothesis stochastic process queuing process sampling techniques probabilistic models mixture models latent models prediction models association analysis correlation analysis evaluation and validation performance vector and matrix algebra decompositions svd pseudo inverse rank approximation linear and programming
+classification regression prediction clustering anomaly detection feature engineering unsupervised learning fundamental of svm kernel techniques states space machine markov decision process ann deep learning and its implementation deep learning application lab gpu environment python environment higher level machine learning transfer learning online and incremental learning reinforcement learning in machine learning bias variance ensemble learning auto ml discrete models continuous models hybrid models both analytical and data driven models assumptions approximations models validation mcs numerical methods for pdes cryptosystems types elective topics financial engineering computational finance computational game theory graph theory dynamical systems reliability theory stochastic processes representation of finite groups computational linguistics computational economics digital humanities cultural informatics blockchain security and privacy natural language processing and text analytics visualization machine learning for big data interface computational modelling in materials design bioinformatics computational biology digital image analysis coding theory robotics computational electro magnetism computational optics quantum information system quantum cryptography quantum computing computational physics computational material science computational chemistry adaptive numerical methods methods parallel methods gpu computation
+course title department of mathematics department of electrical engineering financial engineering digital image processing and applications computational game theory digital video processing advanced topics in computational pde coding theory compressive sensing dynamical systems machine learning for communication reliability theory compressive sensing stochastic processes data compression representation of finite groups department of mechanical engineering shared computational economics robotics department of humanities and social sciences probabilistic methods in engineering cultural informatics computational physics department of computer science and engineering computational material science computational linguistics computational chemistry introduction to virtual and augmented reality department of metallurgical and materials engineering natural language processing computational materials engineering visualization department of biosciences and bioengineering artificial intelligence artificial intelligence omics technologies human machine interface algorithm development graph theory and its applications computational modeling in material design computing computer vision applications in multi omics data imaging sensors introduction to digital humanities introduction to quantum information quantum computing facets of quantum information quantum cryptography and coding selected topics in data and computational science selected topics in data and computational science ii selected topics in data and computational science iii list of program electives electives from sister departments title introduction of data science number department mathematics offered for
+dcs type compulsory content of compulsory courses title mathematics for data science number title advanced statistical techniques number fractal
+matrix analysis and applied linear algebra siam
+strang linear algebra and its applications
+elden matrix methods in data mining and pattern recognition siam
+luenberger linear and nonlinear programming yinyu ye third edition springer
+kambo mathematical programming techniques second edition affiliated east west press reference books fractal
+an introduction to probability and statistics wiley
+an introduction to probability models elsevier
+hoel port and stone
+introduction to stochastic processes houghton mifflin company
+matrix computations jhu press
+lancaster and tismenetsky the theory of matrices with applications academic press
+bazaraa sherali and shetty nonlinear programming theory and algorithms third edition wiley publications
+darst introduction to linear programming applications and extensions dekker publications online course material
+agrawal numerical linear algebra nptel course material department of mathematics indian institute of technology roorkee
+goswami chakraborty optimization nptel course material department of kharaggpur department mathematics title introduction to modeling number department mathematics title numerical methods for pde number offered for dcs
+ma type elective lectures characterization of pdes finite difference methods for elliptic parabolic and lectures stability consistency and convergence theory dissipation and dispersion error title data analytics lab number department mathematical content of elective courses course title dynamical systems course no
+department mathematics offered for ma
+dcs ma type elective linear and nonlinear dynamical systems lectures history of dynamics the importance of discrete maps lectures logistic maps period doubling bifurcations flip dynamics of continuous and discrete systems lectures lorenz equations rossler title stochastic processes number department mathematics offered for
+dcs ma type elective prerequisite probability and linear algebra title computational game theory number department mathematics prerequisite basics of optimization theory title advanced topics in computational pde number department mathematics prerequisite odes pdes and numerical methods title financial engineering number title reliability theory number prerequisite probability and statistics lectures functions hazard rate function reversed lectures notions of stochastic ageing different ageing classes ageing shock models and dependence structures lectures univariate and bivariate shock models issues in system reliability lectures maintenance and replacement policies availability of title representations of finite groups number title computational linguistics number department computer science and engineering offered for type elective prerequisite basic probability theory title computational economics number prerequisite basic knowledge of optimization techniques title computational chemistry number department chemistry offered for
+dcs type elective

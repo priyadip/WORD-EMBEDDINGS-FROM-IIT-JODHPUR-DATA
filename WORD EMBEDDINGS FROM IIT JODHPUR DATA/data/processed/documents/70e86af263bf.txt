@@ -1,0 +1,13 @@
+research seminar by gyanendra kumar verma on nov at pm title of the talk codes for locally bounded functions date time nov at noon online abstract in this talk we first discuss several bounds on code size for read channels
+subsequently we discuss general framework for recently proposed coding framework namely codes lenz et which are designed to protect the function evaluation of message against errors
+we further investigate the concept of locally bounded functions for read channels and establish bounds on the optimal redundancy of codes
+about the speaker gyanendra kumar verma is postdoctoral fellow in the department of mathematical sciences at the uae university since october
+he received his
+in mathematics from the institute of science banaras hindu university and earned his in algebraic coding theory from the indian institute of technology delhi in july
+immediately after his doctorate he served as an fellow at iit delhi july
+his research interests include algebra and its applications to coding theory with focus on algebraic methods for and codes
+title of the talk codes for locally bounded functions date time nov at noon online abstract in this talk we first discuss several bounds on code size for read channels
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

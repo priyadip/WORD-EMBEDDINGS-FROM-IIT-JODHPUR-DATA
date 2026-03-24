@@ -1,0 +1,150 @@
+SOURCE_PDF: e92e05a3ed22_MTechSIoT_Updated_v4.8_04012023.pdf
+
+Category M. Tech. Core
+(MC) M. Tech. Elective
+(ME) M. Tech. Open
+(MO) M. Tech. Project
+(MP) Non-graded
+(NG) Total
+Credits 20 16 6 16 4 62
+Cat. Course Title L-T-P C Cat. Course Title L-T-P C
+Bridge Course on Introduction to
+Programming# 1 -0-2 2
+I Semester II Semester
+MC Sensors and Measurement 2-0-0 2 MC Data Communication and
+Networking 2-0-2 3
+MC Introduction to IoT Systems 2-0-2 3 MC Hardware Software Co-
+Design 3-0-2 4
+MC Microsystem Fabrication
+Technology 2-0-2 3 ME Program Elective-2 3-0-0 3
+MC Analog and Interfacing Circuits 3-0-2 4 ME Program Elective-3 3-0-0 3
+ME Program Elective-1 3-0-0 3 ME Program Elective-4 3-0-0 3
+NG Technical Communication 1-0-0 1 NG Innovation and IP
+Management 1-0-0 1
+Total 16 Total 17
+MC Winter Internship 1
+Total 1
+III Semester IV Semester
+ME Program Elective-5 3-0-0 3 MO Open Elective-2 3-0-0 3
+ME Program Elective-6 1-0-0 1 NG Professional Ethics 1-0-0 1
+MO Open Elective-1 3-0-0 3
+NG System Engineering and Project
+Management 1-0-0 1
+Total 14 Total 14
+Updated Program Structure for M Tech SIoT
+Overall Program Structure
+Semester wise distribution of credits
+#Satisfactory grade in the bridge course will be mandatory for students to be able to participate in on-
+campus placements
+
+Course Title L-T-P Credi
+ts Course Title L-T-P Credits
+Digital VLSI Design 3-0-0 3 Microfluidics Technology 3-0-0 3
+Flexible and Printed Electronics 3-0-0 3 Real Time Communications 3-0-0 3
+Antenna Engineering 3-0-0 3 Mobile and Pervasive Computing 3-0-0 3
+Wireless Communication 3-0-0 3 RF IC Design Lab 1-0-2 2
+Neuromorphic Computing and
+Design 3-0-0 3 Introduction to Wireless Ad Hoc
+Networks 3-0-0 3
+Advanced Digital Signal Processing 3-0-0 3 Software Defined Networks 3-0-0 3
+Fog and Edge Computing 3-0-0 3 Intelligent Radio Networks 3-0-2 4
+Vehicular Ad Hoc Networks 3-0-0 3 Computation Oriented
+Communications 3-0-0 3
+Machine Learning 3-0-0 3 Selected Topics in Sensors & IoT I 1-0-0 1
+Image Sensor Design and
+Applications 3-0-0 3 Selected Topics in Sensors & IoT
+II 2-0-0 2
+Nano Sensors 3-0-0 3 Selected Topics in Sensors & IoT
+III 3-0-0 3
+Industry 4.0 Applications in
+Manufacturing Systems 1-0-0 1 UAV Assisted Wireless Networks 3-0-0 3
+Resource Constrained AI 3-0-0 3 Intelligent Buildings 3-0-0 3
+Statistical Methods for Data Analysis 3-0-0 3 Design and Analysis of
+Communication Networks 3-0-2 4
+Energy Harvesting* Advanced MEMS*
+Structural Health Monitoring* Advanced Biosensors*
+Point of care devices/diagnostics* MEMS for Medical Devices*
+Industrial IoT* 5G Technologies for IoT*
+IoT Security* IoT in Industry 4.0*
+Digital Signal Processing and
+Applications* Digital Twins*
+List of Program Electives
+*New elective courses to be designed
+
+Detailed Course Contents
+
+Course Title Sensors and Measurements Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Semiconductor Devices
+
+Title Introduction to Internet of Things Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for M. Tech. 1st year Type Compulsory
+
+Course Title Microsystems Fabrication Technology Course No. EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for M. Tech. (Sensors and IoT) Type Core
+Pre-requisite Semiconductor Devices To take effect from 2020
+
+Course Title Analog and Interfacing Circuits Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital and Analog Electronics
+
+Edition, Prentice-Hall of India
+3. David A. Johns, Ken Martin, (2013), “Analog Integrated Circuit Design”, 2nd Edition, John Wiley and
+Self Learning material 
+1. Shanthi Pavan, VLSI Data Conversion Circuits, NPTEL Course Material, Department of Electrical
+Engineering, Indian Institute of Technology Madras, https://nptel.ac.in/courses/117106034/
+2. Nagendra Krishnapura, Analog Integrated Circuit Design, Department of Electrical Engineering,
+Indian Institute of Technology Madras, https://nptel.ac.in/courses/117106030/
+Preparatory Course Material 
+1. P. E. Allen, D. R. Holberg (2013), CMOS Analog Circuit Design, 3rd Edition, Oxford University Press. 
+2. R. Gregorian, G. C. Temes, (2008), “Analog MOS Integrated Circuits for Signal Processing”, John
+Wiley and Sons.
+
+Title Data Communication and Networking Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–2 [3]
+Offered for M. Tech. 1st Year Type Compulsory
+Prerequisite Fundamentals of Wireless Communications,
+Probability Theory and Random Process
+
+Textbook: 
+1. Dargie, W., and Poellabauer, C., (2010), Fundamentals of Wireless Sensor Networks: Theory and
+Practice, Wiley
+2. Stallings, W., (2007), Data and Computer Communications, 8th Edition, Pearson 
+3. Bertsekas, D. P. and Gallager, R. G., (1992), Data Networks, 2nd Edition, Prentice Hall 
+4. Stallings, W., High-speed Networks and Internets: Performance and Quality of Service, 2nd
+Edition, Prentice Hall
+Reference Book 
+1. Ian F. Akyildiz and Mehmet Can Vuran, (2010), Wireless Sensor Networks, A John Wiley and Sons
+
+Course Title Hardware Software Co-Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital Logic and Design
+
+(e) Implementing standalone designs in SystemC, its compilation, simulation and debug. 
+ 
+ 
+Text Books
+1. Jørgen Staunstrup, Wayne Wolf (1997), Hardware/Software Co-design: Principles and Practice,
+Springer
+2. Unsalan, C., Tar, B., (2017), Digital System Design with FPGA Implementation Using 
+Verilog
+and VHDL, McGraw-Hill
+3. D. Black, J. Donovan, (2010), SystemC: From the Ground Up, 2 nd Edition, Springer 
+4. D. Gajski, S. Abdi, A. Gerstlauer, G. Schirner, (2009), Embedded System Design:
+Modeling, Synthesis, Verification, Springer
+Preparatory Course material
+1. Nelson, V.P., Carroll, B.D., Nagle, H.T., Irwin, J.D., (2020), Digital Logic Circuit 
+a
+nalysis and
+Design, 2nd Edition, Pearson
+2. G. De Micheli, (2017), Synthesis and Optimization of Digital Circuits, McGraw-Hill.
+
+Title Introduction to Programming Number EEP5XXX
+Department Electrical Engineering L-T-P [C] 1-0-2 [2]
+Offered for MTech (CPS and SIoT) Type Bridge Course
+Prerequisite --

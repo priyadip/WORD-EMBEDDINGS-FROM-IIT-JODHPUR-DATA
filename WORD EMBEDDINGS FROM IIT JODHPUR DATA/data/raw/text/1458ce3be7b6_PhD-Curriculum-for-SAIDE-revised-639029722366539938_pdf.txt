@@ -1,0 +1,37 @@
+SOURCE_PDF: 1458ce3be7b6_PhD-Curriculum-for-SAIDE-revised-639029722366539938.pdf
+
+PhD Curriculum for SAIDE
+3 Core Courses + 1 Elective Course
+Core Courses:
+1.​ Machine Learning 
+2.​ Artificial Intelligence 
+3.​ Deep Learning
+Elective Courses:
+Core AI/ML
+1.​ Foundations of Computer Vision and Natural Language Processing (Vision and
+Language Elective)
+2.​ Deep Learning for Computer Vision (AR/VR and Vision and Language Elective) 
+3.​ Advanced Computer Vision (AR/VR Elective) 
+4.​ Multimodal Learning with Vision and Language (Vision and Language Elective) 
+5.​ Deep Learning for Natural Language Processing (Vision and Language Elective) 
+6.​ AI and Cybersecurity (Vision and Language Elective) 
+7.​ Conversational AI (Vision and Language Elective)
+Brain Science and Applications
+1.​ Sensation and Perception (AR/VR Core) 
+2.​ EEG Signal Analysis (AR/VR Elective) 
+3.​ Introduction to Brain Computer Interface (AR/VR Elective) 
+4.​ Psychophysics (AR/VR Elective) 
+5.​ Connectomics (Vision and Language Elective) 
+6.​ Computational Cognitive Neuroscience (Vision and Language Elective)
+Robotics
+1.​ Robotics (AR/VR Elective) 
+2.​ Assistive and Rehabilitation Robotics (Vision and Language Elective) 
+3.​ Planning and Decision Making for Robots (Vision and Language Elective)
+Mathematical and Computational Economics
+1.​ Mathematics for Economics (MSc. CSS, Institute Humanities) 
+2.​ Modern Macroeconomics (MSc. CSS, Institute Humanities) 
+3.​ Operations Research for Economics (MSc. CSS, Institute Humanities) 
+4.​ Theoretical Foundation of Econometrics (MSc. CSS, Institute Humanities) 
+5.​ Machine Learning for Economics (MSc. CSS, Institute Humanities) 
+6.​ Modern Growth Economics (MSc. CSS, Institute Humanities) 
+7.​ Introduction to Mechanism Design (MSc. CSS, Institute Humanities)

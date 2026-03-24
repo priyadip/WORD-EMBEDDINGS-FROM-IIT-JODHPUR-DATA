@@ -1,0 +1,17 @@
+course number course title credits semester ii semester eel7040 sensors and measurement eel7200 data communication and networking eel7170 introduction to iot systems eel7xx0 elective eel71570 hardware software eel7xx0 elective eel7xx0 elective eel7xx0 elective ng1 hsn7xx0 ng2 hsn7xx ii total total iii semester iv semester met8xxo thesis met8xx thesis total total
+course number course title microsystem fabrication technology analog and interfacing circuits vehicular ad hoc networks fundamentals of machine learning computing point of care wireless communication nano sensors embedded system design hardware design for artificial intelligence virtualization and cloud computing digital vlsi design in sensors and internet of things electives title introduction to internet of things systems number eel7xx0 department electrical engineering offered for tech
+year type compulsory course title sensors and measurements course no
+ee6xx department electrical engineering structure ltpc offered for tech
+sensors and iot status program core semiconductor devices to take effect from title data communication and networking number eel7xx0 offered for tech
+year type compulsory prerequisite fundamentals of wireless communications probability theory and random process textbook
+dargie and poellabauer fundamentals of wireless sensor networks theory and practice wiley
+stallings data and computer communications edition pearson
+bertsekas and gallager data networks edition prentice hall
+stallings networks and internets performance and quality of service edition prentice hall reference book
+ian akyildiz and mehmet can vuran wireless sensor networks john wiley and sons course title hardware software number eel7xx0 department electrical engineering digital logic and design implementing standalone designs in systemc its compilation simulation and debug
+staunstrup wayne wolf principles and practice springer
+unsalan tar digital system design with fpga implementation using verilog and vhdl
+black donovan systemc from the ground up nd edition springer
+gajski abdi gerstlauer schirner embedded system design modeling synthesis verification springer preparatory course material
+nelson carroll nagle irwin digital logic circuit nalysis and design edition pearson
+de micheli synthesis and optimization of digital circuits

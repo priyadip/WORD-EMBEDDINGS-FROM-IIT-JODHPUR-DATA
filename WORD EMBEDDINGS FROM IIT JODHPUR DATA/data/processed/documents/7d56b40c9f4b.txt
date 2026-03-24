@@ -1,0 +1,8 @@
+design and development of substrate integrated waveguide siw and empty siw esiw based components arani ali khan pi serb completion in substrate integrated waveguide siw can be considered as planar form of conventional air filled waveguide
+this circuit technology offers lower loss and higher power handling capability as compared to existing planar microwave and millimetre wave circuit technologies like microstrip cpw gcpw
+due to lower loss siw is becoming popular to design components especially for narrow band applications
+the loss of such structures can further be reduced by using empty siw esiw technology
+attractive properties like compact size lower implementation cost and higher power handling make siw and esiw suitable to design passive microwave components like filters diplexers multiplexers power dividing and combining networks antennas
+on the other hand its ease of integration with other planar circuits like microstrip cpw makes it suitable to implement active components like amplifiers mixers oscillators
+higher power handling capability makes siw and esiw promising candidates for the implementation of cw mode high power amplifiers
+substrate integrated waveguide siw can be considered as planar form of conventional air filled waveguide

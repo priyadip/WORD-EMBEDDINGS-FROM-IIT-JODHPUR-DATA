@@ -1,0 +1,43 @@
+and phd program course curriculum department of chemical engineering indian institute of technology jodhpur cat
+course number course title credits semester ii semester chl7xx0 advanced mathematical methods in chemical engineering chl7xx0 advanced thermodynamics chl7xx0 advanced reaction engineering chl7xx0 elective chl7xx0 advanced transport phenomena chl7xx0 elective ng1 hsn7xx0 ng2 hsn7xx0 ii total total iii semester iv semester cht8xxo thesis cht8xx0 thesis total total
+course number course title
+chl7xx0 advanced wastewater treatment
+chl7xx0 computational fluid dynamics
+chl7xx0 heterogeneous catalysis and catalytic reactors
+chl7xx0 modeling of atoms molecules and surfaces
+chl7xx0 molecular simulations
+chl7xx0 nanocomposite membrane technology
+chl7xx0 novel separation processes
+chl7xx0 principles of electrochemical engineering
+chl7xx0 process optimization
+chl7xx0 process safety hazards
+chl7xx0 structure property for polymers
+in department of chemical engineering course structure semester wise distribution of credits list of electives
+category course category title total courses total credits compulsory electives thesis total in with minimum courses total credits required
+engineering in an engineering discipline compulsory
+degree in science discipline compulsory same as
+engineering in an engineering discipline compulsory same as doctoral compulsory dc electives advanced mathematical methods in chemical engineering pg elective list program in the department of chemical engineering course credit requirements for phd students advanced mathematical methods in chemical course no
+department chemical engineering structure offered for
+type compulsory prerequisite none detailed course contents course title advanced thermodynamics course no
+chl7xx0 title advanced reaction engineering number chl7xx0 department chemical engineering structure offered for in chemical engineering type compulsory fluidized bed reactor introduction regimes of fluidized bed reactor parameters for reactor design models for reactor design kuni levenspiel model lectures slurry bed and trickle bed reactor different regimes of fluid flow mass transfer coefficient slurry bed models trickle bed models lectures membrane reactors types transport mechanism case study for h2 production lectures text books
+froment bischoff chemical reactor analysis and design john wiley
+doraiswamy and uner chemical reaction engineering beyond the fundamentals crc
+smith chemical engineering kinetics mcgraw hill third edition
+carberry varma chemical reaction and reactor engineering online course material
+shankar advanced chemical reaction engineering nptel course material department of chemical engineering iit bombay
+viswanathan chemical reaction engineering ii nptel course material department of chemical engineering iit bombay advanced transport phenomena course no
+course title advanced wastewater treatment course no
+chl7xx0 offered for
+type elective course title chemometrics course no
+chl7xx0 prerequisite basics of chemical engineering course title computational fluid dynamics course no
+chl7xx0 course title heterogeneous catalysis and catalytic reactors course no
+chl7xx0 prerequisite basic knowledge of chemical kinetics course title modelling of atoms molecules and surfaces course no
+chl7xx0 course title molecular simulations course no
+chl7xx0 course title nanocomposite membrane technology course no
+chl7xx0 prerequisite basic knowledge of engineering and chemistry course title novel separation processes course no
+chl7xx0 prerequisite mass transfer separation processes design and applications design of membrane modules dialysis gas miscellaneous separation processes pervaporation membrane distillation etc
+ho and sirkar membrane handbook vol and vol springer course title principles of electrochemical engineering course no
+chl7xx0 prerequisite basic knowledge of thermodynamics course title process optimization course no
+chl7xx0 course title process safety hazards course no
+chl7xx0 prerequisite basic knowledge of chemical engineering course title structure property for polymers course no
+chl7xx0 prerequisite an introductory course on polymers for none for

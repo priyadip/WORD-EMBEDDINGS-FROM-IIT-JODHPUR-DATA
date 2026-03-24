@@ -1,0 +1,46 @@
+master of science program in mathematics july indian institute of technology jodhpur cat
+course course title credits number number semester semester ma511 linear ma521 abstract algebra algebra ma512 real analysis ma522 complex ma513 ordinary ma523 partial differential differential equations equations ma514 probability ma524 numerical and statistics analysis ma515 programing ma525 functional techniques analysis total total semester semester elective elective th ma698 thesis th ma698 thesis total total grand total ma551 topology ma552 wavelets analysis and applications bl755 complex networks ma553 dynamical systems ma524 optimization no
+program in chemistry curriculum note the students are encouraged to opt electives from
+this will assist in integrating technological aspects into mathematics education
+course title linear algebra course no
+ma511 department mathematics structure ltpc offered for
+students type compulsory none to take effect from course title real analysis course no
+ma512 none course title ordinary differential equations course no
+ma513 department mathematics structure ltpc
+motivations and origins existence of solutions by picard
+second order linear equations general solution of homogeneous and
+systems of differential equations phase plane method critical points of the system
+applications of differential equations course title probability and statistics course no
+ma514 course title programming techniques course no
+ma515 course title abstract algebra course no
+ma521 course title complex analysis course no
+ma522 course title partial differential equations course no
+solving differential equations with series method green function method laplace
+motivations and origins pdes of engineering and physics heat wave and laplace
+first order partial differential equations linear and fully nonlinear
+second order partial differential equations classification and canonical forms adjoint
+elliptic parabolic and hyperbolic equations equation heat
+applications of partial differential equations
+logan applied partial differential equations edition springer verlag
+pinchover and rubinstein
+an introduction to partial differential course title numerical analysis course no
+ma524 department mathematics structure
+solve numerically algebraic equations linear systems of equations ordinary and
+develop understanding of numerical error and applicability of particular method
+errors roundoff errors and truncation errors
+root finding methods the bisection method the method of false position fixed point
+numerical solution of linear system of equations direct methods gauss elimination
+interpolation errors in polynomial interpolation finite differences newton
+numerical integration trapezoidal rule simpson rules integration
+numerical differentiation finite difference method high accuracy differentiation
+numerical solution of initial value and boundary value problems involving ordinary
+mathews and fink numerical methods using matlab edition
+and mayers an introduction to numerical analysis cambridge
+conte and boor elementary numerical analysis an algorithmic course title functional analysis course no
+ma531 course title optimization techniques course no
+ma525 offered for
+students type elective course title topology course no
+ma551 course title wavelet analysis and applications course no
+ma552 department mathematics structure ltpc course title complex networks course no
+bl755 course title dynamical systems course no
+ma553 course booklet for

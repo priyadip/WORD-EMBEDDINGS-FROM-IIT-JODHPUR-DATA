@@ -1,0 +1,1338 @@
+14:28:14 INFO Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 2037259.8855830114 word corpus (81.7%% of prior 2494955)', 'datetime': '2026-03-19T14:28:14.057271', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:28:14 INFO estimated required memory for 19495 words and 300 dimensions: 56535500 bytes
+14:28:14 INFO resetting layer weights
+14:28:14 INFO Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2026-03-19T14:28:14.182258', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'build_vocab'}
+14:28:14 INFO Word2Vec lifecycle event {'msg': 'training model with 4 workers on 19495 vocabulary and 300 features, using sg=0 hs=0 sample=0.001 negative=15 window=5 shrink_windows=True', 'datetime': '2026-03-19T14:28:14.182258', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:28:15 INFO EPOCH 0 - PROGRESS: at 32.20% examples, 660797 words/s, in_qsize 7, out_qsize 0
+14:28:16 INFO EPOCH 0 - PROGRESS: at 66.72% examples, 667890 words/s, in_qsize 7, out_qsize 0
+14:28:17 INFO EPOCH 0: training on 2569603 raw words (2037589 effective words) took 3.0s, 688139 effective words/s
+14:28:18 INFO EPOCH 1 - PROGRESS: at 33.66% examples, 695230 words/s, in_qsize 7, out_qsize 0
+14:28:19 INFO EPOCH 1 - PROGRESS: at 71.12% examples, 717320 words/s, in_qsize 7, out_qsize 0
+14:28:20 INFO EPOCH 1: training on 2569603 raw words (2037184 effective words) took 2.9s, 711693 effective words/s
+14:28:21 INFO EPOCH 2 - PROGRESS: at 34.79% examples, 721416 words/s, in_qsize 7, out_qsize 0
+14:28:22 INFO EPOCH 2 - PROGRESS: at 71.56% examples, 722527 words/s, in_qsize 8, out_qsize 0
+14:28:22 INFO EPOCH 2: training on 2569603 raw words (2036668 effective words) took 2.8s, 735058 effective words/s
+14:28:23 INFO EPOCH 3 - PROGRESS: at 34.44% examples, 713193 words/s, in_qsize 7, out_qsize 0
+14:28:24 INFO EPOCH 3 - PROGRESS: at 71.15% examples, 716626 words/s, in_qsize 8, out_qsize 0
+14:28:25 INFO EPOCH 3: training on 2569603 raw words (2037168 effective words) took 2.8s, 721602 effective words/s
+14:28:26 INFO EPOCH 4 - PROGRESS: at 34.06% examples, 706877 words/s, in_qsize 7, out_qsize 0
+14:28:27 INFO EPOCH 4 - PROGRESS: at 71.98% examples, 725039 words/s, in_qsize 7, out_qsize 0
+14:28:28 INFO EPOCH 4: training on 2569603 raw words (2037014 effective words) took 2.8s, 731603 effective words/s
+14:28:29 INFO EPOCH 5 - PROGRESS: at 35.15% examples, 718679 words/s, in_qsize 7, out_qsize 0
+14:28:30 INFO EPOCH 5 - PROGRESS: at 74.02% examples, 740547 words/s, in_qsize 8, out_qsize 0
+14:28:31 INFO EPOCH 5: training on 2569603 raw words (2036840 effective words) took 2.7s, 748318 effective words/s
+14:28:32 INFO EPOCH 6 - PROGRESS: at 33.61% examples, 695210 words/s, in_qsize 4, out_qsize 3
+14:28:33 INFO EPOCH 6 - PROGRESS: at 71.98% examples, 724408 words/s, in_qsize 7, out_qsize 0
+14:28:33 INFO EPOCH 6: training on 2569603 raw words (2036925 effective words) took 2.8s, 738373 effective words/s
+14:28:34 INFO EPOCH 7 - PROGRESS: at 35.52% examples, 732549 words/s, in_qsize 7, out_qsize 0
+14:28:35 INFO EPOCH 7 - PROGRESS: at 72.93% examples, 726072 words/s, in_qsize 7, out_qsize 0
+14:28:36 INFO EPOCH 7: training on 2569603 raw words (2037188 effective words) took 2.7s, 740857 effective words/s
+14:28:37 INFO EPOCH 8 - PROGRESS: at 31.17% examples, 648170 words/s, in_qsize 7, out_qsize 0
+14:28:38 INFO EPOCH 8 - PROGRESS: at 66.34% examples, 666272 words/s, in_qsize 7, out_qsize 0
+14:28:39 INFO EPOCH 8 - PROGRESS: at 93.67% examples, 633413 words/s, in_qsize 7, out_qsize 0
+14:28:39 INFO EPOCH 8: training on 2569603 raw words (2037552 effective words) took 3.2s, 634157 effective words/s
+14:28:40 INFO EPOCH 9 - PROGRESS: at 31.70% examples, 662983 words/s, in_qsize 7, out_qsize 0
+14:28:41 INFO EPOCH 9 - PROGRESS: at 69.16% examples, 700193 words/s, in_qsize 7, out_qsize 0
+14:28:42 INFO EPOCH 9: training on 2569603 raw words (2037531 effective words) took 2.9s, 712078 effective words/s
+14:28:42 INFO Word2Vec lifecycle event {'msg': 'training on 25696030 raw words (20371659 effective words) took 28.5s, 714137 effective words/s', 'datetime': '2026-03-19T14:28:42.708893', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:28:42 INFO Word2Vec lifecycle event {'params': 'Word2Vec<vocab=19495, vector_size=300, alpha=0.025>', 'datetime': '2026-03-19T14:28:42.708893', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'created'}
+    Done in 29.3s  |  vocab=19,495
+
+  Training SKIPGRAM | dim=300 win= 5 neg=15  [skipgram_dim300_win5_neg15]
+14:28:42 INFO collecting all words and their counts
+14:28:42 INFO PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+14:28:42 INFO PROGRESS: at sentence #10000, processed 251058 words, keeping 15057 word types
+14:28:42 INFO PROGRESS: at sentence #20000, processed 548640 words, keeping 23144 word types
+14:28:42 INFO PROGRESS: at sentence #30000, processed 831641 words, keeping 29281 word types
+14:28:42 INFO PROGRESS: at sentence #40000, processed 1074407 words, keeping 33538 word types
+14:28:43 INFO PROGRESS: at sentence #50000, processed 1326775 words, keeping 40155 word types
+14:28:43 INFO PROGRESS: at sentence #60000, processed 1608323 words, keeping 49058 word types
+14:28:43 INFO PROGRESS: at sentence #70000, processed 1864187 words, keeping 52691 word types
+14:28:43 INFO PROGRESS: at sentence #80000, processed 2160009 words, keeping 58506 word types
+14:28:43 INFO PROGRESS: at sentence #90000, processed 2419666 words, keeping 62214 word types
+14:28:43 INFO collected 64324 word types from a corpus of 2569603 raw words and 95961 sentences
+14:28:43 INFO Creating a fresh vocabulary
+14:28:43 INFO Word2Vec lifecycle event {'msg': 'effective_min_count=5 retains 19495 unique words (30.31% of original 64324, drops 44829)', 'datetime': '2026-03-19T14:28:43.313942', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:28:43 INFO Word2Vec lifecycle event {'msg': 'effective_min_count=5 leaves 2494955 word corpus (97.09% of original 2569603, drops 74648)', 'datetime': '2026-03-19T14:28:43.313942', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:28:43 INFO deleting the raw counts dictionary of 64324 items
+14:28:43 INFO sample=0.001 downsamples 30 most-common words
+14:28:43 INFO Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 2037259.8855830114 word corpus (81.7%% of prior 2494955)', 'datetime': '2026-03-19T14:28:43.370259', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:28:43 INFO estimated required memory for 19495 words and 300 dimensions: 56535500 bytes
+14:28:43 INFO resetting layer weights
+14:28:43 INFO Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2026-03-19T14:28:43.498577', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'build_vocab'}
+14:28:43 INFO Word2Vec lifecycle event {'msg': 'training model with 4 workers on 19495 vocabulary and 300 features, using sg=1 hs=0 sample=0.001 negative=15 window=5 shrink_windows=True', 'datetime': '2026-03-19T14:28:43.498577', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:28:44 INFO EPOCH 0 - PROGRESS: at 8.70% examples, 152850 words/s, in_qsize 7, out_qsize 0
+14:28:45 INFO EPOCH 0 - PROGRESS: at 17.61% examples, 164604 words/s, in_qsize 8, out_qsize 0
+14:28:46 INFO EPOCH 0 - PROGRESS: at 25.53% examples, 164563 words/s, in_qsize 7, out_qsize 0
+14:28:47 INFO EPOCH 0 - PROGRESS: at 34.44% examples, 167592 words/s, in_qsize 7, out_qsize 0
+14:28:48 INFO EPOCH 0 - PROGRESS: at 44.38% examples, 169892 words/s, in_qsize 7, out_qsize 0
+14:28:49 INFO EPOCH 0 - PROGRESS: at 53.62% examples, 170499 words/s, in_qsize 7, out_qsize 0
+14:28:50 INFO EPOCH 0 - PROGRESS: at 62.00% examples, 170491 words/s, in_qsize 7, out_qsize 0
+14:28:51 INFO EPOCH 0 - PROGRESS: at 69.48% examples, 167348 words/s, in_qsize 7, out_qsize 0
+14:28:52 INFO EPOCH 0 - PROGRESS: at 76.31% examples, 165276 words/s, in_qsize 7, out_qsize 0
+14:28:53 INFO EPOCH 0 - PROGRESS: at 85.03% examples, 166651 words/s, in_qsize 7, out_qsize 0
+14:28:54 INFO EPOCH 0 - PROGRESS: at 94.09% examples, 167191 words/s, in_qsize 7, out_qsize 0
+14:28:55 INFO EPOCH 0: training on 2569603 raw words (2036463 effective words) took 12.1s, 168594 effective words/s
+14:28:56 INFO EPOCH 1 - PROGRESS: at 8.70% examples, 150048 words/s, in_qsize 7, out_qsize 0
+14:28:57 INFO EPOCH 1 - PROGRESS: at 17.61% examples, 162079 words/s, in_qsize 7, out_qsize 0
+14:28:58 INFO EPOCH 1 - PROGRESS: at 25.53% examples, 163346 words/s, in_qsize 7, out_qsize 0
+14:28:59 INFO EPOCH 1 - PROGRESS: at 34.06% examples, 165444 words/s, in_qsize 7, out_qsize 0
+14:29:00 INFO EPOCH 1 - PROGRESS: at 42.53% examples, 161633 words/s, in_qsize 7, out_qsize 0
+14:29:01 INFO EPOCH 1 - PROGRESS: at 50.69% examples, 160227 words/s, in_qsize 7, out_qsize 0
+14:29:03 INFO EPOCH 1 - PROGRESS: at 58.91% examples, 158708 words/s, in_qsize 7, out_qsize 0
+14:29:04 INFO EPOCH 1 - PROGRESS: at 65.51% examples, 156273 words/s, in_qsize 8, out_qsize 0
+14:29:05 INFO EPOCH 1 - PROGRESS: at 73.37% examples, 156074 words/s, in_qsize 6, out_qsize 1
+14:29:06 INFO EPOCH 1 - PROGRESS: at 82.04% examples, 159285 words/s, in_qsize 7, out_qsize 0
+14:29:07 INFO EPOCH 1 - PROGRESS: at 91.04% examples, 160272 words/s, in_qsize 8, out_qsize 0
+14:29:08 INFO EPOCH 1 - PROGRESS: at 100.00% examples, 161988 words/s, in_qsize 0, out_qsize 1
+14:29:08 INFO EPOCH 1: training on 2569603 raw words (2037201 effective words) took 12.6s, 161984 effective words/s
+14:29:09 INFO EPOCH 2 - PROGRESS: at 9.08% examples, 169151 words/s, in_qsize 7, out_qsize 0
+14:29:10 INFO EPOCH 2 - PROGRESS: at 17.61% examples, 171819 words/s, in_qsize 7, out_qsize 0
+14:29:11 INFO EPOCH 2 - PROGRESS: at 25.53% examples, 173646 words/s, in_qsize 7, out_qsize 0
+14:29:12 INFO EPOCH 2 - PROGRESS: at 34.02% examples, 173302 words/s, in_qsize 7, out_qsize 0
+14:29:13 INFO EPOCH 2 - PROGRESS: at 43.92% examples, 175470 words/s, in_qsize 7, out_qsize 0
+14:29:14 INFO EPOCH 2 - PROGRESS: at 53.27% examples, 175025 words/s, in_qsize 7, out_qsize 0
+14:29:15 INFO EPOCH 2 - PROGRESS: at 62.00% examples, 175478 words/s, in_qsize 7, out_qsize 0
+14:29:16 INFO EPOCH 2 - PROGRESS: at 71.12% examples, 174791 words/s, in_qsize 7, out_qsize 0
+14:29:17 INFO EPOCH 2 - PROGRESS: at 80.01% examples, 175614 words/s, in_qsize 7, out_qsize 0
+14:29:18 INFO EPOCH 2 - PROGRESS: at 88.67% examples, 174993 words/s, in_qsize 7, out_qsize 0
+14:29:19 INFO EPOCH 2 - PROGRESS: at 97.25% examples, 175352 words/s, in_qsize 7, out_qsize 0
+14:29:19 INFO EPOCH 2: training on 2569603 raw words (2036675 effective words) took 11.6s, 176302 effective words/s
+14:29:20 INFO EPOCH 3 - PROGRESS: at 9.17% examples, 159000 words/s, in_qsize 7, out_qsize 0
+14:29:21 INFO EPOCH 3 - PROGRESS: at 18.64% examples, 173823 words/s, in_qsize 7, out_qsize 0
+14:29:22 INFO EPOCH 3 - PROGRESS: at 26.55% examples, 175955 words/s, in_qsize 7, out_qsize 0
+14:29:23 INFO EPOCH 3 - PROGRESS: at 35.52% examples, 175243 words/s, in_qsize 7, out_qsize 0
+14:29:24 INFO EPOCH 3 - PROGRESS: at 45.30% examples, 176090 words/s, in_qsize 7, out_qsize 0
+14:29:25 INFO EPOCH 3 - PROGRESS: at 54.93% examples, 176774 words/s, in_qsize 7, out_qsize 0
+14:29:27 INFO EPOCH 3 - PROGRESS: at 62.70% examples, 174979 words/s, in_qsize 7, out_qsize 0
+14:29:28 INFO EPOCH 3 - PROGRESS: at 71.56% examples, 173751 words/s, in_qsize 7, out_qsize 0
+14:29:29 INFO EPOCH 3 - PROGRESS: at 80.76% examples, 174469 words/s, in_qsize 7, out_qsize 0
+14:29:30 INFO EPOCH 3 - PROGRESS: at 90.33% examples, 174595 words/s, in_qsize 8, out_qsize 0
+14:29:31 INFO EPOCH 3 - PROGRESS: at 98.76% examples, 175354 words/s, in_qsize 3, out_qsize 1
+14:29:31 INFO EPOCH 3: training on 2569603 raw words (2037561 effective words) took 11.6s, 175919 effective words/s
+14:29:32 INFO EPOCH 4 - PROGRESS: at 8.70% examples, 163187 words/s, in_qsize 7, out_qsize 0
+14:29:33 INFO EPOCH 4 - PROGRESS: at 17.61% examples, 170615 words/s, in_qsize 7, out_qsize 0
+14:29:34 INFO EPOCH 4 - PROGRESS: at 25.53% examples, 173030 words/s, in_qsize 7, out_qsize 0
+14:29:35 INFO EPOCH 4 - PROGRESS: at 34.79% examples, 174460 words/s, in_qsize 7, out_qsize 0
+14:29:36 INFO EPOCH 4 - PROGRESS: at 44.90% examples, 177907 words/s, in_qsize 7, out_qsize 0
+14:29:37 INFO EPOCH 4 - PROGRESS: at 54.93% examples, 179997 words/s, in_qsize 7, out_qsize 0
+14:29:38 INFO EPOCH 4 - PROGRESS: at 63.23% examples, 177891 words/s, in_qsize 7, out_qsize 0
+14:29:39 INFO EPOCH 4 - PROGRESS: at 72.37% examples, 178148 words/s, in_qsize 7, out_qsize 0
+14:29:40 INFO EPOCH 4 - PROGRESS: at 80.71% examples, 177467 words/s, in_qsize 7, out_qsize 0
+14:29:41 INFO EPOCH 4 - PROGRESS: at 90.85% examples, 178364 words/s, in_qsize 7, out_qsize 0
+14:29:42 INFO EPOCH 4 - PROGRESS: at 99.63% examples, 179155 words/s, in_qsize 1, out_qsize 1
+14:29:42 INFO EPOCH 4: training on 2569603 raw words (2037239 effective words) took 11.4s, 179389 effective words/s
+14:29:43 INFO EPOCH 5 - PROGRESS: at 8.68% examples, 163292 words/s, in_qsize 7, out_qsize 0
+14:29:44 INFO EPOCH 5 - PROGRESS: at 17.61% examples, 174210 words/s, in_qsize 7, out_qsize 0
+14:29:45 INFO EPOCH 5 - PROGRESS: at 25.53% examples, 174099 words/s, in_qsize 7, out_qsize 0
+14:29:46 INFO EPOCH 5 - PROGRESS: at 34.79% examples, 176734 words/s, in_qsize 7, out_qsize 0
+14:29:47 INFO EPOCH 5 - PROGRESS: at 44.38% examples, 175623 words/s, in_qsize 7, out_qsize 0
+14:29:48 INFO EPOCH 5 - PROGRESS: at 54.43% examples, 177041 words/s, in_qsize 7, out_qsize 0
+14:29:49 INFO EPOCH 5 - PROGRESS: at 62.70% examples, 175654 words/s, in_qsize 7, out_qsize 0
+14:29:50 INFO EPOCH 5 - PROGRESS: at 71.12% examples, 174406 words/s, in_qsize 7, out_qsize 0
+14:29:51 INFO EPOCH 5 - PROGRESS: at 78.92% examples, 173122 words/s, in_qsize 7, out_qsize 0
+14:29:52 INFO EPOCH 5 - PROGRESS: at 87.21% examples, 173084 words/s, in_qsize 7, out_qsize 0
+14:29:53 INFO EPOCH 5 - PROGRESS: at 95.86% examples, 172488 words/s, in_qsize 7, out_qsize 0
+14:29:54 INFO EPOCH 5: training on 2569603 raw words (2037744 effective words) took 11.7s, 173898 effective words/s
+14:29:55 INFO EPOCH 6 - PROGRESS: at 9.37% examples, 168076 words/s, in_qsize 7, out_qsize 0
+14:29:56 INFO EPOCH 6 - PROGRESS: at 18.36% examples, 169437 words/s, in_qsize 7, out_qsize 0
+14:29:57 INFO EPOCH 6 - PROGRESS: at 25.86% examples, 169824 words/s, in_qsize 7, out_qsize 0
+14:29:58 INFO EPOCH 6 - PROGRESS: at 35.15% examples, 172784 words/s, in_qsize 7, out_qsize 0
+14:29:59 INFO EPOCH 6 - PROGRESS: at 44.90% examples, 173250 words/s, in_qsize 7, out_qsize 0
+14:30:00 INFO EPOCH 6 - PROGRESS: at 55.29% examples, 174870 words/s, in_qsize 7, out_qsize 0
+14:30:01 INFO EPOCH 6 - PROGRESS: at 65.07% examples, 175828 words/s, in_qsize 7, out_qsize 0
+14:30:02 INFO EPOCH 6 - PROGRESS: at 74.42% examples, 176436 words/s, in_qsize 7, out_qsize 0
+14:30:03 INFO EPOCH 6 - PROGRESS: at 82.41% examples, 176258 words/s, in_qsize 7, out_qsize 0
+14:30:04 INFO EPOCH 6 - PROGRESS: at 91.71% examples, 176228 words/s, in_qsize 7, out_qsize 0
+14:30:05 INFO EPOCH 6: training on 2569603 raw words (2037102 effective words) took 11.5s, 177209 effective words/s
+14:30:06 INFO EPOCH 7 - PROGRESS: at 8.70% examples, 156505 words/s, in_qsize 7, out_qsize 0
+14:30:07 INFO EPOCH 7 - PROGRESS: at 18.01% examples, 171698 words/s, in_qsize 7, out_qsize 0
+14:30:08 INFO EPOCH 7 - PROGRESS: at 25.86% examples, 174602 words/s, in_qsize 7, out_qsize 0
+14:30:10 INFO EPOCH 7 - PROGRESS: at 35.16% examples, 175066 words/s, in_qsize 7, out_qsize 0
+14:30:11 INFO EPOCH 7 - PROGRESS: at 45.30% examples, 177978 words/s, in_qsize 7, out_qsize 0
+14:30:12 INFO EPOCH 7 - PROGRESS: at 54.43% examples, 177568 words/s, in_qsize 7, out_qsize 0
+14:30:13 INFO EPOCH 7 - PROGRESS: at 63.30% examples, 178242 words/s, in_qsize 6, out_qsize 1
+14:30:14 INFO EPOCH 7 - PROGRESS: at 73.29% examples, 179060 words/s, in_qsize 7, out_qsize 0
+14:30:15 INFO EPOCH 7 - PROGRESS: at 81.67% examples, 179527 words/s, in_qsize 7, out_qsize 0
+14:30:16 INFO EPOCH 7 - PROGRESS: at 91.04% examples, 178789 words/s, in_qsize 7, out_qsize 0
+14:30:17 INFO EPOCH 7 - PROGRESS: at 98.76% examples, 176838 words/s, in_qsize 3, out_qsize 1
+14:30:17 INFO EPOCH 7: training on 2569603 raw words (2037404 effective words) took 11.5s, 177861 effective words/s
+14:30:18 INFO EPOCH 8 - PROGRESS: at 8.70% examples, 157214 words/s, in_qsize 7, out_qsize 0
+14:30:19 INFO EPOCH 8 - PROGRESS: at 17.61% examples, 168045 words/s, in_qsize 7, out_qsize 0
+14:30:20 INFO EPOCH 8 - PROGRESS: at 25.24% examples, 169635 words/s, in_qsize 7, out_qsize 0
+14:30:21 INFO EPOCH 8 - PROGRESS: at 34.44% examples, 173889 words/s, in_qsize 7, out_qsize 0
+14:30:22 INFO EPOCH 8 - PROGRESS: at 44.16% examples, 175936 words/s, in_qsize 7, out_qsize 0
+14:30:23 INFO EPOCH 8 - PROGRESS: at 53.62% examples, 175508 words/s, in_qsize 7, out_qsize 0
+14:30:24 INFO EPOCH 8 - PROGRESS: at 63.30% examples, 176801 words/s, in_qsize 7, out_qsize 0
+14:30:25 INFO EPOCH 8 - PROGRESS: at 72.37% examples, 176969 words/s, in_qsize 7, out_qsize 0
+14:30:26 INFO EPOCH 8 - PROGRESS: at 81.13% examples, 176957 words/s, in_qsize 7, out_qsize 0
+14:30:27 INFO EPOCH 8 - PROGRESS: at 91.04% examples, 177953 words/s, in_qsize 8, out_qsize 0
+14:30:28 INFO EPOCH 8 - PROGRESS: at 100.00% examples, 178315 words/s, in_qsize 0, out_qsize 1
+14:30:28 INFO EPOCH 8: training on 2569603 raw words (2037602 effective words) took 11.4s, 178311 effective words/s
+14:30:29 INFO EPOCH 9 - PROGRESS: at 8.70% examples, 163161 words/s, in_qsize 8, out_qsize 0
+14:30:30 INFO EPOCH 9 - PROGRESS: at 17.27% examples, 169677 words/s, in_qsize 8, out_qsize 0
+14:30:31 INFO EPOCH 9 - PROGRESS: at 25.53% examples, 173494 words/s, in_qsize 7, out_qsize 0
+14:30:32 INFO EPOCH 9 - PROGRESS: at 33.66% examples, 171572 words/s, in_qsize 7, out_qsize 0
+14:30:33 INFO EPOCH 9 - PROGRESS: at 43.92% examples, 172358 words/s, in_qsize 7, out_qsize 0
+14:30:35 INFO EPOCH 9 - PROGRESS: at 53.75% examples, 173881 words/s, in_qsize 7, out_qsize 0
+14:30:36 INFO EPOCH 9 - PROGRESS: at 62.00% examples, 173568 words/s, in_qsize 7, out_qsize 0
+14:30:37 INFO EPOCH 9 - PROGRESS: at 71.12% examples, 174589 words/s, in_qsize 7, out_qsize 0
+14:30:38 INFO EPOCH 9 - PROGRESS: at 79.62% examples, 174821 words/s, in_qsize 7, out_qsize 0
+14:30:39 INFO EPOCH 9 - PROGRESS: at 88.71% examples, 174277 words/s, in_qsize 7, out_qsize 0
+14:30:40 INFO EPOCH 9 - PROGRESS: at 97.25% examples, 174606 words/s, in_qsize 7, out_qsize 0
+14:30:40 INFO EPOCH 9: training on 2569603 raw words (2037533 effective words) took 11.6s, 175571 effective words/s
+14:30:40 INFO Word2Vec lifecycle event {'msg': 'training on 25696030 raw words (20372524 effective words) took 116.9s, 174323 effective words/s', 'datetime': '2026-03-19T14:30:40.364131', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:30:40 INFO Word2Vec lifecycle event {'params': 'Word2Vec<vocab=19495, vector_size=300, alpha=0.025>', 'datetime': '2026-03-19T14:30:40.364131', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'created'}
+    Done in 117.7s  |  vocab=19,495
+
+  Experiment results saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\experiment_results.json
+
+===========================================================================
+Arch     Sweep             Dim  Win  Neg   Vocab  Time(s)  AvgSim
+---------------------------------------------------------------------------
+cbow     dimension         100    5   10  19,495     13.7  0.2091
+skipgram dimension         100    5   10  19,495     50.7  0.3950
+cbow     dimension         200    5   10  19,495     19.1  0.1827
+skipgram dimension         200    5   10  19,495     66.6  0.3091
+cbow     dimension         300    5   10  19,495     23.2  0.1904
+skipgram dimension         300    5   10  19,495     83.6  0.2567
+cbow     window            300    3   10  19,495     21.9  0.2149
+skipgram window            300    3   10  19,495     58.5  0.2509
+cbow     window            300   10   10  19,495     24.7  0.1828
+skipgram window            300   10   10  19,495    137.3  0.2774
+cbow     negative_samples  300    5    5  19,495     16.4  0.1865
+skipgram negative_samples  300    5    5  19,495     48.1  0.2414
+cbow     negative_samples  300    5   15  19,495     29.3  0.1934
+skipgram negative_samples  300    5   15  19,495    117.7  0.2742
+===========================================================================
+
+[2] Training best models (dim=300, win=5, neg=10, epochs=10) …
+
+  Training CBOW     | dim=300 win= 5 neg=10  [best_cbow]
+14:30:40 INFO collecting all words and their counts
+14:30:40 INFO PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+14:30:40 INFO PROGRESS: at sentence #10000, processed 251058 words, keeping 15057 word types
+14:30:40 INFO PROGRESS: at sentence #20000, processed 548640 words, keeping 23144 word types
+14:30:40 INFO PROGRESS: at sentence #30000, processed 831641 words, keeping 29281 word types
+14:30:40 INFO PROGRESS: at sentence #40000, processed 1074407 words, keeping 33538 word types
+14:30:40 INFO PROGRESS: at sentence #50000, processed 1326775 words, keeping 40155 word types
+14:30:40 INFO PROGRESS: at sentence #60000, processed 1608323 words, keeping 49058 word types
+14:30:40 INFO PROGRESS: at sentence #70000, processed 1864187 words, keeping 52691 word types
+14:30:40 INFO PROGRESS: at sentence #80000, processed 2160009 words, keeping 58506 word types
+14:30:40 INFO PROGRESS: at sentence #90000, processed 2419666 words, keeping 62214 word types
+14:30:40 INFO collected 64324 word types from a corpus of 2569603 raw words and 95961 sentences
+14:30:40 INFO Creating a fresh vocabulary
+14:30:40 INFO Word2Vec lifecycle event {'msg': 'effective_min_count=5 retains 19495 unique words (30.31% of original 64324, drops 44829)', 'datetime': '2026-03-19T14:30:40.965517', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:30:40 INFO Word2Vec lifecycle event {'msg': 'effective_min_count=5 leaves 2494955 word corpus (97.09% of original 2569603, drops 74648)', 'datetime': '2026-03-19T14:30:40.966053', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:30:41 INFO deleting the raw counts dictionary of 64324 items
+14:30:41 INFO sample=0.001 downsamples 30 most-common words
+14:30:41 INFO Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 2037259.8855830114 word corpus (81.7%% of prior 2494955)', 'datetime': '2026-03-19T14:30:41.021759', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:30:41 INFO estimated required memory for 19495 words and 300 dimensions: 56535500 bytes
+14:30:41 INFO resetting layer weights
+14:30:41 INFO Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2026-03-19T14:30:41.142960', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'build_vocab'}
+14:30:41 INFO Word2Vec lifecycle event {'msg': 'training model with 4 workers on 19495 vocabulary and 300 features, using sg=0 hs=0 sample=0.001 negative=10 window=5 shrink_windows=True', 'datetime': '2026-03-19T14:30:41.142960', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:30:42 INFO EPOCH 0 - PROGRESS: at 43.24% examples, 878782 words/s, in_qsize 7, out_qsize 0
+14:30:43 INFO EPOCH 0 - PROGRESS: at 91.04% examples, 915665 words/s, in_qsize 7, out_qsize 0
+14:30:43 INFO EPOCH 0: training on 2569603 raw words (2037104 effective words) took 2.2s, 925126 effective words/s
+14:30:44 INFO EPOCH 1 - PROGRESS: at 44.38% examples, 882531 words/s, in_qsize 4, out_qsize 3
+14:30:45 INFO EPOCH 1 - PROGRESS: at 92.33% examples, 922363 words/s, in_qsize 7, out_qsize 0
+14:30:45 INFO EPOCH 1: training on 2569603 raw words (2037484 effective words) took 2.2s, 926468 effective words/s
+14:30:46 INFO EPOCH 2 - PROGRESS: at 45.30% examples, 918216 words/s, in_qsize 7, out_qsize 0
+14:30:47 INFO EPOCH 2 - PROGRESS: at 92.77% examples, 937991 words/s, in_qsize 7, out_qsize 0
+14:30:47 INFO EPOCH 2: training on 2569603 raw words (2036991 effective words) took 2.2s, 944039 effective words/s
+14:30:48 INFO EPOCH 3 - PROGRESS: at 44.90% examples, 917998 words/s, in_qsize 8, out_qsize 0
+14:30:49 INFO EPOCH 3 - PROGRESS: at 92.33% examples, 936501 words/s, in_qsize 7, out_qsize 0
+14:30:49 INFO EPOCH 3: training on 2569603 raw words (2038115 effective words) took 2.2s, 933052 effective words/s
+14:30:50 INFO EPOCH 4 - PROGRESS: at 43.92% examples, 891584 words/s, in_qsize 7, out_qsize 0
+14:30:51 INFO EPOCH 4 - PROGRESS: at 86.78% examples, 882508 words/s, in_qsize 7, out_qsize 0
+14:30:52 INFO EPOCH 4: training on 2569603 raw words (2036926 effective words) took 2.3s, 895239 effective words/s
+14:30:53 INFO EPOCH 5 - PROGRESS: at 44.90% examples, 907052 words/s, in_qsize 7, out_qsize 0
+14:30:54 INFO EPOCH 5 - PROGRESS: at 92.33% examples, 932764 words/s, in_qsize 7, out_qsize 0
+14:30:54 INFO EPOCH 5: training on 2569603 raw words (2037907 effective words) took 2.2s, 942500 effective words/s
+14:30:55 INFO EPOCH 6 - PROGRESS: at 45.55% examples, 933392 words/s, in_qsize 7, out_qsize 0
+14:30:56 INFO EPOCH 6 - PROGRESS: at 92.45% examples, 936749 words/s, in_qsize 7, out_qsize 0
+14:30:56 INFO EPOCH 6: training on 2569603 raw words (2037591 effective words) took 2.1s, 948195 effective words/s
+14:30:57 INFO EPOCH 7 - PROGRESS: at 45.30% examples, 925138 words/s, in_qsize 7, out_qsize 0
+14:30:58 INFO EPOCH 7 - PROGRESS: at 90.97% examples, 917128 words/s, in_qsize 7, out_qsize 0
+14:30:58 INFO EPOCH 7: training on 2569603 raw words (2037011 effective words) took 2.2s, 929694 effective words/s
+14:30:59 INFO EPOCH 8 - PROGRESS: at 45.64% examples, 928527 words/s, in_qsize 7, out_qsize 0
+14:31:00 INFO EPOCH 8 - PROGRESS: at 92.33% examples, 936501 words/s, in_qsize 7, out_qsize 0
+14:31:00 INFO EPOCH 8: training on 2569603 raw words (2037627 effective words) took 2.2s, 942852 effective words/s
+14:31:01 INFO EPOCH 9 - PROGRESS: at 47.05% examples, 961903 words/s, in_qsize 7, out_qsize 0
+14:31:02 INFO EPOCH 9 - PROGRESS: at 93.67% examples, 950527 words/s, in_qsize 7, out_qsize 0
+14:31:02 INFO EPOCH 9: training on 2569603 raw words (2037620 effective words) took 2.2s, 947298 effective words/s
+14:31:02 INFO Word2Vec lifecycle event {'msg': 'training on 25696030 raw words (20374376 effective words) took 21.9s, 932397 effective words/s', 'datetime': '2026-03-19T14:31:02.993902', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:31:02 INFO Word2Vec lifecycle event {'params': 'Word2Vec<vocab=19495, vector_size=300, alpha=0.025>', 'datetime': '2026-03-19T14:31:02.995405', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'created'}
+    Done in 22.6s  |  vocab=19,495
+14:31:02 INFO Word2Vec lifecycle event {'fname_or_handle': 'D:\\SEM2\\NLU\\Ass2\\Q1\\scripts\\..\\data\\models\\cbow_best.model', 'separately': 'None', 'sep_limit': 10485760, 'ignore': frozenset(), 'datetime': '2026-03-19T14:31:02.995405', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'saving'}
+14:31:02 INFO not storing attribute cum_table
+14:31:03 INFO saved D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\cbow_best.model
+  Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\cbow_best.model
+
+  Training SKIPGRAM | dim=300 win= 5 neg=10  [best_skipgram]
+14:31:03 INFO collecting all words and their counts
+14:31:03 INFO PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+14:31:03 INFO PROGRESS: at sentence #10000, processed 251058 words, keeping 15057 word types
+14:31:03 INFO PROGRESS: at sentence #20000, processed 548640 words, keeping 23144 word types
+14:31:03 INFO PROGRESS: at sentence #30000, processed 831641 words, keeping 29281 word types
+14:31:03 INFO PROGRESS: at sentence #40000, processed 1074407 words, keeping 33538 word types
+14:31:03 INFO PROGRESS: at sentence #50000, processed 1326775 words, keeping 40155 word types
+14:31:03 INFO PROGRESS: at sentence #60000, processed 1608323 words, keeping 49058 word types
+14:31:03 INFO PROGRESS: at sentence #70000, processed 1864187 words, keeping 52691 word types
+14:31:03 INFO PROGRESS: at sentence #80000, processed 2160009 words, keeping 58506 word types
+14:31:03 INFO PROGRESS: at sentence #90000, processed 2419666 words, keeping 62214 word types
+14:31:03 INFO collected 64324 word types from a corpus of 2569603 raw words and 95961 sentences
+14:31:03 INFO Creating a fresh vocabulary
+14:31:03 INFO Word2Vec lifecycle event {'msg': 'effective_min_count=5 retains 19495 unique words (30.31% of original 64324, drops 44829)', 'datetime': '2026-03-19T14:31:03.704265', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:31:03 INFO Word2Vec lifecycle event {'msg': 'effective_min_count=5 leaves 2494955 word corpus (97.09% of original 2569603, drops 74648)', 'datetime': '2026-03-19T14:31:03.704265', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:31:03 INFO deleting the raw counts dictionary of 64324 items
+14:31:03 INFO sample=0.001 downsamples 30 most-common words
+14:31:03 INFO Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 2037259.8855830114 word corpus (81.7%% of prior 2494955)', 'datetime': '2026-03-19T14:31:03.757632', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'prepare_vocab'}
+14:31:03 INFO estimated required memory for 19495 words and 300 dimensions: 56535500 bytes
+14:31:03 INFO resetting layer weights
+14:31:03 INFO Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2026-03-19T14:31:03.916090', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'build_vocab'}
+14:31:03 INFO Word2Vec lifecycle event {'msg': 'training model with 4 workers on 19495 vocabulary and 300 features, using sg=1 hs=0 sample=0.001 negative=10 window=5 shrink_windows=True', 'datetime': '2026-03-19T14:31:03.916599', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:31:04 INFO EPOCH 0 - PROGRESS: at 11.82% examples, 233619 words/s, in_qsize 7, out_qsize 0
+14:31:05 INFO EPOCH 0 - PROGRESS: at 23.94% examples, 245050 words/s, in_qsize 8, out_qsize 0
+14:31:06 INFO EPOCH 0 - PROGRESS: at 35.92% examples, 241878 words/s, in_qsize 7, out_qsize 0
+14:31:08 INFO EPOCH 0 - PROGRESS: at 48.68% examples, 243953 words/s, in_qsize 7, out_qsize 0
+14:31:09 INFO EPOCH 0 - PROGRESS: at 61.58% examples, 242217 words/s, in_qsize 7, out_qsize 0
+14:31:10 INFO EPOCH 0 - PROGRESS: at 74.47% examples, 244576 words/s, in_qsize 8, out_qsize 0
+14:31:11 INFO EPOCH 0 - PROGRESS: at 86.34% examples, 244987 words/s, in_qsize 7, out_qsize 0
+14:31:12 INFO EPOCH 0 - PROGRESS: at 98.76% examples, 243984 words/s, in_qsize 3, out_qsize 1
+14:31:12 INFO EPOCH 0: training on 2569603 raw words (2037071 effective words) took 8.3s, 246287 effective words/s
+14:31:13 INFO EPOCH 1 - PROGRESS: at 11.74% examples, 229210 words/s, in_qsize 7, out_qsize 0
+14:31:14 INFO EPOCH 1 - PROGRESS: at 23.12% examples, 238871 words/s, in_qsize 7, out_qsize 0
+14:31:15 INFO EPOCH 1 - PROGRESS: at 35.15% examples, 241333 words/s, in_qsize 7, out_qsize 0
+14:31:16 INFO EPOCH 1 - PROGRESS: at 48.27% examples, 242622 words/s, in_qsize 7, out_qsize 0
+14:31:17 INFO EPOCH 1 - PROGRESS: at 61.58% examples, 244970 words/s, in_qsize 7, out_qsize 0
+14:31:18 INFO EPOCH 1 - PROGRESS: at 73.73% examples, 242332 words/s, in_qsize 7, out_qsize 0
+14:31:19 INFO EPOCH 1 - PROGRESS: at 85.03% examples, 243250 words/s, in_qsize 7, out_qsize 0
+14:31:20 INFO EPOCH 1 - PROGRESS: at 97.74% examples, 244161 words/s, in_qsize 6, out_qsize 0
+14:31:20 INFO EPOCH 1: training on 2569603 raw words (2037572 effective words) took 8.3s, 244736 effective words/s
+14:31:21 INFO EPOCH 2 - PROGRESS: at 11.93% examples, 237661 words/s, in_qsize 7, out_qsize 0
+14:31:22 INFO EPOCH 2 - PROGRESS: at 24.20% examples, 241953 words/s, in_qsize 7, out_qsize 0
+14:31:23 INFO EPOCH 2 - PROGRESS: at 37.85% examples, 247063 words/s, in_qsize 7, out_qsize 0
+14:31:24 INFO EPOCH 2 - PROGRESS: at 52.13% examples, 251392 words/s, in_qsize 7, out_qsize 0
+14:31:25 INFO EPOCH 2 - PROGRESS: at 64.28% examples, 250287 words/s, in_qsize 7, out_qsize 0
+14:31:26 INFO EPOCH 2 - PROGRESS: at 76.31% examples, 249819 words/s, in_qsize 7, out_qsize 0
+14:31:27 INFO EPOCH 2 - PROGRESS: at 88.03% examples, 247723 words/s, in_qsize 7, out_qsize 0
+14:31:28 INFO EPOCH 2: training on 2569603 raw words (2037198 effective words) took 8.2s, 247877 effective words/s
+14:31:29 INFO EPOCH 3 - PROGRESS: at 11.82% examples, 227004 words/s, in_qsize 7, out_qsize 0
+14:31:30 INFO EPOCH 3 - PROGRESS: at 24.20% examples, 246074 words/s, in_qsize 7, out_qsize 0
+14:31:31 INFO EPOCH 3 - PROGRESS: at 37.01% examples, 246559 words/s, in_qsize 7, out_qsize 0
+14:31:32 INFO EPOCH 3 - PROGRESS: at 50.70% examples, 249093 words/s, in_qsize 8, out_qsize 0
+14:31:33 INFO EPOCH 3 - PROGRESS: at 62.42% examples, 248048 words/s, in_qsize 7, out_qsize 0
+14:31:34 INFO EPOCH 3 - PROGRESS: at 74.82% examples, 247883 words/s, in_qsize 7, out_qsize 0
+14:31:35 INFO EPOCH 3 - PROGRESS: at 88.03% examples, 249887 words/s, in_qsize 7, out_qsize 0
+14:31:36 INFO EPOCH 3: training on 2569603 raw words (2036712 effective words) took 8.1s, 250503 effective words/s
+14:31:37 INFO EPOCH 4 - PROGRESS: at 10.38% examples, 191617 words/s, in_qsize 7, out_qsize 0
+14:31:38 INFO EPOCH 4 - PROGRESS: at 21.33% examples, 218142 words/s, in_qsize 7, out_qsize 0
+14:31:39 INFO EPOCH 4 - PROGRESS: at 34.04% examples, 232326 words/s, in_qsize 7, out_qsize 0
+14:31:40 INFO EPOCH 4 - PROGRESS: at 47.05% examples, 237050 words/s, in_qsize 7, out_qsize 0
+14:31:41 INFO EPOCH 4 - PROGRESS: at 60.37% examples, 241463 words/s, in_qsize 7, out_qsize 0
+14:31:42 INFO EPOCH 4 - PROGRESS: at 73.29% examples, 243311 words/s, in_qsize 7, out_qsize 0
+14:31:43 INFO EPOCH 4 - PROGRESS: at 85.03% examples, 244972 words/s, in_qsize 7, out_qsize 0
+14:31:45 INFO EPOCH 4 - PROGRESS: at 98.15% examples, 245239 words/s, in_qsize 5, out_qsize 0
+14:31:45 INFO EPOCH 4: training on 2569603 raw words (2038134 effective words) took 8.3s, 246001 effective words/s
+14:31:46 INFO EPOCH 5 - PROGRESS: at 11.93% examples, 234885 words/s, in_qsize 7, out_qsize 0
+14:31:47 INFO EPOCH 5 - PROGRESS: at 24.20% examples, 240230 words/s, in_qsize 7, out_qsize 0
+14:31:48 INFO EPOCH 5 - PROGRESS: at 37.01% examples, 244749 words/s, in_qsize 7, out_qsize 0
+14:31:49 INFO EPOCH 5 - PROGRESS: at 50.70% examples, 248561 words/s, in_qsize 7, out_qsize 0
+14:31:50 INFO EPOCH 5 - PROGRESS: at 62.70% examples, 249486 words/s, in_qsize 7, out_qsize 0
+14:31:51 INFO EPOCH 5 - PROGRESS: at 74.42% examples, 245887 words/s, in_qsize 7, out_qsize 0
+14:31:52 INFO EPOCH 5 - PROGRESS: at 85.03% examples, 244439 words/s, in_qsize 7, out_qsize 0
+14:31:53 INFO EPOCH 5 - PROGRESS: at 98.15% examples, 245828 words/s, in_qsize 5, out_qsize 0
+14:31:53 INFO EPOCH 5: training on 2569603 raw words (2037225 effective words) took 8.3s, 246640 effective words/s
+14:31:54 INFO EPOCH 6 - PROGRESS: at 12.37% examples, 239548 words/s, in_qsize 7, out_qsize 0
+14:31:55 INFO EPOCH 6 - PROGRESS: at 24.20% examples, 245391 words/s, in_qsize 7, out_qsize 0
+14:31:56 INFO EPOCH 6 - PROGRESS: at 37.01% examples, 247598 words/s, in_qsize 7, out_qsize 0
+14:31:57 INFO EPOCH 6 - PROGRESS: at 50.70% examples, 249656 words/s, in_qsize 7, out_qsize 0
+14:31:58 INFO EPOCH 6 - PROGRESS: at 62.70% examples, 250365 words/s, in_qsize 6, out_qsize 0
+14:31:59 INFO EPOCH 6 - PROGRESS: at 74.68% examples, 248368 words/s, in_qsize 7, out_qsize 0
+14:32:00 INFO EPOCH 6 - PROGRESS: at 87.65% examples, 250605 words/s, in_qsize 7, out_qsize 0
+14:32:01 INFO EPOCH 6: training on 2569603 raw words (2037019 effective words) took 8.1s, 251687 effective words/s
+14:32:02 INFO EPOCH 7 - PROGRESS: at 12.37% examples, 242753 words/s, in_qsize 7, out_qsize 0
+14:32:03 INFO EPOCH 7 - PROGRESS: at 23.94% examples, 247164 words/s, in_qsize 7, out_qsize 0
+14:32:04 INFO EPOCH 7 - PROGRESS: at 35.88% examples, 247888 words/s, in_qsize 8, out_qsize 0
+14:32:05 INFO EPOCH 7 - PROGRESS: at 47.89% examples, 244512 words/s, in_qsize 7, out_qsize 0
+14:32:06 INFO EPOCH 7 - PROGRESS: at 60.72% examples, 245850 words/s, in_qsize 7, out_qsize 0
+14:32:07 INFO EPOCH 7 - PROGRESS: at 73.22% examples, 244841 words/s, in_qsize 7, out_qsize 0
+14:32:08 INFO EPOCH 7 - PROGRESS: at 83.40% examples, 241173 words/s, in_qsize 7, out_qsize 0
+14:32:09 INFO EPOCH 7 - PROGRESS: at 97.39% examples, 244213 words/s, in_qsize 7, out_qsize 0
+14:32:09 INFO EPOCH 7: training on 2569603 raw words (2037955 effective words) took 8.3s, 246013 effective words/s
+14:32:10 INFO EPOCH 8 - PROGRESS: at 12.37% examples, 241626 words/s, in_qsize 7, out_qsize 0
+14:32:11 INFO EPOCH 8 - PROGRESS: at 23.73% examples, 245387 words/s, in_qsize 7, out_qsize 0
+14:32:12 INFO EPOCH 8 - PROGRESS: at 37.01% examples, 247072 words/s, in_qsize 7, out_qsize 0
+14:32:13 INFO EPOCH 8 - PROGRESS: at 50.30% examples, 248218 words/s, in_qsize 7, out_qsize 0
+14:32:14 INFO EPOCH 8 - PROGRESS: at 62.00% examples, 246861 words/s, in_qsize 7, out_qsize 0
+14:32:15 INFO EPOCH 8 - PROGRESS: at 74.47% examples, 247339 words/s, in_qsize 7, out_qsize 0
+14:32:16 INFO EPOCH 8 - PROGRESS: at 87.21% examples, 247571 words/s, in_qsize 7, out_qsize 0
+14:32:17 INFO EPOCH 8: training on 2569603 raw words (2036884 effective words) took 8.2s, 249600 effective words/s
+14:32:19 INFO EPOCH 9 - PROGRESS: at 12.37% examples, 238023 words/s, in_qsize 7, out_qsize 0
+14:32:20 INFO EPOCH 9 - PROGRESS: at 24.20% examples, 244874 words/s, in_qsize 7, out_qsize 0
+14:32:21 INFO EPOCH 9 - PROGRESS: at 37.01% examples, 243525 words/s, in_qsize 7, out_qsize 0
+14:32:22 INFO EPOCH 9 - PROGRESS: at 50.97% examples, 246984 words/s, in_qsize 7, out_qsize 0
+14:32:23 INFO EPOCH 9 - PROGRESS: at 63.23% examples, 249409 words/s, in_qsize 7, out_qsize 0
+14:32:24 INFO EPOCH 9 - PROGRESS: at 75.64% examples, 250725 words/s, in_qsize 8, out_qsize 0
+14:32:25 INFO EPOCH 9 - PROGRESS: at 87.59% examples, 249679 words/s, in_qsize 7, out_qsize 0
+14:32:26 INFO EPOCH 9: training on 2569603 raw words (2037837 effective words) took 8.1s, 251369 effective words/s
+14:32:26 INFO Word2Vec lifecycle event {'msg': 'training on 25696030 raw words (20373607 effective words) took 82.2s, 247983 effective words/s', 'datetime': '2026-03-19T14:32:26.073687', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'train'}
+14:32:26 INFO Word2Vec lifecycle event {'params': 'Word2Vec<vocab=19495, vector_size=300, alpha=0.025>', 'datetime': '2026-03-19T14:32:26.073687', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'created'}
+    Done in 83.0s  |  vocab=19,495
+14:32:26 INFO Word2Vec lifecycle event {'fname_or_handle': 'D:\\SEM2\\NLU\\Ass2\\Q1\\scripts\\..\\data\\models\\skipgram_best.model', 'separately': 'None', 'sep_limit': 10485760, 'ignore': frozenset(), 'datetime': '2026-03-19T14:32:26.078263', 'gensim': '4.4.0', 'python': '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.26200-SP0', 'event': 'saving'}
+14:32:26 INFO not storing attribute cum_table
+14:32:26 INFO saved D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\skipgram_best.model
+  Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\skipgram_best.model
+
+[OK] Step 'Word2Vec Model Training' completed successfully.
+
+  RUNNING: Semantic Analysis
+============================================================
+TASK 3  -  Semantic Analysis
+============================================================
+
+============================================================
+  Model: CBOW
+============================================================
+  Vocab size: 19,495
+
+  [1] Top-5 Nearest Neighbours
+  -------------------------------------------------------
+
+  'research':
+    1. collaborative         sim=0.4517
+    2. imparting             sim=0.4256
+    3. entrepreneurial       sim=0.4233
+    4. outreach              sim=0.4141
+    5. transdisciplinary     sim=0.4091
+
+  'student':
+    1. students              sim=0.5648
+    2. semesters             sim=0.4114
+    3. academics             sim=0.3992
+    4. candidate             sim=0.3811
+    5. scholar               sim=0.3689
+
+  'phd':
+    1. msc                   sim=0.5615
+    2. doctoral              sim=0.5282
+    3. ay                    sim=0.4926
+    4. dcs                   sim=0.4730
+    5. bsc                   sim=0.4684
+
+  'exam':
+    1. examination           sim=0.7249
+    2. syllabus              sim=0.6318
+    3. exams                 sim=0.6193
+    4. interview             sim=0.6135
+    5. entrance              sim=0.6066
+
+  'department':
+    1. dept                  sim=0.4635
+    2. institute             sim=0.3613
+    3. departments           sim=0.3551
+    4. sola                  sim=0.3516
+    5. institution           sim=0.3313
+
+  [2] Analogy Experiments
+  -------------------------------------------------------
+
+  UG : btech :: PG : ?
+  (If UG corresponds to BTech, what does PG correspond to?)
+  Top answers:
+    1. mtech                 sim=0.6246
+    2. tfe                   sim=0.5536
+    3. bsc                   sim=0.5470
+    4. bb                    sim=0.5392
+    5. mmt                   sim=0.5137
+
+  professor : teaching :: researcher : ?
+  (If a professor's role is teaching, what is a researcher's role?)
+  Top answers:
+    1. experienced           sim=0.4073
+    2. researchers           sim=0.3867
+    3. scientist             sim=0.3801
+    4. scholars              sim=0.3749
+    5. top                   sim=0.3665
+
+  mtech : postgraduate :: btech : ?
+  (If mtech is postgraduate, what level is btech?)
+  Top answers:
+    1. undergraduate         sim=0.7192
+    2. bsc                   sim=0.5981
+    3. bachelors             sim=0.5839
+    4. masters               sim=0.5534
+    5. ug                    sim=0.5494
+
+  mishra : assistant :: das : ?
+  (If Anand Mishra holds Assistant Professor rank, what rank does Debasis Das hold? (expected: associate))
+  Top answers:
+    1. palash                sim=0.5114
+    2. mithu                 sim=0.4613
+    3. sajal                 sim=0.4481
+    4. talhamainuddin        sim=0.4430
+    5. swapnil               sim=0.4426
+
+  gaurav : harit :: debasis : ?
+  (If 'gaurav' pairs with surname 'harit', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Gaurav Harit, Debasis Das))
+  Top answers:
+    1. palas                 sim=0.7244
+    2. limbasiya             sim=0.7004
+    3. sajal                 sim=0.6633
+    4. sikarwar              sim=0.6240
+    5. das                   sim=0.6164
+
+  gate : pg :: jee : ?
+  (If GATE is the entrance for PG programs, what is the entrance for UG programs?)
+  Top answers:
+    1. ug                    sim=0.5803
+    2. postgraduate          sim=0.5442
+    3. programs              sim=0.4370
+    4. diploma               sim=0.4309
+    5. masters               sim=0.4287
+
+  jee : btech :: gate : ?
+  (If JEE leads to BTech, what degree does GATE lead to?)
+  Top answers:
+    1. bb                    sim=0.5808
+    2. mtech                 sim=0.5770
+    3. specialization        sim=0.5442
+    4. ee                    sim=0.5192
+    5. mt                    sim=0.4934
+
+  iitm : madras :: iitj : ?
+  (If IIT Madras is in Madras (Chennai), IIT Jodhpur is in which city?)
+  Top answers:
+    1. jodhpur               sim=0.5656
+    2. tisc                  sim=0.4765
+    3. park                  sim=0.3841
+    4. campus                sim=0.3608
+    5. kanpur                sim=0.3505
+
+  iitb : bombay :: iitd : ?
+  (If IIT Bombay is in Bombay (Mumbai), IIT Delhi is in which city?)
+  Top answers:
+    1. mandi                 sim=0.6321
+    2. guwahati              sim=0.6259
+    3. gandhinagar           sim=0.6240
+    4. kharagpur             sim=0.6240
+    5. indore                sim=0.6156
+
+  exam : written :: viva : ?
+  (If a regular exam is written, what mode is a viva (viva voce)?)
+  Top answers:
+    1. voce                  sim=0.5814
+    2. gambling              sim=0.4915
+    3. bifma                 sim=0.4628
+    4. dexterity             sim=0.4542
+    5. evidences             sim=0.4374
+
+  conference : paper :: journal : ?
+  (If a conference publishes papers, what does a journal publish?)
+  Top answers:
+    1. article               sim=0.5532
+    2. papers                sim=0.4383
+    3. publishing            sim=0.4313
+    4. volume                sim=0.4260
+    5. abstract              sim=0.4106
+
+  conference : proceedings :: journal : ?
+  (If a conference has proceedings, what does a journal have?)
+  Top answers:
+    1. articles              sim=0.4435
+    2. prosecution           sim=0.4236
+    3. volume                sim=0.4216
+    4. issue                 sim=0.4094
+    5. journals              sim=0.3867
+
+  international : conference :: national : ?
+  (If a large-scale event is an international conference, what is a smaller national-level event called?)
+  Top answers:
+    1. symposium             sim=0.5044
+    2. congress              sim=0.4680
+    3. convention            sim=0.4347
+    4. summit                sim=0.4346
+    5. china                 sim=0.4343
+
+  anand : mishra :: debasis : ?
+  (If 'anand' pairs with surname 'mishra', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Anand Mishra, Debasis Das))
+  Top answers:
+    1. das                   sim=0.6795
+    2. sikarwar              sim=0.6727
+    3. limbasiya             sim=0.6300
+    4. vishwakarma           sim=0.5941
+    5. sajal                 sim=0.5728
+
+  anand : mishra :: gaurav : ?
+  (If 'anand' pairs with surname 'mishra', what surname does 'gaurav' pair with? (IIT Jodhpur faculty: Anand Mishra, Gaurav Harit))
+  Top answers:
+    1. harit                 sim=0.6204
+    2. bhatnagar             sim=0.5923
+    3. agrawal               sim=0.5339
+    4. chattopadhyay         sim=0.5147
+    5. sikri                 sim=0.5111
+
+============================================================
+  Model: SKIPGRAM
+============================================================
+  Vocab size: 19,495
+
+  [1] Top-5 Nearest Neighbours
+  -------------------------------------------------------
+
+  'research':
+    1. safari                sim=0.5154
+    2. niser                 sim=0.5116
+    3. expanding             sim=0.4964
+    4. collaborative         sim=0.4897
+    5. strengthened          sim=0.4827
+
+  'student':
+    1. moderators            sim=0.5002
+    2. gymkhana              sim=0.4855
+    3. students              sim=0.4852
+    4. shan                  sim=0.4794
+    5. nominations           sim=0.4729
+
+  'phd':
+    1. fms                   sim=0.4597
+    2. parttime              sim=0.4520
+    3. sharanya              sim=0.4462
+    4. mitacs                sim=0.4389
+    5. july2025              sim=0.4366
+
+  'exam':
+    1. examination           sim=0.6344
+    2. cbt                   sim=0.6151
+    3. exams                 sim=0.5894
+    4. entrance              sim=0.5595
+    5. postcode              sim=0.5448
+
+  'department':
+    1. epartment             sim=0.5635
+    2. csl7xx1               sim=0.4904
+    3. mal1010               sim=0.4900
+    4. csl7xx2               sim=0.4814
+    5. ltpc                  sim=0.4807
+
+  [2] Analogy Experiments
+  -------------------------------------------------------
+
+  UG : btech :: PG : ?
+  (If UG corresponds to BTech, what does PG correspond to?)
+  Top answers:
+    1. mtech                 sim=0.4928
+    2. decc                  sim=0.4928
+    3. sit                   sim=0.4538
+    4. ppos                  sim=0.4343
+    5. bsc                   sim=0.4308
+
+  professor : teaching :: researcher : ?
+  (If a professor's role is teaching, what is a researcher's role?)
+  Top answers:
+    1. pursuits              sim=0.3583
+    2. performers            sim=0.3399
+    3. learners              sim=0.3389
+    4. safari                sim=0.3348
+    5. expanding             sim=0.3303
+
+  mtech : postgraduate :: btech : ?
+  (If mtech is postgraduate, what level is btech?)
+  Top answers:
+    1. undergraduate         sim=0.5236
+    2. pgd                   sim=0.4633
+    3. diplomas              sim=0.4597
+    4. bsc                   sim=0.4429
+    5. pgc                   sim=0.4248
+
+  mishra : assistant :: das : ?
+  (If Anand Mishra holds Assistant Professor rank, what rank does Debasis Das hold? (expected: associate))
+  Top answers:
+    1. professor             sim=0.5312
+    2. debasis               sim=0.5087
+    3. gagan                 sim=0.4801
+    4. sinjana               sim=0.4733
+    5. praveenkumar          sim=0.4724
+
+  gaurav : harit :: debasis : ?
+  (If 'gaurav' pairs with surname 'harit', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Gaurav Harit, Debasis Das))
+  Top answers:
+    1. das                   sim=0.6968
+    2. sajal                 sim=0.5473
+    3. nahar                 sim=0.5434
+    4. bhumika               sim=0.5387
+    5. amritesh              sim=0.5171
+
+  gate : pg :: jee : ?
+  (If GATE is the entrance for PG programs, what is the entrance for UG programs?)
+  Top answers:
+    1. ug                    sim=0.4931
+    2. diplomas              sim=0.4159
+    3. phds                  sim=0.4120
+    4. pgc                   sim=0.4020
+    5. iits                  sim=0.3941
+
+  jee : btech :: gate : ?
+  (If JEE leads to BTech, what degree does GATE lead to?)
+  Top answers:
+    1. mtech                 sim=0.4492
+    2. siot                  sim=0.4045
+    3. boys                  sim=0.4032
+    4. specialization        sim=0.4003
+    5. mel6xx0               sim=0.3982
+
+  iitm : madras :: iitj : ?
+  (If IIT Madras is in Madras (Chennai), IIT Jodhpur is in which city?)
+  Top answers:
+    1. tisc                  sim=0.3527
+    2. iit                   sim=0.3041
+    3. sharman               sim=0.2727
+    4. aiimsj                sim=0.2691
+    5. angel                 sim=0.2679
+
+  iitb : bombay :: iitd : ?
+  (If IIT Bombay is in Bombay (Mumbai), IIT Delhi is in which city?)
+  Top answers:
+    1. rutag                 sim=0.5408
+    2. lazar                 sim=0.5003
+    3. bhart                 sim=0.4992
+    4. chitilappilly         sim=0.4972
+    5. rtdd                  sim=0.4671
+
+  exam : written :: viva : ?
+  (If a regular exam is written, what mode is a viva (viva voce)?)
+  Top answers:
+    1. voce                  sim=0.6537
+    2. pleadings             sim=0.5142
+    3. reconsideration       sim=0.5008
+    4. qop                   sim=0.4942
+    5. tpc                   sim=0.4897
+
+  conference : paper :: journal : ?
+  (If a conference publishes papers, what does a journal publish?)
+  Top answers:
+    1. publisher             sim=0.3827
+    2. article               sim=0.3381
+    3. papers                sim=0.3372
+    4. nelakanti             sim=0.3325
+    5. congratulation        sim=0.3221
+
+  conference : proceedings :: journal : ?
+  (If a conference has proceedings, what does a journal have?)
+  Top answers:
+    1. vol                   sim=0.3724
+    2. publisher             sim=0.3723
+    3. toxic                 sim=0.3479
+    4. visualised            sim=0.3411
+    5. editor                sim=0.3376
+
+  international : conference :: national : ?
+  (If a large-scale event is an international conference, what is a smaller national-level event called?)
+  Top answers:
+    1. chiao                 sim=0.3935
+    2. tung                  sim=0.3906
+    3. seoul                 sim=0.3850
+    4. ming                  sim=0.3806
+    5. academy               sim=0.3764
+
+  anand : mishra :: debasis : ?
+  (If 'anand' pairs with surname 'mishra', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Anand Mishra, Debasis Das))
+  Top answers:
+    1. das                   sim=0.5930
+    2. bhumika               sim=0.4923
+    3. sajal                 sim=0.4795
+    4. lokendra              sim=0.4762
+    5. amritesh              sim=0.4735
+
+  anand : mishra :: gaurav : ?
+  (If 'anand' pairs with surname 'mishra', what surname does 'gaurav' pair with? (IIT Jodhpur faculty: Anand Mishra, Gaurav Harit))
+  Top answers:
+    1. harit                 sim=0.5551
+    2. bhatnagar             sim=0.5083
+    3. bhuvnesh              sim=0.3981
+    4. jajoo                 sim=0.3944
+    5. megha                 sim=0.3855
+
+
+Results saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\semantic_analysis.json
+
+============================================================
+  CBOW vs Skip-gram   -   Nearest Neighbours Comparison
+============================================================
+
+  'research'
+    CBOW     : ['collaborative', 'imparting', 'entrepreneurial', 'outreach', 'transdisciplinary']
+    Skip-gram: ['safari', 'niser', 'expanding', 'collaborative', 'strengthened']
+    Common   : ['collaborative']
+
+  'student'
+    CBOW     : ['students', 'semesters', 'academics', 'candidate', 'scholar']
+    Skip-gram: ['moderators', 'gymkhana', 'students', 'shan', 'nominations']
+    Common   : ['students']
+
+  'phd'
+    CBOW     : ['msc', 'doctoral', 'ay', 'dcs', 'bsc']
+    Skip-gram: ['fms', 'parttime', 'sharanya', 'mitacs', 'july2025']
+    Common   : []
+
+  'exam'
+    CBOW     : ['examination', 'syllabus', 'exams', 'interview', 'entrance']
+    Skip-gram: ['examination', 'cbt', 'exams', 'entrance', 'postcode']
+    Common   : ['entrance', 'examination', 'exams']
+
+  'department'
+    CBOW     : ['dept', 'institute', 'departments', 'sola', 'institution']
+    Skip-gram: ['epartment', 'csl7xx1', 'mal1010', 'csl7xx2', 'ltpc']
+    Common   : []
+
+Task 3 complete.
+
+[OK] Step 'Semantic Analysis' completed successfully.
+
+  RUNNING: PCA & t-SNE Visualization
+============================================================
+TASK 4  -  Embedding Visualization
+============================================================
+
+  Visualizing CBOW …
+    Words found in vocab: 50 / 50
+    Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\pca_cbow.png
+    Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\tsne_cbow.png
+
+  Visualizing SKIPGRAM …
+    Words found in vocab: 50 / 50
+    Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\pca_skipgram.png
+    Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\tsne_skipgram.png
+
+  Comparison plot saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\pca_comparison.png
+
+  Comparison plot saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\tsne_comparison.png
+Figures saved in: D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures
+
+[OK] Step 'PCA & t-SNE Visualization' completed successfully.
+
+  RUNNING: Word2Vec from Scratch (NumPy)
+============================================================
+  Word2Vec from Scratch (NumPy)
+============================================================
+Building vocabulary ...
+  Vocab size : 19,495  (from 64,324 unique, min_count=5)
+  Sentences  : 95,961  (using first 95,961)
+Vocab saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\scratch_vocab.json
+
+
+============================================================
+  [1] Window Size Sweep
+============================================================
+
+############################################################
+  CBOW | window=3
+############################################################
+
+  CBOW | epochs=20 | vocab=19,495 | dim=100 | window=3
+  Epoch 1/20  loss=0.9360  updates=1,455,395  elapsed=116s
+  Epoch 2/20  loss=1.4686  updates=1,454,864  elapsed=237s
+  Epoch 3/20  loss=1.5360  updates=1,454,540  elapsed=340s
+  Epoch 4/20  loss=1.4693  updates=1,454,862  elapsed=440s
+  Epoch 5/20  loss=1.3857  updates=1,454,333  elapsed=540s
+  Epoch 6/20  loss=1.3152  updates=1,454,767  elapsed=653s
+  Epoch 7/20  loss=1.2599  updates=1,455,199  elapsed=779s
+  Epoch 8/20  loss=1.2130  updates=1,455,555  elapsed=906s
+  Epoch 9/20  loss=1.1754  updates=1,454,943  elapsed=1033s
+  Epoch 10/20  loss=1.1402  updates=1,454,788  elapsed=1161s
+  Epoch 11/20  loss=1.1100  updates=1,455,217  elapsed=1289s
+  Epoch 12/20  loss=1.0838  updates=1,453,724  elapsed=1403s
+  Epoch 13/20  loss=1.0595  updates=1,454,975  elapsed=1525s
+  Epoch 14/20  loss=1.0379  updates=1,453,925  elapsed=1654s
+  Epoch 15/20  loss=1.0180  updates=1,454,462  elapsed=1784s
+  Epoch 16/20  loss=1.0020  updates=1,453,478  elapsed=1912s
+  Epoch 17/20  loss=0.9855  updates=1,454,266  elapsed=2030s
+  Epoch 18/20  loss=0.9724  updates=1,454,491  elapsed=2144s
+  Epoch 19/20  loss=0.9588  updates=1,454,391  elapsed=2258s
+  Epoch 20/20  loss=0.9476  updates=1,454,448  elapsed=2374s
+
+  window=3 avg_probe_sim=0.5207  time=2374s
+
+############################################################
+  SKIPGRAM | window=3
+############################################################
+
+  Skip-gram | epochs=20 | vocab=19,495 | dim=100 | window=3
+  Epoch 1/20  loss=1.3066  updates=5,198,938  elapsed=274s
+  Epoch 2/20  loss=1.3799  updates=5,195,902  elapsed=555s
+  Epoch 3/20  loss=1.2712  updates=5,193,366  elapsed=835s
+  Epoch 4/20  loss=1.1939  updates=5,193,692  elapsed=1119s
+  Epoch 5/20  loss=1.1359  updates=5,194,748  elapsed=1383s
+  Epoch 6/20  loss=1.0887  updates=5,191,293  elapsed=1653s
+  Epoch 7/20  loss=1.0517  updates=5,191,124  elapsed=1930s
+  Epoch 8/20  loss=1.0237  updates=5,198,122  elapsed=2209s
+  Epoch 9/20  loss=0.9997  updates=5,194,354  elapsed=2484s
+  Epoch 10/20  loss=0.9808  updates=5,196,800  elapsed=2760s
+  Epoch 11/20  loss=0.9661  updates=5,198,922  elapsed=3038s
+  Epoch 12/20  loss=0.9531  updates=5,191,125  elapsed=3315s
+  Epoch 13/20  loss=0.9427  updates=5,190,273  elapsed=3610s
+  Epoch 14/20  loss=0.9340  updates=5,197,896  elapsed=3893s
+  Epoch 15/20  loss=0.9267  updates=5,193,430  elapsed=4197s
+  Epoch 16/20  loss=0.9206  updates=5,193,811  elapsed=4493s
+  Epoch 17/20  loss=0.9153  updates=5,196,065  elapsed=4782s
+  Epoch 18/20  loss=0.9111  updates=5,200,412  elapsed=5083s
+  Epoch 19/20  loss=0.9073  updates=5,195,272  elapsed=5378s
+  Epoch 20/20  loss=0.9039  updates=5,194,459  elapsed=5671s
+
+  window=3 avg_probe_sim=0.4315  time=5671s
+
+############################################################
+  CBOW | window=5
+############################################################
+
+  CBOW | epochs=20 | vocab=19,495 | dim=100 | window=5
+  Epoch 1/20  loss=0.9423  updates=1,454,676  elapsed=120s
+  Epoch 2/20  loss=1.4809  updates=1,454,503  elapsed=234s
+  Epoch 3/20  loss=1.5570  updates=1,454,166  elapsed=355s
+  Epoch 4/20  loss=1.4889  updates=1,454,601  elapsed=477s
+  Epoch 5/20  loss=1.4029  updates=1,454,780  elapsed=600s
+  Epoch 6/20  loss=1.3349  updates=1,455,158  elapsed=725s
+  Epoch 7/20  loss=1.2814  updates=1,454,027  elapsed=847s
+  Epoch 8/20  loss=1.2373  updates=1,454,512  elapsed=966s
+  Epoch 9/20  loss=1.2005  updates=1,453,879  elapsed=1086s
+  Epoch 10/20  loss=1.1681  updates=1,455,124  elapsed=1201s
+  Epoch 11/20  loss=1.1401  updates=1,454,457  elapsed=1314s
+  Epoch 12/20  loss=1.1140  updates=1,455,651  elapsed=1428s
+  Epoch 13/20  loss=1.0921  updates=1,454,795  elapsed=1542s
+  Epoch 14/20  loss=1.0715  updates=1,454,608  elapsed=1656s
+  Epoch 15/20  loss=1.0546  updates=1,454,231  elapsed=1770s
+  Epoch 16/20  loss=1.0379  updates=1,454,180  elapsed=1885s
+  Epoch 17/20  loss=1.0230  updates=1,454,054  elapsed=2008s
+  Epoch 18/20  loss=1.0099  updates=1,455,466  elapsed=2122s
+  Epoch 19/20  loss=0.9970  updates=1,455,234  elapsed=2236s
+  Epoch 20/20  loss=0.9861  updates=1,454,144  elapsed=2351s
+
+  window=5 avg_probe_sim=0.5335  time=2351s
+
+############################################################
+  SKIPGRAM | window=5
+############################################################
+
+  Skip-gram | epochs=20 | vocab=19,495 | dim=100 | window=5
+  Epoch 1/20  loss=1.3421  updates=7,440,462  elapsed=416s
+  Epoch 2/20  loss=1.3289  updates=7,442,723  elapsed=838s
+  Epoch 3/20  loss=1.2261  updates=7,447,871  elapsed=1237s
+  Epoch 4/20  loss=1.1556  updates=7,442,418  elapsed=1674s
+  Epoch 5/20  loss=1.1033  updates=7,440,509  elapsed=2112s
+  Epoch 6/20  loss=1.0643  updates=7,440,115  elapsed=2530s
+  Epoch 7/20  loss=1.0342  updates=7,437,082  elapsed=2926s
+  Epoch 8/20  loss=1.0129  updates=7,443,967  elapsed=3321s
+  Epoch 9/20  loss=0.9955  updates=7,445,154  elapsed=3716s
+  Epoch 10/20  loss=0.9820  updates=7,445,824  elapsed=4108s
+  Epoch 11/20  loss=0.9707  updates=7,443,733  elapsed=4502s
+  Epoch 12/20  loss=0.9631  updates=7,436,304  elapsed=4895s
+  Epoch 13/20  loss=0.9550  updates=7,446,419  elapsed=5288s
+  Epoch 14/20  loss=0.9504  updates=7,442,995  elapsed=5681s
+  Epoch 15/20  loss=0.9441  updates=7,443,581  elapsed=6073s
+  Epoch 16/20  loss=0.9409  updates=7,439,709  elapsed=6465s
+  Epoch 17/20  loss=0.9376  updates=7,441,857  elapsed=6858s
+  Epoch 18/20  loss=0.9344  updates=7,442,040  elapsed=7252s
+  Epoch 19/20  loss=0.9317  updates=7,441,023  elapsed=7645s
+  Epoch 20/20  loss=0.9303  updates=7,440,636  elapsed=8036s
+
+  window=5 avg_probe_sim=0.4486  time=8036s
+
+############################################################
+  CBOW | window=10
+############################################################
+
+  CBOW | epochs=20 | vocab=19,495 | dim=100 | window=10
+  Epoch 1/20  loss=0.9489  updates=1,454,613  elapsed=115s
+  Epoch 2/20  loss=1.4965  updates=1,454,383  elapsed=228s
+  Epoch 3/20  loss=1.5709  updates=1,454,443  elapsed=343s
+  Epoch 4/20  loss=1.5117  updates=1,454,925  elapsed=457s
+  Epoch 5/20  loss=1.4324  updates=1,454,735  elapsed=571s
+  Epoch 6/20  loss=1.3647  updates=1,454,408  elapsed=686s
+  Epoch 7/20  loss=1.3126  updates=1,455,086  elapsed=801s
+  Epoch 8/20  loss=1.2706  updates=1,455,020  elapsed=915s
+  Epoch 9/20  loss=1.2345  updates=1,455,300  elapsed=1030s
+  Epoch 10/20  loss=1.2043  updates=1,455,091  elapsed=1145s
+  Epoch 11/20  loss=1.1772  updates=1,454,804  elapsed=1259s
+  Epoch 12/20  loss=1.1523  updates=1,455,041  elapsed=1375s
+  Epoch 13/20  loss=1.1303  updates=1,455,085  elapsed=1489s
+  Epoch 14/20  loss=1.1120  updates=1,455,066  elapsed=1603s
+  Epoch 15/20  loss=1.0939  updates=1,454,782  elapsed=1719s
+  Epoch 16/20  loss=1.0791  updates=1,454,003  elapsed=1832s
+  Epoch 17/20  loss=1.0648  updates=1,453,931  elapsed=1946s
+  Epoch 18/20  loss=1.0516  updates=1,454,933  elapsed=2061s
+  Epoch 19/20  loss=1.0406  updates=1,455,117  elapsed=2176s
+  Epoch 20/20  loss=1.0295  updates=1,454,220  elapsed=2290s
+
+  window=10 avg_probe_sim=0.5639  time=2290s
+
+############################################################
+  SKIPGRAM | window=10
+############################################################
+
+  Skip-gram | epochs=20 | vocab=19,495 | dim=100 | window=10
+  Epoch 1/20  loss=1.3430  updates=12,213,881  elapsed=636s
+  Epoch 2/20  loss=1.2516  updates=12,226,110  elapsed=1271s
+  Epoch 3/20  loss=1.1568  updates=12,219,291  elapsed=1919s
+  Epoch 4/20  loss=1.0949  updates=12,218,295  elapsed=2583s
+  Epoch 5/20  loss=1.0544  updates=12,235,173  elapsed=3254s
+  Epoch 6/20  loss=1.0274  updates=12,214,588  elapsed=3901s
+  Epoch 7/20  loss=1.0085  updates=12,223,127  elapsed=4563s
+  Epoch 8/20  loss=0.9940  updates=12,213,120  elapsed=5243s
+  Epoch 9/20  loss=0.9842  updates=12,216,195  elapsed=5881s
+  Epoch 10/20  loss=0.9770  updates=12,221,890  elapsed=6515s
+  Epoch 11/20  loss=0.9712  updates=12,222,056  elapsed=7142s
+  Epoch 12/20  loss=0.9656  updates=12,210,754  elapsed=7768s
+  Epoch 13/20  loss=0.9621  updates=12,208,745  elapsed=8393s
+  Epoch 14/20  loss=0.9584  updates=12,211,894  elapsed=9019s
+  Epoch 15/20  loss=0.9567  updates=12,215,387  elapsed=9642s
+  Epoch 16/20  loss=0.9544  updates=12,225,162  elapsed=10269s
+  Epoch 17/20  loss=0.9530  updates=12,217,671  elapsed=10893s
+  Epoch 18/20  loss=0.9523  updates=12,221,824  elapsed=11572s
+  Epoch 19/20  loss=0.9497  updates=12,218,450  elapsed=12257s
+  Epoch 20/20  loss=0.9491  updates=12,209,320  elapsed=12918s
+
+  window=10 avg_probe_sim=0.4395  time=12918s
+
+===========================================================================
+Arch         Window    Vocab  Time(s)   AvgSim
+---------------------------------------------------------------------------
+cbow              3   19,495   2374.5   0.5207
+skipgram          3   19,495   5670.7   0.4315
+cbow              5   19,495   2350.9   0.5335
+skipgram          5   19,495   8035.8   0.4486
+cbow             10   19,495   2290.0   0.5639
+skipgram         10   19,495  12917.6   0.4395
+===========================================================================
+
+  Sweep results saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\scratch_experiment_results.json
+
+============================================================
+  [2] Training best models (window=5)
+============================================================
+
+############################################################
+  SKIPGRAM
+############################################################
+
+  Skip-gram | epochs=20 | vocab=19,495 | dim=100 | window=5
+  Epoch 1/20  loss=1.3477  updates=7,443,633  elapsed=415s
+  Epoch 2/20  loss=1.3341  updates=7,436,300  elapsed=831s
+  Epoch 3/20  loss=1.2272  updates=7,443,386  elapsed=1248s
+  Epoch 4/20  loss=1.1558  updates=7,446,932  elapsed=1667s
+  Epoch 5/20  loss=1.1031  updates=7,438,746  elapsed=2084s
+  Epoch 6/20  loss=1.0636  updates=7,446,122  elapsed=2516s
+  Epoch 7/20  loss=1.0341  updates=7,442,381  elapsed=2941s
+  Epoch 8/20  loss=1.0120  updates=7,449,326  elapsed=3314s
+  Epoch 9/20  loss=0.9957  updates=7,437,493  elapsed=3672s
+  Epoch 10/20  loss=0.9809  updates=7,443,066  elapsed=4028s
+  Epoch 11/20  loss=0.9714  updates=7,439,696  elapsed=4398s
+  Epoch 12/20  loss=0.9616  updates=7,437,709  elapsed=4761s
+  Epoch 13/20  loss=0.9551  updates=7,437,318  elapsed=5126s
+  Epoch 14/20  loss=0.9497  updates=7,438,769  elapsed=5490s
+  Epoch 15/20  loss=0.9446  updates=7,442,420  elapsed=5852s
+  Epoch 16/20  loss=0.9402  updates=7,438,664  elapsed=6214s
+  Epoch 17/20  loss=0.9368  updates=7,444,463  elapsed=6577s
+  Epoch 18/20  loss=0.9340  updates=7,440,968  elapsed=6963s
+  Epoch 19/20  loss=0.9311  updates=7,444,306  elapsed=7379s
+  Epoch 20/20  loss=0.9304  updates=7,446,187  elapsed=7798s
+
+  Vectors saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\scratch_skipgram_vectors.npy  shape=(19495, 100)
+
+  Nearest neighbours:
+    'research': ['collaborative', 'areas', 'faculty', 'development', 'interdisciplinary']
+    'student': ['students', 'academic', 'shan', 'nominations', 'ara']
+    'phd': ['school', 'professor', 'wwu', 'prabhatjaiswal', 'kuntals']
+    'exam': ['cbt', 'jta', 'omr', 'examination', 'exams']
+    'department': ['engineering', 'hag', 'head', 'offered', 'epartment']
+
+############################################################
+  CBOW
+############################################################
+
+  CBOW | epochs=20 | vocab=19,495 | dim=100 | window=5
+  Epoch 1/20  loss=0.9520  updates=1,454,230  elapsed=121s
+  Epoch 2/20  loss=1.4838  updates=1,454,532  elapsed=241s
+  Epoch 3/20  loss=1.5477  updates=1,454,682  elapsed=362s
+  Epoch 4/20  loss=1.4828  updates=1,455,150  elapsed=481s
+  Epoch 5/20  loss=1.4037  updates=1,455,093  elapsed=599s
+  Epoch 6/20  loss=1.3354  updates=1,455,248  elapsed=721s
+  Epoch 7/20  loss=1.2824  updates=1,454,634  elapsed=838s
+  Epoch 8/20  loss=1.2394  updates=1,454,291  elapsed=952s
+  Epoch 9/20  loss=1.2018  updates=1,454,937  elapsed=1067s
+  Epoch 10/20  loss=1.1687  updates=1,454,348  elapsed=1182s
+  Epoch 11/20  loss=1.1412  updates=1,454,941  elapsed=1293s
+  Epoch 12/20  loss=1.1146  updates=1,455,271  elapsed=1405s
+  Epoch 13/20  loss=1.0926  updates=1,453,972  elapsed=1517s
+  Epoch 14/20  loss=1.0729  updates=1,455,313  elapsed=1630s
+  Epoch 15/20  loss=1.0535  updates=1,453,760  elapsed=1742s
+  Epoch 16/20  loss=1.0371  updates=1,455,761  elapsed=1854s
+  Epoch 17/20  loss=1.0216  updates=1,454,654  elapsed=1965s
+  Epoch 18/20  loss=1.0092  updates=1,455,181  elapsed=2078s
+  Epoch 19/20  loss=0.9975  updates=1,455,098  elapsed=2198s
+  Epoch 20/20  loss=0.9860  updates=1,453,854  elapsed=2317s
+
+  Vectors saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\scratch_cbow_vectors.npy  shape=(19495, 100)
+
+  Nearest neighbours:
+    'research': ['collaborative', 'excellence', 'focuses', 'translational', 'pursuit']
+    'student': ['graduating', 'prizes', 'academics', 'scholarships', 'students']
+    'phd': ['school', 'scholar', 'jadavpur', 'msc', 'epita']
+    'exam': ['entrance', 'appeared', 'interview', 'examination', 'lde']
+    'department': ['head', 'engineering', 'metallurgical', 'engg', 'mechanical']
+
+Scratch training complete.
+
+[OK] Step 'Word2Vec from Scratch (NumPy)' completed successfully.
+
+  RUNNING: Compare Gensim vs Scratch
+=================================================================
+  MODEL COMPARISON: Gensim Word2Vec vs From-Scratch (NumPy)
+=================================================================
+  Loaded: Gensim-CBOW  |  vocab=19,495
+  Loaded: Gensim-Skipgram  |  vocab=19,495
+  Loaded: Scratch-CBOW  |  vocab=19,495
+  Loaded: Scratch-Skipgram  |  vocab=19,495
+
+[1] Vocabulary sizes
+    Gensim-CBOW              : 19,495
+    Gensim-Skipgram          : 19,495
+    Scratch-CBOW             : 19,495
+    Scratch-Skipgram         : 19,495
+    Common vocab (all models) : 19,495
+
+[2] Nearest Neighbours (top-5)
+
+  'research':
+    Gensim-CBOW              : ['collaborative', 'imparting', 'entrepreneurial', 'outreach', 'transdisciplinary']
+    Gensim-Skipgram          : ['safari', 'niser', 'expanding', 'collaborative', 'strengthened']
+    Scratch-CBOW             : ['collaborative', 'excellence', 'focuses', 'translational', 'pursuit']
+    Scratch-Skipgram         : ['collaborative', 'areas', 'faculty', 'development', 'interdisciplinary']
+
+  'student':
+    Gensim-CBOW              : ['students', 'semesters', 'academics', 'candidate', 'scholar']
+    Gensim-Skipgram          : ['moderators', 'gymkhana', 'students', 'shan', 'nominations']
+    Scratch-CBOW             : ['graduating', 'prizes', 'academics', 'scholarships', 'students']
+    Scratch-Skipgram         : ['students', 'academic', 'shan', 'nominations', 'ara']
+
+  'phd':
+    Gensim-CBOW              : ['msc', 'doctoral', 'ay', 'dcs', 'bsc']
+    Gensim-Skipgram          : ['fms', 'parttime', 'sharanya', 'mitacs', 'july2025']
+    Scratch-CBOW             : ['school', 'scholar', 'jadavpur', 'msc', 'epita']
+    Scratch-Skipgram         : ['school', 'professor', 'wwu', 'prabhatjaiswal', 'kuntals']
+
+  'exam':
+    Gensim-CBOW              : ['examination', 'syllabus', 'exams', 'interview', 'entrance']
+    Gensim-Skipgram          : ['examination', 'cbt', 'exams', 'entrance', 'postcode']
+    Scratch-CBOW             : ['entrance', 'appeared', 'interview', 'examination', 'lde']
+    Scratch-Skipgram         : ['cbt', 'jta', 'omr', 'examination', 'exams']
+
+  'department':
+    Gensim-CBOW              : ['dept', 'institute', 'departments', 'sola', 'institution']
+    Gensim-Skipgram          : ['epartment', 'csl7xx1', 'mal1010', 'csl7xx2', 'ltpc']
+    Scratch-CBOW             : ['head', 'engineering', 'metallurgical', 'engg', 'mechanical']
+    Scratch-Skipgram         : ['engineering', 'hag', 'head', 'offered', 'epartment']
+
+  'faculty':
+    Gensim-CBOW              : ['staf', 'team', 'faculties', 'staff', 'cec']
+    Gensim-Skipgram          : ['members', 'faculties', 'recruits', 'adjunct', 'professors']
+    Scratch-CBOW             : ['members', 'staf', 'faculties', 'advisors', 'adjunct']
+    Scratch-Skipgram         : ['members', 'positions', 'faculties', 'scholars', 'professors']
+
+  'course':
+    Gensim-CBOW              : ['courses', 'programme', 'curriculum', 'compulsory', 'fractal']
+    Gensim-Skipgram          : ['dits', 'cre', 'credi', 'courses', 'ltp']
+    Scratch-CBOW             : ['preparatory', 'compulsory', 'equivalence', 'courses', 'credits']
+    Scratch-Skipgram         : ['credits', 'credi', 'compulsory', 'ltp', 'cre']
+
+  'semester':
+    Gensim-CBOW              : ['ay', 'trimester', 'semesters', 'commencing', 'credits']
+    Gensim-Skipgram          : ['ng2', 'dits', 'x0', 'cre', 'ng1']
+    Scratch-CBOW             : ['trimester', 'ay', 'commencing', 'eighth', 'fourth']
+    Scratch-Skipgram         : ['credits', 'dits', 'ng2', 'x0', 'homeworks']
+
+  'admission':
+    Gensim-CBOW              : ['admissions', 'ay', 'shortlisting', 'interview', 'jam']
+    Gensim-Skipgram          : ['admissions', 'waitlisted', 'pgp', 'july2025', 'candidates']
+    Scratch-CBOW             : ['admissions', 'merit', 'candidates', 'round', 'admit']
+    Scratch-Skipgram         : ['waitlisted', 'admissions', 'candidates', 'july2025', 'coap']
+
+  'jodhpur':
+    Gensim-CBOW              : ['bombay', 'kanpur', 'kharagpur', 'ropar', 'mandi']
+    Gensim-Skipgram          : ['iit', 'odhpur', 'proudly', 'iitjodhpur', 'nh65']
+    Scratch-CBOW             : ['iitj', 'vidyalaya', 'iit', 'lit', 'gpra']
+    Scratch-Skipgram         : ['iit', 'technology', 'institute', 'indian', 'of']
+
+[3] Analogy Experiments
+
+  UG : btech :: PG : ?
+  (If UG corresponds to BTech, what does PG correspond to?)
+    Gensim-CBOW              : ['mtech', 'tfe', 'bsc']  HIT
+    Gensim-Skipgram          : ['mtech', 'decc', 'sit']  HIT
+    Scratch-CBOW             : ['dcs', 'bsc', 'mmt']  MISS
+    Scratch-Skipgram         : ['mtech', 'decc', 'diploma']  HIT
+
+  professor : teaching :: researcher : ?
+  (If a professor's role is teaching, what is a researcher's role?)
+    Gensim-CBOW              : ['experienced', 'researchers', 'scientist']  MISS
+    Gensim-Skipgram          : ['pursuits', 'performers', 'learners']  MISS
+    Scratch-CBOW             : ['during', 'workshops', 'projects']  MISS
+    Scratch-Skipgram         : ['cmu', 'professional', 'jsps']  MISS
+
+  mtech : postgraduate :: btech : ?
+  (If mtech is postgraduate, what level is btech?)
+    Gensim-CBOW              : ['undergraduate', 'bsc', 'bachelors']  HIT
+    Gensim-Skipgram          : ['undergraduate', 'pgd', 'diplomas']  HIT
+    Scratch-CBOW             : ['continuing', 'ugri', 'undergraduate']  MISS
+    Scratch-Skipgram         : ['undergraduate', 'bachelors', 'graduate']  HIT
+
+  mishra : assistant :: das : ?
+  (If Anand Mishra holds Assistant Professor rank, what rank does Debasis Das hold? (expected: associate))
+    Gensim-CBOW              : ['palash', 'mithu', 'sajal']  MISS
+    Gensim-Skipgram          : ['professor', 'debasis', 'gagan']  MISS
+    Scratch-CBOW             : ['professor', 'hirshikesh', 'rautray']  MISS
+    Scratch-Skipgram         : ['professor', 'palas', 'bhagat']  MISS
+
+  gaurav : harit :: debasis : ?
+  (If 'gaurav' pairs with surname 'harit', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Gaurav Harit, Debasis Das))
+    Gensim-CBOW              : ['palas', 'limbasiya', 'sajal']  MISS
+    Gensim-Skipgram          : ['das', 'sajal', 'nahar']  HIT
+    Scratch-CBOW             : ['das', 'sikarwar', 'limbasiya']  HIT
+    Scratch-Skipgram         : ['das', 'vehicular', 'nahar']  HIT
+
+  gate : pg :: jee : ?
+  (If GATE is the entrance for PG programs, what is the entrance for UG programs?)
+    Gensim-CBOW              : ['ug', 'postgraduate', 'programs']  HIT
+    Gensim-Skipgram          : ['ug', 'diplomas', 'phds']  HIT
+    Scratch-CBOW             : ['academics', 'orientation', 'teacher']  MISS
+    Scratch-Skipgram         : ['academic', 'ug', 'academics']  MISS
+
+  jee : btech :: gate : ?
+  (If JEE leads to BTech, what degree does GATE lead to?)
+    Gensim-CBOW              : ['bb', 'mtech', 'specialization']  MISS
+    Gensim-Skipgram          : ['mtech', 'siot', 'boys']  HIT
+    Scratch-CBOW             : ['cfti', 'mtech', 'score']  MISS
+    Scratch-Skipgram         : ['mtech', 'cfti', 'specialization']  HIT
+
+  iitm : madras :: iitj : ?
+  (If IIT Madras is in Madras (Chennai), IIT Jodhpur is in which city?)
+    Gensim-CBOW              : ['jodhpur', 'tisc', 'park']  HIT
+    Gensim-Skipgram          : ['tisc', 'iit', 'sharman']  MISS
+    Scratch-CBOW             : ['gandhinagar', 'mandi', 'iisc']  MISS
+    Scratch-Skipgram         : ['tckumawat', 'georgia', 'iiser']  MISS
+
+  iitb : bombay :: iitd : ?
+  (If IIT Bombay is in Bombay (Mumbai), IIT Delhi is in which city?)
+    Gensim-CBOW              : ['mandi', 'guwahati', 'gandhinagar']  MISS
+    Gensim-Skipgram          : ['rutag', 'lazar', 'bhart']  MISS
+    Scratch-CBOW             : ['kharagpur', 'kanpur', 'guwahati']  MISS
+    Scratch-Skipgram         : ['pradiptewari', 'vinodvk', 'sumitkamal']  MISS
+
+  exam : written :: viva : ?
+  (If a regular exam is written, what mode is a viva (viva voce)?)
+    Gensim-CBOW              : ['voce', 'gambling', 'bifma']  HIT
+    Gensim-Skipgram          : ['voce', 'pleadings', 'reconsideration']  HIT
+    Scratch-CBOW             : ['influence', 'damage', 'property']  MISS
+    Scratch-Skipgram         : ['voce', 'pleadings', 'examiner']  HIT
+
+  conference : paper :: journal : ?
+  (If a conference publishes papers, what does a journal publish?)
+    Gensim-CBOW              : ['article', 'papers', 'publishing']  HIT
+    Gensim-Skipgram          : ['publisher', 'article', 'papers']  MISS
+    Scratch-CBOW             : ['publishing', 'tittle', 'article']  MISS
+    Scratch-Skipgram         : ['publisher', 'congratulation', 'xplore']  MISS
+
+  conference : proceedings :: journal : ?
+  (If a conference has proceedings, what does a journal have?)
+    Gensim-CBOW              : ['articles', 'prosecution', 'volume']  HIT
+    Gensim-Skipgram          : ['vol', 'publisher', 'toxic']  MISS
+    Scratch-CBOW             : ['articles', 'nature', 'article']  HIT
+    Scratch-Skipgram         : ['publisher', 'issn', 'asme']  MISS
+
+  international : conference :: national : ?
+  (If a large-scale event is an international conference, what is a smaller national-level event called?)
+    Gensim-CBOW              : ['symposium', 'congress', 'convention']  HIT
+    Gensim-Skipgram          : ['chiao', 'tung', 'seoul']  MISS
+    Scratch-CBOW             : ['japan', 'bengaluru', 'china']  MISS
+    Scratch-Skipgram         : ['rourkela', 'banglore', 'jalandhar']  MISS
+
+  anand : mishra :: debasis : ?
+  (If 'anand' pairs with surname 'mishra', what surname does 'debasis' pair with? (IIT Jodhpur faculty: Anand Mishra, Debasis Das))
+    Gensim-CBOW              : ['das', 'sikarwar', 'limbasiya']  HIT
+    Gensim-Skipgram          : ['das', 'bhumika', 'sajal']  HIT
+    Scratch-CBOW             : ['das', 'sikarwar', 'richa']  HIT
+    Scratch-Skipgram         : ['das', 'nahar', 'bhumika']  HIT
+
+  anand : mishra :: gaurav : ?
+  (If 'anand' pairs with surname 'mishra', what surname does 'gaurav' pair with? (IIT Jodhpur faculty: Anand Mishra, Gaurav Harit))
+    Gensim-CBOW              : ['harit', 'bhatnagar', 'agrawal']  HIT
+    Gensim-Skipgram          : ['harit', 'bhatnagar', 'bhuvnesh']  HIT
+    Scratch-CBOW             : ['harit', 'bhatnagar', 'richa']  HIT
+    Scratch-Skipgram         : ['bhatnagar', 'harit', 'megha']  MISS
+
+[4] CKA Embedding Space Similarity
+    Gensim-CBOW ↔ Gensim-Skipgram                     : CKA=0.4904
+    Gensim-CBOW ↔ Scratch-CBOW                        : CKA=0.6629
+    Gensim-CBOW ↔ Scratch-Skipgram                    : CKA=0.4102
+    Gensim-Skipgram ↔ Scratch-CBOW                    : CKA=0.3944
+    Gensim-Skipgram ↔ Scratch-Skipgram                : CKA=0.8929
+    Scratch-CBOW ↔ Scratch-Skipgram                   : CKA=0.3815
+
+[5] Generating plots …
+  Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\comparison_nn.png
+  Saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\figures\comparison_tsne.png
+
+=================================================================
+  SUMMARY
+=================================================================
+  Model                        Vocab    Analogy Hits
+  --------------------------------------------------
+  Gensim-CBOW                 19,495  10/15
+  Gensim-Skipgram             19,495  8/15
+  Scratch-CBOW                19,495  4/15
+  Scratch-Skipgram            19,495  6/15
+
+  CKA scores (0=different, 1=identical structure):
+    Gensim-CBOW ↔ Gensim-Skipgram: 0.4904
+    Gensim-CBOW ↔ Scratch-CBOW: 0.6629
+    Gensim-CBOW ↔ Scratch-Skipgram: 0.4102
+    Gensim-Skipgram ↔ Scratch-CBOW: 0.3944
+    Gensim-Skipgram ↔ Scratch-Skipgram: 0.8929
+    Scratch-CBOW ↔ Scratch-Skipgram: 0.3815
+
+=================================================================
+  [6] Window Sweep Comparison: Gensim vs Scratch
+=================================================================
+
+  Impl       Arch         Window   AvgSim  Time(s)
+  --------------------------------------------------
+  Gensim     cbow              3   0.2149     21.9
+  Gensim     skipgram          3   0.2509     58.5
+  Gensim     cbow             10   0.1828     24.7
+  Gensim     skipgram         10   0.2774    137.3
+  Scratch    cbow              3   0.5207   2374.5
+  Scratch    skipgram          3   0.4315   5670.7
+  Scratch    cbow              5   0.5335   2350.9
+  Scratch    skipgram          5   0.4486   8035.8
+  Scratch    cbow             10   0.5639   2290.0
+  Scratch    skipgram         10   0.4395  12917.6
+
+  AvgSim difference (Gensim - Scratch) per window:
+  Arch         Window   Gensim  Scratch     Diff
+  --------------------------------------------------
+  cbow              3   0.2149   0.5207  -0.3058
+  cbow             10   0.1828   0.5639  -0.3811
+  skipgram          3   0.2509   0.4315  -0.1806
+  skipgram         10   0.2774   0.4395  -0.1621
+
+  Results saved → D:\SEM2\NLU\Ass2\Q1\scripts\..\data\models\comparison_results.json
+
+Comparison complete.
+
+[OK] Step 'Compare Gensim vs Scratch' completed successfully.
+
+  Outputs:
+    data/output/        -  word cloud + statistics
+    data/models/        -  Word2Vec models + analysis + comparison
+    data/figures/       -  PCA + t-SNE plots
+PS D:\SEM2\NLU\Ass2\Q1\scripts> 

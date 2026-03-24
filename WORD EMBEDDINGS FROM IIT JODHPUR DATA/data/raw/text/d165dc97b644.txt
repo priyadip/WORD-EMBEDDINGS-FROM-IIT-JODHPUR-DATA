@@ -1,0 +1,3517 @@
+SOURCE_URL: https://intranet.iitj.ac.in/acad_website/transition_plan/Transition%20Plan_30July2019.htm
+
+Proposed Transition Plan for B.Tech. Batches: 2016, 2017 and 2018 1. B.Tech. Mechanical Engineering Old Curriculum Cat. Course Title L-T-P Cr Cat. Course Title L-T-P Cr I Semester II Semester H ME111 System Exploration- Drawing 3-0-3 4 H ME121 System Exploration- Workshop 3-0-3 4 H CS111 Computer Programming 3-1-3 5 H EE121 Basic Electronics Engineering 3-1-3 5 B MA111 Linear Algebra and Calculus 4-1-0 5 H ME122 Engineering Mechanics 3-1-3 5 B CY211 Chemistry 3-0-3 4 B MA121 Complex Analysis &
+  Differential Equation 4-1-0 5 C ME112 Engineering Materials 3-0-3 4 C ME212 Fluid Mechanics 3-0-3 4 L HS111 English Language and Communication Skills 3-0-0 3 L HS121 Rights, Responsibility, Law &
+  Constitution 3-0-0 3 S PE111 Physical Exercises I 0 S PE121 Physical Exercise II 0 Total 33 25 Total 34 26 III Semester IV Semester H EE221 Basic Electrical Engineering 3-1-3 5 H ME221 Manufacturing Technology 3-0-3 4 B PH111 Electromagnetism and Optics 3-1-3 5 B MA221 Probability Statistics and Random
+  Processes 4-1-0 5 B ME211 Thermodynamics 3-1-0 4 C ME222 Kinematics of Mechanism and
+  Machines 3-0-3 4 C ME213 Mechatronics 3-0-3 4 C ME223 Heat and Mass Transfer 3-0-3 4 C ME214 Mechanics of Solids 3-0-3 4 P ME298 B.Tech. Project 0-0-9 3 L HS211 Economics 3-0-0 3 L HS221 Principles of Management 3-0-0 3 Total 33 25 Total 35 23 V Semester VI Semester C ME311 Dynamics of Machines &
+  Mechanism 3-0-3 4 C ME321 Refrigeration and Air
+  Conditioning 3-0-3 4 C ME312
+  IC Engines 3-0-3 4 C ME322
+  Turbomachinery 3-0-3 4 C ME313
+  Machining Science and Metrology 3-0-3 4 C ME323
+  Design of Machine Elements 3-0-3 4 C ME315
+  Production and Operations management 3-1-0 4 C ME324 Industrial Engineering 3-0-3 4 P ME398 B.Tech. Project 0-0-9 3 P ME399 B.Tech. Project 0-0-12 4 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 36 22 Total 36 23 VII Semester VIII Semester E Open Electives 9-0-0 9 E Open Electives 9-0-0 9 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 P B.Tech. Project 0-0-21 7 Total 30 18 Total 18 19 Total 181 1.1 Transition Plan for B.Tech. in Mechanical
+Engineering S. No. Category Course Category Old Credits Transition - 2016 batch Transition - 2017 & 2018 batches Regular Specialization Regular Specialization 1 H Hands-on Experience 32 32 32 32 32 2 B Basics 28 28 28 28 28 3 C Technology Compulsory 56 56 56 56 56 4 L Life Skills 24 24 24 24 24 5 S Games & Sports/Social Service 0 0 0 0 0 6 E Open Electives 18 18 0 18 3 7 P Hands-on Project 23 14 14 8 8 8 D Programme Electives 0 9 7 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 0 20 Total 181 181 181 181 181 Note: Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the 2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year. 2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year. 1.2 Transition Plan for 2016 Batch a. Regular without Specialization Cat. Course Title L-T-P Cr Cat. Course Title L-T-P Cr Semesters I-VI
+  same as old curriculum VII Semester VIII Semester Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-12 4 Total 19 Total 18 GRAND TOTAL 181 b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1  5.10) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives/Specialization
+  Courses 12-0-0 12 Programme Electives/Specialization
+  Courses 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-12 4 Total 19 Total 18 GRAND TOTAL 181 c. Minor in Entrepreneurship
+( Sec. 5.11) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 6 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-12 4 Entrepreneurship
+  Project - II 11 Entrepreneurship
+  Project  I 3 Total 17 Total 20 GRAND TOTAL 181 d. Department Specialization in Engineering Innovation ( Sec. 5.12) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives 7-0-0 7 Engineering Innovation 20 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-12 4 Total 17 Total 20 GRAND TOTAL 181 1.3 Transition Plan for 2017 and 2018 Batches a. Regular without Specialization Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-IV
+  same as old curriculum V Semester VI Semester C ME311 Dynamics of Machines &
+  Mechanism 3-0-3 4 C ME321 Refrigeration and Air
+  Conditioning 3-0-3 4 C ME312
+  IC Engines 3-0-3 4 C ME322
+  Turbomachinery 3-0-3 4 C ME313
+  Machining Science and Metrology 3-0-3 4 C ME323
+  Design of Machine Elements 3-0-3 4 C ME315
+  Production and Operations management 3-1-0 4 C ME324 Industrial Engineering 3-0-3 4 Open/Programme Elective 3-0-0 3 Open/Programme Elective 3-0-0 3 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 22 Total 22 VII Semester VIII Semester Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 20 Total 18 GRAND TOTAL 181 b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives/Specialization
+  Courses 12-0-0 12 Programme Electives/Specialization
+  Courses 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 20 Total 18 GRAND TOTAL 181 c. Minor in Entrepreneurship
+( Sec. 5.11) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 6 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Entrepreneurship
+  Project - II 11 Entrepreneurship
+  Project Â– I 3 Total 18 Total 20 GRAND TOTAL 181 d. Department Specialization in Engineering Innovation ( Sec. 5.12) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 7-0-0 7 Engineering Innovation 20 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 18 Total 20 GRAND TOTAL 181 2. B.Tech. Electrical Engineering Old Curriculum Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr I Semester II Semester H ME111 System Exploration--Drawing 3-0-3 4 H ME121 System Exploration--Workshop 3-0-3 4 H CS111 Computer Programming 3-1-3 5 H EE121 Basic Electronics Engineering 3-1-3 5 B MA111 Linear Algebra and Calculus 4-1-0 5 H ME122 Engineering Mechanics 3-1-3 5 B PH111 Electromagnetism and Optics 3-1-3 5 B MA121 Complex Analysis &
+  Differential Equation 4-1-0 5 C EE111 Physics of Semiconductor Devices 3-0-0 3 C EE122 Electromagnetic Theory 3-1-0 4 L HS111 English Language and Communication Skills 3-0-0 3 L HS121 Rights, Responsibility, Law &
+  Constitution 3-0-0 3 S PE111 Physical Exercises I 0 S PE121 Physical Exercise II 0 Total 31 25 Total 32 26 III Semester IV Semester H EE221 Basic Electrical Engineering 3-1-3 5 H EE221 Electrical Machines 3-0-3 4 B CY211 Chemistry 3-0-3 4 B MA221 Probability Statistics and Random
+  Processes 4-1-0 5 B ME211 Thermodynamics 3-1-0 4 C EE222 Digital Logic and Design 3-0-3 4 C EE212 Circuit Theory 3-1-0 4 C EE223 Power System 3-0-3 4 C EE213 Signals and Systems 3-1-0 4 P EE299 B.Tech. Project 3-0-0 Â 3 L HS211 Economics 3-0-0 3 L HS221 Principles of Management 3-0-0 3 Total 28 24 Total 35 23 V Semester VI Semester C EE311 Power Electronics 3-0-3 4 C EE325 Contemporary Communication System 3-1-3 5 C EE312 Microprocessors and
+  Microcontrollers 3-0-3 4 C EE322 Digital Signal Processing 3-1-0 4 C EE313 Communication System 3-1-0 4 C EE323 Microwave Engineering 3-0-0 3 C EE314 Analog Electronics 3-1-0 4 C EE324 Control Systems 3-0-3 4 P EE398 B.Tech. Project 0-0-9 3 P EE399 B.Tech. Project 0-0-12 4 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 32 22 Total 29 23 VII Semester VIII Semester E Open Electives 9-0-0 9 E Open Electives 9-0-0 9 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-21 7 P B.Tech. Project 0-0-21 7 Total 30 19 Total 18 19 GRAND TOTAL 181 2.1 Transition Plan for B.Tech. in Electrical
+Engineering S. No. Category Course Category Old Credits Transition - Â 2016 batch Transition - Â 2017 & 2018 batches Regular Specialization Regular Specialization 1 H Hands-on Experience 32 32 32 32 32 2 B Basics 28 28 28 28 28 3 C Technology Compulsory 55 55 55 55 55 4 L Life Skills 24 24 24 24 24 5 S Games & Sports/Social Service 0 0 0 0 0 6 E Open Electives 18 18 0 18 3 7 P Hands-on Project 24 15 15 9 9 8 D Programme Electives 0 9 7 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 0 20 Total 181 181 181 181 181 Note: Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the 2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year. 2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year. 2.2 Transition Plan for 2016 Batch a. Regular without Specialization Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as old curriculum VII Semester VIII Semester Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 20 Total 18 GRAND TOTAL 181 b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives/Specialization Courses 12-0-0 12 Programme Electives/Specialization Courses 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 20 Total 18 GRAND TOTAL 181 c. Minor in Entrepreneurship
+( Sec. 5.11) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 6 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Entrepreneurship
+  Project - II 11 Entrepreneurship
+  Project Â– I 3 Total 18 Total 20 GRAND TOTAL 181 d. Department Specialization in Engineering Innovation ( Sec. 5.12) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives 7-0-0 7 Engineering Innovation 20 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 18 Total 20 GRAND TOTAL 181 2.3 Transition Plan for 2017 and 2018 Batches a. Regular without Specialization Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-IV
+  same as old curriculum V Semester VI Semester C EE311 Power Electronics 3-0-3 4 C EE325 Contemporary Communication System 3-1-3 5 C EE312 Microprocessors and
+  Microcontrollers 3-0-3 4 C EE322 Digital Signal Processing 3-1-0 4 C EE313 Communication System 3-1-0 4 C EE323 Microwave Engineering 3-0-0 3 C EE314 Analog Electronics 3-1-0 4 C EE324 Control Systems 3-0-3 4 Open/Programme Elective 3-0-0 3 Open/Programme Elective 3-0-0 3 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 22 Total 22 VII Semester VIII Semester Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Total 21 Total 18 GRAND TOTAL 181 b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives/Specialization
+  Courses 12-0-0 12 Programme Electives/Specialization
+  Courses 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Total 21 Total 18 GRAND TOTAL 181 c. Minor in Entrepreneurship
+( Sec. 5.11) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 6 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Entrepreneurship
+  Project - II 11 Entrepreneurship
+  Project Â– I 3 Total 19 Total 20 GRAND TOTAL 181 d. Department Specialization in Engineering Innovation ( Sec. 5.12) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 7-0-0 7 Engineering Innovation 20 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Total 19 Total 20 GRAND TOTAL 181 3. B.Tech. Computer Science and Engineering Old Curriculum Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr I Semester II Semester H ME111 System
+  Exploration Â—Drawing 3-0-3 4 H ME121 System
+  Exploration Â—Workshop 3-0-3 4 H CS111 Computer
+  Programming 3-1-3 5 H EE121 Basic
+  Electronics Engineering 3-1-3 5 B PH111
+  Electromagnetism and Optics 3-1-3 5 H ME122
+  Engineering Mechanics 3-1-3 5 B MA111 Linear
+  Algebra and Calculus 4-1-0 5 B MA121 Complex
+  Analysis & Differential Equation 4-1-0 5 B CY211 Chemistry 3-0-3 4 C CS112 Discrete
+  Mathematics 3-1-0 4 L HS111 English Language and Communication Skills 3-0-0 3 L HS121 Rights, Responsibility, Law &
+  Constitution 3-0-0 3 S PE111 Physical
+  Exercises I 0 S PE121 Physical
+  Exercise II 0 Total 32 26 Total 35 26 III Semester IV Semester H EE211 Basic
+  Electrical Engineering 3-1-3 5 B MA221
+  Probability Statistics and Random Processes 4-1-0 5 C CS121 Data
+  Structures and Algorithms 3-1-3 5 C CS221 Computer
+  Organization and Architecture 3-0-0 3 H CS211 Digital
+  Logic and Design 3-0-3 4 C CS222 Theory of
+  Computation 3-0-0 3 C CS212 Object
+  Oriented Analysis and Design 3-0-3 4 C CS223 Software
+  Engineering 3-0-3 4 C EE213 Signals
+  and Systems 3-1-0 4 P CS299 B.Tech. Project 3-0-0 3 L HS211 Economics 3-0-0 3 L HS221 Principles of Management 3-0-0 3 Total 32 25 Total 29 21 V Semester VI Semester C CS311 Data
+  Communication 3-1-0 4 C CS321 Computer
+  Networks 3-0-3 4 C CS312 Compiler
+  Design 3-0-3 4 C CS322 Database
+  Systems 3-0-0 3 C CS313 Operating
+  Systems 3-0-3 4 C CS323
+  Artificial Intelligence 3-0-0 3 C CS314 Algorithm
+  Design and Analysis 3-0-0 3 E Elective 3-0-0 3 P CS398 B.Tech. Project 0-0-12 4 P CS399 B.Tech. Project 0-0-12 4 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 34 22 Total 30 20 VII Semester VIII Semester E Open Electives 9-0-0 9 E Open Electives 9-0-0 9 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-24 8 P B.Tech. Project 0-0-24 8 Total 36 20 Total 18 20 GRAND TOTAL 180 3.1 Transition Plan for B.Tech. in Computer
+Science and Engineering S. No. Category Course Category Old Credits Transition - Â 2016 batch Transition - Â 2017 & 2018 batches Regular Specialization Regular Specialization 1 H Hands-on Experience 32 32 32 32 32 2 B Basics 24 24 24 24 24 3 C Technology Compulsory 52 52 52 52 52 4 L Life Skills 24 24 24 24 24 5 S Games & Sports/Social Service 0 0 0 0 0 6 E Open Electives 21 21 3 21 6 7 P Hands-on Project 27 18 18 12 12 8 D Programme Electives 0 9 7 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 0 20 Total 180 180 180 180 180 Note: Student can opt for Minor/Department/Interdisciplinary
+specialization by completing 20 credits in the area. For this the 2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year. 2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year. 3.2 Transition Plan for 2016 Batch a. Regular without Specialization Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI same as old curriculum VII Semester VIII Semester Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-21 7 Total 22 Total 18 GRAND TOTAL 180 b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives/Specialization
+  Courses 12-0-0 12 Programme Electives/Specialization
+  Courses 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-21 7 Total 22 Total 18 GRAND TOTAL 180 c. Minor in Entrepreneurship
+( Sec. 5.11) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 6 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-21 7 Entrepreneurship
+  Project - II 11 Entrepreneurship
+  Project Â– I 3 Total 20 Total 20 GRAND TOTAL 180 d. Department Specialization in Engineering Innovation ( Sec. 5.12) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI
+  same as old curriculum VII Semester VIII Semester Programme Electives 7-0-0 7 Engineering Innovation 20 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-21 7 Total 20 Total 20 GRAND TOTAL 180 3.3 Transition Plan for 2017 and 2018 Batches a. Regular without Specialization Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-IV
+  same as old curriculum V Semester VI Semester C CS311 Data
+  Communication 3-1-0 4 C CS321 Computer
+  Networks 3-0-3 4 C CS312 Compiler
+  Design 3-0-3 4 C CS322 Database
+  Systems 3-0-0 3 C CS313 Operating
+  Systems 3-0-3 4 C CS323
+  Artificial Intelligence 3-0-0 3 C CS314 Algorithm
+  Design and Analysis 3-0-0 3 P B.Tech. Project 0-0-15 4 Open/Programme Elective 3-0-0 3 Open/Programme Elective 4-0-0 4 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 21 Total 21 VII Semester VIII Semester Open/Programme Electives 13-0-0 13 Open/Programme Electives 16-0-0 16 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 21 Total 19 GRAND TOTAL 180 b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives/Specialization
+  Courses 13-0-0 13 Programme Electives/Specialization
+  Courses 16-0-0 16 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 21 Total 19 GRAND TOTAL 180 c. Minor in Entrepreneurship
+( Sec. 5.11) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 9-0-0 9 Entrepreneurship Courses 6-0-0 6 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Entrepreneurship
+  Project - II 11 Entrepreneurship
+  Project Â– I 3 Total 20 Total 20 GRAND TOTAL 180 d. Department Specialization in Engineering Innovation ( Sec. 5.12) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 9-0-0 9 Engineering Innovation 20 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Total 20 Total 20 GRAND TOTAL 180 4. B.Tech. Biotechnology Old Curriculum Cat Course L-T-P Cr Cat. Course L-T-P Cr I Semester II Semester H BB111 Biology for Engineers 3-0-3 4 H ME122 Engineering Mechanics 3-1-3 5 H CS111 Computer Programming 3-1-3 5 H ME121 System Exploration-workshop 3-0-3 4 H ME111 System Exploration Drawing 3-0-3 4 H EE121 Basic Electronic Engineering 3-1-3 5 B MA111 Linear Algebra and Calculus 4-1-0 5 B MA121 Complex Analysis and Differential
+  Equations 4-1-0 5 B PH111 Electromagnetism and Optics 3-1-3 5 C BB121 Cell & Molecular Biology 3-0-0 3 L HS111 English Language and
+  Communication Skills 3-0-0 3 L HS121 Law : Constitution,
+  Responsibilities and Rights 3-0-0 3 S PE111 Physical Exercise I 0 S PE121 Physical Exercise II 0 Total 34 26 Total 31 25 III Semester IV Semester H EE211 Basic Electrical Engineering 3-1-3 5 B MA221 Probability Statistics and Random
+  Processes 4-1-0 5 B CY211 Chemistry 3-0-3 4 C BB221 Biochemistry 3-0-3 4 C EE213 Signals and Systems 3-1-0 4 C BB222 Genetics & Recombinant
+  DNATechnology 3-0-3 4 C BB211 Microbiology 3-0-3 4 C BB223 Bioprocess Engg. & Â Fermentation Technology 3-1-3 5 C CS121 Data structures & Algorithms 3-1-3 5 P BB299 B.Tech. Project 0-0-6 2 L HS211 Principles of Economics 3-0-0 3 L HS221 Principles of Management 3-0-0 3 Total 33 25 Total 35 23 V Semester VI Semester C BB311 Animal Biotechnology 3-0-3 4 C BB321 Bioengineering 3-0-3 4 C BB312 Bioinformatics &
+  Computational Biology 3-0-3 4 C BB322 Environmental Biotechnology and
+  Bioremediation 3-0-0 3 C BB313 Food and Agriculture technology 3-0-3 4 C BB323 Biomedical technology 3-0-3 4 C BB314 Molecular Biophysics 3-0-3 4 C CS323 Artificial Intelligence 3-0-0 3 P BB398 B. Tech. Project 0-0-6 2 P BB399 B. Tech. Project 0-0-9 3 L HS311 Principles of Psychology 3-0-0 3 L Â HS321 Art, Culture and Heritage 3-0-0 3 Total 33 21 Total 30 20 VII Semester VIII Semester Open Electives 9-0-0 9 Open Electives 9-0- 9 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of
+  Technology in Development 3-0-0 3 P B.Tech. Project 0-0-24 8 P B.Tech. Project 0-0-24 8 Total 20 Total 20 Grand Total 180 4.1 Transition plan for B.Tech. in BioTechnology S. No. Category Course Category Old Credits Transition - Â 2018 batch Regular Specialization 1 H Hands-on Experience 32 32 32 2 B Basics 24 24 24 3 C Technology Compulsory 59 59 59 4 L Life Skills 24 24 24 5 S Games & Sports/Social Service 0 0 0 6 E Open Electives 18 18 3 7 P Hands-on Project 23 8 8 8 D Programme Electives 0 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 Total 180 180 180 Note: Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the 2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year. 2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year. 4.2 Transition Plan for 2018 Batch a. Regular without Specialization Ct Course L-T-P Cr Ct Course L-T-P Cr Semester I-IV
+  same as old curriculum V Semester VI Semester C BB311 Animal Biotechnology 3-0-3 4 C BB321 Bioengineering 3-0-3 4 C BB312 Bioinformatics &
+  Computational Biology 3-0-3 4 C BB322 Environmental Biotechnology and
+  Bioremediation 3-0-0 3 C BB313 Food and Agriculture technology 3-0-3 4 C BB323 Biomedical technology 3-0-3 4 C BB314 Molecular Biophysics 3-0-3 4 C CS323 Artificial Intelligence 3-0-0 3 Open/Programme Elective 3-0-0 3 Open/Programme Elective 3-0-0 3 L HS311 Principles of Psychology 3-0-0 3 L Â HS321 Art, Culture and Heritage 3-0-0 3 Total 22 Total 20 VII Semester VIII Semester Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of
+  Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Total 21 Total 18 Grand Total 180 b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives/Specialization
+  Courses 12-0-0 12 Programme Electives/Specialization
+  Courses 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Total 21 Total 18 GRAND TOTAL 180 c. Minor in Entrepreneurship
+( Sec. 5.11) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 7-0-0 7 Entrepreneurship Courses 6-0-0 6 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Entrepreneurship
+  Project - II 11 Entrepreneurship
+  Project Â– I 3 Total 19 Total 20 GRAND TOTAL 180 d. Department Specialization in Engineering Innovation ( Sec. 5.12) Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-VI
+  same as (a) Regular VII Semester VIII Semester Programme Electives 7-0-0 7 Engineering Innovation 20 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-18 6 Total 19 Total 20 GRAND TOTAL 180 5 Minor/Department/Interdisciplinary
+Specialization for batches undergoing transition plan Programme Structure S.N. Course Type Credits 1 Core 8 2 Electives 12 Total for award of Minor/Interdisciplinary/Department
+  Specialization 20 Note :
+Project credit should be less than or equal to 6 out of 12 elective credits
+except for Engineering Innovation and Entrepreneurship 5.1 Artificial Intelligence
+(CS/EE/ME/BB) A. Core Courses S.N. Course Type L-T-P Credits 1 Machine Learning 1 3-0-0 3 2 Artificial Intelligence 2 # 3-0-0 3 3 Real-time Autonomous Systems 2-0-0 2 Note: # ME, EE and BB students will take Artificial Intelligence 1 as a compulsory course and
+Artificial Intelligence 2 as an elective course. B. Elective Courses S.N. Course Type L-T-P Credits 1 Machine Learning II 3-0-0 3 2 Algorithms for Big Data 2-0-0 2 3 Computer
+  Vision 3-0-0 3 4 Stream Analytics 3-0-0 3 5 Machine Learning with Big
+  Data 3-0-0 3 6 Digital
+  Image Analysis 3-0-0 3 7 Edge
+  and Fog Computing 3-0-0 3 8 Natural
+  Language Processing 3-0-0 3 9 GPU
+  Programming 3-0-0 3 10 Data
+  Visualization 3-0-0 3 11 Introduction
+  to Augmented Reality and Virtual Reality 3-0-0 3 12 Dependable
+  AI 3-0-0 3 13 Resource
+  Constrained AI 3-0-0 3 14 Special
+  Topics in Artificial Intelligence - I 3-0-0 3 15 Special
+  Topics in Artificial Intelligence - II 3-0-0 3 16 Special
+  Topics in Artificial Intelligence - III 3-0-0 3 17 Graph
+  Theory and Applications 3-0-0 3 18 Social
+  Network Analysis 3-0-0 3 19 Computational
+  Optimization 3-0-0 3 20 Computer
+  Graphics 3-0-0 3 21 Advanced
+  Computer Graphics 3-0-0 3 22 Neuromorphic
+  Computing and Design 3-0-0 3 23 Bio-image
+  Computing 3-0-0 3 24 Project 0-0-12 6 5.2 VLSI (CS/EE) A. Core Courses S.N. Course Type L-T-P Credits 1 Digital VLSI Design 3-0-0 3 2 Analog and Interfacing
+  Circuits 3-0-0 3 3 Integrated Circuits Design Lab 1-0-2 2 B. Elective Courses S.N. Course Type L-T-P Credits 1 Flexible and Printed
+  Electronics 3-0-0 3 2 RF IC Design 3-0-0 3 3 Active Filter Design 3-0-0 3 4 Image Sensor Design and
+  Applications 3-0-0 3 5 Physics of Transistors 3-0-0 3 6 IC
+  Technology 3-0-0 3 7 Neuromorphic
+  Computing and Design 3-0-0 3 8 Project 6 5.3 Internet
+of Things (CS/EE) A. Core Courses S.N. Course Type L-T-P Credits 1 Introduction to Internet of
+  Things 1-0-0 1 2 Sensors and Measurement 3-0-0 3 3 Data communication and
+  Networking 3-0-0 3 4 Sensors and IoT Lab 1-0-0 1 B. Elective Courses S.N. Course Type L-T-P Credits 1 Digital and Systems-on-Chip
+  Design 3-0-0 3 2 Active Filter Design 3-0-0 3 3 Embedded Systems Design 3-0-0 3 4 Image Sensor Design and Applications 3-0-0 3 5 Antenna Engineering 3-0-0 3 6 Wireless
+  Communication 3-0-0 3 7 Advanced
+  Digital Signal Processing 3-0-0 3 8 Analog
+  and Interfacing Circuits 3-0-0 3 9 Machine
+  Learning - I 3-0-0 3 10 Fog
+  and Edge Computing 3-0-0 3 11 Resource
+  Constrained AI 3-0-0 3 12 Project 6 5.4 Cyber
+Physical Systems (CS/EE/ME/BB) A. Core Courses S.N. Course Type L-T-P Credits 1 Introduction to Cyber
+  physical Systems 3-0-0 3 2 Embedded System Design 3-0-0 3 3 Embedded System Design
+  Laboratory 0-0-2 1 4 Introduction to Modelling
+  (Fractal offered by Dept. Of Mathematics) 1-0-0 1 B. Elective Courses S.N. Course Type L-T-P Credits 1 Computer
+  Vision 3-0-0 3 2 Advanced
+  Digital Signal Processing 3-0-0 3 3 Vehicular
+  Ad-Hoc Networks(VANETs) 3-0-0 3 4 Edge & Fog Computing 3-0-0 3 5 Robotics : Fractal
+  1 Robot Modelling 1-0-2 2 6 Robotics :
+  Fractal 2 Control 1-0-0 1 7 Robotics :
+  Fractal 3 Â Motion Planning and
+  Programming 1-0-0 1 8 Machine
+  Learning I 3-0-0 3 9 Digital and Systems-on-Chips Design 3-0-0 3 10 Introduction to Virtual Reality 3-0-0 3 11 Smart Grid 3-0-0 3 12 Adaptive Signal processing 3-0-0 3 13 Computer Architecture 3-0-0 3 14 Digital Twin 3-0-0 3 15 Advanced
+  Control System 3-0-0 3 16 Security
+  of Â CPS 2-0-0 2 17 Machine Leaning II 3-0-0 3 18 Artificial Intelligence I 3-0-0 3 19 Artificial Intelligence II 3-0-0 3 20 Smart Manufacturing 1-0-2 2 21 Resource Constrained AI 3-0-0 3 22 Machine Leaning II 3-0-0 3 23 Industry 4.0 Applications in Manufacturing Systems 1-0-0 1 24 Optimization 1-0-0 1 25 Project-1 Â Â Â Â Â Â Â Â 6 5.5 Communications
+and Signal Processing (EE) A. Compulsory Courses S.N. Course Type L-T-P Credits 1 Estimation Theory 1-0-0 1 2 Multiple Parameter
+  Estimation 1-0-0 1 3 Wireless Communications 3-0-0 3 4 Data
+  Communication and Networking 3-0-0 3 B. Elective Courses S.N. Course Type L-T-P Credits 1 Advanced Digital
+  Signal Processing 3-0-0 3 2 MIMO Wireless Communications 3-0-0 3 3 Antenna
+  Engineering 3-0-0 3 4 Network Information Theory 3-0-0 3 5 Statistical Decision Theory 2-0-0 2 6 Multi-rate Digital Signal Processing 2-0-0 2 7 Digital Image Processing and Applications 3-0-0 3 8 Digital Â Video Processing 3-0-0 3 9 RF IC Design 3-0-0 3 10 Adaptive Signal
+  Processing 3-0-0 3 11 Optical Fiber Communications 3-0-0 3 12 Image sensor Design and Application 3-0-0 3 13 Applied Optimization for Wireless Communication 3-0-0 3 14 Machine Learning for Communications 3-0-0 3 15 Machine Learning
+  1 3-0-0 3 16 Physical Layer
+  Security 3-0-0 3 17 Compressive
+  Sensing 3-0-0 3 18 Bio-Image
+  Computing 3-0-0 3 19 Selected Topics in Signal Processing I 1-0-0 1 20 Selected Topics in Signal Processing II 2-0-0 2 21 Selected Topics in Signal Processing III 3-0-0 3 22 Multimedia Communications 3-0-0 3 23 Free Space Optical Communications 3-0-0 3 24 GNSS Signal Processing 3-0-0 3 25 Backhaul Networks for Wireless Systems 3-0-0 3 26 Selected Topics in Communication I 1-0-0 1 27 Selected Topics in Communication II 2-0-0 2 28 Selected Topics in Communication III 3-0-0 3 29 Neuromorphic computing and design 3-0-0 3 30 Machine Learning
+  2 3-0-0 3 31 Real Time Communications 3-0-0 3 32 Millimeter
+  Wave Technology 3-0-0 3 33 Digital
+  Image and Video Processing Lab 1-0-2 2 34 RF IC Design Lab 1-0-2 2 35 Network
+  Information Theory 3-0-0 3 36 Wavelets 3-0-0 3 37 Computational Imaging 3-0-0 3 38 Speech and Audio Processing 3-0-0 3 39 Data Compression 3-0-0 3 40 Machine Learning
+  for Communication Lab 1-0-2 2 5.6 Design
+(ME) A. Core Courses S.N. Course Type L-T-P Credits 1 EE:
+  Introduction to Sensors (Fractal Course) 1-0-0 1 2 MEL7XX0:
+  Geometric Modeling & CAD 2-0-2 3 3 MA:
+  Optimization (Fractal course) 1-0-0 1 4 MEL7XX0:
+  Advanced Mechanics of Solids 3-0-0 3 B. Elective Courses S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Robotic 3-0-2 4 2 MEL7XX0:
+  Theory of Vibrations 3-0-0 3 3 MEL7XX0:
+  Mechanical Vibrations 3-0-0 3 4 MEL7XX0:
+  Helicopter Dynamics 3-0-0 3 5 MEL7XX0:
+  Modeling and Control of Mechanical Systems 3-0-0 3 6 MEL7XX0:
+  Multibody Dynamics 3-0-0 3 7 MEL7XX0:
+  Finite Element Methods in Engineering 3-0-0 3 8 MEL7XX0:
+  Rotor Dynamics 3-0-0 3 9 AVL7XX0:
+  Autonomous Mobile Robots 3-0-2 4 10 BBXXX:
+  Biomechanics 3-0-0 3 11 MEL7XX0:
+  MEMS and Microsystems Technology 3-0-2 4 12 MEL7XX0:
+  Applied Ergonomics 3-0-0 3 13 MEL7XX0:
+  Mechatronic Systems Design 3-0-0 3 14 MEL7XX0:
+  Additive Manufacturing 3-0-0 3 15 MEL7XX0:
+  Design for X 3-0-0 3 16 MEL7XX0:
+  Computer Aided Inspection and Quality Control 3-0-0 3 17 MEL7XX0:
+  Microfluidics Technology 3-0-0 3 18 BBXXX:
+  Medical Devices and Implants 3-0-0 3 19 MTXXX:
+  Light Metals and Alloys 3-0-0 3 20 MTXXX:
+  Corrosion Engineering 3-0-0 3 21 MAXXX:
+  Statistics I 1-0-0 3 22 MAXXX:
+  Statistics II 2-0-0 3 23 MAXXX:
+  Reliability Theory 3-0-0 3 24 CSXXX:
+  Artificial Intelligence I 3-0-0 3 25 CSXXX:
+  Machine Learning I 3-0-0 3 26 MEL7XX0:
+  Probabilistic Methods in Engineering Design 3-0-0 3 27 PHL7XX0:
+  Energy Harvesting Technologies 3-0-0 3 5.7 Smart
+Manufacturing (ME) A. Core Courses S.N. Course Type L-T-P Credits 1 EE:
+  Introduction to Sensors (Fractal Course) 1-0-0 1 2 CS:
+  Introduction to Machine Learning (Fractal course) 1-0-0 1 3 MEP7XX0:
+  Smart Manufacturing 1-0-2 2 4 MEL7XX0:
+  Materials & Manufacturing Processes 2-0-1 3 5 MEL7XX0:
+  Industry 4.0 Applications in Manufacturing Systems 1-0-0 1 B. Elective Courses S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Geometric Modeling & CAD 2-0-1 3 2 MA:
+  Optimization (Fractal course) 1-0-0 1 3 MEL7XX0:
+  Robotic 3-0-2 4 4 MEL7XX0:
+  Computer Aided Manufacturing 3-0-2 4 5 MEL7XX0:
+  Mechanical Metallurgy 3-0-0 3 6 MEL7XX0:
+  Theory of Arc Welding 3-0-0 3 7 MEL7XX0:
+  Welding Metallurgy 3-0-0 3 8 MEL7XX0:
+  MEMS and Microsystems Technology 3-0-2 4 9 MEL7XX0:
+  Precision and Micro-Manufacturing 3-0-0 3 10 MEL7XX0:
+  Applied Ergonomics 3-0-0 3 11 MEL7XX0:
+  Mechatronic Systems Design 3-0-0 3 12 MEL7XX0:
+  Additive Manufacturing 3-0-0 3 13 MEL7XX0:
+  Design for X 3-0-0 3 14 MEL7XX0:
+  Computer Aided Inspection and Quality Control 3-0-0 3 15 MEL7XX0:
+  Welding: Metallurgy, Defects and Testing 3-0-0 3 16 MEL7XX0:
+  Non-Conventional Welding Processes 3-0-0 3 17 MEL7XX0: Welding inspection and Quality Control 3-0-0 3 18 MEL7XX0:
+  Microfluidics Technology 3-0-0 3 19 BBXXX:
+  Medical Devices and Implants 3-0-0 3 20 MTXXX:
+  Solidification Processing 3-0-0 3 21 MTXXX:
+  Light Metals and Alloys 3-0-0 3 22 MTXXX:
+  Powder Metallurgy 3-0-0 3 23 MTXXX:
+  Thermo-Mechanical Processing 3-0-0 3 24 MTXXX:
+  Near-Net Forming 3-0-0 3 25 MTXXX:
+  Plastic Deformation and Microstructure Evaluation 3-0-0 3 26 MTXXX:
+  Corrosion Engineering 3-0-0 3 27 MAXXX:
+  Statistics I 3-0-0 3 28 MAXXX:
+  Statistics II 3-0-0 3 29 MAXXX:
+  Reliability Theory 3-0-0 3 30 CSXXX:
+  Artificial Intelligence I 3-0-0 3 31 CSXXX:
+  Machine Learning I 3-0-0 3 32 EEXXX:
+  Introduction to CPS 3-0-0 3 33 MEL7XX0:
+  Probabilistic Methods in Engineering Design 3-0-0 3 34 PHL7XX0:
+  Nanoscience and Nanotechnology 3-0-0 3 35 PHL7XX0:
+  Introduction to Material Characterization 3-0-0 3 36 PHL7XX0:
+  Physics of Solar Cells 3-0-0 3 37 PHL7XX0:
+  Laser Technologies 3-0-0 3 38 PHL7XX0:
+  Computational Materials Science 3-0-0 3 39 PHL7XX0:
+  Statistical Methods for Data Analysis 3-0-0 3 40 PHL7XX0:
+  Energy Harvesting Technologies 3-0-0 3 5.9
+Thermofluids Engineering (ME) A. Core Courses S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Applied Heat and Mass Transfer 3-0-0 3 2 MEL7XX0;
+  Incompressible Fluid Flow 3-0-0 3 3 MEL7XX1: Multi
+  Phase Systems and Chemical Reactions 1-0-0 1 4 MEL7XX2: Kinetic Theory 1-0-0 1 B. Elective Courses S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Experimental Techniques in Thermofluids 3-0-0 3 2 MA:
+  Matrix Computations 1-0-0 1 3 MA:
+  Numerical Methods in ODE 1-0-0 1 4 MA:
+  Numerical Methods for PDE 1-0-0 1 5 MEL7XX0:
+  Conduction and Radiation 3-1-0 4 6 MEL7XX0:
+  Convective Heat and Mass Transfer 3-1-0 4 7 MELXXX0:
+  Combustion Technology 3-0-0 3 8 MEL7XX0:
+  Turbulent Flows 3-0-2 4 9 MEL7XX0:
+  Jet and Rocket Propulsion 3-0-0 3 10 MEL7XX0:
+  Computational Fluid Dynamics and Heat Transfer 3-1-0 4 11 MEL7XX0:
+  Two Phase Flow and Heat Transfer 3-1-0 4 12 MEL7XX0:
+  Design of Heat Exchange Equipment 3-1-0 4 13 MEL7XX0: Compressible Fluid Flows 3-0-2 4 14 MEL7XX0:
+  Optical and Laser Based Measurements in Thermofluids 3-0-0 3 15 MEL7XX0: Fluid dynamics and Acoustics of Turbulent Jets 3-0-0 3 16 MEL7XX0: Heating, Ventilation and Air-Conditioning 3-0-0 3 17 MEL7XX0: Microfluidics Technology 3-0-0 3 18 MEL7XX0: Fluid Flow in Biological Processes 3-0-0 3 19 MEL7XX0: Nanosensors 3-0-0 3 20 MEL7XX0:
+  Water Energy Nexus 3-0-0 3 21 MEL7XX0:
+  Soil and Water Conservation Engineering 3-0-0 3 22 MEL7XX0: Probabilistic Methods in Engineering
+  Design 3-0-2 4 5.9 Smart
+Healthcare (CS/EE/ME/BB) A. Core Courses S.N. Course Type L-T-P Credits 1 Disease, processes,
+  diagnostics Â & therapeutics 3-0-2 4 2 Systems Biology 3-0-2 4 B. Elective Courses S.N. Course Type L-T-P Credits 1 Bioimaging 3-0-0 3 2 Artificial Intelligence for healthcare 3-0-0 3 3 Biosensors 3-0-0 3 4 Multiomics technologies 3-0-0 3 5 Biomaterials 3-0-0 3 6 Immunotechnology 3-0-0 3 7 Quantitative Physiology lab 0-0-2 1 8 Statistics and Data analysis 3-0-2 4 9 Principles of drug discovery 3-0-0 3 10 Principles of Nuclear Magnetic Resonance 3-0-0 3 11. Theory & Applications of Spectroscopy 3-0-0 3 10 Project work 0-0-8 4 5.8
+Management (CS/EE/ME/BB) A. Core Courses S.N. Course Type L-T-P Credits 1 Basics of HRM 2-0-0 2 2 Finance and accounts 3-0-0 3 3 Micro and Macro Economics 3-0-0 3 B. Elective Courses S.N. Course Type L-T-P Credits 1 Operations Management 3-0-0 3 2 Supply Chain Management 3-0-0 3 3 Basic Managerial Skills 2-0-0 2 4 Project Management 2-0-0 2 5 Organizational Behaviour 2-0-0 2 6 Econometrics 2-1-0 3 7 Developmental
+  Economics 3-0-0 3 8 Project/Workshop:
+  Public Policy, Business Ethics, Business Law, Leadership 0-0-8 4 9 Digital
+  marketing 3-0-0 3 Note: As this plan
+     is only for transition, the course on Principles of Management and
+     Economics is not included here. Existing students have already done these
+     courses as a life skill course. Generally Principles of Management and Economics
+     is a core component. 5.11 Entrepreneurship
+(CS/EE/ME/BB) Why a minor in Entrepreneurship as part of B.Tech programme? 1. Entrepreneurs
+Everywhere Concept of Entrepreneurship includes everyone working in any
+institution creating new products, processes, services under extreme conditions
+of uncertainty. 2. Entrepreneurship
+is management Realisation of any concept in physical world under conditions of
+uncertainty requires special management skills which can be useful Â in any enterprise in any sector or industry. 3. Validated
+Learning Entrepreneurs learn how to build sustainable technology and
+business based upon their skill set acquired through years of effort. Their
+learning gets validated scientifically by running experiments that allow
+entrepreneurs to test each element of their concept. 4. Build-measure
+Learn Fundamental activity of a start-up is to turn ideas into tangible
+entities, measures how customers respond, and then learn to persevere or
+rethink. A professional going through this process learns how to work in an
+iterative cycle for realisation of the conceptual plan. A. 1 st Semester S.N. Course Type L-T-P Credits 1 Project I: Ideation, Product
+  Concept Development 3-0-0 3 B. 2 nd Semester S.N. Course Type L-T-P Credits 1 Introduction to Innovation and Entrepreneurship 1-0-0 1 2 Entrepreneurial Management 2-0-0 2 3 IP Management and Exploitation 1-0-0 1 4 Systems Engineering and Project Management 1-0-0 1 5 Project II: Prototype Development, Business Model
+  Development, IP strategy formulation 0-0-11 11 The project work involves developing a product idea having
+business potential to a prototype level with appropriate business model. The
+final evaluation will be a through a demo pitch for funding. Each project can have maximum of three students who can be
+from different departments. There will be a faculty mentor identified by the
+student. Team and faculty mentor must get identified before registration for
+the minor area. Institute will make every attempt to attach an advisor from the
+start-up community of the country. 5.12 Engineering
+Innovation (CS/EE/ME/BB) Department Area Specialization in Engineering Innovation is aimed
+at making students Industry Ready by offering five months Practical Project in
+an Industry or R & D organization. It focuses on use of technology
+knowledge to create products and processes which have usability value.
+Objective of this specialisation is to recognise such creative engineering
+endeavour. This activity is not expected to aim only publication of
+papers. It must happen in collaboration with IIT J faculty member, and expected
+to have an industrial or User agency as partner. Â Each project carried out by students will have
+both a company supervisor and an institute supervisor. Students get real-world
+experience working for an industry or R & D organization on a project that complements their academic
+experience. Projects are aimed to enable them for meaningful careers and
+provide them with an opportunity to engage with industry before graduation. in Engineering Innovation as a part of the curriculum from the
+beginning of the 8 th Semester. A student would be required to
+complete a minimum of five months in industries or R & D organization for
+Department Area Specialization in Engineering Innovation.
+Proposed Transition Plan for B.Tech. Batches: 2016, 2017 and 2018
+Proposed Transition Plan for B.Tech. Batches: 2016, 2017 and 2018
+1. B.Tech. Mechanical Engineering
+1. B.Tech. Mechanical Engineering
+ME111 System Exploration- Drawing
+ME111 System Exploration- Drawing
+ME111 System Exploration- Drawing
+ME121 System Exploration- Workshop
+ME121 System Exploration- Workshop
+ME121 System Exploration- Workshop
+CS111 Computer Programming
+CS111 Computer Programming
+CS111 Computer Programming
+EE121 Basic Electronics Engineering
+EE121 Basic Electronics Engineering
+EE121 Basic Electronics Engineering
+MA111 Linear Algebra and Calculus
+MA111 Linear Algebra and Calculus
+MA111 Linear Algebra and Calculus
+ME122 Engineering Mechanics
+ME122 Engineering Mechanics
+ME122 Engineering Mechanics
+MA121 Complex Analysis &
+  Differential Equation
+MA121 Complex Analysis &
+  Differential Equation
+MA121 Complex Analysis &
+  Differential Equation
+ME112 Engineering Materials
+ME112 Engineering Materials
+ME112 Engineering Materials
+ME212 Fluid Mechanics
+ME212 Fluid Mechanics
+ME212 Fluid Mechanics
+HS111 English Language and Communication Skills
+HS111 English Language and Communication Skills
+HS111 English Language and Communication Skills
+Language and Communication Skills
+HS121 Rights, Responsibility, Law &
+  Constitution
+HS121 Rights, Responsibility, Law &
+  Constitution
+HS121 Rights, Responsibility, Law &
+  Constitution
+PE111 Physical Exercises I
+PE111 Physical Exercises I
+PE111 Physical Exercises I
+PE121 Physical Exercise II
+PE121 Physical Exercise II
+PE121 Physical Exercise II
+EE221 Basic Electrical Engineering
+EE221 Basic Electrical Engineering
+EE221 Basic Electrical Engineering
+ME221 Manufacturing Technology
+ME221 Manufacturing Technology
+ME221 Manufacturing Technology
+PH111 Electromagnetism and Optics
+PH111 Electromagnetism and Optics
+PH111 Electromagnetism and Optics
+MA221 Probability Statistics and Random
+  Processes
+MA221 Probability Statistics and Random
+  Processes
+MA221 Probability Statistics and Random
+  Processes
+ME211 Thermodynamics
+ME211 Thermodynamics
+ME211 Thermodynamics
+ME222 Kinematics of Mechanism and
+  Machines
+ME222 Kinematics of Mechanism and
+  Machines
+ME222 Kinematics of Mechanism and
+  Machines
+ME223 Heat and Mass Transfer
+ME223 Heat and Mass Transfer
+ME223 Heat and Mass Transfer
+ME214 Mechanics of Solids
+ME214 Mechanics of Solids
+ME214 Mechanics of Solids
+ME298 B.Tech. Project
+ME298 B.Tech. Project
+ME298 B.Tech. Project
+HS221 Principles of Management
+HS221 Principles of Management
+HS221 Principles of Management
+Principles of Management
+ME311 Dynamics of Machines &
+  Mechanism
+ME311 Dynamics of Machines &
+  Mechanism
+ME311 Dynamics of Machines &
+  Mechanism
+ME321 Refrigeration and Air
+  Conditioning
+ME321 Refrigeration and Air
+  Conditioning
+ME321 Refrigeration and Air
+  Conditioning
+ME322
+  Turbomachinery
+ME322
+  Turbomachinery
+ME322
+  Turbomachinery
+ME313
+  Machining Science and Metrology
+ME313
+  Machining Science and Metrology
+ME313
+  Machining Science and Metrology
+ME323
+  Design of Machine Elements
+ME323
+  Design of Machine Elements
+ME323
+  Design of Machine Elements
+ME315
+  Production and Operations management
+ME315
+  Production and Operations management
+ME315
+  Production and Operations management
+ME324 Industrial Engineering
+ME324 Industrial Engineering
+ME324 Industrial Engineering
+ME398 B.Tech. Project
+ME398 B.Tech. Project
+ME398 B.Tech. Project
+ME399 B.Tech. Project
+ME399 B.Tech. Project
+ME399 B.Tech. Project
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+Culture Art and Heritage
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+1.1 Transition Plan for B.Tech. in Mechanical
+Engineering
+1.1 Transition Plan for B.Tech. in Mechanical
+Engineering
+S. No. Category Course Category Old Credits Transition - 2016 batch Transition - 2017 & 2018 batches Regular Specialization Regular Specialization 1 H Hands-on Experience 32 32 32 32 32 2 B Basics 28 28 28 28 28 3 C Technology Compulsory 56 56 56 56 56 4 L Life Skills 24 24 24 24 24 5 S Games & Sports/Social Service 0 0 0 0 0 6 E Open Electives 18 18 0 18 3 7 P Hands-on Project 23 14 14 8 8 8 D Programme Electives 0 9 7 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 0 20 Total 181 181 181 181 181
+Transition - 2016 batch
+Transition - 2017 & 2018 batches
+Technology Compulsory
+Technology Compulsory
+Technology Compulsory
+Games & Sports/Social Service
+Games & Sports/Social Service
+Games & Sports/Social Service
+Specialization (Minor /Department/Interdisciplinary)
+Specialization (Minor
+Specialization (Minor
+/Department/Interdisciplinary)
+/Department/Interdisciplinary)
+Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the
+Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the
+2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+2017 and 2018 batches:
+students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+1.2 Transition Plan for 2016 Batch
+1.2 Transition Plan for 2016 Batch
+a. Regular without Specialization
+a. Regular without Specialization
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1  5.10)
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1  5.10)
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+c. Minor in Entrepreneurship
+( Sec. 5.11)
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Entrepreneurship Courses
+Entrepreneurship Courses
+Entrepreneurship Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project  I
+Entrepreneurship
+  Project  I
+Entrepreneurship
+  Project  I
+d. Department Specialization in Engineering Innovation ( Sec. 5.12)
+d. Department Specialization in
+Engineering Innovation (
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Engineering Innovation
+Engineering Innovation
+Engineering Innovation
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+1.3 Transition Plan for 2017 and 2018 Batches
+1.3 Transition Plan for 2017 and 2018 Batches
+a. Regular without Specialization
+a. Regular without Specialization
+Semesters I-IV
+  same as old curriculum
+Semesters I-IV
+  same as old curriculum
+Semesters I-IV
+  same as old curriculum
+ME311 Dynamics of Machines &
+  Mechanism
+ME311 Dynamics of Machines &
+  Mechanism
+ME311 Dynamics of Machines &
+  Mechanism
+ME321 Refrigeration and Air
+  Conditioning
+ME321 Refrigeration and Air
+  Conditioning
+ME321 Refrigeration and Air
+  Conditioning
+ME322
+  Turbomachinery
+ME322
+  Turbomachinery
+ME322
+  Turbomachinery
+ME313
+  Machining Science and Metrology
+ME313
+  Machining Science and Metrology
+ME313
+  Machining Science and Metrology
+ME323
+  Design of Machine Elements
+ME323
+  Design of Machine Elements
+ME323
+  Design of Machine Elements
+ME315
+  Production and Operations management
+ME315
+  Production and Operations management
+ME315
+  Production and Operations management
+ME324 Industrial Engineering
+ME324 Industrial Engineering
+ME324 Industrial Engineering
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+Culture Art and Heritage
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+Semesters I-VI
+  same as (a) Regular
+Semesters I-VI
+  same as (a) Regular
+Semesters I-VI
+  same as (a) Regular
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+c. Minor in Entrepreneurship
+( Sec. 5.11)
+Semesters I-VI
+  same as (a) Regular
+Semesters I-VI
+  same as (a) Regular
+Semesters I-VI
+  same as (a) Regular
+Entrepreneurship Courses
+Entrepreneurship Courses
+Entrepreneurship Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+d. Department Specialization in Engineering Innovation ( Sec. 5.12)
+d. Department Specialization in
+Engineering Innovation (
+Semesters I-VI
+  same as (a) Regular
+Semesters I-VI
+  same as (a) Regular
+Semesters I-VI
+  same as (a) Regular
+Engineering Innovation
+Engineering Innovation
+Engineering Innovation
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+2. B.Tech. Electrical Engineering
+2. B.Tech. Electrical Engineering
+ME111 System Exploration--Drawing
+ME111 System Exploration--Drawing
+ME111 System Exploration--Drawing
+ME121 System Exploration--Workshop
+ME121 System Exploration--Workshop
+ME121 System Exploration--Workshop
+CS111 Computer Programming
+CS111 Computer Programming
+CS111 Computer Programming
+EE121 Basic Electronics Engineering
+EE121 Basic Electronics Engineering
+EE121 Basic Electronics Engineering
+MA111 Linear Algebra and Calculus
+MA111 Linear Algebra and Calculus
+MA111 Linear Algebra and Calculus
+ME122 Engineering Mechanics
+ME122 Engineering Mechanics
+ME122 Engineering Mechanics
+PH111 Electromagnetism and Optics
+PH111 Electromagnetism and Optics
+PH111 Electromagnetism and Optics
+MA121 Complex Analysis &
+  Differential Equation
+MA121 Complex Analysis &
+  Differential Equation
+MA121 Complex Analysis &
+  Differential Equation
+EE111 Physics of Semiconductor Devices
+EE111 Physics of Semiconductor Devices
+EE111 Physics of Semiconductor Devices
+EE122 Electromagnetic Theory
+EE122 Electromagnetic Theory
+EE122 Electromagnetic Theory
+HS111 English Language and Communication Skills
+HS111 English Language and Communication Skills
+HS111 English Language and Communication Skills
+Language and Communication Skills
+HS121 Rights, Responsibility, Law &
+  Constitution
+HS121 Rights, Responsibility, Law &
+  Constitution
+HS121 Rights, Responsibility, Law &
+  Constitution
+PE111 Physical Exercises I
+PE111 Physical Exercises I
+PE111 Physical Exercises I
+PE121 Physical Exercise II
+PE121 Physical Exercise II
+PE121 Physical Exercise II
+EE221 Basic Electrical Engineering
+EE221 Basic Electrical Engineering
+EE221 Basic Electrical Engineering
+EE221 Electrical Machines
+EE221 Electrical Machines
+EE221 Electrical Machines
+MA221 Probability Statistics and Random
+  Processes
+MA221 Probability Statistics and Random
+  Processes
+MA221 Probability Statistics and Random
+  Processes
+ME211 Thermodynamics
+ME211 Thermodynamics
+ME211 Thermodynamics
+EE222 Digital Logic and Design
+EE222 Digital Logic and Design
+EE222 Digital Logic and Design
+EE212 Circuit Theory
+EE212 Circuit Theory
+EE212 Circuit Theory
+EE213 Signals and Systems
+EE213 Signals and Systems
+EE213 Signals and Systems
+EE299 B.Tech. Project
+EE299 B.Tech. Project
+EE299 B.Tech. Project
+HS221 Principles of Management
+HS221 Principles of Management
+HS221 Principles of Management
+Principles of Management
+EE311 Power Electronics
+EE311 Power Electronics
+EE311 Power Electronics
+EE325 Contemporary Communication System
+EE325 Contemporary Communication System
+EE325 Contemporary Communication System
+EE312 Microprocessors and
+  Microcontrollers
+EE312 Microprocessors and
+  Microcontrollers
+EE312 Microprocessors and
+  Microcontrollers
+EE322 Digital Signal Processing
+EE322 Digital Signal Processing
+EE322 Digital Signal Processing
+EE313 Communication System
+EE313 Communication System
+EE313 Communication System
+EE323 Microwave Engineering
+EE323 Microwave Engineering
+EE323 Microwave Engineering
+EE314 Analog Electronics
+EE314 Analog Electronics
+EE314 Analog Electronics
+EE324 Control Systems
+EE324 Control Systems
+EE324 Control Systems
+EE398 B.Tech. Project
+EE398 B.Tech. Project
+EE398 B.Tech. Project
+EE399 B.Tech. Project
+EE399 B.Tech. Project
+EE399 B.Tech. Project
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+Culture Art and Heritage
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+2.1 Transition Plan for B.Tech. in Electrical
+Engineering
+2.1 Transition Plan for B.Tech. in Electrical
+Engineering
+S. No. Category Course Category Old Credits Transition - Â 2016 batch Transition - Â 2017 & 2018 batches Regular Specialization Regular Specialization 1 H Hands-on Experience 32 32 32 32 32 2 B Basics 28 28 28 28 28 3 C Technology Compulsory 55 55 55 55 55 4 L Life Skills 24 24 24 24 24 5 S Games & Sports/Social Service 0 0 0 0 0 6 E Open Electives 18 18 0 18 3 7 P Hands-on Project 24 15 15 9 9 8 D Programme Electives 0 9 7 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 0 20 Total 181 181 181 181 181
+Transition - Â 2016 batch
+Transition - Â 2017 & 2018 batches
+Â 2017 & 2018 batches
+Â 2017 & 2018 batches
+Technology Compulsory
+Technology Compulsory
+Technology Compulsory
+Games & Sports/Social Service
+Games & Sports/Social Service
+Games & Sports/Social Service
+Specialization (Minor /Department/Interdisciplinary)
+Specialization (Minor
+Specialization (Minor
+/Department/Interdisciplinary)
+/Department/Interdisciplinary)
+Note: Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the
+Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the
+2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+2017 and 2018 batches:
+students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+2.2 Transition Plan for 2016 Batch
+2.2 Transition Plan for 2016 Batch
+a. Regular without Specialization
+a. Regular without Specialization
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Programme Electives/Specialization Courses
+Programme Electives/Specialization Courses
+Programme Electives/Specialization Courses
+Programme Electives/Specialization Courses
+Programme Electives/Specialization Courses
+Programme Electives/Specialization Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+c. Minor in Entrepreneurship
+( Sec. 5.11)
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Entrepreneurship Courses
+Entrepreneurship Courses
+Entrepreneurship Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+d. Department Specialization in Engineering Innovation ( Sec. 5.12)
+d. Department Specialization in
+Engineering Innovation (
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Semester I-VI
+  same as old curriculum
+Engineering Innovation
+Engineering Innovation
+Engineering Innovation
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+2.3 Transition Plan for 2017 and 2018 Batches
+2.3 Transition Plan for 2017 and 2018 Batches
+a. Regular without Specialization
+a. Regular without Specialization
+Semester I-IV
+  same as old curriculum
+Semester I-IV
+  same as old curriculum
+Semester I-IV
+  same as old curriculum
+EE311 Power Electronics
+EE311 Power Electronics
+EE311 Power Electronics
+EE325 Contemporary Communication System
+EE325 Contemporary Communication System
+EE325 Contemporary Communication System
+EE312 Microprocessors and
+  Microcontrollers
+EE312 Microprocessors and
+  Microcontrollers
+EE312 Microprocessors and
+  Microcontrollers
+EE322 Digital Signal Processing
+EE322 Digital Signal Processing
+EE322 Digital Signal Processing
+EE313 Communication System
+EE313 Communication System
+EE313 Communication System
+EE323 Microwave Engineering
+EE323 Microwave Engineering
+EE323 Microwave Engineering
+EE314 Analog Electronics
+EE314 Analog Electronics
+EE314 Analog Electronics
+EE324 Control Systems
+EE324 Control Systems
+EE324 Control Systems
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+Culture Art and Heritage
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+c. Minor in Entrepreneurship
+( Sec. 5.11)
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Entrepreneurship Courses
+Entrepreneurship Courses
+Entrepreneurship Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+d. Department Specialization in Engineering Innovation ( Sec. 5.12)
+d. Department Specialization in
+Engineering Innovation (
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Engineering Innovation
+Engineering Innovation
+Engineering Innovation
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+3. B.Tech. Computer Science and Engineering
+3. B.Tech. Computer Science and
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr I Semester II Semester H ME111 System
+  Exploration Â—Drawing 3-0-3 4 H ME121 System
+  Exploration Â—Workshop 3-0-3 4 H CS111 Computer
+  Programming 3-1-3 5 H EE121 Basic
+  Electronics Engineering 3-1-3 5 B PH111
+  Electromagnetism and Optics 3-1-3 5 H ME122
+  Engineering Mechanics 3-1-3 5 B MA111 Linear
+  Algebra and Calculus 4-1-0 5 B MA121 Complex
+  Analysis & Differential Equation 4-1-0 5 B CY211 Chemistry 3-0-3 4 C CS112 Discrete
+  Mathematics 3-1-0 4 L HS111 English Language and Communication Skills 3-0-0 3 L HS121 Rights, Responsibility, Law &
+  Constitution 3-0-0 3 S PE111 Physical
+  Exercises I 0 S PE121 Physical
+  Exercise II 0 Total 32 26 Total 35 26 III Semester IV Semester H EE211 Basic
+  Electrical Engineering 3-1-3 5 B MA221
+  Probability Statistics and Random Processes 4-1-0 5 C CS121 Data
+  Structures and Algorithms 3-1-3 5 C CS221 Computer
+  Organization and Architecture 3-0-0 3 H CS211 Digital
+  Logic and Design 3-0-3 4 C CS222 Theory of
+  Computation 3-0-0 3 C CS212 Object
+  Oriented Analysis and Design 3-0-3 4 C CS223 Software
+  Engineering 3-0-3 4 C EE213 Signals
+  and Systems 3-1-0 4 P CS299 B.Tech. Project 3-0-0 3 L HS211 Economics 3-0-0 3 L HS221 Principles of Management 3-0-0 3 Total 32 25 Total 29 21 V Semester VI Semester C CS311 Data
+  Communication 3-1-0 4 C CS321 Computer
+  Networks 3-0-3 4 C CS312 Compiler
+  Design 3-0-3 4 C CS322 Database
+  Systems 3-0-0 3 C CS313 Operating
+  Systems 3-0-3 4 C CS323
+  Artificial Intelligence 3-0-0 3 C CS314 Algorithm
+  Design and Analysis 3-0-0 3 E Elective 3-0-0 3 P CS398 B.Tech. Project 0-0-12 4 P CS399 B.Tech. Project 0-0-12 4 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 34 22 Total 30 20 VII Semester VIII Semester E Open Electives 9-0-0 9 E Open Electives 9-0-0 9 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-24 8 P B.Tech. Project 0-0-24 8 Total 36 20 Total 18 20 GRAND TOTAL 180
+ME111 System
+  Exploration Â—Drawing
+ME111 System
+  Exploration Â—Drawing
+ME111 System
+  Exploration Â—Drawing
+ME121 System
+  Exploration Â—Workshop
+ME121 System
+  Exploration Â—Workshop
+ME121 System
+  Exploration Â—Workshop
+CS111 Computer
+  Programming
+CS111 Computer
+  Programming
+CS111 Computer
+  Programming
+EE121 Basic
+  Electronics Engineering
+EE121 Basic
+  Electronics Engineering
+EE121 Basic
+  Electronics Engineering
+PH111
+  Electromagnetism and Optics
+PH111
+  Electromagnetism and Optics
+PH111
+  Electromagnetism and Optics
+ME122
+  Engineering Mechanics
+ME122
+  Engineering Mechanics
+ME122
+  Engineering Mechanics
+MA111 Linear
+  Algebra and Calculus
+MA111 Linear
+  Algebra and Calculus
+MA111 Linear
+  Algebra and Calculus
+MA121 Complex
+  Analysis & Differential Equation
+MA121 Complex
+  Analysis & Differential Equation
+MA121 Complex
+  Analysis & Differential Equation
+CS112 Discrete
+  Mathematics
+CS112 Discrete
+  Mathematics
+CS112 Discrete
+  Mathematics
+HS111 English Language and Communication Skills
+HS111 English Language and Communication Skills
+HS111 English Language and Communication Skills
+Language and Communication Skills
+HS121 Rights, Responsibility, Law &
+  Constitution
+HS121 Rights, Responsibility, Law &
+  Constitution
+HS121 Rights, Responsibility, Law &
+  Constitution
+PE111 Physical
+  Exercises I
+PE111 Physical
+  Exercises I
+PE111 Physical
+  Exercises I
+PE121 Physical
+  Exercise II
+PE121 Physical
+  Exercise II
+PE121 Physical
+  Exercise II
+EE211 Basic
+  Electrical Engineering
+EE211 Basic
+  Electrical Engineering
+EE211 Basic
+  Electrical Engineering
+MA221
+  Probability Statistics and Random Processes
+MA221
+  Probability Statistics and Random Processes
+MA221
+  Probability Statistics and Random Processes
+CS121 Data
+  Structures and Algorithms
+CS121 Data
+  Structures and Algorithms
+CS121 Data
+  Structures and Algorithms
+CS221 Computer
+  Organization and Architecture
+CS221 Computer
+  Organization and Architecture
+CS221 Computer
+  Organization and Architecture
+CS211 Digital
+  Logic and Design
+CS211 Digital
+  Logic and Design
+CS211 Digital
+  Logic and Design
+CS222 Theory of
+  Computation
+CS222 Theory of
+  Computation
+CS222 Theory of
+  Computation
+CS212 Object
+  Oriented Analysis and Design
+CS212 Object
+  Oriented Analysis and Design
+CS212 Object
+  Oriented Analysis and Design
+CS223 Software
+  Engineering
+CS223 Software
+  Engineering
+CS223 Software
+  Engineering
+EE213 Signals
+  and Systems
+EE213 Signals
+  and Systems
+EE213 Signals
+  and Systems
+CS299 B.Tech. Project
+CS299 B.Tech. Project
+CS299 B.Tech. Project
+HS221 Principles of Management
+HS221 Principles of Management
+HS221 Principles of Management
+Principles of Management
+CS311 Data
+  Communication
+CS311 Data
+  Communication
+CS311 Data
+  Communication
+CS321 Computer
+  Networks
+CS321 Computer
+  Networks
+CS321 Computer
+  Networks
+CS312 Compiler
+  Design
+CS312 Compiler
+  Design
+CS312 Compiler
+  Design
+CS322 Database
+  Systems
+CS322 Database
+  Systems
+CS322 Database
+  Systems
+CS313 Operating
+  Systems
+CS313 Operating
+  Systems
+CS313 Operating
+  Systems
+CS323
+  Artificial Intelligence
+CS323
+  Artificial Intelligence
+CS323
+  Artificial Intelligence
+CS314 Algorithm
+  Design and Analysis
+CS314 Algorithm
+  Design and Analysis
+CS314 Algorithm
+  Design and Analysis
+CS398 B.Tech. Project
+CS398 B.Tech. Project
+CS398 B.Tech. Project
+CS399 B.Tech. Project
+CS399 B.Tech. Project
+CS399 B.Tech. Project
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+Culture Art and Heritage
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+3.1 Transition Plan for B.Tech. in Computer
+Science and Engineering
+3.1 Transition Plan for B.Tech. in Computer
+Science and Engineering
+S. No. Category Course Category Old Credits Transition - Â 2016 batch Transition - Â 2017 & 2018 batches Regular Specialization Regular Specialization 1 H Hands-on Experience 32 32 32 32 32 2 B Basics 24 24 24 24 24 3 C Technology Compulsory 52 52 52 52 52 4 L Life Skills 24 24 24 24 24 5 S Games & Sports/Social Service 0 0 0 0 0 6 E Open Electives 21 21 3 21 6 7 P Hands-on Project 27 18 18 12 12 8 D Programme Electives 0 9 7 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 0 20 Total 180 180 180 180 180
+Transition - Â 2016 batch
+Transition - Â 2017 & 2018 batches
+Â 2017 & 2018 batches
+Â 2017 & 2018 batches
+Technology Compulsory
+Technology Compulsory
+Technology Compulsory
+Games & Sports/Social Service
+Games & Sports/Social Service
+Games & Sports/Social Service
+Specialization (Minor /Department/Interdisciplinary)
+Specialization (Minor
+Specialization (Minor
+/Department/Interdisciplinary)
+/Department/Interdisciplinary)
+Student can opt for Minor/Department/Interdisciplinary
+specialization by completing 20 credits in the area. For this the
+Student can opt for Minor/Department/Interdisciplinary
+specialization by completing 20 credits in the area. For this the
+2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+2017 and 2018 batches:
+students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+3.2 Transition Plan for 2016 Batch
+3.2 Transition Plan for 2016 Batch
+a. Regular without Specialization
+a. Regular without Specialization
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semesters I-VI same as old curriculum VII Semester VIII Semester Open/Programme Electives 12-0-0 12 Open/Programme Electives 15-0-0 15 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-21 7 Total 22 Total 18 GRAND TOTAL 180
+Semesters I-VI same as old curriculum
+Semesters I-VI same as old curriculum
+Semesters I-VI same as old curriculum
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+c. Minor in Entrepreneurship
+( Sec. 5.11)
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Entrepreneurship Courses
+Entrepreneurship Courses
+Entrepreneurship Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+d. Department Specialization in Engineering Innovation ( Sec. 5.12)
+d. Department Specialization in
+Engineering Innovation (
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Semesters I-VI
+  same as old curriculum
+Engineering Innovation
+Engineering Innovation
+Engineering Innovation
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+3.3 Transition Plan for 2017 and 2018 Batches
+3.3 Transition Plan for 2017 and 2018 Batches
+a. Regular without Specialization
+a. Regular without Specialization
+Cat Course Title L-T-P Cr Cat Course Title L-T-P Cr Semester I-IV
+  same as old curriculum V Semester VI Semester C CS311 Data
+  Communication 3-1-0 4 C CS321 Computer
+  Networks 3-0-3 4 C CS312 Compiler
+  Design 3-0-3 4 C CS322 Database
+  Systems 3-0-0 3 C CS313 Operating
+  Systems 3-0-3 4 C CS323
+  Artificial Intelligence 3-0-0 3 C CS314 Algorithm
+  Design and Analysis 3-0-0 3 P B.Tech. Project 0-0-15 4 Open/Programme Elective 3-0-0 3 Open/Programme Elective 4-0-0 4 L HS311 Psychology 3-0-0 3 L HS321 Culture Art and Heritage 3-0-0 3 Total 21 Total 21 VII Semester VIII Semester Open/Programme Electives 13-0-0 13 Open/Programme Electives 16-0-0 16 L HS411 Basics of Leadership 3-0-0 3 L HS421 Role of Technology in Development 3-0-0 3 P B.Tech. Project 0-0-15 5 Total 21 Total 19 GRAND TOTAL 180
+Semester I-IV
+  same as old curriculum
+Semester I-IV
+  same as old curriculum
+Semester I-IV
+  same as old curriculum
+CS311 Data
+  Communication
+CS311 Data
+  Communication
+CS311 Data
+  Communication
+CS321 Computer
+  Networks
+CS321 Computer
+  Networks
+CS321 Computer
+  Networks
+CS312 Compiler
+  Design
+CS312 Compiler
+  Design
+CS312 Compiler
+  Design
+CS322 Database
+  Systems
+CS322 Database
+  Systems
+CS322 Database
+  Systems
+CS313 Operating
+  Systems
+CS313 Operating
+  Systems
+CS313 Operating
+  Systems
+CS323
+  Artificial Intelligence
+CS323
+  Artificial Intelligence
+CS323
+  Artificial Intelligence
+CS314 Algorithm
+  Design and Analysis
+CS314 Algorithm
+  Design and Analysis
+CS314 Algorithm
+  Design and Analysis
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+HS321 Culture Art and Heritage
+Culture Art and Heritage
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+c. Minor in Entrepreneurship
+( Sec. 5.11)
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Entrepreneurship Courses
+Entrepreneurship Courses
+Entrepreneurship Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+d. Department Specialization in Engineering Innovation ( Sec. 5.12)
+d. Department Specialization in
+Engineering Innovation (
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Engineering Innovation
+Engineering Innovation
+Engineering Innovation
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+4. B.Tech. Biotechnology
+4. B.Tech. Biotechnology
+BB111 Biology for Engineers
+BB111 Biology for Engineers
+BB111 Biology for Engineers
+ME122 Engineering Mechanics
+ME122 Engineering Mechanics
+ME122 Engineering Mechanics
+CS111 Computer Programming
+CS111 Computer Programming
+CS111 Computer Programming
+ME121 System Exploration-workshop
+ME121 System Exploration-workshop
+ME121 System Exploration-workshop
+ME111 System Exploration Drawing
+ME111 System Exploration Drawing
+ME111 System Exploration Drawing
+EE121 Basic Electronic Engineering
+EE121 Basic Electronic Engineering
+EE121 Basic Electronic Engineering
+MA111 Linear Algebra and Calculus
+MA111 Linear Algebra and Calculus
+MA111 Linear Algebra and Calculus
+MA121 Complex Analysis and Differential
+  Equations
+MA121 Complex Analysis and Differential
+  Equations
+MA121 Complex Analysis and Differential
+  Equations
+PH111 Electromagnetism and Optics
+PH111 Electromagnetism and Optics
+PH111 Electromagnetism and Optics
+BB121 Cell & Molecular Biology
+BB121 Cell & Molecular Biology
+BB121 Cell & Molecular Biology
+HS111 English Language and
+  Communication Skills
+HS111 English Language and
+  Communication Skills
+HS111 English Language and
+  Communication Skills
+HS121 Law : Constitution,
+  Responsibilities and Rights
+HS121 Law : Constitution,
+  Responsibilities and Rights
+HS121 Law : Constitution,
+  Responsibilities and Rights
+PE111 Physical Exercise I
+PE111 Physical Exercise I
+PE111 Physical Exercise I
+PE121 Physical Exercise II
+PE121 Physical Exercise II
+PE121 Physical Exercise II
+EE211 Basic Electrical Engineering
+EE211 Basic Electrical Engineering
+EE211 Basic Electrical Engineering
+MA221 Probability Statistics and Random
+  Processes
+MA221 Probability Statistics and Random
+  Processes
+MA221 Probability Statistics and Random
+  Processes
+EE213 Signals and Systems
+EE213 Signals and Systems
+EE213 Signals and Systems
+BB222 Genetics & Recombinant
+  DNATechnology
+BB222 Genetics & Recombinant
+  DNATechnology
+BB222 Genetics & Recombinant
+  DNATechnology
+BB223 Bioprocess Engg. & Â Fermentation Technology
+BB223 Bioprocess Engg. & Â Fermentation Technology
+BB223 Bioprocess Engg. & Â Fermentation Technology
+CS121 Data structures & Algorithms
+CS121 Data structures & Algorithms
+CS121 Data structures & Algorithms
+BB299 B.Tech. Project
+BB299 B.Tech. Project
+BB299 B.Tech. Project
+HS211 Principles of Economics
+HS211 Principles of Economics
+HS211 Principles of Economics
+HS221 Principles of Management
+HS221 Principles of Management
+HS221 Principles of Management
+BB311 Animal Biotechnology
+BB311 Animal Biotechnology
+BB311 Animal Biotechnology
+BB321 Bioengineering
+BB321 Bioengineering
+BB321 Bioengineering
+BB312 Bioinformatics &
+  Computational Biology
+BB312 Bioinformatics &
+  Computational Biology
+BB312 Bioinformatics &
+  Computational Biology
+BB322 Environmental Biotechnology and
+  Bioremediation
+BB322 Environmental Biotechnology and
+  Bioremediation
+BB322 Environmental Biotechnology and
+  Bioremediation
+BB313 Food and Agriculture technology
+BB313 Food and Agriculture technology
+BB313 Food and Agriculture technology
+BB323 Biomedical technology
+BB323 Biomedical technology
+BB323 Biomedical technology
+BB314 Molecular Biophysics
+BB314 Molecular Biophysics
+BB314 Molecular Biophysics
+CS323 Artificial Intelligence
+CS323 Artificial Intelligence
+CS323 Artificial Intelligence
+BB398 B. Tech. Project
+BB398 B. Tech. Project
+BB398 B. Tech. Project
+BB399 B. Tech. Project
+BB399 B. Tech. Project
+BB399 B. Tech. Project
+HS311 Principles of Psychology
+HS311 Principles of Psychology
+HS311 Principles of Psychology
+Â HS321 Art, Culture and Heritage
+Â HS321 Art, Culture and Heritage
+Â HS321 Art, Culture and Heritage
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of
+  Technology in Development
+HS421 Role of
+  Technology in Development
+HS421 Role of
+  Technology in Development
+Role of
+  Technology in Development
+4.1 Transition plan for B.Tech. in BioTechnology
+4.1 Transition plan for B.Tech. in BioTechnology
+S. No. Category Course Category Old Credits Transition - Â 2018 batch Regular Specialization 1 H Hands-on Experience 32 32 32 2 B Basics 24 24 24 3 C Technology Compulsory 59 59 59 4 L Life Skills 24 24 24 5 S Games & Sports/Social Service 0 0 0 6 E Open Electives 18 18 3 7 P Hands-on Project 23 8 8 8 D Programme Electives 0 15 10 9 M Specialization (Minor /Department/Interdisciplinary) 0 0 20 Total 180 180 180
+Transition - Â 2018 batch
+Technology Compulsory
+Technology Compulsory
+Technology Compulsory
+Games & Sports/Social Service
+Games & Sports/Social Service
+Games & Sports/Social Service
+Specialization (Minor /Department/Interdisciplinary)
+Specialization (Minor
+Specialization (Minor
+/Department/Interdisciplinary)
+/Department/Interdisciplinary)
+Note: Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the
+Student can opt for
+Minor/Department/Interdisciplinary specialization by completing 20 credits in
+the area. For this the
+2016 batch: students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+students can utilize 18 Credits of
+     open electives and 2 credits of Programme Electives in the final year.
+2017 and 2018 batches: students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+2017 and 2018 batches:
+students
+     can utilize 15 Credits of open electives and 5 credits of Programme
+     Electives in the final year.
+4.2 Transition Plan for 2018 Batch
+4.2 Transition Plan for 2018 Batch
+a. Regular without Specialization
+a. Regular without Specialization
+Semester I-IV
+  same as old curriculum
+Semester I-IV
+  same as old curriculum
+Semester I-IV
+  same as old curriculum
+BB311 Animal Biotechnology
+BB311 Animal Biotechnology
+BB311 Animal Biotechnology
+BB321 Bioengineering
+BB321 Bioengineering
+BB321 Bioengineering
+BB312 Bioinformatics &
+  Computational Biology
+BB312 Bioinformatics &
+  Computational Biology
+BB312 Bioinformatics &
+  Computational Biology
+BB322 Environmental Biotechnology and
+  Bioremediation
+BB322 Environmental Biotechnology and
+  Bioremediation
+BB322 Environmental Biotechnology and
+  Bioremediation
+BB313 Food and Agriculture technology
+BB313 Food and Agriculture technology
+BB313 Food and Agriculture technology
+BB323 Biomedical technology
+BB323 Biomedical technology
+BB323 Biomedical technology
+BB314 Molecular Biophysics
+BB314 Molecular Biophysics
+BB314 Molecular Biophysics
+CS323 Artificial Intelligence
+CS323 Artificial Intelligence
+CS323 Artificial Intelligence
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+Open/Programme Elective
+HS311 Principles of Psychology
+HS311 Principles of Psychology
+HS311 Principles of Psychology
+Â HS321 Art, Culture and Heritage
+Â HS321 Art, Culture and Heritage
+Â HS321 Art, Culture and Heritage
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+Open/Programme Electives
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of
+  Technology in Development
+HS421 Role of
+  Technology in Development
+HS421 Role of
+  Technology in Development
+Role of
+  Technology in Development
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+b. Minor/Department/Interdisciplinary
+Specialization (Sec. 5.1 Â– 5.10)
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+Programme Electives/Specialization
+  Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+c. Minor in Entrepreneurship
+( Sec. 5.11)
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Entrepreneurship Courses
+Entrepreneurship Courses
+Entrepreneurship Courses
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project - II
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+Entrepreneurship
+  Project Â– I
+d. Department Specialization in Engineering Innovation ( Sec. 5.12)
+d. Department Specialization in
+Engineering Innovation (
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Semester I-VI
+  same as (a) Regular
+Engineering Innovation
+Engineering Innovation
+Engineering Innovation
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS411 Basics of Leadership
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+HS421 Role of Technology in Development
+Role of Technology in Development
+5 Minor/Department/Interdisciplinary
+Specialization for batches undergoing transition plan
+Minor/Department/Interdisciplinary
+Specialization for batches undergoing transition plan
+S.N. Course Type Credits 1 Core 8 2 Electives 12 Total for award of Minor/Interdisciplinary/Department
+  Specialization 20
+Total for award of Minor/Interdisciplinary/Department
+  Specialization
+Minor/Interdisciplinary/Department
+  Specialization
+Minor/Interdisciplinary/Department
+  Specialization
+Note :
+Project credit should be less than or equal to 6 out of 12 elective credits
+except for Engineering Innovation and Entrepreneurship
+:
+Project credit should be less than or equal to 6 out of 12 elective credits
+except for Engineering Innovation and Entrepreneurship
+5.1 Artificial Intelligence
+(CS/EE/ME/BB)
+5.1 Artificial Intelligence
+(CS/EE/ME/BB)
+S.N. Course Type L-T-P Credits 1 Machine Learning 1 3-0-0 3 2 Artificial Intelligence 2 # 3-0-0 3 3 Real-time Autonomous Systems 2-0-0 2
+Artificial Intelligence 2 #
+Artificial Intelligence 2 #
+Artificial Intelligence 2 #
+Real-time Autonomous Systems
+Real-time Autonomous Systems
+Real-time Autonomous Systems
+Note: # ME, EE and BB students will take Artificial Intelligence 1 as a compulsory course and
+Artificial Intelligence 2 as an elective course.
+Note: # ME, EE and BB students will take
+Artificial Intelligence 1 as a compulsory course and
+Artificial Intelligence 2 as an elective course.
+S.N. Course Type L-T-P Credits 1 Machine Learning II 3-0-0 3 2 Algorithms for Big Data 2-0-0 2 3 Computer
+  Vision 3-0-0 3 4 Stream Analytics 3-0-0 3 5 Machine Learning with Big
+  Data 3-0-0 3 6 Digital
+  Image Analysis 3-0-0 3 7 Edge
+  and Fog Computing 3-0-0 3 8 Natural
+  Language Processing 3-0-0 3 9 GPU
+  Programming 3-0-0 3 10 Data
+  Visualization 3-0-0 3 11 Introduction
+  to Augmented Reality and Virtual Reality 3-0-0 3 12 Dependable
+  AI 3-0-0 3 13 Resource
+  Constrained AI 3-0-0 3 14 Special
+  Topics in Artificial Intelligence - I 3-0-0 3 15 Special
+  Topics in Artificial Intelligence - II 3-0-0 3 16 Special
+  Topics in Artificial Intelligence - III 3-0-0 3 17 Graph
+  Theory and Applications 3-0-0 3 18 Social
+  Network Analysis 3-0-0 3 19 Computational
+  Optimization 3-0-0 3 20 Computer
+  Graphics 3-0-0 3 21 Advanced
+  Computer Graphics 3-0-0 3 22 Neuromorphic
+  Computing and Design 3-0-0 3 23 Bio-image
+  Computing 3-0-0 3 24 Project 0-0-12 6
+Algorithms for Big Data
+Algorithms for Big Data
+Algorithms for Big Data
+Machine Learning with Big
+  Data
+Machine Learning with Big
+  Data
+Machine Learning with Big
+  Data
+Digital
+  Image Analysis
+Digital
+  Image Analysis
+Digital
+  Image Analysis
+Edge
+  and Fog Computing
+Edge
+  and Fog Computing
+Edge
+  and Fog Computing
+Natural
+  Language Processing
+Natural
+  Language Processing
+Natural
+  Language Processing
+Data
+  Visualization
+Data
+  Visualization
+Data
+  Visualization
+Introduction
+  to Augmented Reality and Virtual Reality
+Introduction
+  to Augmented Reality and Virtual Reality
+Introduction
+  to Augmented Reality and Virtual Reality
+Resource
+  Constrained AI
+Resource
+  Constrained AI
+Resource
+  Constrained AI
+Special
+  Topics in Artificial Intelligence - I
+Special
+  Topics in Artificial Intelligence - I
+Special
+  Topics in Artificial Intelligence - I
+Special
+  Topics in Artificial Intelligence - II
+Special
+  Topics in Artificial Intelligence - II
+Special
+  Topics in Artificial Intelligence - II
+Special
+  Topics in Artificial Intelligence - III
+Special
+  Topics in Artificial Intelligence - III
+Special
+  Topics in Artificial Intelligence - III
+Graph
+  Theory and Applications
+Graph
+  Theory and Applications
+Graph
+  Theory and Applications
+Social
+  Network Analysis
+Social
+  Network Analysis
+Social
+  Network Analysis
+Computational
+  Optimization
+Computational
+  Optimization
+Computational
+  Optimization
+Computer
+  Graphics
+Computer
+  Graphics
+Computer
+  Graphics
+Advanced
+  Computer Graphics
+Advanced
+  Computer Graphics
+Advanced
+  Computer Graphics
+Neuromorphic
+  Computing and Design
+Neuromorphic
+  Computing and Design
+Neuromorphic
+  Computing and Design
+Bio-image
+  Computing
+Bio-image
+  Computing
+Bio-image
+  Computing
+S.N. Course Type L-T-P Credits 1 Digital VLSI Design 3-0-0 3 2 Analog and Interfacing
+  Circuits 3-0-0 3 3 Integrated Circuits Design Lab 1-0-2 2
+Analog and Interfacing
+  Circuits
+Analog and Interfacing
+  Circuits
+Analog and Interfacing
+  Circuits
+Integrated Circuits Design Lab
+Integrated Circuits Design Lab
+Integrated Circuits Design Lab
+S.N. Course Type L-T-P Credits 1 Flexible and Printed
+  Electronics 3-0-0 3 2 RF IC Design 3-0-0 3 3 Active Filter Design 3-0-0 3 4 Image Sensor Design and
+  Applications 3-0-0 3 5 Physics of Transistors 3-0-0 3 6 IC
+  Technology 3-0-0 3 7 Neuromorphic
+  Computing and Design 3-0-0 3 8 Project 6
+Flexible and Printed
+  Electronics
+Flexible and Printed
+  Electronics
+Flexible and Printed
+  Electronics
+Active Filter Design
+Active Filter Design
+Active Filter Design
+Image Sensor Design and
+  Applications
+Image Sensor Design and
+  Applications
+Image Sensor Design and
+  Applications
+Physics of Transistors
+Physics of Transistors
+Physics of Transistors
+Neuromorphic
+  Computing and Design
+Neuromorphic
+  Computing and Design
+Neuromorphic
+  Computing and Design
+5.3 Internet
+of Things (CS/EE)
+5.3 Internet
+of Things (CS/EE)
+S.N. Course Type L-T-P Credits 1 Introduction to Internet of
+  Things 1-0-0 1 2 Sensors and Measurement 3-0-0 3 3 Data communication and
+  Networking 3-0-0 3 4 Sensors and IoT Lab 1-0-0 1
+Introduction to Internet of
+  Things
+Introduction to Internet of
+  Things
+Introduction to Internet of
+  Things
+Sensors and Measurement
+Sensors and Measurement
+Sensors and Measurement
+Data communication and
+  Networking
+Data communication and
+  Networking
+Data communication and
+  Networking
+S.N. Course Type L-T-P Credits 1 Digital and Systems-on-Chip
+  Design 3-0-0 3 2 Active Filter Design 3-0-0 3 3 Embedded Systems Design 3-0-0 3 4 Image Sensor Design and Applications 3-0-0 3 5 Antenna Engineering 3-0-0 3 6 Wireless
+  Communication 3-0-0 3 7 Advanced
+  Digital Signal Processing 3-0-0 3 8 Analog
+  and Interfacing Circuits 3-0-0 3 9 Machine
+  Learning - I 3-0-0 3 10 Fog
+  and Edge Computing 3-0-0 3 11 Resource
+  Constrained AI 3-0-0 3 12 Project 6
+Digital and Systems-on-Chip
+  Design
+Digital and Systems-on-Chip
+  Design
+Digital and Systems-on-Chip
+  Design
+Active Filter Design
+Active Filter Design
+Active Filter Design
+Embedded Systems Design
+Embedded Systems Design
+Embedded Systems Design
+Image Sensor Design and Applications
+Image Sensor Design and Applications
+Image Sensor Design and Applications
+Wireless
+  Communication
+Wireless
+  Communication
+Wireless
+  Communication
+Advanced
+  Digital Signal Processing
+Advanced
+  Digital Signal Processing
+Advanced
+  Digital Signal Processing
+Analog
+  and Interfacing Circuits
+Analog
+  and Interfacing Circuits
+Analog
+  and Interfacing Circuits
+Machine
+  Learning - I
+Machine
+  Learning - I
+Machine
+  Learning - I
+Fog
+  and Edge Computing
+Fog
+  and Edge Computing
+Fog
+  and Edge Computing
+Resource
+  Constrained AI
+Resource
+  Constrained AI
+Resource
+  Constrained AI
+5.4 Cyber
+Physical Systems (CS/EE/ME/BB)
+5.4 Cyber
+Physical Systems (CS/EE/ME/BB)
+S.N. Course Type L-T-P Credits 1 Introduction to Cyber
+  physical Systems 3-0-0 3 2 Embedded System Design 3-0-0 3 3 Embedded System Design
+  Laboratory 0-0-2 1 4 Introduction to Modelling
+  (Fractal offered by Dept. Of Mathematics) 1-0-0 1
+Introduction to Cyber
+  physical Systems
+Introduction to Cyber
+  physical Systems
+Introduction to Cyber
+  physical Systems
+Embedded System Design
+Embedded System Design
+Embedded System Design
+Embedded System Design
+  Laboratory
+Embedded System Design
+  Laboratory
+Embedded System Design
+  Laboratory
+Introduction to Modelling
+  (Fractal offered by Dept. Of Mathematics)
+Introduction to Modelling
+  (Fractal offered by Dept. Of Mathematics)
+Introduction to Modelling
+  (Fractal offered by Dept. Of Mathematics)
+S.N. Course Type L-T-P Credits 1 Computer
+  Vision 3-0-0 3 2 Advanced
+  Digital Signal Processing 3-0-0 3 3 Vehicular
+  Ad-Hoc Networks(VANETs) 3-0-0 3 4 Edge & Fog Computing 3-0-0 3 5 Robotics : Fractal
+  1 Robot Modelling 1-0-2 2 6 Robotics :
+  Fractal 2 Control 1-0-0 1 7 Robotics :
+  Fractal 3 Â Motion Planning and
+  Programming 1-0-0 1 8 Machine
+  Learning I 3-0-0 3 9 Digital and Systems-on-Chips Design 3-0-0 3 10 Introduction to Virtual Reality 3-0-0 3 11 Smart Grid 3-0-0 3 12 Adaptive Signal processing 3-0-0 3 13 Computer Architecture 3-0-0 3 14 Digital Twin 3-0-0 3 15 Advanced
+  Control System 3-0-0 3 16 Security
+  of Â CPS 2-0-0 2 17 Machine Leaning II 3-0-0 3 18 Artificial Intelligence I 3-0-0 3 19 Artificial Intelligence II 3-0-0 3 20 Smart Manufacturing 1-0-2 2 21 Resource Constrained AI 3-0-0 3 22 Machine Leaning II 3-0-0 3 23 Industry 4.0 Applications in Manufacturing Systems 1-0-0 1 24 Optimization 1-0-0 1 25 Project-1 Â Â Â Â Â Â Â Â 6
+Advanced
+  Digital Signal Processing
+Advanced
+  Digital Signal Processing
+Advanced
+  Digital Signal Processing
+Vehicular
+  Ad-Hoc Networks(VANETs)
+Vehicular
+  Ad-Hoc Networks(VANETs)
+Vehicular
+  Ad-Hoc Networks(VANETs)
+Edge & Fog Computing
+Edge & Fog Computing
+Edge & Fog Computing
+Robotics : Fractal
+  1 Robot Modelling
+Robotics : Fractal
+  1 Robot Modelling
+Robotics : Fractal
+  1 Robot Modelling
+Robotics :
+  Fractal 2 Control
+Robotics :
+  Fractal 2 Control
+Robotics :
+  Fractal 2 Control
+Robotics :
+  Fractal 3 Â Motion Planning and
+  Programming
+Robotics :
+  Fractal 3 Â Motion Planning and
+  Programming
+Robotics :
+  Fractal 3 Â Motion Planning and
+  Programming
+Machine
+  Learning I
+Machine
+  Learning I
+Machine
+  Learning I
+Digital and Systems-on-Chips Design
+Digital and Systems-on-Chips Design
+Digital and Systems-on-Chips Design
+Introduction to Virtual Reality
+Introduction to Virtual Reality
+Introduction to Virtual Reality
+Adaptive Signal processing
+Adaptive Signal processing
+Adaptive Signal processing
+Computer Architecture
+Computer Architecture
+Computer Architecture
+Advanced
+  Control System
+Advanced
+  Control System
+Advanced
+  Control System
+Security
+  of Â CPS
+Security
+  of Â CPS
+Security
+  of Â CPS
+Artificial Intelligence I
+Artificial Intelligence I
+Artificial Intelligence I
+Artificial Intelligence II
+Artificial Intelligence II
+Artificial Intelligence II
+Resource Constrained AI
+Resource Constrained AI
+Resource Constrained AI
+Industry 4.0 Applications in Manufacturing Systems
+Industry 4.0 Applications in Manufacturing Systems
+Industry 4.0 Applications in Manufacturing Systems
+5.5 Communications
+and Signal Processing (EE)
+5.5 Communications
+and Signal Processing (EE)
+A. Compulsory Courses
+A. Compulsory Courses
+S.N. Course Type L-T-P Credits 1 Estimation Theory 1-0-0 1 2 Multiple Parameter
+  Estimation 1-0-0 1 3 Wireless Communications 3-0-0 3 4 Data
+  Communication and Networking 3-0-0 3
+Multiple Parameter
+  Estimation
+Multiple Parameter
+  Estimation
+Multiple Parameter
+  Estimation
+Wireless Communications
+Wireless Communications
+Wireless Communications
+Data
+  Communication and Networking
+Data
+  Communication and Networking
+Data
+  Communication and Networking
+S.N. Course Type L-T-P Credits 1 Advanced Digital
+  Signal Processing 3-0-0 3 2 MIMO Wireless Communications 3-0-0 3 3 Antenna
+  Engineering 3-0-0 3 4 Network Information Theory 3-0-0 3 5 Statistical Decision Theory 2-0-0 2 6 Multi-rate Digital Signal Processing 2-0-0 2 7 Digital Image Processing and Applications 3-0-0 3 8 Digital Â Video Processing 3-0-0 3 9 RF IC Design 3-0-0 3 10 Adaptive Signal
+  Processing 3-0-0 3 11 Optical Fiber Communications 3-0-0 3 12 Image sensor Design and Application 3-0-0 3 13 Applied Optimization for Wireless Communication 3-0-0 3 14 Machine Learning for Communications 3-0-0 3 15 Machine Learning
+  1 3-0-0 3 16 Physical Layer
+  Security 3-0-0 3 17 Compressive
+  Sensing 3-0-0 3 18 Bio-Image
+  Computing 3-0-0 3 19 Selected Topics in Signal Processing I 1-0-0 1 20 Selected Topics in Signal Processing II 2-0-0 2 21 Selected Topics in Signal Processing III 3-0-0 3 22 Multimedia Communications 3-0-0 3 23 Free Space Optical Communications 3-0-0 3 24 GNSS Signal Processing 3-0-0 3 25 Backhaul Networks for Wireless Systems 3-0-0 3 26 Selected Topics in Communication I 1-0-0 1 27 Selected Topics in Communication II 2-0-0 2 28 Selected Topics in Communication III 3-0-0 3 29 Neuromorphic computing and design 3-0-0 3 30 Machine Learning
+  2 3-0-0 3 31 Real Time Communications 3-0-0 3 32 Millimeter
+  Wave Technology 3-0-0 3 33 Digital
+  Image and Video Processing Lab 1-0-2 2 34 RF IC Design Lab 1-0-2 2 35 Network
+  Information Theory 3-0-0 3 36 Wavelets 3-0-0 3 37 Computational Imaging 3-0-0 3 38 Speech and Audio Processing 3-0-0 3 39 Data Compression 3-0-0 3 40 Machine Learning
+  for Communication Lab 1-0-2 2
+Advanced Digital
+  Signal Processing
+Advanced Digital
+  Signal Processing
+Advanced Digital
+  Signal Processing
+MIMO Wireless Communications
+MIMO Wireless Communications
+MIMO Wireless Communications
+Antenna
+  Engineering
+Antenna
+  Engineering
+Antenna
+  Engineering
+Network Information Theory
+Network Information Theory
+Network Information Theory
+Statistical Decision Theory
+Statistical Decision Theory
+Statistical Decision Theory
+Multi-rate Digital Signal Processing
+Multi-rate Digital Signal Processing
+Multi-rate Digital Signal Processing
+Digital Image Processing and Applications
+Digital Image Processing and Applications
+Digital Image Processing and Applications
+Digital Â Video Processing
+Digital Â Video Processing
+Digital Â Video Processing
+Adaptive Signal
+  Processing
+Adaptive Signal
+  Processing
+Adaptive Signal
+  Processing
+Optical Fiber Communications
+Optical Fiber Communications
+Optical Fiber Communications
+Image sensor Design and Application
+Image sensor Design and Application
+Image sensor Design and Application
+Applied Optimization for Wireless Communication
+Applied Optimization for Wireless Communication
+Applied Optimization for Wireless Communication
+Machine Learning for Communications
+Machine Learning for Communications
+Machine Learning for Communications
+Machine Learning
+  1
+Machine Learning
+  1
+Machine Learning
+  1
+Physical Layer
+  Security
+Physical Layer
+  Security
+Physical Layer
+  Security
+Compressive
+  Sensing
+Compressive
+  Sensing
+Compressive
+  Sensing
+Bio-Image
+  Computing
+Bio-Image
+  Computing
+Bio-Image
+  Computing
+Selected Topics in Signal Processing I
+Selected Topics in Signal Processing I
+Selected Topics in Signal Processing I
+Selected Topics in Signal Processing II
+Selected Topics in Signal Processing II
+Selected Topics in Signal Processing II
+Selected Topics in Signal Processing III
+Selected Topics in Signal Processing III
+Selected Topics in Signal Processing III
+Multimedia Communications
+Multimedia Communications
+Multimedia Communications
+Free Space Optical Communications
+Free Space Optical Communications
+Free Space Optical Communications
+GNSS Signal Processing
+GNSS Signal Processing
+GNSS Signal Processing
+Backhaul Networks for Wireless Systems
+Backhaul Networks for Wireless Systems
+Backhaul Networks for Wireless Systems
+Selected Topics in Communication I
+Selected Topics in Communication I
+Selected Topics in Communication I
+Selected Topics in Communication II
+Selected Topics in Communication II
+Selected Topics in Communication II
+Selected Topics in Communication III
+Selected Topics in Communication III
+Selected Topics in Communication III
+Neuromorphic computing and design
+Neuromorphic computing and design
+Neuromorphic computing and design
+Machine Learning
+  2
+Machine Learning
+  2
+Machine Learning
+  2
+Real Time Communications
+Real Time Communications
+Real Time Communications
+Millimeter
+  Wave Technology
+Millimeter
+  Wave Technology
+Millimeter
+  Wave Technology
+Digital
+  Image and Video Processing Lab
+Digital
+  Image and Video Processing Lab
+Digital
+  Image and Video Processing Lab
+Network
+  Information Theory
+Network
+  Information Theory
+Network
+  Information Theory
+Computational Imaging
+Computational Imaging
+Computational Imaging
+Speech and Audio Processing
+Speech and Audio Processing
+Speech and Audio Processing
+Machine Learning
+  for Communication Lab
+Machine Learning
+  for Communication Lab
+Machine Learning
+  for Communication Lab
+S.N. Course Type L-T-P Credits 1 EE:
+  Introduction to Sensors (Fractal Course) 1-0-0 1 2 MEL7XX0:
+  Geometric Modeling & CAD 2-0-2 3 3 MA:
+  Optimization (Fractal course) 1-0-0 1 4 MEL7XX0:
+  Advanced Mechanics of Solids 3-0-0 3
+EE:
+  Introduction to Sensors (Fractal Course)
+EE:
+  Introduction to Sensors (Fractal Course)
+EE:
+  Introduction to Sensors (Fractal Course)
+MEL7XX0:
+  Geometric Modeling & CAD
+MEL7XX0:
+  Geometric Modeling & CAD
+MEL7XX0:
+  Geometric Modeling & CAD
+MA:
+  Optimization (Fractal course)
+MA:
+  Optimization (Fractal course)
+MA:
+  Optimization (Fractal course)
+MEL7XX0:
+  Advanced Mechanics of Solids
+MEL7XX0:
+  Advanced Mechanics of Solids
+MEL7XX0:
+  Advanced Mechanics of Solids
+S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Robotic 3-0-2 4 2 MEL7XX0:
+  Theory of Vibrations 3-0-0 3 3 MEL7XX0:
+  Mechanical Vibrations 3-0-0 3 4 MEL7XX0:
+  Helicopter Dynamics 3-0-0 3 5 MEL7XX0:
+  Modeling and Control of Mechanical Systems 3-0-0 3 6 MEL7XX0:
+  Multibody Dynamics 3-0-0 3 7 MEL7XX0:
+  Finite Element Methods in Engineering 3-0-0 3 8 MEL7XX0:
+  Rotor Dynamics 3-0-0 3 9 AVL7XX0:
+  Autonomous Mobile Robots 3-0-2 4 10 BBXXX:
+  Biomechanics 3-0-0 3 11 MEL7XX0:
+  MEMS and Microsystems Technology 3-0-2 4 12 MEL7XX0:
+  Applied Ergonomics 3-0-0 3 13 MEL7XX0:
+  Mechatronic Systems Design 3-0-0 3 14 MEL7XX0:
+  Additive Manufacturing 3-0-0 3 15 MEL7XX0:
+  Design for X 3-0-0 3 16 MEL7XX0:
+  Computer Aided Inspection and Quality Control 3-0-0 3 17 MEL7XX0:
+  Microfluidics Technology 3-0-0 3 18 BBXXX:
+  Medical Devices and Implants 3-0-0 3 19 MTXXX:
+  Light Metals and Alloys 3-0-0 3 20 MTXXX:
+  Corrosion Engineering 3-0-0 3 21 MAXXX:
+  Statistics I 1-0-0 3 22 MAXXX:
+  Statistics II 2-0-0 3 23 MAXXX:
+  Reliability Theory 3-0-0 3 24 CSXXX:
+  Artificial Intelligence I 3-0-0 3 25 CSXXX:
+  Machine Learning I 3-0-0 3 26 MEL7XX0:
+  Probabilistic Methods in Engineering Design 3-0-0 3 27 PHL7XX0:
+  Energy Harvesting Technologies 3-0-0 3
+MEL7XX0:
+  Theory of Vibrations
+MEL7XX0:
+  Theory of Vibrations
+MEL7XX0:
+  Theory of Vibrations
+MEL7XX0:
+  Mechanical Vibrations
+MEL7XX0:
+  Mechanical Vibrations
+MEL7XX0:
+  Mechanical Vibrations
+MEL7XX0:
+  Helicopter Dynamics
+MEL7XX0:
+  Helicopter Dynamics
+MEL7XX0:
+  Helicopter Dynamics
+MEL7XX0:
+  Modeling and Control of Mechanical Systems
+MEL7XX0:
+  Modeling and Control of Mechanical Systems
+MEL7XX0:
+  Modeling and Control of Mechanical Systems
+MEL7XX0:
+  Multibody Dynamics
+MEL7XX0:
+  Multibody Dynamics
+MEL7XX0:
+  Multibody Dynamics
+MEL7XX0:
+  Finite Element Methods in Engineering
+MEL7XX0:
+  Finite Element Methods in Engineering
+MEL7XX0:
+  Finite Element Methods in Engineering
+MEL7XX0:
+  Rotor Dynamics
+MEL7XX0:
+  Rotor Dynamics
+MEL7XX0:
+  Rotor Dynamics
+AVL7XX0:
+  Autonomous Mobile Robots
+AVL7XX0:
+  Autonomous Mobile Robots
+AVL7XX0:
+  Autonomous Mobile Robots
+BBXXX:
+  Biomechanics
+BBXXX:
+  Biomechanics
+BBXXX:
+  Biomechanics
+MEL7XX0:
+  MEMS and Microsystems Technology
+MEL7XX0:
+  MEMS and Microsystems Technology
+MEL7XX0:
+  MEMS and Microsystems Technology
+MEL7XX0:
+  Applied Ergonomics
+MEL7XX0:
+  Applied Ergonomics
+MEL7XX0:
+  Applied Ergonomics
+MEL7XX0:
+  Mechatronic Systems Design
+MEL7XX0:
+  Mechatronic Systems Design
+MEL7XX0:
+  Mechatronic Systems Design
+MEL7XX0:
+  Additive Manufacturing
+MEL7XX0:
+  Additive Manufacturing
+MEL7XX0:
+  Additive Manufacturing
+MEL7XX0:
+  Design for X
+MEL7XX0:
+  Design for X
+MEL7XX0:
+  Design for X
+MEL7XX0:
+  Computer Aided Inspection and Quality Control
+MEL7XX0:
+  Computer Aided Inspection and Quality Control
+MEL7XX0:
+  Computer Aided Inspection and Quality Control
+MEL7XX0:
+  Microfluidics Technology
+MEL7XX0:
+  Microfluidics Technology
+MEL7XX0:
+  Microfluidics Technology
+BBXXX:
+  Medical Devices and Implants
+BBXXX:
+  Medical Devices and Implants
+BBXXX:
+  Medical Devices and Implants
+MTXXX:
+  Light Metals and Alloys
+MTXXX:
+  Light Metals and Alloys
+MTXXX:
+  Light Metals and Alloys
+MTXXX:
+  Corrosion Engineering
+MTXXX:
+  Corrosion Engineering
+MTXXX:
+  Corrosion Engineering
+MAXXX:
+  Statistics I
+MAXXX:
+  Statistics I
+MAXXX:
+  Statistics I
+MAXXX:
+  Statistics II
+MAXXX:
+  Statistics II
+MAXXX:
+  Statistics II
+MAXXX:
+  Reliability Theory
+MAXXX:
+  Reliability Theory
+MAXXX:
+  Reliability Theory
+CSXXX:
+  Artificial Intelligence I
+CSXXX:
+  Artificial Intelligence I
+CSXXX:
+  Artificial Intelligence I
+CSXXX:
+  Machine Learning I
+CSXXX:
+  Machine Learning I
+CSXXX:
+  Machine Learning I
+MEL7XX0:
+  Probabilistic Methods in Engineering Design
+MEL7XX0:
+  Probabilistic Methods in Engineering Design
+MEL7XX0:
+  Probabilistic Methods in Engineering Design
+PHL7XX0:
+  Energy Harvesting Technologies
+PHL7XX0:
+  Energy Harvesting Technologies
+PHL7XX0:
+  Energy Harvesting Technologies
+5.7 Smart
+Manufacturing (ME)
+5.7 Smart
+Manufacturing (ME)
+S.N. Course Type L-T-P Credits 1 EE:
+  Introduction to Sensors (Fractal Course) 1-0-0 1 2 CS:
+  Introduction to Machine Learning (Fractal course) 1-0-0 1 3 MEP7XX0:
+  Smart Manufacturing 1-0-2 2 4 MEL7XX0:
+  Materials & Manufacturing Processes 2-0-1 3 5 MEL7XX0:
+  Industry 4.0 Applications in Manufacturing Systems 1-0-0 1
+EE:
+  Introduction to Sensors (Fractal Course)
+EE:
+  Introduction to Sensors (Fractal Course)
+EE:
+  Introduction to Sensors (Fractal Course)
+CS:
+  Introduction to Machine Learning (Fractal course)
+CS:
+  Introduction to Machine Learning (Fractal course)
+CS:
+  Introduction to Machine Learning (Fractal course)
+MEP7XX0:
+  Smart Manufacturing
+MEP7XX0:
+  Smart Manufacturing
+MEP7XX0:
+  Smart Manufacturing
+MEL7XX0:
+  Materials & Manufacturing Processes
+MEL7XX0:
+  Materials & Manufacturing Processes
+MEL7XX0:
+  Materials & Manufacturing Processes
+MEL7XX0:
+  Industry 4.0 Applications in Manufacturing Systems
+MEL7XX0:
+  Industry 4.0 Applications in Manufacturing Systems
+MEL7XX0:
+  Industry 4.0 Applications in Manufacturing Systems
+S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Geometric Modeling & CAD 2-0-1 3 2 MA:
+  Optimization (Fractal course) 1-0-0 1 3 MEL7XX0:
+  Robotic 3-0-2 4 4 MEL7XX0:
+  Computer Aided Manufacturing 3-0-2 4 5 MEL7XX0:
+  Mechanical Metallurgy 3-0-0 3 6 MEL7XX0:
+  Theory of Arc Welding 3-0-0 3 7 MEL7XX0:
+  Welding Metallurgy 3-0-0 3 8 MEL7XX0:
+  MEMS and Microsystems Technology 3-0-2 4 9 MEL7XX0:
+  Precision and Micro-Manufacturing 3-0-0 3 10 MEL7XX0:
+  Applied Ergonomics 3-0-0 3 11 MEL7XX0:
+  Mechatronic Systems Design 3-0-0 3 12 MEL7XX0:
+  Additive Manufacturing 3-0-0 3 13 MEL7XX0:
+  Design for X 3-0-0 3 14 MEL7XX0:
+  Computer Aided Inspection and Quality Control 3-0-0 3 15 MEL7XX0:
+  Welding: Metallurgy, Defects and Testing 3-0-0 3 16 MEL7XX0:
+  Non-Conventional Welding Processes 3-0-0 3 17 MEL7XX0: Welding inspection and Quality Control 3-0-0 3 18 MEL7XX0:
+  Microfluidics Technology 3-0-0 3 19 BBXXX:
+  Medical Devices and Implants 3-0-0 3 20 MTXXX:
+  Solidification Processing 3-0-0 3 21 MTXXX:
+  Light Metals and Alloys 3-0-0 3 22 MTXXX:
+  Powder Metallurgy 3-0-0 3 23 MTXXX:
+  Thermo-Mechanical Processing 3-0-0 3 24 MTXXX:
+  Near-Net Forming 3-0-0 3 25 MTXXX:
+  Plastic Deformation and Microstructure Evaluation 3-0-0 3 26 MTXXX:
+  Corrosion Engineering 3-0-0 3 27 MAXXX:
+  Statistics I 3-0-0 3 28 MAXXX:
+  Statistics II 3-0-0 3 29 MAXXX:
+  Reliability Theory 3-0-0 3 30 CSXXX:
+  Artificial Intelligence I 3-0-0 3 31 CSXXX:
+  Machine Learning I 3-0-0 3 32 EEXXX:
+  Introduction to CPS 3-0-0 3 33 MEL7XX0:
+  Probabilistic Methods in Engineering Design 3-0-0 3 34 PHL7XX0:
+  Nanoscience and Nanotechnology 3-0-0 3 35 PHL7XX0:
+  Introduction to Material Characterization 3-0-0 3 36 PHL7XX0:
+  Physics of Solar Cells 3-0-0 3 37 PHL7XX0:
+  Laser Technologies 3-0-0 3 38 PHL7XX0:
+  Computational Materials Science 3-0-0 3 39 PHL7XX0:
+  Statistical Methods for Data Analysis 3-0-0 3 40 PHL7XX0:
+  Energy Harvesting Technologies 3-0-0 3
+MEL7XX0:
+  Geometric Modeling & CAD
+MEL7XX0:
+  Geometric Modeling & CAD
+MEL7XX0:
+  Geometric Modeling & CAD
+MA:
+  Optimization (Fractal course)
+MA:
+  Optimization (Fractal course)
+MA:
+  Optimization (Fractal course)
+MEL7XX0:
+  Computer Aided Manufacturing
+MEL7XX0:
+  Computer Aided Manufacturing
+MEL7XX0:
+  Computer Aided Manufacturing
+MEL7XX0:
+  Mechanical Metallurgy
+MEL7XX0:
+  Mechanical Metallurgy
+MEL7XX0:
+  Mechanical Metallurgy
+MEL7XX0:
+  Theory of Arc Welding
+MEL7XX0:
+  Theory of Arc Welding
+MEL7XX0:
+  Theory of Arc Welding
+MEL7XX0:
+  Welding Metallurgy
+MEL7XX0:
+  Welding Metallurgy
+MEL7XX0:
+  Welding Metallurgy
+MEL7XX0:
+  MEMS and Microsystems Technology
+MEL7XX0:
+  MEMS and Microsystems Technology
+MEL7XX0:
+  MEMS and Microsystems Technology
+MEL7XX0:
+  Precision and Micro-Manufacturing
+MEL7XX0:
+  Precision and Micro-Manufacturing
+MEL7XX0:
+  Precision and Micro-Manufacturing
+MEL7XX0:
+  Applied Ergonomics
+MEL7XX0:
+  Applied Ergonomics
+MEL7XX0:
+  Applied Ergonomics
+MEL7XX0:
+  Mechatronic Systems Design
+MEL7XX0:
+  Mechatronic Systems Design
+MEL7XX0:
+  Mechatronic Systems Design
+MEL7XX0:
+  Additive Manufacturing
+MEL7XX0:
+  Additive Manufacturing
+MEL7XX0:
+  Additive Manufacturing
+MEL7XX0:
+  Design for X
+MEL7XX0:
+  Design for X
+MEL7XX0:
+  Design for X
+MEL7XX0:
+  Computer Aided Inspection and Quality Control
+MEL7XX0:
+  Computer Aided Inspection and Quality Control
+MEL7XX0:
+  Computer Aided Inspection and Quality Control
+MEL7XX0:
+  Welding: Metallurgy, Defects and Testing
+MEL7XX0:
+  Welding: Metallurgy, Defects and Testing
+MEL7XX0:
+  Welding: Metallurgy, Defects and Testing
+MEL7XX0:
+  Non-Conventional Welding Processes
+MEL7XX0:
+  Non-Conventional Welding Processes
+MEL7XX0:
+  Non-Conventional Welding Processes
+MEL7XX0: Welding inspection and Quality Control
+MEL7XX0: Welding inspection and Quality Control
+Welding inspection and Quality Control
+MEL7XX0:
+  Microfluidics Technology
+MEL7XX0:
+  Microfluidics Technology
+MEL7XX0:
+  Microfluidics Technology
+BBXXX:
+  Medical Devices and Implants
+BBXXX:
+  Medical Devices and Implants
+BBXXX:
+  Medical Devices and Implants
+MTXXX:
+  Solidification Processing
+MTXXX:
+  Solidification Processing
+MTXXX:
+  Solidification Processing
+MTXXX:
+  Light Metals and Alloys
+MTXXX:
+  Light Metals and Alloys
+MTXXX:
+  Light Metals and Alloys
+MTXXX:
+  Powder Metallurgy
+MTXXX:
+  Powder Metallurgy
+MTXXX:
+  Powder Metallurgy
+MTXXX:
+  Thermo-Mechanical Processing
+MTXXX:
+  Thermo-Mechanical Processing
+MTXXX:
+  Thermo-Mechanical Processing
+MTXXX:
+  Near-Net Forming
+MTXXX:
+  Near-Net Forming
+MTXXX:
+  Near-Net Forming
+MTXXX:
+  Plastic Deformation and Microstructure Evaluation
+MTXXX:
+  Plastic Deformation and Microstructure Evaluation
+MTXXX:
+  Plastic Deformation and Microstructure Evaluation
+MTXXX:
+  Corrosion Engineering
+MTXXX:
+  Corrosion Engineering
+MTXXX:
+  Corrosion Engineering
+MAXXX:
+  Statistics I
+MAXXX:
+  Statistics I
+MAXXX:
+  Statistics I
+MAXXX:
+  Statistics II
+MAXXX:
+  Statistics II
+MAXXX:
+  Statistics II
+MAXXX:
+  Reliability Theory
+MAXXX:
+  Reliability Theory
+MAXXX:
+  Reliability Theory
+CSXXX:
+  Artificial Intelligence I
+CSXXX:
+  Artificial Intelligence I
+CSXXX:
+  Artificial Intelligence I
+CSXXX:
+  Machine Learning I
+CSXXX:
+  Machine Learning I
+CSXXX:
+  Machine Learning I
+EEXXX:
+  Introduction to CPS
+EEXXX:
+  Introduction to CPS
+EEXXX:
+  Introduction to CPS
+MEL7XX0:
+  Probabilistic Methods in Engineering Design
+MEL7XX0:
+  Probabilistic Methods in Engineering Design
+MEL7XX0:
+  Probabilistic Methods in Engineering Design
+PHL7XX0:
+  Nanoscience and Nanotechnology
+PHL7XX0:
+  Nanoscience and Nanotechnology
+PHL7XX0:
+  Nanoscience and Nanotechnology
+PHL7XX0:
+  Introduction to Material Characterization
+PHL7XX0:
+  Introduction to Material Characterization
+PHL7XX0:
+  Introduction to Material Characterization
+PHL7XX0:
+  Physics of Solar Cells
+PHL7XX0:
+  Physics of Solar Cells
+PHL7XX0:
+  Physics of Solar Cells
+PHL7XX0:
+  Laser Technologies
+PHL7XX0:
+  Laser Technologies
+PHL7XX0:
+  Laser Technologies
+PHL7XX0:
+  Computational Materials Science
+PHL7XX0:
+  Computational Materials Science
+PHL7XX0:
+  Computational Materials Science
+PHL7XX0:
+  Statistical Methods for Data Analysis
+PHL7XX0:
+  Statistical Methods for Data Analysis
+PHL7XX0:
+  Statistical Methods for Data Analysis
+PHL7XX0:
+  Energy Harvesting Technologies
+PHL7XX0:
+  Energy Harvesting Technologies
+PHL7XX0:
+  Energy Harvesting Technologies
+5.9
+Thermofluids Engineering (ME)
+5.9
+Thermofluids Engineering (ME)
+S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Applied Heat and Mass Transfer 3-0-0 3 2 MEL7XX0;
+  Incompressible Fluid Flow 3-0-0 3 3 MEL7XX1: Multi
+  Phase Systems and Chemical Reactions 1-0-0 1 4 MEL7XX2: Kinetic Theory 1-0-0 1
+MEL7XX0:
+  Applied Heat and Mass Transfer
+MEL7XX0:
+  Applied Heat and Mass Transfer
+MEL7XX0:
+  Applied Heat and Mass Transfer
+MEL7XX0;
+  Incompressible Fluid Flow
+MEL7XX0;
+  Incompressible Fluid Flow
+MEL7XX0;
+  Incompressible Fluid Flow
+MEL7XX1: Multi
+  Phase Systems and Chemical Reactions
+MEL7XX1: Multi
+  Phase Systems and Chemical Reactions
+MEL7XX1: Multi
+  Phase Systems and Chemical Reactions
+MEL7XX2: Kinetic Theory
+MEL7XX2: Kinetic Theory
+MEL7XX2: Kinetic Theory
+S.N. Course Type L-T-P Credits 1 MEL7XX0:
+  Experimental Techniques in Thermofluids 3-0-0 3 2 MA:
+  Matrix Computations 1-0-0 1 3 MA:
+  Numerical Methods in ODE 1-0-0 1 4 MA:
+  Numerical Methods for PDE 1-0-0 1 5 MEL7XX0:
+  Conduction and Radiation 3-1-0 4 6 MEL7XX0:
+  Convective Heat and Mass Transfer 3-1-0 4 7 MELXXX0:
+  Combustion Technology 3-0-0 3 8 MEL7XX0:
+  Turbulent Flows 3-0-2 4 9 MEL7XX0:
+  Jet and Rocket Propulsion 3-0-0 3 10 MEL7XX0:
+  Computational Fluid Dynamics and Heat Transfer 3-1-0 4 11 MEL7XX0:
+  Two Phase Flow and Heat Transfer 3-1-0 4 12 MEL7XX0:
+  Design of Heat Exchange Equipment 3-1-0 4 13 MEL7XX0: Compressible Fluid Flows 3-0-2 4 14 MEL7XX0:
+  Optical and Laser Based Measurements in Thermofluids 3-0-0 3 15 MEL7XX0: Fluid dynamics and Acoustics of Turbulent Jets 3-0-0 3 16 MEL7XX0: Heating, Ventilation and Air-Conditioning 3-0-0 3 17 MEL7XX0: Microfluidics Technology 3-0-0 3 18 MEL7XX0: Fluid Flow in Biological Processes 3-0-0 3 19 MEL7XX0: Nanosensors 3-0-0 3 20 MEL7XX0:
+  Water Energy Nexus 3-0-0 3 21 MEL7XX0:
+  Soil and Water Conservation Engineering 3-0-0 3 22 MEL7XX0: Probabilistic Methods in Engineering
+  Design 3-0-2 4
+MEL7XX0:
+  Experimental Techniques in Thermofluids
+MEL7XX0:
+  Experimental Techniques in Thermofluids
+MEL7XX0:
+  Experimental Techniques in Thermofluids
+MA:
+  Matrix Computations
+MA:
+  Matrix Computations
+MA:
+  Matrix Computations
+MA:
+  Numerical Methods in ODE
+MA:
+  Numerical Methods in ODE
+MA:
+  Numerical Methods in ODE
+MA:
+  Numerical Methods for PDE
+MA:
+  Numerical Methods for PDE
+MA:
+  Numerical Methods for PDE
+MEL7XX0:
+  Conduction and Radiation
+MEL7XX0:
+  Conduction and Radiation
+MEL7XX0:
+  Conduction and Radiation
+MEL7XX0:
+  Convective Heat and Mass Transfer
+MEL7XX0:
+  Convective Heat and Mass Transfer
+MEL7XX0:
+  Convective Heat and Mass Transfer
+MELXXX0:
+  Combustion Technology
+MELXXX0:
+  Combustion Technology
+MELXXX0:
+  Combustion Technology
+MEL7XX0:
+  Turbulent Flows
+MEL7XX0:
+  Turbulent Flows
+MEL7XX0:
+  Turbulent Flows
+MEL7XX0:
+  Jet and Rocket Propulsion
+MEL7XX0:
+  Jet and Rocket Propulsion
+MEL7XX0:
+  Jet and Rocket Propulsion
+MEL7XX0:
+  Computational Fluid Dynamics and Heat Transfer
+MEL7XX0:
+  Computational Fluid Dynamics and Heat Transfer
+MEL7XX0:
+  Computational Fluid Dynamics and Heat Transfer
+MEL7XX0:
+  Two Phase Flow and Heat Transfer
+MEL7XX0:
+  Two Phase Flow and Heat Transfer
+MEL7XX0:
+  Two Phase Flow and Heat Transfer
+MEL7XX0:
+  Design of Heat Exchange Equipment
+MEL7XX0:
+  Design of Heat Exchange Equipment
+MEL7XX0:
+  Design of Heat Exchange Equipment
+MEL7XX0: Compressible Fluid Flows
+MEL7XX0: Compressible Fluid Flows
+MEL7XX0: Compressible Fluid Flows
+MEL7XX0:
+  Optical and Laser Based Measurements in Thermofluids
+MEL7XX0:
+  Optical and Laser Based Measurements in Thermofluids
+MEL7XX0:
+  Optical and Laser Based Measurements in Thermofluids
+MEL7XX0: Fluid dynamics and Acoustics of Turbulent Jets
+MEL7XX0: Fluid dynamics and Acoustics of Turbulent Jets
+Fluid dynamics and Acoustics of Turbulent Jets
+MEL7XX0: Heating, Ventilation and Air-Conditioning
+MEL7XX0: Heating, Ventilation and Air-Conditioning
+Heating, Ventilation and Air-Conditioning
+MEL7XX0: Microfluidics Technology
+MEL7XX0: Microfluidics Technology
+Microfluidics Technology
+MEL7XX0: Fluid Flow in Biological Processes
+MEL7XX0: Fluid Flow in Biological Processes
+Fluid Flow in Biological Processes
+MEL7XX0: Nanosensors
+MEL7XX0: Nanosensors
+MEL7XX0: Nanosensors
+MEL7XX0:
+  Water Energy Nexus
+MEL7XX0:
+  Water Energy Nexus
+MEL7XX0:
+  Water Energy Nexus
+MEL7XX0:
+  Soil and Water Conservation Engineering
+MEL7XX0:
+  Soil and Water Conservation Engineering
+MEL7XX0:
+  Soil and Water Conservation Engineering
+MEL7XX0: Probabilistic Methods in Engineering
+  Design
+MEL7XX0: Probabilistic Methods in Engineering
+  Design
+MEL7XX0: Probabilistic Methods in Engineering
+  Design
+5.9 Smart
+Healthcare (CS/EE/ME/BB)
+5.9 Smart
+Healthcare (CS/EE/ME/BB)
+S.N. Course Type L-T-P Credits 1 Disease, processes,
+  diagnostics Â & therapeutics 3-0-2 4 2 Systems Biology 3-0-2 4
+Disease, processes,
+  diagnostics Â & therapeutics
+Disease, processes,
+  diagnostics Â & therapeutics
+Disease, processes,
+  diagnostics Â & therapeutics
+S.N. Course Type L-T-P Credits 1 Bioimaging 3-0-0 3 2 Artificial Intelligence for healthcare 3-0-0 3 3 Biosensors 3-0-0 3 4 Multiomics technologies 3-0-0 3 5 Biomaterials 3-0-0 3 6 Immunotechnology 3-0-0 3 7 Quantitative Physiology lab 0-0-2 1 8 Statistics and Data analysis 3-0-2 4 9 Principles of drug discovery 3-0-0 3 10 Principles of Nuclear Magnetic Resonance 3-0-0 3 11. Theory & Applications of Spectroscopy 3-0-0 3 10 Project work 0-0-8 4
+Artificial Intelligence for healthcare
+Artificial Intelligence for healthcare
+Artificial Intelligence for healthcare
+Multiomics technologies
+Multiomics technologies
+Multiomics technologies
+Quantitative Physiology lab
+Quantitative Physiology lab
+Quantitative Physiology lab
+Statistics and Data analysis
+Statistics and Data analysis
+Statistics and Data analysis
+Principles of drug discovery
+Principles of drug discovery
+Principles of drug discovery
+Principles of Nuclear Magnetic Resonance
+Principles of Nuclear Magnetic Resonance
+Principles of Nuclear Magnetic Resonance
+Theory & Applications of Spectroscopy
+Theory & Applications of Spectroscopy
+Theory & Applications of Spectroscopy
+5.8
+Management (CS/EE/ME/BB)
+5.8
+Management (CS/EE/ME/BB)
+S.N. Course Type L-T-P Credits 1 Basics of HRM 2-0-0 2 2 Finance and accounts 3-0-0 3 3 Micro and Macro Economics 3-0-0 3
+Finance and accounts
+Finance and accounts
+Finance and accounts
+Micro and Macro Economics
+Micro and Macro Economics
+Micro and Macro Economics
+S.N. Course Type L-T-P Credits 1 Operations Management 3-0-0 3 2 Supply Chain Management 3-0-0 3 3 Basic Managerial Skills 2-0-0 2 4 Project Management 2-0-0 2 5 Organizational Behaviour 2-0-0 2 6 Econometrics 2-1-0 3 7 Developmental
+  Economics 3-0-0 3 8 Project/Workshop:
+  Public Policy, Business Ethics, Business Law, Leadership 0-0-8 4 9 Digital
+  marketing 3-0-0 3
+Operations Management
+Operations Management
+Operations Management
+Supply Chain Management
+Supply Chain Management
+Supply Chain Management
+Basic Managerial Skills
+Basic Managerial Skills
+Basic Managerial Skills
+Organizational Behaviour
+Organizational Behaviour
+Organizational Behaviour
+Developmental
+  Economics
+Developmental
+  Economics
+Developmental
+  Economics
+Project/Workshop:
+  Public Policy, Business Ethics, Business Law, Leadership
+Project/Workshop:
+  Public Policy, Business Ethics, Business Law, Leadership
+Project/Workshop:
+  Public Policy, Business Ethics, Business Law, Leadership
+Digital
+  marketing
+Digital
+  marketing
+Digital
+  marketing
+As this plan
+     is only for transition, the course on Principles of Management and
+     Economics is not included here. Existing students have already done these
+     courses as a life skill course. Generally Principles of Management and Economics
+     is a core component.
+As this plan
+     is only for transition, the course on Principles of Management and
+     Economics is not included here. Existing students have already done these
+     courses as a life skill course. Generally Principles of Management and Economics
+     is a core component.
+5.11 Entrepreneurship
+(CS/EE/ME/BB)
+5.11 Entrepreneurship
+(CS/EE/ME/BB)
+Why a minor in Entrepreneurship as part of B.Tech programme?
+Why a minor in Entrepreneurship as part of B.Tech programme?
+1. Entrepreneurs
+Everywhere
+Entrepreneurs
+Everywhere
+Concept of Entrepreneurship includes everyone working in any
+institution creating new products, processes, services under extreme conditions
+of uncertainty.
+Concept of Entrepreneurship includes everyone working in any
+institution creating new products, processes, services under extreme conditions
+of uncertainty.
+2. Entrepreneurship
+is management
+Entrepreneurship
+is management
+Realisation of any concept in physical world under conditions of
+uncertainty requires special management skills which can be useful Â in any enterprise in any sector or industry.
+Realisation of any concept in physical world under conditions of
+uncertainty requires special management skills which can be useful Â in any enterprise in any sector or industry.
+3. Validated
+Learning
+Entrepreneurs learn how to build sustainable technology and
+business based upon their skill set acquired through years of effort. Their
+learning gets validated scientifically by running experiments that allow
+entrepreneurs to test each element of their concept.
+Entrepreneurs learn how to build sustainable technology and
+business based upon their skill set acquired through years of effort. Their
+learning gets validated scientifically by running experiments that allow
+entrepreneurs to test each element of their concept.
+4. Build-measure
+Learn
+Build-measure
+Learn
+Fundamental activity of a start-up is to turn ideas into tangible
+entities, measures how customers respond, and then learn to persevere or
+rethink. A professional going through this process learns how to work in an
+iterative cycle for realisation of the conceptual plan.
+Fundamental activity of a start-up is to turn ideas into tangible
+entities, measures how customers respond, and then learn to persevere or
+rethink. A professional going through this process learns how to work in an
+iterative cycle for realisation of the conceptual plan.
+S.N. Course Type L-T-P Credits 1 Project I: Ideation, Product
+  Concept Development 3-0-0 3
+Project I: Ideation, Product
+  Concept Development
+Project I: Ideation, Product
+  Concept Development
+Project I: Ideation, Product
+  Concept Development
+S.N. Course Type L-T-P Credits 1 Introduction to Innovation and Entrepreneurship 1-0-0 1 2 Entrepreneurial Management 2-0-0 2 3 IP Management and Exploitation 1-0-0 1 4 Systems Engineering and Project Management 1-0-0 1 5 Project II: Prototype Development, Business Model
+  Development, IP strategy formulation 0-0-11 11
+Introduction to Innovation and Entrepreneurship
+Introduction to Innovation and Entrepreneurship
+Introduction to Innovation and Entrepreneurship
+Entrepreneurial Management
+Entrepreneurial Management
+Entrepreneurial Management
+IP Management and Exploitation
+IP Management and Exploitation
+IP Management and Exploitation
+Systems Engineering and Project Management
+Systems Engineering and Project Management
+Systems Engineering and Project Management
+Project II: Prototype Development, Business Model
+  Development, IP strategy formulation
+Project II: Prototype Development, Business Model
+  Development, IP strategy formulation
+Project II: Prototype Development, Business Model
+  Development, IP strategy formulation
+The project work involves developing a product idea having
+business potential to a prototype level with appropriate business model. The
+final evaluation will be a through a demo pitch for funding.
+The project work involves developing a product idea having
+business potential to a prototype level with appropriate business model. The
+final evaluation will be a through a demo pitch for funding.
+Each project can have maximum of three students who can be
+from different departments. There will be a faculty mentor identified by the
+student. Team and faculty mentor must get identified before registration for
+the minor area. Institute will make every attempt to attach an advisor from the
+start-up community of the country.
+Each project can have maximum of three students who can be
+from different departments. There will be a faculty mentor identified by the
+student. Team and faculty mentor must get identified before registration for
+the minor area. Institute will make every attempt to attach an advisor from the
+start-up community of the country.
+5.12 Engineering
+Innovation (CS/EE/ME/BB)
+5.12 Engineering
+Innovation (CS/EE/ME/BB)
+Department Area Specialization in Engineering Innovation is aimed
+at making students Industry Ready by offering five months Practical Project in
+an Industry or R & D organization. It focuses on use of technology
+knowledge to create products and processes which have usability value.
+Objective of this specialisation is to recognise such creative engineering
+endeavour. This activity is not expected to aim only publication of
+papers. It must happen in collaboration with IIT J faculty member, and expected
+to have an industrial or User agency as partner. Â Each project carried out by students will have
+both a company supervisor and an institute supervisor. Students get real-world
+experience working for an industry or R & D organization on a project that complements their academic
+experience. Projects are aimed to enable them for meaningful careers and
+provide them with an opportunity to engage with industry before graduation.
+Department Area Specialization in Engineering Innovation is aimed
+at making students Industry Ready by offering five months Practical Project in
+an Industry or R & D organization. It focuses on use of technology
+knowledge to create products and processes which have usability value.
+Objective of this specialisation is to recognise such creative engineering
+endeavour. This activity is not expected to aim only publication of
+papers. It must happen in collaboration with IIT J faculty member, and expected
+to have an industrial or User agency as partner. Â Each project carried out by students will have
+both a company supervisor and an institute supervisor. Students get real-world
+experience working for
+an industry or R & D organization on a project that complements their academic
+experience. Projects are aimed to enable them for meaningful careers and
+provide them with an opportunity to engage with industry before graduation.
+industry or R & D organization on a project that complements their academic
+experience. Projects are aimed to enable them for meaningful careers and
+provide them with an opportunity to engage with industry before graduation.
+in Engineering Innovation as a part of the curriculum from the
+beginning of the 8 th Semester. A student would be required to
+complete a minimum of five months in industries or R & D organization for
+Department Area Specialization in Engineering Innovation.
+in Engineering Innovation as a part of the curriculum from the
+beginning of the 8 th Semester. A student would be required to
+complete a minimum of five months in industries or R & D organization for
+Department Area Specialization in Engineering Innovation.

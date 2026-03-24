@@ -1,0 +1,1017 @@
+guidelines for indian government websites and apps contents introduction conformity to guidelines how to use gigw structure quality accessibility cybersecurity lifecycle management risk factors and their mitigation quality accessibility cybersecurity lifecycle management scope and objective new features focus areas quality guidelines and attributes accessibility guidelines and attributes cybersecurity guidelines and attributes lifecycle management guidelines and attributes guidelines annexure committee composition annexure ii matrix for checking conformity annexure iii important terms annexure iv guidelines for indian government websites and apps
+introduction recent years digital technologies have increasingly contributed to economic growth and citizen empowerment
+these technologies have become ubiquitous in everyday life and enable people to access various services from the comfort of their homes
+government has established web presence through multiple websites web portals web applications and mobile apps that ofer information and services to the public
+however inconsistency in conventions layout standards navigation strategies and technologies adopted can reduce the efectiveness of
+in this context the national informatics centre nic formulated the guidelines for indian government websites gigw in the year
+gigw aims to ensure quality and accessibility of government guidelines by ofering guidance on desirable practices covering the entire lifecycle of websites web portals and web applications right from conceptualisation and design to their development maintenance and management
+the department of administrative reforms and public grievances made the same part of the central secretariat manual of ofce procedure
+the second version of gigw gigw was developed in taking into account feedback from and consultations with industry society and government organisations
+gigw took note of the standards evolved by international bodies like the web consortium w3c and advancements in technology
+it also included guidance on mobile apps
+this version is the third version of gigw gigw
+while the earlier versions were formulated with external inputs gigw has been formulated jointly with standardisation testing and quality certifcation stqc directorate of the ministry of electronics and information technology and indian computer emergency response team so that the experience of conformity with gigw gathered by the stqc directorate auditors and the cybersecurity experience and knowledge of also inform the gigw
+as in earlier versions gigw too has also been formulated in association with industry and experts
+the key thrust of gigw is on ofering specifc guidance to government organisations on how to improve the user interface and user experience ui and ux by incorporating features such as intuitive page loading using ai and analytics based on user journey and user profle using content management system cms information architecture ia centralised monitoring dashboard to identify and provide alerts on technical enablement of all content creators and publishers
+gigw also signifcantly enhances the guidance on the accessibility and usability of mobile apps especially by ofering specifc to leverage public digital infrastructure devised for delivery of services benefts and information
+these cover aspects such as api level integration for use of integration with social media india portal digilocker identity single data sharing in open formats on the government data platform government scheme discovery platform government citizen engagement platform mygov indian language translation tools seamless access across solutions of government organisations
+gigw ofers upgraded guidelines on accessibility of websites and apps with view to make access to cyberspace more inclusive
+in view of incorporation of comprehensive guidance in this version on apps as well in addition to websites this version is titled guidelines for indian government websites apps however since the acronym gigw gained wide currency the acronym has been retained with the letter being signifying websites and chapter on cybersecurity formulated by has also been incorporated so that gigw can serve as single point of reference on all the relevant aspects quality accessibility and security relating to websites web portals web applications and mobile apps
+since cybersecurity requirements undergo continuous evolution in light of emerging threat scenarios vectors technologies continuously issues updated guidance and advisories to address the same
+such guidance and advisories issued by from time to time should be treated as updates to the guidance contained in the chapter on cybersecurity and any assessments or audit carried out with reference to gigw should also be cognizant of the same
+further while government organisations may continue to establish conformity with gigw by obtaining certifed quality website cqw certifcation from the stqc directorate the certifcation of cybersecurity aspects by stqc may be done on the basis of the safe to host certifcate issued by the cybersecurity auditors empanelled by or the auditors of stqc or nic
+to make the guidelines more readily usable which has role in implementing particular guideline has been identifed in every guideline
+thus each guideline specifes whether the same is to be acted upon by the government organisation concerned or the developer or the evaluators
+the efectiveness of gigw in enhancing ease of living through various initiatives of the government would depend on their efective implementation in letter and spirit by all government organisations their implementation evaluation partners
+government organisations are expected to carefully assess their existing websites web portals web applications and mobile apps against gigw identify areas requiring improvement draw up time bound implementation plans to achieve conformity with gigw and obtain cqw certifcation from the stqc directorate
+similarly websites web portals web applications and mobile apps that are at the design or implementation stage may also be reviewed to ensure that their design architecture development and scope of audit conform to gigw and requisite approvals resources etc
+are tied up to ensure this
+while gigw embodies general guidance for government websites web portals web applications and mobile apps particular use cases may require adoption of higher norms specifc technologies
+government organisations may keep this in mind while formulating design architecture and scope and may consult nic in case they desire technical advice in the matter
+scope objective scope and objective conformity to guidelines how to use gigw
+scope and objective his document recommends policies and guidelines for indian government websites applications at any organisational level and belonging to both central as well state governments including district administrations and local governments for making more and secure
+conformity with these guidelines will ensure high degree of consistency and uniformity in the content coverage presentation security and accessibility and promote excellence in government solutions in the indian web space
+these guidelines address common issues and practical challenges that organisations face during development and management of their
+the guidelines aim to assist in ensuring conform to consistently high standard
+this is expected to enhance the trust level the citizens accessing availing services online
+scope and objective these guidelines have been framed with the objective to make the government conform to the essential prerequisites of the uuu trilogy of usability and universal these guidelines are based on international standards including iso w3c web content accessibility guidelines wcag rights of persons with disabilities act as well as the information technology act
+further the experience of the authors in the design development and management of government as well as their knowledge of the ground realities and challenges faced by government organisations in developing and managing their have helped in drafting these guidelines
+these guidelines also form the basis for obtaining the website quality from the stqc directorate
+details scheme are available at these guidelines are being circulated amongst all indian government organisations at all levels central state and
+these should be followed and implemented on priority so that the overall aim of making all indian government and may be realised
+conformity to guidelines government organisations are expected to read understand and implement these guidelines on all of their initiatives
+in other words all the owned by government organisations must comply with these guidelines
+it is recommended that intranet applications should also follow these guidelines
+depending upon their requirements government organisations may draw up and timebound implementation plans for achieving conformity with these guidelines
+how to use gigw new features of gigw new features of gigw structure quality accessibility cybersecurity lifecycle management risk factors and their mitigation
+new features of gigw he new version of the guidelines has several enhancements to make it more user centric accessible secure and at par with the global best practices and latest technological benchmarks
+this version was reorganised to ease adoption and implementation and ensure wider conformity with gigw
+the following major enhancements have been included in the current version
+the new version of the guidelines is structured so as to reduce ambiguity and provide clarity on the roles and responsibilities of the implementers
+the guidelines are structured under the following heads statement requirement or checkpoint to meet the particular guideline
+positive outcomes achieved by following the requirements such as improving user experience accessibility security and with citizens
+government organisation action actions pertaining owner organisation
+these will be undertaken by the respective wim nominated by the organisation
+developer action tasks and actions developer is responsible for in order to comply with the guidelines and ensure the meets the desired standards of quality usability and effectiveness
+evaluator action refers to testing of the manually or with automated tools to verify conformity with this checkpoint
+structure he key thrust of gigw is on enhancing user interface and user experience ui ux implementation of information architecture ia to ease the user journey and provide content as per the user profle
+to ensure the quality of content throughout the lifecycle of the website gigw guides on the provisioning of centralised monitoring dashboard to identify the issues and provide alerts on
+content creators must also be supported with the right tools and technologies for accessible content creation
+gigw stresses on api level integration with platforms like india portal digilocker identity single data and citizen engagement platforms language translation tools to enable seamless content and data fow among the diferent web initiatives of government organisations
+social media integration also needs to be ensured
+ccessibility guidelines for web content have been formulated by w3c and are known as the web content accessibility guidelines wcag
+gigw was compliant with version of wcag however in the recent past wcag has been upgraded to version which inherits its requirement from wcag with additional guidelines to improve accessibility guidance for three major groups users with cognitive or learning disabilities users with low vision and users with disabilities on mobile devices
+gigw has been upgraded to include these additional requirements ensure apps can be used by the widest possible audience
+the current version ensures conformity with level aa of wcag
+in all new success criteria have been added to the accessibility chapter cybersecurity formulated by has also been incorporated which relates to websites web portals web applications and mobile apps
+focuses protecting web resources from unauthorised use access changes destruction or disruption
+it also guides on the prevention of leakage of sensitive information like passwords email addresses and credit card details which cause both personal embarrassment and risks
+it deals with all aspects of security starting from design coding and implementation to testing deployment which prevent malfunctioning phishing or cyberattacks to avoid data loss of the organisations or users
+it is based on the best industry security practices and guidelines such as iso the application security standard asvs issued by open web application security project owasp owasp top vulnerabilities and the center for internet security cis benchmarks as per the prevailing security policy
+this chapter must be read in conjunction with the guidance and advisories issued by from time to time which should be treated as chapter
+government organisations must continue to obtain safe to host issued by the cybersecurity auditors empanelled by or the auditors of stqc or nic
+cybersecurity he chapter on lifecycle management deals with the policies processes and plans that the department has to put in place to guide the website management team in maintain the quality accessibility security of the website throughout its lifecycle
+it from the department to head the website management team
+lifecycle management isk mitigation is one of the important criteria behind formulation any guideline
+the new version of the guidelines outlines the risk factors associated with with each section of these guidelines
+they have also been mapped with each guideline and presented in the conformity matrix
+therefore while the description of each guideline informs the users about the of conformance the conformity matrix will make the users aware of the risk involved in case they fail to meet the guideline
+risk factors and their mitigations focus areas focus areas quality accessibility cybersecurity lifecycle management
+focus areas q1
+can have inconsistent and outdated content on if the bility and ownership of the is not assigned to person or team
+people may not be able to get the information about the
+risks associated with with quality guidelines uality criteria for are essential to ensure is trustworthy reliable and engaging for users
+should be easy to use accessible to all users load quickly have content be secure optimised for mobile devices and have visually appealing design
+meeting these criteria can help ensure website success and make it stand out from the millions of available on the internet
+by prioritising these criteria owners can create that provides value to its users
+without correct copyright policy any information on the may be copied duced republished uploaded posted transmitted or distributed without any consent
+the overall quality of website content can be degraded if the authenticity and relevance of the linked information is not through hyperlinking policy
+without terms and conditions on it is to uphold and maintain the trust imposed on them by the users to the sites the government should not out rightly disclaim the content of another government
+if content is not selected keeping the audience in mind people from diverse professional educational and demographic backgrounds can not easily comprehend the same
+people can not get the right information from the if content is not up to date incomplete inconsistent or scattered
+users can not identify an authenticated government website
+with poor design methodology may not be accessible with slow internet q10
+without feedback and help sections users will not be able to participate in the improvement of quality and the government organisation will not be able to get the information regarding problems faced by users
+web accessibility means that people with disabilities can also perceive understand navigate and interact with the web and that they can contribute web
+it encompasses all disabilities that affect access to the web including visual auditory physical speech cognitive and neurological disabilities
+the should be designed and developed in such way that they are accessible by all people whatever may be their or physical or mental ability
+international guidelines and standards wcag legal provisions risks associated with with accessibility guidelines the united nations general assembly adopted its convention on the rights of persons with disabilities on the day of december
+india is signatory to the convention and has the convention on the day of october
+to implement the convention india has enacted the rights of persons with disabilities act on december
+with regard to ict one of the important provisions in the act is that all contents available in audio print and electronic media must be in accessible format
+w3c web content accessibility guidelines wcag covers wide range of recommendations for making web content accessible
+implementing these guidelines will make content accessible to persons with disabilities
+details are available at gigw has been developed in accordance with level aa of wcag which are the latest guidelines on accessibility
+visually impaired people can not access the content
+people with epileptic may get seizures if the has content which blink very fast
+impaired people can not access the content
+people with cognitive disability can not access the time dependent which does not have forward options
+people with disability can not access the whole content present on the a6
+if the content is not robust enough to be interpreted reliably by wide variety of user agents including assistive technologies the content becomes inaccessible to large audiences suffering from different impairments
+people who do not understand english language can not access content and a8
+the government organisation concerned can face legal actions as per national and international laws if the content of the is not accessible
+labels or instructions are not provided when content requires user input which jeopardises the security or purpose of the content
+cybersecurity is the activity of protecting from unauthorised use access disruption
+security can be complex or even confusing topic in an landscape
+gigw provides clear framework for owners seeking to mitigate risk and apply security principles to their web it is important to keep in mind that security is never solution but is continuous process that requires constant assessment reduce overall risk
+sometimes unavailable due to attacks or display homepages
+millions of passwords email addresses and credit card details have been leaked into the public domain exposing users both personal embarrassment risks
+purpose of security is to prevent such risks
+security requires vigilance in all aspects starting from requirements through design and implementation to testing and deployment
+organisations should implement appropriate security analysis defences and countermeasures for protection against malfunctioning phishing or cyberattacks to avoid data loss of the organisations or customers
+with security guidelines s1
+malicious users can deface the website
+any harmful actor may get access to information
+the availability of the can be hampered
+the malicious user may the content on the website
+security failures typically lead to unauthorised information disclosure or destruction of all data or performing business function outside the user limits
+upload allows an attacker to retrieve the password database
+security of web applications determine the protection needs of data in transit and at rest
+attackers can steal such information for example passwords credit card numbers health records personal information and business secrets require extra protection mainly if that data falls under privacy laws personal data protection bill etc
+an attacker monitors network at an insecure wireless network downgrades connections from https to http intercepts requests and steals the user session cookie
+the attacker then replays this cookie and hijacks the user authenticated session accessing or modifying the user private data
+instead of the above they could alter all transported data the recipient of money transfer
+almost any source of data can be an injection vector environment variables parameters external and internal web services and all types of users
+injection occur when an attacker can send hostile data to an interpreter
+attackers have to gain access to only few accounts or just one admin account to compromise the system
+depending on the domain of the application this may allow money laundering social security fraud and identity theft or disclose legally protected highly sensitive s10
+security can be used to extract data execute remote request from the server scan internal systems perform attack as well as execute other attacks
+the business impact depends on the protection needs of all affected applications and data
+attackers acting as users or administrators or users using privileged functions can create access update or delete every record
+security frequently gives attackers unauthorised access to some system data or functionality
+occasionally such result in complete system compromise
+the impact of xss is moderate for and dom xss and severe for stored xss with remote code execution on the victim browser such as stealing credentials sessions or delivering malware to the victim
+while some known vulnerabilities lead to only minor impacts some of the largest breaches to date have relied on exploiting known vulnerabilities in components
+most successful attacks start with vulnerability probing
+allowing such probes to continue can raise the likelihood of successful exploit to nearly
+maintaining is just as important as developing it because is dynamic entity that requires regular updates and monitoring to remain relevant functional and secure
+without proper maintenance vulnerable security breaches performance issues and content that is outdated or irrelevant which can negatively impact the user experience and drive away potential visitors
+regular maintenance help security breaches ensure functionality keep content and optimise the for search engines
+therefore life cycle management including ongoing maintenance is crucial for the success and longevity of website
+after launching website is essential keep functioning properly
+this involves updating content monitoring performance ensuring security bugs and errors and optimising engines
+establishing policies and procedures for important including change management process backup and disaster recovery plans security policies and content management plan
+regularly monitoring performance user engagement and search engine optimization is crucial to ensure that the is meeting its objectives and to identify areas for improvement
+the risks already under quality are also associated with the of the lifecycle management guidelines
+guidelines quality guidelines and attributes accessibility guidelines and attributes cybersecurity guidelines and attributes lifecycle management guidelines and attributes
+guidelines statement association to government is demonstrated by the use of in proper ratio and colour prominently displayed on the homepage of the website or homescreen of the app
+reassures visitors that the government is authentic and trustworthy
+moreover the government organisation brand identity is reinforced
+government organisation action government organisations must select proper visual identity elements like emblems or logos to highlight government ownership of the
+the state emblem of india must be displayed on the homepages of the websites and homescreens of the apps of central government
+state governments should display their emblems and public sector organisations and autonomous bodies should display their logo on the homepage of the website or homescreen of the app to reinforce their identity developer action visual identity elements logos and emblem must prominently stand out on the page in proper ratio and colour
+developers must ensure that all logo images are accompanied by proper alternate text so that the screen reader users may be informed of the same
+the usage of the state emblem of india must comply with the provisions of the state emblem of india prohibition of improper use act
+evaluator action the evaluator shall manually test the for verifying conformity with statement ownership information is displayed on the and on all important entry of the and each subsequent screen is standalone entity in terms of ownership navigation and context of content
+helps to build trust in the visitors and reinforces the government organisation branding
+also search engines use the ownership information to verify the legitimacy of the and accord higher ranks in search results
+government organisation action provide complete ownership information for publishing on the website developer action ensure display of ownership information either in the header or footer on the and entry of the
+statement source of all documents not owned by the dept
+audiences can rely upon the credibility of authentic information being published by the government organisation
+additionally giving the credit to the authoring organisation helps establish an environment of respect for intellectual property of other organisations and discourages plagiarism
+government organisation action if any published government is being reproduced on the government organisation whether as excerpts or in full the organisation must cite the source of the same complete title of the along with the name of the owner organisation and the year of publication
+developer action ensure provision of appropriate data input in the cms to input the source owner organisation of each published and the year of publication
+statement due permissions have been obtained for publishing any content protected by copyright
+publishing copyrighted information after obtaining due permission protects the government organisation from legal issues establishes an environment of respect for information copyrighted by others in addition to discouraging plagiarism
+government organisation action the government organisation must follow proper procedures to obtain the permission prior to publishing any information that is copyrighted by any third party
+developer action none
+evaluator action the evaluator shall check the implementation of copyright policy in backend statement of the displays the last reviewed date
+providing information about the last date helps visitors to build trust that the government organisation is providing updated information
+also search engines accord higher ranking to web sites that publish updated content so they will automatically appear amongst the sites on search results
+government organisation action publish regular and updated content for publishing on the and review the content of the as per the content review policy
+developer action ensure publishing on the and every important entry of the date on which the information was posted on the or the date on which the content was last reviewed
+evaluator action the evaluator shall manually test the for verifying conformity with this
+statement complete information including title size format and usage instructions is provided for all downloadable material
+downloading material from the internet can be an expensive and exercise
+therefore government must prov ide information that will help visitors determine whether they want to access downloadable material
+providing all required information about downloadable material helps improve clarity accessibility especially for those using assistive technologies
+government organisation action provide all necessary content details to the content team
+the total size of the should be kept to minimum to ensure acceptable download times for all users especially those that do not have reliable internet connections
+prior to making downloadable material available for visitors government organisations should check for viruses and malware
+developer action ensure that there is mechanism in the cms to input the following information about the downloadable material title of the download and use instructions install open view and file format and size
+statement in respect of each circular document form scheme service and recruitment notice the following should be clearly listed on the complete title language if other than english to apply as applicable and validity where applicable
+details such as the correct title language validity purpose procedures would lead to an accurate search output for information on that notice etc and it would be easy for the users to locate use these documents schemes services etc
+government organisation action the attributes as in the guideline must be provided with each circular document form scheme service and recruitment notice developer action ensure provision of all necessary for publishing of all information about documents schemes services along with the necessary archival procedures to archive the information once the validity expires
+statement all outdated announcements tenders recruitment notices news and press releases are removed from the placed into the archives as per the archival policy outdated and irrelevant content must not be served to the visitors and there should be proper archival section to access the outdated content
+government organisation action the government organisation must ensure that the expiry date is provided for all time sensitive content developer action ensure that the mechanism is in place to automatically remove the content after the expiry date or move it to the archives as per the approved archival policy
+statement all information about the government organisation which is useful to users is present in the about us section and mechanism is in place to keep the information up to date
+helps the visitor access all information about the government organisation useful for the government organisation action the government organisation must prepare the content describing itself for the about us section
+developer action ensure the has an about us page
+evaluator action the evaluator shall manually test the for verifying the content as required by this checkpoint is present on the website
+the evaluator shall verify the conformity to the mechanism required in the checkpoint through backend audit
+statement has contact us page providing complete contact details of important functionaries in the government organisation and this is linked from the homescreen and all relevant places on the
+enables users to contact any government organisation or entity to ask questions get information seek and resolve problems
+government organisation action provide complete contact information on the contact us or who who sections or on the directory page including the telephone numbers postal address and email addresses along with the timings if any earmarked for developer action ensure that the cms has the provision to publish statement feedback is collected through online forms and mechanism is in place to ensure timely response to received through the website
+helps the visitors to express their ideas satisfaction levels suggestions etc
+that can be valuable inputs for enhancement of future versions of the website
+additionally government organisations can learn meaningful insights about the usage pattern of the website which can further help to focus on near and far term enhancements
+government organisation action ensure feedback received is processed on regular basis
+developer action ensure providing the mechanism to collect structured feedback from visitors using forms
+also ensure responding to the feedback explaining how it will be processed
+evaluator action the evaluator shall manually test the for verifying that the feedbacks are collected through online forms at the website
+statement provides prominent link to the national portal from the homepage and webpages belonging to the national portal load in the new browser window
+the national portal of india npi is single window source for access to all information and services being provided by the various constituents of the indian government to its citizens and other stakeholders
+linking to the npi will help visitors information or services they could not easily on government organisation website
+government organisation action the government organisation must provide prominent link to the national portal from the homepage and other important pages of citizen developer action ensure that the government provides prominent link to the national portal from the homepage and other important pages of citizen interest
+also the hyperlinked pages belonging to the national portal must load into newly opened browser window of visitors
+evaluator action the evaluator shall manually test the for verifying conformity to this statement the website has been tested on multiple browsers
+visitors can easily read content and interact with the website in their native language thus improving the website accessibility and reach
+government organisation action government organisations must ensure the accuracy of the translated content
+developer action ensure use of unicode characters when using language fonts also testing of the website on multiple browsers and versions of browsers operating systems connection speeds and screen resolutions to ensure access by all and no loss of layout
+evaluator action the evaluator shall manually test the website on different browsers for verifying conformity to this checkpoint
+statement the has readily available help section linked from all pages of the website
+allows pleasant experience while browsing the website
+government organisation action none developer action must include help content which allows for an easy and convenient navigation for the visitor to the online help how to open of certain formats how to access on the portal kinds of required etc
+further the content which the purpose of the as well as its policies for the visitors should also be included in this category
+help should be linked from all pages of the and should be displayed in consistent location across the website
+statement website uses cascading style sheets css to control and incorporates responsive design features to ensure that the interface displays well on different screen sizes
+for the visitors consistent look and feel of the website user interface ui and its availability on all devices and screen sizes is important
+for the government organisation and developers css offers ease of making global changes to the layout and design in one place instead of having to do so on individual pages
+different presentations of the content for example large text alternative for visually impaired users can be achieved using different style sheets
+the document code is also reduced in size and complexity since it does not need to contain any presentational markup
+government organisation action none
+developer action use css for controlling content layout and presentation in addition to offering responsive interface for visitors
+also ensure testing on different devices
+evaluator action the evaluator shall test the website by using browser tool for verifying statement website is readable even when style sheets are switched off or not loaded
+helps provide readable content not only for visually challenged users who may be using screen readers but also in some instances where the style sheets may not load swiftly or load at all due to reasons such as slow connections technical errors or due to use of some incompatible mobile devices
+developer action ensure testing on different devices to ensure the website remains easily readable even on turning off style sheets
+statement proper page title and language attribute along with metadata for page like keywords and description are appropriately included
+once details such as government organisation name services offered schemes location help ensure enhanced accessibility especially for those with screen readers who rely on things such as page titles structured page headings and lists
+additionally search engines rank such sites higher in search results
+government organisation action the government organisation must provide the relevant metadata for each page
+developer action must ensure mentioning all necessary metadata in the portion of the html page from where it is read by search engines
+evaluator action the evaluator shall test the website by using browser extension tools for verifying statement minimum content as prescribed in the guidelines is present on the and all subsequent
+the being the primary entry page to the entire content of the should allow visitors to get access to the most important content elements from the itself
+often visitors may use search engine for some information and therefore directly reach subsequent of the instead of the therefore it helps to have some minimum content on each of title link to ownership link to contact us etc
+government organisation action the government organisation must ensure the availability of minimum content on the of government organisation name alternatively the name of the project service etc
+as applicable state emblem of as applicable about the government organisation including its main activities and functions link to all the major of the site link to all the citizen services offered by the government organisation link to the contact us page of the link to the feedback page link to national portal map and terms and conditions of use
+minimum content on subsequent of title of the link to the link to the parent module of the individual ownership name of the government organisation owning the and link to the contact us page
+developer action ensure providing the minimum content as prescribed by the gigw guidelines referred on the as well as the subsequent
+evaluator action the evaluator shall manually test it for verifying conformity to this checkpoint
+statement data tables have been provided with necessary proper use of markup in tables helps with accessibility ensuring assistive technology users can easily navigate and comprehend the tabular content
+developer action avoid use of tables for page layout
+proper tags and markup must be provided to identify row and column headers and associate data cells and header cells
+statement content of the web page prints correctly on an a4 size paper offers enhanced accessibility to visitors who may prefer the print format
+developer action ensure testing with font properties such that the text must print correctly on an a4 size paper
+evaluator action the evaluator shall manually test the website for verifying conformity to this statement website is in the or domain
+educational institutions and research and academic institutions which are eligible for registration under may use or domains the url or the web address of any government website is strong indicator of its authenticity and status as being
+use of or domain inspires trust in the visitor that the website being visited is authentic
+government organisation action the government organisations must obtain or domain exclusively allotted and restricted to government websites
+the domain name conventions as in the registration policy should be followed while registering domain name
+for detailed information and procedure on how to register domain visit statement api integration with key government platforms india portal digilocker aadhaar mygov data platform myscheme and similar websites of the government organisation must be enabled for seamless exchange of information and data
+integration with other websites and platforms provides the following to the government organisation is consistent as it is being pushed from single source to all the it can be managed and maintained easily and is well synchronised across all the interfaces avoids duplication of effort content creation and ensures standardisation and security use of digilocker aadhaar authentication or single ensures that any technical functional or security enhancements are pushed to all the in real time
+citizens by having single identity which can be used across multiple and single repository of documents
+they do not have to comprehend the same information and data from multiple sources
+government organisation action the government organisation must identify the websites and platforms with which the integration needs to be established as per their requirement so that no duplication efforts are being made
+they must provide required apis and web services to the to enable integration
+developer action developers must ensure that the integration is done as per the best practices pertaining to security and technology
+evaluator action the evaluator shall manually test the website for verifying conformity to this checkpoint
+statement the government organisation must ensure consistent user experience and visual identities across all its
+maintaining consistency enhances the ease of use for the visitors
+if the visitors have browsed one then the learning curve of using the other of the government organisation is greatly reduced and visitors can interact and information easily and quickly
+maintaining consistent visual identity reinforces the authenticity and enhances the trust level of the visitors
+government organisation action the government organisations must ensure consistent information architecture navigation scheme terminology and visual branding logos etc
+across the web initiatives of all organisations under them
+developer action developers must create templates with common information architecture ia components and neat user interface which can be implemented on different to achieve consistency
+statement must provide integration with popular social media
+users and the government organisation are increasingly using social media to quickly connect share information and even provide services
+social media platforms also provide an easy means of communication between the user and government organisation
+younger generation also it easy to connect through social media on smart devices rather than the web government organisation action must identify that needs to be pushed to the social media platforms directly from the
+the content must also be written in way that is suitable for social media
+developer action developer must ensure integration by providing mechanism to push content from the to the social media platform and also integrate the social media content into the
+statement the language is free from spelling and grammatical errors
+the language used in government is very important for ensuring effective communication with the target audiences
+when visitors get clear and error free content it raises the trust level of the citizens towards the government organisation
+government organisation action check the content manually or with automated spelling and grammar tools before publishing
+developer action ensure provision of cms that enables publishing of error free content both with respect to grammar and spellings
+evaluator action the evaluator shall test the by using tool for verifying conformity to this checkpoint
+the evaluator shall check in the backend audit for implementation of the mechanism by verifying documented records
+he success criteria under this section have been adopted from w3c web content accessibility guidelines developers are advised to refer to the w3c website for the complete description and techniques to meet the success criteria
+statement all content that is presented to the user has text alternative that serves the equivalent purpose except for the situations listed below controls input if content is control or accepts user input then it has name that describes its purpose refer to success criterion for additional requirements for controls and content that accepts user input media if content is media then text alternatives at least provide descriptive of the content refer to guideline for additional requirements for media sensory if content is primarily intended to create sensory experience then text alternatives at least provide descriptive of the captcha if the purpose of content is to that content is being accessed by person rather than computer then text alternatives that identify and describe the purpose of the content are provided and alternative forms of captcha using output modes for different types of sensory perception are provided to accommodate different disabilities and decoration formatting invisible if content is pure decoration is used only for visual formatting or is not presented to users then it is implemented in way that it can be ignored by assistive technology
+conformity makes information conveyed by content accessible through the use of text alternative
+for example person who can not see picture can have the text alternative read aloud using synthesised speech
+person who can not hear an audio can have the text alternative displayed so that he or she can read it
+government organisation action meaningful explanatory text equivalent must be for images and other content
+the description should summarise the content or purpose of the image
+for example to use the description picture to explain graphic does not serve any developer action for images text equivalent can be provided by using the alt attribute
+the alt text for an image is displayed before the image is fully downloaded
+it is the main source of image information for users of browsers users of browsers with graphics turned off and users who are sight impaired
+the following situations are exceptions if the content is control or accepts input submit button then it must have name describing the purpose of the control if the content is media then the text equivalent provides descriptive of the same if content is test or exercise that would be invalid if presented in text then text alternatives at least provide descriptive of the content if content is primarily intended to create sensory experience then text alternatives at least provide descriptive of the content captcha if the purpose of content is to that content is being if content is pure decoration is used only for visual formatting or is not presented to users then it is implemented in way that it can be ignored by assistive technology by using blank alt attribute
+reference wcag evaluator action the evaluator will test it manually and by using the accessibility extension to accessibility accessibility tool to check the conformity of this checkpoint
+statement for and media the following are true except when the audio or video is media alternative for text and is clearly labelled as such an alternative for media is provided that presents equivalent information for content and either an alternative for media or an audio track is provided that presents equivalent information for content
+the intent of this success criterion is to make information conveyed by and content available to all users
+alternatives for media that are text based make information accessible because text can be rendered through any sensory modality for example visual auditory or tactile to match the needs of the user
+government organisation action create the alternate for media transcript in case audio only and transcript or audio track in case of video only content
+captions are not needed when the synchronised media is itself an alternate presentation of information that is also presented via text on the web page developer action make provision to provide alternatives for media
+reference wcag evaluator action the evaluator will test it manually to check the conformity of this checkpoint
+statement captions are provided for all audio content in synchronised media except when the media is media alternative for text and is clearly labelled as such this enables people who are deaf or hard of hearing to watch synchronised media government organisation action the government organisations must create captions to provide the part of the content available via the audio track
+captions not only include dialogue but identify who is speaking and include information conveyed through sound including meaningful sound effects
+developer action ensure that the captions are available with audio content
+reference wcag evaluator action the evaluator will test the it manually to check the conformity of this checkpoint
+statement an alternative for media or audio description of the video content is provided for synchronised media except when the media is media alternative for text and is clearly labelled as such
+provides people who are blind or visually impaired access to the visual information in synchronised media presentation government organisation action the government organisations must provide audio description of the video content
+the audio description augments the audio portion of the presentation with the information needed when the video portion is not available
+alternatively all of the information in the synchronised media both visual and auditory may be provided in text form
+if all of the information in the video track is already provided in the audio track no audio description is developer action developer must provide provision for publishing the alternative for media or audio description of the video content reference wcag statement captions are provided for all live audio content in synchronised media
+enables people who are deaf or hard of hearing to watch presentations
+government organisation action the government organisation must provide captions for live audio content
+developer action provide provision to publish captions reference wcag statement audio description is provided for all video content in synchronised media
+provides people who are blind or visually impaired access to the visual information in synchronised media presentation
+during existing pauses in dialogue audio description provides information about actions characters scene changes and text that are important and are not described or spoken in the main soundtrack
+government organisation action provide audio description of video content developer action provide provision to publish audio description reference wcag evaluator action the evaluator will test it manually check the conformity of this checkpoint
+statement information structure and relationships conveyed through presentation can be programmatically determined or are available in text
+sighted users perceive structure and relationships through various visual cues present on page page headings are in larger and bold font list items are preceded by bullet form may be positioned as groups that share text labels different background colour may be used to indicate related items and so on
+however visually challenged users can not take advantage of these cues
+it must be ensured that these information and relationships are preserved even when the presentation format changes
+for example when the content is read by screen reader or css is turned off or replaced
+developer action developers must ensure that information and relationships that are implied by visual or auditory formatting are preserved when the presentation format changes
+for example when the content is read by screen reader or when user style sheet is substituted for the style sheet provided by the author
+for example form contains several required
+the labels for the required are displayed in red
+in addition at the end of each label is an asterisk character
+the instructions for completing the form indicate that all required are displayed in red and marked with an asterisk followed by an example
+reference wcag accessibility technology to check the conformity of this checkpoint
+statement when the sequence in which content is presented affects its meaning correct reading sequence can be programmatically determined
+this helps people who rely on assistive technologies like screen readers because the meaning evident in the sequencing of the information in the visual presentation will be the same when the content is presented in spoken form
+this also preserves the meaning of the page when the css is turned off or not supported
+developer action provide meaningful reading sequence
+note developers must keep in mind that sequence is meaningful if change of order shall impact its meaning
+two independent content items like two separate articles in page may be placed in any sequence without affecting the meaning
+similarly the navigation block and the content area may be placed in any sequence without affecting their meaning
+html text is always meaningful sequence
+tables and ordered lists are meaningful sequences but unordered lists are not
+it must be clear that providing particular linear order is only required where it affects meaning there may be more than one order that is correct and only one correct order needs to be provided
+reference wcag statement instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape colour size visual location orientation or sound
+many users including the visually challenged can not perceive shape size or use information about location or orientation
+for such users the content that relies on knowledge of the shape or position of objects becomes inaccessible for example round button or button to the right
+developer action provide additional information in content that relies solely on sensory characteristics of components such as shape size visual location orientation or sound
+this can be done by providing textual of items that otherwise rely only on sensory information to be understood for example round button is provided on form to submit the form and move onto the next step
+the button is labelled with the text go
+the instructions state to submit the form press the round button labelled go
+this includes both shape and textual information to locate the reference wcag evaluator action the evaluator will test it manually and by using the assistive technology to check the conformity of this checkpoint
+statement content does not restrict its view and operation to single display orientation such as portrait or landscape unless display orientation is essential
+this success criterion requires content to display in the orientation preferred by the user and not restrict the orientation
+this improves accessibility for users who rely on orientation and promotes in technology design
+users with dexterity impairments who have mounted device will be able to use the content in their orientation
+users with low vision will be able to view content in the orientation that works best for them for example to increase the text size by viewing content in landscape
+developer action developers must ensure that content displays in the orientation portrait or landscape preferred by the user
+content does not restrict its view and operation to single display orientation such as portrait or landscape unless display orientation is essential
+examples of situations where display orientation is essential could be banking app that requires the device to be in landscape mode to capture an image of check easily and accurately for deposit and piano app that requires the device to be in landscape mode to allow room for enough of the piano keys to be functionally usable
+since piano app is emulating physical piano keyboard that needs to retain relative physical characteristics between keys either too few keys would be available or the keys would be much too narrow
+reference wcag statement the purpose of each input collecting information about the user can be programmatically determined when the input serves purpose in the input purposes for user interface components section and the content is implemented using technologies with support for identifying the expected meaning for form input data
+people with language and memory related disabilities or disabilities that affects executive function and from the browser personal information such as name or address
+people with learning disability can employ assistive technology which adds icons to input to communicate the purpose of the visually and people with motor impairments also from reducing the need for manual input when out forms
+developer action developers must ensure that the purpose of form input collecting information about the user can be programmatically determined so that user agents can extract and present this purpose to users using different modalities
+developers can use attribute to programmatically link and published taxonomic term to the input so that the inputs can also be
+reference wcag evaluator action the evaluator will test it manually and by using the accessibility extension to statement colour is not used as the only visual means of conveying information indicating an action prompting response or distinguishing visual element
+conformity to this guidelines user who have perceiving colour
+people with partial sight or older users who do not see colour well
+if page has information that is conveyed by colour differences like required are red error is shown in red and january sales are in red july are in blue then these users may not be able to access such information
+developer action developers must ensure that when colour differences are used to convey information such as required form the information conveyed by the colour differences are also conveyed explicitly in text
+developers must provide redundant visual cue for users who may not be able to discern difference in text colour formatting for links on page includes presenting them both in different colour than the other text on the page underlining them to make the links even without colour vision
+reference wcag statement if any audio on web page plays automatically for more than seconds either mechanism is available to pause or stop the audio or mechanism is available to control audio volume independently from the overall system volume level
+the ability for individuals who use screen reading software to turn off background sound provides numerous
+it ensures that the screen reader speech output can be heard clearly without interference from other audio which is especially important for those who are hard of hearing or have hearing impairments
+additionally it individuals who struggle to focus on visual content when audio is playing
+this simple feature allows for more accessible and inclusive experience for all users
+developer action ensure that the sound that plays automatically when page load stops within seconds or provide control at the beginning of the page to turn the sound off reference wcag statement the visual presentation of text and images of text has contrast ratio of at least except for the following large text pt
+bold text and images of text have contrast ratio of at least incidental text or images of text that are part of an inactive user interface component that are pure decoration that are not visible to anyone or that are part of picture that contains other visual content have no contrast requirement and logotypes text that is part of logo or brand name has no contrast requirement
+the contrast ratios are that they improve the readability and accessibility of text for wider range of users including those with visual impairments or colour
+by providing minimum luminance contrast ratio between text and its background text is more visible and legible which can improve user experience and overall inclusivity
+developer action developers must ensure that contrast ratio of at least exists between text and images of text and background behind the text
+it must be checked by the use of contrast checking tools
+alternatively they can provide control with contrast ratio that allows users to switch to presentation that uses contrast reference wcag evaluator action the evaluator will test it to see whether high contrast mode is available and by using the accessibility extension to accessibility tool to check statement except for captions and images of text text can be resized without assistive technology up to percent without loss of content or functionality
+it helps people with mild visual disabilities by allowing them to scale visually rendered text and controls on web page without requiring the use of assistive technology
+it ensures that the author creates web content that does not prevent user agents from scaling content effectively
+by supporting text scaling people with low vision can increase the size of text to readable level improving their ability to access and read web content
+developer action developer must create web content that does not prevent the user agent browser from scaling the content effectively
+ensuring that text containers resize when the text resizes and using measurements that are relative to other measurements in the content
+alternatively developers may provide controls on the web page that allow users to incrementally change the size of all text on the page up to percent
+reference wcag accessibility tool to check the conformity of this checkpoint
+statement if the technologies being used can achieve the visual presentation text is used to convey information rather than images of text except for the following customizable the image of text can be visually customised to the user requirements essential particular presentation of text is essential to the information being use of images for representing text should be limited
+though images add life to website they also increase downloading time
+images should only be used when it adds value to the content
+images should not be used to present text as those using browsers shall not be able to access the information thus rendering the website inaccessible to many
+therefore text must be used to convey information rather than images of text except for the cases given above
+the use of text rather than images of text should be considered for page headings and website navigation items
+government organisation action perform ocr on scanned pdf document to capture actual text developer action css properties like etc
+can be used to style text and avoid the need for text in images
+reference wcag statement content can be presented without loss of information or functionality and without requiring scrolling in two dimensions for vertical scrolling content at width equivalent to css pixels horizontal scrolling content at height equivalent to css pixels and except for parts of the content which require layout for usage or especially to those with small screens such as mobile devices or limited screen resolutions
+it ensures that content is presented in way that is easily accessible without the need for excessive scrolling or complex navigation
+developer action use responsive web design approach by using css media queries grid or to present content without introducing horizontal scroll bar at width equivalent to css pixels or vertical scroll bar at height equivalent to css pixels for text intended to scroll reference wcag evaluator action the evaluator will test it manually and by using the web accessibility tool to check the conformity of this statement the visual presentation of the following has contrast ratio of at least against adjacent colour user interface components visual information required to identify user interface components and states except for inactive components or where the appearance of the component is determined by the user agent and not by the author graphical objects parts of graphics required to understand the content except when particular presentation of graphics is essential to the information being conveyed
+this people with low vision or other visual impairments who may have perceiving low contrast controls and graphics and helps them better understand the content or functionality of the webpage without the need for assistive technology
+developer action providing control with contrast ratio that allows users to switch to presentation that uses contrast reference wcag statement in content implemented using markup languages that support the following text style properties no loss of content or functionality occurs by setting all of the following and by changing no other style property line height line spacing to at least times the font size spacing following paragraphs to at least times the font size letter spacing tracking to at least times the font size word spacing to at least times the font size and exception human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script
+people with visual and cognitive disabilities can adjust text spacing to improve their reading experience without losing any content or functionality
+by setting minimum baseline for text styling adaptability users can increase the spacing between lines words letters and paragraphs to effectively read text and other style preferences can be set
+this can people with low vision dyslexia and cognitive disabilities who may require increased space between text to read or discern sections and call out boxes
+overall this aims to improve accessibility and usability for wider range of users
+developer action ensure that content has the ability to be set to the above metrics without loss of content or functionality in case the user prefers to override the spacing provided by the developer reference wcag statement where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden the following are true dismissible mechanism is available to dismiss the additional content without moving pointer hover or keyboard focus unless the additional content communicates an input error or does not obscure or replace other content if pointer hover can trigger the additional content then the pointer can be moved over the additional content without the additional content disappearing and persistent the additional content remains visible until the hover or focus trigger is removed the user dismisses it or its information is no longer valid
+this users with low vision cognitive disabilities low pointer accuracy and those who use or larger mouse cursors by providing way to view content without reducing their desired or increasing the risk of triggering additional content accidentally
+reference wcag statement all functionality of the content is operable through keyboard interface without requiring timings for individual keystrokes except where the underlying function requires input that depends on the path of the user movement and not just the endpoints
+by ensuring that content is operable through keyboard or keyboard interface this success criterion people who are blind people with low vision and individuals with hand tremors or other conditions that make using mouse
+it also enables the use of operating system keyboard accessibility features such as key locking which can further improve the accessibility of the content
+developer action developers must identify all functionality on the content and check that all functionalities can be accessed using only the keyboard or keyboard interface
+it is important to consider functions performed using both the mouse and the keyboard together
+examples of functionality include the use of physical controls such as links menus buttons checkboxes radio buttons and form as well as the use of features like drag and drop selecting text resizing regions or bringing up context menus
+this does not necessarily mean that each of the individual controls can be used from the keyboard as long as there are multiple methods to perform the same function available on the page
+developers must consider how users will discover any keyboard equivalents which are available in such case
+statement if keyboard focus can be moved to component of the page using keyboard interface then focus can be moved away from that component using only keyboard interface and if it requires more than arrow or tab keys or other standard exit methods the user is advised of the method for moving focus away
+whenever web page is rendered using or embedded applications it is possible that functionality of the web page restricts the keyboard focus to subsection of the content unless the user knows how to leave that state and the focus
+this situation may affect navigation for people who rely on keyboard or keyboard interface to use the web including visually challenged and people with physical disabilities
+developer action developers must ensure that if focus can be moved to component of the page using keyboard interface then focus can be moved away from that component using only keyboard interface and if it is not possible the user is advised of the method for moving focus away reference wcag evaluator action the evaluator will test it manually and by using assistive technology to check the conformity of this checkpoint
+statement if keyboard shortcut is implemented in content using only letter including and letters punctuation number or symbol characters then at least one of the following is true turn off mechanism is available to turn the shortcut off remap mechanism is available to remap the shortcut to include one or more keyboard keys ctrl alt and active only on focus the keyboard shortcut for user interface component is only active when that component has focus
+speech users who can avoid batches of shortcuts at once and make full use of programs that offer shortcuts to keyboard users
+it also users who have dexterity challenges an may accidentally hit keys as they can turn off or modify problematic single character shortcuts
+developer action in case developer has provided shortcuts in their applications to allow for faster user interaction which involve only character keys letters numbers punctuation or symbol characters without provision must be given to allow users to turn off or shortcuts that are made up of only character keys
+if the keyboard shortcut is only active when particular user interface component has focus then override mechanism is not required
+reference wcag statement for each time limit that is set by the content at least one of the following is true turn off the user is allowed to turn off the time limit before encountering it or adjust the user is allowed to adjust the time limit before encountering it over wide range that is at least ten times the length of the default setting or extend the user is warned before time expires and given at least seconds to extend the time limit with simple action for example press the spacebar and the user is allowed to extend the time limit at least ten times or exception the time limit is required part of event for example an auction and no alternative to the time limit is possible or essential exception the time limit is essential and extending it would invalidate the activity or hour exception the time limit is longer than hours
+in situations where web functions are for example out an online form it will be for people with disabilities such as blindness low vision dexterity impairments and cognitive limitations to perform the required functions before time limit occurs
+this may render the service inaccessible to them
+for individuals who are deaf and communicate in sign language having control over time limits is important when using interpreter
+providing additional time to pause content can be helpful for those with reading and cognitive disabilities to better comprehend information
+developer action developers must ensure that people with disabilities such as blindness low vision dexterity impairments and cognitive limitations are given adequate time to perform the functions that are time dependent whenever possible
+the user must be allowed to turn off the time limit adjust the default setting before encountering it or is warned before time expires and given the option to extend the time limit with simple action for example press the spacebar
+reference wcag statement for moving blinking scrolling or information all of the following are true moving blinking scrolling for any moving blinking or scrolling information that starts automatically lasts more than seconds and is presented in parallel with other content there is mechanism for the user to pause stop or hide it unless the movement blinking or scrolling is part of an activity where it is essential and for any information that starts automatically and is presented in parallel with other content there is mechanism for the user to pause stop or hide it or to control the frequency of the update unless the is part of an activity where it is essential
+avoiding content that can prevent triggering seizures in people with photosensitive epilepsy
+developer action allow the content to be paused and restarted from where it was paused or use script to scroll content and provide mechanism to pauseit or create content that blinks for less than seconds reference wcag statement web pages do not contain anything that more than three times in any one second period or the is below the general and red thresholds
+certain special effects such as blinking or have been reported to cause epileptic seizures
+it is also seen that people are more sensitive to red than other colours
+web pages must not contain anything that more than three times in any one second period
+it must also be checked that the status at the end of the second period is the same as at the start developer action ensure that no component of the content more than three times in any period or keep the area small enough reference reference wcag evaluator action the evaluator will test it manually and by using web accessibility tool to check the statement mechanism is available to bypass blocks of content that are repeated on multiple web pages
+web pages and applications often have content that is repeated on other pages or screens for example navigation links heading graphics banner frames etc
+sighted user can ignore the repeated material by focusing on the main content area but it is not possible for person using screen reader as the content is read sequentially
+developer action developers must provide mechanism to bypass blocks of content that are repeated on multiple web pages
+this may be done by providing link at the top of each page that goes directly to the main content area
+providing link at the beginning of the content block to go to the end of the block providing links at the top of each page that go to each area of content
+controls and programmatic focus can also be used to bypass blocks of content
+reference wcag statement web screens have titles that describe topic or purpose
+this facilitates an easy and unambiguous of the webpage also helps in more relevant and visible presence in the search engine results
+further it is important since the screen readers used by the visually impaired users read the title of the page and in case the title is not explanatory enough it may confuse or mislead them
+government organisation action the government organisation must ensure that title is complete with the topic of the page
+for the page the name of the country must be included for instance instead of the title being just ministry of health and family welfare it should state ministry of health family welfare government of india
+alternatively in case of state department of health government of karnataka india government department it should state department of health government of karnataka india
+developer action there are scenarios when the web page has title but the title does not identify the contents or purpose of the web page
+this may be caused authoring tool default page titles such as enter the title of the html document here untitled document or no title empty text in title filler or placeholder text and website generated using templates includes the same title for each page
+the developer should ensure that the above does not affect the page title
+reference wcag statement if web page can be navigated sequentially and the navigation sequences affect meaning or operation focusable components receive focus in an order that preserves meaning and operability
+when users navigate sequentially through content they should encounter information in an order that is consistent with the meaning of the content and can be operated from the keyboard
+hence if web page can be navigated sequentially and the navigation sequences affect meaning or operation focusable components must receive focus in an order that preserves meaning and government organisation action ensure correct reading order in pdf documents by structuring the document correctly in the authoring tool used to create the document before conversion to tagged pdf
+pages with complex layouts with graphics tables footnotes sidebars form and other elements may not convert to tagged pdf in the correct reading order
+these inconsistencies must then be corrected with repair tools such as acrobat
+developer action ensure that interactive elements on webpage receive focus in an order that follows sequences and relationships in the content
+when designing the content the interactive elements such as links and form controls must be placed in the content so that the default tab order follows the sequences and relationships in the content
+correct tab and reading order must also be ensured in pdf documents by using tool for authoring pdf
+reference wcag statement the purpose of each link can be determined from the link text alone or from the link text together with its programmatically determined link context except where the of the link would be ambiguous to users in general
+this helps users understand the purpose of each link so they can decide whether they want to follow the link
+assistive technology has the ability to provide users with list of links that are on the web page
+link text that is as meaningful as possible will aid users who want to choose from this list of links
+meaningful link text also helps those who wish to tab from link to link
+meaningful links help users choose which links to follow without requiring complicated strategies to understand the page
+developer action developer must ensure that the text of or associated with the link describes the purpose of the link
+in cases where the link takes one to document or web application the name of the document or web application would be to describe the purpose of the link however it is not mandatory to use the name of the document or web application other things may also describe the purpose of the link
+reference wcag statement more than one way is available to locate web page within set of web pages except where the web page is the result of or step in process
+providing multiple navigation options can help people information faster particularly those with visual or cognitive impairments
+for instance person with visual impairment may prefer using search feature instead of scrolling through large navigation bar with screen reader
+similarly person with cognitive limitations may site map or table of contents more useful than hierarchical navigation scheme
+developer action developers must include either search box or link to search page from every page of the website
+the search box or link must be titled search as it is standard term understood by web surfers worldwide
+as per internationally accepted usability principles search boxes are most effective when placed in the same position on all pages usually within the upper third part of the webpage
+additionally sitemap or link to all the pages of the website from the or table of contents must be provided reference wcag statement headings and labels describe topic or purpose
+it is imperative that the information and services on the are well organised and categorised into relevant and so that any information can be located conveniently and is not buried deep inside webpages
+these sections or categories may be with headings or labels
+headings and labels wherever used must correctly describe the topic or purpose of content
+developer action developers must specify headings using html heading tags h1 to h6 with proper hierarchy
+when headings are clear and descriptive users can the information they seek more easily and they can understand the relationships between different parts of the content more easily
+developers must also provide descriptive labels to help users identify components within the content
+labels and headings do not need to be lengthy
+single word may if it provides an appropriate cue to and navigating content
+reference wcag statement any keyboard operable user interface has mode of operation where the keyboard focus indicator is visible
+this helps the user know which element among the multiple elements present in the page has focus
+for in case of button visual change in the button colour size can indicate that the focus is on the button
+developer action when standard controls are used the users are informed of the focus location in standard predictable way
+visual appearance may also be enhanced via style sheets to provide visual feedback when an interactive element has focus or when user hovers over it using pointing device
+reference wcag statement all functionality that uses multipoint or gestures for operation can be operated with single pointer without gesture unless multipoint or gesture is essential
+this is particularly for those with cognitive or learning disabilities who may not understand custom gesture interactions
+the of providing alternative means for operating touchscreen or content particularly for users who may have physical cognitive or learning disabilities that these users can still effectively interact with the content
+this can help to ensure that digital experiences are more inclusive and accessible for all users
+developer action developer must provide controls to achieve the same result as path based or multipoint gestures reference wcag evaluator action the evaluator will test it manually to check the conformity of this checkpoint
+statement for functionality that can be operated using single pointer at least one of the following is true no the of the pointer is not used to execute any part of the abort or undo completion of the function is on the and mechanism is available to abort the function before completion or to undo the function after completion up reversal the reverses any outcome of the preceding essential completing the function on the is essential
+this will help users to prevent accidental or erroneous pointer input by allowing them to cancel pointer operations
+the preferred method for cancellation is the which occurs when touchscreen or mouse pointer is released
+this will all users by reducing the chance of accidental activation and ensuring means of undoing or aborting an action is available
+developer action incorporate pointer cancellation by making activation occur on the
+this can be done by using the default behaviour of controls and not override that behaviour with an explicit trigger
+the is the default behaviour for almost all controls and any programming or markup language
+also for drag and drop events it must be ensured that users who use action to move an item from the initial location to drop target can abort the action after picking up the target
+this can be done either by releasing the item outside drop area or by moving the item back to its original position in separate action that undoes the action website shows directory
+files can be picked up and moved over trash can icon
+when the is released outside this target it reverts to the old reference wcag evaluator action the evaluator will test the website manually to check the conformity of javascript statement for user interface components with labels that include text or images of text the name contains the text that is presented visually
+this will allow users with disabilities to interact with the components using speech recognition or technologies more easily and with greater predictability
+it is important to determine which text on the screen should be considered label for any given control and to bias towards treating only the adjacent text as label
+the of implementing this success criterion include more navigation for users and better experience for users
+developer action ensure that the words and characters in the visible label of control match or are contained within the programmatic name also known as the accessible name
+reference wcag statement functionality that can be operated by device motion or user motion can also be operated by user interface components and responding to the motion can be disabled to prevent accidental actuation except when supported interface the motion is used to operate functionality through an accessibility supported interface essential the motion is essential for the function and doing so would invalidate the activity functionality that can be operated by device motion or user motion must also be operable by user interface components and responding to the motion can be disabled to prevent accidental ctuation except when supported interface the motion is used to operate functionality through an accessibility ii essential the motion is essential for the function and doing so would invalidate the activity
+this will help users with disabilities who may not be able to use device sensors or perform certain movements as well as users who are unable to move their devices
+by providing alternative methods of operating all functionality this success criterion ensures that everyone can access and developer action in devices that have sensors that can act as inputs such as accelerometer and gyroscope sensors on phone or tablet device and allow the user to control something by simply changing the orientation or moving the device in particular ways the functionality offered through motion must also be available by another mechanism
+the user must also have the ability to turn off motion actuation to prevent accidental triggering of functions due to tremors or other motor reference wcag statement the default human language of each web page can be this ensures that users with disabilities who rely on assistive technologies to access the content can understand it better
+it people who have reading written material or recognizing characters and alphabets those with certain cognitive or learning disabilities who use software and those who rely on captions for synchronised media
+developer action default language of the page must be indicated programmatically by the use of the lang attribute
+in pdf document default language can be set using the lang entry in the document catalogue
+specifying the default language in the http header in relevant situations can be reference wcag manually to check the conformity of this checkpoint
+statement the human language of each passage or phrase in the content can be programmatically determined except for proper names technical terms words of indeterminate language and words or phrases that have become part of the vernacular of the immediately surrounding text
+this will help people who have reading recognizing characters and alphabets decoding words and understanding phrases as well as people with certain cognitive language and learning disabilities who use software
+developer action if there are any changes in the default language of the document either in the document text or any text equivalents captions they also be clearly using the lang attribute
+the language for passage or phrase can be with the lang entry in pdf reference wcag accessibility accessibility assistive technology to check the statement when any user interface component receives focus it does not initiate change of context
+this aims to prevent unexpected context changes that can be especially problematic for people with visual disabilities cognitive limitations and motor impairments
+by ensuring that focus changes are predictable and consistent this improves the usability and accessibility of web developer action ensure that all changes of context are triggered only by action on the part of the user
+further that action is the one that usually causes changes in context such as clicking on link or pressing submit button
+actions that simply move the focus to an element must not cause change of context
+reference wcag statement changing the setting of any user interface component does not automatically cause change of context unless the user has been advised of the behaviour before using the component
+it helps users with visual and cognitive disabilities by providing additional cues to detect changes of context reducing the chances of disorientation and enhancing their ability to use the content
+users who are unable to detect changes of context are less likely to become disoriented while navigating site making the content more accessible to wider range of users
+developer action provide submit button to initiate change of context or if change in context occurs provide information to users about what will happen when change to form control results in change of context reference wcag statement navigational mechanisms that are repeated on multiple web pages within set of web pages occur in the same relative order each time they are repeated unless change is initiated by the user
+this is particularly helpful for individuals with low vision who use screen or visual cues to navigate the website
+ensuring that repeated components occur in the same order on each page of website helps users with cognitive limitations intellectual disabilities and those who are blind to become comfortable with the website structure and easily what they are looking developer action ensure presenting components that are repeated in web pages in the same relative order each time they appear
+other components can be inserted between them but their relative order is not changed
+similarly in navigational components links or programmatic references must be presented inside navigational component in the same relative order each time the navigational component is repeated
+other links can be removed or inserted between the existing ones for example to allow navigation inside subsection of set of web pages but the relative order is not changed
+reference wcag statement components that have the same functionality within set of web pages are consistently
+this will help people who use screen readers to navigate and operate website more easily as they rely on their familiarity with functions that may appear on different pages
+it also people with cognitive limitations and those who have reading or detecting text alternatives
+consistent labelling and text alternatives enable people to desired functions on other pages if they are present interact with content in consistent way and have more predictable and consistent experience while navigating website
+developer action apply consistent labels on user interface components elements links javascript objects etc
+that have the same function web page has form at the top of the page labelled search
+on the bottom of the page is another form which provides the same function
+it is also labelled search
+reference wcag statement if an input error is automatically detected the item that is in error is and the error is described to the user in text
+this helps users including those who are blind or have cognitive or learning disabilities to understand that an error has occurred and how to correct it
+by providing error messages users who can not perceive visual cues such as colour or icons are also able to understand the error message
+this improves the accessibility of web forms and makes them more usable for wider range of users
+developer action error must be to the user in text
+it is perfectly acceptable to indicate the error in other ways such as image colour etc in addition to the text description
+reference wcag statement labels or instructions are provided when content requires user input
+this user especially those with disabilities by providing clear and unambiguous instructions that help them enter information correctly and avoid incomplete or incorrect form submissions
+the goal is to provide enough information for users to accomplish tasks without undue confusion or navigation without cluttering the page with unnecessary information
+developer action developers must present instructions or labels that identify the controls in form so that users know what input data is expected
+in the case of radio buttons checkboxes combo boxes or similar controls that provide users with options each option must have an appropriate label
+instructions or labels may also specify data formats for data entry especially if they are out of the customary formats or if there are rules for correct input
+developers may also make such instructions available to users only when the individual control has focus especially when instructions are long and verbose
+reference wcag accessibility accessibility tool to check the conformity of this checkpoint
+statement if an input error is automatically detected and suggestions for correction are known then the suggestions are provided to the user unless it would jeopardise the security or purpose of the content
+this will help users with disabilities to understand how to correct errors and in forms successfully
+providing information about how to correct input errors can users with learning disabilities visual impairments and motion impairments by making it easier for them to understand the nature of the error and how to correct it and reducing the number of times they need to change an input value
+this improves the overall accessibility and usability of it or application for wider range of users
+developer action provide text descriptions to identify required that were not completed while submitting form or provide the correct format if the values entered in have an incorrect format
+reference wcag statement for webpages that cause legal commitments or transactions for the user to occur that modify or delete data in data storage systems or that submit user test responses at least one of the following is true submissions are reversible data entered by the user is checked for input errors and the user is provided with an opportunity to correct them and mechanism is available for reviewing and correcting information before the submission
+this users with disabilities who may be more likely to make mistakes due to reading or motor impairments and helps prevent costly errors that could result in loss or data loss
+by providing safeguards to avoid serious consequences this success criterion improves the accessibility and usability of it or application for all users not just those with disabilities
+developer action provide safeguards as above to avoid serious consequences resulting from mistakes helps users with all disabilities who may be more likely to make mistakes
+reference wcag statement in content implemented using markup languages elements have complete start and end tags elements are nested according to their elements do not contain duplicate attributes and any ids are unique except where the allow these features
+this will help prevent different user agents from rendering the content differently or being unable to parse it which can lead to accessibility issues for users with disabilities
+by requiring that web content be correctly structured with complete start and end tags and proper nesting this helps ensure that assistive technologies can parse the content accurately and without crashing which improves the accessibility and usability of the website or application for all users
+developer action developers must validate the markup to ensure that it is as per the standards reference wcag statement for all user interface components including but not limited to form elements links and components generated by scripts the name and role can be programmatically determined states properties and values that can be set by the user can be programmatically set and of changes to these items is available to user agents including assistive this ensures that user interface controls in web content can be accurately interpreted and controlled by assistive technologies
+by providing role state and value information for all user interface components people with disabilities who use assistive technology such as screen readers or speech recognition software can more easily access and navigate web content
+this can improve their overall user experience and help them more fully participate in online activities
+developer action developers who develop or script their own user interface components must provide role state and value information on all such components reference wcag manually and by using the accessibility extension to accessibility accessibility assistive technology to check the conformity of this status messages can be programmatically determined through role or properties such that they can be presented to the user by assistive technologies without receiving focus
+it blind and low vision users of assistive technologies by enabling compatibility with screen readers and may also users with cognitive disabilities
+properly assigning roles or properties to status messages allows for possible future uses and personalization opportunities while also providing additional information to users without affecting their current point of regard
+additionally assistive technologies may choose to delay suppress or transform such messages based on the user preferences
+developer action the status message provides information to the user on the success or results of an action on the waiting state of an application on the progress of process or on the existence of errors the message is not delivered via change in context
+reference wcag protecting web resources from unauthorised use access changes destruction or disruption is generally termed as website security or secured website
+web resources unavailable due attacks or display information on the webpages
+millions of passwords email addresses and credit card details have been leaked into the public domain exposing web users to both personal embarrassment and risks
+the purpose of website security is to prevent such risks
+website security requires vigilance in all aspects starting from design coding and implementation to testing and deployment
+organisations should implement appropriate security majors defences and countermeasures to protect web resources against malfunctioning phishing or cyberattacks to avoid data loss of the organisations or users
+the government organisation will ensure and monitor that the host service provider and the developer adhere to the industry best security practices and guidelines such as iso owasp asvs owasp top vulnerabilities and cis benchmarks as per the prevailing security policy
+following guidelines are to secure web resources associated infrastructure statement website web application web portal or mobile app have been security audited and an audit clearance has been issued by stqc empanelled empanelled laboratory before hosting in production environment
+the goal of securing website web application web portal or mobile app is to maintain the integrity and availability of information and services
+this goal is accomplished through the implementation of best security practices in design development and deployment
+attacks could cause both personal embarrassment and risks
+government organisation action it should be ensured that the website web application web portal or mobile app don have any security risks as by the latest owasp top vulnerability list
+the design and development agency or the developers should follow industry best practices such as owasp asvs and owasp mavs
+developer action securing critical web resources is more important than ever as the focus of attackers has steadily moved towards the application layer and they are exploiting the weaknesses in the code
+securing code ensure that all websites web applications web portals or mobile apps and their respective cms party plugins codes etc
+are updated to the latest vers ions
+note every day there are countless compromised due to outdated software
+potential hackers and bots are scanning to attack
+updates are vital to the health and security of the
+if the website software or applications are not the is not secure
+take all software and plugin update requests seriously
+updates often contain security enhancements and vulnerability repairs
+check the for updates or add an update plugin
+some platforms allow automatic updates which is another option to ensure security
+longer the wait to update lesser the secure
+keeping the and its components should be on top priority
+all passwords connection strings tokens keys etc
+should be encrypted with salted hash
+there should not be any plain passwords stored in or source code or in database
+all exceptions should be handled appropriately
+custom error pages should be displayed for any
+at no point of time portion of source code should be displayed on the page in case of an error or exception
+http response headers should be obscured
+cookies should be secure and http only
+captcha for login pages
+directory traversal should be disabled
+in case of any attempt by user to access portion of the code by typing the url path ex then the same should be redirected to custom error page
+all default user names and pages like admin etc
+should be renamed
+the access url for the admin should also be renamed
+the web server processes should not be running under administrator or root user account
+dedicated user account with limited privileges should be used for the web server processes
+note not every webmaster knows which web server they use
+use website scanner like site check to check the website for known malware viruses blacklisting status website errors and more
+the more one knows about the current state of website security it better as it gives time to the issues before any harm comes to it
+if the web or mobile app is integrated with any party applications or using any apis for external communication then ensure that all such communications are done through encrypted enforce strong password management policy secure password recovery mechanisms and authentication mfa for user login to website web application or web portal implement access control and minimal privilege policy for users as per need from the system
+establish the secure coding practices document based on leading practices such as owasp for code development
+below is an indicative checklist that can be considered for secure code input validation ii authentication password management iii session management iv access control cryptographic practices vi error handling logging vii data protection viii communication security ix system database security xi file management xii memory management implement logging functionality and periodically auditing the web logs for suspicious activity
+website web application or web portal caching to optimize resource availability
+sanitise user input at both the client end and the server end with both syntactical as well as semantic approach
+the technology to be implemented should be chosen after careful consideration
+various active content technologies are available java scripts etc
+each has its own strengths and weaknesses along with an associated risk
+disable the root user access to run the code on hosts
+use explicit path names when invoking external programs and not rely on the path environment value
+securing databases database being the core of any application organisation and is used to store large amounts of highly sensitive and personal information
+therefore appropriate technical controls should be in place to safeguard the databases and information stored in them
+the following are the guidelines for securing databases implement strong encryption and key management mechanism for the information both at rest and transit
+implement strong hashing and salting algorithms to store passwords in the database
+use secure credentials for database access
+remove or change all default database administrative passwords
+utilise strong or implement authentication
+disable unnecessary accounts such as orphaned accounts unused accounts generic and service accounts
+enable access to the database only from the web server on whitelisted port and it should not be assigned publicly accessible ip
+tls should be enabled in databases for secure communications between web servers and create admin restrictions such as by controlling privileged access on what users can do in the application should use the lowest possible level of privilege when accessing the database
+turn on node checking to verify applications and users
+turn off all unnecessary database functionality unnecessary stored procedures or services utility packages install only the minimum set of features and options required surface area reduction enforce strict access control policy and introduce access control rbac enable audit trail logs on the database servers
+ensure appropriate logging and monitoring of database logs
+consider grained level auditing based on the sensitivity of data
+implement backup solution to store data and system from the website web application or web portal that should be backed up periodically
+note one of the best methods to keep safe is to have good backup solution and the user should have more than one data backup
+each of these two backups is crucial to recovering website after major security incident occurs
+there are several different solutions one can use to help recover damaged or lost
+keep the website information
+do not store the backups on the same server as of the website they are as vulnerable to attacks too
+choose to keep the website backup on home computer or hard drive
+find an place to store the data and to protect it from hardware failures hacks and viruses
+another option is to back up the website in the cloud
+it makes storing data easy and allows access to information from anywhere
+besides choosing where to back up the website one must consider automating them
+use solution where one can schedule the backups
+it has to be ensured that the solution has reliable recovery system
+be redundant in the backup process backup the backups
+by doing this one can recover from any point before the hack or virus occurs
+keep the backup media in safe custody and access to it should be restricted and logged
+conduct periodic auditing of web application at least once in year or as and when any changes are done in the source code whichever is earlier
+report any web security incidents observed to immediately at incident response helpdesk toll free phone evaluator action the evaluator shall check that the web web mobile app under evaluation has valid security audit issued by empanelled empanelled laboratory requirements
+the goal of securing hosting environment is to maintain the integrity and availability of information resources leading to successful operations
+this goal is accomplished through the implementation of security controls
+hosting service providers should follow industry best practices for securing the hosting environment
+secure hosting as well as doing regular backups save the time and money put into the site
+government organisation action think of website domain name as street address
+now think of the web host as the plot of real estate where the website exists online
+as one would research plot of land to build house it needs to examine potential web hosts to the right one
+many hosts provide server security features that better protect website and its data
+there are certain mandatory aspects to check for when choosing hosting service provider ensure the hosting of the web infrastructure within geographical boundaries of india
+the government organisation to ensure the hsp is providing data centre business continuity plan and disaster recovery environments with secure infrastructure in high availability ha mode for hosting the websites web applications web portals or mobile apps and their respective cms
+conduct periodic drills of disaster recovery environment at least once in year
+hsp to ensure that the servers are protected against environmental physical and cyber threats
+ensure the hsp has implemented all security controls of the data centre including physical security and appropriate access control mechanisms
+servers network devices used to host the website should be hardened with latest security patches and periodic vulnerability assessment va and penetration testing pt followed by corrective actions should be performed as per the security policy
+ensure the hsp of the hosting environment has deployed and web application firewall waf which is hardened with latest security patches and is available for use by the government organisation on demand
+note it sits between the website server and the data connection
+the purpose is to read every bit of data that passes through it to protect the site
+most wafs are and are service
+the cloud service is gateway to all incoming that blocks all hacking attempts
+it also out other types of unwanted like spammers and malicious bots
+statement hosting environment has been secured for ensuring integrity and availability cia
+enable and maintain logs of the ict infrastructure for rolling period of days as per regularly monitor and conduct review of alerts and logs hsp should also ensure web host offer secure file transfer protocol sftp ftp use by unknown users is disabled and it uses rootkit scanner
+hsp should ensure to secure the containerized environments if applicable
+note containerized workloads are much more complex than traditional workloads
+production environments deploy massive amounts of containers
+security experts and administrators need to secure more components in containerized environment than they would in traditional deployments
+container security involves the implementation and maintenance of security controls that protect containers and the underlying infrastructure
+integrating security into the development pipeline can help ensure that all components are secured from the initial development phase and until the end of their lifecycle
+best practices should be used to protect the containerized environments each library and tool pulled into the image poses potential threat
+to mitigate these threats one need to include the application within the container image
+this should be statically compiled binary that contains all required dependencies
+remove all components the application does not need
+for example remove the sed and awk binaries which are present by default on any unix system
+this can help reduce the attack if the image is not created from scratch only trustworthy images should be taken
+public image repositories such as docker hub can be used by anyone and may contain malware or if there is private registry the system administrator has to establish access controls that exactly who can access and publish images and who can not perform such actions
+signatures help track images to the people who signed them
+this makes it to substitute the signed image for compromised one
+the docker content trust mechanism provides information about signing images
+notary an tool can help sign and verify images
+vulnerability scanners are designed to identify known vulnerabilities
+these tools can help critical vulnerabilities and detect critical threats
+scanners can be used on continuous basis to ensure that the registries do not contain critical vulnerabilities
+secure the target environment by hardening the underlying host operating system
+it can also be established that the and vpc rules or create special accounts that limit access
+use an orchestration platform these systems usually provide secure api endpoints as well as access control rbac which can help minimise the risk of unauthorised access
+use immutable deployments this involves creating an instance image during the build steps
+the deployment can then use this image to create new instances
+to update the application new images should be created spin up new instances and then destroy the old ones
+create separate virtual networks for the containers this introduces level of isolation that can reduce the attack surface
+apply the principle of least privilege allow connectivity only between containers that truly need it
+expose only the ports that serve the application do not expose any other ports except for ssh
+apply this principle to containers as well as the underlying machines
+use tls to secure communication between services this process encrypts and ensures only authorised endpoints are allowed
+use the docker image policy plugin this plugin is designed to prevent any process from pulling images that were not previously
+enable tls everywhere enable tls for all supported components to defend against and authenticate identities at both ends of each connection
+use service mesh architecture service meshes are networks of persistent encrypted connections between sidecar proxies
+they provide monitoring management and policy enforcement without affecting microservices
+use opa open policy agent opa enforces custom policies on kubernetes object without or recompiling the kubernetes api server
+apply network policies the default kubernetes networking permits all between pods but can be restricted with network policy
+implement private networks deploy each kubernetes worker and master node on private subnet to secure the connections to corporate networks make nodes unreachable from the public internet and minimise overall attack surface
+keep the etcd cluster separate use to protect the etcd cluster which stores state and secret information and requires special protection compared to other kubernetes ensure the regular rotation of encryption keys regularly rotating encryption keys and helps minimise the blast radius of an attack that compromises keys
+use static analysis for yaml statically analyse where pod security policies deny access to api servers
+this should be part of the development because it helps identify the organisation risk tolerance and conformity requirements
+manage secrets integrate clusters using secret management system to ensure application pods automatically receive all secrets and passwords needed at runtime based on the app roles associated with each pod
+check the code scan the code and use static analysis to ensure automation security
+source code must be scanned for all application code in kubernetes to identify vulnerabilities and use rbac policies based on the principle of least privilege access control rbac helps manage access policies at granular level to protect resources
+centralised authentication and authorization system like single throughout the organisation makes onboarding and offboarding easier
+developer action following activities are to be ensured by the developer which in this case would mean its system administrator devops restrict the admin access and implement the principle of least privilege and disable unnecessary accounts and privileges disable all unnecessary ports opened on the web server deny all access by default remove default temporary or guest accounts from the web server and change the default login credentials and implement strong password enforcement with password expiration policy on the web server
+note with there being so many databases and programs needing passwords it is hard to keep track
+lot of people end up using the same password in all places to remember their login information
+but this is security mistake
+create unique password for every new login request
+come up with complicated random and to guess passwords
+then store them outside the website directory
+for example combination of letters and numbers may be used as password
+the password may be stored in an smartphone or different computer
+when cms prompts the user to log in the user must choose smart password
+the user should refrain from using personal information in the password
+the user should not use birthday or pet name and it should not be guessable
+after every three months or sooner the password may be changed
+smart passwords are long and should be at least characters
+besides numbers and letters password should also include symbols
+the uppercase and lowercase letters may be alternated
+the same password should not be repeated and nor should it be shared with others
+the system administrators should ensure that organisation employees change their passwords frequently
+whitelist the application in use and disable the unused features or modules
+use of secure ftp sftp to transfer over an encrypted channel
+disable hypertext transfer protocol http and enforce hypertext transfer protocol secure https http strict transport security hsts
+to keep website safe it needs secure url
+if user uses their private information to access site it should use https not http to deliver it
+note https hypertext transfer protocol secure is protocol used to provide security over the internet
+https prevents interceptions and interruptions from occurring while the content is in transit
+to create secure online connection website also needs an ssl
+if the website asks visitors to register or make transaction of any kind the connection must be encrypted
+ssl secure sockets layer is another necessary website protocol
+this transfers visitor personal information between the website and the database
+ssl encrypts information to prevent it from others reading it while in transit
+it denies those without proper authority the ability to access the data as well
+globalsign is an example of an ssl that works with most websites
+mandatorily use valid ssl on all websites
+the ssl should use at least sha encryption or higher
+ensure that the ssl is valid and keep track of the expiry date and take necessary action to the before expiry
+the http service banner so that web server and operating system type version will not be disclosed
+the of the web server must be protected by the web server process
+one can them in the root web directory
+web server permit to administer server rules
+this includes directives to improve website security
+there are different types used with every server following may be referred for their usage apache web servers use the nginx servers use and microsoft iis servers use
+open software should be used with due diligence
+remove or disable all drivers services and software
+remove or replace obsolete software libraries
+remove or replace outdated security level protocols
+limit unauthorised or unauthenticated or administrative privileged user access to the system
+note initially one may feel comfortable giving several employees access to website
+administrative privileges are given thinking those would be used carefully
+although this is the ideal situation it is not always the case
+unfortunately employees do not think about website security when logging into the servers or the cms
+instead their thoughts are on the task at hand
+if they make mistake or overlook an issue this can result in security issue
+it is vital to access employees before giving website access
+find out if they have experience using the cms and if they know what to look for to avoid security breach
+educate every cms user about the importance of passwords and software updates
+tell them all the ways they can help maintain the website safety
+to keep track of who has access to cms and their administrative settings make record and update it often
+employees come and go
+one of the best ways to prevent security issues is to have physical record of who does what with the website
+be sensible when it comes to user access
+implement encryption for the transmission of all sensitive information
+this should include tls for protecting the connection
+disable weak cyphers sslv2 sslv3 rc4 tls
+periodically review logs for suspicious activity like authentication user access activity changes and privilege elevation usage
+implementation of network segmentation and segregation to limit the impact of network there should be no active concurrent sessions of the web server
+ensure servers frameworks and system components are running the latest approved version and have all patches issued for the version in use
+isolate development environments from the production network and provide access only to authorised development and test groups
+implement software change control system to manage and record changes to the code both in development and production
+establish practice of hardening web servers and conduct the periodic secure review of the same
+the most common attacks against websites are entirely automated
+what many attack bots rely on is for users to have their cms settings on default
+after choosing cms change default settings immediately
+changes help prevent large number of attacks from occurring
+cms settings can include adjusting control comments user visibility and permissions default setting change using permissions can be changed to specify who can do what to
+each has three permissions and number that represents every permission read view the contents
+ii write change the contents
+iii execute run the program or script
+iv to clarify to allow multiple permissions add the numbers together to allow read and write set the user permission to
+along with the default permission settings there are three user types owner often the creator of the but ownership can be changed
+only one user can be the owner at time
+ii group each is assigned to group
+users who are part of that group will gain access to the permissions of the group
+iii public everyone else
+customise users and their permission settings
+do not keep the default settings as is otherwise it shall run into website security issues at some point
+evaluator action the evaluator shall check to ensure that the government organisation actions are being complied
+statement website has the security policy privacy policy and the contingency management plan clearly policies and plans approved by the government organisation
+having clearly policies helps ensure management of the and its content throughout the life cycle of the website
+government organisation action clearly and approve the related policies life cycle
+developer action policies like copyright policy privacy policy and terms and conditions must be published on the website
+evaluator action the evaluator will compare during the backend audit the policies given in wqm and those available at the for consistency
+check the implementation of these policies by examining the documented records generated by the implementation
+statement the government organisation has nominated web information manager wim as in the guidelines
+wim can ensure proper of content to the and ensure that content quality and user satisfaction issues are taken care of
+wim will achieve this by coordinating with the various groups within the government organisation and undertaking multiple activities with regard to the indian government website being maintained by
+for instance formulating policies for content management to update authentic content and manage it through the entire life cycle creation moderation approval publishing and archival getting the website for guidelines conformity and ensuring conformity throughout its lifecycle
+government organisation action the government organisation must appoint wim who must be senior not below the rank of joint secretary js
+developer action display complete contact details of the wim on the website so that visitors could contact in case of some queries or requirements
+evaluator action the evaluator will check the website for wim details and will compare the same with the wim details in website quality manual wqm
+further during the backend audit the evaluator will interview wim to assess her awareness and competence regarding the responsibilities statement it has been ensured that all stationery of the government organisations as well as messages issued by the concerned organisation prominently display the url of the website
+by mentioning the url prominently on all stationery and publicity material of the government organisation the website can be promoted to attract visitors who may from the information and services being delivered by the government organisation
+government organisation action the government organisations must ensure publishing of government website url prominently on all stationery and publicity materials such as letterheads visiting cards publicity material such as brochures pamphlets and documents such as the annual report etc advertisements press releases tender etc
+issued in the media
+also ensure publishing regular and updated news related to the government and in the interest of the citizens to attract citizens
+developer action promote government by linking with other government as well as international websites
+provision may be provided on the to send regular updates on the through an electronic newsletter to registered and interested users
+evaluator action the evaluator will check during the backend audit by examining the stationery letterhead tender document email signature visiting cards publicity material such as brochures pamphlets and documents such as the annual report etc advertisements press releases tender etc
+conformity with this
+statement website has the following clearly policies and copyright policy content contribution moderation approval cmap policy content archival cap policy content review crp policy hyper linking policy terms conditions website monitoring plan having clearly policies helps ensure management of the website and its content throughout the life cycle of the website
+government organisation action clearly and approve the website related policies listed above
+wim must ensure their implementation throughout the website life cycle compare during the backend audit the policies given in wqm and those available at the website for consistency and statement the mechanism is in place to check the accuracy of hyperlinked content and clear indications are given when link leads out to website
+hyperlinking content across different can occasionally cause ambiguity in the mind of the visitors about the owner of particular portion of content and whom to be contacted in case of any query
+therefore it helps to verify content accuracy before linking to an external website and thereafter clearly indicating when visitor is being led to an external website
+government organisation action the hyperlinking policy duly approved by the wim
+check the accuracy of the linked content regularly
+developer action ensure alert mechanism to notify the visitor when clicking any link will lead to an external website evaluator action the evaluator will check that the policy in wqm is consistent with that available on the website and the mechanism is completely and correctly in wqm and the same has been implemented by examining the documented records generated by the implementation
+statement it is ensured through content moderation and approval policy that website content is free from discriminatory language
+content that is free from language helps in promoting inclusivity and enhances the user experience attracting visitors to frequent the for information and services they gain from
+government organisation action any information in text visual or any other media which may the national sentiments as well as security and integrity of the country must be avoided on the website
+the government organisations must designate the who will implement the content moderation and approval policy content creator moderator approver as required
+developer action ensure cms has an for content moderation and approval
+the policy in wqm provides commitment to ensure that the website content is free from discriminatory language
+developer action has been implemented
+randomly picked contents the policy
+statement in multiple languages are updated simultaneously
+helps avoid inconsistencies at any point between the various language versions thus offering visitors the same content in multiple languages
+government organisation action translate all content simultaneously
+developer action ensure mechanism for publishing content in multiple languages and to display the status of content
+evaluator action the evaluator shall check the website contents manually to see conformity with statement mechanism is in place to ensure that there are no broken links internal as well as external or page not found errors
+presence of broken links and page not found errors will frustrate the visitors and reduce the trust level of citizens government organisation action the hyperlinking policy duly approved by the web information manager developer action ensure that broken links or those leading to page not found errors are checked on regular basis and are or removed from the website immediately upon discovery
+use appropriate technology tools available for convenient discovery of broken links
+evaluator action the evaluator shall check that the mechanism is completely and correctly in the wqm and verify the implementation by examining the documented records generated by the implementation of the mechanism
+further the evaluator shall also test the website using the tool to check broken links on the website
+statement there are no links to under construction pages
+visitors have better experience when they content versus experiencing under construction pages that convey negative impression
+government organisation action avoid any under construction pages as much as possible
+also the government organisation must provide date in case the content is event based republic day speech of president developer action avoid publishing any pages with under construction work in progress evaluator action the evaluator shall manually test the website for this checkpoint
+statement documents are provided either in html or other accessible formats
+enhanced accessibility for all website visitors especially the visually challenged who should be able to use assistive technologies to read the accessible format documents
+government organisation action the government organisations must ensure that the accessible version of all scanned documents is made available developer action ensure uploading of documents in html or other accessible formats
+statement is bilingual with prominent language selection link and uses unicode characters
+india is country with diverse cultures and as many as languages
+this will enable wider use of by the rich indian demographics large part which is more comfortable in regional languages versus english
+government organisation action provide resources to translate all content
+if determine which content is widely accessed by visitors and translate those sections to regional language
+developer action ensure use of unicode character set for regional language content and thorough testing to ensure access by all and no loss of layout
+evaluator action the evaluator shall manually and through tool test the website for this annexure committee composition he national informatics centre has taken the initiative to develop guidelines for the national portal of india project
+these guidelines were created after extensive consultation with representatives from various indian government organisations at both the central and state levels as well as established guidelines from other countries and international bodies such as iso and w3c
+the current version of the guidelines has made several improvements
+it includes upgraded accessibility guidelines to ensure that websites and apps can be used by the widest possible audience
+new chapter on security has been added to help prevent cyber threats and protect user data
+furthermore the guidelines have been organised in manner stakeholders
+revised by alka mishra nic chairperson seema khanna nic sh
+upadhyaya stqc sh
+durga prasad misra nic sh
+pankaj sharma indian computer emergency response team shilpi kapoor chief executive barrierbreak nirmita narasimhan programme director saksham policy fellow lirneasia shri lokesh joshi nic member convener quality guidelines risks addressed association to government is demonstrated using in proper ratio and colour prominently displayed on the of the
+q8 ownership information is displayed on homescreen and on all important entry of the and each subsequent is standalone entity in terms of ownership navigation and context of content
+q8 source of all documents not owned by the dept
+q3 due permissions have been obtained for publishing any content protected by copyright
+q3 of website displays the last date
+q7 complete information including title size format and usage instructions is provided for all downloadable material
+q7 statement with respect to each circular notification document form scheme service and recruitment notice the following should be clearly listed on the website complete title language if other than english to apply as applicable validity if applicable q7 all outdated announcements tenders recruitment notices news and press releases are removed from the website placed into the archives as per the archival policy
+q7 matrix to check conformity all information about the government organisation useful for the citizen and other stakeholders is present in the about us section and mechanism is in place to keep the information up to date
+q6 q7 website has contact us page providing complete contact details of important functionaries in the government organisation and this is linked from the and all relevant places on the
+q6 q7 feedback is collected through online forms and mechanism is in place to ensure timely response to received through the website
+q10 website provides prominent link to the national portal from the homepage and subsequent pages belonging to the national portal load in the new browser window
+q7 the website has been tested on multiple browsers
+browsers for any inconsistency loss of layout
+q9 the website has readily available help section linked from all pages of the website
+q6 q7 website uses cascading style sheets css to control and incorporates responsive design features to ensure that the interface displays well on different screen sizes
+q9 website is readable even when style sheets are switched off or not loaded
+q9 proper page title and language attribute along with metadata for page like keywords and description are appropriately included
+q9 minimum content as prescribed in the guidelines is present on the and all subsequent
+q6 q7 ata tables have been provided with necessary
+q9 ontent of the web page prints correctly on an a4 size paper q9 pi integration with key government platforms india portal gilocker aadhaar mygov data platform yscheme and similar websites of the government organisation ust be enabled for seamless exchange of information and data
+q7 q8 q10 he government organisation must ensure consistent user perience and visual identities across all its
+q1 q4 q9 must provide integration with popular social edia
+q1 q3 q5 q7 ebsite is in the or domain
+educational institutions research and academic institutions which are eligible for gistration under may use or omains
+q8 he language is free from spelling and grammatical errors
+q7 q9 accessibility guidelines reference risks addressed all content that is presented to the user has text alternative that serves the ht equivalent purpose except for the situations listed below
+a1 ht tps for and media the following are true except when the audio or video is media alternative for text and is clearly an alternative for media is provided htt that presents equivalent information for content
+either an alternative for media or an audio track is provided that presents equivalent information for content
+a1 htt ps captions are provided for all audio content in synchronised media except when the media is media alternative for text and is clearly labelled as such
+htt ps tm1l a1 an alternative for media or audio description of the video content is provided for synchronised media except and is clearly labelled as such
+htt ps on ml a1 captions are provided for all live audio content in synchronised media
+ht tps a1 audio description is provided for all video content in synchronised media
+htt ps io desc a1 information structure and relationships conveyed through presentation can be programmatically determined or are available in text
+ht tps a6 a9 when the sequence in which content is presented affects its meaning correct reading sequence can be programmatically determined
+ttps a6 a9 instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape colour size visual location orientation or sound
+ttps a1 a2 a3 a4 content does not restrict its view and operation to single display orientation such as portrait or landscape unless specific display orientation is essential
+ttps wcag a4 a5 the purpose of each input field collecting information about the user can be programmatically determined when the input field serves purpose identified in the input purposes for user interface components section and the content is implemented using technologies with support for identifying the expected meaning for form input data
+ttps wcag a6 colour is not used as the only visual means of conveying information indicating an action prompting response or distinguishing visual element
+ttps a1 if any audio on web page plays automatically for more than seconds either mechanism is available to pause or stop the audio or mechanism is available to control audio volume independently from the overall system volume level
+ttps a4 a5 the visual presentation of text and images of text has contrast ratio of at least except for the following large text pt
+bold text and images of text have contrast ratio of at least
+incidental text or images of text that are part of an inactive user interface htt component that are pure decoration that are not visible to anyone or that are part of picture that contains significant other visual content have no contrast requirement
+logotypes text that is part of logo or brand name has no contrast requirement
+ps a1 except for captions and images of text text can be resized without assistive technology up to percent without loss of content or functionality
+ht tpsw a1 a4 if the technologies being used can achieve the visual presentation text is used to convey information rather than images of text except customizable the image of text can be ht visually customised to the user requirements
+essential particular presentation of text is essential to the information being conveyed
+tpsw n1de a1 content can be presented without loss of information or functionality and without requiring scrolling in two dimensions for vertical scrolling content at width equivalent to css pixels
+horizontal scrolling content at height equivalent to css pixels
+except for parts of the content which require layout for usage or meaning
+tpsw a6 htt ps ht tpsw n1de ht tpsw the visual presentation of the following has contrast ratio of at least against adjacent colour user interface components visual information required to identify user interface components and states except for inactive components or where the appearance of the htt component is determined by the user agent and not modified by the author
+graphical objects parts of graphics required to understand the content except when particular presentation of graphics is essential to the information being conveyed
+ps a6 in content implemented using markup languages that support the following text style properties no loss of content or functionality occurs by setting all of the following and by line height line spacing to at least times the font size
+spacing following paragraphs to at least times the font size
+letter spacing tracking to at least word spacing to at least times the font size
+exception human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script
+tps a6 htt ps ht tps where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden the following are true dismissible mechanism is available to dismiss the additional content without moving pointer hover or keyboard focus unless the additional content communicates an input error or does not obscure or replace other content
+if pointer hover can trigger http the additional content then the pointer can be moved over the additional content without the additional content disappearing
+persistent the additional content remains visible until the hover or focus trigger is removed the user dismisses it or its information is no longer valid
+wcag a4 a5 all functionality of the content is operable through keyboard interface without requiring specific timings for individual keystrokes except where the underlying function requires htt input that depends on the path of the movement and not just the endpoints
+ps h1tml if keyboard focus can be moved to component of the page using keyboard interface then focus can be moved away from that component using only keyboard interface and if it requires more than unmodified arrow or tab keys or other standard exit methods the user is advised of the method for moving focus away
+ps htt ps htt ps if keyboard shortcut is implemented in content using only letter including and letters punctuation number or symbol characters then at least one of the turn off mechanism is available to turn the shortcut off
+remap mechanism is available to remap the shortcut to include one or more keyboard keys ctrl alt
+active only on focus the keyboard shortcut for user interface component is only active when that component has focus
+ps a5 for each time limit that is set by the content at least one of the following is true turn off the user is allowed to turn off the time limit before encountering it or adjust the user is allowed to adjust the time limit before encountering it over wide range that is at least ten times the length of the default setting or extend the user is warned before time expires and given at least seconds to extend the time limit with simple action for htt example press the spacebar and the user is allowed to extend the time limit at least ten times or exception the time limit is required part of event for example an auction and no alternative to the time limit is possible or essential exception the time limit is essential and extending it would invalidate the hour exception the time limit is longer than hours
+ps a4 htt ps for moving blinking scrolling or moving blinking scrolling for any moving blinking or scrolling information that starts automatically lasts more than five seconds and is presented in parallel with other content there is mechanism for the user to pause stop or hide it unless the movement blinking or scrolling is part of an activity where it is essential and http for any information that starts automatically and is presented in parallel with other content there is mechanism for the user to pause stop or hide it or to control the frequency of the update unless the is part of an activity where it is essential
+a2 a4 web pages do not contain anything that flashes more than three times in any one https second period or the flash is below the general flash and red flash thresholds
+https a2 mechanism is available to bypass blocks of content that are repeated on multiple web http pages
+a6 web pages have titles that describe the topic or purpose
+htt ps a6 htt ps if web page can be navigated sequentially and the navigation sequences affect meaning or operation focusable components receive http focus in an order that preserves meaning and operability
+a6 the purpose of each link can be determined from the link text alone or from the link text together with its programmatically determined http link context except where the purpose of the link would be ambiguous to users in general
+a6 http http http more than one way is available to locate web page within set of web pages except where the web page is the result of or step in process
+psw ways a6 headings and labels describe topic or purpose
+ps bels a6 a9 any keyboard operable user interface has mode of operation where the keyboard focus http indicator is visible
+a4 all functionality that uses multipoint or gestures for operation can be operated with single pointer without htt gesture unless multipoint or gesture is essential
+a4 for functionality that can be operated using single pointer at least one of the following is true no the of the pointer is not used to execute any part of the function
+abort or undo completion of the function is on the and mechanism is available to abort the function before completion or to undo the function after completion
+up reversal the reverses any outcome of the preceding
+essential completing the function on the is essential
+a4 for user interface components with labels that include text or images of text the name htt contains the text that is presented visually
+ps a9 functionality that can be operated by device motion or user motion can also be operated by the motion can be disabled to prevent supported interface the motion is used to operate functionality through an accessibility supported interface
+function and doing so would invalidate the activity
+functionality that can be operated by device motion or user motion must also be operable by user interface components and responding to the motion can be disabled to prevent accidental actuation except when supported interface the motion is used essential the motion is essential for the activity
+ps a5 the default human language of each web page http can be programmatically determined
+http ht1ml a1 a6 a7 the human language of each passage or phrase in the content can be programmatically determined except for proper names technical terms words of indeterminate language and words or phrases that have become part of the vernacular of the immediately surrounding text
+ps a1 a6 a7 when any user interface component receives focus it does not initiate change of context
+htt ps a6 changing the setting of any user interface component does not automatically cause change of context unless the user has been htt advised of the behaviour before using the component
+psw htt ps htt psw navigational mechanisms that are repeated on multiple web pages within set of web pages occur in the same relative order each time they are repeated unless change is initiated by the user
+ttps a6 components that have the same functionality within set of web pages are identified ht consistently
+tps a6 if an input error is automatically detected the item that is in error is identified and the error is htt described to the user in text
+ps h1tml a6 labels or instructions are provided when http content requires user input
+a9 if an input error is automatically detected and suggestions for correction are known then the suggestions are provided to the user unless it http would jeopardise the security or purpose of the content
+a4 a6 for web pages that cause legal commitments or financial transactions for the user to occur that modify or delete data in data storage systems or that submit user test responses at least one of the following is true reversible submissions are reversible
+checked data entered by the user is checked for input errors and the user is provided an opportunity to correct them
+confirmed mechanism is available for reviewing confirming and correcting information before finalising the submission
+ps wcag in content implemented using mar languages elements have complete start end tags elements are nested according their specifications elements do not cont duplicate attributes and any ids are uniq except where the specifications allow th features
+kup ain ue ese for all user interface components includ but not limited to form elements links components generated by scripts the na and role can be programmatically determin states properties and values that can be by the user can be programmatically set notification of changes to these items available to user agents including assist technologies
+ing me ed set ive in content implemented using mar languages status messages can programmatically determined through role properties such that they can be presented the user by assistive technologies with receiving focus
+kup be h3tml out security guidelines risks addressed ensure that the website web application web portal or mobile app is security audited and an audit clearance certificate is issued by nic stqc or empanelled vendor before hosting in production environment
+s15 hosting environment must be secured for ensuring confidentiality integrity and availability cia
+s15 website has the security policy privacy policy and the contingency management plan clearly defined policies and plans approved by the government organisation
+s15 lifecycle management guidelines risks addressed the government organisation has nominated wim as defined in the guidelines
+q1 it has been ensured that all stationery of the government organisation as well as messages issued by the government organisation concerned prominently display the url of the web site
+q2 website has the following clearly defined policies and plans approved by the wim
+copyright policy content contribution moderation and approval cmap policy content archival cap policy content review crp policy hyper linking policy privacy policy terms conditions website monitoring plan
+contingency management plan security policy q3 q4 q5 q7 the mechanism is in place to check the accuracy of hyperlinked content and clear indications are given when link leads out to website
+q4 it is ensured through content moderation and approval policy that website content is free from language
+q7 in multiple languages are updated simultaneously
+q7 mechanism is in place to ensure that there are no broken links internal as well as external or page not found errors
+q7 there are no links to under construction pages
+q7 documents are provided either in html or other accessible formats
+q9 website is bilingual with prominent language selection link and uses unicode characters
+q9 q6 q7 nic national informatics centre ut union territory uuu usable and universally accessible iso international organisation for standardization wcag web content accessibility guidelines stqc standardization testing quality certification ict information and communications technology gigw guidelines for indian government websites and apps https hypertext transfer protocol secure http hypertext transfer protocol xss scripting dom document object model cms content management system npi national portal of india css cascading style sheets ui user interface url uniform resource locator alt alternative text captcha completely automated public turing test to tell computers and humans apart html hypertext markup language ocr optical character recognition pdf portable document format id identification ftp file transfer protocol waf web application firewall dmz demilitarized zone idps intrusion detection and prevention system hsts http strict transport security ssl secure sockets layer iis internet information services des data encryption standard triple data encryption standard rc rivest cipher sha secure hash algorithm api application programming interface mfa authentication owasp open web application security project path personal access token holder ip internet protocol rbac access control unix universal operating system vpc virtual private cloud ssh secure shell opa open policy agent yaml yet another markup language sso single indian computer emergency response team js joint secretary wqm website quality manual cmap content contribution moderation approval policy cap content archival cap policy crp content review crp policy annexure lv the success of any endeavour depends upon the backing of strong and enthusiastic team
+in case of government website the role of website management team assumes paramount importance in ensuring its credibility amongst its patrons
+there is proper flow of content to the site and that content quality and user satisfaction issues are taken care of
+to achieve this wim has to coordinate with the various groups within the department and undertake the following activities with regard to the indian government website being maintained by
+formulation of policies concerning management of content on the web through its entire life cycle viz
+creation moderation approval publishing and archival
+ensuring that all content on the website is always authentic and obsolete information or services are removed
+set mechanism for periodically validating links to related information
+an automated report can provide list of broken links on the site which can be immediately corrected
+getting the website certified for guideline compliance and ensuring that it remains compliant throughout its lifecycle
+should be displayed on the website so that the visitor could contact in case of some queries or requirements
+since the websites receive signifcant amount of mails from the visitors it self or designate someone to regularly check and respond to the mails
+government website whose responsibilities would be regular monitoring of website for performance security and availability
+ensuring compliance with policies organisational regulatory legislative etc
+that may require changes in website content architecture and security
+periodic security audit of the website in line with major revisions
+analysis of trafc on website and provide feedback to management
+web technology division

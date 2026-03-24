@@ -1,0 +1,73 @@
+SOURCE_PDF: e17c35c13480_Phd-Thesis-Defence-Ruby-638984752721184183.pdf
+
+Projection methods for fractional-order integro-differential
+equations
+Ruby (P20MA006)
+Supervisor : Dr. Moumita Mandal
+Department of Mathematics, IIT Jodhpur
+Abstract
+Integer-order derivatives and integrals have clear physical and geometric interpreta-
+tions, but fractional-order integration and differentiation lack such direct understanding.
+To address this, we first explore the geometric interpretation of fractional derivatives. We
+establish that the absolute value of a fractional derivative is inversely proportional to the
+area of a triangle and numerically verify this for some standard functions. Additionally,
+we discuss the physical interpretation of fractional derivatives in terms of fractional di-
+vergence and explore an application of fractional tangent lines in the field of numerical
+analysis.
+Fractional-order integro-differential equations (FIDEs) are widely used in science and
+engineering to model complex phenomena, but singularities in fractional derivatives pose
+challenges in finding exact solutions. This thesis develops efficient numerical projection
+methods for ap proximating solutions of various classes of linear and nonlinear FIDEs with
+smooth or weakly singular kernel functions. We consider Caputo’s fractional derivative
+as it carry integer-order initial conditions, which have a clear physical interpretation.
+We first analyze linear fractional Volterra integro-differential equations (FVIDEs) with
+smooth kernels and smooth solutions using a piecewise polynomial approximation sub-
+space.
+To achieve the desired convergence rates, the FVIDEs are transformed into a
+system of fractional Fredholm integro-differential equations using properties of fractional
+derivative and suitable variable transformation. Then, we establish general frameworks
+of the Galerkin and multi Galerkin methods and achieve improved convergence rates in
+the supremum norm. However, note that the singularity in the fractional derivative op-
+erator causes the exact solution to be non-differentiable at the origin. Besides, piecewise
+polynomial spaces become computationally expensive for higher convergence rates. To ad-
+dress these, we later introduce the shifted Jacobi spectral Galerkin method (SJSGM) and
+its iterated version for solving linear FVIDEs with non-smooth solutions. The FVIDEs
+are reformulated into equivalent classical Fredholm integral equations having weak sin-
+gularities in the kernel functions, with H¨
+older continuous solution. We achieve improved
+convergence rates by incorporating the kernel’s singularity into the Jacobi weight func-
+tion and utilizing the solution’s H¨
+older continuity. A smoothing transformation further
+enhances the regularity of the solution, leading to superconvergence rates.
+
+Next, we establish the convergence results of SJSGM for a more general class of non-
+linear weakly singular fractional Volterra-Fredholm integro-differential equations. The
+equations are transformed into equivalent singular Fredholm integral equations, where
+the kernels exhibit distinct regularity behaviors. This distinct behavior is effectively han-
+dled using Jacobi weight functions, leading to better convergence rates. The Kumar-Sloan
+method is applied to reduce the computational complexity arising from the nonlinearity.
+Further, we establish superconvergence rates for the proposed methods using a regular-
+ization technique that enhances the smoothness of the solution.
+Lastly, we extend the framework of SJSGM, originally developed for a single-form
+equation, to systems of nonlinear multi-order FVIDEs with smooth or weakly singular
+kernels having non-smooth solutions, and establish similar superconvergence results using
+the regularization technique. Numerical experiments rigorously validate the theoretical
+results, demonstrating the accuracy and effectiveness of the proposed methods.
+List of Publications
+1. Ruby, Mandal, M.:Superconvergent Jacobi spectral Galerkin method for nonlin-
+ear fractional Volterra-Fredholm integro-differential equations. Numerical Algo-
+rithms (2025).
+2. Ruby, Mandal, M.: Superconvergent results for fractional Volterra integro-differential
+equations with non-smooth solutions. Journal of Computational and Applied
+Mathematics 458, 116337 (2025).
+3. Ruby, Mandal, M.: The geometrical and physical interpretation of fractional or-
+der derivatives for a general class of functions. Mathematical Methods in the
+Applied Sciences 47, 8400–8420 (2024).
+4. Ruby, Mandal, M.: Convergence analysis and numerical implementation of projec-
+tion methods for solving classical and fractional Volterra integro-differential equa-
+tions. Mathematics and Computers in Simulation 225, 889–913 (2023).
+5. Ruby, Mandal, M.:
+Optimal and superconvergent rational spectral projection
+methods for FDEs on unbounded domains. (Under Review )
+6. Ruby, Mandal, M.: A high-accuracy numerical method for nonlinear systems of
+multi-order fractional Volterra integro-differential equations. (Submitted)

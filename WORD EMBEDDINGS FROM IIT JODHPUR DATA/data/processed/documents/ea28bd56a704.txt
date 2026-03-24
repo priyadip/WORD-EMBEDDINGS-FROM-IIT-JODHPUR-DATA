@@ -1,0 +1,52 @@
+heat transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling loading
+files kb kb of kb kb kb show more date researcher pattanayak bikash supervisor kothadia hardik
+journal title journal issn volume title publisher indian institute of tehcnology jodhpur abstract the phase change heat transfer processes are widely implemented for heat extraction as they utilise both sensible and latent heat rohsenow and griffith
+the capability to remove the higher magnitude of heat at low wall superheats and the lack of moving parts makes pool boiling appealing memmott and manera
+pool boiling is economical simple and prevalent among all available cooling schemes
+the utilization of the aforementioned technique is widely implemented for thermal management in nuclear industries and in microelectronic devices
+conventional air cooling systems can not handle these devices cooling requirements which may be due to their low heat transfer performance
+in such instances pool boiling and droplet evaporation techniques can be implemented
+nowadays the nuclear industries renewable energy sectors and power plants are implementing compact heat exchangers as preheaters regenerators and intermediate heat exchangers pattanayak et pattanayak and kothadia
+these compact heat exchangers are basically of tubular or
+therefore it gives the urge to study the heat transfer characteristics of those heat exchangers and analyse the methodologies that can enhance the heat transfer from the surface of tubes and plates pattanayak et
+the lack of qualitative theories quantitative data and explanations in the area of critical heat flux chf in tube and plate makes it an interesting domain of research
+there is limited research explaining the effect of high substrate and liquid temperatures on droplet evaporation
+there is scarcity of research in analysing the heat transfer coefficient during the evaporation process pattanayak et pattanayak and kothadia
+the research highlights the critical heat flux chf studies on and plates during pool boiling under uniform heat flux conditions
+identification of the tube and plate length and diameter beyond which chf becomes independent of the dimensions is discussed
+the effect of tube and plate orientations and pool subcooling on chf has been analysed
+different regimes of pool boing under uniform heat flux conditions are discussed based on bubble behavior
+the instantaneous heat transfer coefficient during droplet evaporation is analysed
+the chf data are used to derive an empirical correlation that includes the impact of subcooling orientation and dimensions pattanayak et
+in the case of the analysis of compact heat exchangers ss tubes and plates are used
+the orientation is changed from to for tubes and to for plates
+the length and diameter of tube is varied from mm to mm and mm to mm respectively
+the water pool is kept at and saturation temperature
+the length of the plate is varied from mm to mm
+the width of the plate ranges from mm to mm
+the pool is maintained at and saturation temperature corresponding to ambient pressure
+it has been noted that the severity of chf lessens as pool temperature rises
+for particular pool temperature the shortest length has higher magnitude of chf
+as tube diameter and width expand chf values decrease
+in the case of tubes the chf value is larger for horizontal orientation than vertical the case of the analysis of compact heat exchangers ss tubes and plates are used
+in the case of tubes the chf value is larger for horizontal orientation than vertical study demonstrates that for horizontally oriented tubes chf fluctuation is negligible beyond length of regardless of diameter
+according to the study performed for vertical channels chf fluctuation is negligible for tubes with diameter more than mm beyond length of mm
+the vertical orientation of the plates results in higher chf magnitude as compared to the horizontal upward and downward orientations respectively pattanayak and kothadia pattanayak et pattanayak et
+the hydrophobic surface of copper electrodeposited tubes exhibits lesser chf magnitude than the uncoated surface and is efficient for phase change heat transfer applications in lower heat flux regimes
+furthermore the analysis of heat transfer during droplet evaporation is conducted to study the effect of surface and liquid temperature on the instantaneous heat transfer coefficient
+it is observed that the evaporation rate is higher for copper than aluminum
+the instantaneous heat transfer coefficient increases with the temperature of droplet evaporating on given substrate and is higher for copper
+when substrate temperature increases for given droplet temperature the instantaneous heat transfer coefficient increases pattanayak and kothadia pattanayak et
+the regimes from natural convection to chf limit in subcooled pool of water maintained under uniform heat flux conditions are studied for ss plates of different dimensions clifton and chapman pattanayak et
+during the heat transfer process the temperature distribution along the plate is examined
+the nusselt number is seen to be independent of aspect ratio pattanayak et pattanayak and kothadia
+the nusselt number rises when the plate length and width are independently increased
+the study is also carried out in saline water of solutions with varying salinity from and and is observed that beyond salinity the heat transfer coefficient decreases pattanayak et
+description keywords citation pattanayak bikash transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling doctor thesis
+indian institute of tehcnology jodhpur uri collections doctoral theses full item page heat transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling loading
+journal title journal issn volume title publisher indian institute of tehcnology jodhpur files kb kb of kb kb kb show more kb kb of kb kb kb show more of researcher pattanayak bikash supervisor kothadia hardik
+publisher indian institute of tehcnology jodhpur indian institute of tehcnology jodhpur abstract the phase change heat transfer processes are widely implemented for heat extraction as they utilise both sensible and latent heat rohsenow and griffith
+the phase change heat transfer processes are widely implemented for heat extraction as they utilise both sensible and latent heat rohsenow and griffith
+citation pattanayak bikash transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling doctor thesis
+indian institute of tehcnology jodhpur pattanayak bikash transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling doctor thesis
+indian institute of tehcnology jodhpur uri collections doctoral theses

@@ -1,0 +1,26 @@
+SOURCE_PDF: 5b10554aaf2f_mtech_ai.pdf
+
+Title Data structures and practices Number CSXXX
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. 1​st​ Year Type Compulsory
+Prerequisite Computer Programming
+
+Title Artificial Intelligence-1 Number CSXXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1​st​ Year, Ph.D. 1​st​ Year Type Compulsory
+Prerequisite None
+
+Title Artificial Intelligence-2 Number CSXXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1​st​ Year, Ph.D. 1​st​ Year Type Compulsory
+Prerequisite Artificial Intelligence-1
+
+Title Machine Learning-1 Number CSXXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1​st​ Year, Ph.D. 1​st​ Year Type Compulsory
+Prerequisite None
+
+Title Machine Learning-2 Number CSXXXX
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1​st​ Year, Ph.D. 1​st​ Year Type Compulsory
+Prerequisite Machine Learning-1

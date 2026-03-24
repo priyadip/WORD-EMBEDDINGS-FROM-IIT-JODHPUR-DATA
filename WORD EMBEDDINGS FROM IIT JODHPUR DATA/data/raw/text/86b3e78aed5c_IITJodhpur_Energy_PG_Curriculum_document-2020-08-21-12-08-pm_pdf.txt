@@ -1,0 +1,868 @@
+SOURCE_PDF: 86b3e78aed5c_IITJodhpur_Energy_PG_Curriculum_document-2020-08-21-12-08-pm.pdf
+
+M. Tech. and M.Tech-PhD
+in
+Civil and Infrastructure Engineering 
+with Major in Energy
+
+Introduction 
+ 
+With the tremendous focus on energy sources such as solar, wind, hydropower to name 
+a few, skills to develop necessary infrastructure for energy generation, transmission 
+and distribution from these sources are required. To cater to future needs and 
+emerging infrastructure, the M.Tech. and M. Tech-Ph. D. Program on Civil and 
+Infrastructure Engineering with a major (specialization) in “Energy” is exclusively 
+designed. The program is offered to the students/candidates with diverse engineering 
+backgrounds from India and abroad who are interested in learning and applying the 
+fundamental 
+and 
+advanced 
+technologies 
+(energy 
+conversion, 
+transmission, 
+distribution, storage and conservation) in different areas of energy engineering. The 
+program equips students with a unique set of skills desired in multidisciplinary and 
+dynamic energy industries. To facilitate prospective graduates with the scope of this 
+program, “Career Trajectory” maps for all disciplines are developed. A “Career 
+Trajectory” is a framework for understanding the demand of different energy industries 
+in terms of skills and their mapping with the courses that are being offered in this 
+program across multiple departments. It will assist students in identifying the core 
+skills (general, core, and advanced) and courses to build their career in the chosen 
+energy industry. 
+ 
+The program constitutes a unique value-added model that allows students to select 
+courses from a) “Specialized Stream Electives" and (b) "M. Tech Electives" buckets to 
+build their knowledge in a specialized stream and gain skills they would need to enter 
+into the desired energy industry. Specialized courses are designed to tap rapidly 
+changing energy market while employing emerging technologies. Furthermore, it 
+builds a platform for multidisciplinary research to unravel complex problems associated 
+with global energy infrastructure. After successful completion of the program, students 
+will be able to continue to a Doctor of Philosophy (Ph.D.) in a number of related areas 
+of chosen stream. This program potentially delivers an ability to the graduates to 
+change the landscape of our planet through advanced energy generation and 
+management practices. 
+An outline of the concept behind this program is presented in the following sections. 
+ 
+Objective of the Program 
+ 
+IIT Jodhpur Civil and Infrastructure Engineering graduates with a major in Energy will: 
+1. Enter the industry as professionals and leaders to implement solutions to diverse 
+technical challenges of energy infrastructure.
+2. Pursue innovative and advanced research as scholars and scientists in leading 
+industry and academic R&D centers around the world to develop state-of-the-art 
+technologies related to future energy infrastructure.
+3. Establish and lead startups in emerging areas of sustainability, resilience, 
+management, and effective utilization of various sources of energy.
+4. Frame policies, management regulations and ethical guidelines correlating dynamic 
+energy demands, utilization and distribution.
+Graduate attributes 
+ 
+A successful graduate should be able to: 
+1. Understand the relation between different engineering aspects (i.e. electrical, 
+mechanical, chemical, etc.) of various energy infrastructures.
+2. Understand the impacts and limitations of different energy resources under various 
+conditions.
+
+Category Program
+Core
+(PC) Specializat
+ion Stream
+Electives
+(SSE) M.
+Tech.
+Elective
+(ME) M.
+Tech.
+Open
+(MO) M.
+Tech.
+Project
+(MP) Non-
+Graded
+Courses Total
+Graded
+Credits 3 17 17 3 16 4 60
+Cat
+. Course Title L-T-P Credits Cat. Course Title L-T-P Credits
+I Semester II Semester
+PC Program Core 3-0-0 3 SSE Specialization stream - 3-0- 3
+SSE Specialization stream -1 3-0-0 3 SSE Specialization stream - 0-0- 2
+SSE Specialization stream -2 3-0-0 3 ME Program Elective – 1 3-0- 3
+3. Understand and relate the engineering, economy, and policy aspects of energy 
+utilization.
+4. Design and implement energy-efficient infrastructure related to generation, 
+transmission, distribution of energy.
+5. Carry out in-depth multi-faced investigations (e.g. analytical, experimental, and 
+numerical) in various infrastructure engineering issues and propose innovative 
+solutions.
+6. Design new models, collect relevant data, and perform validation to help in decision 
+making, developing and implementing advanced energy infrastructure concepts, 
+and solving engineering issues.
+7. Participate and work in interdisciplinary teams, demonstrate knowledge of 
+advanced management skills, and implement sustainable practices in infrastructure 
+engineering projects.
+Learning outcome 
+ 
+Upon successful completion of the program, the graduate will have an ability 
+1. To apply and demonstrate acquired knowledge of popular (solar, wind, etc.) and 
+upcoming (tidal, biomass, fuel cell, hydrogen, etc.) energy technologies and their 
+operation in infrastructure engineering practices.
+2. To apply engineering design and management aspects of the complete lifecycle of 
+energy: from generation to distribution.
+3. To identify, formulate and apply basics of energy harvesting and storage to mitigate 
+challenges related to power fluctuations.
+4. To apply appropriate techniques of modeling and prediction, modern engineering 
+and IT tools to complex engineering activities with an understanding of the 
+limitations.
+5. To plan, design and execute large scale infrastructure projects on smart cities to 
+meet future energy needs.
+6. To compete, lead, and practice a successful professional career in the core areas 
+of expertise with specialized knowledge in the 
+interdisciplinary energy 
+infrastructure sector.
+Overall Structure (M. Tech. in Civil and Infrastructure Engineering with Major 
+in Energy)
+
+SSE Specialization stream -3 3-0-0 3 ME Program Elective – 2 3-0- 3
+SSE Specialization stream -4 3-0-0 3 ME Program Elective - 3 3-0- 3
+NG HSN7XX0: Technical
+Communication 1-0-0 1 NG HSN7XX0: Professional
+Ethics 1-0-
+0 1
+Total (Graded + Non-graded) 16 Total (Graded + Non-graded) 15
+III Semester IV Semester
+ME Program Elective - 4 3-0-0 3 NG OAL7XX0: IP
+Management and
+Exploitation 1-0-
+0 1
+ME Program Elective - 5 3-0-0 3
+ME Program Elective - 6 2-0-0 2
+MO Open Elective-1 3-0-0 3
+NG OAN7XX0: Systems 1-0-0 1
+Total (Graded+ Non-graded) 17 Total (Graded + Non-graded) 12
+S.No. Course Title L-T-P Credits
+1 Introduction to Sustainable Infrastructure Engineering 3-0-0 3
+S.No. Course Title L-T-P Credits
+1 Solar Energy and Application 3-0-2 4
+2 Wind turbine and Field Design 3-0-2 4
+3 Offshore Tidal Energy Harvesting 3-0-0 3
+4 Offshore Wind Energy Harvesting 3-0-0 3
+5 Energy Storage 3-0-2 4
+6 Power Plant Engineering 3-0-2 4
+7 Smart Grid 3-0-2 4
+8 Biomass Energy Conversion 3-0-2 4
+9 Hydrogen and Methanol Economy 3-0-0 3
+10 Plugin Electric Vehicles 3-0-2 4
+11 Transmission Infrastructure 3-0-0 3
+12 Fuel Cell Technology 3-0-0 3
+13 Electrochemical Conversion and Storage 3-0-0 3
+14 Advanced Waste Water Treatment 3-0-2 4
+15 Selected Topics in Distributed Generations 3-0-0 3
+16 Materials for Electrochemical energy Conversion and Storage 2-0-0 2
+17 Energy Economics and policy 1-0-0 1
+18 Environmental Aspects of Power Plant 1-0-0 1
+19 Hydropower 3-0-0 3
+Program Core Course (PC)
+
+Offering
+Department S. No. Course Title L-T-P Credits
+Electrical
+Engineering 1 Substation Infrastructure 2-0-0 2
+2 Gas Insulated Substations 2-0-0 2
+3 Power System Protection 3-0-0 3
+4 Cyber-Physical Security in Smart Grid 3-0-0 3
+Civil & Infrastructure
+Engineering 5 Stability of Slopes 3-0-0 3
+6 Rock Mechanics and Rock Engineering 3-0-0 3
+7 Reliability Engineering 3-0-0 3
+8 Structural Dynamics 3-0-0 3
+9 Wind and Earthquake Engineering 3-0-0 3
+10 Offshore Geo-technology 3-0-0 3
+11 Climate Change and Impact 3-0-0 3
+12 Air Pollution and Control 3-0-0 3
+13 Green Building and Sustainable
+Materials 3-0-0 3
+14 Traffic Flow Theory 3-0-0 3
+15 Traffic System and Management 3-0-0 3
+16 Soil Stabilization and Ground
+Improvement 3-0-0 3
+17 Foundation Engineering 3-0-0 3
+Mechanical
+Engineering 18 Advanced Mechanics of Solids 3-0-0 3
+19 Theory of Vibration 3-0-0 3
+20 Remote Sensing and GIS for
+Environmental Management 3-0-2 4
+21 Solid Waste Management 3-0-0 3
+Chemical
+Engineering 22 Ocean Thermal Energy Conversion 1-0-0 1
+23 Wave Energy Conversion 1-0-0 1
+24 Process Safety and Hazard 3-0-0 3
+25 Advanced Energy Systems 3-0-0 3
+26 Microfluidic Fuel Cell 1-0-0 1
+Physics 27 Optics for Solar Energy Applications 3-0-0 3
+28 Energy Harvesting 3-0-0 3
+Computer Science
+and Engineering 29 Artificial Intelligence – I 3-0-0 3
+30 Machine Learning - I 3-0-0 3
+TBD* 31 Selected Topic in Energy Science and
+Engineering 3-0-0 3
+List of Elective (ME) Courses
+* Topic and course contents focusing on the emerging areas and energy technologies would be 
+designed by the course instructor (or Department)
+
+S.No. Courses Offering Department Topic clouds
+1 Solar Energy
+and Application Mechanical
+Engineering Solar radiations; Measurement;
+Concentrated Solar Power; Energy
+conversion; Thermal comfort; Passive
+heating and cooling; Daylighting;
+Energy efficiency; Evaporative
+cooling; Zero energy building;
+Building modeling and simulation;
+Solar PV; Grid integration; MPPT
+techniques; Solar panels
+2 Wind Turbine
+and Field
+Design Civil & Infrastructure
+Engineering Wind Measurement and statistical
+distribution; 2D and 3D
+Aerodynamics; Anatomy of wind
+turbines; Design of rotor blades;
+Horizontal-axis wind turbine;
+Vertical-axis wind turbine;
+Aeroelasticity; Control mechanisms;
+Pitch and stall regulation
+3 Offshore Tidal
+Energy
+Harvesting Civil & Infrastructure
+Engineering Aerodynamic and hydrodynamic
+loads; Rotor and mooring dynamics;
+Tidal dynamics and ocean currents;
+Tidal energy system design; Control
+and stability of tidal power plants;
+Failure models
+4 Offshore Wind
+Energy
+Harvesting Civil & Infrastructure
+Engineering Offshore wind; wave environment;
+Fixed and floating offshore platforms;
+Wind load on structures; Coupled &
+uncoupled analysis; Fatigue analysis;
+Offshore wind turbine field design;
+Vessel-fleet optimization; Cost-
+benefit evaluation; Power Ratio
+5 Power Plant
+Engineering Mechanical
+Engineering Thermal power plant; Nuclear power
+plant; Hydroelectric power plant;
+Solar thermal power plant; Hybrid
+power plant; Plant layout, design and
+Infrastructure; Boilers; Condensers;
+Gas turbine; Wind turbines; Fuel cell;
+Plant load and efficiency; Tidal
+energy; Geothermal energy;
+Generator; Transformer; Energy cost
+6 Energy Storage Electrical
+Engineering +
+Mechanical
+Engineering Energy storage; Thermal energy
+storage; Sensible and latent heat
+storage; Electrical energy storage;
+Capacitors and supercapacitors;
+Chemical and Electrochemical energy
+storage; Electrolysis; Batteries;
+Hydrogen storage; Mechanical energy
+storage; Flywheel; Pumped Hydro;
+Compressed air energy storage;
+Storage Applications;
+7 Smart Grid Electrical
+Engineering Smart Grid Basics; Energy
+Resources;
+Plug-in Electric Vehicle (PEV);
+Demand-side management;
+Monitoring and Protection
+8 Biomass
+Energy
+Conversion Chemical and
+Engineering +
+Bioscience and
+Bioengineering Biofuels and bio power; Biomass
+characteristics; Pre-treatment and
+processing; Gasification; Pyrolysis;
+Anaerobic fermentation; Biogas
+Topic Clouds Mapped with Specialization Stream Elective Courses (SSE)
+
+9 Hydrogen and
+Methanol
+Economy Chemical
+Engineering Hydrogen and methanol as fuels;
+Economic, Environmental,
+Sustainability aspects; Production of
+hydrogen and methanol as fuel;
+Challenges and opportunities;
+Infrastructure and logistics of
+Hydrogen and methanol production
+10 Plugin Electric
+Vehicles Electrical
+Engineering Introduction to EV; Powertrain
+Storage systems; Charging
+Infrastructure; Vehicle-to-X systems;
+Hybrid Electric Vehicle; Vehicle
+Communication; PEV integration
+11 Transmission
+Infrastructure Electrical
+Engineering Overhead transmission lines;
+Underground cables; Marine cables
+12 Environmental
+Aspects of
+Power Plant Civil & Infrastructure
+Engineering Types of pollutants; Emission
+standards; Gasification; Combustion;
+Particulate matter control; Flue gas
+desulfurization; Types of ash; ash
+handling; Sustainable practices
+13 Fuel Cell
+Technology Chemical
+Engineering Basic principle of Fuel cell technology;
+Kinetics of Fuel cell electrodes;
+Charge and mass transport; Modeling
+and characterization of fuel cell;
+Principles of proton exchange
+membrane
+14 Electrochemical
+Conversion and
+Storage Chemical
+Engineering Introduction to electrochemical
+Conversion and Storage; Introduction
+to battery and Electrochemical
+supercapacitor; Principles of
+electrodialysis; Electrochemical
+mechanism of Hydrogen production
+15 Advanced
+Waste Water
+Treatment Chemical
+Engineering Introduction to Waste water
+engineering; Principles of
+Conventional Waste Water
+Treatment; Aerobic and Anaerobic
+processes; Mechanism of Advanced
+Treatment; Different unit operations
+for water recycling and reuse
+16 Selected Topics
+in Distributed
+Generations Electrical
+Engineering Distributed generation introduction;
+Control of distributed generation
+Microgrids; Stability Challenges in
+grid integration; Ancillary services
+17 Hydropower Mechanical
+Engineering
++
+Electrical
+Engineering
++
+Civil & Infrastructure
+Engineering Large scale hydropower; Hydropower
+turbines; Tidal power; Hydropower
+generators; Small Hydropower;
+Pumped storage hydropower;
+Hydropower house; Site
+investigation; Design of embankment
+dams; Concrete face rockfill dams;
+Concrete gravity dams; Foundation
+preparation
+18 Materials for
+Electrochemical
+energy
+Conversion and
+Storage Metallurgical &
+Materials
+Engineering +
+Physics Electrochemical energy storage;
+Conversion devices; Types of
+batteries; Battery capacity and life;
+Materials for batteries; 2D and 3D
+batteries; Principle and types of fuel
+
+19 Energy
+Economics and
+policy Humanities & Social
+Sciences Energy resources; Energy
+accounting; Demand analysis;
+Demand and load management
+
+Title Introduction to Sustainable
+Infrastructure Engineering Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-Th
+[C] 3-0-0 [3]
+Offered for M.Tech/M. Tech-PhD Type Compulsory
+Prerequisite B.Tech Degree
+Course Content of Program Core Course (PC)
+
+Title Biomass Energy Conversion Course BBXX
+Department Bioscience and Bioengineering L-T-P [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Detailed Course Content of Specialization Stream Courses (SSE)
+
+Michelle O'Malley, Fueling Sustainability: Engineering Microbial Systems for Biofuel 
+Production, 
+Spring 
+2011, 
+MIT 
+OpenCourseWare 
+Massachusetts 
+Institute 
+of
+Technology, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+
+Title Solar Energy and Applications Number MEL7XX0
+Department Mechanical Engineering L-T-P [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite B.Tech Degree
+
+5. Solar 
+Photovoltaics 
+Fundamentals, 
+Technology 
+And 
+Applications
+
+Title Wind turbine and field design Number CIE7XX0
+Department Civil Engineering L-T-P [C] 3–0–2 [4]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+Title
+Department Offshore Tidal Energy Harvesting
+Civil Engineering Number
+L-T-P [C] CIE7XX0
+3–0–0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+Title Offshore Wind Energy Harvesting Number CIE7XX0
+Department Civil Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type Elective
+
+Title Energy Storage Number EE7XX0
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+3. Alami,A.H., (2020), Mechanical Energy Storage for Renewable and Sustainable Energy 
+Resources, Springer 
+4. Huggins,R.A., (2014), Energy Storage-Fundamentals, Materials and Applications, 2nd 
+edition, Springer
+Self Learning Material
+
+Title Power Plant Engineering Number MEL7XX0
+Department Mechanical Engineering L-T-P-Th [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite B.Tech
+
+Gas Turbine: Determination of specific fuel consumption, Determination of Shaft power and 
+System efficiency. 
+ 
+Reference Books
+1. M. M. Ei-Wakil, Power Plant Technology, Tata McGraw-Hill. 
+2. P. K. Nag, Power Plant Engineering, Tata McGraw-Hill. 
+3. F. T. Morse, Power Plant Engineering, D. Van Nostran, New York.
+Learning Material
+
+Title Smart Grid Number EE7XX0
+Department Electrical Engineering L-T-P
+[C] 3–0–2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+Title Hydrogen and Methanol Economy Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for MTech, MTech-PhD, PhD Type SSE
+Prerequisite None
+
+Title Plugin Electric Vehicles Number EE7XX0
+Departmen
+t Electrical Engineering L-T-P[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+1. Jain,A.K., Electric Vehicles - Part 1, NPTEL Course Material, Department of
+Electrical Engineering, IIT Delhi,
+https://nptel.ac.in/courses/108/102/108102121/ 
+2. Kumar,P., Majhi,S., Introduction to Hybrid and Electric Vehicles, NPTEL Course
+Material, Department of Electronics and Communication Engineering, IIT 
+Guwahati, https://nptel.ac.in/courses/108/103/108103009/
+
+Title Energy Economics and
+Policy Number HSS7XX0
+Department Humanities and Social Sciences L-T-P-D [C] 1-0-0 [1]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+Title Materials for Electrochemical Energy
+Conversion and Storage Number
+Department Physics and Metallurgical & Materials Engineering L-T-P [C] 2-0-0 [2]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite -
+
+Title Hydropower Number MEL7XX0
+Departmen
+t Mechanical Engineering, electrical
+Engineering, Civil & Infrastructure
+Engineering L-T-P[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+● 
+Foundation preparation: General foundation preparation for embankment dams; Cutoff 
+foundation for embankment dams; Width and batter slopes; Slope modification; 
+Foundation preparation for concrete gravity dams. (Lectures: 4)
+Textbook
+ 
+Breeze,P., (2018), Hydropower, Academic Press
+ 
+Pandey,B., Karki,A., (2017), Hydroelectric Energy, Renewable Energy and the 
+Environment, CRC Press
+ 
+Robin Fell, Patrick MacGregor, David Stapledon, Graeme Bell (2005) Geotechnical 
+Engineering of Dams. A. A. Balkema publishers. ISBN 04 1536 440 x.
+
+Title Selected Topics in Distributed Generation Number EE7XX0
+Departmen
+t Electrical Engineering L-T-P
+[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+
+Title Advanced Waste Water
+Treatment Number CHL7XX0
+Department Chemical Engineering L-T-P (C) 3-0-2 (4)
+Offered for M.Tech., M.Tech-Ph.D., Ph.D. Type SSE
+Prerequisite None
+
+Title Fuel Cell Technology Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite None
+
+Title Electrochemical Conversion and Storage Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisite None
+
+Title Environmental Aspects of
+Power Plant Number CIE7XX0
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 1-0-0 [1]
+Offered for M.Tech, M.Tech.-Ph.D., Ph.D. Type SSE
+
+Title Transmission Infrastructure Number EE7XX0
+Departmen
+t Electrical Engineering L-T-P
+[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type SSE
+Prerequisit
+e Smart Grid
+
+Title Power System Protection Number EE7XX0
+Department Electrical Engineering L-T-P
+[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Detailed Course Content of M. Tech Elective Courses (ME)
+
+Title Cyber-Physical Security in Smart Grid Number EE7XX0
+Department Electrical Engineering L-T-P
+[C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Energy Harvesting Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Ocean Thermal Energy Conversion Process Number CH7XX0
+Department Chemical Engineering L-T-P [C] 1-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite Thermodynamics
+
+Title Optics for Solar Energy Applications Number PHL6XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Theory of Vibrations Number MEL7XX0
+Department Civil Engineering L-T-P-Th [C] 3-0-0 [3]
+Offered for M.Tech, M.Tech.-Ph.D., Ph.D. Type ME
+Prerequisite Basic knowledge of mechanical
+vibrations
+
+Title Offshore Geo-technology Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3–0–0 [3]
+Offered for B.Tech., M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Rock Mechanics and Rock
+Engineering Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+1. Richard E. Goodman (1989) Introduction to Rock Mechanics (2nd Ed). Wiley. ISBN-
+2. Mark D. Zoback. (2007) Reservoir Geomechncs. Cambridge University Press. ISBN-
+3. Debasis Deb, Abhiram Kumar Verma (2016) Fundamentals and Applications of Rock
+Mechanics. PHI Learning Pvt. Ltd. ISBN-978-81-203-5182-0.
+Online course Material
+1. V. B. Maji. Rock Mechanics – Web course. https://nptel.ac.in/courses/105106055/
+
+Title Stability of slopes Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Wind and Earthquake Engineering Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B.Tech, M.Tech, M.Tech.-Ph.D., Ph.D. Type ME
+
+Title Process safety and Hazards Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+
+Title Advanced Energy Systems Number CH7XX0
+Department Chemical Engineering L-T-P [C] 3-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+
+Title Microfluidic Fuel Cells Number CH7XX0
+Department Chemical Engineering L-T-P [C] 1-0-0
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+
+Title Air Pollution and Control Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Solid Waste Management Number MEL7XX0
+Department Mechanical Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Online Resources 
+T 
+V 
+Ramachandra 
+Municipal 
+Soild 
+Waste 
+Management, 
+IISc 
+Bangalore
+https://nptel.ac.in/courses/120108005/ 
+Solid and Hazardous Waste Management,IITM, https://nptel.ac.in/courses/105106056/
+
+Title Remote Sensing and GIS for
+Environment Management Number MEL7XX0
+Department Mechanical Engineering L-T-P-D [C] 3-0-2 [4]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+5. To plot a known area using GPS measurements and assess the accuracy of the
+measurement
+6. Using total station to combine electromagnetic distance measurement and electronic
+theodolite to understand the ramp in the institute and their geometrical features with 
+high accuracy.
+List of Experiments in GIS Laboratory:
+1. To create a map of any area using vector data models using available ground data. 
+2. To perform geo-referencing when coordinate values are not given. 
+3. To study terrain data such as slope, aspect, and hill shade. How to use these for
+representation of different social/service as well as frequency of different aspects 
+concerning demographic data.
+4. To create a stream network or perform stream order generation or delineate
+watersheds created by a water body using DEM files.
+5. To perform site suitability analysis for a service building (example hospital) near to
+a agricultural and inhabited land near an arid village at the edge of an oasis near 
+Jodhpur.
+6. Basic experiments on image sharpening and image resolution using ARC GIS/ ERDAS
+IMAGINE processing tool.
+Text Books 
+1. John R. Jenkins, Remote Sensing of the Environment: An Earth Prespective 
+2. Lillesand, T.M., Kiefer, R.W. & Chipman, J.W. 2008. Remote Sensing and Image
+Interpretation, 6th Edition, John Wiley and Sons.
+Reference Books 
+1. Floyd F. Sabins, Remote Sensing: Principles and Applications (3rd edition), Publisher :
+Waveland Press, Edition : 3rd, Print ISBN : 9781577665076, 1577665074, eText ISBN : 
+9781478618171.0
+2. Gopi, S., Sathikumar, R., and Madhu, N., Advanced Surveying: Total Station, GIS and
+Remote Sensing, Pearson, 2007, Dorling Kindersley (India).ISBN 978-81-3017-0067-9.
+3. Barrett, E.C. & Curtis, L.F. 2007. Introduction to Environmental Remote Sensing,
+Routledge Publisher.
+
+Title Climate Change and Impact Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Green building and Sustainable Materials Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Construction operations and commissioning: site protection planning; indoor air quality 
+during construction; construction materials management; construction and demolition 
+waste management. (Lectures: 3) 
+Green building economics: the business case for high-performance green building; the 
+economics of green building; quantifying green building benefits. (Lectures: 3)
+Text Books
+1. Charles J. Kibert (2013). Sustainable Construction. John Wiley & Sons. ISBN 978-1-
+2. J. Newman and Ban Sang Choo (2003) Advanced Concrete Technology-Constituent
+Materials (1st Ed), Elsevier. ISBN 9780080489988.
+3. S. Kubba (2010) LEED Practices, Certification, and Accreditation Hand book (1st Ed)
+Elsevier. ISBN 9780080958590.
+Additional materials:
+1. Ministry of Power, Energy Conservation Building Code 2018, Revised Version, Bureau
+of Energy Efficiency, 2018,
+2. Indian Building Congress, Practical Handbook on Energy Conservation in Buildings, 1
+st ed. Nabhi Publication, 2008.
+3. TERI-Griha’s Green Design practices (www.teriin.org/bcsd/griha/griha.htm) 
+4. Sartori, I., and Hestnes, A. G. “Energy use in the life cycle of conventional and low-
+energy buildings: A review article”, Energy and Buildings., 20, 249-257.2007
+5. Green 
+Building 
+Basics, 
+California 
+Integrated 
+Waste 
+Management 
+Board
+6. Catarina Thormark. “A low energy building in a life cycle—its embodied energy,
+energy need for operation and recycling potential”, Building and Environment., 37, 
+429-435.2001.
+Online course Material 
+“NOC:Energy Efficiency, Acoustics and daylighting in Building” by Prof. B. Bhattacharjee on 
+NTPEL. https://nptel.ac.in/courses/105/102/105102175/
+
+Title Traffic Flow Theory Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Traffic System and Management Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Soil Stabilization and Ground Improvement Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Foundation Engineering Number CIE7XX0
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Type ME
+
+ 
+Subsurface investigation and instrumentations: traditional in-situ investigations; 
+advanced geophysical tests; field instrumentations. (Lectures: 3)
+ 
+International building codes for foundations: general regulations for footing and 
+foundations; foundation adjacent to slopes; retaining walls. (Lectures: 3)
+Text Books
+1. Bowles JE (1997) Foundation Analysis and Design (5th Ed). Tata-McGraw Hill
+International Edition. ISBN 0-07-912247-7.
+2. Robert W. day (2010). Foundation Engineering Handbook (2nd Ed). McGraw-Hill
+Professional. ISBN 978-0-07-174010-4.
+3. Budhu. M (2012). Soil Mechanics and Foundations (3 rd Ed). John Wiley and Sons.
+4. Robert W. day (2010). Foundation Engineering Handbook (2 nd Ed). McGraw-Hill
+Professional. ISBN 978-0-07-174010-4.Manjriker
+Additional references: 
+Foundation Engineering (2018) by Prof. Kousik Deb on NPTEL. 
+https://nptel.ac.in/courses/105105176/
+
+Title Reliability Engineering Number CIE7XX0
+Department Civil and Infrastructure
+Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Type ME
+Prerequisite Nil
+
+2. A.H.S. Ang and W. H. Tang (1984) Probability Concepts in Engineering Planning and
+Design Vol. II Decision, Risk and Reliability, John Wiley and Sons, New York. ISBN 
+978-0-471-03201-4
+3. P. Thoft-Christensen and Y. Murotsu (1986) Applications of Structural Systems
+Reliability Theory, Springer Verlag Berlin, Heidelberg. ISBN 978-3-642-82766-2.
+4. O. Ditlevsen and H.O. Madsen (1996) Structural Reliability Methods, John Wiley &
+Sons Ltd, Chichester. ISBN 978-0-471-96086-7.
+5. S.-K. Choi, R.V. Grandhi and R.A. Canfield (2007) Reliability-based Structural Design,
+Springer-Verlag, London. ISBN 978-1-84628-444-1.
+6. R. Ranganathan (2011) Structural Reliability Analysis and Design (3rd Ed), Jaico
+Publishing House, Mumbai. ISBN 81-7224-851-2.
+7. R.E. Melchers and A.T. Beck (2018) Structural Reliability Analysis and Prediction (3rd
+Ed), John Wiley and Sons Ltd, Hoboken, NJ. ISBN 978-1-119-26599-3.
+Additional References:
+1. Reliability Engineering (2009) by Prof. G.L. Sivakumar Babu on NPTEL.
+2. Structural 
+Reliability 
+(2014) 
+by 
+Dr. 
+Arunasis 
+Chakraborty 
+on 
+NPTEL.
+3. Risk and Reliability of Offshore Structures (2016) by Prof. Srinivasan Chandrasekaran
+on NPTEL. https://nptel.ac.in/courses/114/106/114106041/
+
+Title Structural Dynamics Number CIE7XX0
+Department Civil and Infrastructure Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for B. Tech, M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite Nil
+
+ 
+Earthquake response of MDOF systems: Time history analysis; response spectrum 
+analysis. (Lectures: 2)
+ 
+Dynamic response of continuous systems: Vibration of continuous systems; axial 
+vibration of prismatic bar; flexural vibration of beams; shear and bending behaviour; 
+generalized SDOF. (Lectures: 3)
+ 
+Applications: Introduction to finite element method; formation of element stiffness, 
+mass and force matrices; examples for seismic analysis and response. (Lectures: 2)
+Text Books:
+1. J.M. Biggs (1964) Introduction to Structural Dynamics, McGraw Hill, NY. ISBN 07-
+2. R.W. Clough and J. Penzien (1993) Dynamics of Structures (2nd Ed), McGraw Hill Inc
+Editor. ISBN 0-07-011392-0.
+3. A.K. Chopra (2017) Dynamics of Structures Theory and Application to Earthquake
+Engineering (5th Ed), Prentice Hall, NJ. ISBN 978-0-134-55512-6.
+4. A.K. Jain (2017) Dynamics of Structures with MATLAB® Applications, Pearson
+Education, Chennai, India. ISBN 978-9-332-55855-7
+5. M. Paz and Y.H. Kim (2019) Structural Dynamics Theory and Computation (6th Ed),
+Springer Nature, Switzerland. ISBN 978-3-319-94742-6.
+Additional References:
+1. Structural 
+Dynamics 
+(2012) 
+by 
+Dr. 
+Pradipta 
+Banerji 
+on 
+NPTEL.
+2. Structural Dynamics (2016) by Prof. Ramancharala Pradeep Kumar on NPTEL.
+3. Structural Dynamics for Civil Engineers - SDOF Systems (2019) by Prof. Riya
+Catherine George on NPTEL. https://nptel.ac.in/courses/105/104/105104189/
+
+Title Advanced Mechanics of Solids Number MEL7XX0
+Department Mechanical Engineering L-T-P-D [C] 3-0-0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Substation Infrastructure Number EE7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Gas Insulated Substation Number EE7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M. Tech, M. Tech-Ph.D, Ph.D Type ME
+
+Title Machine Learning-1 Number CS 7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+Prerequisite None
+
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill.
+Self-Learning Materials
+1. Department 
+of 
+Computer 
+Science, 
+Stanford 
+University,
+
+Title Artificial Intelligence – 1 Number CS 7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech, M. Tech-PhD, Ph.D Type ME
+
+Title Wave Energy Conversion Number
+Department Chemical Engineering L-T-P-D [C] 1-0-0 [1]
+Offered for M.Tech, M.Tech.-Ph.D. [CIE] Type ME

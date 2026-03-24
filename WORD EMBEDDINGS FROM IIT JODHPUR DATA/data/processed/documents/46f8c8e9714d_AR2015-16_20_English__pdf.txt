@@ -1,0 +1,717 @@
+annual report indian institute of technology jodhpur old residency road ratanada jodhpur editorial board deepakkumar fulwani coordinator faculty atul kumar coordinator academics narayanan coordinator hari narayanan coordinator students amardeep sharma deputy registrar planning kshema prakash deputy librarian editor kshema prakash deputy librarian jodhpur email preface vision mission ii financial position contents board of governors finance committee senate building and works committee key functionaries departments and associated faculty members staff members collaborations with academia collaborations with industry projects patents publications awards recognitions permanent campus computer center library laboratories health center sports facilities cell women cell student fests events student accolades counselling service student placement cell alumni relations registered students in iit jodhpur preface into the seventh year of its existence the institute started five new academic programs three at the
+level in chemistry mathematics and physics and two at the
+level in electrical engineering and mechanical engineering
+also during the construction of the permanent campus of iit jodhpur has moved forward with speed even though the pace could have been faster
+construction of phase buildings is expected to be completed by september and the migration to the permanent campus is expected to happen during october
+during major step taken forward by the institute was the launching of the industry immersion program
+in the inaugural edition students and faculty members spent the summer in the leading technology industries of the country mahindra mahindra limited larsen toubro limited tata motors limited tvs motor company limited and tata power company limited as the first of the immersion of this set of students and faculty members
+also another special beginning made by iit jodhpur was the first successful defence of thesis four students completed their requirements
+the number of students increased from during to during
+the research profile of the institute has improved from sponsored research projects during to during and from publications during to during
+patents were filed by the faculty members during
+in particular in september iit jodhpur joined five established iits as of the iit center for bioenergy
+the institute welcomed new faculty members and new staff members into the iit jodhpur community to build strong career here
+gian courses were organized by the faculty members in chemistry mechanical engineering and electrical engineering
+murty the institute shall promote technology thought and action and prepare needed technical human resources to meet the technology challenges of the create vibrant technology institute that incubates and promotes learning research invention and eventually innovation and prepare each primary stakeholder towards their dharma while continuing to adhere to its core values prepare competent technology graduates ready to meet grand challenges of train active functionaries of process driven professional institute facilitate builders of an internationally competitive academic institute and provide technology innovation as force to as many industries as possible for economic value creation
+the institute stands for set of core values wherein each member of the iit jodhpur community shall uphold highest levels of human integrity and dignity not take unfair advantage of any stakeholder of the institute work towards building the most admired technology institute furthering interests of students industries and society commit to economic development of india through technological thought and be ethical sincere and open in all transactions and be continually responsible for upholding utmost confidentiality of all information and circumstances arising out of any interaction
+gaurav harit assistant professor jodhpur senate murty chairman pratap bhanu mehta member nominee of board of governors khincha member nominee of board of governors sanjeev misra member nominee of board of governors members coordinator faculty coordinator coordinator academics coordinator students head department of biology head department of chemistry head department of computer science engineering head department of electrical engineering head department of humanities social sciences head department of mathematics head department of mechanical engineering head department of physics chairman wardens committee chairman library committee laboratory workshop buildings and works committee jodhpur members
+deepakkumar fulwani faculty narayanan research development atul kumar academics hari narayanan students rahul chhibber laboratory workshop venkata ramana badarla computer science engineering anil tiwari electrical engineering ravindra mechanical engineering sushmita jha biology rakesh kumar sharma chemistry kirankumar hiremath mathematics subhashish banerjee physics vidya sarveswaran humanities social sciences sushmita jha biologically inspired system science chandramouli system science prawal sinha faculty navratan mal bhandari research development samanwita pal wardens committee manikandan student placement committee anil kumar tiwari medical services committee satyajit sahu library committee sarma chandramouli logistics committee sarma chandramouli scholarships and prizes committee anand krishnan plappally alumni relations committee ankita sharma counselling services committee gaurav harit chief vigilance officer gaurav bhatnagar transparency officer puneet sharma hindi officer mahesh kumar green initiative officer satyajit sahu nodal officer for obc pwd and minorities barun pratiher nodal officer for sc and st kshema prakash women cell officer amardeep sharma public relations officer sanjeeb mukherjee infrastructure engineer amardeep sharma infrastructure manager amardeep sharma central public information officer coordinator academics chairman convener focus group biologically inspired system science convener focus group system science liaison officer cell student representatives secretary ara society students gymkhana three student representatives from ara society students gymkhana one each from
+and programs the institute has organised its academic activities to be conducted through eight departments and two focus groups
+details of departments and associated faculty members are given in the pages to name research areas department of biology the department of biology is the hub of biological sciences at iit jodhpur
+following are the faculty members associated with the department sushmita jha head of department cellular and molecular neuroscience cell and molecular physiology amit kumar mishra cellular and molecular neuroscience cell cycle regulation and cancer karunakar kar protein biophysics amyloids and collagens rationally engineered biomaterials meenu chhabra biological science renewable bioenergy bioremediation academic activities in the department discussion meeting on technology in life sciences was organized during august at iit jodhpur
+the institute invited colleagues from industry organisations and academia to help shape the role of iit jodhpur in so far as technology in life sciences is concerned
+during this discussion meeting guests participated from outside the institute as detailed below
+dipankar nandi indian institute of science
+biswajit kundu indian institute of technology delhi
+khare indian institute of technology delhi
+shilajit bhattacharya all india institute of medical sciences jodhpur
+surajit ghatak all india institute of medical sciences jodhpur
+abhay elhence all india institute of medical sciences jodhpur
+pradipta bandopadhyay jawaharlal nehru university new delhi
+mukesh jain jawaharlal nehru university new delhi
+parthosarothi ray iiser kolkata via video conferencing
+dulal panda indian institute of technology bombay
+debashis dash of genomics integrative biology
+sreekrishnan iit delhi along with the faculty members from the department of biology faculty colleagues from other departments also participated in this discussion meeting
+many points emerged during the discussions and curriculum was suggested for the proposed
+biosciences and bioengineering program at iit jodhpur
+some of the salient closing thoughts were national challenges and gaps in pedagogy infrastructure and curriculum on part of the institute and competence knowledge skills and attitude in graduating students need to be assessed while moulding new department and degree programs at iit jodhpur
+wider discussion on the agenda of technology in life sciences at iit jodhpur is required with larger stakeholder group especially with those from industry to assess employability of students educated in iit jodhpur through the
+and programs faculty members of the department of biology iit jodhpur with the invited guests students of the department of biology iit jodhpur with the invited guests department of chemistry chemistry at iit jodhpur is where chemistry sees technology
+the following faculty members are associated with the department rakesh kumar sharma catalysis for energy and stereocontrol feedstock chemistry fuel and lubricants energy storage and water treament technology ananya debnath theoretical and computational chemistry atul kumar quantum information processing manikandan paranjothy theoretical and computational chemistry chemical reaction dynamics ritu gupta nanomaterials nanodevices for water energy and healthcare samanwita pal solution and solid state nmr and nqr spectroscopy faculty member research areas department of computer science engineering the department offers
+following are the faculty members associated with the department venkata ramana badarla wireless networks and cloud computing gaurav harit image and video analysis chiranjoy chattopadhyay computer vision aritra banik computational geometry the department also has an adjunct faculty member professor venkatesh raman from institute of mathematical sciences chennai
+department of electrical engineering the department offers
+the following faculty members are associated with the department anil kumar tiwari electrical engineering image processing video processing and signal processing application in abdul gafoor shaik protection of various components of power system protection of distribution network with dg penetration power quality assessment and mitigation in distribution networks with renewable energy source penetration arun kumar singh communication theory wireless and mobile communications satellite based navigation systems spread spectrum systems deepakkumar fulwani control and state estimation of uncertain systems power system control issues in wind energy conversion system mahesh kumar group quantum structures by mbe growth of thin films and nanostructures group alloys for leds hemts and photovoltaic applications hybrid structures with special attention to band gap engineering si and wide band gap semiconductors for mems micro and nano device fabrications sandeep kumar yadav signal processing condition monitoring image processing data compression blind source separation artificial neural network shree prakash tiwari microelectronics vlsi technology microfabrication organic electronics device physics and characterization new device structures suresh gundapaneni semiconductor device physics integrated circuit ic technology flexible electronics the department also has professor shyama sunder who is senior professor and bose national fellow at tata institute of fundamental research mumbai
+following are the faculty members associated with the department vidya sarveswaran english literature and environment ecocriticism film and literature literatures of the global south regional literatures in translation american literature ankita sharma psychology gerontology clinical and positive psychology george philosophy applied ethics ethics of technology bioethics mainak mazumdar economics intellectual property rights ipr and pharmaceutical industry productivity and efficiency analysis growth and regional development inequality poverty and social mobility rijo john economics health economics health policy applied econometrics development studies sreekumar jayadevan philosophy philosophy of science aesthetics of design formal logic philosophy of technology hari narayanan philosophy cognitive studies evolutionary theory analytic philosophy and mindfulness department of mathematics mathematics being the basis of many disciplines is subject that evolves with time and creates new theories and models to solve challenging problems of today
+following are the faculty members associated with the department kirankumar hiremath theoretical mathematical and computational aspects of interactions prawal sinha mathematical modeling of engineering and gaurav bhatnagar wavelet analysis fractional transform theory multimedia security image processing information fusion puneet sharma topological dynamics low dimensional chaos chandramouli smooth dynamical systems renormalization of unimodal maps and maps vivek vijay financial risk analysis categorical data analysis regression department of mechanical engineering the desire to contribute to national and global causes such as the solar mission and climate change is at the heart of the academic activities carried out within the department of mechanical engineering
+ravindra design dynamics vibration and control akshay prakash computational fluid dynamics anand krishnan plappally water water management and characterization of engineered materials barun pratiher dynamics of machines and structures flexible robots mems rotor dynamics nonlinear oscillations gaurav ameta design additive manufacturing tolerancing sustainable design and manufacturing kaushalkumar desai modeling of manufacturing processes cnc machining error compensation laltu chandra solar thermal open volumetric air receiver thermal energy storage heat exchanger thermal hydraulics turbulence simulation model development computational fluid dynamics
+prodyut chakraborty heat and mass transfer latent heat based storage device for high temperature applications alloy solidification process active and passive solar cooling systems electronic cooling rahul chibber welding and joining manufacturing and materials processing mechanical behaviour of materials suril shah robotics multibody dynamics and control department of physics visible research in fundamental physics along with its applications is the major theme of physics department at iit jodhpur
+following are the faculty members associated with the department subhashish banerjee open quantum systems quantum information statistical mechanics quantum optics ambesh dixit semiconductors multifunctional ferroics materials for characterization photovoltaic materials devices ab initio dft study and device simulations ashutosh kumar alok particle physics and cosmology monika sinha astrophysics astroparticle physics satyajit sahu information processing in biological systems narayanan optics and solar field design plasmonics laser produced plasmas lpp pulsed laser deposition pld plasma diagnostics interferometry optical emission spectroscopy oes laser matter interaction and laser cluster interaction the department also has professor chopra advisor thin film laboratory iit delhi
+physics course curriculum review workshop was conducted on april
+professor deshmukh iit madras professor rajiv gavai tifr mumbai professor dutta iit kharagpur professor uma sankar iit bombay professor suresh iit bombay and professor deshdeep sahdev iit kanpur participated in the workshop
+the agenda of the workshop was to discuss the sc
+physics program along with all the courses offered by department of physics iit jodhpur
+gaurav nigam superintendent abhay kumar awasthi junior assistant rashmi dhyani manish kumar bhomia assistant registrar ashish kachhawaha naresh chouhan junior superintendent rakesh kumar biswajit pramanik goutam sethiya balachandra iyer registrar amardeep sharma deputy registrar sandeep singh chandel sharad srivastava assistant ajay kumar singh gurpreet kaur virdi darsh kumar khatwani madhavi lata stenographer on deputation to iit tirupati sanjeeb mukherjee executive engineer civil chandresh pareek junior engineer civil vinay kumar junior engineer electrical kshema prakash deputy librarian amit kumar soni senior library information assistant chunni chhatwani kamleshkumar patel deputy registrar planning trilotama singh sandeep pareek achinta mondal dhani ram choudhary stenographer swati kushwaha sharabh pradhan adarsh kumar srivastava rimpesh katiyar technical superintendent dheerendra kumar yadav junior technical superintendent rinkesh kumar mangal poonam chand sankhla ram singh ratnu technician vivek verma junior technician gajraj sharma hemraj dhodhawat kailash chander abhishek sharma praveen suthar bhagya wardhan rambeer singh bharat pareek mohan mukesh malviya ganpat chowdhary shubham pandey narendra kumar singh no
+name of the title of thesis supervisor department date of defense
+shrivishal tripathi shrivishal analysis and design of akhilesh mohan iitkgp sandeep yadav electrical engineering september tripathi wideband fractal
+sibani bisoyi stability and shree prakash tiwari electrical engineering december academics academic programs currently the institute offers the following four sets of programs
+with specialisation in humanities social sciences first set of theses iit jodhpur opens its account with four students successfully defending their theses during this year
+following are the details
+heena rathore improving security in wireless sensor networks through approaches venkata ramana
+computer science engineering october
+deepak kumar chhangani role of mgrn1 e3 ubiquitin ligase in protein quality control mechanism and polyglutamine diseases biology january international institutes and universities
+university of western ontario canada august
+university of waterloo canada november
+university of california merced april
+institute of science and technology nara japan february collaborations with academia the institute has signed memoranda of understanding mous with six international universities two international agencies three national institutes and universities and one national agency for furthering cooperation on specific fronts
+these mous are universitat rovira virgili tarrgona spain august for the development of mutually beneficial academic program and courses coordination of academic staff travel for the purposes of teaching research and training cooperation of student mobility program for study research and for joint academic activities such as research publications conferences and symposia exchange of documentation and research materials in the field of mutual interest provided that there are no legal barriers against exchange and collaboration in international master and doctoral programs between both the institutions
+the commissariat energie atomique et aux energies alternatives france national institutes and universities
+sardar patel university of police security and criminal justice jodhpur embassy of france in india march to explore prospective domains for students and scholars to learn french language effectively
+national law university jodhpur to collaborate in various academic activities in the spheres of expertise
+speaker topic arunkumar sampath sachin lodha iit jodhpur has initiated to collaborate with industry towards enhancing the learning experience of students and collaboration opportunities for faculty members
+in the year two more series of vanguard lectures were organised since july
+series january may
+jayaram vice president research and development tvs motor company limited hosur new product development simulation way july paranjpe chief hydro renewable operations and safety tata power company limited khopoli hydropower plant challenges august barun chakrabarti anil bhansali professor raghunath shevgaonkar professor navneet arora professor indian institute of technology roorkee excellence in engineering and expectations from an engineer january industry immersion program in july when the institute launched the blended technical education model at the
+then this was followed by the grand technology projects gtps competition during and interested students showed special excitement
+most students are now seeing merit in converting their
+beginning may students and faculty members immersed inside these leading technology industries as the first of the three successive summer engagement
+the key features of this industry immersion program iip include for students experiential and cooperative learning working on live assignments under the tutelage of industry professionals and engaging in projects spanning over years starting iv semester
+for the institute faculty members will be able to look beyond the institute and develop linkages with industry course curricula will become more real silent advantage faculty members will have opportunities for research and consultancy projects that are current and impactful and greater sensitivity to integrate industry needs in academia to benchmark students and faculty members from industry perspective and to reflect and undertake needed correction in strategies of the institute
+by choosing to join the industry immersion program select students have chosen path different from others
+it will put them on pedestal of competence and accomplishments beyond the qualification by the
+research highlights iit jodhpur becomes one of the five iits in iit center for bioenergy the department of biotechnology dbt ministry of science technology government of india and five iits namely iit bombay iit kharagpur iit roorkee iit guwahati and iit jodhpur have come together to launch virtual center for bioenergy
+iit bombay will coordinate the activities of this virtual center
+the main objective of this center is to develop advanced technologies in the area of biofuels paving the way for sustainable solution to the energy crisis
+also the center aims to develop mutually beneficial relationship with the industry in india
+narayanan coordinator research development iit jodhpur represented the institute at the signing of the memorandum of agreement moa at iit bombay on september
+moa signing faculty members at iit jodhpur working on bio fuels biomass or has been acknowledged as renewable energy source that can replace fossil fuels with the added bonus that the biomass can absorb carbon dioxide from the atmosphere and reduce the greenhouse effect
+obtained either from microbial fermentation or from the pyrolysis of biomass in an inert gas atmosphere has significant appeal for use in transportation fuels both economically and technologically
+algae can produce more oil than other biofuel feed stocks
+the bottle neck of this technology is to devise cultivation methods for algae which can support higher growth rates and oil productivities efficient methods to convert algae oil to fatty acid methyl esters biodiesel or to develop right catalyst that can convert biomass to fuel bio for the current technology
+catalytic upgrading of algae biomass to transport fuel is the project rakesh sharma assistant professor is working on
+this research aims to develop new and efficient heterogeneous catalytic systems for conversion of algae biomass to transport fuel via tandem hydrocracking followed by hydrodenitrogenation hydrodeoxygenation processes
+these heterogeneous catalytic systems based on metals nanoparticles in zeolites and clays
+successful catalysts are aimed to be green recyclable and scalable kilogram level
+these catalysts will be sulphide free non noble metal catalysts
+in next phase the substrate applications will be extended from to edible and oils
+the reactions will be essentially carried out at two operating conditions for mild bar and deep hydrotreatment bar
+mechanistic studies of these catalytic processes will be focal point to design better catalyst
+development of low cost microbial carbon capture cells for power generation and algae cultivation is the project meenu chhabra assistant professor department of biology is working on
+from algae have potential to completely replace fossil based fuels and provide energy security for the future
+however the cost of algae is still too high for commercial application
+in this context process for the production of algae and electrical energy using microbial carbon capture mcc cells is proposed
+in mcc cells the process of algae biomass degradation complements the process of algae biomass production with concomitant power generation
+these two projects together which are funded by department of biotechnology government of india are likely to offer an exciting technology proposition of offering fuels for the nation
+project title the faculty members in the institute are currently working on sponsored research projects
+their details are understanding the molecular function of mgrn1 in chaperone mediated autophagy department of biotechnology dbt government of india pi amit mishra rs
+lakhs how amfr gene regulates cell division and cancer after stress exposure
+board of research in nuclear sciences brns dae government of india rs
+lakhs of collagen peptides as foundational knowledge for cardiovascular disease pi karunakar kar rs
+lakhs bioremediation of low level wastes including denitrification using microbial fuel cells pi meenu chhabra atul kumar rs
+lakhs development of low cost microbial carbon capture mcc cells for algae cultivation and powers generation pi meenu chhabra rs
+lakhs deposition of particulate matter in lungs pi sushmita jha rs
+lakhs role of the inflammasome associated proteins in glioma science and engineering research board serb dst government of india rs
+lakhs chemical dynamics simulations of complex organic reactions pi manikandan paranjothy rs
+lakhs generation storage and distribution of solar hydrogen department of science technology dst government of india pi rakesh kumar sharma rs
+lakhs asymmetric hydrogenation on carbon nanotube surface rs
+lakhs molecular sensors synthesis and anion recognition studies rs
+lakhs catalytic upgrading of to transport fuel rs
+scholarship scheme for electronics it department of electronics information technology deity government of india pi anil kumar tiwari rs
+lakhs computationally efficient fixed complexity sphere decodes for multiuser mimo communications science and engineering research board department of science technology government of india pi arun kumar singh rs
+lakhs development of programmable emulator for photovoltaic plant to facilitate complex testing requirements pi deepakkumar fulwani rs
+lakhs development of metal doped tio2 low dimension structures by sputtering for gas sensing applications board of research in nuclear sciences department of atomic energy government of india pi mahesh kumar rs
+lakhs synthesis and characterization of gallium nitride based nanocrystals embedded in si based matrices for photodetector and applications rs
+lakhs development of mems based gas sensors using rf sputtered transition metal doped zno nanostructures science and engineering research board department of science technology dst rs
+lakhs development of tunable rf filter based on ferroelectric thin film by sputtering indian national science academy rs
+lakhs reproductive child health unicef jaipur branch pi sandeep kumar yadav rs
+lakhs algorithms for blind signal detection and demodulation defense research development organization drdo jodhpur government of india rs
+lakhs developing dielectric semiconductor combinations and processes for flexible organic electronics pi shree prakash tiwari rs
+lakhs design of sensor signal conditioning system multiprocessor scheduling algorithms using control theoretic approach ii rs
+lakhs encapsulation of organic devices by atomic layer deposition drdo car proposal rs
+lakhs where the bougainvillea blooms stories of place from resilient landscape educational foundation pi vidya sarveswaran rs
+lakhs establishment of the centre of excellence in solar thermal research and education ministry of new renewable energy government of india pi laltu chandra rs
+crores csp plant indian oil corporation rs
+lakhs thermal design of pcm cool and warm vest pi prodyut ranjan chakraborty rs
+lakhs hybrid reactionless manipulation and visual serving of satellite mounted robot for autonomous on orbit services pi suril vijaykumar shah rs
+lakhs singularity free reactionless manipulation of satellite mounted robot for capture of tumbling orbiting object rs
+lakhs development of ferroelectric and their composite with hexaferrites for microwave absorption applications pi ambesh dixit rs
+lakhs investigation of magnetoelectric coupling in multiferroic system rs
+lakhs development of plasmonic metal hybrid electrode system for quantum dot sensitized solar cells qdsscs realization of carrier multiplication for better efficiency rs
+lakhs development of high thermal conductivity pcm composites for thermal management rs
+lakhs design and development of high capacity and low cost li2tmsio4 metals silicate materials for future rechargeable lithium ion battery rs
+lakhs probing magnetic structures and spin flop transition in bulk and nanostructured fevo4 multiferroic system department of science technology dst government of india pi ambesh dixit hunting of new physics through transitions council of scientific industrial research csir government of india pi ashutosh alok subhashish banerjee rs
+lakhs synchrony based evolution of various biological and artificial systems to understand complex computational aspects pi satyajit sahu rs
+lakhs graph theoretical aspects in quantum information processing council of scientific and industrial research csir government of india pi subhashish banerjee rs
+lakhs department patents journal conference preprints book total filed articles papers chapters total patents publications in our faculty members have filed patents published research papers and articles in scholarly journals of their works have been covered as conference presentations and in conference proceedings preprints and book chapters have been contributed
+biology chemistry computer science engineering electrical engineering humanities social sciences mathematics mechanical engineering physics the following is the list of patents and publications
+immobilized laccase mediated dye decolorization and transformation pathway of azo dye acid red
+journal of environmental health science and engineering
+mahogunin ring finger confers cytoprotection against mutant sod1 aggresomes and is defective in an als mouse model
+neurobiology of disease
+and gold nanoparticles inhibit amyloid aggregation of insulin
+huntingtin exon fibrils feature an interdigitated based polyglutamine core
+kumar pal chhabbra harinipriya
+separation of enantiomers of alanine from racemic mixture polycrystalline metal surfaces spectroelectrochemical approach
+cellular and molecular life sciences
+selective multifaceted e3 ubiquitin ligases barricade extreme defense potential therapeutic targets for neurodegeneration and ageing
+ageing research reviews part
+mahogunin ring mgrn1 multifaceted ubiquitin ligase recent unraveling neurobiological mechanisms
+vijay vaishnava chhabra
+environmental science and pollution research
+calibration free water quality sensor device and system inventors rakesh sharma iit jodhpur hareesh panasonic corporation japan patent reference number provisional date march
+title metal nanoparticles intercalated clay for solvent free hydrogenation of squalene into rakesh sharma vineet soni patent application number
+bondarenko ganina sharma beletskaya
+catalytic activity of pd catalysts on different supports in hydrogenation of acid
+russian chemical bulletin
+choudhary sharma plappally
+structure and dynamics of phospholipid nanodiscs from and simulations
+debnath wiegand paulsen kremer peter
+derivation of grained simulation models of chlorophyll molecules in lipid bilayers for applications in light harvesting systems
+goudar gupta kulkarni inamdar
+rotational diffusion of new large non polar dye molecule in alkanes
+journal of fluorescence
+solution processed nanomanufacturing of sers substrates with random ag nanoholes exhibiting uniformly high enhancement factors
+kiruthika gupta anand kumar kulkarni
+fabrication of oxidation resistant metal wire network based transparent electrodes by coating process
+platinum functionalized multiwall carbon nanotube composites as recyclable catalyst for highly efficient asymmetric hydrogenation of methyl pyruvate
+development of low cost based water guards
+indian water week
+shejale laishram sharma
+shejale laishram roy kumar sharma
+timsina sharma rajanbabu
+chaudhary sharma soni pandey sharma
+sharma soni chaudhary plappally pandey sharma
+rathore badarla george
+journal of network and computer applications
+bajaj nayak gundapaneni rao
+ieee transactions on nanotechnology pp
+barala singh ranwa kumar
+radiation induced response of based tunable capacitors under gamma irradiation
+ieee transactions on nuclear science pp
+crystallinity and performance improvement in solution processed organic transistors due to structural dissimilarity of the additive solvent
+semiconductor science and technology
+jain tiwari chourasia
+journal of medical engineering technology
+review of distribution static compensator
+raghuwanshi bharti tiwari
+ranwa kumar singh fanetti kumar
+vertically zno nanorods for hydrogen gas nanosensor applications
+roul kumar rajpalke bhat krupanidhi
+binary group nitride based heterostructures band offsets and transport properties
+singh mahia fulwani
+singh ranwa akhtar kumar
+growth of residual zno films on substrate at room temperature for mems devices
+robust control of boost converter feeding constant power load
+iet power electronics
+singh rathore fulwani
+mitigation of negative impedance instabilities in converter with composite load
+journal of power electronics
+compact octagonal fractal uwb mimo
+agarwal deekshitha singh fulwani
+sliding mode control of bidirectional converter with constant power load
+in ieee first international conference on dc microgrids icdcm pp
+gautam singh fulwani
+dc bus voltage regulation in the presence of constant power load using sliding mode controlled converter interfaced storage unit
+jakhetiya lin jaiswal tiwari guntuku
+observation model based perceptually motivated bilateral filter for image reconstruction
+in ieee international conference on digital signal processing dsp pp
+in international conference on energy economics and environment iceee
+in control conference ecc european pp
+rathore bhartiya fulwani
+development of programmable emulator for photovoltaic source sae technical paper no
+warrendale pa sae international
+mamudu veeranki john kioko ogwell ouma
+secondhand smoke exposure among nonsmoking adolescents in west africa
+american journal of public health
+an elephant in the desert
+regional differences and determinants of secondhand smoke exposure among youth
+presented at the apha annual meeting and exposition october november apha
+uniform convergence and dynamical behavior of discrete dynamical system
+journal of applied mathematics and physics
+design of wire based band polarization insensitive metamaterial absorber
+matrix characterization of multidimensional subshifts of finite type
+dynamics of nonautonomous discrete dynamical systems
+newyork nova science publishers
+patidar tiwari sharma pardeshi chandra shekhar
+solar convective furnace for metals processing
+patidar tiwari sharma chandra shekhar
+open volumetric air receiver based solar convective aluminum heat treatment furnace system
+singla chhibber avdesh goyal sharma
+singla chhibber bansal kalra
+wear behavior of aluminum alloy composites reinforced with sic al2o3 and red mud comparative study
+singla chhibber dutta
+mmu journal of management technology
+singh saini chandra
+on the evaluation of cyclone separator for cleaning of open volumetric air receiver
+applied thermal engineering
+singh saini yadav sarma chandra shekhar
+dust deposition mechanism and cleaning strategy for open volumetric air receiver based solar tower systems
+numerical studies of nonlinear flexible rotating system under harmonic ground motion
+in pennacchi ed
+proceedings of the iftomm international conference on rotor dynamics pp
+springer international publishing
+kumar dixit chandra vyas kumar
+in ieee first international conference on control measurement and instrumentation cmi pp
+in saha das srivastava panigrahi muralidhar eds
+sin and from evolution of view the mathml b0d mesons with decoherence
+alok banerjee kumar uma sankar
+alok banerjee kumar sankar london
+signals of model with quark
+banerjee alok srikanth hiesmayr
+theoretic analysis of neutrino oscillations
+the european physical journal particles and fields
+banerjee alok mackenzie
+dixit ramchandran kuo lawes
+magnetic structure and thermal conductivity of fevo4 multiferroic
+ieee transactions on magnetics article
+quantum code for quantum error characterization
+sharma shukla banerjee pathak
+controlled bidirectional remote state preparation in noisy environment generalized view
+upper critical field and non of magnetars
+physics of particles and nuclei
+thapliyal banerjee pathak
+tomograms for open quantum systems in finite dimensional optical and spin systems
+thapliyal banerjee pathak omkar ravishankar
+quasiprobability distributions in open quantum systems systems
+tiwari dixit naik lawes rao
+magnetostructural and magnetocaloric properties of bulk lacro3 system
+tiwari goyal jha dixit awana
+pdte bcs superconductor
+tripathi tripathi dixit vijay
+luminescence tuning in zns mn system by mev ion beam irradiation
+radiation effects and defects in solids
+accelerated dirac qubit
+bhattacharya banerjee pati
+effect of on the dynamics coherence concurrence fisher information
+bipartite separability and quantum operations graphs
+kumari tripathi dixit
+beta phase manganese dioxide nanorods synthesis and characterization for supercapacitor applications
+omkar banerjee srikanth alok in press
+the unruh effect
+alok banerjee sankar
+effect of decoherence on clean determination of sin and
+in proceedings of science
+vienna austria sissa
+alok banerjee sankar kumar london
+signals of model with an isosinglet quark
+amit kumar mishra assistant professor department of biology iit jodhpur has been selected for the young researcher award in the category of cellular and molecular neuroscience of the venus international foundation faculty awards viffa
+this award will be presented to him at the viffa event
+conferred the young scientist award by the biotech research society of india brsi
+this honour was conferred on him during the international conference on new horizons in biotechnology at institute for interdisciplinary science and technology thiruvananthapuram held during november
+for his research contributions the new york academy of sciences has launched amit kumar mishra profile on their website
+mahesh kumar assistant professor department of electrical engineering has been selected by the materials research society of india mrsi to receive the mrsi medal for
+the medal will be presented to him during the annual general meeting of mrsi to be held at jorhat assam during february
+the mrsi is an interdisciplinary society founded in by bharat ratna professor rao who is dedicated to the field of materials science and engineering in india
+the society is committed to stimulate and integrate research in the field of materials for rapid industrial progress in the country
+shree prakash tiwari assistant professor department of electrical engineering has been elevated as senior member of the institute of electrical and electronics engineers smieee as an honour to his contribution to the profession
+ashutosh alok assistant professor and subhashish banerjee assistant professor and head of the department received international recognition for their work on probing signatures of quantum gravity
+they along with uma sankar iit bombay are working on probing signatures of quantum gravity like background at lhcb and
+this work opened the doors for probing some very fundamental aspects of nature such as quantum gravity background by measuring observables in flavor physics which are mainly used to probe new physics models beyond standard model
+their work sin and from evolution of b0d mesons with decoherence has been published in physics letters renowned journal in the field of particle physics
+also the work was presented at the prestigious european physical society conference on high energy physics held at the university of vienna austria in july accompanied by teachers from various regions of the
+ishaan vikaas program special program in the name of ishaan vikaas an initiative of the ministry of human resource development has been launched as comprehensive plan to bring selected school girls and boys from the states into close contact with the iits and iisers during their vacation periods with the objective of opening up the young minds and giving them broad overview of the future paths which they would like to traverse
+at the same time as part of ishaan vikaas an academic activity will take place to encourage internship for the engineering college students of states in various institutes of national importance
+during this summer about school children accompanied by teachers and
+students accompanied by one faculty member have visited iit jodhpur for two weeks june july and eight weeks respectively
+in this context schedule has been prepared for the school children while each visiting
+student has been assigned research problem under the mentorship guidance and supervision of the faculty members of respective department
+during december the institute has hosted about school children participants of ishaan vikas program rashtriya avishkar abhiyan rashtriya avishkar abhiyan raa is program of the ministry of human resource development mhrd in pursuance of the focus on connecting knowledge to life outside the school and making learning of science and mathematics joyful and meaningful activity and to bring focus on innovation and use of technology
+the rashtriya avishkar abhiyan raa is convergent framework that aims at nurturing spirit of inquiry and creativity love for science and mathematics and effective use of technology amongst children and encourage those who show an inclination and talent for these subjects to be encouraged and supported to heights of academic excellence and research
+the activities of rashtriya avishkar abhiyan raa are organized by ananya debnath faculty member with the support of heads of departments faculty members and staff members
+under rashtriya avishkar abhiyan initiative an open house for school students was organized on november at iit jodhpur which included public lectures and laboratory visits
+the objectives of this event were to enable students in getting motivated and engaged in science mathematics and technology and to provide an exposure to students of national needs and current science
+total students escorted by teachers each from their school participated from schools in jodhpur
+ananya debnath assistant professor department of chemistry and for rashtriya avishkar abhiyan introducing the program vivek vijay assistant professor department of matematics addressing the enthusiasts from schools chiranjoy chattopadhyay assistant professor department of computer science engineering explaining computer technology used in movies ritu gupta asssistant professor department of chemistry showing structural colour of butterfly to the school students lecture series the institute invites accomplished persons from different walks of life to expand and enrich the horizons of its faculty members staff members and students
+distinguished lecture on the development of temple architecture in collaboration with the ministry of external affairs government of india the institute launched the mea iit jodhpur distinguished lecture series where current and former ambassadors of india spend time at the institute to share their experiences and understanding of india from outside india
+the institute continuing its tradition of distinguished professionals with standing and missionary zeal who dedicated their lifetime in specific domains are invited to the institute to share their career paths the trials and tribulations and the way forward for the current generation seeking to tread such challenges
+during this year on february professor amitabha ghosh platinum jubilee senior scientist the national academy of sciences india and former director of iit kharagpur delivered lecture on gravitation inertia and the universe the amazing consequences of relook into the newton laws
+besides the above the following special lectures were witnessed in the institute during this period
+iit jodhpur and department of management studies jai narayan vyas university jodhpur came together to organize special lecture by professor pankaj chandra member board of governors iit jodhpur and former director iim bangalore on october
+professor chandra spoke on pivoting indian manufacturing policy differently
+special public lecture was delivered by jerry hultin chairman global initiative for academic networks gian in higher education is program of the ministry of human resource development mhrd to invite accomplished scientists and entrepreneurs living abroad to give short courses at premier institutes in india
+this scheme is relevant especially for new iits facing faculty shortage
+under this program the faculty members of the institute organized term courses as below
+synthesis and characterization of materials for energy storage devices dates december host faculty foreign faculty timothy fisher purdue university usa robot modeling and control and applications to aerial robots december suril vijakumar shah and sudipto mukherjee iit delhi vijay kumar university of pennsylvania usa fundamentals of applied vehicle dynamics and chassis systems january raghu enchempati kettering university usa advanced digital vlsi circuit design march manoj sachdev university of waterloo canada this year the following workshops and conferences were organized in the institute
+workshop for discussion and finalization of dpr for an experimental csp plant at iit jodhpur was organized by jointly by iit jodhpur indian oil corporation limited and bharat heavy electrical limited during july at iit jodhpur
+the edition of the national frontiers of engineering symposium the annual flagship event of the national academy of engineering inae was hosted at iit jodhpur during june
+institute events participants in yoga session organizers with yoga instructors the national flag was hoisted at the other three temporary campuses earlier in the morning academic campus and the gpra and bsnl residential campuses
+inauguration of the first building at permanent campus of iitj cultural program the program ended with vote of thanks by coordinator faculty followed by high tea
+vigilance awareness week was observed at iit jodhpur during october
+it concluded with program on preventive vigilance as tool of good governance where all the offices at iit jodhpur presented procedures followed by them in various works
+as part of their presentations the issues challenges and bottlenecks faced by them at different stages were discussed and some suggestions to overcome were received from the participating members to mitigate confusions and delays in various dealings
+on this occasion ridhi aggarwal student computer science engineering received token of appreciation for her presentation on the topic of the program
+the program was attended by the faculty members staff members and students
+the program concluded with pledge taken by the members present
+ridhi aggarwal receiving prize faculty and staff members taking the vigilance pledge the constitution day was celebrated at iit jodhpur on november
+on this occasion the faculty members and staff members of iit jodhpur came together
+the program was introduced by balachandra iyer registrar
+the preamble of the constitution of india was read out by deepak fulwani assistant professor department of electrical engineering and kshema prakash deputy librarian in english and hindi respectively
+introduction to the program reading of the preamble of the constitution tree plantation by smt
+singhvi tree plantation by professor prawal sinha tree plantation by professor bhandari tree plantation by staff members of iit jodhpur the event was attended by faculty members staff members and students of iit jodhpur and advocates of high court of rajasthan jodhpur
+facilities our campus present campuses at present iit jodhpur operates from two sets of temporary campuses namely temporary academic campus it operates independently from the premises of mbm engineering college in jodhpur situated on the old residency road ratanada at distance of about km from the jodhpur railway station and kms from the jodhpur airport
+facilities following are some basic facilities made available in the residential areas atm bank the residential area has branch of sbi state bank of india as well as an atm of sbi enabling students to make transactions with ease
+transport services the institute has bus service running between the residential and academic campuses at regular intervals exclusively for the students of the entertainment room every hostel consists of recreation facilities like tv rooms where students can enjoy matches and watch movies along with indoor games like table tennis and carroms
+the other salient features of the permanent campus are walking campus which is pedestrian oriented and bicycle dominant learning facilitated anywhere anytime with wireless ict backbone including enabled learning spaces with flexible shared public spaces thermally comfortable smart buildings with griha star compliant buildings and griha ld benchmark campus including dense desert settlement morphology low height buildings up to maximum of storeys built with low embodied energy materials and improved local and traditional methods plantation with native species soil stabilization protection from dusty wind to arrest erosion desertification and soil moisture over time rain water harvesting and water reduction and sewage recycling together greening the site over time and segregated wastes and customized recycling entrance structure of iit jodhpur permanent campus the campus will have housing for faculty members and staff members along with school up to class xii bank post office and market
+faculty member housing the first migrations into the campus are likely to take place during october
+number of book number of book renewals library also maintains portal for hosting bibliographic listing of the faculty publications
+library also provides remote access to the subscribed scholarly resources and plagiarism checking
+extension ab1 reading room appearing below are some vital statistics of library for fy circulation transactions total details of library has licensed the following electronic resources in this year for teaching research and private study of its academic community
+scifinder the library is also core member of the eshodhsindhu consortium for higher education electronic resources operated by inflibnet center gandhinagar thorugh which subscriptions to major resources is fulfilled
+advanced biosciences and neuroscience laboratory chemical biology laboratory environmental biotechnology laboratory protein engineering laboratory chemistry laboratory multimedia laboratory networking technologies laboratory control dsp microprocessor laboratory electronic circuit laboratory instrumentation communication laboratory power electronics laboratory
+robotics laboratory digital language laboratory advance manufacturing laboratory central workshop dynamics vibration laboratory electro mechanical energy conversion laboratory fluid mechanics heat transfer laboratory high temperature solar thermal laboratory
+solar radiation laboratory biomolecular information processing laboratory magnetic property measurement system mpms squid laboratory materials analysis laboratory physics laboratory department of biology the department of biology has the following laboratories for teaching and research purposes
+protein engineering laboratory the protein engineering laboratory at iit jodhpur is undertaking cutting edge research in developing biomaterials based on the understanding of structural and functional properties of useful proteins such as collagen
+department of chemistry the department of chemistry has the following laboratories for teaching and
+nuclear magnetic resonance spectrometer mhz solar simulator surface area analyzer gas chromatograph reactor ready department of computer science engineering the department of computer science engineering has the following laboratories for teaching and research purposes
+multimedia laboratory the media laboratory provides facilities to carry out work related to image processing and computer vision
+this allows the students and researchers not only to understand traffic patterns internet but also to develop new on the internet for distributed storage networking mapping systems content distribution service and cloud computing
+department of electrical engineering the department of electrical engineering has the following laboratories for teaching and research purposes
+gait analysis and robot assisted rehabilitation department of humanities social sciences the department of humanities and social sciences uses the language lab teaching and practice of language
+department of mechanical engineering the department of mechanical engineering has the following laboratories for
+advance manufacturing laboratory in the advance manufacturing laboratory cad model of object is prepared using modelling software like proe solidworks and catia
+devices such as earth air heat exchange system wind catcher and heat exchange systems are being fabricated and tested for certain
+renewable energy laboratory to resolve most daunting challenge of this also our nation heavy reliance fossil fuels renewable energy laboratory rel promotes rigorous and objective empirical research at iit jodhpur on issues related to energy and environment
+department of physics the department of physics has the following laboratories for teaching and
+the women cell iit jodhpur functions in accordance with the provisions contained in sexual harassment of women at workplace prevention prohibition and redressal act
+the women cell of the institute organized lecture on sexual harassment at work place and precedent law by advocate nupur bhati on september
+advocate bhati serving lawyer in rajasthan high court elucidated the provisions under the sexual harassment at workplace act and touched upon some cases as examples
+the lecture was attended by the faculty members staff members students and members of women cell
+international women day was celebrated at the indian institute of technology jodhpur on march
+honourable justice jaishree thakur sitting judge of rajasthan high court jodhpur who graced the occasion as the chief guest delivered the key note address
+the women cell iit jodhpur on the occasion of the international women day organized logo design and slogan writing competitions for their students and employees ahead of time
+thereafter short video on contribution of women was screened
+the event concluded with visit to the exhibition of the entries received in logo design and slogan writing competition organized by the women cell iit jodhpur
+honourable justice jaishree thakur chief guest addressing the gathering releasing logo and slogan for the women cell members of the women cell iit jodhpur exhibition of the logo design slogan writing competition the women cell of the institute organized workshop on gender intelligence during may for all employees of iit jodhpur
+the workshop was attended by the faculty members staff members and members of women cell
+workshop on gender intelligence part assertive training session for women workshop on gender intelligence part session on prevention of sexual harassment posh participants of the workshop on gender intelligence with resource persons student activities students gymkhana the student gymkhana iit jodhpur is divided into five societies and in turn each society is divided into several clubs
+these six societies are the academic research and management arm society is platform for all activities and initiatives related to academics and research
+creativity is more than just being different
+with the thought imagination is more important than knowledge the science and technology society nuts of iit jodhpur provides students an opportunity to think beyond the conventional boundaries of science to realize their dreams and develop the technology for the next generation
+sports are known for producing the most remarkable athletes colourful characters influential leaders and memorable heroes
+in addition to sports the society arranges several adventure tours and coordinates the waves is the fountainhead of all cultural activities in the institute
+in this sports festival was organized from october to november
+the chief guest at varchas was padma shri limba ram an indian archer from rajasthan
+opening ceremony of varchas participants of varchas participants of varchas awaz soch event in the soch team put their best foot forward to organize the following events as part of soch
+awaaz panel discussion was conducted with great contribution from some renowned speakers and students from all over the city of jodhpur on the theme improtance of sports in education
+the fest concluded with director dinner hosted in the temporary academic campus of iit jodhpur on november
+the marathon which is part of varchas was organized on april at am in coordination with the jodhpur development authority jda
+the theme of this year marathon was smart and swacch jodhpur
+participants in mini marathon on april ignus ignus the fest of iit jodhpur was celebrated from february
+the fest was opened by famous sitar player shujaat khan on february with collaboration of spic macay
+robosoccer nrityansh clash of bands robowar antarang ignus open were the flagship events that were organised during this fest
+workshops on android app development bridge designing augmented reality vehicle overhauling ethical hacking embedded system entrepreneurship data science machine learning serial wireless communication placement etiquettes and quadcopter were organized during this event
+an alumni meet was also organized on february
+professor prawal sinha professor faculty iit jodhpur anand krishnan plappally faculty alumni relation committee iit jodhpur and damayanti bhattacharya ceo iit bombay alumni association addressed the alumni of iit jodhpur
+technical events during ignus cultural events during ignus festivals iit jodhpur student gymkhana hosts festivals for its own student community
+other events framed art exhibition framed is the annual art exhibition of iit jodhpur conducted by the media arts and design society students gymkhana iit jodhpur
+it includes the photography photo editing posters designed by students and sketches paintings made by the students
+spectators musing the art work felicitating ravi dhingra canon photo mentor scholarships to students the following iii year
+students have received academic scholarships for summer
+name of scholarship deutscher akademischer austauschdienst german academic exchange service popularly known as daad funding agency daad wise working internships in science and engineering period of months from may to july names of students
+name of bose scholars program dst and the science and technology forum iusstf name of the student ashwin electrical engineering gridtech award to iit jodhpur students aniruddh ramrakhyani suryateja voruganti and alvin roy aliath final year
+electrical engineering students were awarded second prize at the student innovation pavilion of international exhibition and conference gridtech for their project dynamic voltage restorer
+they carried out the project under the guidance of dhaval patel assistant professor department of electrical engineering
+the prize was given away by shri girish pradhan chairman cerc
+supported by the ministry of power government of india the event was organised by pgcil from april at pragati maidan new delhi
+yellow day celebrations yellow is the best colour to create enthusiasm for life and can awaken greater confidence and optimism
+what is needed is moment where we stop and appreciate all the awesome things around us
+with this motive iit jodhpur counselling service team initiated tradition this year to dedicate one day february to appreciate the good things in our life
+the event was attended by the students faculty and staff members of the institute
+faculty members greeting each other in yellow attires recording thoughts on what makes you smile no
+oal india limited
+ognizant technology solutions
+rishti soft solutions pvt
+utures first info services pvt
+rofers india pvt
+the office of student placements osp is run and managed by the students in sync with the official authorities thereby taking care of the placement and internship procedures
+arsen and toubro
+ational engineering industries
+ucleus software exports limited
+racto technologies pvt
+amsung india software center sisc
+teelwedge technologies pvt
+ata consultancy services
+oylla fashions pvt
+total students placed no
+tata consultancy services tech
+an alumni meet was organized on february
+professor prawal sinha program year of registration number total total total total grand total registered students in iit jodhpur iit jodhpur has as on march total of students registered in various programs offered by the institute
+the table and chart below depict the up of the registered students in the institute
+g201081501 belal usmani energy
+g201081502 dharmendra singh rajpurohit energy
+g201081504 suresh kumar energy
+g201181001 deepesh patidar energy
+g201181003 pura ram energy
+g201181004 vikas pratap singh energy
+g201181005 vikash chandra janu energy
+g201181501 lokesh saini energy
+g201181502 surendra singh barala energy
+g201182001 abhay samant ict
+g201182005 puneet kumar jain ict
+g201182006 ram niwash mahia ict
+g201182007 ravi raj choudhary ict
+g201182009 sapana ranwa ict
+g201182010 saurabh maheshwari ict
+g201182501 amit bhati ict
+g201182502 kapil sharma ict
+g201183001 rohan sharma ss
+g201183501 parmod kumar ss
+g201183502 preeti yadav ss
+g201281001 ajay jain energy
+g201281002 dharmesh kumar energy
+g201281003 poonam sharma energy
+g201281004 shejale kiran prakash energy
+g201282002 deepak bharti ict
+g201282003 giriraj vyas ict
+g201282007 rakesh kanji ict
+g201282009 suresh dahiya ict
+g201282010 vaibhav saini ict
+g201282012 vibha sahlot ict
+g201282501 shilpa pandey ict
+g201283001 anoopa joshi ss
+g201283003 manvendra sharma ss
+g201283005 parvinder singh ss
+g201283006 pradumn kumar pandey ss
+g201283007 rakesh kumar ss
+g201283008 ranveer singh ss
+g201283009 vinay pratap singh ss following are lists of students registered in various programs offered by the institute detailed according to the centers and branches of the various programs
+g201381001 aditya raw gautam energy
+g201381002 goutam kumar gupta energy
+g201381003 om prakash mahela energy
+g201381005 rohitash kumar energy
+g201382005 vipin joshi ict
+g201383001 anjali singh ss
+g201382002 anurag sahu ss
+g201383002 dipti trivedi ss
+g201383005 raj kumar satankar ss
+g201383006 shraddha choudhary ss
+g201383501 deepak kumar ss
+g201383502 dileep kumar ss
+g201383503 manish raghav ss
+g201383504 satendra pal singh ss
+g201383506 vishal sharma ss
+g201384002 ankisha vijay biss
+g201384003 anuj kumar bharti biss
+g201384004 arun kumar upadhyay biss
+g201384005 ayeman amanullah biss
+g201384006 bhubanesh rathore biss
+g201384007 kriti dubey biss
+g201384008 megha singh biss
+g201384009 nidhi sharma biss
+g201384010 rahul badhwar biss
+g201384011 rakhi biss
+g201384012 ridhi aggarwal biss
+g201384013 shalini singh biss
+g201384014 vibhuti joshi biss
+ajay kumar mahato ee
+priyanka bajaj ee
+gurveer singh me
+rakesh joshi me
+sandeep gupta me
+hiteshi jain cse
+ravi sharma cse
+rajesh kumar ph
+sanjoy chatterjee ph
+supriyo dutta mt
+sachin vyas bl
+alankar agarwal biss
+manju kumari biss
+shivanjali saxena biss
+ribhav mishra biss
+saina maidullah hss
+brajesh kumar shukla ss
+priya malpani energy
+amitap khandelwal bl
+abhinav srivastava chm
+amrita kaurwar me
+phadatare hanmant pandurang me
+javid ahmad naikoo ph
+vijendra singh bhati ph
+devendra singh me
+lochan sharma me
+pravesh kumar me
+sumit mahajan me
+devika laisharam chm
+hargeet kaur chm
+jyoti faujdar chm
+anchal gahlaut chm
+bhawna chaubey chm
+arpita srivastava chm
+sumitra godara chm
+ishan agrawal bl
+chandni kumari ph
+jyoti saini ph
+khushboo dixit ph
+divya gupta mt
+rohit kumar mt
+abhishek sahu ee
+arpita jaitawat ee
+poonam sahu ee
+shivam chaturvedi ee
+divya srivastava vss
+divya sharma vss
+tushar shankar shinde vss
+nanduri kameswara swarun vss
+mahmood shaik vss
+gajendra singh chawda vss
+abhra paul hss
+rajesh shukla ee
+yogesh kumar ee
+rahul kumar ee
+aditya raj vss
+neeraj goel vss
+abhishek kumar vss
+aniket dilip monde me
+vibhuti bhushan pandey me
+ankit agarwal me no
+p14vss006 parveen ee students registered under visvesvaraya scheme for electronics and it no
+m14ss006 vipul bijawat ss no
+m15ee014 vineet kumar ee post graduate students
+m15cy003 pooja chm
+m15cy004 pranay rajbangshi chm
+m15cy006 suman dhara chm
+m15cy008 vikas kumar chm
+m15cy009 vinay uniyal chm
+m15ma001 aarti balana mt
+m15ma004 bhagya shree meena mt
+m15ma007 dharmendra kumar gurjar mt
+students batch no
+g201210001 abhishek kumar cse
+g201210002 aditya yadav cse
+g201210003 akash mishra cse
+g201210004 akshit jain cse
+g201210005 aseem raj baranwal cse
+g201210006 asheet kumar cse
+g201210007 attanti madhurya cse
+g201210008 bandela prathyusha cse
+g201210009 basamgari harika cse
+g201210010 bundele manas mahesh cse
+g201210011 dhake akash hiraman cse
+g201210012 dinesh kumar jangra cse
+g201210013 dinesh kumar saini cse
+g201210014 gaurav shastri cse
+g201210015 gondi dedeepya sai cse
+g201210016 gorla uhasree cse
+g201210017 jinank jain cse
+g201210018 kalshetti pratik mallinath cse
+g201210019 kunal dadheech cse
+g201210020 mala muthyalappa cse
+g201210021 manish jaiswal cse
+g201210023 pankaj kumar cse
+g201210024 pawan kumar saini cse
+g201210025 rajesh kumar meena cse
+g201210026 rishabh garg cse
+g201210028 ritesh kumar cse
+g201210029 rohan khanna cse
+g201210030 sachin grover cse
+g201210031 samarth kumar goel cse
+g201210032 shah akshat mukeshkumar cse
+g201210033 shivam kumar garg cse
+g201210034 siddharth talesra cse
+g201210035 sonika agrawal cse
+g201210036 sunil kumar cse
+g201210037 vaibhav singh khokhar cse
+g201210038 vijendra sukariya cse
+g201210039 vikas meena cse
+g201210040 ankit jain cse undergraduate students
+g201211001 abhishek thepra ee
+g201211002 ajay charan ee
+g201211003 akarsh rastogi ee
+g201211004 akshay arya ee
+g201211006 anubhuti mittal ee
+g201211007 ashwani kumar ee
+g201211008 ashwani nainawat ee
+g201211009 deepak verma ee
+g201211010 devabattini sriharsha ee
+g201211012 dheeraj ee
+g201211013 dinesh gurjar ee
+g201211014 farazuddin ansari ee
+g201211015 ghanshyam ee
+g201211016 hitesh kumar singhal ee
+g201211017 vikas reddy ee
+g201211018 lalit mirdha ee
+g201211019 mamta dhaka ee
+g201211020 mukesh kumar ee
+g201211021 nisha agrawal ee
+g201211022 nishit umesh parekh ee
+g201211023 pawan kumar verma ee
+g201211024 piyush dugar ee
+g201211025 prakash gehlot ee
+g201211028 rajat rahatgaonkar ee
+g201211029 rajnesh meena ee
+g201211030 sanchit gupta ee
+g201211031 sanket jain ee
+g201211032 santosh kumar meena ee
+g201211033 saurav kumar ee
+g201211034 sharath kuntanhal ee
+g201211035 shivam upadhyaya ee
+g201211036 shrish lal bhatnagar ee
+g201211037 sriramadasu ashok kumar ee
+g201211038 sunil saran ee
+g201211039 tarun vatwani ee
+g201211040 upendra kumar nagar ee
+g201211041 vinay shankar saxena ee
+g201211042 antos varghese ee
+g201211043 himanshu takwani ee
+g201212001 aditya khandelwal me
+g201212002 ajay kumar jagetiya me
+g201212003 anjali bansiwal me
+g201212005 ashish kumar me
+g201212006 ashish kumar me
+g201212008 ayush bhadauria me
+g201212009 kishore me
+g201212010 balla raghavendar goud me
+g201212011 boddupalli nibodh me
+g201212012 chamarthy kameswara shiva dinesh me
+g201212013 chetan gupta me
+g201212015 dilkhush meena me
+g201212017 himanshu yadav me
+g201212018 kamlesh aseri me
+g201212019 kanak shrivastava me
+g201212020 manish soni me
+g201212021 vinaykumar reddy me
+g201212022 navneet mittal me
+g201212023 pavan kumar shakya me
+g201212024 sachin yadav me
+g201212025 sandeep kumar meena me
+g201212026 saurabh jain me
+g201212027 saurabh pandey me
+g201212028 shah jigar deepak me
+g201212030 shreyas srivastava me
+g201212031 shubham gupta me
+g201212032 snigdhadeep moitra me
+g201212034 surendra pal singh me
+g201212035 tapesh kumar mourya me
+g201212036 thani aswanth me
+g201212037 vaibhav gupta me
+g201212038 varun suryan me
+g201212039 vikash kumar goenka me
+g201212040 vishal kumar me
+g201212041 anshuman singh me
+g201212042 kirti vardhan rathore me
+g201213002 anmol ss
+g201213005 divya nagar ss
+g201213006 gaurav choudhary ss
+g201213007 gourab kumar patro ss
+g201213013 kota aakash ss
+g201213014 kshitij soni ss
+g201213016 mahendra kachhawa ss
+g201213018 manish malhotra ss
+g201213019 narender kumar ss
+g201213020 paladugu venkata karteek ss
+g201213021 palash jain ss
+g201213022 parag rahangdale ss
+g201213023 pise indraneel rajnish ss
+g201213024 pragati nagar ss
+g201213025 prasoon ss
+g201213026 priyanka raju masne ss
+g201213027 purvi tiwari ss
+g201213028 raghunath meena ss
+g201213031 rochika ss
+g201213033 sharwan songara ss
+g201213034 shivam choudhary ss
+g201213035 shreshtha garg ss
+g201213036 sunil suthar ss
+g201213037 vibhav sharma ss sl
+b14bs016 vishal verma biss no
+b15me005 akash gupta me financial position the mhrd has released sum of rs

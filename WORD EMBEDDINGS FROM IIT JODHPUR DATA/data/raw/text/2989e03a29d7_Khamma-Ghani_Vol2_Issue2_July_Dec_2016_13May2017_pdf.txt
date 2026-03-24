@@ -1,0 +1,653 @@
+SOURCE_PDF: 2989e03a29d7_Khamma-Ghani_Vol2_Issue2_July_Dec_2016_13May2017.pdf
+
+Hkkjrh; izkS|ksfxdh lLa Fkku tks/kiqj VOLUME 2 ISSUE 2
+JULY-DECEMBER 2016 Indian Institute of Technology Jodhpur
+Khamma Ghani…!!
+ACADEMICS
+3rd Convocation
+The 3rd Convocation of IIT Jodhpur was held on 08 December 2016. The Chief Guest for the momentous
+occasion was Dr. Arvind Panagariya, Vice Chairman, NITI Aayog, Government of India. Though Dr. Panagariya could not 
+be present in person for the occasion due to an important and urgent assignment at the last moment, he sent his video 
+recorded speech, which was played during the event. Total 157 students received their degrees, out of which 136 were 
+B.Tech. students, 15 were M.Tech. students, and 6 were Ph.D. students. With this the total number of students 
+graduating from this young Institute stands at 720. The Convocation ceremony was held at the Auditorium of All India 
+Institute of Medical Sciences, Jodhpur.
+Director, IIT Jodhpur, reading the Institute Report
+Parents of Sachin Grover receiving President’s Gold Medal on his behalf
+New Research Projects
+Kaushalkumar A. Desai, Assistant Professor, Department of Mechanical Engineering, has been
+sanctioned the sponsored research project “Minimizing deflection induced surface errors in end milling of 
+thin walled components” by Science and Engineering Research Board, DST, Government of India. The 
+duration of the project is 3 years (2016 -19).
+Anand Krishnan Plappally, Assistant Professor, Department of Mechanical Engineering, has been
+sanctioned the sponsored research project “Local composite geotextile mats for soil and water conservation 
+in western Rajasthan” by Science and Engineering Research Board, DST, Government of India. The duration 
+of the project is 3 years (2016-19).
+Subhashish Banerjee, Assistant Professor, Department of Physics, has been sanctioned the
+sponsored research project “A study of quantum correlations: Squeezing and its various facets” by the 
+Council of Scientific and Industrial Research, Government of India. The duration of the project is 1 year (2016-
+17).
+
+Amit Mishra, Assistant Professor, Department of Bioscience & Bioengineering, has been sanctioned
+the sponsored research project “How LRASM1 gene regulates cellular protein quality control functions? 
+Implications in neurodegeneration and ageing” by Science and Engineering Research Board, DST, 
+Government of India. The duration of the project is 3 year (2016-19).
+Aritra Banik, Assistant Professor, Department of Computer Science & Engineering, has been
+sanctioned the sponsored research project “Design of efficient algorithms for multiple choice resource 
+allocation problem” by Science and Engineering Research Board, DST, Government of India. The duration of 
+the project is 3 years (2016-19).
+Research Publications
+Journal Articles
+1. 
+Amanullah,A., Upadhyay,A., Chhangani,D., Joshi,V., Mishra,R., Yamanaka,K., & Mishra,A. (2016). Proteasomal 
+Dysfunction Induced by Diclofenac Engenders Apoptosis through Mitochondrial Pathway. Journal of Cellular 
+Biochemistry. ISSN: 1097-4644. http://doi.org/10.1002/jcb.25666
+2. 
+Arora,N., Tripathi,S., Sao,R., Mondal,P., Mishra,A.K., & Prasad,A. (2017). Molecular Neuro-Pathomechanism of 
+Neurocysticercosis: How Host Genetic Factors Influence Disease Susceptibility. Molecular Neurobiology, 1–7. ISSN: 
+1559-1182. https://doi.org/10.1007/s12035-016-0373-6
+3. 
+Hoop,C.L., Lin,H.-K., Kar,K., Magyarfalvi,G., Lamley,J.M., Boatz,J.C., Mandal,A., Lewandowski,J.R., Wetzel,R. & Van 
+der Wel,P.C.A. (2016). Huntingtin exon 1 fibrils feature an interdigitated β-hairpin–based polyglutamine core. 
+Proceedings 
+of 
+the 
+National 
+Academy 
+of 
+Sciences, 
+113(6), 
+1546–1551. 
+ISSN: 
+1091-6490.
+4. 
+Joshi,V., Amanullah,A., Upadhyay,A., Mishra,R., Kumar,A., & Mishra,A. (2016). A Decade of Boon or Burden: What 
+Has the CHIP Ever Done for Cellular Protein Quality Control Mechanism Implicated in Neurodegeneration and 
+Aging? Frontiers in Molecular Neuroscience, 93. ISSN: 1662-5099. https://doi.org/10.3389/fnmol.2016.00093
+5. 
+Upadhyay,A., Amanullah,A., Mishra,R., Kumar,A., & Mishra,A.K. (2017). Lanosterol Suppresses the Aggregation and 
+Cytotoxicity of Misfolded Proteins Linked with Neurodegenerative Diseases. Molecular Neurobiology, 1–14. ISSN: 
+1559-1182. https://doi.org/10.1007/s12035-016-0377-2
+6. 
+Vyas,S., & Chhabra,M. (2017). Isolation, identification and characterization of Cystobasidium oligophagum JRC1: A 
+cellulase and lipase producing oleaginous yeast. Bioresource Technology, 223, 250–258. ISSN: 0960-8524. 
+https://doi.org/10.1016/j.biortech.2016.10.039
+Book Chapters
+1. 
+Upadhyay,A., Amanullah,A., Joshi,V., Mishra,R., & Mishra,A.K. (2016). Molecular and Cellular Insights: 
+Neuroinflammation and Amyotrophic Lateral Sclerosis. In N. Jana,A. Basu, & P.N. Tandon (Eds.), Inflammation: the 
+Common 
+Link 
+in 
+Brain 
+Pathologies 
+(pp. 
+209–230). 
+Springer 
+Singapore. 
+ISBN: 
+978-981-10-1711-7.
+Journal Articles
+1. 
+Gupta,R., & Fisher,T.S. (2016). Scalable Coating of Single Source Ni Hexadecanethiolate Precursor on 3D-Graphitic 
+Petals for Asymmetric Supercapacitor. Energy Technology. ISSN: 2194-4296. http://doi.org/10.1002/ente.201600475
+2. 
+Laishram,D., Shejale,K.P., Sharma,R.K., & Gupta,R. (2016). HfO2 nanodots incorporated in TiO2 and its 
+hydrogenation for high performance dye sensitized solar cells. RSC Advances, 6(82), 78768–78773. ISSN: 2046-
+2069. http://doi.org/10.1039/C6RA13776H
+3. 
+Lunkad,R., Srivastava,A., & Debnath,A. (2017). Influence of water concentrations on the phase transformation of a 
+model 
+surfactant/co-surfactant/water 
+system. 
+Chemical 
+Physics, 
+483–484, 
+103–111. 
+ISSN: 
+0301-0104.
+4. 
+Pandey,S., Soni,V.K., Choudhary,G., Sharma,P.R., & Sharma,R.K. (2016). Understanding Behaviour of Vitamin-C 
+Guest Binding with the Cucurbit [6] uril host. Supramolecular Chemistry, 0(0), 1–8. ISSN: 1061-0278. 
+https://doi.org/10.1080/10610278.2016.1243791
+5. 
+Ram,P., Gören,A., Ferdov,S., Silva,M.M., Choudhary,G., Singhal,R., Costa,C.M., Sharma,R.K. & Lanceros-Méndez,S. 
+(2017). Synthesis and improved electrochemical performance of LiMn2 – xGdxO4 based cathodes. Solid State 
+Ionics, 300, 18–25. ISSN: 0167-2738. https://doi.org/10.1016/j.ssi.2016.11.026
+6. 
+Sharma,P., & Sharma,R.K. (2016). Asymmetric Hydrogenation of α-ketoesters on Pt (111) Surface. New Journal of 
+Chemistry. ISSN: 1369-9261. https://doi.org/10.1039/C6NJ02405Jb
+
+7. 
+Sharma,P., & Sharma,R.K. (2017). Platinum functionalized Chiral Polyamides: Efficient Heterogeneous Catalyst for 
+Solvent Free Asymmetric Hydrogenation of Ethyl 2-oxo-4-phenylbutanoate. ChemistrySelect, 2(1), 513–520. ISSN: 
+2365-6549. https://doi.org/10.1002/slct.201601538
+8. 
+Shejale,K.P., Laishram,D., Gupta,R., & Sharma,R.K. (2016). Zinc Oxide–Titania Heterojunction-based Solid 
+Nanospheres as Photoanodes for Electron-Trapping in Dye-Sensitized Solar Cells. Energy Technology. ISSN: 2194-
+4296. http://doi.org/10.1002/ente.201600357
+9. 
+Singh,P., Adhikari,S., & Kumar,A. (2016.). Usefulness of Multiqubit w-type States in Quantum Information 
+Processing. Journal of Experimental and Theoretical Physics, 150 (4), 666-676. ISSN: 0044-4510. 
+http://www.jetp.ac.ru/cgi-bin/e/index/forthcoming/60557?a=list
+10. 
+Walia,S., Gupta,R., Rao, K.D.M., & Kulkarni,G.U. (2016). Transparent Pd Wire Network-Based Areal Hydrogen Sensor 
+with Inherent Joule Heater. ACS Applied Materials & Interfaces, 8(35), 23419–23424. ISSN: 1944-8252. 
+http://doi.org/10.1021/acsami.6b08275
+Journal Articles
+1. 
+Amayri,M., Arora,A., Ploix,S., Bandhyopadyay,S., Ngo, Q.-D., & Badarla,V.R. (2016). Estimating Occupancy In 
+Heterogeneous Sensor Environment. Energy and Buildings. ISSN: 1872-6178. 
+http://doi.org/10.1016/j.enbuild.2016.07.026
+2. 
+Amayri,M., Arora,A., Ploix,S., Bandhyopadyay,S., Ngo,Q.-D., & Badarla,V.R. (2016). Estimating Occupancy in 
+Heterogeneous Sensor Environment. Energy and Buildings, 129, 46–58. ISSN: 0378-7788. 
+https://doi.org/10.1016/j.enbuild.2016.07.026
+3. 
+Bansal,A., Roy,S.D., & Harit,G. (2016). Extraction of Layout Entities and Sub-layout Query-based Retrieval of 
+Document Images. arXiv:1609.02687 [Cs]. http://arxiv.org/abs/1609.02687
+4. 
+Rathore,H., Badarla,V.R., & Shit,S. (2016). Consensus-Aware Sociopsychological Trust Model for Wireless Sensor 
+Networks. ACM Transactions on Sensor Networks, 12(3), 21:1–21:27. ISSN: 1550-4867. 
+http://doi.org/10.1145/2903721
+Conference Papers
+1. 
+Banik,A., Panolan,F., Badarla,V.R., & Sahlot,V. (2016). Fréchet Distance Between a Line and Avatar Point Set. In A. 
+Lal, S. Akshay, S. Saurabh, & S. Sen (Eds.), 36th IARCS Annual Conference on Foundations of Software Technology and 
+Theoretical Computer Science (FSTTCS 2016) (Vol. 65, p. 32:1–32:14). Dagstuhl, Germany: Schloss Dagstuhl–Leibniz-
+Zentrum fuer Informatik. ISBN: 978-3-95977-027-9. 
+http://dx.doi.org/10.4230/LIPIcs.FSTTCS.2016.32
+2. 
+Dey,A.U., & Harit,G. (2016). Generating Synthetic Handwriting Using N-gram Letter Glyphs. In Ahuja, Narendra & 
+Bora, Prabin K. (Eds.), Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing 
+(p. 
+49:1–49:8). 
+New 
+York, 
+USA: 
+Association 
+for 
+Computing 
+Machinery. 
+ISBN: 
+978-1-4503-4753-2.
+3. 
+Jain,H., & Harit,G. (2016). A Framework to Assess Sun Salutation Videos. In In Ahuja, Narendra & Bora, Prabin K. 
+(Eds.), Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing (p. 29:1–29:8). 
+New York, USA: Association for Computing Machinery. ISBN: 978-1-4503-4753-2. 
+https://doi.org/10.1145/3009977.3010045
+Journal Articles
+1. 
+Barala,S.S., Banerjee,N., & Kumar,M. (2016). Effect of Gamma Ray Irradiation on Epitaxial Pb(Zr,Ti)O3 /SrRuO3 
+Tunable 
+Varactor 
+Devices. 
+Journal 
+of 
+Electronic 
+Materials, 
+45(8), 
+4122–4128. 
+ISSN: 
+0361-5235.
+2. 
+Barala,S.S., Roul,B., Banerjee,N., & Kumar,M. (2016). Modulation of Pb Chemical state of epitaxial lead zirconate 
+titanate thin films under high energy irradiation. Journal of Applied Physics, 120(11), 115305. ISSN: 1089-7550. 
+https://doi.org/10.1063/1.4962860
+3. 
+Bharti,D., & Tiwari,S.P. (2016, In Press). Phase separation induced high mobility and electrical stability in organic 
+field-effect transistors. Synthetic Metals. ISSN: 0379-6779. http://doi.org/10.1016/j.synthmet.2016.09.002
+4. 
+Bharti,D., Raghuwanshi,V., Varun,I., Mahato,A.K., & Tiwari,S.P. (2016). High Performance and Electro-Mechanical 
+Stability in Small Molecule: Polymer Blend Flexible Organic Field-Effect Transistors. IEEE Electron Device Letters, 
+(99), 1–1. ISSN: 0741-3106. http://doi.org/10.1109/LED.2016.2592943
+5. 
+Dokania,V., Islam,A., Dixit,V., & Tiwari,S.P. (2016). Analytical Modeling of Wrap-Gate Carbon Nanotube FET With 
+Parasitic Capacitances and Density of States. IEEE Transactions on Electron Devices, (99), 1–6. ISSN: 0018-9383. 
+http://doi.org/10.1109/TED.2016.2581119
+
+6. 
+Joshi,V., Soni,A., Tiwari,S.P., & Shrivastava,M. (2016). A Comprehensive Computational Modeling Approach and 
+Device Design Guidelines for AlGaN/GaN HEMTs: Part I. IEEE Transactions on Nanotechnology, 1–1. ISSN: 1941-0085. 
+https://doi.org/10.1109/TNANO.2016.2615645
+7. 
+Mahela,O.P., & Shaik,A.G. (2017). Comprehensive overview of grid interfaced solar photovoltaic systems. 
+Renewable and Sustainable Energy Reviews, 68, Part 1, 316–332. ISSN: 1364-0321. 
+https://doi.org/10.1016/j.rser.2016.09.096
+8. 
+Mahela,O.P., & Shaik,A.G. (2017; In press). Power quality recognition in distribution system with solar energy 
+penetration using S-transform and Fuzzy C-means clustering. Renewable Energy, 106, 37-51. ISSN: 1879-0682. 
+https://doi.org/10.1016/j.renene.2016.12.098
+9. 
+Ranwa,S., Barala,S.S., Fanetti,M., & Kumar,M. (2016). Effect of gamma irradiation on Schottky-contacted vertically 
+aligned 
+ZnO 
+nanorod-based 
+hydrogen 
+sensor. 
+Nanotechnology, 
+27(34), 
+345502. 
+ISSN: 
+1361-6528.
+10. 
+Singh,S., Gautam,A.R., & Fulwani,D.M. (2017). Constant power loads and their effects in DC distributed power 
+systems: 
+A 
+review. 
+Renewable 
+and 
+Sustainable 
+Energy 
+Reviews, 
+72, 
+407–421. 
+ISSN: 
+1364-0321.
+11. 
+Tripathi,S., Mohan,A., & Yadav,S.K. (2016). A Compact UWB Koch Fractal Antenna for UWB Antenna Array 
+Applications. Wireless Personal Communications, 1–20. ISSN: 0929-6212. http://doi.org/10.1007/s11277-016-3613-1
+Conference Papers
+1. 
+Gautam,A.R., Fulwani,D.M. & Guerrero,J. (2016). A comprehensive study and analysis of second order harmonic 
+ripple in DC microgrid feeding single phase PWM inverter loads. In IECON 2016 - 42nd Annual Conference of the 
+IEEE Industrial Electronics Society (pp. 3648–3653). ISBN: 978-1-5090-3474-1. 
+https://doi.org/10.1109/IECON.2016.7793830
+2. 
+Mahela,O.P., & Shaik,A.G. (2016). Recognition of power quality disturbances using S-transform and Fuzzy C-means 
+clustering. In 2016 International Conference on Cogeneration, Small Power Plants and District Energy (ICUE) (pp. 1–
+6). ISBN: 978-9-7482-5792-1. https://doi.org/10.1109/COGEN.2016.7728955
+3. 
+Rathore,N., & Fulwani,D.M. (2016). Event triggered control scheme for power converters. In IECON 2016 - 42nd 
+Annual Conference of the IEEE Industrial Electronics Society (pp. 1342–1347). ISBN: 978-1-5090-3474-1. 
+https://doi.org/10.1109/IECON.2016.7794129
+4. 
+Sree,Y.M., Kumar,G.R., & Shaik,A.G. (2016). Multi-terminal transmission line protection using wavelet based digital 
+relay in the presence of wind energy source. In 2016 International Conference on Electrical, Electronics, and 
+Optimization Techniques (ICEEOT) (pp. 4124–4128). ISBN: 978-1-4673-9939-5. 
+https://doi.org/10.1109/ICEEOT.2016.7755492
+Brief Books (Authored)
+1. 
+Fulwani,D.M., & Singh, S. (2017). Mitigation of Negative Impedance Instabilities in DC Distribution Systems: A Sliding 
+Mode Control Approach. Singapore: Springer Singapore. ISBN: 978-981-10-2071-1. 
+http://link.springer.com/10.1007/978-981-10-2071-1
+Journal Articles
+1. 
+Owusu,D., Mamudu,H.M., John,R.M., Ibrahim,A., Ouma,A.E.O., & Veeranki,S.P. (2016). Never-Smoking Adolescents’ 
+Exposure to Secondhand Smoke in Africa. American Journal of Preventive Medicine, 51(6), 983–998. ISSN: 0749-
+3797. https://doi.org/10.1016/j.amepre.2016.08.040
+2. 
+Veeranki,S.P., John,R.M., Ibrahim,A., Pillendla,D., Thrasher,J.F., Owusu,D., & Mamudu,H.M. (2016). Age of smoking 
+initiation among adolescents in Africa. International Journal of Public Health, 1–10. ISSN: 1661-8564. 
+http://doi.org/10.1007/s00038-016-0888-7
+Journal Articles
+1. 
+Bhatnagar,G. (2016). Robust covert communication using high capacity watermarking. Multimedia Tools and 
+Applications, 1–25. ISSN: 1573-7721. https://doi.org/10.1007/s11042-016-3978-x
+2. 
+Chakrawarty,P., & Bhatnagar,G. (2016). Image thresholding based on local activity feature matrix. Optik - 
+International 
+Journal 
+for 
+Light 
+and 
+Electron 
+Optics, 
+127(20), 
+9037–9045. 
+ISSN: 
+0030-4026.
+3. 
+Li,H., Hiremath,K.R., Rieder,A., & Freude,W. (2017). Adaptive wavelet collocation method for simulation of a 2D 
+micro-ring resonator. Optik - International Journal for Light and Electron Optics, 131, 655–670. ISSN: 0030-4026. 
+https://doi.org/10.1016/j.ijleo.2016.11.154
+
+Journal Articles
+1. 
+Aggarwal,H.K., Chhibber,R., Arora,N., & Mehta,R. (2017). Experimental Analysis of Thermal Fatigue in Bimetallic 
+Welds. Materials Science Forum, 880, 124–127. ISSN: 1662-9752. 
+https://doi.org/10.4028/www.scientific.net/MSF.880.124
+2. 
+Bhole,A., Turlapati,S.H., Rajasekhar,V.S., Dixit,J., Shah,S.V., & Krishna, M.K. (2016). Design of a Robust Stair 
+Climbing 
+Compliant 
+Modular 
+Robot 
+to 
+Tackle 
+Overhang 
+on 
+Stairs. 
+arXiv:1607.03077 
+[Cs].
+3. 
+Chakraborty,P.R. (2017). Enthalpy porosity model for melting and solidification of pure-substances with large 
+difference in phase specific heats. International Communications in Heat and Mass Transfer, 81,183-189. ISSN: 0735-
+1933. https://doi.org/10.1016/j.icheatmasstransfer.2016.12.023
+4. 
+Chakraborty,P.R., Hiremath,K.R., & Sharma,M. (2016, in press). Evaluation of evaporation coefficient for micro-
+droplets exposed to low pressure: A semi-analytical approach. Physics Letters A. ISSN: 0375-9601. 
+https://doi.org/10.1016/j.physleta.2016.11.036
+5. 
+Hafez,A.H.A., Mithun,P., Anurag,V.V., Shah,S.V., & Krishna,K.M. (2017). Reactionless visual servoing of a multi-arm 
+space robot combined with other manipulation tasks. Robotics and Autonomous Systems, 91, 1-10. ISSN: 0921-8890. 
+https://doi.org/10.1016/j.robot.2016.12.010
+6. 
+James,F., Shah,S.V., Singh,A.K., Krishna,K.M., & Misra,A.K. (2016). Reactionless Maneuvering of a Space Robot in 
+Precapture 
+Phase. 
+Journal 
+of 
+Guidance, 
+Control, 
+and 
+Dynamics, 
+0(0), 
+1–7. 
+ISSN: 
+1533-3884.
+7. 
+Moges,T.M., Desai, K.A., & Rao,P.V.M. (2016). Improved Process Geometry Model with Cutter Runout and Elastic 
+Recovery 
+in 
+Micro-end 
+Milling. 
+Procedia 
+Manufacturing, 
+5, 
+478–494. 
+ISSN: 
+2351-9789.
+8. 
+Rajpurohit,D.S. & Chhibber,R. (2016). Design Optimization of Two Input Multimode Applicator for Efficient 
+Microwave Heating. International Journal of Advances in Microwave Technology, 1 (3). ISSN: 2456-4346. 
+http://ijamt.com/abstract.php?article_id=1676
+9. 
+Saha,A.K., Kumar,R., Usmani,B., Chandra,L., & Dixit,A. (2016). Development Of Nickel Modified Fe 3 O 4 Solar 
+Selective Coatings for Solar Absorber Applications. Advanced Materials Proceedings, 1(2), 140–145. ISSN: 2002-4428. 
+https://doi.org/10.5185/amp.2016/205
+10. 
+Sharma,B., Chhibber,R., & Mehta,R. (2017). Curing studies and mechanical properties of glass fiber reinforced 
+composites based on silanized clay minerals. Applied Clay Science, 138, 89–99. ISSN: 0169-1317. 
+https://doi.org/10.1016/j.clay.2016.12.038
+Conference Papers
+1. 
+Agarwal,A., & Prakash,A. (2016). Validation of LBM based on BGK on Poiseuille’s Flow and Vortex Street in a 
+Channel Flow. In Fourth International Conference On Advances in Civil, Structural and Mechanical Engineering (pp. 14–
+18). USA: Institute of Research
+2. 
+Teja,H., & Shah,S.V. (2016). Learning inverse kinematic solutions of redundant manipulators using multiple internal 
+models. In 2016 6th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob) (pp. 
+1371–1371). ISBN: 978-1-5090-3287-7. http://doi.org/10.1109/BIOROB.2016.7523824
+Journal Articles
+1. 
+Dutta,S., Adhikari,B., & Banerjee,S. (2016). Seidel switching for weighted multi-digraphs and its quantum 
+perspective. arXiv:1608.07830 [Math-Ph, Physics:quant-Ph]. http://arxiv.org/abs/1608.07830
+2. 
+Ghosh,S., Sahu,S., Agrawal,L., Shiga,T., & Bandyopadhyay,A. (2017). Inventing a co-axial atomic resolution patch 
+clamp to study a single resonating protein complex and ultra-low power communication deep inside a living 
+neuron cell. Journal of Integrative Neuroscience, 1–31. ISSN: 0219-6352. 
+https://doi.org/10.1142/S0219635216500321
+3. 
+Gupta,G.K., & Dixit,A. (2017). Effect of precursor and composition on the physical properties of the low-cost 
+solution processed Cu2ZnSnS4 thin film for solar photovoltaic application. Journal of Renewable and Sustainable 
+Energy, 9(1), 013502-1- 013502-10. ISSN: 1941-7012. https://doi.org/10.1063/1.4974341
+4. 
+Laha,A., & Ghosh,S. (2017). Connected hidden singularities and toward successive state flipping in degenerate 
+optical microcavities. Journal of the Optical Society of America B, 34(2), 238–244. ISSN: 1520-8540. 
+https://doi.org/10.1364/JOSAB.34.000238
+
+5. 
+Sedrakian,A., Huang,X.-G., Sinha,M., & Clark,J.W. (2017). From microphysics to dynamics of magnetars. 
+arXiv:1701.00895 [Astro-Ph, Physics:nucl-Th]. http://arxiv.org/abs/1701.00895
+6. 
+Thapliyal,K., Pathak,A., & Banerjee,S. (2016). Quantum cryptography over non-Markovian channels. 
+arXiv:1608.06071 [Quant-Ph]. http://arxiv.org/abs/1608.06071
+7. 
+Usmani,B., & Dixit,A. (2016). Impact of corrosion on microstructure and mechanical properties of ZrOx/ZrC-ZrN/Zr 
+absorber–reflector tandem solar selective structures. Solar Energy Materials and Solar Cells, 157, 733–741. ISSN: 
+0927-0248. http://doi.org/10.1016/j.solmat.2016.07.019
+8. 
+Usmani,B., Vijay,V., Chhibber,R., & Dixit,A. (2016). Investigation of ZrOx/ZrC–ZrN/Zr thin-film structural evolution 
+and their degradation using X-ray diffraction and Raman spectrometry. Applied Physics A, 122(11), 992. ISSN: 1432-
+0630. https://doi.org/10.1007/s00339-016-0523-8
+Awards & Recognitions
+Natural Rajasthani Clay (Jodhpur) for Production of Fuel & Value-added Products from Biomass Feedstocks
+In a quest of developing cost effective and green catalytic systems for biomass upgradation, recently, Rakesh K.
+Sharma, Assistant Professor and Head, Department of Chemistry, and Vineet Kumar Soni, Post-Doctoral Fellow, utilized 
+natural clay as a heterogeneous catalyst by nanometal intercalation for converting squalene into squalane under solvent 
+free conditions. Squalane is an important ingredient in the cosmetic, nutraceutical, and pharmaceutical industries. Also, 
+it has been used as a model compound for the hydrocracking of crude and microalgae oil. The presence of Pd-
+nanoparticles with dominating Pd(111) plane showed highest reactivity and selectivity. The catalysts are stable and 
+reusable under the proposed reaction conditions. The group is now focusing on exploring new clay-based catalysts for 
+the production of fuel grade hydrocarbons from vegetable oil, algae oil and related compounds.
+Best Oral Presentation Award to Rahul Chibber
+Presentation made by Rahul Chhibber, Assistant Professor, Department of Mechanical Engineering, was chosen
+as one of the best oral presentations and was presented with an Excellent Oral Presentation Certificate at 2016 4th Asia 
+Conference on Mechanical and Materials Engineering (ACMME 2016) held at Kuala Lumpur during 14-18 July 2016.
+
+Name Designation Department / Area of Work Date of Joining
+IEEE Senior Member Grade Elevation to Mahesh Kumar
+Mahesh Kumar, Assistant Professor, Department of Electrical Engineering, has been elevated as Senior Member
+of the Institute of Electrical and Electronics Engineers (SMIEEE) in recognition of his contribution to the profession..
+Mahesh Kumar receives Young Achiever Award from BRNS
+Mahesh Kumar, Assistant Professor, Department of Electrical Engineering, IIT Jodhpur, has been decorated with
+the Young Achiever Award by the Board of Research in Nuclear Sciences, Department of Atomic Energy, Government of 
+India, for his meritorious contribution in the field of Science, during the 61st Solid State Physics Symposium at KIIT 
+University, Bhubaneshwar on 30 December 2016.
+STUDENTS
+Activities & Achievements
+Travel Grant
+Amrita Kaurwar, Ph. D. Student, Department of Mechanical Engineering, India Institute of Technology Jodhpur,
+received travel grant from India Network Foundation to present her research paper titled “Functional Demarcation of 
+Traditional Off-White Colored Water Pots Manufactured from Rajasthan Clayey Soils and Red Colored Water Pots from 
+Gujarat Clayey Soils Using Spectrographic, Cooling and Strength Studies—A Case Study from Jodhpur, Rajasthan, India”, 
+at the Materials Research Society Conference held in Boston, USA during 27 November - 2 December, 2016. The paper 
+has been co-authored with other colleagues from the department.
+National Sports Day
+National Sports Day was celebrated at IIT Jodhpur on 29 August 2016 at the GPRA Residential Campus. Following
+are some pictures of the celebration.
+Students immersed in the game of Kho Kho
+Happy National Sports Day!!
+NEW JOININGS
+IIT Jodhpur welcomes the following new Faculty Members and Staff Members into the family:
+Ramesh K. Metre 
+Assistant Professor 
+Chemistry 
+11 July 2016
+Mahima Arrawatia 
+Assistant Professor 
+Electrical Engineering 
+18 July 2016
+Somnath Ghosh 
+Assistant Professor 
+Physics 
+28 November 2016
+Ashish Garg 
+Professor (on Deputation) 
+Materials Engineering 
+13 December 2016
+Sudipto Mukhopadhyay 
+Assistant Professor 
+Mechanical Engineering 
+16 December 2016
+Soumava Mukherjee 
+Assistant Professor 
+Electrical Engineering 
+26 December 2016
+Manas Khatua 
+Assistant Professor 
+Computer Science & Engineering 
+28 December 2016
+Bhanprakash Goswami 
+Junior Technical Superintendent 
+Electrical Engineering 
+30 December 2016
+PERMANENT CAMPUS
+69th Independence Day Celebration
+The 69th Independence Day of the nation was celebrated by the members of IIT Jodhpur Community, on 15
+August 2016 in the Temporary Academic Campus. Subsequent upon the flag hoisting and rendering of the National 
+Anthem by the members present, students presented a cultural show with a musical performance by Sangam (the music 
+band of students) and a street play by Nukkad (the drama group of students).
+
+Musical performance by “Sangam” the music band of IIT Jodhpur Students
+Gymkhana on 15 August 2016
+Cultural Program by IIT Jodhpur Students on 15 August 2016
+Cultural Program by IIT Jodhpur Students on 15 August 2016 
+Audience enjoying the cultural programs on 15 August 2016
+Tree Plantation in Permanent Campus of IIT Jodhpur
+Tree plantation activity was undertaken at the Permanent Campus of IIT Jodhpur in Karwad on the occasion of
+69th Independence Day on 15 August 2016. Several neem saplings were planted jointly by the members of the IIT 
+Jodhpur community and the Jodhpur Tree Plantation and Environment Protection Committee (JTPEPC), led by Sri M. S. 
+Singhvi, Senior Advocate, (High Court of Rajasthan, Jodhpur) in the presence of Honourable Justice Sandeep Mehta, 
+(Sitting Judge, High Court of Rajasthan, Jodhpur) and distinguished members of JTPEPC.
+Tree plantation at the Permanent Campus of IIT Jodhpur on 15 August
+ßEk# /kjk esa gfj;kyh ykus dh vksj vkbZ-vkbZ-Vh- tks/kiqj ds f”k”kq dneÞ] vkt+knh ds 
+‰Œos “kqHk ioZ ij vkbZ-vkbZ-Vh- tks/kiqj ds LFkkbZ ifjlj esa l?ku o`{kkjksi.k] ƒ‡ vxLr
+
+OUTREACH
+Vanguard Lectures
+The following Vanguard Lectures were organised by the Department of Mechanical Engineering, which were
+attended by the Faculty Members, Students, and Technical Staff Members.
+S. Devarajan, Senior Vice President, Production Engineering, TVS Motor Company Limited, Hosur,
+addressed the members of the department on “Future of Manufacturing Technologies” on 28 July 2016.
+S. Devarajan
+Arun T. Ramchandani, Vice President, Product & Technology Development, Heavy Engineering,
+Larsen & Toubro Limited, Mumbai, delivered a lecture on “Defence Technologies and Products” on 29 July 
+2016.
+Arun T.
+Ramchandani
+A. K. Jindal, Head, Engineering Commercial Vehicles, Tata Motors India, addressed the members of
+the department on “Automotive Technologies” on 01 August 2016.
+A. K. Jindal
+Prakash Rao Malathkar, Associate Chief Engineer – Gasoline Powertrain Projects, and
+V. Vikraman, Head – Diesel Engine Design, from Power Train Division, Mahindra Research 
+Valley, Mahindra & Mahindra Limited, Chennai delivered a lecture on “Global Technological 
+Advancement Trends of Automotive Passenger Car Powertrains” on 05 August 2016.
+Prakash Rao
+Malathkar
+V. Vikraman
+Lipika Dey, Principal Scientist, Real Time Contextually Aware Enterprise, Research and Innovation
+Tata Consultancy Services, India spoke about “Real Time Contextual Intelligence for Enterprises” on 08 
+August 2016.
+Lipika Dey
+Ashok Kumar Panda, Head, Core Technology, Core Technology & Diagnostics (CTDS) Department
+Tata Power Company Limited, Noida, delivered a lecture on “Overview of Challenges in Thermal Power & 
+The Role of C&I in Power Industry” on 09 August 2016.
+Ashok Kumar
+Panda
+Visitors to the Institute
+A talk on Indo-US Relations
+Mark Azua, Director, Programs, North India Office, Embassy of the United States of America, gave a talk on
+“India-U.S. Relations: The Way Forward” on Wednesday, 16 November 2016. Mr. Azua talked about the relationship 
+between the countries and its progress after the recent Presidential Elections. Faculty Members, Staff Members, and 
+Students attended the talk.
+
+Mark Azua addressing the audience
+Sh. P. P. Chaudhary, Union Minister for State for Electronics & IT and Law & Justice,
+visits IIT Jodhpur
+Sh. P. P. Chaudhary, Union Minister for State for Electronics & IT and Law & Justice, visited IIT Jodhpur on 10
+December 2016. A meeting was held at IIT Jodhpur on 10 December 2016 from 4:30 pm to discuss the possibility of 
+establishing an Information Technology Investment Region (ITIR) in the greater Jodhpur-Pali region. The meeting was 
+chaired by the Hon’ble Union Minister of State for Electronics & IT and Law & Justice, Sh. P. P. Chaudhary. The meeting 
+was attended by C. V. R. Murty (Director, IIT Jodhpur), Dr. S. R. Vadera (Director, DRDO Defence Laboratory Jodhpur), 
+Sh. M. L. Bapna (Advisor – Industry-Academia Interface, IIT Jodhpur), three Faculty Members of IIT Jodhpur (Arun K. 
+Singh (EE), S. P. Tiwari (EE), and B. V. Ramana (CSE)), Sh. Dipak Singh (Scientist F, Ministry of Electronics & Information 
+Technology, Government of India), Sh. N. K. Gupta (Scientist B, Ministry of Electronics & Information Technology, 
+Government of India) and Sh. Mukesh Chaudhary (Additional Private Secretary to Minister of State, Government of 
+India).
+Professor C. V. R. Murty presenting a memento to Sh. P. P. Chaudhary
+DEPARTMENT IN FOCUS – Bioscience & Bioengineering
+The new Department of Bioscience & Bioengineering (formerly Department of Biology) is planned to be the hub
+at IIT Jodhpur of biological sciences, medical sciences, and technology. It aims at providing quality education, and 
+undertaking research towards addressing the national needs (especially those leading to development of technologies 
+for diagnostics and treatment by medical professionals). The Department of Bioscience & Bioengineering is looking for 
+Faculty Members, whose competence spans over a wide range of domains needed to meet the national needs.
+The Department is planning to offer B.Tech. (Biotechnology), M.Tech. (Bioscience & Bioengineering) and Ph.D.
+Program with specialisation in biological sciences, medical science and technology, and their interfaces. The department 
+will offer a wide range of courses from foundational level to advanced level in the said domains from the various degree 
+programs. Hands-on learning will be emphasized using state-of-the-art centralized research facilities.
+The Department of Bioscience & Bioengineering will focus on collaboration, both within and outside the
+Institute, to enhance research potential and productivity. In particular, special effort is being made to interact with 
+Faculty Members of the All India Institute of Medical Sciences (AIIMS), Jodhpur, towards developing technologies that 
+are needed by the medical profession.
+Programs
+The Department of Bioscience & Bioengineering will host three degree Programs, namely: 
+(a) B.Tech. (Biotechnology) Program, 
+(b) M.Tech. (Bioscience & Bioengineering) Program, and 
+(c) Ph.D. Program with specialisation in biological sciences, medical sciences, technology, and their interfaces.
+B.Tech. and Ph.D. programs are slated to start from July 2018, and M.Tech. Program from July 2017. In addition, 
+currently, the Institute is hosting the 4-year B.Tech. (Biologically Inspired System Science) Program, the intake for which 
+has been discontinued from July 2016.
+
+Name Designation Research Area
+Editorial Board
+Deepakkumar M. Fulwani, Coordinator (Faculty)
+Atul Kumar, Coordinator (Academics)
+V. Narayanan, Coordinator (R&D)
+V. Hari Narayanan, Coordinator (Students)
+Amardeep Sharma, Deputy Registrar
+Kshema Prakash, Deputy Librarian IIT Jodhpur Newsletter
+Vol. 02 (2)
+JULY-DECEMBER 2016 Editor
+Kshema Prakash, Deputy Librarian
+Indian Institute of Technology Jodhpur
+Old Residency Road, Ratanada
+Jodhpur 342011
+eMail: publications@iitj.ac.in
+www.iitj.ac.in
+People
+The Department has four regular Faculty Members working in different areas.
+Sushmita Jha 
+Assistant Professor & Head 
+Cellular and Molecular Neuroscience, Cell and Molecular Physiology
+Amit Kumar Mishra 
+Assistant Professor 
+Cellular and Molecular Neuroscience, Cell Cycle Regulation and Cancer
+Meenu Chhabra 
+Assistant Professor 
+Biological Science & Bio-Engineering: Renewable Bioenergy 
+Bioremediation
+Sushmita Paul 
+Assistant Professor 
+Computational Biology and Bioinformatics
+The department has two Technical Staff Members assisting the Faculty Members, and 12 Ph.D. Students.
+Prospective candidates for Faculty Member positions are encouraged to visit our recruitment page to know more about 
+the procedure: http://iitj.ac.in/faculty/facultypositions. Also, the Department invites applications from young Doctoral 
+Degree holders (below the age of 35 years) to Post-Doctoral Positions in the Department, particularly, in the area of 
+Healthcare technologies, towards developing devices for diagnosis and treatment of illnesses.
+Infrastructure
+The Department of Bioscience & Bioengineering has started developing laboratories for teaching and research
+purposes. The early laboratories available are as below:
+(1) Advanced Bioscience & Neuroscience Laboratory, 
+(2) Chemical Biology Laboratory, 
+(3) Protein Engineering Laboratory, and 
+(4) Environmental Biotechnology Laboratory.
+R&D Projects
+Currently, the Faculty Members of the Department are running six sponsored research projects being funded by
+Government of India research funding agencies like the Board of Research in Nuclear Sciences (Department of Atomic 
+Energy), Science & Engineering Research Board (Department of Science & Technology), Department of Biotechnology. 
+Also, technical support is required to effectively meet the technical objectives of the projects. Towards this end, 
+temporary positions when available are announced from time to time on the Institute’s website, for young scientists and 
+technicians to seek training and engagement with advanced subjects of the ongoing research projects.
+Collaboration
+Faculty Members of the Department of Bioscience & Bioengineering are keen to collaborate with individuals
+from academia, R&D laboratories and industry in India and abroad, in areas of mutual interest. The domains of these 
+collaborations could include:
+1. Teaching of courses, 
+2. Organising Short Courses, 
+3. Co-authoring of books, 
+4. Undertaking Joint Research, and 
+5. Developing technologies for diagnostics and treatment by medical professionals.
+The ongoing collaborations include those with colleagues from:
+1. All India Institute of Medical Sciences, Jodhpur, 
+2. Advanced Centre for Treatment, Research & Education in Cancer (ACTREC), Tata Memorial Centre, Mumbai, 
+3. University of North Carolina at Chapel Hill, USA, 
+4. Indian Institute of Technology Bombay, 
+5. Riken Brain Science Institute, Japan, 
+6. Nagoya University, Japan, 
+7. National Brain Research Centre, Gurgaon, and 
+8. International Centre for Genetic Engineering and Biotechnology, New Delhi.
+Outreach
+Department of Bioscience & Bioengineering hosts weekly seminars for Ph.D. Students.
+Copyright © 2016, Indian Institute of Technology Jodhpur (www.iitj.ac.in). All rights reserved.

@@ -1,0 +1,12 @@
+research seminar talk by bivas khan on june at speaker bivas khan title of the talk stability of toric vector bundles
+date time and venue june at to at meeting room dept of mathematics
+abstract toric varieties play an important role as bridge between algebraic geometry and combinatorics
+like toric varieties toric vector bundles are rich class of varieties which admit combinatorial description
+following the classification due to klyachko toric vector bundle is captured by subspace arrangement decorated by toric data
+this makes toric vector bundles an accessible for concepts from algebraic geometry
+in this talk review some of these results and describe how combinatorial descriptions enable us to study stability properties of toric vector bundles
+speaker bivas khan title of the talk stability of toric vector bundles
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

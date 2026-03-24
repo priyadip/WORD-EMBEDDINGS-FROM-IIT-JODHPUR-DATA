@@ -1,0 +1,126 @@
+SOURCE_PDF: f77b7ff4e0c7_Academic-Calendar-BSBsc-1st-year-638852531254334619.pdf
+
+S.No. Activity Dates
+From To
+1 Last date for filling online application form 25th January, 2025
+2 Cut-off date for an application to be considered for
+the admission process. N/A
+3 Announcement of shortlisted for the admission process
+after approval of Chairman Senate Through Chairman PG
+Admission and Dean (Academics) applicants for the
+admission process. N/A
+4 Last Date for Programme fee submission by the
+candidate 31st January, 2025
+5 Orientation Date 3rd February, 2025
+6 Date for course floating in the ERP by Respective
+Programme Coordinator 3rd – 4th February, 2025
+7 Date for Email and Roll number generation 5th – 6th February, 2025
+8 Date for ERP creation and Profile updation in the
+ERP by the Student 5th – 6th February, 2025
+9 Date for course registration by the student in the
+ERP portal 7th - 9th February, 2025
+10 Date for course registration to be approved by the program
+director 10th February, 2025
+11 Commencement of Lecture Classes for New student 4th February, 2025
+12 Last date of Lecture Classes New student 18th May, 2025
+13 Campus Immersion N/A
+14 Buffer Classes 19th May, 2025 Monday 20th May, 2025 Tuesday
+
+15 Course feedback submission 22nd May, 2025
+16 Major exam (In-person major
+examinations at Examination Centers) 31st May – 3rd June, 2025
+17 Grade submission 9th June, 2025
+18 Grade moderation & Display of Grades 11th June, 2025
+19 Last date of submission of Hard Copies of Grades 13th June, 2025
+20 Verification of Grades 16th June, 2025
+21 Approval of Grades 20th June, 2025
+22 Release of grades 24th June, 2025
+Day Time Slot Activity Subject
+Monday 4:00 p.m.—6:00 p.m. Assignment Completion Linear Algebra and Numerical Analysis
+6:30 p.m.—9:00 p.m. Recorded Videos + Study Linear Algebra and Numerical Analysis
+Tuesday 4:00 p.m.—6:00 p.m. Assignment Completion Foundations of Statistics and Probability
+6:30 p.m.—9:00 p.m. Recorded Videos + Study Foundations of Statistics and Probability
+Wednesday 4:00 p.m.—6:00 p.m. Assignment Completion Algorithmic Thinking and Its Applications
+6:30 p.m.—9:00 p.m. Recorded Videos + Study Algorithmic Thinking and Its Applications
+Thursday 4:00 p.m.—6:00 p.m. Assignment Completion Basics of Data Analytics
+6:30 p.m.—9:00 p.m. Recorded Videos + Study Basics of Data Analytics
+Friday 4:00 p.m.—6:00 p.m. Live Doubt Clearing Linear Algebra and Numerical Analysis
+6:30 p.m.—g:00 p.m. Live Doubt Clearing Foundations of Statistics and Probability
+Saturday 9:30 a.m.—11:30 a.m. Live Doubt Clearing Algorithmic Thinking and Its Applications
+12:00 p.m.—2:00 p.m. Live Doubt Clearing Basics of Data Analytics
+3:00 p.m.—5:00 p.m. Tool Knowhow & Demonstration Linear Algebra and Numerical Analysis
+5:30 p.m.—7:30 p.m. Tool Knowhow & Demonstration Foundations of Statistics and Probability
+Sunday 9:30 a.m.—11:30 a.m. Tool Knowhow & Demonstration Algorithmic Thinking and Its Applications
+12:00 p.m.—2:00 p.m. Tool Knowhow & Demonstration Basics of Data Analytics
+3:00 p.m.—5:00 p.m. Weekly Assessment Online Cumulative Test for All Subjects for Progress Tracking
+5:30 p.m.—7:30 p.m. Reserved Slot Any Extra Sessions/Make-up Sessions/Tests/Interventions
+SLOTS
+
+S.No. Activity Dates
+From To
+1 Last date for filling online application form 20th May, 2025
+Cut-off date for an application to be considered for
+the admission process. N/A
+3 Announcement of shortlisted for the admission process after
+approval of Chairman Senate Through Chairman PG
+Admission and Dean (Academics) applicants for the admission
+process. N/A
+4 Last Date for Programme fee submission by the
+candidate 25th May, 2025
+S Orientation Date 28th May, 2025
+6 Date for course floating in the ERP by Respective
+Programme Coordinator 26th May, 2025
+7 Date for Email and Roll number generation 27th May, 2025
+8 Date for ERP creation and Profile updation in the
+ERP by the Student 29th May, 2025
+9 Date for course registration by the student in the
+ERP portal 30th May, 2025
+10 Date for course registration to be approved by the program
+director 30th May, 2025
+11 Commencement of Lecture Classes for New student 1st June, 2025
+12 Last date of Lecture Classes New student 31st August 2025
+13 Campus Immersion N/A
+14 Buffer Classes
+
+15 Course feedback submission 8th September, 2025
+16 Major exam (In-person major
+examinations at Examination Centers) 12th September to 18th September, 2025
+17 Grade submission 23rd September, 2025
+18 Grade moderation & Display of Grades 25th September, 2025
+19 Last date of submission of Hard Copies of Grades 26th September, 2025
+20 Verification of Grades 27th September, 2025
+21 Approval of Grades 28th September, 2025
+22 Release of grades 29th September, 2025
+S.No. Activity Dates
+From To
+1 Last date for filling online application form 20th August, 2025
+2 Cut-off date for an application to be considered for
+the admission process. N/A
+3 Announcement of shortlisted for the admission process after
+approval of Chairman Senate Through Chairman PG Admission
+and Dean (Academics) applicants for the admission process. N/A
+4 Last Date for Programme fee submission by the
+candidate 25th August, 2025
+5 Orientation Date 27th August, 2025
+6 Date for course floating in the ERP by Respective
+Progrsamme Coordinator 29th August, 2025
+7 Date for Email and Roll number generation 1st week of September
+8 Date for ERP creation and Profile updation in the 1st Week of September
+
+9 Date for course registration by the student in the
+ERP portal 1st Week of September
+10 Date for course registration to be approved by the program
+director 1st Week of September
+11 Commencement of Lecture Classes for New student 1st Week of September
+12 Last date of Lecture Classes New student 30th November, 2025
+13 Campus Immersion N/A
+14 Buffer Classes
+15 Course feedback submission 5th December, 2025
+16 Major exam (In-person major
+examinations at Examination Centers) 12nd December 2025 To 17th December, 2025
+17 Grade submission 22nd December, 2025
+18 Grade moderation & Display of Grades 23rd December, 2025
+19 Last date of submission of Hard Copies of Grades 24th December, 2025
+20 Verification of Grades 26th December, 2025
+21 Approval of Grades 29th December, 2025
+22 Release of grades 30th December, 2025

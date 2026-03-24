@@ -1,0 +1,13 @@
+research seminar by bharat soni on august at title of the talk optimal fluid flow in networks date time venue august at pm seminar hall dept
+of mathematics abstract in many biological and engineering applications it is required to transport the fluid through the networks with minimal work done
+the fluid transport depends on various geometrical characteristics of the network and the fluid flow parameters
+when there are certain obstructions or faults in the network the optimality criterion deviates
+in this talk will first discuss the optimal fluid flow criterion for networks by using the electrical circuit analogy
+later will discuss its application and the various challenges to adopt the derived theory on the human respiratory system
+furthermore will extend my discussion to understand the importance of electrical circuit analogy to study the optimality criterion of fluid flow in planar networks
+about the speaker bharat soni is currently working as assistant professor at indian institute of information technology raichur karnataka
+he obtained his phd from iit roorkee in and then worked as postdoctoral researcher at university cote dazur cnrs france
+his area of research majorly includes computational fluid dynamics heat transfer numerical methods and control systems
+title of the talk optimal fluid flow in networks optimal fluid flow in networks date time venue august at pm seminar hall dept
+in many biological and engineering applications it is required to transport the fluid through the networks with minimal work done
+bharat soni is currently working as assistant professor at indian institute of information technology raichur karnataka

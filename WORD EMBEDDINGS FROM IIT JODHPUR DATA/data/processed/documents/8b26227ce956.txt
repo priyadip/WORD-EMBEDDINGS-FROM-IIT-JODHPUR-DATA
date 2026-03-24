@@ -1,0 +1,21 @@
+the department of mathematics is organizing an introductory workshop on the lean proof assistant from to february
+the workshop will introduce the participants to theorem proving in lean using the mathlib library and building definitions in lean
+no prior experience with lean is needed all faculty phd scholars and masters students in the department are welcome
+the workshop will be led by prathamesh assistant professor of computer science krea university
+to get feel for theorem proving in lean we will organize from to february where we will play the natural number game and get started with installing lean
+please fill in this google form to indicate your interest in participating in the workshop below is brief outline of the topics that will be covered during the workshop
+thursday afternoon feb in from pm to pm
+talk title introducing lean what it is why it matters and how it works
+duration hour tutorial title introduction to proving in lean duration hours
+friday morning feb in from am to pm tutorial title proving in lean basic tactics duration hours
+talk title navigating lean mathlib library projects in lean and other documentation
+duration mins towards the later half or the end of the session
+friday afternoon feb in from pm to pm tutorial title proving in lean intermediate tactics duration hours
+talk title demystifying lean type theory primer for tactics and blackboxes
+saturday morning feb in from pm to pm tutorial title definitions structures and programs in lean duration hours
+talk title what next
+open projects and future directions teaching with lean duration minutes the department of mathematics is organizing an introductory workshop on the lean proof assistant from to february
+open projects and future directions teaching with lean duration minutes important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

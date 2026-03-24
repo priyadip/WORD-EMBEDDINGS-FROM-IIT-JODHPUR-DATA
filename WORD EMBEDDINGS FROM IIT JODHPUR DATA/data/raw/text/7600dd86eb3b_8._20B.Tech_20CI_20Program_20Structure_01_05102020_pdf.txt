@@ -1,0 +1,93 @@
+SOURCE_PDF: 7600dd86eb3b_8._20B.Tech_20CI_20Program_20Structure_01_05102020.pdf
+
+Cat Course LTP C NC GC Cat Course LTP C NC GC
+I Semester II Semester
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer
+Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1 0
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communication 0-0-2 2 1 - NH Communicatio 0-0-2 2 1 -
+NH Social Connect
+and
+responsibilities I Social Connect 0-0-1 1 0.5 - NH Social Connect 0-0-1 1 0.5 -
+and and
+responsibilities I responsibilities
+NH Performing Arts
+I /Sports I 0-0-1 1 0.5 - NH Performing 0-0-1 1 0.5 -
+Total 11-2-
+12 25 3 16 Total 12-1-14 26 3 17
+III Semester IV Semester
+LS Probability,Stati
+stics and
+Stochastic
+Process 3-1-0 4 - 4 IE Structure of
+Materials
+Corrosion
+Polymers 3 ×
+1-0-0 3 - 3
+IE Thermodynamic
+s 3-1-0 4 - 4 PC Mechanics of 3-1-0 6 4
+PC Geoinformatics 3-0-2 6 4 PC Fluid 3-1-2 6 5
+IE Introduction to
+Machine
+Learning 3-0-2 5 - 4 IE Signals and
+Systems Signals and 3-1-0 4 - 4
+LS Introduction to
+Analytical
+Mechanics 3-0-0 3 - 3 IH Humanities I 3-0-0 3 - 3
+2nd year B.Tech. Civil & Infrastructure Engineering
+Program Structure
+For AY 2020-21
+
+NE Intro. To 0-0-2 2 1 PC Data Structure 3-0-2 3 - 4
+Profession and Algorithm
+Total 15-2-6 24 1 19 Total 18-1-6 25 - 23
+V Semester VI Semester
+PC PC Transportation
+Engineering Transportation 3-0-0 3 3 3 PC PC Water 3-0-2 5 4 4
+Engineering Resources
+PC Structural
+Analysis 3-0-2 5 4 PC Reinforced 3-0-2 5 4
+PC Environmental
+Engineering 3-0-2 5 4 PC Smart 3-0-0 3 3
+PC Geotechnical
+Engineering 3-1-0 4 4 PC Advanced 3-0-2 5 4
+PC Construction 3-0-2 5 4 PC Geotechnical 0-0-2 2 1
+Technology and Engineering
+Practices Lab
+IH Humanities II 3-0-0 3 - 3 PE Programme/O
+pen Elective 3-0-0 3 3
+NH Professional 0-1-0 1 - NH Professional 0-1-0 1 -
+Ethics I Ethics II
+Total 18-2-6 25 1 22 Total 15-1-8 23 1 19
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE/
+OE Programme/Op
+en Electives 8-0-0 8 - 8 PE
+/
+OE Programme/O
+pen Electives 15-0-0 1
+5 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 13-0-6 19 - 16 Total 18-0-0 1
+8 - 18
+Total of Graded Credit - 150
+Non-Graded Credit 9 -
+Non-Graded Design Credits 6 -
+Grand Total 165

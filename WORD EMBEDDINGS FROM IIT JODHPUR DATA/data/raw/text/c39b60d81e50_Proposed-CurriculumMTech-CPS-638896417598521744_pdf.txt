@@ -1,0 +1,46 @@
+SOURCE_PDF: c39b60d81e50_Proposed-CurriculumMTech-CPS-638896417598521744.pdf
+
+Cat. Course Number, Course Title L-T-P Credits Cat. Course Number, Course Title L-T-P Credits
+I Semester II Semester
+C EEL7XX0 Introduction to Cyber-
+Physical Systems 3-0-0 3 C EEL7XX0 Data Communication
+and Networking 2-0-2 3
+C EEL7XX0 Embedded System
+Design 3-0-0 3 C EEL7XX0 Advanced Control
+System 3-0-0 3
+E EEL7XX0 Elective 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+E EEL7XX0 Elective 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+NG1 HSN7XX0 Non-graded course 1-0-0 S/X NG2 HSN7XX0 Non-graded course 1-0-0 S/X
+Total 12 Total 12
+III Semester IV Semester
+T MET8XXo Thesis 16 T MET8XX0 Thesis 16
+Total 16 Total 16
+S.No. Course Number Course Title L-T-P course credit
+1 Security of CPS 2-0-0 2
+2 Linear System
+Theory 3-0-0 3
+3 Mobile Robots 3-0-0 3
+4 Artificial
+Intelligence 3-0-0 3
+5 Computer Vision 3-0-0 3
+6 Machine Learning 3-0-0 3
+7 Networked
+Dynamical
+Systems and
+Control 3-0-0 3
+8 Applied Linear
+Algebra 3-0-0 3
+9 Statistical Signal
+Analysis 3-0-0 3
+10 Robotics 3-0-0 3
+11 Deep Learning 3-0-0 3
+Curriculum
+Electives
+
+12 Sensors and
+Measurement 3-0-0 3
+S.No. Category Course Category Title Total Courses Total Credits
+1 C COMPULSORY 4 12
+2 E ELECTIVES 4 12
+3 T Thesis 2 (16+16) 32
+Total 56

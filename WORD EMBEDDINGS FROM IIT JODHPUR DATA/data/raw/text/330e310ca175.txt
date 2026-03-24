@@ -1,0 +1,25 @@
+SOURCE_URL: http://old.iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=35d54553-5134-467d-b5ec-446b7e6f969b
+
+Congratulations to Dr. Moumita Mandal for the acceptance of their research article in the journal International Journal of Computer Mathematics
+Congratulations to Dr. Moumita Mandal for the acceptance of their research article in the journal International Journal of Computer Mathematics
+Title: Discrete Legendre Spectral Methods for Hammerstein type Weakly Singular Nonlinear Fredholm Integral Equations. Authors: Moumita Mandal, Kapil Kant, Gnaneshwar Nelakanti Journal: International Journal of Computer Mathematics Volume: In Press Year: 2021 Publisher: Taylor & Francis Abstract: In this article, we study the discrete version of Legendre spectral and iterated Legendre spectral techniques to solve the second kind Hammerstein type weakly singular integral equations. To obtain the convergence analysis, we use appropriate numerical quadrature rule and obtain the order O(n-r+1) discrete Legendre spectral method. If the quadrature rule is minimal then optimal rate is obtained O(n-r ) in iterated form of discrete Legendre spectral collocation method in and uniform norms. Numerical aspects are given to verify the hypothetical results. https://old.iitj.ac.in/uploaded_docs/dept_upload/maths/Moumita_260121_document-2021-01-26-15-35-pm.pdf
+Title: Discrete Legendre Spectral Methods for Hammerstein type Weakly Singular Nonlinear Fredholm Integral Equations.
+Authors: Moumita Mandal, Kapil Kant, Gnaneshwar Nelakanti Journal: International Journal of Computer Mathematics Volume: In Press
+Publisher: Taylor & Francis
+Abstract: In this article, we study the discrete version of Legendre spectral and iterated Legendre spectral techniques to solve the second kind Hammerstein type weakly singular integral equations. To obtain the convergence analysis, we use appropriate numerical quadrature rule and obtain the order O(n-r+1) discrete Legendre spectral method. If the quadrature rule is minimal then optimal rate is obtained O(n-r ) in iterated form of discrete Legendre spectral collocation method in and uniform norms. Numerical aspects are given to verify the hypothetical results.
+https://old.iitj.ac.in/uploaded_docs/dept_upload/maths/Moumita_260121_document-2021-01-26-15-35-pm.pdf
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+Last Updated : 26 Feb 2026 - 10:59 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

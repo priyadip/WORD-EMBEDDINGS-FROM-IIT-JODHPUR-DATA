@@ -1,0 +1,11 @@
+SOURCE_PDF: 04faec69ca6d_Revised_20courses_20detail_20by_20other_20department_25022021.pdf
+
+S.N. Department Name Outside Department Programme
+electives
+1. B.Tech. Computer Science and
+Engineering Students Introduction to Internet of Things, EE
+2. B.Tech. Mechanical Engineering
+Students Medical Devices and Implants, BB
+
+3. B.Tech. Electrical Engineering
+Students Reliability Theory, MA

@@ -1,0 +1,45 @@
+SOURCE_URL: https://www.iitj.ac.in/Electrical-Engineering/en/Control-Systems
+
+Welcome to the control system research group of the Department of Electrical Engineering at Indian Institute of Technology Jodhpur. It facilitates faculty, students who are conducting research and thesis work along with industry projects in the field of Microgrid and Electric vehicle applications.
+Welcome to the control system research group of the Department of Electrical Engineering at Indian Institute of Technology Jodhpur. It facilitates faculty, students who are conducting research and thesis work along with industry projects in the field of Microgrid and Electric vehicle applications.
+Current Research Themes Multi-agent system Mechatronics & cyber-physical system Control of micro-grid & uncertain system Robust & optimal control Adaptive control & robotics Control of Power Converters
+Current Research Themes
+Mechatronics & cyber-physical system
+Control of micro-grid & uncertain system
+Robust & optimal control
+Adaptive control & robotics
+Control of Power Converters
+Associated Technology Tracks Cyber-Physical Systems Embedded Computing and SoC
+Associated Technology Tracks
+Cyber-Physical Systems
+Embedded Computing and SoC
+Facilities Real Time Digital Simulator (RTDS) OPAL-RT dSpace 1104 Design and simulation softwares (MATLAB, LabView) Low Power DC-DC and DC-AC converters 4-channel Digital Phosphor Oscilloscope WT3000 Power Analyzer Rectifier Unit (8.25 kVA) Programmable LCR bridge HM8118 Chroma DC Electronic Load Multimeters with DAQ For utilization request, please email to df@iitj.ac.in.
+Real Time Digital Simulator (RTDS) OPAL-RT
+Design and simulation softwares (MATLAB, LabView)
+Low Power DC-DC and DC-AC converters
+4-channel Digital Phosphor Oscilloscope
+WT3000 Power Analyzer
+Rectifier Unit (8.25 kVA)
+Programmable LCR bridge HM8118
+Chroma DC Electronic Load
+Multimeters with DAQ
+For utilization request, please email to df@iitj.ac.in.
+Laboratory Control and Computing Lab Cyber Physical Systems (CPS) Modelling Lab Microgrid & Real-time Simulator Lab
+Control and Computing Lab
+Cyber Physical Systems (CPS) Modelling Lab
+Microgrid & Real-time Simulator Lab
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

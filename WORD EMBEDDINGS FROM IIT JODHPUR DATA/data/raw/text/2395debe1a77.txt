@@ -1,0 +1,62 @@
+SOURCE_URL: http://www.iitj.ac.in/Electrical-Engineering/en/RF,-Microwaves-and-Photonics
+
+RF, Microwaves and Photonics
+RF, Microwaves and Photonics
+RF, Microwaves and Photonics
+RF, Microwaves and Photonics
+Welcome to the RF, Microwave and Photonics group of Electrical Engineering Department at IIT Jodhpur. With the rapid technological improvements in hand-held devices such as tablets and mobile phones, the requirement of faster access of wireless resources is ever increasing. The group mainly focuses on design of active and  passive components for modern transceivers. Along with research in high frequency circuit design, the group aims to improve the quality of understanding in microwave engineering through various practical as well as computer aided simulations. Optical Techniques would be the fundamental enabler for many future technologies and applications including high-speed data communication systems and Internet of Things. The Photonics group in the department is working on exploring various device applications of multimode optical fibers. The current work is towards generating arbitrary multimode beams and highly pure Laguerre-Gaussian (LG) beams in free-space. The group is also targeting the generation of orbital angular momentum beams using optical fibers, and their use in free-space optical communication systems. In addition, the group also works on security issues in the Physical layer in free-space optical networks.
+Welcome to the RF, Microwave and Photonics group of Electrical Engineering Department at IIT Jodhpur.
+With the rapid technological improvements in hand-held devices such as tablets and mobile phones, the requirement of faster access of wireless resources is ever increasing. The group mainly focuses on design of active and  passive components for modern transceivers. Along with research in high frequency circuit design, the group aims to improve the quality of understanding in microwave engineering through various practical as well as computer aided simulations.
+Optical Techniques would be the fundamental enabler for many future technologies and applications including high-speed data communication systems and Internet of Things. The Photonics group in the department is working on exploring various device applications of multimode optical fibers. The current work is towards generating arbitrary multimode beams and highly pure Laguerre-Gaussian (LG) beams in free-space. The group is also targeting the generation of orbital angular momentum beams using optical fibers, and their use in free-space optical communication systems. In addition, the group also works on security issues in the Physical layer in free-space optical networks.
+Current Research Themes Millimeterwave antennas and circuits for 5G application Chipless RFID Microwave passive components (Filter, coupler, crossover etc.) Microwave active components (LNA, oscillators, mixer etc.)
+Current Research Themes
+Millimeterwave antennas and circuits for 5G application
+Microwave passive components (Filter, coupler, crossover etc.)
+Microwave active components (LNA, oscillators, mixer etc.)
+Associated Technology Tracks 5G and beyond Communications IoT Communications (AIoT) IoT Sensors, RFID (AIoT)
+Associated Technology Tracks
+5G and beyond Communications
+IoT Communications (AIoT)
+IoT Sensors, RFID (AIoT)
+Facilities ENA Series Network Analyzer (300KHz-20GHz) ENA Series Network Analyzer (100KHz-4.5GHz) Noise Figure Analyzer, 10MHz to 3GHz 20GHz Microwave Signal Generator C and X band Waveguide components Horn antenna - L, S, C and X band Ansys HFSS CST Microwave Studio Agilent ADS
+ENA Series Network Analyzer (300KHz-20GHz)
+ENA Series Network Analyzer (100KHz-4.5GHz)
+Noise Figure Analyzer, 10MHz to 3GHz
+20GHz Microwave Signal Generator
+C and X band Waveguide components
+Horn antenna - L, S, C and X band
+CST Microwave Studio
+Laboratory Wireless and Microwave Lab For utilization request, please email at soumava@iitj.ac.in .
+Wireless and Microwave Lab
+For utilization request, please email at soumava@iitj.ac.in .
+Ongoing Projects (1) Substate Integated Coaxial Line (SICL) based Circuits and Systems for Millimeter Wave Application Department of Science & Technology (DST), Government of India Soumava Mukherjee, PI 2017-22 (2) Design and Development of Substrate Integrated Waveguide (SIW) and Empty SIW (ESIW) Based RF-Microwave Components Science and Engineering Research Board, DST, Government of India Arani Ali Khan, PI 2019-22 (3) Experimental Investigation and Performance Evaluation of HARQ Technique for Free-Space Optical Communication Systems Science and Engineering Research Board, DST, Government of India Aashish Mathur, PI 2019-22
+(1) Substate Integated Coaxial Line (SICL) based Circuits and Systems for Millimeter Wave Application
+Department of Science & Technology (DST), Government of India
+Soumava Mukherjee, PI
+(2) Design and Development of Substrate Integrated Waveguide (SIW) and Empty SIW (ESIW) Based RF-Microwave Components
+Science and Engineering Research Board, DST, Government of India
+(3) Experimental Investigation and Performance Evaluation of HARQ Technique for Free-Space Optical Communication Systems
+Science and Engineering Research Board, DST, Government of India
+Awards and Appreciations Idury Satya Krishna, InCAP Travel Grant, 4th October 2018, INCAP, Institute of Electrical and Electronics Engineers (IEEE) Idury Satya Krishna, European Microwave Conference Student Grant Award, 15th June 2019, European Microwave Association (EuMA) Idury Satya Krishna, CSIR Foreign Travel Grant, 08th August 2019, Council of Scientific and Industrial Research (CSIR) Naman Baghel, InCAP Travel Grant, 4th October 2018, INCAP, Institute of Electrical and Electronics Engineers (IEEE) Naman Baghel, TENCON Travel Grant, 22nd September 2019, Indian Radio Science Society (InRaSS) Idury Satya Krishna, MTT-S MGA Student Sponsorship Initiative (Asia Pacific Microwave Conference 2019, Singapore), 14th November 2019, Microwave Theory and Techniques Society (MTT-S IEEE)
+Awards and Appreciations
+Idury Satya Krishna, InCAP Travel Grant, 4th October 2018, INCAP, Institute of Electrical and Electronics Engineers (IEEE)
+Idury Satya Krishna, European Microwave Conference Student Grant Award, 15th June 2019, European Microwave Association (EuMA)
+Idury Satya Krishna, CSIR Foreign Travel Grant, 08th August 2019, Council of Scientific and Industrial Research (CSIR)
+Naman Baghel, InCAP Travel Grant, 4th October 2018, INCAP, Institute of Electrical and Electronics Engineers (IEEE)
+Naman Baghel, TENCON Travel Grant, 22nd September 2019, Indian Radio Science Society (InRaSS)
+Idury Satya Krishna, MTT-S MGA Student Sponsorship Initiative (Asia Pacific Microwave Conference 2019, Singapore), 14th November 2019, Microwave Theory and Techniques Society (MTT-S IEEE)
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

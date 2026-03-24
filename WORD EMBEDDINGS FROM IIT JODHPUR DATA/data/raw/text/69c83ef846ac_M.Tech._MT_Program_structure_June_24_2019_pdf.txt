@@ -1,0 +1,79 @@
+SOURCE_PDF: 69c83ef846ac_M.Tech._MT_Program_structure_June_24_2019.pdf
+
+Cat. Course Number, Course Title L-T-P-D Credits Cat. Course Number, Course Title L-T-P-D Credit
+s
+I Semester II Semester
+C MT513 Metallurgical
+Thermodynamics and
+Kinetics 3-0-2-0 4 C MT516 Computational
+Materials
+Engineering 3-0-2-0 4
+C MT515 Characterization of
+Minerals, Metals and
+Materials 3-0-2-0 4 C MT517 Phase
+Transformations in
+Solids 3-0-2-0 4
+E Elective-2 3-0-0-0 3 E Elective-4 3-0-0-0 3
+Total 14 Total 14
+III Semester IV Semester
+E Elective-6 3-0-0-0 3 C MT6XX Project (Stage-II) 0-0-0-
+11 11
+E Elective-7 3-0-0-0 3
+C MT6XX Project (Stage-I) 0-0-0-5 5
+Total 14 Total 14
+S.No. Category Category Title Total Courses Total Credits
+1 C Compulsory 4 16
+2 E Electives (Program Electives) 6 18
+2 E Electives (Open Electives) 2 6
+4 C Project 16 16
+Total 56
+Indian Institute of Technology Jodhpur
+Proposed Curriculum
+M.Tech. (Metallurgical and Materials Engineering)
+Distribution of Credits (M.Tech.)
+The eight elective (E) courses may be taken from those listed in five groups in Tables to follow or any other as applicable.
+
+Course Number Course Title L-T-P-D Credits
+MT654 Atomistic Simulations of Materials 3-0-0-0 3
+MT6XX Modeling of Metallurgical Processes 3-0-0-0 3
+ME618 Numerical Methods 3-0-0-0 3
+CY 513 Statistical Thermodynamics and Chemical Kinetics 3-0-0-0 3
+Course Number Course Title L-T-P-D Credits
+MT6XX Mineral Engineering 3-0-0-0 3
+MT6XX Fuels, Furnaces and Refractories 3-0-0-0 3
+MT6XX Iron and Steel Making 3-0-0-0 3
+MT665 Solidification Processing 3-0-0-0 3
+MT6XX Industrial Waste: Control and Utilization 3-0-0-0 3
+EE Instrumentation and Process Control 3-0-0-0 3
+ME761 Renewable Energy Sources 3-0-0-0 3
+Course Number Course Title L-T-P-D Credits
+MT6XX Light Metals and Alloys 3-0-0-0 3
+MT6XX Near Net Forming 3-0-0-0 3
+MT6XX Powder Metallurgy 3-0-0-0 3
+MT670 Thermo Mechanical Processing 3-0-0-0 3
+ME757 Metallurgy of Joining Processes 3-0- 0-0 3
+ME752 Theory of Arc Welding Processes 3-0-0-0 3
+ME657 Manufacturing of Plastics, Ceramics and Composites 3-0-0-0 3
+Course Number Course Title L-T-P-D Credits
+MT655 Plastic Deformation and Microstructure Evolution 3-0-0-0 3
+MT6XX Corrosion Engineering 3-0-0-0 3
+MT6XX Introduction to Dislocations 3-0-0-0 3
+PH764 Electronic Transport in Mesoscopic System 3-0-0-0 3
+CY513 Understanding Scanning Tunneling Microscopy 3-0-0-0 3
+ME616 Mechanical Metallurgy 3-0-3-0 4
+Course Number Course Title L-T-P-D Credits
+MT6XX Ceramics 3-0-0-0 3
+MT675 Composites 3-0-0-0 3
+MT6XX Nanomaterials: Principles, Processing and Characterization 3-0-0-0 3
+MT6XX Opto-Electro-Mechanical Systems 3-0-0-0 3
+MT6XX Polymers and their composites 3-0-0-0 3
+MT6XX Principles of Engineering Material Selection 3-0-0-0 3
+MT6XX Cellular Materials 3-0-0-0 3
+CY759 Advance Material Design 3-0-0-0 3
+EE659 Biomedical Instrumentation 3-0-0-0 3
+EE619 Sensors in Instrumentation 3-0-0-0 3
+PH758 Semiconductor Device Technology 3-0-0-0 3
+PH765 Vacuum Systems and Thin film Technology 3-0-0-0 3
+List of Electives
+Following is the list of courses that can be offered to M.Tech. Students
+(E) ELECTIVE V: Functional Materials and Devices

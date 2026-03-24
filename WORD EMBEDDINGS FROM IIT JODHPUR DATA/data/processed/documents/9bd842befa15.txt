@@ -1,0 +1,16 @@
+research seminar by dr sunder ram krishnan on at pm title of the talk persistence of stationary gaussian processes and geometric outlook to improving related bounds date time venue oct pm seminar hall dept
+of mathematics abstract of talk we will start with discussing study on estimating the probability that stationary gaussian process stays positive on long interval
+the behaviour of this probability is found to depend on the spectral measure near the origin and infinity
+we will then describe an extrinsic idea to refine classical bounds such as the bhattacharyya bounds
+the basic idea is to embed the statistical manifold into fixed hilbert space using the map
+about the speaker sunder received
+in ece from college of engineering trivandrum masters by research from and phd from technion haifa israel under the supervision of robert adler for his thesis on random topology
+he had postdoc stints at technion and barilan and teaching position at iit dharwad mathematics dept
+he is now an asst
+at cse amrita
+his research interests are in gaussian processes random topology mathematical statistics and signal processing
+title of the talk persistence of stationary gaussian processes and geometric outlook to improving related bounds date time venue oct pm seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

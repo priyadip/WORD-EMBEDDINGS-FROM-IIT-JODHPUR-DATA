@@ -1,0 +1,174 @@
+SOURCE_PDF: a743b51cec74_CEPAPPLIEDMATHS-638844586664803969.pdf
+
+An e-Short T
+erm Course on
+Applied Numerical Analysis with 
+MA
+TLAB:Theory & Hands-on
+Practice
+July 22-24, 2025
+A Continuing Education Programme
+of Indian Institute of T
+echnology Jodhpur
+The aim of this course is to introduce various
+numerical techniques and their applications in
+solving
+simple
+to
+complex
+problems
+of
+chemical
+engineering.
+A
+wide
+variety
+of
+mathematical equations are involved in the
+design
+and
+analysis
+of
+various
+chemical
+equipment and processes. Choice of a suitable
+numerical technique to simulate a chemical
+process requires prior knowledge of various
+numerical
+techniques
+and
+their
+practical
+implementations. This course is intended to
+provide detailed principles and working of
+such numerical techniques for simulating a
+specific chemical processes on computational
+platform.
+IIT Jodhpur facultywilldeliverthe 
+lecturesin onlinemode.
+➢Students (UG, PG, & Ph.D.)
+➢Faculty
+➢Industry fellows
+Course Contents
+Processmodels and simulationsinvolving
+I.
+Non-linear
+equations;
+applications
+to
+equations of state, calculation of friction
+factor,
+calculation
+of
+mass
+and
+energy
+balances and steady state compositions in
+continuousflow reactors.
+II.
+Simultaneous linear equations; applications
+to steady state solutions of systems of
+ordinarydifferentialequations.
+Ordinarydifferentialequations:Initialvalue
+problems;
+applications
+to
+dynamical
+IV.
+Ordinary differential equations: Boundary 
+value problems;applications to solutions of
+temperature
+distribution
+in
+a
+slab,
+concentrationprofilesin catalystpallet.
+V.
+Partial
+differential
+equations:
+parabolic
+problems; applications to solution of heat 
+equationin two and threedimensions.
+VI.
+Partial
+differential
+equations:
+Elliptic
+problems; application of finite element 
+techniques for steady state solutionof
+temperature distribution in two and three 
+dimensionalslabs.
+Organized by
+Department of Chemical Engineering
+IndianInstituteof T
+echnology Jodhpur
+Jodhpur
+, Karwar-342030
+Rajasthan
+Course Objective
+Instructing Faculty members
+
+Registrationtype Fees (+ 18%
+GST)
+Industry personnel 10,000
+Scan QR for
+Payment Scan QR for
+Registration
+Course Fee
+Modern engineers and scientists across all
+disciplines
+are
+frequently
+faced
+with
+challenging mathematical models to handle,
+with their solutions not always handy. As
+technology continues to evolve, most of these
+problems require applications of advanced
+mathematical
+concepts
+more
+than
+ever
+before. Unfortunately, analytical mathematics
+taught as a part of the majority of engineering
+and science undergraduate programs render
+the handling of niche problems very difficult.
+A clear and practical connection between
+abstract mathematical concepts and real-life
+engineering problems can be brought about
+by
+numerical
+analysis
+of
+the
+allied
+mathematical models. The proposed short
+term
+course
+is
+intended
+to
+detail
+the
+numerical analysis of some important and
+highly applied topics of applied mathematics,
+and demonstrate the working solutions via
+the use of MATLAB.
+General Information
+Prof. Parag A. Deshpande
+Dr. Krunal M Gangawane
+Dr. Santhosh Kumar
+Varanasi
+Dr Tara Chand Kumawat
+Faculty members
+Step 1: Payment link
+https://form.qfixonline.com/iitheroyform 
+Step 2: Register here
+https://forms.gle/nGjeppR3AKXhwdKB9
+ 
+Inst Name: IIT Jodhpur
+Branch Name:
+IIT JODHPUR-Theory & Hands On Practice
+TID:76060579

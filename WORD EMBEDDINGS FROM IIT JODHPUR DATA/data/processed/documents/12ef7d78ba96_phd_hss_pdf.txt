@@ -1,0 +1,5 @@
+course number course title cat
+course number course title credits electives hs799 thesis hs751 consciousness hs752 cognitive science hs754 qualitative and quantitative methodology hs753 hs755 philosophy of mind hs757 hs756 nature writings in american literature hs758 hs654 sociocultural theories hs759 no
+category category title students with total courses
+electives master degree
+thesis proposed curriculum humanities and social sciences semester ii semester iii semester iv semester semester vi semester vii semester viii semester electives semester semester ii

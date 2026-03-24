@@ -1,0 +1,7 @@
+course course title credits cat
+course course title credits number number semester semester linear algebra abstract algebra real analysis complex ordinary partia differential differential equations equations probability and numerical statistics analysis programing functional techniques analysis total total semester semester elective elective th thesis th thesis total total grand total topology wavelets analysis and applications complex networks dynamical systems optimization no
+category course category title total courses total credits compulsory electives th thesis total master of science
+mathematics program curriculum note the students are encouraged to opt electives from
+level courses having mathematical orientation
+cryptography information theory and coding data structures and algorithms digital image analysis etc
+this will assist to integrate technological aspects into mathematics education

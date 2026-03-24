@@ -1,0 +1,7 @@
+title dynamics of deformed ricker map authors aishwaraya divya gupta and
+chandramouli journal journal of difference equations and applications volume link journal of difference equations and applications year publisher taylor francis abstract we apply the deformation scheme to the classical ricker map and obtain ricker map namely map
+the aim of the paper is to investigate the nonlinear dynamics bifurcation structure and topological entropy of map
+in particular we show that map proclaims many exciting phenomena that are remarkable in dynamical systems such as the presence of coexisting attractors physically chaos hydra paradox bubbling effect and extinction
+we discuss fold and flip bifurcations and further the presence of stochastically stable chaos
+finally we show that certain amount of deformation in the system can keep it in equilibrium however excessive deformation causes extinction
+chandramouli journal journal of difference equations and applications link journal of difference equations and applications publisher taylor francis abstract we apply the deformation scheme to the classical ricker map and obtain ricker map namely map

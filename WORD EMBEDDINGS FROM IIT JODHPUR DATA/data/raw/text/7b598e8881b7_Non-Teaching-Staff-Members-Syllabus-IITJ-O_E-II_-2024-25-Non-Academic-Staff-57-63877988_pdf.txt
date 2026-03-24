@@ -1,0 +1,78 @@
+SOURCE_PDF: 7b598e8881b7_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL ASSISTANT (Computer Science & Engineering)
+(WRITTEN TEST & SKILL TEST)
+English Language and Comprehension
+- 
+English Grammar, Sentence Correction and Completion, Paragraph Summary, Reading
+Comprehension and Inference, Writing Skills
+- 
+Mathematics and Numerical Reasoning/Computation, Data Reasoning and 
+Interpretation, Relations, 
+Calendars, Clocks, and Directions.
+Laboratory Management
+- 
+Assembling/Installation and Troubleshooting PC/Printers
+- 
+Dual BIOS, and BIOS settings (MBR vs. GPT), Firmware Upgrade
+- 
+OS installation and update
+- 
+Basic Linux commands, Basic DOS commands,
+- 
+Diagnose and resolving issues related to PCs and Laptops
+- 
+Safety Measures (tools), Maintenance of licenses, Maintaining software repository (tools)
+- 
+Drivers/software/packages installations in Linux/windows/MACs
+- 
+Application troubleshooting, Virtual Machine (VM)
+- 
+Puppet
+Network Management
+- 
+Basics of OSI, TCP/IP Model
+- 
+Basics of IPv4 and IPv6 (Internet Protocol), IPv4 Subnetting, VLAN, Network 
+Topology, Network Protocol, Type of Network Devices, Port Security, 
+TCP/UDP, Basic of Routing (static as well as dynamic), VoIP.
+- 
+Wireless LANs, Wireless LAN 802.11 Service Set, Wireless Security, Wireless
+- 
+Authentication Methods along with DHCP and DNS
+Productivity Tools
+- 
+MS Office or Other Office suites
+- 
+Collaborative Platforms such as Google Docs
+- 
+Various browsers and settings
+- 
+Calendar Management
+Event Management
+- 
+Event Creation and Invitation formats, RSVP
+- 
+Device drivers and Connectivities of audio, ethernet, webcam
+- 
+Settings of various meeting applications PC/Tablet/Mobile
+Programming or Scripting
+- 
+Basic Programming Skills with C and Python
+Technical Documentation
+- 
+Docstring, UML/BPML, Flowchart
+Multimedia
+- 
+Pixels, Color models, Bit depth/sampling/quantizing, Image 
+size/resolution, Vector vs. 
+Raster, File naming
+- 
+Ethics Appreciation, Copyright and Attribution, Licensing
+- 
+Various File Formats (media files) and their conversions
+- 
+Basic Editing photos and videos, Concepts of layering and sequencing
+- 
+Basic sound correction

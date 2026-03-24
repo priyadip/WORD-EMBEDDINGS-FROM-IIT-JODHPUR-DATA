@@ -1,0 +1,11 @@
+research seminar by tushar bag on march at pm speaker tushar bag title of the talk from bits to qubits journey into quantum error correction with algebraic codes date time and venue march pm pm at seminar hall dept of mathematics
+abstract reliable error correction is crucial for the development of quantum computing
+this talk will provide an overview of both classical and quantum coding theory laying the foundation for quantum error correction
+we will explore how techniques from classical linear be adapted to protect fragile quantum states
+additionally will discuss the construction of quantum codes using various families of linear codes including cyclic and group ring codes
+special emphasis will be placed on the advantages of codes over traditional cyclic codes along with some of my newly constructed binary and quantum codes
+about the speaker tushar bag is currently working as postdoctoral research at normale de lyon france prior to this he has done postdoctoral research at united arab emirates university uae sep apr and carleton university canada apr apr
+his main research area is algebraic coding theory
+he has done from iit patna and from iit kanpur
+speaker tushar bag title of the talk from bits to qubits journey into quantum error correction with algebraic codes date time and venue march pm pm at seminar hall dept of mathematics
+date time and venue abstract reliable error correction is crucial for the development of quantum computing

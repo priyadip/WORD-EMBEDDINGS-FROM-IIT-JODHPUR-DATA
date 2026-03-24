@@ -1,0 +1,33 @@
+study of mixed type elliptic problems lovelesh sharma p20ma209 thesis supervisor tuhina mukherjee department of mathematics indian institute of technology jodhpur abstract the study of elliptic problems involving spectral fractional laplacian and mixed operators under mixed boundary conditions opens up rich and intriguing mathematical lenges
+this research explores the existence nonexistence multiplicity and regularity of weak solutions for variety of eigenvalue problems and nonlinear elliptic equations particularly those with singular and critical nonlinearities
+the objective is to enhance the standing of how local and nonlocal effects influence the behavior of solutions in such problems
+the investigation begins with problems driven by the spectral fractional laplacian under mixed boundary conditions
+in this setting the focus is on analyzing gular and critical nonlinearities
+by employing variational techniques energy estimates and extension methods introduced by caffarelli and silvestre we establish the existence of weak solutions using variational arguments over the nehari manifold and obtain precise qualitative properties
+next we examine an type problem involving the mixed erator under the dirichlet boundary conditions
+the problem is characterized by the interplay between the parameter and critical growth nonlinearities
+using linking theorems and compactness conditions we establish the existence of multiple solutions and alyze their dependence on the parameter
+the study extends classical results for purely local operators to the mixed local and nonlocal setting
+furthermore we investigate eigenvalue problems involving mixed operators under mixed boundary conditions
+major part of this work is dedicated to developing functional work for handling problems of this type which serves as foundation for spectral analysis and bifurcation results
+we characterize the first eigenvalue establish spectral properties based on the topology of the mixed boundary sets and derive existence results for positive tions
+the results are then applied to study nonlinear problems where we prove the existence of solution branches bifurcating from zero and infinity
+we also analyze nonlinear problems involving nonlinearities and perturbed singular terms proving the existence and multiplicity of solutions using the nehari manifold approach
+the regularity of solutions is established through moser iteration stampacchia method and inequalities adapted to the mixed operator setting
+additionally we derive strong maximum principle and comparison principles which are crucial in standing the qualitative properties of solutions
+overall this work aims to contribute meaningfully to the theoretical development of partial differential equations of mixed type
+the insights gained here have the potential to impact ious scientific fields such as physics population dynamics and models of anomalous diffusion by advancing our understanding of the mathematical structures underpinning complex systems
+mukherjee pucci sharma nonlocal critical exponent singular problems under mixed boundary conditions
+journal of mathematical analysis and applications
+mukherjee sharma on critical type problems involving mixed operator
+journal of elliptic and parabolic equations
+mukherjee sharma on elliptic problems with mixed operators and neumann boundary conditions
+nonlinear differential equations and applications nodea
+mukherjee sharma on singular problems associated with mixed operators under mixed boundary conditions
+journal of fixed point theory and applications
+giacomoni mukherjee sharma on an eigenvalue problem associated with mixed operators under mixed boundary conditions
+discrete and continuous namical systems
+sharma spectrum of mixed operators under the mixed boundary conditions minor revision submitted
+sharma brezis nirenberg type results for local problems under mixed boundary conditions
+communications in analysis and mechanic
+mahanta mukherjee sarkar sharma on the study of choquard equations with critical nonlinearity in hn analysis and applications

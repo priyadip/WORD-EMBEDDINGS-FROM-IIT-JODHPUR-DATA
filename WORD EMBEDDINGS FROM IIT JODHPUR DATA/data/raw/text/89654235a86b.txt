@@ -1,0 +1,47 @@
+SOURCE_URL: http://www.iitj.ac.in/Electrical-Engineering/en/Microgrid-and-Real-time-Simulator-Laboratory
+
+Microgrid and Real-time Simulator Laboratory
+Microgrid and Real-time Simulator Laboratory
+Microgrid and Real-time Simulator Laboratory
+Microgrid and Real-time Simulator Laboratory
+The laboratory carries out research in DC Microgrid, Control Issues in Power Converters, and Electric Vehicles. The lab is also hosting many projects in the fields of Power Electronics, Electric Vehicle and Control. The laboratory has Real Time simulator and also has a test bench for Microgrid Research. The Microgrid test bench is created in the lab and has capability to test complex control algorithms and power sharing schemes. Electric Vehicle is another domain of interest and the laboratory has resources to research on controller for Electric Two wheelers and Three Wheelers. Real Time simulator
+The laboratory carries out research in DC Microgrid, Control Issues in Power Converters, and Electric Vehicles. The lab is also hosting many projects in the fields of Power Electronics, Electric Vehicle and Control. The laboratory has Real Time simulator and also has a test bench for Microgrid Research. The Microgrid test bench is created in the lab and has capability to test complex control algorithms and power sharing schemes. Electric Vehicle is another domain of interest and the laboratory has resources to research on controller for Electric Two wheelers and Three Wheelers.
+Facilities Yokogawa WT3000 power analyzer (01) Semikron power boost converters (02) Hameg programmable LCR bridge (01) Xytronic LF2000 High-power soldering station Chroma DC Electronic load (01) DC Programmable power supply (02) TMS320F38335 experiment kit boards (02) Opal-RT Real-ime Simulator High power rectifier unit dSpace1104 DSO 1022A oscilloscope 200MHz Tektronix afg3021b Function generator Tektronix DPO4104b 1GHz four-channel oscilloscope Two voltage source inverters Two low voltage high current induction motors One motor generator set Battery bank
+Yokogawa WT3000 power analyzer (01)
+Semikron power boost converters (02)
+Hameg programmable LCR bridge (01)
+Xytronic LF2000 High-power soldering station
+Chroma DC Electronic load (01)
+DC Programmable power supply (02)
+TMS320F38335 experiment kit boards (02)
+Opal-RT Real-ime Simulator
+High power rectifier unit
+DSO 1022A oscilloscope 200MHz
+Tektronix afg3021b Function generator
+Tektronix DPO4104b 1GHz four-channel oscilloscope
+Two voltage source inverters
+Two low voltage high current induction motors
+One motor generator set
+People Faculty Member 1. Deepak kumar M. Fulwani Research Interests: Embedded Control, Control of Micro-Grids, Control of Uncertain System Office location: Room 227, Department of Electrical Engineering Phone: (91 291) 280 1355
+Research Interests: Embedded Control, Control of Micro-Grids, Control of Uncertain System
+Office location: Room 227, Department of Electrical Engineering
+Phone: (91 291) 280 1355
+Contact details Room 230, First floor, Department of Electrical Engineering Dr. Deepak kumar M. Fulwani Email: df@iitj.ac.in
+Room 230, First floor, Department of Electrical Engineering
+Dr. Deepak kumar M. Fulwani
+Email: df@iitj.ac.in
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

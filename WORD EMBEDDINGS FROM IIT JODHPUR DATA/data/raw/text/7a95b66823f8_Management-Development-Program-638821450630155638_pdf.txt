@@ -1,0 +1,216 @@
+SOURCE_PDF: 7a95b66823f8_Management-Development-Program-638821450630155638.pdf
+
+DIGITAL TRANSFORMATION IN HEALTH
+AN IMPLEMENTATION PRI CARE SYSTEMS:
+MER
+MANAGEMENT DEVELOPMENT PROGRAM
+
+Leaders are increasingly required to navigate Digitalization of Healthcare Systems. The complex nature of these journeys
+requires a ready understanding of the diverse disciplines that form the moving parts of digital health. The immersive 2.5-
+day Management Development Program (MDP) on Digital Health Transformation, jointly organized by IIT Jodhpur
+and Libra Social Research Foundation, provides a strategic overview tailored for decision-makers. This program offers
+essential insights and practical knowledge for making effective digital health decisions. Participants will engage in
+comprehensive sessions and receive expert guidance aimed at enhancing their expertise. Though concise, the program
+equips leaders with the tools to drive impactful changes in healthcare.
+PROGRAM OVERVIEW
+The goal of the MDP is
+To provide a comprehensive understanding of various challenges and opportunities associated with digital health
+transformation. 
+To unravel the key factors essential for building the digital health transformation roadmap and architecture. 
+To provide an overview for effective mapping of the digital health technologies and processes across the organization. 
+To help in developing suitable decision framework and analytics for decision making at various levels
+OBJECTIVE
+The MDP is specifically designed for high-level decision-makers within the healthcare sector. This includes government
+administrators at national, state, and district levels, as well as CxOs and senior management from hospitals, health
+insurance companies, MedTech, and HealthTech firms. The program aims to equip participants with the strategic
+knowledge and skills necessary to lead digital health initiatives and innovations within their organizations. By addressing
+the needs of key leaders, the MDP fosters a culture of excellence and forward-thinking in the healthcare industry.
+AUDIENCE
+TOPICS TO BE COVERED
+Multiverse of Indian healthcare system
+Overview of digital transformation in healthcare
+Fundamentals of information technology for digital transformation in healthcare
+Healthcare project implementation: Practices and standards
+The technological perspective of managing ‘product’, ‘vendors’, and ‘projects’ in digital healthcare
+Requirement testing and dashboard managing
+Deep dive into digital health standard: Provider’s perspective, payer’s perspective, and product manufacture’s perspective
+Technology insight into digital health applications: HIS, EMR, LIS, RIS, PBM, and claim management
+Impact of digitalization on public health
+Data privacy and data security in digital health
+Precision medicine, integrative medicine, and participatory medicine in the era of digital health
+Evolving technology landscape in digital health: Challenges and opportunities
+
+KEY RESOURCE PERSONS
+Dr. Deepak Saxena
+Dr. Saxena is the Head of the School of Management and Entrepreneurship at IIT Jodhpur and
+he is recognized for his work in Enterprise Systems (on-premise and cloud-based), digital
+transformation, and AI ethics. He has extensive experience in industry collaboration and
+consulting. He is also the Director for the MBA Technology Executive Program.
+Dr Pankaj Gupta
+Dr. Gupta is a globally recognised HealthTech, MedTech, InsurTech, Digital Innovation leader. Dr.
+Gupta has over 2 decades of healthcare industry experience which enabled process improvements, IT
+cost reduction, organization change management, and business transformation through
+implementation of Healthcare-IT solutions for Hospitals, Life-sciences and Pharma companies. Dr.
+Gupta was Health Innovator in Residence @The International Centre for Health Innovation,
+Richard Ivey. Dr Gupta is presently an volunteer advisor to NHA and ABDM.
+Dr. Alok Ranjan
+Dr. Ranjan is the Head of the school of Liberal Arts at IIT Jodhpur with expertise in public health,
+health economics, and health systems. His research focuses on improving healthcare access and
+efficiency, particularly in resource-constrained settings. He utilizes quantitative methods to analyse
+health policies and outcomes.
+Ms. Seema Pandey
+Ms. Pandey is a Healthcare IT Strategist with over 27 years of experience in the industry working
+with payors, providers, and public health organizations across the globe. She is passionate about
+Digital Health and its role in creating better experiences for providers, health workers, patients, and
+their families. She has led several digital transformation initiatives in the areas of Chronic Disease
+Management, Healthcare Information Exchanges, Digital Health Apps, and more.
+EXPECTED BENEFIT
+Participants of the MDP will gain significant benefits aligned to their roles. Government administrators will develop
+skills in policy formulation, resource allocation, and the implementation of digital health initiatives. CxOs and senior
+management will enhance their operational efficiency, navigate regulatory landscapes, and achieve a competitive edge.
+The program also provides enhanced networking opportunities, strategic leadership improvements, and the ability to
+drive innovation within their organizations. The MDP will help the high-level decision-makers to maximize their impact
+on the healthcare ecosystem, fostering meaningful collaborations and real-world applications.
+Prof. Mayank Vatsa
+Prof. Vatsa is a Professor of Computer Science at IIT Jodhpur. He is a Swarnajayanti Fellow and
+Fellow of IEEE, IAPR, AAIA. His expertise spans biometrics, image processing, and machine
+learning. His work includes application of machine learning to various domains of digital health,
+specifically, research related to children's nutritional status assessment. He has also worked on
+projects related to Biometric standards for e-governance applications.
+
+Dr Rajesh Kumar Gupta
+Dr. Gupta is an accomplished healthcare management professional with 22+ years of expertise in
+digital transformation, hospital operations, and innovation in healthcare IT. He has spent significant
+time in leadership roles in operationalizing hospitals, digital health strategy, product strategy, and pre-
+launch operations. He has served as Chief Innovations Officer, Taiba Hospital, Kuwait, VP of Clinical
+Transformation at MyHealthcare, GM of IT & Operations, Medanta, Principal Consultant and Lead
+at VistA EMR implementation at Max Healthcare and the Co-Founder of TrioTree Technologies.
+Dr. Ramachandran Balaji
+Dr. Balaji has over 2 decades of experience in clinical practice, hospital management, clinical
+research and healthcare. He has an MD in Family Medicine as well as postgraduate academic
+qualifications in technology management. Has played multiple CxO roles – including CMIO and
+CIO of HCG Group of Hospitals and Narayana Health Bangalore and GM-IT role for Parkway
+Hospital Singapore in the past. He has been associated with leading the development and
+implementation of innovative and cutting edge clinical information systems and clinical decision
+support systems for a number of hospitals in Singapore. This included working with Health
+Informatics Standards such as HL7, ICD9,ICD9 CM, ICD10, SNOMED, LOINC, DICOM, Good
+European Health Record and others. He has also ideated a number of solutions in Infosys.
+Dr. Das is an Associate Professor in the Department of Computer Science and Engineering at IIT
+Jodhpur. He has been awarded the Early Career Research(ECR) Award and BRICS Young Scientist
+Award from Science & Engineering Research Board (SERB), Department of Science & Technology,
+Govt. of India. His research interests include areas such as Internet of Things (IoT) security, and
+blockchain technology.
+Prof. Mukerji is a Professor in the Department of Bioscience and Bioengineering at IIT Jodhpur. She
+is a recipient of Bhatnagar award. Her research focuses on human genome variations and their impact
+on health and disease. Notably, she pioneered "Ayurgenomics," integrating Ayurvedic principles with
+genomics for personalized medicine. Her work includes developing methods for identifying
+biomarkers to predict disease susceptibility and understanding human phenotypes. She has also
+contributed to the Indian Genome Variation Consortium. Her research intersects with digital health
+through the application of genomics to create frameworks for precision health and medicine.
+Prof. Mitali Mukerji
+Dr. Debasis Das
+Dr. Angshuman Paul
+Dr. Paul is a faculty of department of computer science and engineering at IIT Jodhpur. He is an expert
+of in medical image analysis, machine learning, and computer vision. His research explores advanced
+techniques for image segmentation and classification, with applications in disease diagnosis and
+treatment planning. He has made significant contribution in digital health especially in digital
+diagnostics.
+And many more from Academia and Industries!!
+
+IMPORTANT DATES
+Dr. Manukanchan
+Dr. Indranil Banerjee
+Dr. Angshuman Paul
+Dr. Palash Das
+Dr. Suman Dakha
+Dr. Rajyalakshmi Garaga
+Dr. Jaiveer Singh
+Dr. Dweepoboti Brahma
+Dr. Bikash Santra
+Mr. Ashwani Kumar Gupta
+Dr. Sucharita Dey
+Dr. Pankaj Gupta
+Email: mdp2025iitj@gmail.com
+website: https://iitj.ac.in/cdh/
+Phone no: 02912801214
+Dr. Deepak Kumar Saxena, 
+Dr. Pankaj Gupta, 
+Dr. Indranil Banerjee
+Last date of online registration: 11 May 2025
+th
+Last date of notification of acceptance of registration: 15th May, 2025
+Program start date: 5th June, 2025
+Program end date: 7th June, 2025
+Program Registration
+The registration should be completed through the online link provided below before the registration deadline. Payment
+of registration fees is required for the completion of the registration process. For eligible applicants, confirmation of
+registration will be provided on first-cum-first serve basis. In the case of cancellation of the program, the
+participants/sponsoring organization will get a full refund by next 45 days from the date of notification of cancellation.
+No refund will be made if the registered participants fail to attend the program. Applicants are requested to make travel
+plans only after receiving the confirmation of registration(s).
+Registration Link: 
+https://forms.eduqfix.com/iitcep/add
+EXECUTIVE MEMBERS
+CONTACTS
+ORGANIZING COMMITTEE
+Chief Patron
+Professor Avinash Kumar Agarwal
+Director, Indian Institute of Technology Jodhpur
+PROGRAM VENUE
+IIT Jodhpur Campus
+Rs. 20000.00 for individual (Non-residential) plus GST @ 18% or taxes as applicable as per the Govt. of India
+guidelines. The fees need to be paid in advance. The fee includes the cost of tuition, course material, lunch and high-tea
+for three days. For group registration (5 person or more), the group will get 15% discount in the total registration fees.
+Account details is mentioned below. 
+Participants are requested to arrange their accommodation as per their convenience and preference. Further, a list of
+hotels will also be shared with the participants where they can get the accommodation at discounted rate.
+At the end the program, participants will receive a Certificate of Participation from IIT Jodhpur.
+Programme Fee
+Certificate
+The program is designed as a classroom-based program. It will have a blend of in-person classroom lecture, industry
+insight, case discussion, experience sharing and extensive Q&A sessions.
+Pedagogy
+Dr. Alok Ranjan
+Dr. Deepak Kumar Saxena
+
+IIT Jodhpur, established in 2008, is an institute of national importance committed to advancing higher education
+and research in India and abroad. Situated on a sprawling 852-acre campus, it emphasizes a multidisciplinary
+approach for technological advancement and holistic academic growth of its student and researchers. The
+Institute is known for its focus on cutting-edge research and innovation-driven academic programs. IIT Jodhpur
+offers a wide range of undergraduate, postgraduate, and doctoral programs in engineering, sciences, technology,
+liberal arts and management. Researchers at IIT Jodhpur are actively involved in cutting-edge multidisciplinary
+and trans-disciplinary research and contributing significantly to the various national missions. The Institute has
+already made its mark in various advanced research domains such as artificial intelligence, Sustainable
+engineering, Medical Technology, Nano technology, Energy Research, Materials Engineering etc. The Institute is
+also having the school of management and entrepreneurship which is committed towards bridging the gap
+between technology and management. IIT Jodhpur has recently received the prestigious Grand Jury Award in the
+Government Institute Category at the CII Annual Summit on Technology, Intellectual Property, and Industry-
+Academia Partnership.
+The Centre for Digital Health at IIT Jodhpur is the first centre of its kind in Rajasthan and adjacent states. The
+Centre is focused on capacity building in Digital Health technology and management, research and Innovation for
+affordable, adoptable, sustainable, and disruptive technologies in digital health, and developing open-source
+participatory framework in digital health for open innovation and equitable access to healthcare. A number of
+globally renowned faculties across different disciplines working in the domain of digital health are engaged in the
+academic and research activities of the centre. 
+The centre is committed to contribute to the development of the digital health infrastructure of the State of
+Rajasthan and the nation and make healthcare equitable. The initiatives of the centre are well aligned with ABDM,
+National Digital Health Mission, ‘Make in India’, UN SDG 2030, and WHO Global Initiative for Digital Health.
+IIT JODHPUR
+CENTRE FOR DIGITAL HEALTH, IIT JODHPUR
+LIBRA SOCIAL RESEARCH FOUNDATION
+It also stewards the Libra Opensource Healthcare Community for people working
+in Healthcare Ecosystem across Health, Wellness, Pharma, Lifesciences, Health
+Insurance, Medical Devices, HealthTech, eHealth, mHealth, EHR, Hospital Info
+System (HIS), PRM, HC SMAC, AI, ML, HC IoT. Libra Social Research
+Foundation is a knowledge partner to IIT-Jodhpur in order to build capacity in
+Digital Health, Innovations Ecosystems, Digital Public Goods and Research.
+Social Media Handle: 
+https://www.facebook.com/IITJOfficial/
+https://x.com/iitjodhpur
+https://www.youtube.com/channel/UCFfCylvEDIB1IH4GaRVRyLA
+https://www.linkedin.com/school/iitjodhpur/posts/?feedView=all
+Libra Social Research Foundation , is a Not-for-Profit organization, that works at the convergence of
+Healthcare, Education, and Technology to ensure Health Equity at the Bottom of the Pyramid. Founders and
+members of the organization have globally proven experience in transformative approaches, through multi-
+decade global experiences in primary and secondary research, design thinking, technology architecture, fostering
+innovation, and building capacities across large ecosystems.

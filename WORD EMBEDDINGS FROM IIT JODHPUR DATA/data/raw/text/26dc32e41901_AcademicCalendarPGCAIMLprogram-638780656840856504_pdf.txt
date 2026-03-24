@@ -1,0 +1,60 @@
+SOURCE_PDF: 26dc32e41901_AcademicCalendarPGCAIMLprogram-638780656840856504.pdf
+
+S.No Activity Dates
+. From To
+1 Last date for filling online application form
+2 Cut-off date for an application to be considered for the
+admission process.
+3 Announcement of shortlisted for the admission process after NA
+4 Last Date for Programme fee submission by the candidate NA
+5 Orientation Date 14th October, 2024
+6 Date for course floating in the ERP by Respective 14th – 15th October,2024
+7 Date for Email and Roll number generation 4th Week of October
+8 Date for ERP creation and Profile updation in the ERP by the 4th Week of October
+9 Date for course registration by the student in the ERP portal
+10 Date for course registration to be approved by the program
+11 Commencement of Lecture Classes New PG Certification 15th October, 2024
+12 Last date of Lecture Classes New PG Certification student 23rd December, 2024
+13 Campus Immersion NA
+14 Buffer Classes NA
+15 Course feedback submission 26th December 2024
+16 Major exam (Online) 28th December 2024 (Saturday) 29th December 2024 (Sunday)
+17 Grade submission 30th December 2024
+
+18 Grade moderation 31st December 2024
+19 Approval of Grades 1st January 2025
+20 Release of grades 2nd January 2025
+Course
+Code Trimester-I
+(Foundation
+course) Credits Type L-T-P-D Time - Table Course
+Instructors Zoom Meet Link
+(For Online
+Classes) Zoom
+Passcode
+AIL7460 Applied
+Mathematics
+and Statistics 3 PC 3-0-0[3] Monday 8:30 PM – 10:00 PM (FT)
+Thursday 6:00 PM - 7:30 PM (IIT)
+Friday 6:00 PM - 7:30 PM (IIT) Subhash
+Bhagat
+CSL7610 Artificial
+Intelligence 3 PE 3-0-0
+[3] Saturday 12:30 PM – 2:00 PM (IIT)
+Sunday 10:30 AM – 12:00 PM (FT)
+Sunday 12:30 PM – 2:00 PM (IIT) Pradip
+Sasmal
+AIL7430 Advanced
+Python
+Programming 3 PE 2-0-2-
+[3] Wednesday 7:00 PM – 8:30 PM (FT)
+Thursday 8:30 AM – 10:00 AM (IIT)
+Friday 8:30 AM – 10:00 AM (IIT) Binod Kumar
+CSL7620 Machine
+Learning 3 PE 3-0-0
+[3] Wednesday 7:00 AM – 8:30 AM (FT)
+Saturday 8:30 AM – 10:00 AM (IIT)
+Sunday 8:30 AM – 10:00 AM (IIT) Harshal D
+Akolekar
+Post Graduate Certification in ML & AI - Trimester-I
+Program Schedule (2024 - 2025)

@@ -1,0 +1,92 @@
+indian institute of technology jodhpur pg course booklet july dual degree program in department of bioscience bioengineering
+introduction the biological world is full of natural wonders beginning from microscopic bacteria to multicellular organisms
+objective of the programme to produce professionals with an knowledge of biological systems and phenomena with critical thinking and bioengineering research skills that can be effectively put to use in solving problems in focus domains including healthcare energy environment and agriculture
+the program will help graduates to approach problems in the above focus domains by providing knowledge and laboratory training in the areas of data driven technologies artificial intelligence computational biology systems biology diagnostics biomaterials and
+expected graduate attributes graduates will
+be able to think critically and solve problems that are necessary for employment in biomedical biotechnology pharmaceutical industries national research labs and academic institutions at the global level
+be able to read understand and review intellectual property documents and recognize their
+be able to express their research ideas and present their data clearly in written and spoken
+learning outcomes be introduced to interdisciplinary research areas like diagnostics therapeutics development instrumentation design development technologies applications biomedical imaging image processing systems synthetic biology and biomaterials engineering artificial intelligence for biological applications be exposed to common problems that are prevalent in the domains of affordable healthcare clean energy safe environment and sustainable agriculture allowing them to innovate and develop technological solutions for the same
+receive effective laboratory training as part of laboratory courses and term research projects that are designed to teach research methodology and common lab techniques
+be introduced to patents and other intellectual property documents the rights that they grant and necessary considerations while filing patents technology that is protected by patents
+topic clouds master topic cloud course overview bioimaging omics biosensors systems biology biomaterial engineering bioenergy environment technologies cat course title credits cat course title credits semester ii semester bbl7xx0 introduction to omics technologies bbl7xx0 systems biology bbl7xx1 bioimaging instrumentation and acquisition bbl7xx1 types of biosensors their characterization ee7xx2 microfabrication technologies interfacing and read out electronics bbl7xx0 biomaterials engineering cs7xx2 bioimage computing mal7xx1 statistical techniques mal7xx2 advanced statistical techniques bbp7xx2 statistics and data analysis lab pe program elective pe program elective ng technical communication pe program elective pe program elective ng innovation and ip management total graded total graded iii semester iv semester pe program elective th project pe program elective ng professional ethics
+bioscience and bioengineering proposed course structure pe program elective ng systems engineering and project management total graded total graded course type credits program core program elective pe open elective oe project total graded credit distribution tech
+program in bioscience bioengineering elective sets students must complete minimum of credits from one program elective set
+six credits may be completed from other pe set
+student can opt for any two of the given elective sets
+students may opt for open electives from anywhere in the institute
+program elective set bioimaging health informatics bbl7xx0 fundamentals of neuroscience bbl7xx0 principles of drug development bbl7xx0 introduction to chemical biology csl7xx0 digital image analysis csl7xx0 machine csleel7xx0 image sensor design and applications ph7xx0 introduction to medical physics fractal program elective set bbl7xx1 omics databases mal7xx0 introduction to data science csl7xx2 data management bbl7xx0 proteomics data analysis bbl7xx0 microbial genomes microbiomes bbl7xx0 rna sequencing data analysis bbl7xx0 microarray data analysis bbl7xx0 metabolomics bbl7xx0 algorithms in biology program elective set biological systems biosensors bbl7xx0 disease processes diagnostics therapeutics bbl7xx0 quantitative physiology systems and controls of the human machine bbp7xx0 quantitative physiology lab bbl7xx0 cell and molecular biology bbl7xx0 systems bbl7xx3 visual perception bbl7xx2 auditory perception from cell to signal bbl7xx1 synaptic communication function and dysfunction bbl7xx0 immunodiagnostics and therapeutics bbl7xx0 cardiovascular physiology signals systems and controls bbl7xx1 microbes as sensors mel7xxo microfluidics technologies csl7xx0 measurement in remote healthcare csl7xx0 analog interfacing circuits cyl6xx0 biophysical techniques theory and applications mel7xx0 fluid flow in biological processes program elective set systems biology bbl7xx0 synthetic biology bbl7xx0 systems biology in personalized genomics bbl7xx0 rna sequencing data analysis bbl7xx0 flux balance analysis bbl7xx0 immunotechnology cyl6xx1 thermodynamics cyl6xx3 chemical kinetics mal6xx0 ordinary differential equations mal7xx0 numerical methods for pde program elective set biomaterials engineering bbl7xx0 biophysics bbl7xx0 biomechanics bbl7xx0 tissue engineering medical devices and implants bbl7xx0 selected topics in biomaterials engineering mt7lxx0 principles of engineering material selection mtl7xx0 computational material engineering program elective set bioenergy environmental technologies bbl7xx0 environmental microbiology bbl7xx0 environmental biotechnology and bioremediation bb7xx0 bioenergy systems bb7xx0 systems mel7xx0 water energy nexus mel7xx0 soil and water conservation engineering mt7xx0 industrial waste control utilization list of laboratory courses
+core labs bioimaging lab systems biology lab statistics and data analysis lab
+elective labs quantitative physiology lab artificial intelligence in bioengineering lab immunodiagnostics and therapeutics compulsory courses fractals title bioimaging number bbl7xx1 csl7xx2 department biosciences bioengineering and computer science engineering offered for tech phd program type compulsory title introduction to omics technologies number bbl7xx0 department bioscience bioengineering offered for
+type elective prerequisite nil
+handbook of proteomic methods springer material
+ganesh functional genomics nptel course material indian institute of technology
+sanjeeva srivastava proteomics principles and techniques nptel course material department of biosciences bioengineering indian institute of technology bombay title biomaterials engineering number bbl7xx0 department bioscience bioengineering offered for type compulsory prerequisite none title statistical techniques advanced statistical techniques number mal7xx0 mal7xx0 department mathematics title statistics and data analysis lab number bbp7xx0 department bioscience and bioengineering title systems biology number bbl7xx0 department bioscience and bioengineering offered for
+year type compulsory of biological engineering mit biology preparatory course material
+department biotechnology madras title biosensors number bbl7xx1 eel7xx2 department bioscience and electrical engineering offered for type elective program elective set bioimaging health informatics title fundamentals of neuroscience number bbl7xx0 department bioscience bioengineering title digital image analysis number csl7xx0 department computer science and engineering offered for type elective
+self learning material nptel digital image processing title machine number csl7xx0 offered for
+year year type compulsory dimensionality reduction principal component analysis random projections compressed sensing lectures generative models maximum likelihood estimator naive bayes linear discriminant analysis latent variables and algorithm bayesian learning lectures feature selection and generation feature selection feature transformations feature learning lectures csl7xx3 machine learning computational learning theory and deep neural networks statistical learning framework pac learning agnostic pac learning tradeoff no free lunch theorem vc dimension structural risk minimization adaboost lectures foundations of deep learning dnn cnn rnn autoencoders lectures
+department of computer science stanford university title image sensor design and applications number eel7xx0 department electrical engineering offered for
+type elective prerequisite analog electronics
+yadid pecht and cummings cmos imagers from photo transduction to image processing springer
+image sensors blog
+el gamal abbas and helmy eltoukhy cmos image ieee circuits and devices magazine vol
+fossum eric cmos image sensors electronic ieee transactions on electron devices vol
+title introduction to medical physics number phl7xx0 department physics
+jasanoff mit open courseware noninvasive imaging in biology and medicine
+department of physics iit delhi title principles of drug discovery number bbl7xx1 csl7xx1 department bioscience bioengineering and computer science and engineering title introductory chemical biology number bbl7xx0 program elective set title omics databases number bbl department bioscience bioengineering title introduction of data science number mal7xx0 department mathematics title data management fractal of software and data engineering number csl7xx2 department cse title microarray data analysis number bbl7xx0 department bioscience bioengineering online course material
+srivastava microarray data analysis department of bioscience and bombay title rna sequencing data analysis number bbl7xx0 department bioscience bioengineering title algorithms in biology number bbl7xx0 title proteomics data analysis number bbl7xx0 department bioscience bioengineering title microbial genomes microbiomes number bbl7xx0 title metabolomics number bbl7xx0 department bioscience bioengineering program elective set biological systems biosensors title experimental design for biologists number bbn7xx0 department bioscience and bioengineering designing the experimental project biological example lectures textbook experimental design for biologists novartis institutes for biomedical research cambridge massachusetts at the bench laboratory navigator updated edition the institute for systems biology seattle reference books
+adams lab math handbook of measurements calculations and other quantitative skills for use at the bench edition the tufts center for regenerative and developmental biology and department of biology tufts university
+biology course title disease processes diagnostics therapeutics number bbl7xx0
+janeway immunobiology editiongarland publishing
+thomas and barbara osborne
+kuby immunology edition freeman material
+manjunath nandi karande essentials in immunology indian institute of science bangalore nptel course material
+kumar cellular and molecular immunology indian institute of technology guwahati course material
+title cardiovascular physiology signals systems and controls number bblxx0 department bioscience and bioengineering title human physiology laboratory number bbxxx
+moore jw stuart neurons in action tutorials and simulations in title cellular and molecular neuroscience number bbxxx offered for type elective
+kandel principles of neural science edition elsevier
+zigmond fundamental neuroscience edition elsevier
+lodish kaiser molecular cell biology edition wh freeman
+cell and molecular neurobiology spring mit opencourseware massachusetts institute of technology license creative commons title sensory neural systems number bbxxx department bioscience and bioengineering title quantitative physiology systems and controls of number bbxxx title immunodiagnostics and therapeutics number
+joseph quantitative human physiology edition academic press
+marieb human anatomy and physiology edition pearson education
+boron boulpaep medical physiology edition elsevier
+dennis freeman quantitative physiology cells and tissues fall mit mark quantitative physiology organ transport systems mit department bioscience bioengineering offered for
+mt program type elective
+murphy travers walport janeway
+new york garland science
+madigan martinko brock biology of microorganisms nptel video lectures on essentials in immunology by manjunath dipankar nandi anjali karande indian institute of science bangalore
+nptel video lectures on cellular and molecular immunology by sachin kumar indian institute of technology guwahati title sensory neural systems number bbl7xx title synaptic communication function and dysfunction number bbl6xx3 department bioscience and bioengineering title cell and molecular biology number bbl7xx0 department bioscience bioengineering offered for
+year type elective title immunodiagnostics and therapeutics number bbl7xx0 new york garland science
+madigan martinko brock biology of microorganisms
+nptel video lectures on essentials in immunology by manjunath dipankar nandi anjali karande indian institute of science bangalore
+nptel video lectures on cellular and molecular immunology by sachin kumar indian institute of technology guwahati title synaptic communication function and dysfunction number bbl6xx3 title microbes as sensors number bbl7xx0 department bioscience and bioengineering offered for type compulsory title measurements in remote healthcare number csl7xx0 department computer science enginering course title analog and interfacing circuits number eel7xx0 offered for tech
+year type compulsory digital and analog electronics
+david johns ken martin analog integrated circuit design edition john wiley and sons
+self learning material
+shanthi pavan vlsi data conversion circuits nptel course material department of electrical engineering
+nagendra krishnapura analog integrated circuit design department of electrical
+allen holberg cmos analog circuit design edition oxford university press
+gregorian temes analog mos integrated circuits for signal processing john wiley and sons
+program elective set systems biology title immunotechnology number bbl7xx0 title thermodynamics and chemical kinetics number cyl6xx1 department chemistry title synthetic biology number bb7xx0 department bioscience and bioengineering title ordinary differential equations number mal6xx0 department mathematics
+birkhoff and rota ordinary differential equations wiley publications
+simmons differential equations with applications and historical notes mcgraw hill education
+agrawal and pandey iit roorkee ordinary and partial differential equations and applications
+raghavendra iit kanpur ordinary differential equations title numerical methods for pde number mal7xx0 title flux balance analysis number bbl7xx0 title systems biology in personalized genomics number bbl7xx0 research literature self learning materials
+mount sinai center for bioinformatics title artificial intelligence in bioengineering lab number bbp7xx0 department bioscience bioengineering offered for type open elective prerequisite machine program elective set biomaterials engineering title biophysics number bbl7xx0 department bioscience bioengineering offered for students type elective title materials characterization number mtl6xx0 department material science engineering title tissue engineering medical device implants number bbl7xx0
+lanza langer vacanti principles of tissue engineering edition ebook tissue engineering sastra university preparatory course material
+design of biomedical devices and systems utsaah university title thermodynamics kinetics of materials material properties number mtl6xx1 title computational modelling in materials design number msl7xx0 department materials science engineering title biomechanics number bbl7xx0 title biomaterials and bioengineering number bbl7xx0 program elective set bioenergy environmental technologies title bioenergy systems course bbl7xx0 department bioscience and bioengineering economics of technologies lectures textbooks
+pelczar chan krieg microbiology tata mcgraw hill education online course material
+michelle fueling sustainability engineering microbial systems for biofuel production spring mit opencourseware massachusetts institute of technology license creative commons title environmental biotechnology and bioremediation number bbl7xx0
+rittmann mccarty environmental biotechnology principles and applications tata mcgraw hill
+shuler kargi bioprocess engineering basic concepts edition prentice
+freeman and online course material
+gargi singh applied environmental microbiology nptel course material department of civil engineering indian institute of technology roorkee title systems number bbl7xx0 department bioscience and bioengineering offered for tech
+shuler kargi bioprocess engineering basic concepts edition prentice title environmental microbiology number bbl7xx0 department bioscience and bioengineering
+lehninger nelson cox principles of biochemistry
+massachusetts institute of technology mit opencourseware title water energy nexus number mel7xx0 department mechanical engineering offered for tech and phd type program elective text books
+sommariva desalination desalination and advanced water treatment economics and financing first balaban desalination publications hopkinton ma usa
+plappally and lienhard energy requirements for water production treatment end use reclamation and discharge renewable and sustainable energy reviews rser
+sustainable development the water energy food nexus aachen university nexus
+nexus course of studies at irvine

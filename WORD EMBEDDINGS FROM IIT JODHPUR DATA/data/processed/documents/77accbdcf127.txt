@@ -1,0 +1,16 @@
+agarwala pal hazra sasmal differential deposition on dna holliday junctions dictates the rate and stability of conformational exchange just accepted in nanoscale agarwala pal hazra sasmal differential deposition on dna holliday junctions dictates the rate and stability of conformational exchange just accepted in nanoscale dna holliday junctions hjs are crucial intermediates in genetic recombination and genome repair processes characterized by dynamic nature and transitioning among multiple conformations on the timescale ranging from to seconds
+although the influence of ions on hj dynamics has been extensively studied precise quantification of the thermodynamic feasibility of transitions and detailed kinetic cooperativity remain unexplored
+understanding the heterogeneity of stochastic gene recombination using experimental techniques is extremely difficult because of its lack of ability to differentiate dynamics and function in high spatiotemporal resolution
+herein we developed new technique that combines fluorescence resonance energy transfer smfret experiments and molecular simulation to investigate the kinetic choreography and preferential stability of hj conformations under ionic conditions that closely mimic the physiological environment relevant to cellular biology
+our findings predict the prevalence of three distinct conformational macrostates in hj dynamics
+at low ion concentrations hjs transition rapidly among three thermodynamically stable conformational macrostates
+however in physiological ionic environment the open conformation becomes predominant
+using kinetic network model based on the time correlation function tcf we delineated thermodynamic parameters that govern heterogeneous dynamics as function of divalent ion concentration
+stabilization of conformations due to an ionic environment and activation barriers concertedly affect transition rates between open and closed conformations
+furthermore we observed significant enhancement of condensation in the central region of hjs rather than branch ends leading to plausible conclusion that the differential stability of conformational states may be governed by the junction region of hjs rather than duplex branches
+this study gives new insight into the complex interplay between the ionic environment and hj dynamics offering comprehensive understanding of their behavior under conditions relevant to cellular biology and roles in key biological processes for creating heterogeneous nature of life
+dna holliday junctions hjs are crucial intermediates in genetic recombination and genome repair processes characterized by dynamic nature and transitioning among multiple conformations on the timescale ranging from to seconds
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated mar pm

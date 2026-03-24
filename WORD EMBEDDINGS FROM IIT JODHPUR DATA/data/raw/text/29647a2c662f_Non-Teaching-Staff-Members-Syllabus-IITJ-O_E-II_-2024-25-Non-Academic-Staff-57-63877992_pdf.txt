@@ -1,0 +1,273 @@
+SOURCE_PDF: 29647a2c662f_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877992.pdf
+
+Engineering Mechanics Force (resolution of force, moment of force, force system composition of
+forces), Equilibrium, Friction, Centroid and Center of gravity, Simple
+machines.
+Building Construction Building components (substructure, superstructure) type of structure (load
+bearing, framed and composite structures).
+Building material Masonry materials (stones, bricks and mortars), Timber and miscellaneous
+materials (glass, plastic, fibre, aluminium steel, galvanized iron, bitumen,
+PVC, CPVC and PPF).
+Construction of
+substructure Job layout, earthwork, foundation (types, dewatering coffer dams, bearing
+capacity).
+Construction of
+superstructure Stone masonry brick masonry, Hollow concrete block masonry, composite
+masonry, cavity wall, doors and windows, vertical communication (stairs,
+lifts escalators), scaffolding and shoring.
+Building finishes Floors (finishes, process of laying), walls (plastering, pointing, painting) and
+roofing materials including RCC).
+Building Maintenance Cracks (causes, type, repairs- grouting, epoxy etc.), settlement (causes and
+remedial measures), and re-baring techniques.
+Building drawing Conventions (type of lines, symbols), planning of building (principles of
+planning for residential and public buildings, rules and byelaws), drawing
+(plan, elevation, section, site plan, location plan, foundation plan, working
+drawing) perspective drawing.
+Concrete Technology Properties of various types/ grades of cement, properties of coarse and fine
+aggregates, properties of concrete (water cement ratio properties of fresh and
+hardened concrete), Concrete, quality control of concrete (batching,
+formwork, transportation, placing, compaction, curing waterproofing),
+extreme weather concreting and chemical admixtures, properties of special
+concrete (ready mix, RCC, pre-stressed, fibre reinforced precast high
+performance).
+Surveying Types of survey, chain and cross staff survey (principle, ranging
+triangulation, chaining, errors, finding area), compass survey (principle,
+bearing of line, prismatic compass, traversing, local attraction, calculation of
+bearings, angles and local attraction) levelling (dumpy level, recording in
+level book. Temporary adjustment, methods of reduction of levels,
+classification of levelling, tilting level, auto level, sources of errors,
+precautions and difficulties in levelling), contouring (contour interval,
+characteristics, methods of locating, interpolation, establishing grade
+contours, uses of contour maps), area and volume measurements, [lane table
+survey (principles, setting, method) theodolite survey (components,
+adjustments, measurements, traversing), Tachometric survey curves (types,
+setting out), advanced survey equipment, aerial survey and remote sensing.
+Computer Aided Design CAD Software (AutoCAD, Auto Civil, 3D Max etc.), CAD commands,
+generation of plan, elevation, section, site plan, area statement, 3D view.
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR ENGINEER (Civil)
+
+Geo Technical
+Engineering Application of Geo Technical Engineering in design of foundation,
+pavement, earth retaining structures, earthen dams etc., physical properties
+of soil, permeability of soil and seepage analysis, shear strength of soil,
+bearing capacity of soil, compaction and stabilization of soil, site
+investigation and sub soil exploration.
+Hydraulics Properties of fluid, hydrostatic pressure, measurements of liquid pressure in
+pipes, fundamentals of fluid flow, flow of liquid through pipes, flow through
+open channel, flow measuring devices, hydraulic machines.
+Irrigation Engineering Hydrology, investigation and reservoir planning, percolation tanks, diver
+head works.
+Mechanics of Structure Stress and strain, shear force and bending moment, moment of intertia
+stresses in beams analysis of trusses, strain energy.
+Theory of structure Direct and bending stresses, slope and deflection, fixed beam, continuous
+beam, moment distribution method, columns.
+Design of Concrete
+Structure Working Stress method, Limit State method, analysis and design of singly
+reinforced and doubly reinforced sections shear, bond and development
+length, analysis and design of T Beam, slab axially laded column and
+footings.
+Design of Steel Structure Types of sections, grades of steel, strength characteristics, IS Code,
+Connections, Design of tension and compression members, steel roof truss,
+beams, column bases.
+Transportation
+Engineering Railway Engineering (alignment and gauges, permanent way, railway track
+geometrics, branching of tracks, stations and yards, track maintenance),
+Bridge engineering (site selection, investigation, component parts of bridge,
+permanent and temporary bridges, inspection and maintenance), Tunnel
+engineering (classification, shape and sizes, tunnel investigation and
+surveying, method of tunnelling in various strata, precautions, equipment,
+explosives lining and ventilation).
+Highway Engineering Road Engineering, investigation for road project geometric design of
+highways, construction of road pavements and materials traffic engineering,
+hill roads drainage of roads, maintenance and repair of roads.
+Environmental
+Engineering Environmental pollution and control, public water supply, domestic sewage,
+solid waste management, environmental sanitation and plumbing.
+Advanced Construction
+Techniques and
+Equipment Fibers and plastics, artificial timber, advanced concreting methods (under
+water concreting, ready mix concrete, tremix concreting, special concretes),
+formwork, pre-fabricated construction, soil reinforcing techniques, hosting
+and conveying equipment, earth moving machinery (exaction and
+compaction equipment), concrete mixers, stone crushers, pile driving
+equipment, working of hot mix bitumen plant bitumen paver, floor polishing
+machines.
+Estimating and Costing Types of estimates (approximate, detailed), mode of measurements and rate
+analysis.
+Contracts and Accounts Types of Engineering Contracts Tender and tender documents, payment,
+specification.
+(B) SKILL TEST
+1. Work procedure as per CPWD guidelines. 
+2. Knowledge of computer applications (like MS-Word, Excel, Power Point and E-Mail, etc.
+
+Basic concepts Concepts of resistance, inductance, capacitance, and various factors
+affecting them. Concepts of current, voltage, power, energy and their
+units.
+Circuit law Kirchhoff’s law, Simple Circuit solution using network theorems.
+Magnetic Circuit concepts of flux, mmf, reluctance, Different kinds of magnetics materials
+Magnetic calculations for conductors of different configuration e.g.
+straight, circular, solenoidal, etc. Electromagnetic induction, self and
+mutual induction.
+AC Fundamentals Instantaneous, peak, R.M.S. and average values of alternating signal,
+Representation of sinusoidal wave form, simple series and parallel AC
+Circuits consisting of R.L. and C, Resonance, Tank Circuit. Poly phase
+system-star and delta connection, 3 phase power, DC and sinusoidal
+signal response of R-Land R-C circuit.
+Measurement and measuring
+instruments Measurement of power (1 phase and 3 phase, both active and re-active)
+and energy, 2 wattmeter method of 3 phase power measurement,
+Measurement of frequency and phase angle, ammeter and voltmeter
+(both moving oil and moving iron type), extension of range wattmeter,
+Megger, Energy meter AC Bridges. Use of CRO, Signal Generator, CT, PT
+and their uses. Earth Fault detection.
+Electrical Machines (a) D.C. Machine – Construction, Basic Principles of D.C. motors and
+generators, their characteristics, speed control and starting of D.C.
+Motors. Method of braking, motor Losses and efficiency of D.C.
+Machines.
+(b) 1 phase and 3 phase transformers- Constructions, Principles of
+operation, equivalent circuit, voltage regulation, O.C. and S.C.
+Tests, Losses and efficiency. Effect of Voltage frequency and wave
+form on losses, Parallel operation of 1 phase Induction Motors
+Characteristics and applications.
+(c) 3 Phase induction motors, rotating magnetic field, principle of
+operation, equivalent circuit, torque-speed characteristics,
+starting and speed control of 3 phase induction motors. Methods
+of braking, effect of voltage and frequency variation on torque
+speed characteristics, Fractional Kilowatt Motors and Single
+Phase Induction Motors Characteristics and applications.
+(d) Synchronous Machines: Generation of 3 phase e.m.f. armature
+reaction, voltage regulation, parallel operation of two alternators,
+synchronizing, control of active and reactive power, Starting and
+applications of synchronous motors.
+Generation, Transmissions
+and Distribution Different types of power stations, Load factor, diversity factor, demand
+factor, cost of generation, inter-connection of power stations. Power
+factor improvement, various types of tariffs, types of faults, short circuit
+current for symmetrical faults. Switchgears and Protection Rating of
+circuit breakers Principles of arc extinction by oil and air, H.R.C Fuses,
+Protection against earth leakage, over current, etc. Buchholz relay, Merz-
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR ENGINEER (Electrical)
+
+Estimation and Costing Estimation of lighting scheme, electrical installation of machines and
+relevant rules, Earthling practices and IE Rules.
+Utilization of Electrical
+Engineering: Illumination, Electric heating, Electric welding, Electroplating, Electric
+drivers and motors.
+Basic Electronics Working of various electronic devices e.g. P N Junction diodes
+Transistors (PNP and PNP type), BJT and JFET Simple circuits using these
+devices.
+Air Conditioning General principles of Refrigeration and Air-conditioning, Terminology,
+Factors affecting A.C. Load, Psychrometric chart, comfort air
+conditioning, General principles of window / split air conditioners.
+Earthing Design, Layout, and installation procedures for Building / Substation
+earth, Lightning protection and Surge protection devices.
+Routine Work; Preparation of estimate for electrical work, Estimation and costing of the
+electrical related work, Preparation of Notice inviting tender, Notice
+inviting Quotation and Market rate analysis.
+(B) SKILL TEST
+1. Work procedure as per CPWD guidelines. 
+2. Knowledge of computer applications (like MS-Word, Excel, Power Point and E-Mail, etc. 
+3. Knowledge of measuring instrument ( like Meggar, multimeter, watt hour meter, lux meter, db meter,
+temperature and pressure gauge etc.);
+4. Switchgear and busbar system used at the 33/11 kV substation; 
+5. Earthing system used at SS and Buildings; 
+6. Lightning arrester used at Substation and high rise buildings; 
+7. DG operation and maintenance; 
+8. Overhead line of 33 kV; 
+9. Underground cabling of 33/11 kV (Laying procedure of cable, testing of cable etc.) 
+10. Knowledge about Transformer and sub-station yard maintenance.
+
+Mechanical Engineering
+Science Energy and steam, forms Sources and Classification of energy, Steam
+boilers- classification, Classification, Principle of operation of Impulse
+and reaction, gas & water turbine, Classification, I.C. Engines parts,
+Refrigeration and Air conditioning, Lathe and Drilling Machines, Milling
+and Grinding Machines, Joining Processes, Lubrication and Bearings
+Soldering, Brazing and Welding, Power Transmission Belt Drives &
+Fasteners.
+Engineering Mechanics Introduction to engineering mechanics, Composition of forces, Free body
+diagram, equations of equilibrium, Conditions of static equilibrium for
+different force systems, Lami’s theorem, Friction, Statically determinate
+beams, Centroids and moment of inertia.
+Strength of Material Stress and strain, Shear stress, Bending moment and Shear force
+diagrams, Elastic constants, principal stresses, Maximum stresses in
+beams, Deflection of beams, and Torsion of shaft
+Engineering Drawing Introduction, Drawing Instruments and their uses, BIS conventions,
+Lettering, Dimensioning and free hand practicing, Orthographic
+Projections, Orthographic Projections of plane surfaces, Projections of
+Solids, Sections and development of lateral Surfaces of Solids, Isometric
+projection (Using Isometric Scale only). Computer Assisted
+Drafting/Modeling.
+Material Science &
+Metallurgy: Structure of crystalline solids, Diffusion, Diffusion Mechanism, Fick’s
+laws of diffusion. Gibbs phase rule, Binary phase diagrams, Iron-carbon
+Diagram. Mechanical Properties of Materials, Tension test, Hardness
+tests and impact tests, Elastic and Plastic behaviour, yield point
+phenomenon, True stress-true strain relationships, Types of fracture,
+stages in cup & cone fracture, Fatigue: fatigue tests, S-N Curves.
+Composite Materials: Types of composite materials. Properties of fibers
+and matrix materials. General methods of production, properties and
+applications of FRP,PRC, MMC and structural composites. Expressions
+for density, Young’s modulus and strength of continuous fiber reinforced
+composites in iso- strain and iso – stress conditions. Applications of
+composite materials in aerospace, automobile and other fields.
+THERMAL & FLUIDES
+ENGINEERING Thermodynamics: System, Surroundings, Boundary, Property, State,
+Process, Cyclic process, Path function, point function, Zeroth law, first
+and second of thermodynamics. Carnot Cycle, Irreversibility and
+availability. Concept of Heat engines, efficiency of heat engine- concept
+of heat pump and Refrigerator coefficient of performance.
+Fluid Mechanics: Fluid-definition, concepts of continuum, shear stress as
+applied to fluids, fluid properties viscosity, Newton’s law, surface
+tension, bulk modulus, compressibility, vapour pressure, capillarity,
+gauge and absolute pressures of a fluid. Principle of manometers, simple
+and differential manometers, Bourdon’s pressure gauge, Pascal’s law,
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR ENGINEER (Mechanical)
+
+Mechanical Measurements Measurements and measurement systems: Definition, significance of
+measurement, generalized measurement system, definitions and concept
+of accuracy, precision, calibration, sensitivity, repeatability, linearity,
+standards of measurement, limits, fits, tolerance and gauging, principle
+of interchageability, Indian standards, comparators and angular
+measurement, mechanical and optical comparators, LVDT, Pneumatic
+comparators; Transducers, primary and secondary transducers,
+electrical, mechanical, electronic transducers; intermediate modifying
+and terminating devices: mechanical, cathode ray oscilloscope,
+oscillographs, X-Y plotters. Measurement of force, torque, pressure,
+temperature and strain.
+Heating , Air conditioning a&
+refrigeration System Air conditioning: Introduction to Air conditioning; Factors affecting Air
+conditioning; Psychometric chart and its use; Psychometric process-
+sensible heating and cooling, Humidifying and dehumidifying;
+Adiabatic saturation process; Equipments used in air conditioning cycle;
+Air conditioning units and plants. Refrigeration and Air-conditioning
+tools: Tools used in refrigeration and Air conditioner installation;
+Installation procedure; Faults in refrigeration and air conditioning
+system; Servicing procedure
+Pumps Principle of working and applications, Types of casings and impellers,
+Concept of multistage, Priming and its methods, Cavitation, Manometric
+head, Work done, Manometric efficiency, Overall efficiency. Numericals
+on calculations of overall efficiency and power required to drive pumps.
+Steam Turbines Impulse and Reaction Turbines; Condensers: Jet & Surface Condensers,
+Cooling Towers; Internal Combustion Engines and Refrigeration: Otto,
+Diesel and Dual cycles; P-V and T-S Diagrams; IC Engines: 2 - Stroke and
+4 - Stroke I.C. Engines, S.I. and C.I. Engines.
+Air Compressors Functions of air compressor; Uses of compressed air; Types of air
+compressors; Single stage reciprocating air compressor - its construction
+and working (with line diagram) using P-V diagram; Multi stage
+compressors – Advantages over single stage compressors; Rotary
+compressors: Centrifugal compressor, axial flow type compressor and
+vane type compressors.
+General Preparation of budget estimate for Mechanical work, Estimation and
+costing of the electrical related work, Preparation of Notice
+Inviting tender, Notice inviting Quotation and Analysis of market rates.
+Having piping knowledge, leak detection and attention system.
+Planning and Scheduling of work.
+Root cause and failure analysis. Corrosion and inspection of piping and
+other equipments.
+(B) SKILL TEST
+1. Work procedure as per CPWD guidelines. 
+2. Knowledge of computer applications (like MS-Word, Excel, Power Point and E-Mail, etc.)

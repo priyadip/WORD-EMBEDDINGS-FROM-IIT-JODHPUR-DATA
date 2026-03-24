@@ -1,0 +1,44 @@
+SOURCE_PDF: 8c10cd601b94_MTech-CSE-curriculum.pdf
+
+Cat. Course Title L-­‐T-P­‐ C redits Cat. Course Title L-T­‐ -­‐P Credits
+I Semester II Semester
+C CSxxx F ractal Maths:
+Linear Algebra,
+Probability,
+Statistics and
+Random Processes,
+Optimization 3-­‐0-­‐
+0 3 C CSxxx C omputer A rchitecture 3-0­‐ -0­‐ 3
+C CSxxx A lgorithms for big
+data 3-­‐0-­‐
+0 3 C CSxxx S oftware and data
+architecture 3-0­‐ -0­‐ 3
+C CSxxx M achine L earning I 3-­‐0-­‐
+0 3 C CSxxx C omputer N etworks 3-0­‐ -0­‐ 3
+PE Program Elective-1­‐ 3-­‐0-­‐
+0 3 PE Program Elective-3­‐ 3-0­‐ -0­‐ 3
+PE Program Elective-2­‐ 3-­‐0-­‐
+0 3 OE Open Elective-­‐1 3-0­‐ -0­‐ 3
+C CSxxx D ata structures and
+practices 1-­‐0-2­‐ 2
+Total 17 Total 15
+III Semester IV Semester
+P CSxxx M ajor P roject – P art 1 5 P CSxxx M ajor P roject – P art 2 11
+PE Program Elective-4­‐ 3 PE Program Elective-6­‐ 3
+PE Program Elective-5­‐ 3
+OE Open E lective-­‐2 3 3
+Total 14 Total 14
+Tentative	  Course	  Structure	  for	  the	  M.Tech.	  (CSE)	  Program
+Electives:	  	  
+-­‐	  (Real-­‐time	  and)	  Embedded	  systems	  
+-­‐	  Vehicular	  ad-­‐hoc	  networks	  
+-­‐	  Security	  	  
+-­‐	  Gaming	  
+-­‐	  (Advanced)	  Grahics	  
+-­‐	  Visualization	  
+-­‐	  AR/VR	  
+-­‐	  Edge	  and	  fog	  computing	  	  
+-­‐	  Algorithms	  for	  big	  data	  
+-­‐	  Digital	  humanities	  
+-­‐	  Graph	  theory	  and	  applications	  
+-­‐	  Quantum	  computing

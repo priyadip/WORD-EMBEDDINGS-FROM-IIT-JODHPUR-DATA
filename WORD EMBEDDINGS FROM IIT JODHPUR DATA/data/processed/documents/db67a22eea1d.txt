@@ -1,0 +1,18 @@
+research seminar by surya narayan maharana on july at am title of the talk numerical simulations of convection dominated flow problems date time venue july am seminar hall dept
+of mathematics abstract fluid flow problems frequently occur in nature and engineering particularly in systems where solute concentration significantly alters the fluid viscosity and density
+these flows arise in diverse contexts from porous media governed by or brinkman to complex channel flows modelled by the
+in such regimes convective transport can dominate diffusion producing steep gradients and numerical challenges
+despite their widespread occurrence the governing equations for these flows remain poorly understood in terms of
+moreover the underlying flow instability phenomena often critical in determining flow behaviour require more rigorous investigation through improved linear stability analysis
+current numerical methods struggle to capture the full dynamics of these systems especially under strong convection highlighting the need for more robust and physically consistent simulation frameworks
+this talk presents range of representative flow problems to illustrate the mathematical and computational challenges of modelling convection dominated systems
+it emphasizes open questions in theory and simulation and points to promising directions for future research
+about the speaker surya narayan maharana is currently postdoctoral research fellow at the libre de bruxelles belgium where he has been working since february
+he obtained his in mathematics from
+his doctoral research focused on the linear and nonlinear analysis of shear instabilities in flow
+his research interests lie in numerical methods for partial differential equations theoretical pde and scientific computing
+title of the talk numerical simulations of convection dominated flow problems date time venue july am seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

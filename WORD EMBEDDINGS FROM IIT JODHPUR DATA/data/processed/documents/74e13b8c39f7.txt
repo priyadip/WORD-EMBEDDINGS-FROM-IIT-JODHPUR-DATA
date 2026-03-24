@@ -1,0 +1,5 @@
+intelligent communication and networking the development of communications has vastly relied on theories and models from information theory to channel modelling
+these traditional approaches are showing serious limitations especially in view of the increased complexity of communication networks
+the advent of is introducing new challenges for mobile communications service providers and integrating artificial learning techniques into networks is one way the industry is addressing these complexities
+advances in artificial intelligence particularly taking advantage of rapidly increasing network and user behavior data indicates new technological frontier of communications and networking not only in new methodology in systems and network design but also in new network architecture accommodating machine learning for broader and efficient services
+the main objective of specialization in intelligent communication and networking is to introduce students to new trends approaches methods systems as well as communication network architectures and application of artificial intelligence and machine learning to address communication network management issues

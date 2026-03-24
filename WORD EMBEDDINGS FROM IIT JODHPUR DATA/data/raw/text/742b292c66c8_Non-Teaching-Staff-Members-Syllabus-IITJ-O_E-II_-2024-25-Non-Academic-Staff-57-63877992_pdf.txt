@@ -1,0 +1,123 @@
+SOURCE_PDF: 742b292c66c8_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877992.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL ASSISTANT
+(School of Artificial Intelligence & Data Science)
+(A) WRITTEN TEST 
+ 
+1.1 For Engineering Background Candidates:
+Properties of Real number system, Sequences and series of real numbers, review of limit, Continuity 
+and differentiability of functions, Rolle's theorem, Mean value theorems and Taylor's theorem, 
+Maxima, minima and curve tracing, Complex Numbers, Complex Vector Spaces. 
+ 
+Matrices, Vector spaces (over the field of real and complex numbers), subspaces, linear dependence/ 
+independence, basis, dimensions, coordinate with respect to a basis, complementary subspaces, 
+Linear transformations, Range space and rank, Null space and nullity, matrix representation of linear 
+transformation, change of basis and similarity, rank-nullity theorem. 
+ 
+First Order Ordinary Differential Equations: Geometrical interpretation of solution, Solution methods 
+for separable equations, Exact equations, Linear equations. 
+ 
+Memory, Processor, Instruction set Architecture, I/O, Data structure, algorithm, searching and 
+sorting, hashing, data visualization and plotting functions, capacitors, transistors, resistors and their 
+circuits, Circuit diagrams, linear rectifiers, Digital Principle and Digital Logic. 
+ 
+Energy Transfer; Thermodynamics Properties, Open, and Closed System; Second law of 
+Thermodynamics; Entropy, Basics of fluid dynamics, Newtonian Mechanics. 
+ 
+Devices and Circuits: Circuit Theorems; Semiconductor Devices and their biasing Circuits: Rectifiers, 
+filters, amplifiers, Operational amplifier and its circuits. 
+ 
+DC/AC Circuit Analysis: Single and Three Phase circuits, Power electronic devices and circuits: SCR 
+controlled rectifier; DC/AC Electrical Machines: DC Motor and Generator, Single and Three phase 
+transformers, Induction and Synchronous motors. Digital Electronics: Number systems, 
+Combinatorial and Sequential circuits: Arithmetic circuits, Counters, shift-registers, and finite state 
+machines. 
+ 
+Data converters: sample and hold circuits, ADCs and DACs; Semiconductor memories: ROM, SRAM, 
+DRAM. Embedded Systems: architecture, programming, memory and I/O interfacing. 
+ 
+Signal Processing: Continuous and Discrete time signals, and their Fourier representations, sampling 
+theorem; LTI systems and their properties, digital filter design techniques. 
+ 
+Communications: Analog and Digital communications concepts, Modulation/Demodulation 
+concepts, Transmitter and Receiver. Control Systems: Feedback systems and their analysis. 
+ 
+Basic statistics: Sampling and its Techniques; Sample Mean, Median, Mode Variance; Random 
+Samples and Random Numbers, Sample SD, SEM; Idea of Significance, Correlation of Measurements, 
+and Significance Tests.
+
+1.2 For Biology and Physics background candidates
+Black body radiation, basic quantum physics, atomic and molecular physics. Rutherford model, alpha 
+particle scattering, Bohr atom model, Bohr's interpretation of H atom, Hydrogen spectral series, 
+Radioactivity, Basic concepts on particle accelerators. 
+ 
+Reflection, Refraction, focal plane, Image formation and magnification, F- number, Depth of the focus 
+and depth of the field, aberrations, Snell’s law, Polarization, collimation, Basics of Interference. 
+ 
+Motion along straight-line velocity, acceleration, velocity-time graph. Newton's laws of motion, 
+Equations of motion, Force, work and energy, energy conservation, work-energy theorem. Rigid body 
+dynamics, angular velocity and angular acceleration, angular momentum, torque. Newton's laws for 
+rotational motion, conservation of angular momentum. Requirements of equilibrium, Centre of 
+gravity, Newton's laws of gravitation, gravitation near the surface of earth and below the surface of 
+earth, gravitational potential energy, Kepler's law. 
+ 
+Electric potential: equipotential surfaces, potential due to point charge, group of point charges and 
+due to electric dipole. Dielectrics and Capacitance: Electric Current: current density, Resistance and 
+Resistivity, Ohm's Law, Energy and power in electric circuits, Emf, potential differences, RC circuits. 
+Magnetic field: the definition of B, magnetic force on a current carrying wire, magnetic dipole, 
+Ampere's law. 
+ 
+Cell types, organization, cellular organelles, chloroplast, mitochondria, 
+vacuoles, endoplasmic reticulum, Golgi apparatus; nucleus, chromosomes - basic structure, number, 
+central dogma in Molecular Biology, DNA, RNA, proteins, DNA 
+ 
+replication, transcription, translation, cell cycle, mitosis, meiosis. Concept of tissues, organs and 
+systems, basic knowledge of different types of tissues and systems in the body. 
+ 
+Chemicals of life, water as vital essence of life, macromolecules carbohydrates, fats, proteins, lipids, 
+enzymes, enzyme kinetics, enzyme regulation, metabolism, catabolism, anabolism. 
+ 
+Immunology: Innate and adaptive immune systems and their components, Antibody- antigen 
+interactions, recent knowledge and applications concerning immunity to various infections. 
+ 
+Basic statistics: Sampling and its Techniques; Sample Mean, Median, Mode Variance; Random 
+Samples and Random Numbers, Sample SD, SEM; Idea of Significance, Correlation of Measurements, 
+and Significance Tests.
+(B) SKILL TEST 
+ 
+2.1 For Engineering Candidates
+1. Practical knowledge (including safe handling) of analytical devices 
+2. Analysis of Equipment technical specifications 
+3. General equipment maintenance & usage logging 
+4. Annual maintenance and calibration of equipment 
+5. Maintenance of consumable stocks 
+6. Basic computer knowledge and effective usage of Microsoft office 
+7. Laboratory management 
+9. Installation & maintenance of software
+
+10. Multimeter and Oscilloscope for Circuit Testing, determination of resistance, voltage, parallel and
+series circuits
+11. Basic Soldering skills 
+12. Screw gauge 
+13. Vernier Calipers 
+14. Electrical/Electronic circuits: Operating electrical/electronic instruments and equipment, testing and
+debugging of electrical/electronic circuits and systems
+15. Communications and Signal Processing: Implementing communication and signal processing related
+functions
+2.2 For Biology and Physics Candidates
+1. Practical knowledge (including safe handling) of analytical devices 
+2. Analysis of Equipment technical specifications
+3. General equipment maintenance & usage logging 
+4. Annual maintenance and calibration of equipment 
+5. Maintenance of consumable stocks 
+6. Basic computer knowledge and effective usage of Microsoft office 
+7. Laboratory management 
+8. Installation & maintenance of software 
+9. Multimeter and Oscilloscope for Circuit Testing, determination of resistance, voltage, parallel and
+series circuits
+10. Basic Soldering skills 
+11. Screw gauge 
+12. Vernier Calipers 
+13. Reagent and Buffer preparation 
+14. Basic microscopy skills

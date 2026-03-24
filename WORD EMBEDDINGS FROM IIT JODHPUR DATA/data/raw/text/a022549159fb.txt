@@ -1,0 +1,25 @@
+SOURCE_URL: https://home.iitj.ac.in/~vimalraj
+
+About I am an Assistant Professor in Department of Computer Science and Engineering at IIT Jodhpur. My interests lie broadly in theoretical computer science, specifically in computaional complexity theory and graph algorithms. I am loooking for motivated graduate and undergraduate students. If your interest matches with mine, kindly contact me through mail. You can reach me at: 307, Department of Computer Science and Engineering, IITJ vimalraj AT iitj.ac.in +91 291 2801257
+I am an Assistant Professor in Department of Computer Science and Engineering at IIT Jodhpur. My interests lie broadly in theoretical computer science, specifically in computaional complexity theory and graph algorithms. I am loooking for motivated graduate and undergraduate students. If your interest matches with mine, kindly contact me through mail. You can reach me at: 307, Department of Computer Science and Engineering, IITJ vimalraj AT iitj.ac.in +91 291 2801257
+Publications The Even-Path Problem in Directed Single-Crossing-Minor-Free Graphs, MFCS'24 with Archit Chauhan, Samir Datta, and Chetan Gupta Dynamic Meta-theorems for Distance and Matching, ICALP'22 with Samir Datta, Chetan Gupta, Rahul Jain, Anish Mukherjee, and Raghunath Tewari Reachability and Matching in Single-Crossing-Minor-Free Graphs, FSTTCS'21 with Samir Datta, Chetan Gupta, Rahul Jain, Anish Mukherjee, and Raghunath Tewari Efficient Isolation of Perfect Matching in O(log n) Genus Bipartite Graphs, MFCS'20 with Chetan Gupta and Raghunath Tewari Randomized and Symmetric Catalytic Computation, CSR'20 with Samir Datta, Chetan Gupta, Rahul Jain, and Raghunath Tewari Unambiguous Catalytic Computation, FSTTCS'19 with Rahul Jain, Chetan Gupta and Raghunath Tewari Reachability in O(log n) Genus Graphs is in Unambiguous Logspace, STACS'19 with Chetan Gupta and Raghunath Tewari
+The Even-Path Problem in Directed Single-Crossing-Minor-Free Graphs, MFCS'24 with Archit Chauhan, Samir Datta, and Chetan Gupta
+Dynamic Meta-theorems for Distance and Matching, ICALP'22 with Samir Datta, Chetan Gupta, Rahul Jain, Anish Mukherjee, and Raghunath Tewari
+Reachability and Matching in Single-Crossing-Minor-Free Graphs, FSTTCS'21 with Samir Datta, Chetan Gupta, Rahul Jain, Anish Mukherjee, and Raghunath Tewari
+Efficient Isolation of Perfect Matching in O(log n) Genus Bipartite Graphs, MFCS'20 with Chetan Gupta and Raghunath Tewari
+Randomized and Symmetric Catalytic Computation, CSR'20 with Samir Datta, Chetan Gupta, Rahul Jain, and Raghunath Tewari
+Unambiguous Catalytic Computation, FSTTCS'19 with Rahul Jain, Chetan Gupta and Raghunath Tewari
+Reachability in O(log n) Genus Graphs is in Unambiguous Logspace, STACS'19 with Chetan Gupta and Raghunath Tewari
+Education & Job Assistant Professor Department of CSE, IIT Jodhpur [Sept 2022 - Present] Post Doctorate CS, Chennai Mathematical Institute [Sept 2021 - Aug 2022] PhD CSE, IIT Kanpur [Jan 2016 - Jan 2022] Analyst iNautix, Chennai [Jul 2015 - Dec 2015] MSc CS, Chennai Mathematical Institute [Aug 2013 - Jun 2015]
+Assistant Professor Department of CSE, IIT Jodhpur [Sept 2022 - Present]
+Post Doctorate CS, Chennai Mathematical Institute [Sept 2021 - Aug 2022]
+PhD CSE, IIT Kanpur [Jan 2016 - Jan 2022]
+Analyst iNautix, Chennai [Jul 2015 - Dec 2015]
+MSc CS, Chennai Mathematical Institute [Aug 2013 - Jun 2015]
+Teaching Complexity Theory (Semester II, 2025-26) Advanced Data Structures and Algorithms (Semester I, 2025-26) Maths for Computing (Semester I, 2024-25) Complexity Theory (Semester II, 2023-24) Maths for Computing (Semester I, 2023-24) Complexity Theory (Semester II, 2022-23)
+Complexity Theory (Semester II, 2025-26)
+Advanced Data Structures and Algorithms (Semester I, 2025-26)
+Maths for Computing (Semester I, 2024-25)
+Complexity Theory (Semester II, 2023-24)
+Maths for Computing (Semester I, 2023-24)
+Complexity Theory (Semester II, 2022-23)

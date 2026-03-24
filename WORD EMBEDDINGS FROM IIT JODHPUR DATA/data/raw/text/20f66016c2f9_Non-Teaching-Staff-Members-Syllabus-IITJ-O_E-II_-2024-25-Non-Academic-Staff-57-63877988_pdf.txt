@@ -1,0 +1,54 @@
+SOURCE_PDF: 20f66016c2f9_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of TECHNICAL SUPERINTENDENT (Electrical Engineering)
+(A) WRITTEN TEST 
+Signal Processing: Continuous-time signals: Fourier series and Fourier transform representations, 
+sampling theorem and applications; Discrete-time signals: discrete-time Fourier transform (DTFT), DFT, 
+FFT, Z-transform, interpolation of discrete-time signals; LTI systems: definition and properties, causality, 
+stability, impulse response, convolution, poles and zeros, frequency response, digital filter design 
+techniques. 
+Communications: 
+Random 
+processes: 
+autocorrelation 
+and 
+power 
+spectral 
+density; 
+Analog
+communications: amplitude modulation and demodulation, angle modulation and demodulation, 
+superheterodyne receivers, circuits for analog communications; Information theory: entropy, mutual 
+information and channel capacity theorem; Digital communications: Phase and frequency shift keying 
+(ASK, PSK, FSK), QAM, MAP and ML decoding, matched filter receiver, calculation of bandwidth, SNR 
+and BER. 
+Control Systems: Principles of feedback, transfer function, block diagrams and signal flow graphs, steady 
+state errors, transforms and their applications; Routh-hurwitz criterion, Nyquist techniques, Bode plots, 
+root loci, lag, lead and lead-lag compensation, stability analysis, transient and frequency response analysis, 
+state space model, state transition matrix, controllability and observability, linear state variable feedback, 
+PID controllers. 
+Analog Circuits: Simple diode circuits: clipping, clamping and rectifiers; BJTs and MOSFETs Single-stage 
+BJT and MOSFET amplifiers: biasing, bias stability, mid-frequency small signal analysis and frequency 
+response; BJT and MOSFET amplifiers, Op-amp circuits; Function generators, wave-shaping circuits and 
+555 timers; Voltage reference circuits; Power supplies: ripple removal and regulation. 
+Digital Circuits: Number systems; Combinatorial circuits: Boolean algebra, minimization of functions using 
+Boolean identities and Karnaugh map, logic gates and their static CMOS implementations, arithmetic 
+circuits, code converters, multiplexers, decoders and PLAs; Sequential circuits: latches and flip‐flops, 
+counters, shift‐registers and finite state machines; Data converters: sample and hold circuits, ADCs and 
+DACs; Semiconductor memories: ROM, SRAM, DRAM; Embedded Systems: architecture, programming, 
+memory and I/O interfacing. 
+Electrical Machines: Single phase transformers, three phase transformers - connections, parallel operation, 
+auto-transformer, DC machines - types, windings, generator characteristics, armature reaction and 
+commutation, starting and speed control of motors, Induction motors - principles, types, performance 
+characteristics, starting and speed control, basis concepts of adjustable speed dc and ac drives, Synchronous 
+machines - performance, regulation, parallel operation of generators, synchronous motors, V and inverted 
+V curves, starting of synchronous motors. 
+ 
+(B) SKILL TEST 
+The candidate will be allowed to choose one of the following three topics:
+1. Electronic systems: System implementation using programming devices such as Arduino, FPGA, 
+microprocessor/microcontroller. System implementation using Sensors and IoT. 
+2. Communications and Signal Processing: Implementing various modulation/demodulation schemes 
+and systems, and signal processing algorithms for various applications. 
+3. Power engineering and Control: Power control, transmission system implementation, PID and other 
+controllers.

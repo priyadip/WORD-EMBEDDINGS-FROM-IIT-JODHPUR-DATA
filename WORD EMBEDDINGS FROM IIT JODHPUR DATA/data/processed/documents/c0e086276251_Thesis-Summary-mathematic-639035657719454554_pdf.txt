@@ -1,0 +1,27 @@
+pdes emerging from and adams types inequalities deepak kumar mahanta p20ma206 thesis supervisors abhishek sarkar and tuhina mukherjee department of mathematics indian institute of technology jodhpur abstract this thesis takes advantage of numerous topological tools and variational methods including the mountain pass theorem the ekeland variational principle the nehari manifold techniques the category theory to investigate the existence and multiplicity of weak solutions to the nonhomogeneous elliptic and subelliptic pdes with critical exponential growth in the context of both the euclidean spaces and the heisenberg groups
+in addition we are also interested in studying functional inequalities in certain newly generated function spaces in the previously described situations such as the inequalities and the inequalities
+in the first work we deal with the existence of nontrivial nonnegative solutions to the following equation in rn with lr and for where is the operator
+the nonlinear term rn has critical exponential growth at infinity
+the main features of this problem are the growth of the elliptic operators the double lack of compactness and the fact that the kirchhoff function is of degenerate type that is it could vanish at zero
+to establish the existence results we use the mountain pass theorem the ekeland variational principle the singular inequality and completely new type lemma for singular exponential nonlinearity
+in the second work by employing variational methods the doubly weighted sobolev inequality the inequality we deal with the existence of positive ground state solutions to class of odinger equations with reaction under critical exponential growth in the sense of the in the whole rn as follows in rn lm where
+the nonlinearity rn is eodory function and has critical exponential growth at infinity
+in the last work we first establish sharp singular type inequality in completely new function space and then inspired by
+lions we also study sharp singular principle as an improvement of this inequality in the heisenberg group context
+moreover we also discuss about the equivalence of the sharp critical and subcritical singular type inequalities
+specifically we investigate the asymptotic behavior of the lower and upper bounds of the sharp subcritical singular type inequality and derive connection between the suprema of such types of the sharp critical and subcritical inequalities
+in addition due to the applications of the above results by invoking the mountain pass theorem we study the existence of positive ground state solutions to zero mass subelliptic equations involving singular exponential nonlinearity in hn as follows with is the standard laplace or horizontal operator
+the function is called the anyi norm in hn
+the nonlinear term hn is eodory function which satisfies critical exponential growth at infinity
+from thesis references
+mahanta mukherjee sarkar degenerate problem singular nonlinearity rn forum math
+mahanta winkert on odinger equations with convolution parts in rn appl
+winkert on singularly perturbed odinger equation logarithmic nonlinearity adv
+mahanta mukherjee sarkar on sharpened singular adams type inequalities and applications to
+mahanta sarkar on sharp singular type inequalities and applications to zero mass subelliptic equations in the heisenberg group communicated
+thin on coupled nonlocal system with singular exponential nonlinearity in rn electron
+theory of differential equations no
+mahanta existence and multiplicity of solutions for class of quasilinear anisotropic elliptic systems via fibering method anal
+mahanta mukherjee sarkar sharma on the study of choquard equations with critical nonlinearity in hn anal
+minor revision submitted
+mahanta mukherjee sarkar on the extreme value of nehari manifold for nonlocal singular equations in rn communicated

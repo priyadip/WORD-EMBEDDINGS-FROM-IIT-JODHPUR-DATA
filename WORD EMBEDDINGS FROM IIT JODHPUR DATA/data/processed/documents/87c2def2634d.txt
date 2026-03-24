@@ -1,0 +1,16 @@
+congratulations to shubham garg and dr kirankumar hiremath for publishing their research paper in the journal of physics mathematical and theoretical title improved reduced order model for study of coupled phenomena authors shubham garg and kirankumar hiremath journal journal of physics mathematical and theoretical improved reduced order model for study of coupled phenomena year publisher institute of physics abstract many interesting phenomena in applications are based on interactions between their constituent
+the first principle exact models of these phenomena can be quite complicated
+therefore many practitioners prefer to use phenomenological models which are generally known as models based on coupled mode theory cmt
+this type of model captures the dominant behavior of the system under appropriate conditions
+quite often these validity conditions are qualitatively described but no detailed mathematical analysis is provided
+this work addresses this issue and presents improvements in the traditional phenomenological models
+although an lc circuit model is used for illustration due to its simplicity the results in this work are equally applicable to wide variety of coupled models
+detailed mathematical analysis is carried out to quantify the order of approximation involved in the cmt
+using it the validity of the model in the regime from weak coupling to strong coupling is analytically investigated
+an improved model is proposed which gives better results than the traditional phenomenological model
+the analytical studies are verified with numerical simulations which clearly show better validity of the proposed improved model of coupled systems
+upload date september phenomena improved reduced order model for study of coupled authors shubham garg and kirankumar hiremath shubham garg and kirankumar hiremath journal journal of physics mathematical and theoretical journal of physics mathematical and theoretical improved reduced order model for study of coupled phenomena improved reduced publisher institute of physics institute of physics abstract many interesting phenomena in applications are based on clearly show better validity of the proposed improved model of coupled systems
+many interesting phenomena in applications are based on upload date september important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

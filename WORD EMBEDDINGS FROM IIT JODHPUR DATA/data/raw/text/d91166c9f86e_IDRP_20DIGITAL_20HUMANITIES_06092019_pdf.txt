@@ -1,0 +1,356 @@
+SOURCE_PDF: d91166c9f86e_IDRP_20DIGITAL_20HUMANITIES_06092019.pdf
+
+Indian Institute of Technology
+Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Ph.D. Programme
+In
+Digital Humanities
+Offered by
+Digital Humanities
+Inter Disciplinary Research Platform
+Indian Institute of Technology Jodhpur
+
+Introduction
+The digital revolution of the 20th and 21st centuries has created new knowledge and 
+spaces for humankind to evolve culturally with the construction of techniques and 
+technologies. As a corollary, a new field of organised research emerged at the beginning 
+of the 2000s examining the use and application of digital technologies in the humanities, 
+liberal arts, social science scholarship, computer sciences, and beyond. Popularly nested 
+under an umbrella term “Digital Humanities”, this area of scholarship takes a critical 
+stance to examine the role, use, application, and impact of digital tools in our everyday 
+life, our societies, economies, cultures, and governments. However, while the use of 
+computational tools in social science and humanities work is not very new, the 
+availability of a large body of cultural artefacts after the digital turn, as well as 
+emergence of new kinds of digital objects and embodiments, has opened up several 
+possibilities for social science and humanities research, practice and pedagogy using 
+computational approaches. Very soon, the question of whether something is, or is not, 
+„digital‟ will be increasingly secondary as many forms of culture become mediated, 
+produced, accessed, distributed or consumed through digital devices and technologies. 
+In 
+other 
+words, 
+the 
+field 
+of 
+Digital 
+Humanities 
+is 
+expected 
+to 
+grow 
+on
+interdisciplinaryrather than multidisciplinary principles. The research focus and pedagogy 
+in this program emphasize many of the emerging epistemological questions on 
+knowledge production about generating digital data from material objects, and on 
+rethinking existing processes of knowledge production.
+Objective of the Program
+IIT Jodhpur is one of the pioneering institutes in the country currently offering an 
+interdisciplinary doctoral degree in Digital Humanities. This doctoral program offers 
+unique opportunities to redraw conventional disciplinary boundaries among the 
+humanities, the social sciences, the arts, technology and engineering, and the natural 
+sciences. Primary objectives of the program include (but are not limited to):
+1. Introducing and exploring a broad spectrum of perspectives on the Digital
+Humanities
+2. Developing familiarity with a range of Digital Humanities projects, as well as the
+ability to evaluate the tools and methods involved in creating and analysing those 
+projects
+3. Critical and reflexive use of digital tools, technologies, and spaces by
+understanding that all technologies are complex and socially situated, through 
+which humans make meaning
+Doctoral students opting for this program are expected to contribute towards integrating 
+disciplinary approaches of the humanities, liberal arts, social sciences, and computer 
+technologies, with cross-disciplinary theorising and research that can be avant-garde to
+
+Semester 1 Semester 2
+Semester 3 Semester 4
+DH799Ph.D. Thesis DH799 Ph.D. Thesis
+Semester 5 Semester 6
+DH799 Ph.D. Thesis DH799 Ph.D. Thesis
+Semester 7 Semester 8
+DH799 Ph.D. Thesis DH799 Ph.D. Thesis
+the field of Digital Humanities. Doctoral research in Digital Humanities shall be premised 
+on project-oriented knowledge production, the practical application of methods, and shall 
+involve interdisciplinary collaboration workflows. To enhance such collaborative 
+workflows, the programme will actively involve academics and resource people from 
+other institutes and universities across the country and internationally.
+Expected Graduate Attributes
+In depth understanding of the fundamental concepts of broad areas in Humanities, Social 
+Sciences, and application areas of basic computational tools.
+1. Ability to undertake problems in multidisciplinary domains of Humanities, Social
+Sciences, Computer Sciences, Mathematics, and related disciplines.
+2. Skills to demonstrate basic principles of Humanities and Social Sciences through
+various application areas and analytical processes.
+3. Ability to make effective oral and written technical communication. 
+4. Appreciation and adherence to norms of professional ethics.
+Learning Outcomes
+1. Appreciate and critically discuss Digital Humanities projects in light of current
+methods and theoretical approaches to the field
+2. Explain how Digital Humanities methods and practices are applied in different
+disciplines
+3. Skillset to plan, develop, and evaluate a Digital Humanities research project 
+4. Fundamental understanding of research tools to plan for and evaluate the
+effectiveness of Digital Humanities methods including a multitude of platforms 
+such as social media and web tools.
+5. Understand what data mean in different contexts 
+6. Capture, collect, and analyse a variety of data types related to Digital Humanities
+research project
+Program Structure and Credit Structure:
+
+List of recommended electives:
+
+DH Electives
+
+Title Fundamentals of Digital Humanities Number DHL7010
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (Cr>=100); M.Sc. (Cr >=30);
+M.Tech. (Cr.>0); Ph.D. (Cr.>0) Type Elective
+Prerequisite None
+
+Marginalised Histories; Cyborgs, Gender, Space, and Place in Digital Societies [4 
+Lectures]
+Literature and Technology, Text Analysis, Data Visualisation [3 Lectures]
+Hands-on Exercises
+1. Identifying DH projects from traditional projects: Concrete examples and a
+range of approaches to DH from the traditional disciplines.
+2. Digital Humanities Project Critiques: Exploring the project goals, what type
+of data it used, how that data was found and/or transformed, what 
+technologies were used, and why.
+References Books
+1. Gere, C., (2008), Digital Culture, 2nd Edition, London: Reaktion Books
+Limited
+2. Bentkowska-Kafel, A., Cashen, T., and Gardiner, H. (Eds.) (2009), Digital
+Visual Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+3. Karaganis, J. (Ed.), (2007), Structures of Participation in Digital Culture,
+Social Science Research Council, Columbia University Press
+Online-course material
+Digital Humanities Seminar Video Archive of the Open University, UK, 
+http://www.open.ac.uk/arts/research/digital-humanities/videos
+Fractal 2: Data and Knowledge representations (DHL7012)
+Introduction: Data Sources, Transcribing (Multimedia data), Conversation, 
+Discourse Analysis [7 lectures]
+Knowledge Engineering: Ontological engineering, Representation of Ontologies, 
+Common Logic, RDFS, Web Ontology Language (OWL), Topic Maps, Multimedia 
+Web Ontology Language, Applications [ 7 Lectures]
+Hands-on Exercises
+1. Ethnographic data collection and analysis: A case study 
+2. Ontology formation from Multimedia Data: A case study
+
+References Books
+1. Christopher Joseph Jenks (2011), Transcribing Talk and Interaction: Issues
+in the Representation of Communication Data, John Benjamins Publishing 
+Company.
+2. Russel, S. & Norvig, P., (2009), Artificial Intelligence: A Modern Approach,
+Pearson Education
+3. S. Chaudhury, A. Mallik, and H. Ghogh (2016), Multimedia Ontology
+Representation and Applications, CRC Press.
+Online-Course Materials
+1. Knowledge Representation and Reasoning
+Fractal 3: Digital Archives (DHL7013)
+Digital memory, Methods of archiving, Theorizing the archive, database [6 lectures]
+Exhibition, installation, audio-visual essays [4 lectures]
+Aesthetics of recreation/ Digital aesthetics, Digital Art [4 lectures]
+References Books
+1. Ernst, W., (2013), Digital Memory and the Archive, Minneapolis: University
+of Minnesota Press
+2. Grau, O., Coones, W., and Ruhse, V. (Eds.) (2017), Museum and Archive on
+the Move: Changing Cultural Institutions in the Digital Era, Berlin and 
+Boston: De Gruyter
+Online-course material
+
+Title Digital Methods and Tools Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (Cr>=100); M.Sc. (Cr >=30);
+M.Tech. (Cr.>0); Ph.D. (Cr.>0) Type Elective
+Prerequisite None
+
+1. Kotu, V. and Deshpande, B. (2018) Data Science: Concepts and Practice,
+Morgan Kaufmann.
+2. Saltz, J.S. and Stanton, J.M. (2017) An Introduction to Data Science, SAGE
+3. Kelleher, J. D., and Tierney, (2018) Data Science, MIT Press Reference Books
+Reference Books
+1. Moreira, J., Carvalho, A. and Horvath, T. (2018) A General Introduction to
+Data Analytics, John Wiley & Sons.
+2. Mayer-Schonberger, V. and Cukier, K., (2013) Big data: The essential guide
+to work, life and learning in the age of insight, John Murray Publications.
+Fractal 2: Qualitative and Quantitative Analyses (DHL7XX2)
+Introduction: Research Question, Research Design, an introduction to research 
+methods in digital humanities and mapping the departure from traditional research 
+methods [2 lectures]
+Overview of Research Methods: Quantitative data collection and analysis, Survey 
+design and analysis; Interviews, focus groups and participant observation; 
+Discourse and Content Analysis [3 lectures]
+Research Methods in Digital Humanities: Case Studies and projects in Digital 
+Humanities; Research method as discipline - how digital humanities has been 
+expanding through deployment of digital methods to study society, culture, 
+philosophy and language [4 lectures]
+Techniques of data collection and analysis: Document Image Processing, OCR 
+Techniques and its challenges, NLP Introduction, and its applications, Qualitative 
+Analysis - Themes, Patterns, Coding using NVivo and MaxQDA [5 lectures]
+References Books
+1. Bryman, Alan (2014), Social Science Research Methods, Oxford University
+2. Levenberg, Nielsen, Tai, et. al. (2018), Research Methods for Digital
+Humanities, Palgrave Macmillan: New York.
+Fractal 3: Visualization Analysis and Design (DHL7XX3)
+Introduction: Design Effectiveness, Abstraction (Data and Task), Marks and 
+Channels, Analysis and Validation [7 lectures]
+Interaction Design: Arranging data, Spatial data, Network and Trees, Map Color and 
+Other Channels, Views, Applications, User Experience [ 7 Lectures]
+Hands-on Exercises
+
+1. Visualizing Quantitative and Qualitative Data. 
+2. Use case-based user experience design.
+References Books
+1. William Lidwell, Kritina Holden, Jill Butler (2010), Universal Principles of
+Design, Rockport Publishers.
+2. Tamara Munzner (2014), Visualization Analysis & Design, CRC Press.
+Online-course material
+1. Data Science and Visualization, Provided by Harvard University (HarvardX),
+2. NPTEL Course, Data Visualization in R,
+
+Title Selected Topics in Digital Humanities - I Number DHL7XX0
+Department IDRP-DH L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. (Cr>=14)
+Ph.D. (Cr>0) Type Elective
+Prerequisite None
+
+Title Selected Topics in Digital Humanities - II Number DHL7XX0
+Department IDRP-DH L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. (Cr>=14)
+Ph.D. (Cr>0) Type Elective
+Prerequisite None
+
+Title Selected Topics in Digital Humanities - III Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. (Cr>=14)
+Ph.D. (Cr>0) Type Elective
+Prerequisite None
+
+DH Electives
+
+Title Fundamentals of Digital Humanities Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+Prerequisite None
+
+Literature and Technology, Text Analysis, Data Visualisation [3 Lectures]
+Hands-on Exercises
+3. Identifying DH projects from traditional projects: Concrete examples and a
+range of approaches to DH from the traditional disciplines.
+4. Digital Humanities Project Critiques: Exploring the project goals, what type of
+data it used, how that data was found and/or transformed, what technologies 
+were used, and why.
+References Books
+4. Gere, C., (2008), Digital Culture, 2nd Edition, London: Reaktion Books Limited 
+5. Bentkowska-Kafel, A., Cashen, T., and Gardiner, H. (Eds.) (2009), Digital Visual
+Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+6. Karaganis, J. (Ed.), (2007), Structures of Participation in Digital Culture, Social
+Science Research Council, Columbia University Press
+Online-course material
+Digital Humanities Seminar Video Archive of the Open University, UK, 
+http://www.open.ac.uk/arts/research/digital-humanities/videos
+Fractal 2: Data and Knowledge representations (DHL7XX2) [1-0-0]
+Introduction: Data Sources, Transcribing (Multimedia data), Conversation, Discourse 
+Analysis [7 lectures]
+Knowledge Engineering: Ontological engineering, Representation of Ontologies, 
+Common Logic, RDFS, Web Ontology Language (OWL), Topic Maps, Multimedia Web 
+Ontology Language, Applications [ 7 Lectures]
+Hands-on Exercises
+3. Ethnographic data collection and analysis: A case study 
+4. Ontology formation from Multimedia Data: A case study
+References Books
+4. Christopher Joseph Jenks (2011), Transcribing Talk and Interaction: Issues in
+the Representation of Communication Data, John Benjamins Publishing 
+Company.
+5. Russel, S. & Norvig, P., (2009), Artificial Intelligence: A Modern Approach,
+
+Pearson Education
+6. S. Chaudhury, A. Mallik, and H. Ghogh (2016), Multimedia Ontology
+Representation and Applications, CRC Press.
+Online-Course Materials
+2. Knowledge Representation and Reasoning
+Fractal 3: Digital Archives (DHL7XX3) [1-0-0]
+Digital memory, Methods of archiving, Theorizing the archive, database [6 lectures]
+Exhibition, installation, audio-visual essays [4 lectures]
+Aesthetics of recreation/ Digital aesthetics, Digital Art [4 lectures]
+References Books
+3. Ernst, W., (2013), Digital Memory and the Archive, Minneapolis: University of
+Minnesota Press
+4. Grau, O., Coones, W., and Ruhse, V. (Eds.) (2017), Museum and Archive on the
+Move: Changing Cultural Institutions in the Digital Era, Berlin and Boston: De 
+Gruyter
+Online-course material
+
+Title Digital Methods and Tools Number DHL7XX0
+Department IDRP-DH L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+Prerequisite None
+
+Text Books
+4. Kotu, V. and Deshpande, B. (2018) Data Science: Concepts and Practice,
+Morgan Kaufmann.
+5. Saltz, J.S. and Stanton, J.M. (2017) An Introduction to Data Science, SAGE
+6. Kelleher, J. D., and Tierney, (2018) Data Science, MIT Press Reference Books
+Reference Books
+3. Moreira, J., Carvalho, A. and Horvath, T. (2018) A General Introduction to
+Data Analytics, John Wiley & Sons.
+4. Mayer-Schonberger, V. and Cukier, K., (2013) Big data: The essential guide
+to work, life and learning in the age of insight, John Murray Publications.
+Fractal 2: Qualitative and Quantitative Analyses (DHL7XX2) [1-0-0]
+Introduction: Research Question, Research Design, an introduction to research 
+methods in digital humanities and mapping the departure from traditional research 
+methods [2 lectures]
+Overview of Research Methods: Quantitative data collection and analysis, Survey 
+design and analysis; Interviews, focus groups and participant observation; 
+Discourse and Content Analysis [3 lectures]
+Research Methods in Digital Humanities: Case Studies and projects in Digital 
+Humanities; Research method as discipline - how digital humanities has been 
+expanding through deployment of digital methods to study society, culture, 
+philosophy and language [4 lectures]
+Techniques of data collection and analysis: Document Image Processing, OCR 
+Techniques and its challenges, NLP Introduction, and its applications, Qualitative 
+Analysis - Themes, Patterns, Coding using NVivo and MaxQDA [5 lectures]
+References Books
+
+3. Bryman, Alan (2014), Social Science Research Methods, Oxford University
+4. Levenberg, Nielsen, Tai, et. al. (2018), Research Methods for Digital
+Humanities, Palgrave Macmillan: New York.
+Fractal 3: Visualization Analysis and Design (DHL7XX3) [1-0-0]
+Introduction: Design Effectiveness, Abstraction (Data and Task), Marks and 
+Channels, Analysis and Validation [7 lectures]
+Interaction Design: Arranging data, Spatial data, Network and Trees, Map Color and 
+Other Channels, Views, Applications, User Experience [ 7 Lectures]
+Hands-on Exercises
+3. Visualizing Quantitative and Qualitative Data. 
+4. Use case-based user experience design.
+References Books
+3. William Lidwell, Kritina Holden, Jill Butler (2010), Universal Principles of
+Design, Rockport Publishers.
+4. Tamara Munzner (2014), Visualization Analysis & Design, CRC Press.
+Online-course material
+3. Data Science and Visualization, Provided by Harvard University (HarvardX),
+4. NPTEL Course, Data Visualization in R,
+
+Title Selected Topics in Digital Humanities - I Number DHL8XX0
+Department IDRP-DH L-T-P [C] 1–0–0 [1]
+Offered for Type Elective
+Prerequisite DHL7XX0 Fundamentals of Digital Humanities
+OR
+DHL7XX0 Digital Methods and Tools
+
+Title Selected Topics in Digital Humanities - II Number DHL8XX0
+Department IDRP-DH L-T-P [C] 2–0–0 [2]
+Offered for Type Elective
+Prerequisite DHL7XX0 Fundamentals of Digital Humanities
+OR
+DHL7XX0 Digital Methods and Tools
+
+Title Selected Topics in Digital Humanities - III Number DHL8XX0
+Department IDRP-DH L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite DHL7XX0 Fundamentals of Digital Humanities
+OR
+DHL7XX0 Digital Methods and Tools

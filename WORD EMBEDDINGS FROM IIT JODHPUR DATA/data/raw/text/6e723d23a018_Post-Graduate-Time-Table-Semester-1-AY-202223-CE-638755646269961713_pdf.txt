@@ -1,0 +1,75 @@
+SOURCE_PDF: 6e723d23a018_Post-Graduate-Time-Table-Semester-1-AY-202223-CE-638755646269961713.pdf
+
+Days
+Time Monday Tuesday Wednesday Thursday Friday
+8:00 – 8:50 Advanced Mass
+Transfer (L) Hydrogen and Methanol
+Economy (L) Advanced Mass
+Transfer (L) Hydrogen and Methanol
+Economy (L) Advanced Mass
+Transfer (L)
+Principles of
+Electrochemical
+Engineering (L) Principles of
+Electrochemical
+Engineering (L) Principles of
+Electrochemical
+Engineering (L)
+9:00 – 9:50 Advanced Reaction
+Engineering (P)
+2:00 –2:50 Advanced Reaction
+Engineering (L) Advanced Transport
+Phenomena (L) Advanced Reaction
+Engineering (L) Advanced Transport
+Phenomena (L)
+3:00 – 3:50 Advanced Chemical
+Engineering
+Thermodynamics (L) Advanced Transport
+Phenomena (L) Advanced Chemical
+Engineering
+Thermodynamics (L) Advanced Chemical
+Engineering
+Thermodynamics (L) Advanced Mathematical
+Methods in Chemical
+Engineering (L)
+4:00 – 4:50 Advanced
+Mathematical Methods
+in Chemical
+Engineering (L) Structure & Property for
+Polymers (L) Advanced
+Mathematical
+Methods in Chemical
+Engineering (L) Structure & Property for
+Polymers (L) Structure & Property for
+Polymers (L)
+Capillarity and Wetting
+(L) Capillarity and Wetting
+(L) Capillarity and Wetting
+(L)
+5:00 – 5:50 Technical
+Communication (NG) Department Activities System Engineering and
+Project Management
+(NG) Hydrogen and Methanol
+Economy (L)
+Courses Course Code & Type Faculty Incharge Slots
+Advanced Reaction Engineering CHL7010 / Core (1st Year) Prof. Pradip Tewari F & L2
+Advanced Transport Phenomena CHL7030 / Core (1st Year) Dr. Tara Chand G
+Advanced Chemical Engineering
+Thermodynamics CHL7040 / Core (1st Year) Dr. Angan
+Sengupta H
+Advanced Mathematical Methods in Chemical
+Engineering CHL7020 / Core (1st Year) Dr. Abhilasha
+Maheshwari I
+Structure & Property for Polymers CHL7490 / Elective (1st & 2nd Year) Dr. Deepak Arora J
+Advanced Mass Transfer CHL7420/ Elective (1st & 2nd Year) Dr. Prasenjit Sarkar K
+Principles of Electrochemical Engineering CHL7450/ Elective (1st & 2nd Year) Dr. Prashant Gupta K
+Hydrogen and Methanol Economy CHL7370/ Elective (1st & 2nd Year) Dr. Ramesh Asapu N
+Capillarity and Wetting CHL7440/ Elective (1st & 2nd Year) Dr. Nirmalya
+Bachhar J
+M.Tech. Project-1 CHD7010/ Core (2nd Year) All Faculties T
+Research Proposal CHO8930, CHO8940, CHO8950,
+CHO8960, CHO8970, CHO8980 Dr. Ramesh Asapu RP
+Technical Communication Non-graded 1st Year Institute Aligned
+System Engineering and Project Management Non-graded 2nd Year Institute Aligned
+Post Graduate Time Table Semester 1 AY 2022-23 
+Department of Chemical Engineering

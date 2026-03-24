@@ -1,0 +1,430 @@
+SOURCE_PDF: b633136977cd_Metallurgical_20and_20Materials_20Engineering_06092019.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+In
+Metallurgical and Materials Engineering
+
+Introduction
+Metallurgical and Materials Engineering is an interdisciplinary branch that deals with converting ore 
+into a product by focusing on design, extraction, processing, and characterization of materials for 
+aerospace, automotive, energy, electronics, and healthcare applications. The following are the 
+focus areas of the Department: (a) Process Metallurgy, (b) Structural Materials, (c) Functional 
+Materials, and (d) Computational Materials Engineering. While the Process Metallurgy deals with 
+mineral beneficiation and metal extraction, the Structural Materials deals with understanding the 
+process-microstructure-property correlation to expand the application of a given material. In the 
+Functional Materials research, materials for specific functions such as energy harvesting, 
+healthcare, and information processing are studied. The Computational Materials Engineering 
+provides understanding of materials from atomistic to macro length scales, and help in materials 
+selection, alloy design, and improvement of metallurgical processes.
+Objective
+ 
+To produce professionals with deep understanding of experimental and computational 
+materials engineering, capable of providing innovative solutions for materials challenges in 
+energy, electronics, aerospace, automotive, and healthcare industries.
+ 
+To train the students for the roles of future academicians, scientists, innovators, and 
+entrepreneurs.
+Graduate attributes
+ 
+Ability to correlate electronic structure with transport properties of materials
+ 
+Skill set to optimize microstructure and determine structure-property correlation
+ 
+Ability to design and execute experiments for studying mechanical behavior of materials, 
+and develop mechanistic models for failure prediction
+ 
+Ability to determine metallurgical processing parameters for extraction of ferrous and non-
+ferrous metals, and design process cycle to convert ore to final product
+ 
+Ability to fabricate components following traditional and non-traditional manufacturing 
+processes
+ 
+Ability to characterize features at atomic, nano-, meso-, micro- and macro- length scales
+ 
+Ability to innovate materials for next generation energy, electronic and healthcare devices
+ 
+Skills to communicate the scientific findings to peers and general public
+ 
+Appreciation and adherence to professional ethics
+ 
+ Ability to design and execute technical projects
+Learning Outcome
+Ability to
+ 
+Design the materials by microstructure control to meet the required properties
+ 
+Use various modeling techniques for studying physical, mechanical, functional and transport 
+properties of materials
+
+ 
+Apply thermodynamics and kinetics principles to understand and control materials processes
+ 
+Fabricate structural and functional materials through traditional and non-traditional 
+manufacturing processes
+ 
+Use various material characterization tools
+ 
+Apply principles of material deformation to predict failure of materials for reliable design of 
+structures
+ 
+Understand the process metallurgy involved in ferrous and non-ferrous metal extraction
+ 
+Define a scientific problem and devise an appropriate methodology for addressing the 
+problem
+ 
+Identify normative commitments of technological knowledge, artifacts and familiarity with 
+the manifold responsibilities linked to their profession.
+ 
+Critically develop linguistic competence and subject competence in the genres of technical 
+communication.
+
+Cat. Course Number, Course Title L-T-P-D Credits Cat. Course Number, Course Title L-T-P-D Credits
+I Semester II Semester
+MC MT7LXX0 Metallurgical
+Thermodynamics and
+Kinetics 3-1-0-0 4 MC MT7LXX0 Computational
+Materials Engineering 3-0-2-0 4
+MC MT7LXX0 Characterization of
+Minerals, Metals and
+Materials 3-0-2-0 4 MC MT7LXX0 Phase
+Transformations in
+Solids 3-0-2-0 4
+ME MT7LXX0 Program Elective -1 3-0-0-0 3 ME MT7LXX0 Program Elective-3 3-0-0-0 3
+ME MT7LXX0 Program Elective -2 3-0-0-0 3 ME MT7LXX0 Program Elective-4 3-0-0-0 3
+NH HSN7XX0 Technical 1-0-0-0 1 NH OAL7XX0 Innovation andIP 1-0-0-0 1
+Communication Management
+Total 15 Total 15
+III Semester IV Semester
+ME MT7LXX0 Program Elective-5 3-0-0-0 3 MO Open Elective-2 3-0-0-0 3
+ME MT7LXX0 Program Elective-6 3-0-0-0 3 MP MT7DXX0 Project (Stage-II) 0-0-0-11 11
+MO Open Elective-1 3-0-0-0 3 NH HSN7XX0 Professional Ethics 1-0-0-0 1
+MP MT7DXX0 Project (Stage-I) 0-0-0-5 5
+NH OAN7XX0 Systems Engineering 1-0-0-0 1
+Total 15 Total 15
+S.No. Category Category Title Total
+Courses Total Credits
+1 C Compulsory 4 16
+2 E Program Electives 6 18
+2 O Open Electives 2 6
+4 P Project 16 16
+Total 56
+Program structure with courses
+Distribution of Credits (M.Tech.)
+Program electives can be taken from any of the following courses offered by the department. Open 
+electives may be taken from other departments.
+
+Topic Clouds
+1. Metallurgical Thermodynamics and Kinetics
+ 
+Laws of thermodynamics
+ 
+Thermodynamics of solutions
+ 
+Application of Thermodynamics to Chemical reactions
+ 
+Phase diagrams
+ 
+Thermodynamics of interfaces
+ 
+Diffusion in solids
+2. Characterization of Minerals Metals and Materials
+ 
+Optical Microscopy
+ 
+Scanning Electron Microscopy
+ 
+Transmission Electron Microscopy
+ 
+Scanning Probe Microscopy
+ 
+Spectroscopic characterization
+ 
+X-Ray Diffraction
+ 
+Electron Diffraction.
+ 
+Thermal Analysis
+ 
+Non-destructive testing of materials
+3. Computational Materials Engineering
+ 
+First principles calculations
+ 
+Molecular dynamics simulations
+ 
+Alloy Design
+4. Phase Transformations and Solidification
+ 
+Thermodynamics of phase transformations
+ 
+ Solid state phase transformations
+ 
+Solidification process
+ 
+Gating and riser design for casting
+ 
+Nucleation and growth
+5. Material Processing
+ 
+Light Metal and Alloys
+o Processing of light metals and alloys
+
+ 
+Additive manufacturing
+o Materials for additive manufacturing
+o Additive manufacturing methods
+o Structure-property control in additive manufacturing
+ 
+Thermo Mechanical Processing
+o Principles and applications of thermo- mechanical processing
+6. Microstructure Design and Mechanical Properties
+ 
+Effect of microstructure on mechanical properties
+ 
+Strengthening mechanisms
+ 
+High Temperature deformation
+ 
+Deformation behavior of ceramics and polymeric materials
+ 
+Theory of fracture mechanics
+ 
+Cyclic deformation of materials
+ 
+Creep-Fatigue interaction
+7. Electrochemistry and Corrosion
+ 
+Fundamentals of electrochemistry
+ 
+Forms of corrosion
+ 
+Corrosion Prevention methods
+ 
+High temperature oxidation
+ 
+Corrosion monitoring
+8. Ceramics and Composites
+ 
+Structural Ceramics
+ 
+Processing of ceramics
+ 
+Functional ceramics
+ 
+Metal Matrix Composites
+ 
+Polymer Matrix Composites
+ 
+Ceramic matrix composites
+
+Course
+Number Course Title L-T-P-D Credits
+MT7LXX0 Alloy Design : Computational Thermodynamic
+approach 3-0-2-0 4
+Course
+Number Course Title L-T-P-D Credits
+MT7LXX0 Mineral Engineering 3-0-0-0 3
+MT7LXX0 Iron and Steel Making 3-0-0-0 3
+MT7LXX0 Solidification Processing 3-0-0-0 3
+MT7LXX0 Industrial Waste: Control and Utilization 3-0-0-0 3
+Course
+Number Course Title L-T-P-D Credits
+MT7LXX0 Light Metals and Alloys 3-0-0-0 3
+MT7LXX0 Near Net Forming 3-0-0-0 3
+MT7LXX0 Powder Metallurgy 3-0-0-0 3
+MT7LXX0 Thermo Mechanical Processing 3-0-0-0 3
+MT7LXX0 Material Aspects in Additive Manufacturing 3-0-0-0 3
+Course
+Number Course Title L-T-P-D Credits
+MT7LXX0 Plastic Deformation and Microstructure Evolution 3-0-0-0 3
+MT7LXX0 Corrosion Engineering 3-0-0-0 3
+MT7LXX0 Introduction to Dislocations 3-0-0-0 3
+MT7LXX0 Mechanical Behavior of Materials 3-0-2-0 4
+MT7LXX1 Electron and Scanning Probe Microscopy 1-0-0-0 1
+MT7LXX2 Light Microscopy and Spectroscopic Techniques 1-0-0-0 1
+MT7LXX3 Diffraction and Thermal Analysis Techniques 1-0-0-0 1
+MT7PXX4 Materials Characterization Laboratory 0-0-2-0 1
+Course
+Number Course Title L-T-P-D Credits
+MT7LXX0 Ceramics 3-0-0-0 3
+MT7LXX0 Composites 3-0-0-0 3
+MT7LXX0 Polymers and their composites 3-0-0-0 3
+MT7LXX0 Principles of Engineering Material Selection 3-0-0-0 3
+List of Electives
+Following is the list of courses that can be offered to M.Tech. Students
+(E) ELECTIVE V: Functional Materials and Devices
+
+Title Metallurgical Thermodynamics and
+Kinetics Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–1–0 [4]
+Offered for M.Tech. and Ph.D. Type Compulsory
+DETAILED SYLLABUS FOR THE COMPULSORY COURSES
+
+Title Characterization of Minerals Metals
+and Materials Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech. 1st Year Type Compulsory
+Title Computational Materials
+Engineering Number MT7LXX0
+Department Metallurgical and Materials
+Engineering L-T-P [C] 3–0–2 [4]
+
+Offered for M.Tech. and Ph.D. Type Compulsory
+Title Phase Transformations in Solids Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech. and Ph.D. Type Compulsory
+
+Title Alloy Design : Computational Thermodynamic
+Approach Number MT7LXX0
+Objective
+1. Understanding the correlation between the phase diagram and chemical
+thermodynamics for alloy design.
+Learning Outcomes
+1. 
+Ability 
+to 
+construct 
+multicomponent 
+phase 
+diagrams 
+using 
+computational
+thermodynamic approach.
+2. Understand the variation of properties with the microstructure evolution during phase
+Course Content
+Thermodynamics and kinetics: free energy, order of transformation, driving force, 
+homogeneous 
+and 
+heterogeneous 
+nucleation, 
+growth 
+kinetics, 
+coarsening,
+precipitation. (8 Lectures) 
+Interfaces: atomic mechanisms of diffusion, activation energy, interfacial free energy, 
+types of interface (coherent, semi-coherent and incoherent interfaces), interface 
+migration. (6 Lectures) 
+Austenite, transformation of austenite, TTT diagram, eutectoid transformation, pearlite 
+and bainite transformation. (8 Lectures) 
+Martensite transformation: characteristics and nature, morphology, crystallography, 
+theory of nucleation and growth, and pre-martensite phenomena, martensitic 
+transformation in steel. (6 Lectures) 
+Precipitation hardening and spinodal decomposition: Solutionising and ageing, GP 
+zones, intermediate phases and structural changes, spinodal decomposition. (8 
+Lectures) 
+Order-disorder transformation: common structures in ordered alloys, variation of order 
+with temperature; determination of degree of ordering, effect of ordering on 
+properties, applications. (6 Lectures) 
+ 
+Laboratory Experiments: Hardenability measurement, Solid-liquid transformation, 
+Activation energy calculation, Heat treatment of ferrous metals, Precipitation 
+Hardening, TTT Diagram construction.
+Text Books
+1. Raghavan, V., Solid State Phase Transformations, 1st edition, Prentice Hall
+2. Porter, D.A., Easterling, K. E., and Sherif, M.Y., Phase Transformation in
+Metals and Alloys, 3rd edition, CRC Press, 2009.
+3. Abbaschian, R., Abbaschian, L., and Reed-Hill, R. E., Physical Metallurgy Principles,
+4th edition, Cengate Learning, 2009.
+Self-Learning Material
+1. Khachaturyan, A.G., Theory of Structural Transformations in Solids, 1st edition,
+Dover publications, 2008.
+2. Avner, S.H., Introduction to Physical Metallurgy, 2nd edition, McGraw Hill
+Online Course Material:
+1. 
+Gururajan, M.P., Phase Transformations and Heat Treatment, Indian 
+Institute of Technology Bombay, NPTEL 
+http://nptel.ac.in/courses/113101003/
+SYLLABUS FOR ELECTIVES OFFERED BY
+DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING:
+
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for M.Tech Type Elective
+
+Title Mineral Engineering Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Iron and Steel Making Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Solidification Processing Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Industrial Waste: Control and Utilization Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Light Metal and Alloys Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Near Net Forming Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+
+Course Title Powder Metallurgy Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+
+Course Title Thermo Mechanical Processing Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+
+Course Title Material Aspects in Additive Manufacturing Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P
+[C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+
+Title Plastic Deformation and Microstructure Evolution Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Corrosion Engineering Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Title Introduction to Dislocations Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Course Title Structure-Property-Correlation Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+
+Title Mechanical Behavior of Materials Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P-D
+[C] 3–0–2-0 [4]
+Offered for M.Tech. and Ph.D. Type Elective
+
+Title Ceramics Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+1. Norton, F.H., Elements of Ceramics, Addison-Wesley Press, 1952.
+2. Barsoum, M. and Barsoum, M.W., Fundamentals of Ceramics, CRC Press, 2002.
+3. Kingery, W.D., Bowen, H.K., and Uhlmann, D.R., Introduction to Ceramics, 2nd Ed., 1976.
+
+Title Composites Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+
+Course Title Polymers and Their Composites Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite None
+
+Course Title Principles of Engineering Material Selection Number MT7LXX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective

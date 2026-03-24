@@ -1,0 +1,38 @@
+welcome to faculty position the department of computer science and engineering at iit jodhpur invites applications for faculty positions at all levels
+candidates should have phd degree in cse or related field
+the candidates are expected to have excellent research track record and commitment towards teaching
+while we encourage candidates from all areas of cse to apply special emphasis will be given to the following areas algorithms quantum computation information security database systems data engineering cloud technologies edge and fog computing computer graphics animation augmented and virtual reality data visualisation computer vision human machine interface information retrieval artificial intelligence and machine learning natural language understanding software systems and engineering programming languages and compilers social and complex networks autonomous systems high performance computing parallel programming gpu programming distributed systems os and networking and systems sensors and iot
+about iit jodhpur iitj has sprawling campus of over acres with students and faculty members with the department of cse having faculty members
+the department coordinates the btech mtech and programs in cse and ai along with phd in cse
+more details about the department can be found at
+the institute also houses the technology and innovation hub on cv ar and vr
+any indian national pio or foreign national is eligible to apply
+the rules of government of india will be applicable for terms and conditions of the appointments
+we offer salary and benefits as per the norms of the central government
+benefits include relocation expenses leaves generous initiation grant phd student support on campus housing if available access to medical facilities access to sports facilities etc
+in case of any clarification candidates may reach out to
+interested candidates are encouraged to apply via
+why choose iit jodhpur opportunity to work with diverse group of very talented faculty members in diverse areas of computer science
+the department and the institute highly also encourage collaboration
+the department has computational facilities available in addition to the central facilities available with the institute
+some of the departmental facilities include multiple servers vanet lab and lab
+the server is computing system designed specifically for artificial intelligence ai and deep learning applications
+this server is equipped with nvidia tesla gpus which provide massive parallel processing power and memory to support machine learning models
+it comes with nvlink technology which enables fast inter connectivity between gpus as well as nvme storage system for efficient data processing
+with these capabilities the server can handle demanding ai workloads with ease making it an ideal resource for researchers and developers in the department
+the department also has several with nvidia and nvidia designed for individual use
+these workstations are equipped with powerful cpus storage and advanced gpus making them suitable for range of computational tasks including data analysis machine learning and scientific computing
+the department has several servers that are used for various purposes including web hosting database management and file storage
+these servers are equipped with powerful cpus and storage making them suitable for handling large amounts of data and serving multiple users simultaneously
+generous seed grant of rs
+lakhs for new faculty members to their research
+engage in the department growth by being part of designing the policies and course curriculum
+regular talks by leading experts in various disciplines
+location at the picturesque jodhpur campus close to mother nature
+freedom to organise events and activities for the advancement of your research in the community
+enthusiastic departmental staff members to handle requests
+opportunity to work with diverse group of very talented faculty members in diverse areas of computer science
+eligibility scale of pay selection procedure apply online important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb pm

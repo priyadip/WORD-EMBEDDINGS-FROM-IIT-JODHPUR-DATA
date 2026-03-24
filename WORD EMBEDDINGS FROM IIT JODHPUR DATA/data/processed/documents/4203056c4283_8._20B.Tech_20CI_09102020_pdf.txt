@@ -1,0 +1,204 @@
+introduction the rapidly urbanizing society and increasing quality of life demand reliable and intelligent infrastructure systems which are capable of catering to the societal needs at different scales from an individual to the community level
+through this undergraduate program in civil infrastructure engineering iit jodhpur is making stride to imagine the course structure that incorporates and integrates the elements of conventional civil engineering with advanced transformative technologies such as artificial intelligence ai cps digital twins dt and automated management and information systems
+additionally major thrust is also planned on the design implementation and maintenance of scale integrated infrastructure systems across different domains
+objective of the program to provide an expanded but holistic understanding of different civil and infrastructure systems and an understanding of the differences similarities and relations between different scales and components of it
+to produce graduates with an ability to integrate conventional methods with emerging technologies to design intelligent civil and infrastructure systems from multidisciplinary perspective
+to provide exposure to techniques such as iot machine learning big data physical systems and digital twin dt in the design and maintenance of different civil and infrastructure systems
+expected graduate attribute
+strong foundation in the analytical experimental and computational methods to study various aspects of civil and infrastructure systems
+thorough understanding of green and sustainable materials practices and principles to design resilient infrastructure systems
+an ability to understand problems related to air and water pollution solid waste management ecological and environmental degradation and their monitoring and remediation
+ability to adopt safe methodologies coupled with advanced technologies in the design and construction of civil and infrastructure systems
+ability to monitor and evaluate health of old structures and renovating to bring sustainability
+an understanding of the use of digital twins dt cps iot artificial intelligence ai in designing monitoring surveillance and security of infrastructures
+an innate ability to take multidisciplinary approach to problem solving and willingness to go beyond conventional paths
+strong understanding of structural engineering and its application in reinforced concrete prestressed concrete and steel structure design
+knowledge of geotechnical engineering for ground improvement and foundation
+knowledge of pavement design traffic planning and highway design for urban transport
+knowledge of critical experiments and advanced mathematical models for environmental engineering
+knowledge of gis and remote sensing for application in agriculture environment exploitation and constructing digital twin of built environment
+knowledge of smart and sustainable material and best practices for construction and infrastructure
+strong foundation in computational methods and artificial intelligence ai for application in various civil and infrastructure problems
+knowledge of advanced visualization techniques and digital twins for application in smart infrastructure
+knowledge of town planning logistics and layout engineering
+the following advanced and new skill sets have been targeted in the ug programme of civil and infrastructure engineering at iit jodhpur
+capability to design and develop smart infrastructure systems integrating systems and visualization techniques
+thorough understanding of geological and geotechnical engineering as applicable in infrastructure development natural disaster risk reduction and resilience and extraction
+knowledge of best practices methods and materials for sustainable infrastructure planning construction and management
+preliminary knowledge of monitoring evaluation restoration and renovation of existing and old infrastructures and maintenance
+area courses foundation courses probability spaces random variables estimation and test of hypothesis stochastic processes probability statistics and stochastic processes ls geometrical crystallography crystal structure imperfections of solids thermodynamics and kinetics forms of corrosion corrosion protection of bulk polymers viscoelasticity structure of materials corrosion polymers ie signal and systems frequency domain lti system applications signals and systems ie geotechnical engineering soil classification index and engineering properties of soils compaction and consolidation of soils shear strength of soils shallow and deep foundations earth retaining structures soil classification index and engineering geotechnical engineering pc
+topic clouds and mapping of topic clouds with proposed courses pc program core pe program elective vibration theory wave propagation cyclic introduction to soil dynamics pe water resources engineering water resources engineering pc construction and infrastructure construction technology and practices pc concrete materials strength durability batching mixing and transportation curing microstructure of concrete mix design admixtures quality control special types of concrete
+concrete technology pe urban and rural infrastructure planning risks infrastructure planning and management engineering pe environmental engineering environmental engineering climate and climate change convection climate change and impact specialization stream core photogrammetry multispectral remote sensing geoinformatics pc basics of microbiology kinetics and reactors the activated sludge process nitrification and denitrification phosphorus removal drinking water treatment anaerobic treatment by methanogenesis detoxification of hazardous chemicals bioremediation environmental biotechnology and bioremediation pe transportation engineering transportation engineering structural engineering stress and strain mechanical behaviour static mechanics of solids pc types of prestressing and prestressed concrete structure pe prefabrication materials modular coordination prefabricated structures review of structural dynamics structural health introduction to structural health monitoring pe smart infrastructure technology data structure and algorithm pc introduction to surveillance critical infrastructures building security and control surveillance and security of infrastructures pe design and simulation experiments for smart infrastructures design and simulation experiments for smart smart infrastructure design and simulation lab infrastructure systems power plant infrastructure planning and design hydroelectric infrastructure thermal energy infrastructure pipelines in power infrastructure nuclear energy infrastructure smart grid transmission and distribution
+introduction to power infrastructure engineering thermal energy infrastructure plant configuration repair and maintenance cooling risk assessment design of chimney power plant waste fly ash and its reuse flue gas desulfurization nuclear energy infrastructure project implementation radioactive waste and management facilities and basic infrastructure
+thermal and nuclear power infrastructure engineering pe fundamental elements of planning harbours infrastructure planning and design for ports and harbours pe course type course category regular
+cred total total credit credit total total institute core engineering ie science is humanities ih programme linked science ls programme core programme compulsory pc programme electives pe
+project pp open open electives oe engineering science engineering engineering science core ec engineering science core ec engineering science elective total graded humanities nh engineering ne experience total graded
+course categories and credit distribution in the proposed
+programmes type distribution of contact and beyond contact hours total credit tc contact hours ch beyond contact hours bch total hours th hour of lecture hr hr hour of tutorial hr hr hour of hr hr credit structure of
+programme no course name contact hours credit mechanics of solids transportation engineering fluid mechanics geoinformatics structural analysis environmental engineering geotechnical engineering geotechnical engineering lab water resources engineering reinforced concrete design smart infrastructure engineering advanced structural analysis construction technology and practices data structure and algorithm total
+list of programme compulsory courses area courses credit technology in infrastructure engineering building services intelligent buildings surveillance and security of infrastructures systems for infrastructure digital twin and asset management geotechnical engineering geology for civil engineers ground improvement techniques introduction to soil dynamics advanced geotechnical engineering environmental engineering air pollution and control mathematical modelling in environmental system industrial waste control and utilization environmental biotechnology and bioremediation transportation engineering highway geometric design pavement engineering traffic system and its urban transportation planning construction and infrastructure concrete technology infrastructure planning and management structural engineering steel structure design advanced structural design dynamics of structure
+programme elective pe courses finite element method prestressed concrete structures prefabricated structures earthquake engineering introduction to structural health monitoring water resources environmental hydrology engineering infrastructure systems introduction to power infrastructure engineering thermal and nuclear power infrastructure engineering infrastructure planning and design for rail and air transport infrastructure planning and design of ports and harbours it and telecom infrastructure green building and sustainable materials cat course ltp nc gc cat course ltp nc gc semester ii semester ie engineering mechanics ie introduction to electrical engineering is chemistry ie introduction to computer science is physics ie introduction to bioengineerin is chemistry lab is physics lab is mathematics is mathematics ii ie engineering visualization ie engineering realization ne engineering ne engineering design design ii nh communication nh communicatio nh social connect and responsibilities social connect nh social connect and and responsibilities responsibilitie nh performing arts nh performing total total iii semester iv semester ls probability stati stics and stochastic process ie structure of materials corrosion polymers ie thermodynamic pc mechanics of pc geoinformatics pc fluid ie introduction to machine learning ie signals and systems signals and ls introduction to analytical mechanics ih humanities ne intro
+to pc data structure profession and algorithm total total semester vi semester
+civil and infrastructure engineering regular pc transportation engineering pc water pc structural analysis pc reinforced pc environmental engineering pc smart pc geotechnical engineering pc advanced pc construction pc geotechnical technology and engineering practices lab ih humanities ii pe pen elective nh professional nh professional ethics ethics ii total total vii semester viii semester pp
+project ih humanities iv oe en electives pe oe pen electives ih humanities iii is environmental science total total total of graded credit credit design credits grand total no
+core courses course credits
+climate change and impact no
+electives course credits
+environmental biotechnology and bioremediation specialization project maximum credits
+systems for infrastructure
+in infrastructure engineering
+smart infrastructure design and simulation
+thermal and nuclear power infrastructure engineering
+surveillance and security of infrastructures
+digital twin and asset management
+introduction to power infrastructure engineering
+infrastructure planning and design for rail and air transport
+it and telecom infrastructure
+specialization project maximum credits
+with specialization the students can obtain departmental specialization after completing additional credits beyond the regular
+program credit requirement
+from the credits credits must be taken from core areas of that specialization and credits should be taken from the electives within that specialization
+tech with specialization in environmental engineering total credits core credits specialization electives ii
+with specialization in smart infrastructure title data structures and algorithms number cs2xx0 department computer science and engineering offered for of all branches type program core pc prerequisite introduction to computer programming
+detailed course contents title structure of materials number mtl2xx0 department metallurgical and materials engineering offered for
+type institute core engineering ie prerequisite title corrosion number mtl2xx0 offered for
+tech type institute core title polymers number chl2xx0 department chemical engineering offered for
+type institute core title introduction to machine learning number cs2xx0 department computer science and engineering electrical engineering offered for of all branches type institute core online course material
+introduction to machine learning nptel course material department computer science and engineering iit madras
+machine learning stanford university title probability statistics stochastic process number mal2xx0 department mathematics offered for bsbe cse ee ds ai che cie es type institute core title signals and systems number ee2xx0 department electrical engineering offered for type institute core title thermodynamics number mel2xx0 department mechanical engineering offered for all
+tech type institute core title introduction to analytical mechanics number phl2xxx department physics offered for of all branches type program linked science ls title fluid mechanics number chl2xx0 department mechanical chemical engineering offered for me ch type program compulsory pc title fluid mechanics lab number mep3xx0 department mechanical engineering offered for
+tech me type program compulsory pc prerequisite fluid mechanics title mechanics of solids number me2xx0 department mechanical engineering offered for type programme compulsory title geoinformatics number ci2xx0 department civil and infrastructure engineering offered for
+tech type program core pc
+srivastava an introduction to geoinformatics
+michael demers fundamentals of geographic information systems ed
+lillesand kiefer chipman remote sensing and image interpretation ed
+johnson geographic information systems in water resources engineering
+tomaszewski geographic information systems gis for disaster management
+myer kutz ed
+applications of gis in transportation
+in book handbook of
+arun saraf introduction to geographic information system
+arun saraf introduction to remote sensing
+rishikesh bharti remote sensing and gis
+title geotechnical engineering number ci2xx0 offered for cie type program compulsory pc title geotechnical engineering laboratory number ci2xx0 department civil and infrastructure engineering offered for cie type program compulsory pc title environmental engineering number ci2xx0 department civil and in engineering offered for
+tech cie type program compulsory
+stull practical meteorology an survey of atmospheric science version
+of british columbia
+burton tchobanoglous stensel wastewater engineering treatment and reuse
+george tchobanoglous hilary theisen samuel vigil integrated solid waste management engineering principles and management issues series in water resources and environmental engineering title smart infrastructure engineering number ci2xx0
+infrastructure report card comprehensive assessment of america infrastructure
+title construction technology and practices number ci2xx0 department civil and infrastructure engineering offered for
+tech cie type program concrete concrete slump test day strength air content of concrete by pressure method determination of unit weight of concrete bitumen penetration test ductility test viscosity test softening point test flash and fire point test miscellaneous test for pavements determination of bitumen content by centrifuge extractor determination of marshall stability value determination of rebound deflection of pavement by benkelman beam text books
+gambhir and neha jamwal building materials tata mcgraw hill
+huntington building construction john wiley new york
+dutta estimating and costing in civil engineering theory and practice
+ubs distributors pvt
+srinath an introduction to project management tata mcgraw hill additional references
+rangwala engineering materials charotar publishing house anand
+punmia building construction laxmi publications new delhi
+quantity surveying and valuation
+mazda engineering management adison wesley longman ltd
+title transportation engineering number ci2xx0 offered for
+tech cie type program compulsory pc
+chakroborty animesh das
+second edition phi learning private limited
+traffic engineering and transport planning
+title water resources engineering number ci2xx0 todd and mays ground water hydrology john wiley india edition chow maidment and mays
+james and lee
+economics of water resources planning
+book new york
+irrigation engineering and hydraulic structures
+khanna publishers delhi
+linsley franzini freyberg and tchobanoglous water resources engineering mcgraw hill singapore
+prentice hall englewood cliffs new jersey
+title structural analysis number ci2xx0 offered for
+cie type pc experimentally determining the elastic properties of an elastic beam
+experimental and analytical study of defections in cantilever beam
+to study the behaviour of struts and columns with various support end conditions
+determination of the deflection of pin connected truss through analytical graphically and experimental calculations
+determine the horizontal thrust in three hinged arch for given system of loads experimentally and verify it with theoretical calculations
+experimental and analytical study of sway in portal frame
+title reinforced concrete design number ci2xx0 offered for
+cie type program core pc prerequisite structural analysis
+varghese limit state design of reinforced concrete ed prentice hall of india
+gupta reinforced concrete ed tata publishing isbn
+design of reinforced concrete structures by nirjhar dhang on nptel
+laboratory contents introduction of computer applications in the structural design
+design of beam balanced doubly reinforced using computer applications
+design and detailing of slabs and columns walls footing etc
+modelling analysis and design of framed structure
+determination of the compressive strength of concrete
+strength and deflection testing of simply supported rcc beam
+testing of rcc columns for strength subjected to concentric and eccentric loading conditions
+testing rebound hammer test for concrete ultrasonic pulse velocity test for concrete rebar detector test for reinforcement etc
+title advanced structural analysis number ci2xx0
+menon structural analysis ed narosa publications
+norris utku elementary structural analysis mcgraw hill new york
+advanced structural analysis by devdas menon laboratory introduction of computer applications in structural analysis
+create and analyze models to determine the shear force bending moment deflection diagrams for statically indeterminate beams
+create and analyze models to determine the shear force bending moment deflection diagrams for portal frames
+create and analyze models to determine the shear force bending moment deflection diagrams for multi storeyed buildings
+determine shear force bending moment deflection diagrams for frames using approximate methods
+modelling and analysis of structures
+title steel structure design number ci4xx0 department civil and infrastructure engineering offered for
+cie type program elective pe
+duggal limit state design of steel structures ed mcgraw hill publication
+sai ram design of steel structures ed pearson education
+shiyekar limit state design in structural steel ed prentice hall of india pvt
+isbn design of steel structures by
+satish kumar and
+santha kumar on nptel
+title advanced structural design number ci7xx0 offered for
+cie tech cie type pe prerequisite reinforced concrete design title dynamics of structure number ci4xx0 offered for
+cie type pe dynamics by pradipta banerji title finite element method number ci7xx0 offered for
+cie tech cie type program elective pe title earthquake engineering number ci7xx0 offered for
+cie tech cie type program elective pe title concrete technology number ci4xx0 department civil and infrastructure engineering determination of compressive strength of cement
+determination of soundness of cement by apparatus
+workability tests slump cone test compaction factor test consistometer and flow test
+determination of compressive strength of concrete specimens
+title prestressed concrete structures number ci7xx0 title prefabricated structures number ci7xx0 engineering title highway geometric design number ci4xx0 traffic engineering and transportation planning khanna publications
+chai toh julio sanguesa juan cano and francisco martinez
+advances in smart roads for future smart cities
+title pavement engineering number ci4xx0 title traffic system and its number ci4xx0 title urban transportation planning number ci4xx0 title geology for civil engineers number ci4xx0 offered for
+tech cie type program elective pe hunt geologic hazards field guide for geotechnical engineers
+crc press taylor francis group
+debasis deb engineering geology
+title ground improvement techniques number ci4xx0 offered for cie type program elective pe title introduction to soil dynamics number ci4xx0 title advanced geotechnical engineering number ci7xx0 offered for cie tech cie type program elective pe prerequisite geotechnical engineering pc title air pollution and control number ci7xx0 offered for cie tech cie type program elective pe aerosol behavior and measurement of airborne particles hinds john wiley and sons second edition
+introduction to air pollution science phalen and phalen jones bartlett learning llc burlington ma
+aerosol measurement principles techniques and applications edited by willeke baron van online course material title industrial waste control and utilization number mt7lxx0 department metallurgical and materials engineering offered for tech cie cie type program elective title surveillance and security of infrastructures number ci7xx0 department civil and infrastructure engineering offered for
+tech cie type program elective title digital twin and asset management number ci4xx0 offered for
+tech cie type program elective
+luhmann robson kyle boehm photogrammetry and imaging ed
+cyganek object detection and recognition theory and practice
+farsi daneshkhah jahankhani
+digital twin technologies and smart cities
+title systems for infrastructure number ci4xx0 title in infrastructure engineering number ci7xx0 offered for
+tech tech cie type program elective prerequisite mathematics mathematics ii title mathematical modelling in environmental systems number ci7xx0 offered for
+tech tech cie type program elective title intelligent buildings number ci7xx0 title building services number ci7xx0 title environmental biotechnology and bioremediation number bbl7xx0 department bioscience and bioengineering offered for
+tech cie type program elective pe title environmental hydrology number ci7xx0 offered for
+tech cie type program elective pe derive approximate flow effectiveness of trapezoidal notch of base and surface with height of using openflow flow master and compare the results with channel design and channel studio
+use epanet to evaluate water distribution of community of households with an average consumption of litres of water per day living at height of from ground level
+these households are supplied water from high tank using given distribution plan
+refer lecture notes for the approximate length of find the energy expense for distributing the water if the water tank is having diameter and height
+environmental hydrology andy ward stanley trimble suzette burckhard john lyon crc press third edition
+title introduction to structural health monitoring number ci4xx0 title infrastructure planning and management number ci4xx0 department civil and infrastructure engineering title introduction to power infrastructure engineering number ci4xx0 title thermal and nuclear power infrastructure title infrastructure planning and design for rail and air transport number ci4xx0 title infrastructure planning and design of ports and harbours number ci4xx0 prerequisite title it and telecom infrastructure number ci4xx0 title green building and sustainable materials number ci7xx0 offered for
+tech cie type program elective pe closing materials loops distinguishing between green building products and green building materials lca of building materials and products environmental product declaration materials and product certification systems emerging construction materials and products design for deconstruction
+isbn newman and ban sang choo advanced concrete materials ed elsevier
+kubba leed practices certification and accreditation handbook ed elsevier
+additional reference ministry of power energy conservation building code revised version bureau of energy efficiency indian building congress practical handbook on energy conservation in buildings st ed
+green design practices sartori and hestnes energy use in the life cycle of conventional and buildings review article energy and green building basics california integrated waste management board catarina thormark
+low energy building in life embodied energy energy need for operation and recycling potential building and
+noc energy efficiency acoustics and daylighting in building by bhattacharjee on nptel
+title smart infrastructure design and simulation number ci5xx0 department civil and infrastructure engineering offered for cie type program compulsory pc for specialization title transmission infrastructure number ee7xx0 department electrical engineering offered for tech type sse title fate of chemicals in the environment number ci7xx0 department civil and infrastructure engineering offered for cie type specialization stream elective prerequisite chemistry flow mechanics soils title climate change and impact number ci7xx0 department civil and infrastructure engineering experience on installation of global climate model and performing simulations to compare the model output climate variables and emissions under different representative concentration pathways rcps with existing emission inventories
+group report on scientific evidence for anthropogenic climate change atmospheric chemistry and from air pollution to climate change seinfeld and pandis john wiley and sons third edition
+fundamentals of atmospheric modeling marck jacobson cambridge university press second edition
+atmosphere ocean and climate dynamics john marshall and alan plumb elsevier academic press
+online course material title remote sensing and gis for environment management number ci7xx0 offered for type specialization stream elective to perform site suitability analysis for service building example hospital near to an agricultural and inhabited land near an arid village at the edge of an oasis near jodhpur
+basic experiments on image sharpening and image resolution using erdas imagine processing tool
+john jenkins remote sensing of the environment an earth perspective lillesand kiefer
+reference books floyd sabins remote sensing principles and applications edition publisher waveland press edition print isbn etext isbn gopi sathikumar and madhu advanced surveying total station gis and remote sensing pearson dorling kindersley india
+title solid waste management number ci7xx0 offered for tech type specialization stream title advanced wastewater treatment number ci7xx0 department chemical engineering ii civil and infrastructure engineering offered for type programme elective for chemical engineering ii specialization stream elective for environmental engineering henze ekama
+tiwari wastewater treatment and recycling nptel course material department of civil engineering iit kharagpur title environmental economics and department civil and infrastructure ii school of management and entrepreneurship title environmental impact assessment number ci7xx0 department chemical engineering civil and infrastructure offered for cie type programme elective for chemical engineering ii specialization stream elective for environmental title machine learning for environmental prerequisite statistics for environmental machine mitchell tom
+machine learning tata online course material self learning material department of computer science stanford university title geomorphology number ci7xx0 anthony parsons abrahams geomorphology of desert environments
+isbn goudie eds
+title gis and public health number ci7xx0

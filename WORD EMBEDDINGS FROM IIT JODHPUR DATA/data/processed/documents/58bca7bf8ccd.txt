@@ -1,0 +1,10 @@
+departmental seminar by somanka maiti on august at pm speaker somanka maiti title of talk fundamentals of digital image processing abstract in this presentation will be discussing some fundamentals of digital image processing dip and its applications
+primarily will be focusing on the image restoration process
+will talk about some noise models and their noise removal techniques
+in today scenario image processing is one of the fields
+the basic idea is to convert raw image into digital form and perform some operations on it to obtain any helpful information from it or get an enhanced image
+date and time pm on aug monday speaker somanka maiti title of talk fundamentals of digital image processing abstract in this presentation will be discussing some fundamentals of digital image processing dip and its applications
+date and time pm on aug monday important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

@@ -1,0 +1,223 @@
+SOURCE_PDF: 7fc78f884139_List_20of_20Institute_20wide_20common_20courses_20and_20course_20contents_20from_202nd_.pdf
+
+Course Name Offered for
+Programme Offering
+Semester Offering
+Department
+1 Data Structures and Algorithms
+(Programme Core for all Depts.) EE, CS, AI, ES III CS
+BB, ME, CI, CH, MT IV
+2 Introduction to Machine Learning BB, ME, CI, CH, MT III CS/EE
+3 Pattern Recognition and Machine
+Learning EE, CS, AI, ES IV CS
+4 Signals and Systems EE, CS, AI, ES, BB III EE
+5 Thermodynamics EE, ME, CI, CH, MT III ME
+6 Probability, Statistics and Stochastic
+Processes EE, CS, AI, ES, BB,
+CI, CH III MA
+7 Scientific Computations ME, MT III MA
+8 Condensed Matter Physics MT III PH
+9 Foundations of Quantum Information
+Processing EE, CS, AI III PH
+10 Metrology + Statistical Mechanics ME III PH
+11 Physics of Complex Liquid CH III PH
+12 Analytical Mechanics CI III PH
+13 Nanoscience BB III CY
+14 Modern Physics ES III PH
+15 Design and Analysis of Experiments ES IV MA
+16 Embedded Systems and IoT ES IV EE
+17 Modelling and Simulation ES IV EE/ME
+18 Introduction to Profession All III UCRC
+List of Institute wide common courses and course contents
+
+19 Professional Ethics I All V HS
+20 Professional Ethics II All VI HS
+21 Environmental Science All VII CI
+Fractal Name Offered for Offering
+Semester Offering Department
+1 Electronic Materials CS, AI IV PH
+2 Magnetic Materials EE III PH
+3 Energy Materials EE, CS, AI III MT
+4 Computational Material
+Design EE, CS, AI, ES III MT
+5 Polymers MT, CH, CI, BB,
+MT IV CH
+6 Materials Selection ME, BB, ES IV MT
+7 Structure of Materials ME, BB, CI, ES IV MT
+8 Physical Metallurgy ME, MT IV MT
+9 Corrosion CH, CI, MT IV MT
+10 Suspensions and colloids CH IV CY
+
+Title Data Structures and Algorithms Course No. CSxxx
+Department Computer Science and Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech of all branches Type Compulsory
+Prerequisite Introduction to Computer Programming
+
+Course Title Introduction to Machine Learning Course No. CS2xx
+Department CSE/EE Structure (L-T-P-C) 3-0-2
+Offered for B.Tech (all other branches) Type Compulsory
+Prerequisite Introduction to Programming
+Course Title Pattern Recognition and Machine
+Learning Course No. CSL2xx
+
+Department Computer Science and Engineering Structure (L-T-P
+[C]) 3-0-2
+Offered for B.Tech (CSE, AI&DS, EE) Type Compulsory
+Prerequisite Introduction to Computer Sc.,
+Probability, Statistics and Stochastic
+Processes Antirequisite Introduction to Machine
+Learning
+
+Title Signals and Systems Number EEL2XX
+Department Electrical Engineering L-T-P [C] 3–1–0 [4]
+Offered for B. Tech. Type IE
+
+Title Thermodynamics Number MEL2XX0
+Department Mechanical Engineering L-T-P [C] 3–1–0 [4]
+Offered for All B.Tech (ME) Type Compulsory
+
+Title Probability, Statistics & Stochastic
+Processes Number MAL2XX0
+Department Mathematics L-T-P-D [C] 3-1-0-0 [4]
+Offered for B.Tech BSBE, CSE, EE, DS&AI, CHE, CIE, ES Type Program
+Compulsory
+
+Title Scientific Computations Number MAL2XX0
+Department Mathematics L-T-P-D
+[C] 3-0-2 [4]
+Offered for B.Tech ME, MT Type Compulsory
+Title Introductory Condensed Matter Physics Number PH2XXX
+
+Department Physics L-T-P [C] 3-0-0 [3]
+Offered for B. Tech. Type
+Pre-requisite None
+
+Title Foundations of Quantum Information
+Processing Number PH2XXX
+Department Physics/Chemistry L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type
+
+Title Metrology Number PH2XXX
+Department Physics L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type
+
+Title Statistical Mechanics Number PHL2XXX
+Department Physics L-T-P [C] 2–0–0 [2]
+Offered for B.Tech. Type
+
+Title Physics of Complex Fluids Number PHL2XXX
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type
+
+Course Title Introduction to Analytical Mechanics Course No PHL2XXX
+Department Physics L-T-P [C] 3-0-0 [3]
+Offered for B.Tech Type
+Pre-requisite None
+
+Title Nanoscience Number CYL2XX0
+Department Chemistry L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type SLE
+Prerequisite None
+
+Course Title Modern Physics Course No PH2XXX
+Department Physics L-T-P-C 3-0-0 [3]
+Offered for B. Tech Type
+
+Title Design and Analysis of
+Experiments Number MAL4X00
+Department Mathematics L-T-P [C] 3-0-0
+Offered for B.Tech. Type Compulsory
+Prerequisite Basic Probability & Statistics
+
+2. Morris, M.D., (2011), Design of Experiments: An Introduction Based on Linear Models, CRC
+Press
+Online Course Material
+1. Maiti, J., Design and Analysis of Experiments, NPTEL Course Material, Department of
+Industrial 
+and 
+System 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology
+
+Title Embedded Systems and IoT Number EEL2XXX
+Department Electrical Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech. ES Type Compulsory
+Prerequisite Basic Electrical Engineering
+
+Title Modelling and Simulation Number ESXX0
+Department Electrical Engineering, Mechanical engineering, Computer
+Science Engineering L-T-P [C] 3–0–2[3]
+Offered for B.Tech. Type Elective
+Title Professional Ethics I Number
+
+Department Humanities and Social Sciences L-T-P [C] 0-1-0[1]
+Offered for UG Type Compulsory
+Prerequisite Nil
+
+Title Professional Ethics II Number
+Department Humanities and Social Sciences L-T-P [C] 0-1-0[1]
+Offered for UG Type Compulsory
+Prerequisite Nil
+
+Title Introduction to Profession Number XX2XX
+Department All L-T-P [C] 0–0–2 [1]
+Offered for B. Tech. Type IE
+Title Environmental Science Number CIL4XX0
+Department Civil and Infrastructure Engineering L-T-P [C] 2-0-0[2]
+
+Offered for B.Tech. Type
+
+Title Energy Materials Number MTL2XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Institute Core
+(IE)
+Prerequisite Not Required
+
+Title Computational Materials Design Number MTL2XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Institute Core
+(IE)
+Prerequisite -
+
+Title Polymers Number CHL2XX0
+Department Chemical Engineering L-T-P [C] 1-0-0 [1]
+Offered for B.Tech. Type Institute Core (IE)
+Prerequisite -
+Title Materials Selection Number MTL2XX0
+
+Department Metallurgical and Materials Engineering L-T-P [C] 1-0-0 [1]
+Offered for B.Tech. Type Institute Core
+(IE)
+Prerequisite -
+Title Structure of Materials Number MTL2XX0
+
+Department Metallurgical and Materials Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Institute Core (IE)
+Prerequisite -
+
+Title Physical Metallurgy Number MTL2XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Institute Core (IE)
+Prerequisite -
+
+Title Corrosion Number MTL2XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Institute Core (IE)
+Prerequisite -
+
+Title Electronics Materials Number PHL2XXX
+Department Physics L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Elective
+Prerequisite Basic knowledge of Electromagnetism
+
+Title Magnetic Materials Number PHL2XXX
+Department Physics L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Elective
+Prerequisite Basic knowledge of Electromagnetism
+
+Title Colloids and Suspensions Number CYL2XX1
+Department Chemistry L-T-P [C] 1–0–0 [1]
+Offered for B.Tech. Type Elective

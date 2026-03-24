@@ -1,0 +1,51 @@
+SOURCE_PDF: 3af29246a43a_btech_ee.pdf
+
+Cat. Course Title L-T-P Credits Cat. Course Title L-T-P Credits
+I Semester II Semester
+H ME111 System Exploration--Drawing 3-0-3 4 H ME121 System Exploration--Workshop 3-0-3 4
+H CS111 Computer Programming 3-1-3 5 H EE121 Basic Electronics Engineering 3-1-3 5
+B MA111 Linear Algebra and Calculus 4-1-0 5 H ME122 Engineering Mechanics 3-1-3 5
+B PH111 Electromagnetism and Optics 3-1-3 5 B MA121 Complex Analysis & Differential
+Equation 4-1-0 5
+C EE111 Physics of Semiconductor Devices 3-0-0 3 C EE122 Electromagnetic Theory 3-1-0 4
+L HS111 English/Foreign Language 3-0-0 3 L HS121 Right, Responsibilities, Law and
+Constitution 3-0-0 3
+S PE111 Physical Exercises I 0 S PE121 Physical Exercise II 0
+Total 31 25 Total 32 26
+III Semester IV Semester
+H EE211 Basic Electrical Engineering 3-1-3 5 H EE221 Electrical Machines 3-0-3 4
+B CY211 Chemistry 3-0-3 4 B MA221 Probability Statistics and Random
+Processes 4-1-0 5
+B ME211 Thermodynamics 3-1-0 4 C EE222 Digital Logic and Design 3-0-3 4
+C EE212 Circuit Theory 3-1-0 4 C EE223 Power System 3-0-3 4
+C EE213 Signals and Systems 3-1-0 4 P EE298 B.Tech. Project 0-0-9 3
+L HS211 Principles of Economics 3-0-0 3 L HS221 Principles of Management 3-0-0 3
+Total 28 24 Total 35 23
+V Semester VI Semester
+C EE311 Power Electronics 3-0-3 4 C EE321 Contemporary Communication
+System 3-1-3 4
+C EE312 Microprocessors and Microcontrollers 3-0-3 4 C EE322 Digital Signal Processing 3-1-0 4
+C EE313 Communication System 3-1-0 4 C EE323 Microwave Engineering 3-0-0 3
+C EE314 Analog Electronics 3-1-0 4 C EE324 Control Systems 3-0-3 4
+P EE398 B.Tech. Project 0-0-9 3 P EE399 B.Tech. Project 0-0-12 4
+L HS311 Principles of Psychology 3-0-0 3 L HS321 Culture, Art and Heritage 3-0-0 3
+Total 32 22 Total 32 22
+VII Semester VIII Semester
+E Elective 3-0-0 3 E Elective 3-0-0 3
+E Elective 3-0-0 3 E Elective 3-0-0 3
+E Elective 3-0-0 3 E Elective 3-0-0 3
+P EE498 B.Tech. Project 0-0-21 7 P EE499 B.Tech. Project 0-0-21 7
+L HS411 Leadership 3-0-0 3 L HS421 Role of Technology in the
+Development of India 3-0-0 3
+Total 33 19 Total 33 19
+GRAND TOTAL 256 180
+S. No. Category Course Category Title Total Courses Total Credits
+1 H Hands-on Experience 7 32
+2 B Basics 6 28
+3 C Compulsory 14 54
+4 E Electives 6 18
+5 P Hands-On Project 5 24
+6 L Life Skills 8 24
+7 S Games & Sports/Social Service 2 0
+Total 48 180
+Curriculum

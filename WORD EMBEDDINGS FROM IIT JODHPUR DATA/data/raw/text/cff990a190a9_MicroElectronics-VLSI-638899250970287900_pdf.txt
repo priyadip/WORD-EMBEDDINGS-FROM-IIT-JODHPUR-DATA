@@ -1,0 +1,34 @@
+SOURCE_PDF: cff990a190a9_MicroElectronics-VLSI-638899250970287900.pdf
+
+Cat. Course Number, Course Title L-T-P Credits Cat. Course Number, Course Title L-T-P Credits
+I Semester II Semester
+C EEL7XX0 Solid State Devices 3-0-0 3 C EEL7XX0 IC Technology 3-0-2 4
+C EEL7XX0 Digital VLSI Design 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+C EEL7XX0 Analog IC Design 3-0-2 4 E EEL7XX0 Elective 3-0-0 3
+E EEL7XX0 Elective 3-0-0 3 E EEL7XX0 Elective 3-0-0 3
+NG1 HSN7XX0 Non-Graded I 1-0-0 S/X NG2 HSN7XX0 Non-Graded II 1-0-0 S/X
+Total 13 Total 13
+III Semester IV Semester
+T EET8XXo Thesis 16 T EET8XX0 Thesis 16
+Total 16 Total 16
+S.No. Course Number Course Title
+1 EEL7xxo Flexible and Printed Electronics 3-0-0 3
+2 EEL7xx0 Semiconductor Device Characterization 3-0-0 3
+3 EEL7XX0 Physics and Modelling of MOS Transistors 3-0-0/2-0-2 3
+4 EEL7xx0 Introduction to Electronics Packaging 3-0-0 3
+5 EEL7xx0 VLSI Broadband Communication Circuits 3-0-0 3
+6 EEL7XX0 Radio Frequency Integrated Circuit Design 3-0-0 3
+7 EEL7XX0 Signal and Power Integrity 3-0-0 3
+8 EEL7XX0 Hardware Design for Artifciial Intelligence 3-0-0 3
+9 EEL7XX0 SoC Testing & Verifciation 3-0-0 3
+10 EEL7XX0 In-memory computing 3-0-0 3
+11 EEL7XX0 Mixed Signal Circuit Design 3-0-0 3
+S.No. Category Course Category Title Total Courses Total Credits
+1 C COMPULSORY 4 14
+2 E ELECTIVES 4 12
+3 T Thesis 2 (16+16) 32
+Total 58
+Curriculum
+in
+MicroElectronics
+VLSI

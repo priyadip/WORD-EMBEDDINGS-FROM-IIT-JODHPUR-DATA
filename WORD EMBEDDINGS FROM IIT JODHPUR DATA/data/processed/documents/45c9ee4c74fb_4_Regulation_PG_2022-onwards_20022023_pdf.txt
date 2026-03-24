@@ -1,0 +1,508 @@
+academic programmes rules regulations for students enrolled from july onwards indian institute of technology jodhpur
+introduction academic programmes at indian institute of technology jodhpur are designed to develop the highest calibre human resource capable of understanding the new patterns of knowledge creation across disciplines obliterating traditional boundaries between science humanities social sciences and engineering
+iit jodhpur aims to produce quality professionals who would be able to address profound and societal challenges of the century such as energy food water housing mobility and health
+in addition to imparting scientific knowledge iit jodhpur endeavours to inculcate human qualities of courage integrity fairness humility and team effort among its graduates through curricular and activities on campus
+the academic programmes focus on developing temper for the life long process of learning creative thinking and exploring
+the postgraduate academic programmes focus on developing deep understanding of the subject of study coupled with creative inquisitiveness and the ability to address and solve new problems with free and objective mind
+the academic programmes are based on three tenets of semester system credit system and relative grading
+these academic programmes are administered by duly constituted academic committee ac through the office of academics
+the ac will be chaired by dean academics
+in the absence of dean academics associate dean pg dean ug will discharge the responsibilities of dean academics
+the senate of the institute has formulated set of guidelines and rules to ensure high standard of performance as well as for smooth functioning of the academic programmes
+within this broad set of guidelines subject to the approval of senate different programmes can include additional academic requirements as deemed necessary for that programme
+these academic programmes are continuously monitored by the senate and make appropriate improvements as and when necessary
+academic session the academic session normally runs from the end of july in one year to the middle of july in the next year
+the academic session is divided into three parts two regular semesters and summer term as per the following timelines semester from the fourth week of july to the last week of november semester ii from the last week of december to the last week of april summer term from the middle of may to the middle of july
+excluding the days of the examinations the total number of days of instruction in semester is at least
+academic calendar the academic calendar gives the exact dates of all important events during the academic session such as orientation registration the commencement of classes adding and dropping of courses submission of documents examinations submission of grades project evaluation declaration of results recess and vacation
+this calendar is approved by the senate
+registration students are required to register for prescribed credits as per the programme on the dates specified in the academic calendar
+if the student does not register by the date of registration can register by paying the fine and register before the date of late registration
+provisional registration fresh student joining the institute who is awaiting the final results of the qualifying examination is allowed to register provisionally on submission of certificate from last institute stating that has appeared in the final examination of the qualifying degree
+the student is required to submit documents of having passed the qualifying examination by the last date given in the academic calendar for the registration to be regularized
+late registration if the student does not register by the date of late registration as mentioned in the academic calendar will be deregistered
+the appeal against deregistration may be made to chairman senate through dean academics
+the chairman senate may permit the continuation of registration on payment of an appropriate fine
+adding and dropping of courses student may add or drop course with approval of the faculty advisor till the last date of registration
+course code descriptions ofefring course type level of courses unique identifciation number indicates fractal categories see table see table see table this code will be given centrally by the ofcfie of academics regular fractal fractal fractal withdrawing from course after the last date of student will have the option of withdrawing from course
+the last date of course withdrawal will be typically within four weeks from the beginning of the semester as specified in the academic calendar
+the withdrawn course will be mentioned in the student grade card with letter grade
+cancellation of semester registration absence for period of four or more weeks during semester shall result in automatic cancellation of the registration of student from all the courses in that semester
+summer course registration department may offer summer courses to enable the students to clear their backlog courses regular credit courses
+course will run during summer provided faculty member is available for running the course
+the course is offered on approval of the associate dean
+teaching and evaluation teaching medium of instruction the medium of instruction is english
+course structure all courses have associated credits
+credits of course is based on the number of contact hours for lectures tutorials and practicals
+student on successful completion of the course with passing grade will earn an equivalent number of credits
+based on the required academic maturity level of students for attending course course is assigned level
+course can consist of independent components which can be completed independently
+these components are called fractals
+course is identified by unique number
+following tables define all parameters related to the course numbering scheme
+table course code description note examples of course codes course title course code regular course engineering mechanics fractal course robotics fractal robot modelling fractal motion planning and programming fractal robot control type me mechanical engineering cs computer science and engineering ee electrical engineering ci civil and infrastructure engineering ch chemical engineering bb bioscience and bioengineering mt metallurgical materials engineering cy chemistry ma mathematics ph physics hs humanities and social science dh digital humanities ss space science and technology io internet of things and applications rm robotics and mobility systems qc quantum information and computation sh smart healthcare ms school of management entrepreneurship ai school of artifciial intelligence data science sl school of liberal arts oa ofcfie of academics os ofcfie of students course type category lecture courses other than lecture hours these courses can have tutorial and practical hours
+practical practice based courses where performance is evaluated primarily on the basis of practice practical or laboratory work with ltp structures such as etc
+project based courses
+major minor mini projects core component thesis seminar courses independent study product realization engineering design graded and table departmental code table types for courses level category credit requirements courses for
+cr preparatory courses of
+programmes not open to
+cr courses for
+cr with cgpa
+cr cr advanced courses for
+and programmes an level course should have level course as
+cr cr table level of courses category and credit requirements approval of courses the senate approves each course along with its weight in terms of credits
+only the approved courses may be offered during any term
+list of courses the list of courses to be offered in program is finalized before the beginning of the semester by the department hosting that program
+categories of courses courses offered can be from one of the following categories regular course regular course has hours of classroom engagement per credit
+regular course can be under elective or categories
+elective courses of or level will run if minimum of students register for the course
+or level elective course can run with minimum of registered students
+course not running as regular course may be offered as course as per the following section
+course course will be from the list of courses approved by the senate
+the main features of course are as follows student may be allowed to register for an elective course as course provided that the course is not running in that semester as regular course or student is not on campus during the course with prior approval of the competent authority
+student may also be permitted to register for core or program compulsory course in mode provided has failed in it earlier and the course is not being offered as regular course during that semester or student is not on campus during the course with prior approval of the competent authority
+students should apply for course with the appropriate recommendation of course coordinator and program committee
+the final sanction of course to student is made by the dean academics
+formal classroom engagement may not be there for course but laboratory design and computation exercises will be conducted if they form an integral part of the course
+the course coordinator conducts the assessment as per the evaluation norms for the award of letter grade at the end of the semester
+not exceeding of the total graded credit can be opted as course
+course will appear with the approved course title on the transcript
+independent study course independent study enables student to pursue course credit on an academic topic of interest under the supervision of faculty member
+the term independent does not mean not involving an instructor but independent of regular class engagement
+and having sense of own direction and goals are fundamental requirements of an independent study course
+student having cgpa more than or equal to can opt for independent study courses with the recommendation of the supervising professor
+the main features of an course are as follows student may be permitted to register for topic of interest as an course not exceeding credits in mode at most once during the program
+such an independent study course will be counted toward open elective requirements of the program and will appear with the title independent study on the transcript
+students should apply for an independent study course with the appropriate recommendation of course coordinator and program committee
+the final sanction of an course to student is made by the dean academics
+normally no formal lectures will be held for an independent study course but laboratory the course will be arranged planned and managed by supervising professor
+conduct of courses each course is conducted by the instructor with the assistance of the required number of tutors as needed
+the instructor is responsible for conducting the course evaluating the performance of students awarding the grades at the end of the semester and transmitting the grades as per subsection
+the student shall have access to answer paper of all the written examinations conducted for given course which may be shown to by the instructor concerned
+the instructor must keep all evaluation records in his custody at least for the next six months
+course approved by the senate of iit jodhpur can be conducted through either direct contact ii synchronized remote contact iii guided study mode or combination of these
+in direct contact mode coordinator or instructor will have physical interaction with the students
+synchronized remote contact mode would require the faculty the students to be concurrently connected to the interaction via electronic conferencing involving both audio and video communication
+however there has to be direct interaction between faculty and students for limited hours typically of the stipulated contact hours
+in guided study mode faculty would guide single or group of students to take up study of an approved course via and contact sessions
+this mode can be also adopted for enabling student to take up study of new course not yet approved by the senate under supervision of faculty
+all formal evaluation components applicable to courses being run through any one of the modes will be conducted under direct physical supervision of faculty
+all laboratory components of course requiring use of specialized facility will be conducted through direct contact
+teaching assignments the instructors and tutors for all courses to be offered during the semester are allocated by the head of the department hosting the program
+when faculty members of other departments are also required to participate in teaching particular course the allocation shall be done in consultation with the head of that department
+auditing of courses student may audit course in addition to the prescribed academic load requirement with the permission of dean academics on the recommendations of the instructor of the course being audited and the faculty advisor
+under this arrangement the course will be listed in the grade card of the student
+attendance requirements student should have full attendance in each course
+unless the student takes leave of absence for valid reasons the student has to attend every lecture tutorial or lab session
+the attendance records must be made available to the student after every lecture
+even if the student attendance falls below the student will be allowed to appear for the exams
+students not meeting the attendance criterion of will be required to score at least grade to pass course
+these students would be awarded grade if their marks are lower than the for grade in course
+evaluation the performance of students in course is evaluated continuously using their interaction in the classroom and performances in examinations the laboratory work if any and and projects
+the performance of students in course is evaluated through examinations and on continuous basis
+the senate will decide from time to time on the system of tests and examinations in each subject in each semester
+minor minor and major examinations are mandatory components of the evaluation of regular long lecture course
+the minor examinations shall be of minutes
+letter grade grade points comment exceptional outstanding excellent very good good average below average marginal poor fail incomplete satisfactory in course thesis continuation unsatisfactory withdrawn duration and the major examination of minutes
+fractal courses less than credits must have at least one examination
+the total weightage of the examination component three examinations for long course shall be between to of the total weightage of evaluation measure
+evaluation policy has to be known from the first day of the class
+the continuous evaluation may include but not limited to interaction in the classroom quizzes assignments tutorials laboratory work term papers and projects
+grading system letter grades at the end of the semester student is awarded relative letter grade in each course by the instructor offering the course considering the performance of the student during the semester with respect to those of the other students registered in the course
+it is proposed that ten regular letter grades namely and shall be awarded in each course
+each letter grade is associated with numerical equivalent on scale shown in table
+in addition there are four special letter grades namely and which stand for incomplete satisfactory thesis continuation and unsatisfactory respectively
+the faculty member shall upload grades on the portal as per stipulated time schedule
+table letter grade and its equivalent grade points
+grades description grade has the same grade point as grade
+the grade indicates exceptional performance and is awarded only in the in which the number of registered students is more than
+it should not exceed of the total strength of the particular theory or lab course
+the grade is not awarded for projects
+grade will be awarded to student who has scored marks less than the cutoff marks for grade and has met the attendance criterion of the institute
+students who obtain an grade will be eligible to appear in an additional examination
+if they perform satisfactorily they become eligible for getting the grade converted to grade otherwise they will continue to have grade
+the student will have only one chance to appear for the additional examination for an grade
+the additional examination will be conducted within the frist week of the next semester
+the date of additional examination of institute core courses for undergraduate students will be centrally notifeid while for all other courses the date would be announced by the respective course coordinators
+student can appear for maximum of three such additional tests in given semester
+if student can not appear for the test due to any reason will not get any additional chance
+if student with grade in course does not pass the course through the additional test or obtains an grade in the course has to repeat the course if it is core course
+in case the course is an elective the student may take the same course again or any other course
+and grades are not counted in the calculation of the cgpa however these are taken into account in the calculation of the sgpa
+an grade is temporarily awarded to student on request to denote incomplete performance in course on approval of an instructor
+an grade is awarded in case of missing an evaluation component due to absence on medical grounds or other special circumstances
+requests for grade should be made at the earliest but not later than the last day of major tests
+all evaluation requirements for such students in the corresponding course should be completed on or before the last date of add and drop of courses specifeid in the academic calendar
+upon completion of all course requirements the grade is converted to regular grade
+this grade is awarded to student with satisfactory performance in and audit courses or in thesis after successful completion of the open seminar
+the grades obtained in an audit course are not considered in the calculation of sgpa or cgpa
+this grade is awarded to student in course for continuation
+this grade is awarded to student with unsatisfactory performance in thesis audit or courses
+this grade is awarded to student who has opted to withdraw from course
+withdrawal from course is permitted until the date specifeid in the academics calendar
+detailed description of some of the grades is given below procedure for declaration of results the following procedure would be followed for declaration of results and time line would be as per academic calendar
+evaluation scheme to be displayed by instructors at the start of semester
+display of answer sheets and all scores by instructors
+finalization of grades by instructors
+grade moderation by level committee for wide courses
+recommendation of grades by the head of the department after scrutiny of grades by department moderation committee
+display of grades by instructors
+grade correction if any within hours of display of grades after approval of the head of the department
+approval of grade by the dean dean
+finalization of results by the dean dean
+approval of results by the chairman senate
+results once approved can not be changed under any circumstance
+in exceptional cases an appeal may be made to the chairman senate for reconsideration with formal justification
+grade point averages semester grade point average the semester grade point average sgpa is weighted average of the grades earned by student in all courses credited by and reflects academic performance in the respective semester
+if the grade points associated with the letter grades earned by student in courses registered during semester are gn and the corresponding credits cn then the sgpa is given by the following formula the sgpa is calculated on the basis of grades obtained in all courses except audit courses and courses in which grade is awarded registered in particular semester
+cumulative grade point average the cumulative grade point average cgpa indicates the overall academic performance of student in all the courses registered up to the latest completed semester
+the cgpa is computed similarly as the sgpa considering all the courses in all semesters
+the cgpa is calculated on the basis of all pass grades except audit courses and courses in which grade is awarded obtained in all completed semesters
+the sgpa and cgpa calculation is based on credits at iit jodhpur alone
+grade card and transcript grade card shall be issued to each student at the end of each semester and transcript at the end of the programme
+iit jodhpur grade card and transcript will only indicate the courses credits and grades completed at iit jodhpur and the total number of credits without grades earned in other academic institutions in particular semester if applicable
+waiver of requirements in special cases the rules and regulations procedures and requirements stated in this manual other than those related to admissions to the academic programmes may be waived in special circumstances by the ac on the recommendation of the department with the approval of chairman senate
+all such exceptions have to be reported to the senate
+examinations student who has missed minor or the major examination due to genuine reasons like illness etc
+may be permitted to write examination for the missed components
+the student should make an application to the dean academics through the course instructor within ten days from the date of the missed examination explaining the reasons for their absence
+applications received after this period need not be entertained
+the permission to take examination will be given under exceptional circumstances such as admission to hospital due to illness
+student needs to produce the necessary document subject to one of the following categories students residing in the hostels should produce medical certificate issued by the medical officer of the institute that was admitted in the hospital during the period of the missed
+students residing in the hostels and taking medical consultation with outside doctors are required to obtain written permission from the medical officer of the institute hospital before they proceed for such consultation
+students residing in the hostels but taking medical consultation with outside doctors are required to obtain an endorsement on the certificate of treatment by the medical officer of the institute hospital
+student staying outside the campus permanently temporarily must produce medical certificate from the registered medical practitioner and the same should be duly endorsed by the
+wise examination for major will be held during the makeup supplementary week as per academic calendar of the subsequent semester for those who are permitted to take the examination
+student who misses this examination will not normally be given another examination
+however in exceptional cases of prolonged illness resulting in the student missing examination the chairman of the senate in consultation with the dean of academics may permit the student to appear for examination any day before the end of the first week of the next semester
+under no circumstances prorating can be done for the missed examinations or attendance
+regulations for pg programme
+postgraduate programmes the indian institute of technology jodhpur currently offers the following postgraduate programmes
+master of science
+master of technology
+doctor of philosophy
+postgraduate admissions the process of admission for all the programs offered by the institute normally is underway during for semester and during for semester
+in addition the department may process applications for admissions to phd programs on continuous basis and admit students as per the existing procedure
+of admission candidate can be admitted in any one of the following categories
+external online vi
+project sponsored vii
+executive however all categories are not applicable for all pg programs
+further programmes can be offered in combination of these modes like fully sponsored programs
+regular an in campus student who can register for up to full credit permissible per semester
+student supported by project of the institute will be considered regular student
+ii sponsored an in campus student who can register for up to full credit permissible per semester
+the candidate is sponsored either by employer or by self
+candidate must have two years of relevant experience
+iii student is working professional who while employed attends regular classes as per schedule of the institute
+the student must produce an noc from the employer for pursuing the programme at iit jodhpur
+the student can register only for limited number of credits as compared to regular student
+iv external student working in an institution which is equipped with the necessary research and library facilities
+the employer must relieve the student to stay in the campus to complete the minimum residency requirements
+online online student is working professional who while employed attends classes in synchronous mode as per the schedule of the institute including limited contact sessions
+the student is expected to register for limited number of credits per semester
+the student will need to spend at least months in the campus before submission of the thesis distributed over the entire period of the programme as per the academic requirements
+the student must produce noc from the employer for pursuing the programme at iit jodhpur certifying that the employer will also provide access to resources for proper execution of the research work
+vi project sponsored candidate is project student receiving fellowship at least at the moe stipulated rate being supported through research projects running in the institute
+the student is expected to receive the fellowship for minimum of months
+the student will be paying fees at the same rate as that of full time gate qualified candidates
+the department will process the applications only if such position is available in the respective tech
+vii executive only for
+professional who can carry the programme requirement in an accelerated fashion minimum in months or accumulates credits as per convenience and petitions degree in maximum of years
+or mode by attending courses offered in synchronized remote contact mode and limited direct interaction eligibility for admission
+the eligibility conditions given below are the absolute minimum
+departments may prescribe any requirements over and above subject to the approval of the senate
+the number of admissions that can be made to any program shall be decided by the senate from time to time
+reservation of seats for various reserved categories shall be prescribed by the board of governors
+admission to sc
+program regular the admission to the
+programs offered by the institute will be through any one of the following two avenues
+the applicants qualified through the joint admission test for master jam organized by iits
+the applicants having bachelor degree in any relevant discipline or year program may be admitted based on written test interview conducted by iit jodhpur
+the applicants under the category must have minimum of marks for for category in aggregate or as specified by the or minimum cgpa of for for category on the scale of with corresponding proportional requirements when the scales are other than on for example for category for on scale of or first class as specified by the
+admission to dual degree program regular the admission to the
+dual degree programs offered by the institute will be through any one of the following two avenues
+admission to program regular the applicant must have bachelor degree in engineering or science year program or master degree in science mca pharmacy medical sciences agricultural sciences and veterinary sciences or in related field minimum of marks for for category in aggregate or as specified by the or minimum cgpa of for for category on the scale of with corresponding proportional requirements when the scales are other than on for example for category for on scale of or first class as specified by the
+the applicant must either have valid gate score or exempted from gate as per mhrd circular or have qualified an equivalent national examination or have qualified in the written test interview conducted by iit jodhpur
+admission to mtech program master degree in science mca pharmacy medical science agricultural science and veterinary science or in related fields
+minimum of marks for for category in aggregate or as specified the applicant must have minimum of two years work experience after qualifying degree in institutions at the time of registration to the program
+however the credit accumulation for the program may start immediately after the qualifying degree
+petitioning for the degree can happen only year after registration
+the applicant must qualify written test interview conducted by iit jodhpur
+dual degree program regular veterinary science or in related field than on for example for category for on scale of or first admission to
+program regular candidates admitted in this category shall not be registered student in any other academic program in india or abroad and shall not be or employee of any organization in india or abroad
+the applicant must have master degree in engineering pharmacy agricultural science science humanities social sciences management with at least marks or at least cpi or cgpa for for or the applicant must have mbbs with bvsc with mvsc bds with mds bpth with mpth both with moth or equivalent with at least marks or at least cpi or cgpa for for in bachelor degree the applicant must have bachelor degree of minimum four year duration in engineering or science or medicine or pharmacy or agricultural science or veterinary science or equivalent with at least marks or at least cpi or cgpa for for
+admission under any special scheme like quality improvement programme qip defence personnel the procedures and criteria for admission of these candidates can be decided with the approval of chairman senate
+admission of indian nationals residing abroad inra and foreign nationals inra candidates must have been residing abroad continuously for at least one year at the time of applying for admission
+the applications of inra and foreign nationals may be processed by the departments as and when they are received or according to any schedule convenient to the department
+the applications should be scrutinized to make sure that both in terms of qualifications and attainment they are comparable with the candidates admitted in the general category
+department will conduct vc based interview for ascertaining suitability of the candidate
+the applications of foreign nationals who are sponsored by the indian council of cultural relations iccr will be scrutinized by the department concerned to assess their suitability for admission to the programme
+the department recommendation will be sent to the chairperson senate through the chairperson ac
+admission to program in india or abroad
+the applicant must have minimum of two years work experience after qualifying degree program
+admission of students student is student who is registered for degree in recognized institute or university in india or abroad and who is officially sponsored by that institute or university to complete part of academic requirements at iit jodhpur
+for that purpose the student may carry out research or take courses for credit or otherwise or may use other academic facilities
+any candidate can be admitted as casual student for specific courses provided the candidate satisfies the minimum eligibility criteria specified in section
+the application must be routed through the office of dean
+casual student can register up to maximum of credits in semester
+on successful completion of the course students will be awarded with course completion certificate and grade obtained
+casual student can also accumulate credits to petition for certificate or diploma from iit jodhpur
+students so admitted will be governed by all rules regulations and discipline of the institute
+reservation policy the reservation policy of the government of india will be followed
+student registered under difefrent categories indicative maximum credits minimum credits regular semester executive accelerated executive normal executive executive part time external summer term executive accelerated executive normal executive regular sponsored external student registered under difefrent categories indicative maximum credits before qualifeir indicative after qualifeir minimum regular external
+pg registration limits on registration maximum and minimum number of credits student can register in different programs
+student can register for maximum of credits and minimum of credits in semester
+student can register for maximum and minimum credits as per table
+table maximum and minimum credits
+student can register for during the regular term dual joining after
+the maximum and minimum credits that dual student can register are equivalent to that of
+registration kept alive rka student admitted to program who has at least completed minimum credit requirement of the first semester can keep his studentship alive while he is pursuing any professional activity by opting for rka in subsequent semesters
+the candidate must indicate his intent of rka before the last date of late registration through drc to dean academic
+the candidate has to pay appropriate registration fees for rka status
+change of registration from
+regular programme to
+student may be allowed to change the registration to the
+programme after successful completion of third semester
+student requesting such conversion must get the request endorsed by the supervisor and the drc and ii produce no objection certificate from employer for carrying out the research work change of registration from
+programme to dual degree regular student registered for the
+programme having cgpa or more at the end of second semester may be allowed to switch to dual degree program till the end of third semester
+as special case student can switch to dual degree in the fourth semester with the approval of drc provided cgpa is or more who will then be required to complete candidacy requirements by the end of fifth semester
+all conditions of the dual degree program will be applicable to all such students
+all such changes of registration shall be reported to the senate
+student having cgpa or more after completion of at least credits may be allowed to change registration to the program
+the credits earned will be counted towards course work requirements
+change of registration from to programme student admitted to programme may be permitted to change to programme
+student requesting such conversion must have successfully completed candidacy requirement ii get the request endorsed by the supervisor and the drc iii produce no objection certificate from employer for carrying out the maximum duration of program
+regular and registered semesters which may include maximum semesters of registration kept alive rka after completion of the first semester
+tuition fee post rka will be the same as that of sponsored candidates
+and dual degree regular and registered semesters which may include maximum semesters of registration kept alive rka after completion of the two semesters
+students may request for rka to dean academics through drc
+type distribution of contact and beyond contact hours total credits contact hours ch beyond contact hours bch total hours th hour of lecture hour of tutorial hour of lab hour of project type distribution of contact and beyond contact hours total credits hour of lecture hour of tutorial hour of lab hour of project hour of thesis course registration students will be eligible to register for courses as per the criterion specified in section and table
+the irc must oversee that the student has not registered for similar course during masters or bachelors program
+academic requirements academic load calculation of credits for course for pg programmes the total credits for course is calculated by taking into account the number of lectures tutorial and practical hours assigned as given in table and for
+each credit is associated with the number of contact hours and the expected number of hours on an average to be spent by the student for each contact hour to meet academic demand of the course
+contact hour for project refers to the involvement of students in the laboratory discussion etc
+table and credit assignment for
+course categories for masters programmes compulsory course mc programme compulsory pc programme elective me open elective specialization core sc specialization elective se specialization stream electives sse micro specialization core msc project works mp ng programs minimum credits to be earned mc me mo mp total
+digital humanities program minimum credits to be earned pc oe mp total
+computational social science programs minimum credits to be earned mc me mo mp ng total sensors and internet of things cyber physical system thermoful ids engineering advanced manufacturing and design materials engineering artifciial intelligence computer science and engineering bioscience and bioengineering data and computational sciences intelligent communication systems augmented reality and virtual reality chemical engineering intelligent vlsi systems programs minimum credits to be earned pc sse me mo mp ng total infrastructure engineering with specialization in environmental engineering civil and infrastructure engineering with major in energy program minimum credits to be earned mc msc me mo mp ng total robotics and mobility systems academic credit requirements for
+students course categories and academic requirements for
+students are given below in table
+academic credit requirements for
+course categories and academic requirements for
+table minimum credits to be earned for mtech students academic credit requirements for
+dual degree minimum credit requirements for
+dual degree is cumulative sum of credit requirements for respective
+program as mentioned in sections and
+mc me mo mp ng totalflfi dual degree sensors and internet of things dual degree cyber physical system dual degree communication and signal processing dual degree thermofluids engineering dual degree materials engineering dual degree computer science and engineering dual degree artificial intelligence dual degree bioscience and bioengineering dual degree intelligent communication systems dual degree advanced manufacturing dual degree mechanical design dual degree data and computational sciences dual degree chemical engineering programs minimum credits to be earned dual degree infrastructure engineering with specialization in environmental engineering dual degree civil and infrastructure engineering with major in energy
+in with minimum credits through course work minimum credits through thesis work
+engineering in an engineering discipline
+degree in science discipline
+science humanities or social science discipline
+degree in science humanities or social science discipline academic credit requirements for
+dual degree course categories and academic requirements for mtech phd dual degree students are given below in table
+table minimum credits to be earned for dual degree mtech and phd students the must oversee that the student has not registered for similar course during bachelors program and take necessary corrective action by suggesting alternative courses
+academic credit requirements for students the minimum credits to be earned through courses is listed in table
+table credit requirements for phd students no
+program continuation in programme sgpa for graduation
+only graduation requirement refer
+and for frist semester for frist semester at completion of course work the indicative maximum credits student registers in semester are notional
+in addition to the above minimum credit requirements through coursework ph
+students are further required to complete four compulsory ng courses before the open seminar
+student already completed ng course as part of program need not register for the same course again
+the coursework requirements for idrp students will be in line with table
+while securing the minimum overall cgpa requirement in in departmental domains in idrp domains with
+degree in science earned credits course repeat process may be allowed for maximum of credits for students in departmental domains and credits for students in idrp domains with
+degree in science discipline or for students enrolled in direct programme
+the student can repeat course within the said credit limit in which he has obtained pass grade but performance is poor secured grade is or lower
+no replacement of course in which the student has secured pass grade and above is allowed
+if the student opts to repeat course then the grade secured in the next attempt will prevail
+academic performance requirements minimum performance for continuation and graduation in program the minimum cgpa requirement for continuation and graduation in program is given below in table
+degree grade point average dgpa for students phd student who has completed the credit requirements for the course work but has cgpa less than required for graduation will be evaluated using degree grade point average dgpa where dgpa is defined with respect to the best performance of the student in minimum number of credits
+continuing criteria for
+the student must earn at least credits at the end of second semester for continuation in the program
+program continuation of fellowship
+and minimum performance for continuation the minimum cgpa requirement for continuation is given in below table
+leave rules application for leave of absence should be addressed to the convener drc and submitted with medical certificate if applicable
+usually leave must not be availed of without prior approval of the drc
+leave maximum of days in an academic year including leave on medical grounds mid semester break
+the student must apply for leave in advance even during the term or break
+phd student can not avail leave for more than days at stretch an
+student can not avail leave for more than days at stretch the leave beyond days in an academic year may be granted in exceptional cases by drc without assistantship during that period
+other leaves maternity leave for students is sanctioned as per the directives of moe
+it will not be counted towards maximum permissible duration of the programme
+any other leave may also be permissible as per the guidelines of moe
+semester withdrawal may be applicable in unforeseen circumstances or for medical reasons
+absence for period of four or more weeks in any semester will result in automatic withdrawal from that semester
+in all such cases the fellowship will be stopped with immediate effect and it will be continued for only after the student rejoins the institute
+drc can approve and intimate office of academics regarding the leave of the student for records
+in case the leave extends beyond semester it can only be approved through the academic committee
+semester withdrawal on medical ground will not be counted towards maximum permissible duration of the programme for the student
+academic leave academic leave can be requested for any of the following reasons such as field work library because of specialized collection at particular library experimental using specialized facility not available at iitj attending collaborative work as part of joint
+supervision collaborative work for specific problem related to his ongoing programme as indicated in his research proposal exchange program as part of an exchange program with sister institution in india or abroad all such requests must be evaluated and approved by before the leave is granted
+must also make recommendations regarding continuation of fellowship during academic leave
+student may be allowed to spend maximum duration of one year on academic leave
+student during academic leave can earn maximum of credits per semester as certified by src and approved by drc
+financial assistance financial will be provided to the eligible students admitted under regular program
+the eligibility criteria are as per the following
+program fellowship as per institute norms
+program student having completed minimum credit requirements of
+program at the end of second year with cgpa have qualified gate can have financial support from mhrd or project fund
+student with gate can have financial support from mhrd or project fund
+student may be exempted from gate as per mhrd guidelines
+executive tech program students admitted in this category will not be provided any financial assistance from the institute
+dual degree program rules and regulations governing financial assistance for dual degree students will be at par with regular students
+program regular student admitted to the institute will be eligible for financial assistance as per the norms of iit jodhpur
+program degree with jrf or equivalent can have financial assistance as per mhrd norms
+the requirement of gate is exempted for an applicant with
+or equivalent degree student may be exempted from gate as per mhrd guidelines
+student would be eligible for enhancement in the scholarship after two years provided the student has met the qualifier requirement
+enhanced fellowship will commence from the date of completion of both the conditions
+no arrears will be provided due to delay in completing the qualifier requirement
+no arrears will be provided due to delay in completing the above requirements
+the assistantship of student will continue till thesis defense or end of the semester in which has submitted thesis whichever is earlier
+the above is permissible subject to available in the semester under question as per rule
+rules and regulation for conduct and evaluation of
+project allotment of students to supervisors will be made based on the preferences of the students and supervisor
+the supervisor and area identification must be completed by the end of the first semester
+program would advise until the student is assigned to regular supervisor
+each semester letter grade will be awarded after examination by committee consisting of drc supervisor and two members conversant with the field of research with at least external to the department may be outside the institute also
+drc will appoint examiners in consultation with the supervisor
+same committee may examine more than one thesis
+the external member can be on vc
+drc will ensure that the award of letter grade would be as per relative grading policy
+regular student must register for project in the summer semester following semester
+he must obtain satisfactory grade to continue project in the next semester
+his performance in the summer semester will be evaluated by his supervisor
+rules and regulations for ph
+dual degree program thesis supervisor selection of
+candidates the selection should be based on merit and capability of the candidate to conduct research
+there should at least be faculty member available or likely to join in the areas of interest of the candidate at the time of selection
+appointment of thesis supervisor ph
+students shall be admitted in the department and no supervisor shall be assigned at the time of selection
+allotment of students to supervisor will be made based on the preferences of the for both ph
+dual degree supervisor and area identification must be completed by the end of the first semester
+the convener drc department research and postgraduate committee irc interdisciplinary research program committee would advise until the student is assigned to regular supervisor
+there shall not be more than two supervisors in general for student
+additional supervisor can be allowed with the approval of chairman senate
+supervisor from outside the institute before qualifier may be appointed on the request of with the recommendation of the and the dean academics and approval of the chairman senate
+the external supervisor will be requested to sign intellectual property right ipr and agreement nda documents as part of acceptance
+from the financial point of view the institute will have no obligation to the external supervisor
+caretaker supervisor whenever the supervisor proceeds on short leave for period up to one year the shall appoint caretaker supervisor in consultation with the supervisor and the student to take care of the administrative requirements
+whenever the supervisor proceeds on long leave for period more than year then an additional supervisor needs to be appointed on the suggestion of the supervisor
+the supervisor going on lien or sabbatical may continue supervising students and the supervisor can opt for either an additional supervisor or caretaker supervisor
+the supervisor on retirement or on resignation may continue as supervisor and will have to opt for an additional supervisor provided the student has cleared the qualifier before supervisor
+composition of departmental research committee drc the drc will consist of coordinators of dual degree and programs of the department head of the department and senior professor proposed by the head
+the drc will be chaired by professor nominated by the head of the department
+the chairman of the drc will be member of the academic committee
+the drc has to be approved by the dean academics
+program coordinator will be the convenor of drc and will be proposed by the head
+the tenure for the drc will be years
+composition of interdisciplinary research committee irc the irc will consist of all coordinators of idrps and senior professor as the chairman of the irc will be nominated by dean academics
+the chairman of irc will be member of ac
+one of the idrp would be convenor of the committee
+the tenure for the irc will be years
+the irc will be approved by the dean academics
+change of research supervisor change of supervisor under exceptional circumstances shall be permitted by dean academics on recommendation of the after obtaining the consent of the student ii the present supervisor and iii the proposed supervisor
+if required realignment of student research program will happen under supervision of the
+student research committee src composition of src the src will normally consist of supervisor and three other faculty members conversant with the field of research with at least external to the department may be outside the institute also
+student research committee src for the candidate shall be proposed by the supervisor recommended by the and approved by the dean academics
+the src shall have one member identified as chairman for administrative functions and the supervisor will act as convener
+chairman src is to be appointed by dean academics
+the appointment of src should be completed by the end of the first semester
+any subsequent changes in the composition of src shall be communicated through the to dean academics for record
+the src and supervisor shall be the internal examiners for the evaluation of the thesis
+the src is expected to monitor the progress of the candidate until the completion of the program
+annual progress monitoring meeting apm academic progress of all registered students will be reviewed once in year by the src and peers in the institute
+the review will be based upon annual progress report and ii poster presentation open to all
+src will award grade based upon and ii
+two consecutive grades will lead to termination of registration
+for implementational convenience the academic calendar must indicate two days in year for conducting annual progress evaluation of research scholars
+following groupings of students and scheduling guidelines are suggested for students joining in semester of ay apm must be conducted by the last working date of september of every year for students joining in semester of ay apm must be conducted by the last working date of february of every year the first apm will be conducted after successful completion of qualifier requirements
+those students who have got months extension to complete qualifier requirements for them apm can be scheduled even after semester from the date of completion of qualifier requirements
+each semester satisfactory progress or unsatisfactory progress will be reported by supervisor through the src for record
+any situation in exception to the above will be processed by the academic committee and approved by dean academics qualifier requirements of student the following four components together will constitute qualifier candidacy requirements for ph
+student and for ph
+candidate to be eligible for the enhanced srf fellowship
+completed course requirements with the minimum cgpa specified in section cleared comprehensive examination successful presentation on state of the art of the chosen field of research successful presentation and defense of research proposal the ph
+students are normally expected to complete successfully the qualifier requirements before the beginning of the fifth semester of registration in the ph
+program and in any case not later than the beginning of the sixth semester after their registration in the ph
+and direct candidates will need to complete qualifier requirements before the beginning of the seventh semester
+candidates will need to complete qualifier requirements before the beginning of the fifth semester and in any case not later than the beginning of the sixth semester after their registration in the program
+for dual degree students the credits associated with the
+project ii are to be converted to the rp
+comprehensive examination of ph
+student the comprehensive examination must be designed to test the general capability of the student and the breadth of knowledge in the discipline and areas related to the field of research
+the comprehensive examination shall be conducted by comprehensive examination committee of the
+the comprehensive examination will consist of written test with three papers
+departments will offer at least papers for conducting the comprehensive examination
+each paper will have broad coverage of one essential of the department
+course content of these papers will be approved by the academic committee and senate
+the syllabus of papers for the comprehensive examination will not be the same as courses offered by the department it must be designed to test the breadth of the knowledge in that area
+the src will specify set of three papers as comprehensive requirements for particular student
+these three papers may be selected from across the departments
+the comprehensive examination requirements shall be intimated to the student within two weeks of src formation
+all comprehensive examinations will be scheduled on two fixed days in year
+it can coincide with the annual progress evaluation day of doctoral candidates
+students may decide to appear for three papers on the same day or on different days
+student can appear in the comprehensive examination before has completed the course requirements and satisfied the minimum specified cgpa requirement
+if the performance of the student in comprehensive examination paper in the first attempt is not satisfactory will be given one more opportunity to appear during the next scheduled comprehensive examination as per the academic calendar
+for valid medical or unforeseen reasons if student is not able to register for the comprehensive examination the comprehensive examination may be rescheduled within that semester with prior approval to the dean programs
+for clearing the comprehensive examination student must perform satisfactorily in all papers
+regular direct comprehensive examination semesters semesters semesters semesters seminar semesters semesters semesters semesters candidacy examination semesters semesters semesters semesters comprehensive examination to be completed by the students within semesters direct and within semesters state of art seminar sota every student is required to give general seminar in the department covering the state of art of the area of research
+the presentation must also include patent landscaping of the area
+the presentation will be evaluated by the src
+candidate must have satisfactory grade in sota awarded by src for becoming eligible to present his research proposal
+the state of the art seminar must be completed before finalization of the research proposal
+for students the presentation in
+project will be considered as sota
+research proposal research proposal report presentation will be evaluated by src after successful completion of sota
+the research proposal must include representative research work equivalent to research work worth credits
+src will allocate letter grade based on the performance of the candidate
+candidacy for the
+degree student enrolled in the program is formally admitted to the candidacy for the degree after has completed the qualifier requirements for the degree
+only such students who are admitted to the candidacy will be allowed to submit thesis
+dual degree program dual degree students who have successfully completed all qualifier requirements under exceptional conditions as approved by src after years can also convert into students and exit with degree if all conditions for conversion are satisfied
+the renewal of their registration for every semester however will be considered only if src finds their progress to be satisfactory and recommends continuance of registration
+cancellation of registration the registration of student whose progress is not found to be satisfactory by the src or who has not enrolled will be liable for cancellation
+the registration of student who has not submitted thesis before the end of the maximum permissible period specified in section will be liable for cancellation
+synopsis synopsis will consist of an open seminar and comprehensive internal close door assessment of the research work through report by src
+the student can submit the synopsis only if the src is satisfied about the quality and quantity of the work for submission as thesis
+publications arising out of the thesis are to be submitted along with the report
+students should submit the synopsis and thesis within six months of the open seminar date
+if required an extension of three months may be permitted by dean academics on the recommendation of src
+if the synopsis and thesis are not submitted in the specified period the student will be asked to present the synopsis again
+on satisfactory completion of the prescribed courses with minimum cgpa specified in the comprehensive examination the sota the research work and the synopsis the student shall submit the requisite copies of the synopsis of research work in the required format through the supervisor and hod to the academic section for consideration of the src
+the student should have at least two publications in scopus indexed journals conferences for engineering and science departments
+requirements department of humanities and school of management entrepreneurship will be specified separately
+thesis submission and evaluation the supervisor shall propose list of examiners consisting of at least four faculty members from abroad and faculty members from india who have the expertise in the area in which the student undertook research
+for selecting an examiner following guidelines should be followed the examiners shall have at least years experience no two proposed examiners shall be from the same organization and the examiners can be faculty members or scientists of standing and repute
+chairman senate may ask for additional names for examiners
+the chairman senate shall select minimum two examiners from the proposed list of which at least one should be an examiner from outside india
+the consent of these examiners shall be taken before sending the thesis to them
+in addition the src and supervisor shall be the examiners of the thesis
+the indian examiners shall attend in person the thesis defense
+the examiners shall submit written report on the thesis within period of two months from the date of receipt of the thesis
+if both examiners declare the thesis as acceptable for award of degree the dean academics shall request the supervisor to hold the thesis defense by the student
+program qualifciations at the time of joining the program minimum duration in semesters of residence
+all qualifying degrees
+dual degree all qualifying degrees
+programs regular all qualifying degrees executive all qualifying degrees executive all qualifying degrees
+programs engineering discipline
+engineering in an engineering discipline if any of the examiners rejects the thesis for the award of the degree the dean academics shall report the matter to the chairman senate for further consideration
+the chairman senate will refer the thesis to third examiner under special circumstances else the registration of the student shall stand cancelled in the
+if both examiners reject the thesis for the award of the degree no degree shall be awarded by the institute and the registration of the student shall stand cancelled in the program
+if an examiner suggests revision of the thesis the student shall resubmit the thesis after the revision within prescribed time period of months in consultation with the supervisor
+when both examiners recommend the thesis as accepted for the student to defend the thesis or resubmission of thesis incorporating given by the examiners the student shall publicly present the thesis and defend the contention of the thesis
+the committee consisting of chairman src supervisor the examiner from within india and other faculty members who participated in the comprehensive examination of the student shall evaluate the thesis defense of the student also
+on their recommendation dean academics shall recommend to the senate to consider the award of degree to the student
+graduation requirements student is deemed to have completed the requirements for graduation if has met the requirements laid down in clauses to below
+minimum residential requirement table minimum residential requirement science humanities or social science discipline
+degree in science humanities or social science discipline all qualifying degrees external all qualifying degrees academic the student shall be declared to have fulfilled the academic requirements if has earned the minimum credits as per section for
+dual degree section for dual degree and section for while meeting the minimum cgpa requirements as mentioned in section
+no dues clearance the degree will be awarded after obtaining no dues clearance from all concerned sections as deemed necessary by dean academics
+no case of disciplinary action the student shall not be considered to have completed the academic requirements if there is any case of indiscipline pending against
+award of degrees provisional certificate student who completes all the graduation requirements specified in clauses to can be provided provisional certificate by the office of dean academics on the approval of chairman degree certificate student who completes all the graduation requirements specified in clauses to is recommended by the senate to the board of governors bog for the award of the appropriate degree in the ensuing convocation
+the degree can be awarded only after the bog accords its approval
+withdrawal of degree under extremely exceptional circumstances where gross violation of the graduation requirements is detected at later stage the senate may recommend to the board of governors for withdrawal of degree already awarded to the student
+amendments notwithstanding anything contained in this document the senate of iit jodhpur reserves the right to without notice rules and regulations of the postgraduate programmes at

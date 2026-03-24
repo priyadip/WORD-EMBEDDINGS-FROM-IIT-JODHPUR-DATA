@@ -1,0 +1,169 @@
+SOURCE_PDF: f94a282c66cb_Courses3-638755738087127202.pdf
+
+Department of Physics
+Indian Institute of Technology Jodhpur
+PhD Program
+Elective Courses
+July 2019
+
+Topic Cloud
+
+Title Computational Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title High Energy Physics Number PHL7XX0
+Department Physics L-T-P [C] 3-0-0 [3]
+Offered for Type Elective
+
+Title Introduction to Space Science Number PHL7XX0
+Department Physics L-T-P [C] 3-0-0 [2]
+Offered for Type Elective
+Rappaport, S. A., and Elliot, J.,
+
+Title Nanoscience and Nanotechnology Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Advanced Condensed Matter Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Introduction to Material Characterization Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Magnetism and Superconductivity Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Electronic Transport in Mesoscopic Systems Number PH7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Physics of Solar Cells Number PH7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Fundamentals of Plasma and Fusion Science Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Plasma Physics: Fundamentals and Applications
+
+Title Introduction to Quantum Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Laser Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Computational Materials Science Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Soft Matter Physics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Statistical Methods for Data Analysis Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Optical Fiber Technology Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Energy Harvesting Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Solar Energy Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Quantum Optics and Engineering Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Satyanarayana, M. V., Department of Physics, IIT Madra
+
+Title Cold Plasma Technologies Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Plasma Physics: Fundamentals and Applications ,
+
+Title Critical Phenomena and Renormalization Group Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Non-perturbative aspects of Quantum Field
+Theory Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Nuclear Engineering Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Kannan, I., Department of Mechanical Engineering, IIT
+
+Title General Theory of Relativity Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Bertschinger, E. W., General Relativity, http://hdl.handle.net/1721.1/36859
+
+Title Particle Physics Number PHL7XX0
+Department Physics L-T-P-Th [C] 3–0–0-0 [3]
+Offered for Type Elective
+
+Title Quantum Field Theory Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Astrophysics Number PHL7XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Vacuum Systems and Thin Film Technology Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Introduction to Characterization & Advanced
+Condensed Matter Physics
+Smith D. L., Thin Film Deposition: Principles and Practice , McGraw Hill 1995
+
+Title Plasma Diagnostics Number PHL8XX0
+Department Physics L-P-T (C) 3-0-0 [3]
+Offered for PhD
+Prerequisite Cold Plasma Technologies
+
+Title Materials and device characterization Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Introduction to Material Characterization
+
+Title Computational Condensed Matter Physics Number PHL8XX0
+Department Physics L-T-P [C] 3–0–1 [4]
+Offered for Type Elective
+Prerequisite Computational Materials Science
+
+Title Semiconductor Device Technology Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Advanced Condensed Matter Physics
+
+Title Understanding Scanning Tunneling Microscope Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Advanced Condensed Matter Physics
+Review of Quantum Tunneling/Introduction to STM : http://nanohub.org/resources/9600
+
+Title Physics of neutrinos Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Gauge theory of weak interactions Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Dark Energy Number PHL8XX0
+Department Physics L-T-P [C] 3–0–0 [3]
+Offered for Type Elective

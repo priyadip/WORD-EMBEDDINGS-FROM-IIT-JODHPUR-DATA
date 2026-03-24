@@ -1,0 +1,9 @@
+SOURCE_PDF: 93433bcfc647_phD_coding_test_24_may21.pdf
+
+Ph.D. Admissions, July 2021: Programming/Coding Test
+Exam Date: May 29, 2021
+Topic: Application of basic data structures, Fundamental logic design for
+Languages: C / Python / Java
+Duration: 2 Hours
+Full Marks: 40
+** The Programming Coding test is applicable for only the shortlisted candidates **

@@ -1,0 +1,12 @@
+title data structures and practices number csxxx department computer science and engineering offered for
+cse year type compulsory prerequisite computer programming title software and data engineering number csxxx department computer science and engineering offered for
+type compulsory title computer architecture number csxxx offered for
+year type compulsory prerequisite computer organization title machine number csxxxx offered for
+year year type compulsory prerequisite none title wireless networks number cs department computer science and engineering offered for
+year phd year type compulsory prerequisite networks
+cheng huang du
+ad hoc wireless networking vol
+springer science business media self learning material
+computer networks mit opencourseware
+mobile and wireless networks and applications stanford university
+ieee transactions and other journals title autonomous systems number csxxx prerequisite networks and machine

@@ -1,0 +1,95 @@
+SOURCE_PDF: 3f5c333f3847_2_20B.Tech_20EE_20Program_20structure_07102020.pdf
+
+Cat Course LTP CH N GC Cat Course LTP CH N GC
+I Semester II Semester
+IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4 IE Engineering
+Mechanics 2-1-0 3 - 3
+IE Introduction to
+Computer Science 3-0-2 5 - 4 IS Chemistry 3-0-0 3 - 3
+IE Introduction to
+Bioengineering 3-0-2 5 - 4 IS Physics 3-0-0 3 - 3
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 1 - 1
+NE Engineering 0-0-2 2 1 - NE Engineering 0-0-2 2 1 -
+Design I Design II
+NH Communication 0-0-2 2 1 - NH Communication 0-0-2 2 1 -
+Skill I Skill II
+NH Social Connect
+and
+responsibilities I Social Connect 0-0-1 1 0.
+5 - NH Social Connect 0-0-1 1 0.
+5 -
+and and
+responsibilities I responsibilities
+NH Performing Arts I 0-0-1 1 0. - NH Performing Arts 0-0-1 1 0. -
+/Sports I 5 II/Sports II 5
+Total 12-1-14 27 3 17 Total 11-2-12 25 3 16
+III Semester IV Semester
+IE Materials Science
+& Engineering
+Fractal 1 – Energy
+Materials
+Fractal 2 –
+Magnetic
+Materials
+F3 –
+Computational
+Material Design 3 ×
+1-0-0 3 - 3 IE Pattern Recognition
+and Machine
+Learning 3-0-2 5 - 4
+IE Signals and
+Systems 3-1-0 4 - 4
+IE Thermodynamics 3-1-0 4 - 4 PC Circuit Theory 3-0-0 3 - 3
+L S P robability,
+Statistics and 3-1-0 4 - 4 PC Engineering
+Electromagnetics 3-0-0 3 - 3
+2nd year B.Tech Electrical Engineering
+Program Structure
+For AY 2020-21
+
+LS Foundations of
+Quantum
+Information
+Processing 3-0-0 3 - 3 PC Digital Design 2-0-2 4 3
+DPCat a St ructure and 3-0-2 5 - 4 PC Physical Electronics 3-0-0 3 3
+NE Intro. To 0-0-2 2 1 IH Humanities I 3-0-0 3 - 3
+Total 18-3-4 25 1 22 Total 17-0-4 21 - 19
+V Semester VI Semester
+PC Analog Circuits 3-0-3 6 - 4.5 PC Power Engineering 3-0-3 6 - 4.5
+PC PC Electrical 3-0-0 3-0-0 3 3 - - 3 3 PC PC Digital Signal 3-0-0 3-0-0 3 3 - - 3 3
+Machines Processing
+PC Communication 3-0-0 3 - 3 PC Data Communication 3-0-0 3 - 3
+Systems Networks
+PC Computer 3-0-0 3 - 3 PC Embedded Systems Embedded Systems 3-0-0 3 - 3
+PC Control Systems Control Systems 3-0-3 6 - 4.5 PC Communication 0-0-3 3 - 1.5
+PC Digital Systems Lab 0-0-3 3 - 1.5
+PC PC Electrical Machines 0-0-3 0-0-3 3 3 - - 1.5 1.5
+IH Humanities II 3-0-0 3 - 3 PE Program/Open
+Elective 3-0-0 3 3
+NH Professional 0-1-0 1 - NH Professional Ethics II 0-0-2 2 1 -
+Total 18-1-6 24 1 21 Total 15-0-
+14 29 1 21
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+P E /
+OE Programme/Ope
+n Electives - - - 9 PE
+/
+OE Programme/Open
+Electives - - - 14
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 15-0-6 - - 17 Total 17-0-0 - - 17
+Total of Graded Credit - 150
+Total of Non-Graded Credit 9 -
+Non-Graded Design Credits 6 -
+Grand Total 165
+Note: ES are proposed Engineering Science compulsory courses

@@ -1,0 +1,34 @@
+SOURCE_PDF: a580bd82ca55_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT (Electrical Engineering)
+(A) WRITTEN TEST
+Devices and Circuits: Circuit Theorems; Semiconductor Devices and their biasing Circuits: Rectifiers, 
+filters, amplifiers, Operational amplifier and its circuits; interfacing with Arduino DC/AC Circuit 
+Analysis: Single and Three Phase circuits, Power electronic devices and circuits: SCR controlled rectifier;
+DC/AC Electrical Machines: DC Motor and Generator, Single and Three phase transformers, Induction 
+and Synchronous motors.
+Digital Electronics: Number systems, Combinatorial and Sequential circuits: Arithmetic circuits, 
+Counters, shift-registers, and finite state machines.
+Data converters: sample and hold circuits, ADCs and DACs; Semiconductor memories: ROM, SRAM, 
+DRAM.
+Embedded Systems: architecture, programming, memory and I/O interfacing Signal Processing: 
+Continuous and Discrete time signals, and their Fourier representations, sampling theorem; LTI systems 
+and their properties, digital filter design techniques. Communications: Analog and Digital 
+communications concepts, Modulation/Demodulation concepts, Transmitter and Receiver, Channel 
+capacity.
+Control Systems: Feedback systems and their analysis, Bode plots, root loci, compensation techniques, 
+transient and frequency response, PID controllers.
+(B) SKILL TEST
+The candidate will be allowed to choose two of the following four topics: 
+(i) 
+Electrical/Electronic circuits: Operating electrical/electronic instruments and equipment’s, 
+testing and debugging of electrical/electronic circuit and systems, Arduino programming, 
+FPGA programming.
+(ii) 
+Communications and Signal Processing: Implementing communication and signal processing 
+related functions
+(iii) 
+Electrical machines and power engineering, and
+(iv) 
+Embedded Systems – programming of microprocessor/microcontroller

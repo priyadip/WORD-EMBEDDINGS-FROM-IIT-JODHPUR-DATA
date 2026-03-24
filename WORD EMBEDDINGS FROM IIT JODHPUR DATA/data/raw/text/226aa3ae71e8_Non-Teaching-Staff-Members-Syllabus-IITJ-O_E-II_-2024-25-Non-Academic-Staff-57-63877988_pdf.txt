@@ -1,0 +1,35 @@
+SOURCE_PDF: 226aa3ae71e8_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877988.pdf
+
+Concepts of Object-
+Oriented
+Programming - Encapsulation
+- Class, object
+- Inheritance
+- Polymorphism
+- Understanding UML Diagrams
+Java Programming - Condition, Loop, Function, Class, Package
+- String, Array, Collection, Iterator
+- Exception Handling, Abstract Class, Interface, Polymorphism
+- I/O operations, Streams, File handling
+- Database Connectivity
+- SQL Query and Stored Procedure Call
+Java Web
+Application
+Development - Java EE
+- JVM and Java Web Framework
+- Java Server Pages
+- Spring Framework
+- Application Server (tomcat)
+- REST API
+Frontend
+Technologies - HTML, XML, CSS, JavaScript
+- JQuery, Bootstrap, AJAX
+IDE - Netbeans
+- Eclipse
+SQL Query - Insert, Update, Delete
+- b. Stored Procedures, View, Function
+- c. Joining, Group By
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT
+(Integrated Information System (IIS) Division)
+(WRITTEN TEST & SKILL TEST)

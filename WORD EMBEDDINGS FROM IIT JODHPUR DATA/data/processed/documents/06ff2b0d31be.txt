@@ -1,0 +1,10 @@
+nonlinear framework for coupled systems from exact hamiltonian models to improved formulations title nonlinear framework for coupled systems from exact hamiltonian models to improved formulations authors shubham garg and kirankumar hiremath journal chaos link doi
+year publisher american institute of physics abstract accurate modeling of coupled nonlinear phenomena is essential for predicting energy transfer in many physical systems however conventional theory often relies on approximations that limit its validity under moderate and strong coupling
+in this study nonlinear framework is developed that systematically incorporates key nonlinear interactions and wave effects which are typically neglected in traditional formulations
+to illustrate the approach two nonlinear lc circuits containing josephson junctions are analyzed
+starting from an exact hamiltonian description formulation is derived that retains the essential nonlinear and contributions including rapidly oscillating terms
+comparative analysis demonstrates that the conventional model captures only qualitative trends and exhibits significant phase and amplitude errors outside the regime
+in contrast the proposed formulation achieves close quantitative agreement with the exact hamiltonian dynamics across the coupling regimes
+these findings clarify the limitations ofexisting phenomenological models and establish systematic pathway for constructing accurate descriptions of coupled nonlinear systems with implications for circuit dynamics photonics and related areas involving energy transfer in complex media
+title nonlinear framework for coupled systems from exact hamiltonian models to improved formulations authors shubham garg and kirankumar hiremath journal chaos link doi
+publisher american institute of physics abstract accurate modeling of coupled nonlinear phenomena is essential for predicting energy transfer in many physical systems however conventional theory often relies on approximations that limit its validity under moderate and strong coupling

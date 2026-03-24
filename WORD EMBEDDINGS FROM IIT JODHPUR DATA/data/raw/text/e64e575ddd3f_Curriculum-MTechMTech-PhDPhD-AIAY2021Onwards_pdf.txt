@@ -1,0 +1,203 @@
+SOURCE_PDF: e64e575ddd3f_Curriculum-MTechMTech-PhDPhD-AIAY2021Onwards.pdf
+
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+and
+Dual degree M.Tech. (AI) + PhD
+Programs
+offered by the
+Department of Computer Science and Engineering
+July 2021
+
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines to act with
+higher levels of intelligence and emulate the human capabilities of sense, comprehend and act. The
+core problems of artificial intelligence include programming computers for certain traits such as
+Knowledge, Reasoning, Problem-solving, Perception, Learning and Planning. AI technology
+development and applications are evolving rapidly with major implications for economies and
+societies. As the demand for such applications increases, there is also an increasing need for building
+the future workforce for AI. For developing the AI ecosystem, this program will be executed in
+synergy with other M.Tech programs running in IIT Jodhpur, such as Sensors & IoT, Cyber-Physical
+Systems, and Advanced Manufacturing and Design.
+Objectives:
+This M.Tech in AI programme will offer students with deep knowledge of both fundamental AI
+technologies, as well as application-oriented AI. A student completing this program will be capable to
+undertake careers in industry as well as academia. He/She will have the option to explore a variety of
+domains including Manufacturing, Fintech, Healthcare, Agriculture/Food Processing, Education,
+Retail/Customer Engagement, Human and Robot interaction/intelligent automation, Smart City , Aid
+for Differently Abled/Accessibility Technology.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1.
+Comprehend fundamental concepts and hands-on knowledge of the state-of-the-art AI
+methodologies.
+2.
+Design and Build real-world AI systems for complex planning, decision making and learning,
+solving application-specific problems, and to reason about them.
+3.
+Conceive, Design and Develop Intelligent multi-modal multi-sensory Man-Machine interfaces.
+4.
+Design, Develop and Deploy machine learning based applications using structured and
+unstructured data (e.g., speech, text, images/videos).
+5.
+Understand and Assess reliability, dependability and trust-worthiness of AI-based systems.
+6.
+Design and develop AI applications for resource constrained environments.
+7.
+Adhere to evolving ethics and privacy laws across various domains and territories.
+8.
+Plan and manage technical projects.
+Learning Outcome:
+1.
+Understand the fundamentals of Artificial Intelligence, Machine Learning, Inference Engines,
+Speech,
+Vision,
+Natural
+Language
+Understanding,
+Robotics,
+and Human Computer
+2.
+Unify the knowledge of human cognition, AI, Machine Learning and data engineering for
+designing systems.
+3.
+Demonstrate hands-on knowledge of state-of-the-art AI tools for real-world problem-solving.
+4.
+Ability to develop real-time and robust AI-based systems with specific software, hardware
+and data requirements.
+5.
+Build solutions to explore fully immersive computer-generated worlds (in VR), and overlay
+computer graphics onto our view of our immediate environment (AR) along with smart,
+cognitive functionality.
+6.
+Demonstrate advanced skills to comprehend and communicate effectively.
+
+7.
+Carry out projects using intelligent cognitive solutions provided by AI algorithms to get more
+insights in stakeholder management, risk modeling, intelligent resource scheduling and
+managing project constraints with intelligent use of data models.
+
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+I Semester II Semester
+C MAL7xx0 Optimization 2-0-0 2 C CSL7xx0 Deep Learning 3-0-0 3
+C CSL7xx0 Artifciial Intelligence 3-0-0 3 C CSL7xx0 DL-Ops 0-0-2 1
+C CSL7xx0 Advanced Data Structures
+and Algorithms 2-0-0 2 C CSL7xx0 Core Bucket: Advanced Artifciial
+Intelligence/ Autonomous
+Systems 3-0-0 3
+C CSP7xx0 Machine Learning 3-0-0 3 PE xxxxx Program Elective 2 3-0-0 3
+C xxxxx ML-Ops 0-0-2 1 PE xxxxx Program Elective 3 3-0-0 3
+PE xxxxx Program Elective 1 3-0-0 3 OE xxxxx Open Elective 1 3-0-0 3
+NG xxxxx Technical Communication 1-0-0 1 NG xxxxx Ethics and Professional Life 1-0-0 1
+Total Credits: 15 Total Credits: 17
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+III Semester IV Semester
+P CSDxx0 Major Project – Part 1 0-0-10 5 P CSDxx0 Major Project – Part 2 0-0-22 11
+PE xxxxx Program Elective 4 3-0-0 3 PE xxxxx Program Elective 6 3-0-0 3
+PE xxxxx Program Elective 5 3-0-0 3 NG xxxxx Intellectual Property 1-0-0 1
+OE xxxxx Open Elective - 2 3-0-0 3
+NG xxxxx System Engineering and
+Project Management 1-0-0 1
+Total Credits: 15 Total Credits: 15
+Credit Distribution **List of Prescriptive Electives
+1 Program Core 18 credits 1 Linear algebra for data science
+2 Program Electives 18 credits 2 Statistics for Data Science
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-graded 4 credits
+Total 62 credits
+Course Structure for
+M.Tech. (AI) Program and Dual degree M.Tech. (AI) + PhD
+*The students should have satisfactory performance in the course in order to be eligible for internships and
+placements opportunities from the institute.
+**Depending on the background of students, courses from the prescriptive electives can be recommended for
+students by the DRC.
+
+Animation
+Advanced Artifciial Intelligence
+Advanced Computer Graphics
+Advanced ML
+Advanced Biometrics
+Advancements in Computer Vision
+Advanced Human-Machine Interaction
+Algorithms for Big Data
+Bio-image computing
+Bioimaging
+Blockchain
+Cryptography
+Computer Graphics
+Computer Vision
+Computational Learning Theory
+Computer Architecture
+Crowd-sourcing and Human Computing
+Data Visualization
+Dependable AI
+Digital Image Analysis
+Edge and Fog Computing
+Ethics, Policy, Law and Regulation in AI
+Embedded Systems
+GPU Programming
+Graph Theory and Applications
+Graph Theoretic Algorithms Health Informatics
+Information Retrieval
+Introduction to AR and VR
+Machine Learning with Big Data
+Medical Image Analysis
+Natural Language Processing
+Neuromorphic Computing and Design
+Principles of Biological Vision
+Autonomous Systems
+Reliability Engineering and Life Testing
+Resource Constrained Artifciial Intelligence
+Scalable Machine Learning
+Selected Topics in AI - I/II/III
+Selected Topics in CS - I/II/III
+Selected Topics in ML - 1/2/3
+Social Network Analysis
+Social Networks (700)
+Software and Data Engineering
+Security and its Applications
+Speech Understanding
+Stream Analytics
+Vehicular Ad-hoc Networks
+Visual Perception
+Virtualization and Cloud Computing
+Advanced Data Structures and Algorithms (Fractal 3)
+Adaptive Signal Processing
+Advanced Digital Signal Processing
+Compressive Sensing
+Computational Imaging
+Digital Signal Processing and Applications
+Data Compression
+Cyber Physical System Modelling and Simulation lab Digital Video Processing
+Introduction to Haptics
+Introduction to Cyber-Physical Systems
+Machine Learning for Communication
+Introduction to Smart Grid
+Speech and Audio Signal Processing
+Statistical Decision Theory
+Wavelets
+Robotics Planning and Decision Making for Robots
+Bioinformatics Computational Biology
+Program Electives for M.Tech. (AI) and
+Dual Degree M.Tech. (AI) + Ph.D. Program
+
+Advanced Topics in Computational PDE
+AI for Finance
+Computational fni ance
+Computational Game Theory
+Linear Algebra with Data Linear Algebra for Data Science
+Statistics for Data Science
+Stochastic Processes
+Mathematical modeling and simulations
+Quantum Information Processing Quantum Cryptography and Coding
+Analysis of Social Media Networks
+Human Factors in Interaction Design
+Digital Methods and Tools Fundamentals of Digital Humanities: Fractal - 2 (Data
+and Knowledge representations)
+Cognitive Architectures
+Introduction to Financial Engineering
+Computational Neuroscience
+Connectomics
+Computational Cognition & Behavior Modelling Difefrential Geometry
+AI for Risk Analysis Risk Management Analytics

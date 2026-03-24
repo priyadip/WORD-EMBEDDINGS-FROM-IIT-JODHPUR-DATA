@@ -1,0 +1,17 @@
+research seminar by anurag pathak on august at pm title of the talk estimation of the number of species date time venue august pm seminar hall dept
+of mathematics abstract in this work we propose distribution as stochastic abundance model where the sample follows an independent poisson process
+we estimate the number of species using the maximum likelihood estimation method
+jeffreys and bernardo reference priors have been obtained and bayesian estimators for the number of species in this model have been proposed
+these bayesian estimators are compared with the corresponding profile and conditional maximum likelihood estimators based on their risks under the squared error loss function self
+jeffreys and bernardo reference priors are considered and compared with the bayesian approach using biological data
+about the speaker anurag pathak is currently working as an assistant research officer statistics at the ministry of health and family welfare uttar pradesh posted at the community health centre in payagpur bahraich
+he has nine months of experience in monitoring and evaluating government health policies
+previously he worked at maharaja suhel dev autonomous state medical college bahraich february to november and ram manohar lohia institute of medical sciences lucknow july to february
+his role there included teaching biostatistics to mbbs students and research methodology to postgraduate students md ms and dnb
+he also analyzes data for various research projects of faculty and students using statistical software
+he completed doctoral degree in statistics at central university of haryana in june focusing on lifetime analysis and ecological modeling
+his master degree in applied statistics from babasaheb bhimrao ambedkar central university lucknow in july
+his research interests include classical and bayesian inference biostatistics and health outcomes research
+he has published research articles in the reputed journals sci scopus pubmed pubmed central
+also he participated in national and international conferences faculty development programs
+title of the talk estimation of the number of species date time venue august pm seminar hall dept

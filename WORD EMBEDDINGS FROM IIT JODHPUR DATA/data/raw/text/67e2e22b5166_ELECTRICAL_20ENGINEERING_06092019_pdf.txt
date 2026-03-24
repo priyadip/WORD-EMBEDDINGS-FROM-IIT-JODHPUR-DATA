@@ -1,0 +1,1486 @@
+SOURCE_PDF: 67e2e22b5166_ELECTRICAL_20ENGINEERING_06092019.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+A Proposal
+For
+M. Tech. And Dual Degree (M.Tech. and
+Ph.D.) in Cyber Physical Systems
+Program Structure
+
+M.Tech.&M.Tech.-Ph.D. Dual Degree Programs in
+Cyber Physical Systems
+Introduction
+Beginning in the first decade of 21st century and continuing today, computational and 
+communication resources, tightly integrated with physical systems, shaping the new capabilities for 
+the modern systems. The use of computational resources to achieve different capabilities is in 
+existence for several decades. However, many modern systems have high degree of complexities 
+and also the scale of these systems is large and/or has distributed nature. For example traffic 
+control system in a city requires modelling of traffic flows in different areas and optimizing different 
+performance objectives by appropriately taking routing decisions, and decisions about actuating 
+different signals for smooth traffic flow; this is a large scale distributed system. There are several 
+other domains where CPS examples can be seen e.g. Healthcare, Robotics, Automotive, Power 
+Grid, Avionics and Transportation. Such system necessitates a deeper understanding of system 
+behaviour and also provides feedback to augment system design to achieve overall objectives from 
+the system. Emergence of ubiquitous computing and communication has open enormous 
+opportunities to provide new capabilities to systems e.g. robotics assisted remote surgery. Many 
+(small) systems can work in collaborative/cooperative manner to achieve a larger overall objective. 
+The examples can be seen in robotics and modern warfare where collaboration/cooperation 
+achieves larger objectives. The communication capability also provides a possibility of distributed 
+learning for systems.Hybrid system modelling is one of the possible approaches to model CPS. 
+Hybrid system approach allows inclusion of both continuous time and discrete time states 
+(variables) in the model.
+The seamless integration of cyber system with physical system also poses several challenges 
+towards system security against possible system attacks. With modelling of physical system, it is 
+necessary to model different possible attacks and to provide adequate security at hardware and 
+software to ensure overall system security in all scenarios. The cyber component includes hardware 
+and associated software. The design of cyber component also requires software level abstraction to 
+have system level model of cyber component. This also allows designing a very high reliability 
+system as the model allows a predictable behaviour. Conventionally software is developed without 
+formal models and largely depends on programmers‟ experience and knowledge; however, 
+requirement of safety, reliability in CPS demand higher level of abstractions at software level as 
+well. This allows the system remains correct and secure by design.
+Objective of the Programme
+The program aims to produce competent engineerswho can design engineered systems that are 
+built from seamless integration of physical system and cyber systems. The program will enable 
+engineers with required competency to design software-hardware architecture. The program also 
+imparts knowledge of several tools for modelling physical systems and tools for designing cyber 
+components. The program will produce professionals who can design predictable and secure Cyber 
+Physical Systems (CPS).
+Expected Graduate Attributes (M.Tech)
+1. Ability to understand modern approaches to Model CPS. 
+2. Appreciation of cross disciplinary interaction of cyber and Physical systems. 
+3. Capability to design cyber components to meet the overall specifications of a unified system. 
+4. Adequate design knowledge to ensure system remains correct by design. 
+5. Ability to use knowledge from machine learning, control theory to achieve overall objectives
+of a given CPSs.
+6. High quality technical communication skills. 
+7. Appreciation and adherence to norms of professional ethics. 
+8. Ability to plan and manage technical projects.
+
+Learning outcome:
+1. Ability to analyse overall specifications of CPS and translate it to the different sub-
+systems design requirements.
+2. Adequate competency to model overall CPS using Hybrid system and other approaches
+and validate the model.
+3. Capability toco-design hardware-software architecture in distributed environment. 
+4. Knowledge of Machine Learning algorithms and Distributed Control algorithms. 
+5. Methods to embedded security in overall design of CPS. 
+6. Ability to understand applications like smart grid, mobile networks and different systems
+of smart city.
+7. Critical thinking and scientific problem solving. 
+8. Skill to communicate scientific ideas and /or application systems. 
+9. Acquire basic project management skills
+Topics Cloud for the CPS program
+ 
+Modelling of CPS system from Hybrid system‟s perspectives
+ 
+Distributed computing; FoG and Cloud computing
+ 
+Embedded System design (Using programmable system-on-chip approach)
+ 
+Real time operating system
+ 
+Communication protocols
+ 
+Networked and distributed Control system
+ 
+Algorithms of Machine Learning
+ 
+Digital Signal Processing
+
+Category Program
+Core (MC) Program
+Elective (ME) Open
+Elective
+(MO) Project
+(MP) Total
+Graded
+Credits Total
+Graded +
+Nongraded
+Credits
+Credits 18 18 06 16 58 62
+Cat
+. Course Title L-T-P Credi
+ts Cat
+. Course Title L-
+T-P Credi
+ts
+I Semester II Semester
+MC Introduction to Cyber
+Physical Systems 3-0-0 3 MC Security in CPS 2-0-
+0 2
+MC Cyber Physical System
+Modelling and Simulation
+Laboratory 0-0-2 1 MC Data Communication and
+Networking 3-0-
+0 3
+MC Advanced Control System 3-0-
+0 3
+MC Introduction to Modelling
+(Fractal offered by Dept. Of
+Mathematics) 1-0-0 1 MC Embedded System Design 3-0-
+0 3
+MC Simulation of Dynamical
+Systems 1-0-0 1 ME Program Elective-3 3-0-
+0 3
+ME Program Elective-1 3-0-0 3 MC Embedded System Design
+Laboratory 0-0-
+2 1
+ME Program Elective-2 3-0-0 3
+MO Open Elective-1 3-0-0 3
+NG Technical Communication 1-0-0 1 NG Innovation and IP
+Management 1-0-
+0 1
+III Semester IV Semester
+ME Program Elective-4 3-0-0 3 MO Open Elective- 2 3-0-
+0 3
+ME Program Elective-5 3-0-0 3 NG Professional Ethics 1-0-
+0 1
+ME Program Elective-6 3-0-0 3
+NG Systems Engineering and
+Project Management 1-0-
+0 1
+Proposed Program’s Structure Overall Structure
+Semester wise distribution of credits
+
+Course Title L-T-P Credit
+s Department offers
+the course
+Computer Vision 3-0-0 3 CSE
+Advanced Digital Signal Processing 3-0-0 3 EE
+Vehicular Ad-Hoc
+Networks(VANETs) 3-0-0 3 CSE
+Edge & Fog Computing 3-0-0 3 CSE
+Robotics : Fractal 1 Robot Modelling 1-0-2 2 ME
+Robotics : Fractal 2 Control 1-0-0 1 ME
+Robotics : Fractal 3 Motion
+Planning and Programming 1-0-0 1 ME
+Machine Learning I 3-0-0 3 CSE
+Digital and Systems-on-Chips
+Design 3-0-0 3 EE
+Introduction to Virtual Reality 3-0-0 3 CSE
+Smart Grid 3-0-0 3 EE
+Adaptive Signal processing 3-0-0 3 EE
+Computer Architecture 3-0-0 3 CSE
+Digital Twin 3-0-0 3 EE
+Machine Leaning II 3-0-0 3 CSE
+Artificial Intelligence I 3-0-0 3 CSE
+Artificial Intelligence II 3-0-0 3 CSE
+Smart Manufacturing 1-0-2 2 ME
+Resource Constrained AI 3-0-0 3 CSE
+Real Time Communications 3-0-0 3 EE
+Industry 4.0 Applications in
+Manufacturing Systems 1-0-0 1 ME
+Optimization 1-0-0 1 Mathematics
+List of Program Electives
+The department may add new electives from time to time.
+
+Title Introduction to Cyber Physical Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical Systems Type Core
+Prerequisite Differential Equations, Basics of Microprocessors
+
+Title Embedded System Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical Systems Type Core
+Prerequisite Basics of Microprocessors
+
+Title Advanced Control Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical Systems Type Core
+Prerequisite Differential equations and Basics of Control system
+desirable
+
+Title Simulation of Dynamical Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech. Cyber Physical System Type Core
+Prerequisite Basics of ODE
+
+Title Cyber Physical System Modelling Laboratory Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.TechCyber Physical System Type Core
+Prerequisite ODE
+
+Title Embedded System Design Laboratory Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech.Cyber Physical System Type Core
+Prerequisite Basics of Processors
+
+Title Smart Grid Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Cyber Physical System Type Elective
+
+Title Security in Cyber Physical Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. Cyber Physical System Type Core
+Prerequisite Basics of Control system is desirable
+
+Proposal
+For
+M. Tech. in Sensors and Internet of Things
+Program Structure for first four semesters
+
+new era of engineering, Internet of Things (IoT), has gained interest. IoT is a network of connected
+To produce skilled graduates with exposure to current era of SIoT and deeper understanding
+of the subject components. The graduates will eventually be contributing to variety of domains 
+including smart agriculture, transportation, environment monitoring, healthcare, and smart 
+wearable.
+Program’s Scope
+The objective is to develop broad IoT systems and this program will be offered with four Primary 
+verticals.
+ 
+Sensors and Sensing Technologies
+ 
+Circuits and Systems
+ 
+Communication and Networking
+ 
+Embedded systems
+The program will offer deeper theoretical learning through various verticals by theory and 
+laboratory courses. Hands on experiments and projects will be offered to enhance the learning. For 
+Dual Degree Ph.D., ~2 additional years will be dedicated towards research contributions. 
+ 
+Graduate attributes
+ 
+Ability to follow multidisciplinary approach for design and implementation of systems, 
+involving various domains of Engineering, Sciences, and Humanities.
+ 
+Skills to design and develop various sensors and related interfacing circuitry for IoT
+ 
+Ability to develop design, simulation, and implementation schemes based on the knowledge 
+acquired from coursework.
+ 
+Skills to implement IoT sensor platforms for applications in the area of environment, health, 
+agriculture, and other novel applications.
+ 
+Skills to undertake high quality academic and industrial research in Sensors and IoT
+Learning outcomes
+ 
+Strong understanding of fundamentals of Sensing and Sensor Devices
+ 
+Ability of designing Digital and Analog interface circuits used for SIoT
+ 
+Capability of interfacing Sensors for IoT applications
+ 
+Development and use of emerging Sensors for IoT Technology
+ 
+Understanding of fundamentals of wireless communications to design Sensor Nodes
+ 
+Implementation of IoT platforms using embedded systems
+ 
+Understanding of uses and risks related to IoT devices
+
+Category M.Tech
+Compulsory
+(MC) M. Tech Elective
+(ME) M. Tech Open
+(MO) M. Tech
+Project (MP) Total
+Credits 19 17 6 16 58
+Cat
+. Course Title L-T-P Cr. Cat
+. Course Title L-T-P Cr.
+I Semester II Semester
+MC Sensors and
+Measurement 3-0-0 3 MC Data communication and
+Networking 3-0-
+0 3
+MC Microsystems Fabrication
+Technology 3-0-0 3 MC Digital and Systems-on-
+Chip Design 3-0-
+0 3
+MC Analog and Interfacing
+Circuits 3-0-0 3 MC VLSI Design Lab 0-0-
+2 1
+MC Introduction to Internet
+of Things 1-0-0 1 ME Program Elective-2 3-0-
+0 3
+MC Sensors and IoT Lab 0-0-2 1 ME Program Elective-3 3-0-
+0 3
+ME Program Elective-1 3-0-0 3 ME Program Elective-4 3-0-
+0 3
+NG Technical Communication 1-0-0 1 NG Innovation and IP
+Management 1-0-
+0 1
+Total (Graded + Non-graded) 15 Total (Graded + Non-graded) 17
+MC Winter Internship 1
+Total 1
+III Semester IV Semester
+ME Program Elective-5 3-0-0 3 MO Open Elective-2 3-0-
+0 3
+ME Program Elective-6 2-0-0 2 NG Professional Ethics 1-0-
+0 1
+MO Open Elective-1 3-0-0 3
+Program’s Structure
+Overall Structure
+Semester wise distribution of credits
+
+NG Systems Engineering and
+Project Management 1-0-0 1
+Total (Graded+ Non-graded) 14 Total (Graded+ Non-graded)l 15
+Course Title L-T-
+P Cre
+dits Course Title L-T-P Cre
+dits
+First/Third Semester Third Semester
+Flexible and Printed Electronics 3-0-0 3 Advanced Digital Signal
+Processing 3-0-0 3
+Digital VLSI Design 3-0-0 3 Neuromorphic Computing and
+Design 3-0-0 3
+Wireless Communication 3-0-0 3 Fog and Edge Computing 3-0-0 3
+Antenna Engineering 3-0-0 3 Vehicular Ad Hoc Networks 3-0-0 3
+Machine Learning 1 3-0-0 3
+Selected Topics in Sensors &
+IoT I 1-0-0 1
+Second Semester Fourth Semester
+Image Sensor Design and
+Applications 3-0-0 3 Resource Constrained AI 3-0-0 3
+RF IC Design 3-0-0 3 Microfluidics Technology 3-0-0 3
+Embedded Systems Design 3-0-0 3 Selected Topics in Sensors &
+IoT II 2-0-0 2
+Active Filter Design 3-0-0 3 Selected Topics in Sensors &
+IoT III 3-0-0 3
+Millimeter-wave Technology 3-0-0 3
+Nano Sensors 3-0-0 3
+Winter Internship is designed for hands-on-exposure in micro-fabrication 
+technology for sensors and actuators
+List of Program Electives
+Open electives: These can be taken from the existing program electives or any other course of 
+same level from the institute
+
+Course Title Sensors and Measurements Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Semiconductor Devices
+
+Course Title Analog and Interfacing
+Circuits Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital and Analog Electronics
+
+1. Shanthi Pavan, VLSI Data Conversion Circuits, NPTEL Course Material, Department of
+Electrical 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+2. Nagendra Krishnapura, Analog Integrated Circuit Design, Department of Electrical
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+Preparatory Course Material
+1. P. E. Allen, D. R. Holberg (2013), CMOS Analog Circuit Design, 3rd Edition, Oxford
+University Press.
+2. R. Gregorian, G. C. Temes, (2008), “Analog MOS Integrated Circuits for Signal
+Processing”, John Wiley and Sons.
+
+Course Title Microsystems Fabrication
+Technology Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Semiconductor Devices
+
+Preparatory course material
+1. Sensors and Actuators (Elsevier) 
+2. J. Micromechanics and Micro engineering (IOP)
+
+Title Introduction to Internet of Things Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M. Tech. 1st year Type Compulsory
+
+Title Data Communication and Networking Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Prerequisite Fundamentals of Wireless Communications
+
+Self-Learning Material
+1. Mishra, S., Wireless Adhoc and Sensors Networks, NPTEL Course Material,
+Department of Electrical and Electronics Communication Engineering, Indian 
+Institute of Technology Kharagpur, https://nptel.ac.in/courses/106105160/
+2. Zou, Y., Zhu, J., Wang, X., and Hanzo, L., "A Survey on Wireless Security: Technical
+Challenges, Recent Advances, and Future Trends," in Proceedings of the IEEE, vol. 
+104, no. 9, pp. 1727-1765, Sept. 2016.
+3. W. Xia, Y. Wen, C. H. Foh, D. Niyato and H. Xie, "A Survey on Software-Defined
+Networking," in IEEE Communications Surveys & Tutorials, vol. 17, no. 1, pp. 27-51, 
+Firstquarter 2015.
+Preparatory Course Material
+1. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering 
+& 
+Computer 
+Science, 
+Massachusetts 
+Institute 
+of 
+Technology,
+
+Course Title Digital and Systems-on-Chip
+Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M. Tech. 1st year Type Compulsory
+Pre-requisite Digital Logic and Design
+
+Title Flexible and Printed Electronics Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M.Tech., Ph.D Type Elective
+Prerequisite Understanding of Electronic Materials and
+Devices
+
+OTFTs, From transistors to circuits, circuits on flexible and non- silicon substrates, 
+Contacts and Interfaces to Organic and Inorganic Electronic Devices: Schottky contacts, 
+defects, carrier recombination, effect of applied mechanical strain(14 Lectures)
+Other Flexible Devices and System Integration: Organic Light Emitting Diodes, Organic 
+Solar Cells, thin flexible OLED displays, OLED lighting, smart wallpaper, sensors, logic, 
+and memory, RFID tags, Latest applications of printed electronics, Encapsulation, Roll 
+to roll printing processes, Integration Issues, and Designs for Future (14 Lectures)
+Textbook
+1. G. Nisato, D. Lupo, S. Ganz (Editors) (2016), Organic and Printed Electronics:
+Fundamentals and Applications, CRC Press
+2. Large Area and Flexible Electronics, Mario Caironi & Yong-Young Noh (Editors
+3. Wong, William S., and Alberto Salleo, (Eds.) (2009) Flexible electronics: materials
+and applications. Vol. 11. Springer
+Self Learning Material
+1. Recent Journal Papers form Flexible and Printed Electronics, IOP, and Organic
+Electronics, Elsevier
+
+Title Antenna Engineering Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Electromagnetic Theory, Microwave Engineering
+
+Textbook
+1. Balanis C. A., Antenna Theory, Analysis and Design, 4th edition, Wiley Press, 2016
+2. Krauss J. D., Antennas and Wave Propagation, 4th edition, Tata McGraw-Hill Education,
+3. Elliott R. S., Antenna Theory and Design, Wiley Press, 2006
+Self Learning Material
+1. 
+Vedio Lecture: Antenna Engineering, Dr. Anthony Ferraro, Penn State Univ., USA, 
+http://www.engr.psu.edu/cde/courses/ee438/index.htm
+Preparatory Course Material
+1. NPTEL Lectures: Microwave Theory and Techniques, (Dr. Girish Kumar, IIT Bombay)
+
+Title Digital VLSI Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M.Tech., Ph.D. Type Elective
+Prerequisite Digital Electronics, Knowledge of MOS device physics
+
+Textbook
+1. Jan M. Rabaey, Anantha Chandrakasan, and Borivoje Nikolic, (2016), Digital integrated
+Circuits, A design perspective, 2nd Edition, 2nd Edition, Pearson.
+2. Neil H.E. Weste, David Money Harris, (2010), CMOS VLSI Design: A Circuits and
+Systems Perspective, 4th Edition, Pearson.
+3. Sung-Mo-Kang, Yusuf Leblebici, (2016), CMOS Digital Integrated Circuits Analysis &
+Self Learning Material
+1. 
+Jan 
+M. 
+Rabaey, 
+Anantha 
+Chandrakasan, 
+and 
+Borivoje 
+Nikolic, 
+online 
+Video
+
+Title Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV, M.Tech., Ph.D. Type Elective
+Prerequisite Fundamentals of Communications
+
+Textbook
+1. Tse, D. and Viswanath, P., (2005), Fundamentals of wireless communication, Cambridge
+University Press.
+2. Goldsmith, A., (2005), Wireless Communications, Cambridge University Press.
+3. Simon, M. K. and Alouini, M. S., (2004), Digital communication over fading channels, John
+Wiley and Sons.
+Self-Learning Material
+1. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering 
+& 
+Computer 
+Science, 
+Massachusetts 
+Institute 
+of 
+Technology,
+PreparatoryCourse Material
+1. Jagannatham, A. K., Principles of Communication II, NPTEL Course Material, Department of 
+Electrical 
+Engineering, 
+ 
+ 
+ 
+ 
+ 
+ 
+Indian 
+Institute 
+of 
+Technology
+2. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT OpenCourseWare, 
+Electrical 
+Engineering 
+& 
+Computer 
+Science, 
+Massachusetts 
+Institute 
+of 
+Technology,
+
+Title Image Sensor Design and Applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. IV, M. Tech, Ph.D. Type Elective
+Prerequisite Analog electronics
+
+Title Radio Frequency Integrated Circuit Design Number EEL7XX0
+
+Department Electrical Engineering L-T-P
+[C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Students Type Elective
+Prerequisite Analog electronics, Communication
+engineering, Microwave engineering.
+
+Preparatory Course Materials
+1. B. P. Lathi, Z. Ding, Modern Digital and Analog Communications Systems, 4th
+edition, Oxford university press, July-2017.
+2. D. M. Pozar, Microwave Engineering, 4th edition, New York, NY, USA: Wiley, 2011.
+
+Title VLSI Design Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M. Tech. 1st year Type Compulsory
+
+Title Sensors and IoT Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M. Tech. 1st year Type Compulsory
+
+Title Nano Sensors Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV year), M.Tech, and Ph.D. Type Elective
+
+Title Active Filter Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and Ph.D. Type Elective
+
+Title Millimeter-wave Technology Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Students Type Elective
+Prerequisite Electromagnetic theory, Microwave engineering
+
+Textbook
+1. KoulS.K., (1997), Millimeter Wave and Optical Dielectric Integrated Guides and Circuits,
+2. Courtney D. Liu, B. Gaucher, U. Pfeiffer, and J. Grzyb, (2009), Advanced millimeter wave
+3. Hueber, G., & Niknejad, A. (Eds.). (2019). Millimeter-Wave Circuits for 5G and Radar (The
+Cambridge RF and Microwave Engineering Series). Cambridge: Cambridge University Press.
+Self Learning Material
+1. Mandal M. K., Millimeter-wave technology, NPTEL course material, Department of
+Electronics 
+and 
+Electrical 
+Communication 
+Engineering, 
+IIT 
+Kharagpur,
+2. 
+TI 
+Training 
+& 
+Vedios, 
+(2017), 
+mmWave 
+RADAR 
+in 
+ADAS 
+Applications,
+PreparatoryCourse Material
+1. D. M. Pozar, (2011), Microwave Engineering, 4th Ed. New York, NY, USA: Wiley
+
+Title Selected Topics In Sensors and IoT I Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of sensors
+
+Title Selected Topics In Sensors and IoT II Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of sensors
+
+Title Selected Topics In Sensors and IoT III Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of sensors
+
+M. Tech. – Ph. D. Dual Degree
+in
+Communications and Signal Processing
+Introduction
+
+During the past few years, there has been an exponential growth in the usage of internet. The fast 
+development of economy and society requires modern and high-performance communications 
+systems that can cater for massive deployment of Internet of Things, while still offering acceptable 
+levels of energy consumption, equipment cost and network deployment and operation cost. It 
+needs to support a wide variety of applications and services requiring increased spectral efficiency, 
+higher data rates, low latency and high reliability. Communications and Signal processing is one of 
+the key technologies to meet the growing connectivity requirements for new use cases (e.g. for 
+ultra-low latency or high reliability cases) and new applications for the industry, opening up new 
+revenue streams also for operators. The M. Tech.-Ph. D. Dual Degree programme in 
+Communications and Signal Processing prepares students for an advanced engineering career by 
+in-depth understanding of modern communication networks on all layers and their associated 
+signal processing methods. The program provides students an opportunity to learn the 
+specialization in depth by updating and renewing their technical knowledge in a rapidly changing 
+telecommunication industry.
+Objective of the Program
+Graduates from the program will have in-depth knowledge and critical awareness of theoretical and 
+practical solutions to problems at the forefront of communications and the processing of signals. 
+They would be ready for careers in fields such as development, research, operations and 
+management of next-generation telecommunication networks and information processing systems.
+Graduate attributes
+Learning outcome
+• 
+Ability to statistically characterize and evaluate the performance of communication systems.
+• 
+Ability to apply the different methods for signal detection and estimation to real world 
+engineering problems and advanced research
+• 
+Develop understanding of cutting-edge research on future generations of wireless 
+communication.
+• 
+Analyze 
+multi-user 
+networks 
+and 
+understanding 
+of 
+techniques 
+like 
+opportunistic
+communication, multiuser diversity, superposition coding and successive interference 
+cancellation
+• 
+Implement end-to-end wireless communication systems with various MIMO technologies like 
+maximal ratio combining, OFDM, interleaving/de-interleaving, and Alamouti codes
+• 
+Ability to
+• 
+Master a specific set of methods appropriate to their dissertation, with the depth needed to 
+produce methodologically rigorous research.
+• 
+Carry out research work demonstrating scientific problem solving and generate IPR
+Program’s Structure
+
+Category M. Tech.
+Compulsory (MC) M. Tech. Elective (ME) M. Tech. Open
+(MO) M. Tech.
+Project
+(MP) Total Graded
+Credits 17 17 6 16 56
+Cat. Course Title L-T-P Credits Cat. Course Title L-T-P Credits
+I Semester II Semester
+MC Statistical Signal Analysis 3-0-0 3 MC Data Communication and
+Networking 3-0-0 3
+MC Wireless Communications 3-0-0 3 MC MIMO Wireless Communications 3-0-0 3
+MC Advanced Digital Signal Processing 3-0-0 3 ME Program Elective-2 3-0-0 3
+MC Digital Signal Processing Lab 0-0-2 1 ME Program Elective-3 3-0-0 3
+MC Communications Engineering Lab 0-0-2 1 ME Program Elective Lab 1-0-2 2
+ME Program Elective-1 3-0-0 3 NG Innovation and IP Management 1-0-0 1
+NG Technical Communication 1-0-0 1
+Total (Graded + Non-graded) 15 Total (Graded + Non-graded) 15
+III Semester IV Semester
+ME Program Elective-4 3-0-0 3 MO Open Elective-2 3-0-0 3
+ME Program Elective-5 3-0-0 3 NG Professional Ethics 1-0-0 1
+MO Open Elective-1 3-0-0 3
+NG Systems Engineering and Project
+Management 1-0-0 1
+Total (Graded+ Non-graded) 15 Total (Graded + Non-graded) 15
+Overall Structure (M. Tech. Degree Requirements for Communications and Signal Processing)
+Semester wise distribution of credits
+Topic Clouds
+
+Statistical Signal
+Analysis Wireless
+Communications Advanced Digital
+Signal Processing Digital Signal
+Processing Lab Communications
+Engineering Lab
+ Random Processes
+ Stationarity and
+Ergodicity
+ Random parameter
+estimation
+ Non-random
+parameter
+estimation
+ Multiple parameter
+estimation  Fading channel
+models
+ Error performance
+in AWGN and fading
+channels
+ Diversity
+Techniques
+ Capacity of fading
+channels
+ Multiuser systems-
+multiple and
+random access
+techniques
+ Multiuser diversity
+ Ad-Hoc Networks  Review of Fourier
+Analysis
+ Short time Fourier
+Transform
+ Resolution
+concepts
+ Wavelet
+Transform
+ Multi rate
+systems
+ Finite word length
+effects  Digital signal
+processor
+architecture
+ Interface hardware
+and software
+systems
+ Comparative study
+of microprocessor,
+ASIC and DSP
+ Implementation of
+ADC, convolution,
+FIR, IIR, FFT and
+spectral estimation
+techniques  Introduction to
+instruments like
+vector signal
+analyzer, spectrum
+analyzer
+ Implementation of
+end-to-end
+communication
+systems
+ Implementation of
+Equalizers
+ Implementation of
+Alamouti codes
+MIMO Wireless Communications Data Communication and Networking
+ MIMO channel models
+ Receiver architectures
+ Diversity multiplexing gain tradeoff
+ Space-time code design
+ Multiuser MIMO
+ Massive MIMO  Fundamentals of Data Communication
+ Network layer and topology design
+ Network Management
+ Mechanisms to improve performance
+ Transport and Application Layers
+ Reliability and security
+Complete List of Program Electives
+
+Course Title L-T-P Credits Course Title L-T-P Credits
+Coding Theory 3-0-0 3 Free Space Optical Communications 3-0-0 3
+Antenna Engineering 3-0-0 3 GNSS Signal Processing 3-0-0 3
+Advanced Digital Communication 3-0-0 3 Backhaul Networks for Wireless
+Systems 3-0-0 3
+Network Information Theory 3-0-0 3 Selected Topics in Communication I 1-0-0 1
+Statistical Decision Theory 2-0-0 2 Selected Topics in Communication II 2-0-0 2
+Multi-rate Digital Signal Processing 2-0-0 2 Selected Topics in Communication III 3-0-0 3
+Digital Image Processing and
+Applications 3-0-0 3 Neuromorphic computing and design 3-0-0 3
+Digital Video Processing 3-0-0 3 Machine Learning 2 3-0-0 3
+RF IC Design 3-0-0 3 Real Time Communications 3-0-0 3
+Adaptive Signal Processing 3-0-0 3 Millimeter Wave Technology (SM) 3-0-0 3
+Optical Fiber Communications 3-0-0 3 Digital Image and Video Processing Lab 1-0-2 2
+Image sensor Design and Application 3-0-0 3 RF IC Design Lab 1-0-2 2
+Applied Optimization for Wireless
+Communication 3-0-0 3 Network Information Theory 3-0-0 3
+Machine Learning for Communications 3-0-0 3 Graph Theory 3-0-0 3
+Machine Learning 1 3-0-0 3 Matrix Computations 1-0-0 1
+Optimization 1-0-0 1 Wavelets 3-0-0 3
+Physical Layer Security 3-0-0 3 Computational Imaging 3-0-0 3
+Compressive Sensing 3-0-0 3 Speech and Audio Processing 3-0-0 3
+Bio-Image Computing 3-0-0 3 Selected Topics in Signal Processing II 2-0-0 2
+Selected Topics in Signal Processing I 1-0-0 1 Data Compression 3-0-0 3
+Selected Topics in Signal Processing III 3-0-0 3 Machine Learning for Communication
+Lab 1-0-2 2
+Multimedia Communications 3-0-0 3
+Note: Machine Learning 1 and 2, Bio-Image Computing, and Neuromorphic computing and design 
+will be offered by CSE, while Graph Theory, Matrix Computations, and Optimization will be offered 
+by Mathematics Department. The course contents are available in the respective booklets.
+Advisory for Program Electives
+
+Course Title L-T-P Credits Course Title L-T-P Credits
+Program Elective -1 Program Elective Lab
+Coding Theory 3-0-0 3 Digital image and Video Processing Lab 1-0-2 2
+Antenna Engineering 3-0-0 3 RF IC Design Lab 1-0-2 2
+Machine Learning 1 3-0-0 3 Machine Learning for Communication
+Lab 1-0-2 2
+Advanced Digital Communication 3-0-0 3
+Selected Topics in Communication I 1-0-0 1
+Selected Topics in Communication II 2-0-0 2
+Selected Topics in Communication III 3-0-0 3 Program Elective -4,5
+Matrix Computations 1-0-0 1 Free Space Optical Communications 3-0-0 3
+Optimization 1-0-0 1 GNSS Signal Processing 3-0-0 3
+Millimeter Wave Technology 3-0-0 3
+Program Elective -2,3 Selected Topics in Communication I 1-0-0 1
+Statistical Decision Theory 2-0-0 2 Selected Topics in Communication II 2-0-0 2
+Optimal Filtering 3-0-0 3 Selected Topics in Communication III 3-0-0 3
+Digital Video Processing 3-0-0 3 Neuromorphic computing and design 3-0-0 3
+Digital Image Processing and
+Applications 3-0-0 3 Machine Learning for Communications 3-0-0 3
+Selected Topics in Communication I 1-0-0 1 Real Time Communications 3-0-0 3
+Selected Topics in Communication II 2-0-0 2 Backhaul Networks for Wireless
+Systems 3-0-0 3
+Selected Topics in Communication III 3-0-0 3 Computational Imaging 3-0-0 3
+Multi-rate Digital Signal Processing 2-0-0 2 Wavelets 3-0-0 3
+RF IC Design 3-0-0 3 Speech and Audio Signal Processing 3-0-0 3
+Graph Theory 3-0-0 3 Selected Topics in Signal Processing I 1-0-0 1
+Adaptive Signal Processing 3-0-0 3 Selected Topics in Signal Processing II 2-0-0 2
+Optical Fiber Communications 3-0-0 3 Selected Topics in Signal Processing III 3-0-0 3
+Image sensor Design and Application 3-0-0 3
+Applied Optimization for Wireless
+Communication 3-0-0 3
+Data Compression 3-0-0 3
+
+Machine Learning 2 3-0-0 3
+Network Information Theory 3-0-0 3
+Physical Layer Security 3-0-0 3
+Compressive Sensing 3-0-0 3
+Bio-Image Computing 3-0-0 3
+Selected Topics in Signal Processing I 1-0-0 1
+Selected Topics in Signal Processing II 2-0-0 2
+Selected Topics in Signal Processing III 3-0-0 3
+Detailed Course Contents
+
+Title Statistical Signal Analysis Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Knowledge of Probability Theory and Fundamentals of
+Communications
+
+John Wiley
+3. Kay, S.M., (1998), Fundamentals of Statistical Signal Processing: Vol. 1 Estimation Theory,
+1st Edition, Prentice Hall
+Self-Learning Material
+1. Sinha, R., Signal Detection and Estimation Theory, NPTEL Course Material, Department of
+Electrical 
+and 
+Electronics 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Guwahati,
+Preparatory Course Material
+1. Thangraj, A., Probability Foundations for Electrical Engineers, NPTEL Course Material,
+Department 
+of 
+Electrical 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Madras,
+
+Title Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Fundamentals of Communications
+
+Textbook
+1. Tse, D. and Viswanath, P., (2005), Fundamentals of wireless communication, Cambridge
+University Press.
+2. Goldsmith, A., (2005), Wireless Communications, Cambridge University Press.
+3. Simon, M. K. and Alouini, M. S., (2004), Digital communication over fading channels, John
+Wiley and Sons.
+Self-Learning Material
+1. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering 
+& 
+Computer 
+Science, 
+Massachusetts 
+Institute 
+of 
+Technology,
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Communication II, NPTEL Course Material, Department of 
+Electrical 
+Engineering, 
+ 
+ 
+ 
+ 
+ 
+ 
+Indian 
+Institute 
+of 
+Technology 
+Kanpur,
+2. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT OpenCourseWare, 
+Electrical 
+Engineering 
+& 
+Computer 
+Science, 
+Massachusetts 
+Institute 
+of 
+Technology,
+
+Title Advanced Digital Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Tech., Ph.D. Type Core
+Prerequisite Signals and Systems
+
+Textbook
+1. Proakis, J. G. and Manolakis,D.G., (2007), Digital Signal Processing, 4th Edition, Prentice
+Hall
+2. Mitra, S. K., (2008), Digital Signal Processing, 3nd Edition, McGraw Hill 
+3. Manolakis,D.G., and Ingle, V., (2011), Applied Digital Signal Processing, 1st Edition,
+Cambridge University Press
+Self-Learning Material
+1. Basu, T. K., Digital Signal Processing, NPTEL Course Material, Department of Electrical
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Kharagpur,
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material, Department
+of 
+Electrical 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Kanpur,
+
+Title Digital Signal Processing Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. - Ph.D. Dual Degree (Comm. Engg.) Type Elective
+
+2. Proakis, J. G., and Manolakis, D. G., (1997), Digital Signal Processing – Principles,
+Algorithms and Applications, 3rd Edition, Prentice Hall of India
+3. Udayashankara, V., (2010), Real Time Digital Signal Processing, Fundamentals,
+Algorithms and Implementation Using TMS Processor, Prentice Hall India
+Self-Learning Material
+1. Manuals for DSP Kits and MATLAB literature on Mathworks website
+Preparatory Course Material
+Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material, 
+Department of Electrical Engineering, Indian Institute of Technology Kanpur, 
+https://nptel.ac.in/courses/108104100/
+
+Title Communications Engineering Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Fundamentals of Communications
+
+Self-Learning Material
+1. User manual for Signal Analyzer, AFG, and Oscilloscope.
+Preparatory Course Material
+1. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT 
+OpenCourseWare, Electrical Engineering & Computer Science, Massachusetts Institute 
+of 
+Technology, 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-
+
+Title Data Communication and Networking Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech (IV Year), M. Tech., PhD. Type Compulsory
+Prerequisite Fundamentals of Wireless Communications
+
+Self-Learning Material
+4. Mishra, S., Wireless Adhoc and Sensors Networks, NPTEL Course Material,
+Department of Electrical and Electronics Communication Engineering, Indian 
+Institute of Technology Kharagpur, https://nptel.ac.in/courses/106105160/
+5. Zou, Y., Zhu, J., Wang, X., and Hanzo, L., "A Survey on Wireless Security: Technical
+Challenges, Recent Advances, and Future Trends," in Proceedings of the IEEE, vol. 
+104, no. 9, pp. 1727-1765, Sept. 2016.
+6. W. Xia, Y. Wen, C. H. Foh, D. Niyato and H. Xie, "A Survey on Software-Defined
+Networking," in IEEE Communications Surveys & Tutorials, vol. 17, no. 1, pp. 27-51, 
+First quarter 2015.
+Preparatory Course Material
+2. Zheng, L., Principles of Wireless Communications, MIT OpenCourseWare, Electrical
+Engineering 
+& 
+Computer 
+Science, 
+Massachusetts 
+Institute 
+of 
+Technology,
+
+Title MIMO Wireless Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Compulsory
+Prerequisite Wireless Communications
+
+2. Chockalingam A. and Rajan B. S., (2014), Large MIMO Systems, Cambridge
+University Press.
+3. Biglieri E., Calderbank R., Constantinides A., Paulraj A. and Poor H. V., (2007),
+MIMO Wireless Communications, Cambridge University Press.
+Self-Learning Material
+1. Zheng K., Zhao L., Mei J., Shao B., Xiang W. and Hanzo L., "Survey of Large-Scale
+MIMO Systems," in IEEE Communications Surveys & Tutorials, vol. 17, no. 3, pp. 
+1738-1760, 2015.
+2. Wu Y., Xiao C., Ding Z., Gao X. and Jin S., "A Survey on MIMO Transmission With
+Finite Input Signals: Technical Challenges, Advances, and Future Trends," in 
+Proceedings of the IEEE, vol. 106, no. 10, pp. 1779-1833, Oct. 2018.
+
+Title Coding Theory Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and Fundamentals of
+Communications
+Details of Elective Courses
+
+Self-Learning Material
+1. Thangraj, A., Coding Theory, NPTEL Course Material, Department of Electrical Engineering,
+Indian Institute of Technology Madras, https://nptel.ac.in/courses/117106031/
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Communication II, Department of Electrical Engineering,
+Indian Institute of Technology Kanpur, https://nptel.ac.in/courses/108104098/
+
+Title Antenna Engineering Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Electromagnetic Theory
+
+Title Advanced Digital Communication Number EEL5XX0
+
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and
+Fundaments of Communications
+
+1. Jagannatham, A. K., Principles of Communication II, Department of Electrical
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Kanpur,
+
+Title Statistical Decision Theory Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and
+Fundamentals of Communications
+
+Self-Learning Material
+1. Sinha, R., Signal Detection and Estimation Theory, NPTEL Course Material, 
+Department of Electrical and Electronics Engineering, Indian Institute of Technology 
+Guwahati, https://nptel.ac.in/courses/117103018/
+Preparatory Course Material
+1. Thangraj, A., Probability Foundations for Electrical Engineers, NPTEL Course Material, 
+Department of Electrical Engineering, Indian Institute of Technology Madras, 
+https://nptel.ac.in/courses/117103018/
+
+Title Optimal Filtering Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Knowledge of Probability Theory and
+Fundamentals of Communications
+Title Digital video processing Number EEL7XX0
+
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+
+Self Learning Material
+1. Katsaggelos, A.K., Fundamentals of Image and Video Processing, Coursera,
+Northwestern University, https://www.coursera.org/learn/digital
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Kanpur, 
+https://nptel.ac.in/courses/108104100/
+
+Title Optical Fiber Communications Number EEL6XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech., Ph.D. Type Elective
+Prerequisite EM Theory
+
+Textbooks
+1. J. M. Senior, Optical Fiber Communications: Principles and Practice, Prentice
+2. G. Keiser, Fibre Optic Communication McGraw-Hill, 5th Edition. 2013. 
+3. G. Agrawal, Fiber optic Communication Systems, John Wiley and sons, 4th
+Edition 2010.
+Self Learning Material
+1. NPTEL Lectures on Advanced Optical Communication by Prof. R.K. Shevgaonkar,
+IIT Bombay(https://nptel.ac.in/courses/117101002/)
+2. The 
+RP 
+Photonics 
+Encyclopedia 
+(https://www.rp-
+Preparatory Course Material
+1. (Fractal 1) Some concepts from “M.O. Sadiku and S.V. Kulkarni, Principles of
+Electromagnetics”, Oxford University Press, 6th edition, 2015.
+2. (Fractal 2) Some Concepts from “Jacob Millman et.al., Integrated Electronics”,
+McGraw Hill Education, 2nd Edition, 2017.
+3. (Fractal 3) Some concepts from “B.P. Lathi and Z. Ding, Modern Digital and
+Analog Communication Systems”, Oxford University Press, 4th Edition, 2011
+
+Title Digital image processing and applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+
+Perceptual image processing: masking, contrast sensitivity, angular frequency and viewing
+Distance (4 lectures)
+Textbook
+1. Gonzalez, R.C. and Woods, R.E., (2018), Digital Image Processing, 4th Edition, Prentice Hall
+Self Learning Material
+1. Katsaggelos, A.K., Fundamentals of Image and Video Processing, Coursera, Northwestern
+Preparatory Course Material
+1. Rao, R. V., Advanced Matrix Theory and Linear Algebra For Engineers, NPTEL Course
+Material, Centre for Electronics Design and Technology, Indian Institute of Science, 
+Bangalore, https://nptel.ac.in/courses/111108066/
+
+Title Multirate Digital Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Digital Signal Processing
+
+Preparatory Course Material
+1. Dutta, S. C. R., Digital Signal Processing, NPTEL Course Material, Department of
+Electrical 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Delhi,
+
+Title Network Information Theory Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech.-Ph.D. Dual Degree (Comm. Engg.) Type Elective
+Prerequisite Wireless Communications
+
+Textbook
+1. Gamal A. E. and Kim Y. H., (2012), Network Information Theory, Cambridge
+University Press.
+2. Kramer G., (2008), Topics in multi-user information theory, now Publishers Inc.
+3. Cover T. and Thomas J., (2006), Element of Information Theory, Wiley-Interscience.
+Self-Learning Material
+1. Avestimehr A. S., Diggavi S.N. and Tse D. N. C., "Wireless Network Information
+Flow: A Deterministic Approach," IEEE Transactions on Information Theory, Vol. 57, 
+No. 4, pp.1872-1905, 2011.
+2. Dimakis A. G., Godfrey P. B., Wu Y., Wainwright M. J. and Ramchandran K.,
+"Network Coding for Distributed Storage Systems," IEEE Transactions on 
+Information Theory, Vol. 56, No. 9, pp. 4539 - 4551, 2010.
+
+Title Radio Frequency Integrated Circuit Design Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Type Elective
+Prerequisite Analog electronics, Fundamentals of
+Communication engineering and EM Theory
+
+edition, Pearson
+Self-Learning Materials 
+1. Chatterjee, S., RF Integrated Circuits, NPTEL Course Material, Department of
+Electrical Engineering, Indian Institute of Technology Delhi, IIT Delhi, 
+http://nptel.ac.in/courses/117102012/#
+2. High Speed Communication Circuits, MIT, https://ocw.mit.edu/courses/electrical-
+Preparatory Course Materials
+1. Lathi, B. P., and Ding, Z., (2017), Modern Digital and Analog Communications
+Systems, 4th edition, Oxford university press
+2. Pozar, D. M., (2011), Microwave Engineering, 4th edition, New York, NY, USA: Wiley
+
+Title Adaptive Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech., Ph.D Type Elective
+Prerequisite Digital Signal Processing
+
+Self-Learning Material
+1. Chakraborty M., Adaptive Signal Processing, NPTEL Course Material, Department of
+Electrical and Electronics Engineering, Indian Institute of Technology Kharagpur, 
+https://nptel.ac.in/courses/117105075/
+Preparatory Course Material
+1. Dutta Roy, S. C., Digital Signal Processing, NPTEL Course Material, Department of Electrical 
+Engineering, Indian Institute of Technology Delhi, https://nptel.ac.in/courses/117102060/
+
+Title Image sensor Design and Applications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech IV year, M. Tech, Ph. D. Type Elective
+Prerequisite Analog electronics
+
+Color Processing: Color demosaicing, color correction and white balance (2 Lectures).
+Applications:Smart city, health care, autonomous vehicles, sports, motion detection, 
+surveillance (2 Lectures).
+Textbook
+1. Ohta, J., (2007), Smart CMOS Image sensors and Applications, CRC press.
+Self-Learning Material
+1. O. Y. Pecht, and Cummings, R. E., (2004), CMOS imagers: From Photo transduction to
+Image processing.
+2. Albert J.P. Theuwissen, Harvest imaging, https://harvestimaging.com/ 
+3. Albert J.P. Theuwissen, Image sensors blog http://image-sensors-world.blogspot.com/
+Preparatory Course Material
+1. IEEE Journal of Solid State circuits
+
+Title Digital image and video processing lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 1–0–2 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+
+Textbook
+1. Tekalp,M., (2015), Digital Video Processing, 2nd Edition, Prentice Hall 
+2. Bovik, A., (2009), The Essential Guide to Video Processing, 1st Edition, Academic
+Press
+3. Woods,J.W., (2006), Multidimensional Signal, Image and Video Processing and
+Coding, 2nd Edition, Academic Press
+4. Wang, Yao, (2003), Video Processing and Communications, 2nd Edition, Prentice Hall
+Self-Learning Material
+1. Gupta, S., Digital Video Signal Processing, NPTEL Course Material, Department of
+Electrical 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Kanpur,
+Preparatory Course Material
+1. Jagannatham, A. K., Principles of Signals and Systems, NPTEL Course Material,
+Department of Electrical Engineering, Indian Institute of Technology Kanpur, 
+https://nptel.ac.in/courses/108104100/
+
+Title Radio Frequency Integrated Circuit Design
+Lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 1–0–2[2]
+Offered for B.Tech. (IV Year) , M.Tech and PhD Type Elective
+Prerequisite Analog Electronics, EM Theory
+
+Preparatory Course Material
+1. Pozar, D. M., (2011), Microwave Engineering, 4th Edition, New York, NY, USA: Wiley
+
+Title Machine Learning for Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fundamentals of communication systems,
+machine learning 1
+
+1. Bishop, C. M., (2007), Pattern Recognition and Machine Learning, Springer 
+2. MacKay, D.J.C., (2005), Information Theory, Inference, and Learning Algorithms,
+Cambridge University Press
+Self-Learning Material
+Machine Learning For Communications Emerging Technologies Initiative, IEEE
+
+Title Machine Learning for Communication lab Number EEP7XX0
+Department Electrical Engineering L-T-P [C] 1–0–2 [2]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Machine learning 1
+
+Title GNSS Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech., Ph. D. Type Elective
+Prerequisite Fundamentals of Communications and Signals
+and Systems
+
+Navigation solution: Code-based positioning; Code and carrier-based positioning; least 
+squares solution; weighted least squares solution; Kalman filtering solution; basic 
+schemes for GNSS/inertial hybridization. (7 lectures)
+Vulnerabilities 
+of 
+GNSS: intentional interferences and jammers; unintentional
+interferences; spoofing attacks; ionospheric scintillation; detection and mitigation 
+techniques. (7 lectures)
+Indoor positioning: basic measurements; positioning approaches: model-based versus 
+model-free methods; hybridization and data fusion; main technologies. (7 lectures)
+Textbook
+1. Betz J. W., (2015), Engineering Satellite-Based Navigation and Timing: Global
+Navigation Satellite Systems, Signals, and Receivers, Wiley-IEEE Press.
+2. Kaplan E. and Hegarty C. J., (2017), Understanding GPS/GNSS: Principles and
+Applications, Artech House.
+3. Misra P. and Enge P., (2011), Global Positioning System: Signals, Measurements,
+and Performance, Ganga-Jamuna Press.
+Preparatory Course Material
+1. Zheng, L. and Gallager, R., Principles of Digital Communications I, MIT 
+OpenCourseWare, Electrical Engineering & Computer Science, Massachusetts Institute 
+of 
+Technology, 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-
+
+Title Free Space Optical Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech IV Year, M.Tech. and Ph.D Type Elective
+Prerequisite Fundamentals of probability, wireless and optical
+communications
+
+1st Edition, Springer
+3. Majumdar, A. K., (2015), Advanced Free Space Optics- A System Approach, 1st
+Edition, Springer
+Preparatory Course Material
+1. Kumar, P. K., Optical Communications, Department of Electrical Engineering, Indian
+Institute of Technology Kanpur, https://nptel.ac.in/courses/117104127/
+
+Title Real Time Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+
+the IEEE, vol. 93, issue 6, pp. 1102-17, 2005.
+3. Hou I. and Kumar P. R., "Real-time communication over unreliable wireless links: a
+theory and its applications," in IEEE Wireless Communications, vol. 19, no. 1, pp. 
+48-59, 2012.
+4. Hanssen F., & Jansen P.G., (2003), Real-time communication protocols: an
+
+Title Backhaul Networks for Wireless
+Systems Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+
+Textbook
+1. Saidul Huq K. M. and Rodriguez J., (2016), Backhauling / Fronthauling for Future Wireless
+2. Imran M. A., Zaidi S. A. R., and Shakir M. Z., Access, (2017), Fronthaul and Backhaul Networks
+for 5G & Beyond, IET Press.
+Self-Learning Material
+1. IEEE Best Readings in Backhaul and Fronthaul: Communications, Networking, and Signal
+Processing 
+https://www.comsoc.org/publications/best-readings/backhaul-and-fronthaul-
+
+Title Applied Optimization for Wireless
+Communication Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+Prerequisite Basic knowledge of - Calculus, Probability,
+Matrices
+
+Application: Autonomous self-organization in dynamic wireless networks (3 Lectures)
+Textbook
+1. Boyd S. P. and Vandenberghe L., (2004), Convex Optimization, Cambridge
+University Press.
+Self-Learning Material
+1. Jagannatham A., Applied Optimization for Wireless, Machine Learning, Big Data,
+NPTEL Course Material, Department of Electrical Engineering, Indian Institute of 
+Technology Kanpur, https://nptel.ac.in/noc/individual_course.php?id=noc18-ee31
+2. Llorca J., Milner S. D. and Davis C. C., "A convex optimization method for
+autonomous self-organization in dynamic wireless networks," MILCOM 2008 - 2008 
+IEEE Military Communications Conference, San Diego, CA, pp. 1-8, 2008.
+
+Title Millimeter-wave Technology Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (IV Year), M.Tech, and PhD Type Elective
+Prerequisite Electromagnetic theory
+
+Textbook
+1. Koul, S.K., (1997), Millimeter Wave and Optical Dielectric Integrated Guides and
+2. Liu, D., Gaucher, B., Pfeiffer, U., and Grzyb, J., (2009), Advanced millimeter wave
+technologies, Wiley
+3. Hueber, G., and Niknejad, A. (Eds.). (2019), Millimeter-Wave Circuits for 5G and
+Radar (The Cambridge RF and Microwave Engineering Series), Cambridge: 
+Cambridge University Press.
+Self-Learning Material
+1. Mandal, M. K., Millimeter-wave technology, NPTEL Course Material, Indian Institute 
+of Technology Kharagpur, https://nptel.ac.in/courses/117105139/
+Preparatory Course Material
+1. Pozar, D. M., (2011), Microwave Engineering, 4th ed. New York, NY, USA: Wiley
+
+Title Selected Topics in Communication I Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of Wireless Communications
+
+Title Selected Topics in Communication II Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of Wireless Communications
+
+Title Selected Topics in Communication III Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Fundamentals of Wireless Communications
+
+Title Physical Layer Security Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (IV Year), M. Tech., Ph. D. Type Elective
+Prerequisite Fundamentals of Information Theory
+
+Title Computational imaging Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Basics of signals and systems
+
+Title Multimedia Communications Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. IV Year, M. Tech., Ph.D. Type Elective
+Prerequisite Fourier analysis
+
+Textbook
+Self Learning Material
+1. Motion 
+Pictures 
+Experts 
+Group 
+(MPEG), 
+ISO/IEC 
+JTC 
+1/SC 
+29/WG 
+11,
+Preparatory Course Material
+1. Katsaggelos, A.K., Fundamentals of Image and Video Processing, Coursera,
+Northwestern University, https://www.coursera.org/learn/digital
+2. Wiegand, T., Sullivan, G.J., Bjontegaard, G., Luthra, A., Overview of the H.264/AVC
+video coding standard, IEEE, 2003
+
+Title Speech and Audio Signal Processing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech, M.Tech. -Ph.D. Dual Degree (Comm.
+Engg.) Type Elective
+Prerequisite Digital Signal Processing
+
+1. Hegde, R. M., Signal Processing Techniques for Speech Recognition, NPTEL
+Course Material, Department of Electronics & Communication Engineering, 
+Indian Institute of Technology Kanpur, https://nptel.ac.in/syllabus/117104023/
+Preparatory Course Material
+1. Dutta Roy S. C., Digital Signal Processing, NPTEL Course Material, Department of
+Electrical 
+Engineering, 
+Indian 
+Institute 
+of 
+Technology 
+Delhi,
+
+Title Wavelets Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. -Ph.D. Dual Degree (Comm. Engg.) Type Elective
+Prerequisite Digital Signal Processing
+
+Title Compressive Sensing Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M. Tech. and Ph. D. Type Elective
+Prerequisite Signals and Systems, Random Signal Analysis
+
+Title Selected Topics in Signal Processing I Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+
+Title Selected Topics in Signal Processing II Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+
+Title Selected Topics in Signal Processing III Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+
+Title Data Compression Number EEL7XX0
+Department Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., and Ph.D Type Elective
+Prerequisite Elementary knowledge of Information Theory

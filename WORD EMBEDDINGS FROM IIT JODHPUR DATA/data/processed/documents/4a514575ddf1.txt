@@ -1,0 +1,9 @@
+research seminar by anuj kumar on july at am speaker anuj kumar title of the talk impact of rotation on the dimension of the global attractor for rotating equations
+date time and venue july am to pm at seminar hall dept
+of mathematics abstract rotation and friction in fluid motion play significant role in various natural phenomena such as jet streams zonal jets cyclones and jupiter great red spot among others
+in this talk we present new upper bound on the hausdorff dimension of the global attractor for the incompressible rotating equations
+this bound depends on the rotation rate which is quantified by the rossby number and improves upon previous results which indicate that faster rotation leads to more zonal flow
+about the speaker anuj kumar obtained his degree in mathematics from indiana university bloomington usa
+after his he worked as postdoctoral researcher in the department of mathematics at florida state university
+his primary research area is the analysis of partial differential equations pdes focusing on hydrodynamic and geophysical models
+speaker anuj kumar title of the talk impact of rotation on the dimension of the global attractor for rotating equations

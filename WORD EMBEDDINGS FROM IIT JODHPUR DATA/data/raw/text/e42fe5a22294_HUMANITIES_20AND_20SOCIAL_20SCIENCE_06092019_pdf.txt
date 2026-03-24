@@ -1,0 +1,116 @@
+SOURCE_PDF: e42fe5a22294_HUMANITIES_20AND_20SOCIAL_20SCIENCE_06092019.pdf
+
+Indian Institute of Technology
+Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Courses
+Offered by
+Humanities and Social Science Department
+Indian Institute of Technology Jodhpur
+
+PG Compulsory Courses(to be approved)
+1. HSN7XX0 Technical Communication 1-0-0 (1) 
+2. HSN7XX0 Ethics and Professional Life 1-0-0 (1)
+PG Electives (to be approved)
+1. HSL7XX0 Cine-Politics under National Emergency 3-0-0 (to be approved) 
+2. HSL7XX0 Sociology of Science and Technology 3-0-0 (to be approved)
+3. HSL7XX0 Digital Society 3-0-0 (to be approved)
+PG Electives (already approved)
+4. HSL7XX0 Gender and Society 3-0-0 (3) 
+5. HSL7XX0 Sociocultural Theories 3-0-0 (3) 
+6. HSL7XX0 Foundations of Sustainability 3-0-0 (3) 
+7. HSL7XX0 Nature Writings in American Literature 3-0-0 (3) 
+8. HSL7XX0 Literature and Environment 3-0-0(3) 
+9. HSL7XX0 Twentieth Century Analytic Philosophy 3-0-0 (3) 
+10. HSL7XX0 Language and Cognition 3-0-0 (3) 
+11. HSL7XX0 Ethical Theories and Moral Practices 3-0-0 (3) 
+12. HSL7XX0 Philosophy of Mind 3-0-0 (3) 
+13. HSL7XX0 Bioengineering Ethics 3-0-0 (3) 
+14. HSL7XX0 Cognitive Science 3-0-0 (3) 
+15. HSL7XX0 Qualitative and Quantitative Methodology 3-0-0(3) 
+16. HSL7XX0 Consciousness 3-0-0 (3)
+
+Title Technical Communication Number HSNXX
+Department Humanities and Social Sciences L-T-P [C] 1–0–0 [1]
+Offered for M.Tech and PhD Type Compulsory
+Prerequisite None
+
+Introduction to Technical Communication
+Writing – Mechanics of Technical Writing, Organization and Structure in Technical Writing, 
+Writing an abstract, Writing a Research Paper, Writing a Review, Report Writing, Writing 
+Technical descriptions, Copyediting and formatting, Referencing, Citations, Plagiarism.(4 hours)
+Reading – Identifying Language Errors, Reading Comprehension with specific reference to 
+passages/articles in Science and Technology. (1 hour)
+Lectures with Hands on Training – Grammarly, End note, Language software, Document 
+processing using software.(2 hours)
+Reference Books
+1.Raman, Meenakshi and Sangeeta Sharma. Technical Communication: Principles and Practice. 
+Oxford University Press: New Delhi, 2011.
+2. A Text Book of English for Engineers and Technologists. Division of Humanities and Social 
+Sciences, Anna University, Orient Black Swan: Chennai, 2002.
+Online Course Material
+1.Technical English for Engineers-https://nptel.ac.in/courses/109106094/
+
+Title Ethics and Professional Life Number HSN7XX0
+Department Humanities and Social Sciences L-T-P [C] 1–0–0 [1]
+Offered for M.Tech and PhD Type Compulsory
+Prerequisite None
+
+Title Cine-Politics under the National Emergency Number HSL7XX0
+Department Humanities and Social Sciences L-T-P [C] 3-0-0
+Offered for B. Tech., M. Tech. and Ph.D. Programs Type Elective
+Prerequisite None
+
+Textbooks
+1. Rajadhyaksha, Ashish. Indian Cinema in the Time of Celluloid: From Bollywood to
+the Emergency. Bloomington: Indiana University Press, 2009.
+Reference Book
+1. Joshi, Priya, and Rajinder Dudrah, eds. The 1970s and Its Legacies in India’s
+Cinemas. New York: Routledge, 2014.
+Online Course Material
+
+Title Sociology of Science and Technology Number HSL7XX0
+Department Humanities and Social Sciences L-T-P [C] 3-0-0
+Offered for B. Tech, M.Tech and Ph. D. Type Elective
+
+of Indian Science, Science and Governance in India (4 lectures)
+Textbooks
+1.Sismondo, S. (2010), An Introduction to Science and Technology Studies, 2nd 
+Edition, Wiley Blackwell
+2.Miller, D. et. al. edited (2012), Digital Anthropology, Berg.
+Reference Book
+Felt U., Fouche, R. et. al. edited (2017), The Handbook of Science and Technology 
+Studies, MIT Press
+Online Course Material
+1. Mallick, S.Science, Technology and Society, NPTEL Course Material, Department of
+HSS, IIT Guwahati, https://onlinecourses.nptel.ac.in/noc17_hs26/preview
+2. Mishra, A.Sociology of Science, NPTEL Course Material, Department of HSS, Indian
+Institute of Technology Roorkee, https://onlinecourses.nptel.ac.in/noc18_hs09/preview
+
+Title Digital Society Number HSL7XX0
+Department Humanities and Social Sciences L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Sc., M.Tech, Ph.D. Type Elective
+Prerequisite None
+
+2. Gere,C., (2008), Digital Culture, 2nd Edition, London: Reaktion Books Limited
+Reference Books
+1. Bentkowska-Kafel, A., Cashen, T., and Gardiner, H. (Eds.) (2009), Digital Visual
+Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+2. Karaganis, J. (Ed.), (2007), Structures of Participation in Digital Culture, Social
+Science Research Council, Columbia University Press
+3. Tredinnick, L. (2008), Digital Information Culture: The Individual and Society in the
+Digital Age, Oxford: Chandos Publishing Limited
+Online Resources
+1. Digital 
+Humanities 
+Seminar 
+Video 
+Archive 
+of 
+the 
+Open 
+University, 
+UK,

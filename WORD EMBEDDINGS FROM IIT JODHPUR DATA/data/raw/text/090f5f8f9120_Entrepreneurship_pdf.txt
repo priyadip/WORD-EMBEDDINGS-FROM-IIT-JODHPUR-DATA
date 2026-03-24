@@ -1,0 +1,23 @@
+SOURCE_PDF: 090f5f8f9120_Entrepreneurship.pdf
+
+S.No Name of the Student/ Alumni/ Faculty Entrepreneur Graduating Year Name of the Company Incubated
+1 Akash Gupta(2012) 2012 VCC
+2 Ankit Saraswat (2012) and Vinod Kumar Meena 2012/2014 Freedu
+3 Shobit Srivastav(2012) 2012 Code Ignition
+4 Ashrey Bhadrike 2012 Kuber
+5 Vivek Sharma/Lal Chand Bisu (2012) 2012 EduExSolutions
+6 Ravin Jain (2013) 2013 Education Paradise
+7 Dinesh Jangra(2016) 2016 Blick Bee
+8 Hari Om Meena(2016) 2016 Flip Paisa
+9 Kirti Vardhan(2016) 2016 Broken Hash
+10 Mohit Dadhich(2015)/Tanmay Sethi(2014) 2015/2014 Aha 3D
+11 Himanshu Sikaria (2017) 2017 StartiFy
+12 Siddharth Jain (2014), Mohd Asad (2014) 2014 Steero
+13 Arnav Chopra (2017) 2017 Giveme pro
+14 Rakesh (2017) 2017 Career Qube
+15 Manpreet Singh Bedi (2014) 2014 MindIQ
+16 Maharishi Devaraj Kuchana (2015) 2015 Shipsy.in
+17 Shashank Kumar (2013) 2013 PushOwl.com
+18 Ankit Gupta (2013) 2013 Educatrr
+19 Atul Dubey and Anjali Bansiwal (2016) 2016 Edurer Knowledge Labs
+20 Surya Pratap Singh Yadav (2014) 2014 Exploron

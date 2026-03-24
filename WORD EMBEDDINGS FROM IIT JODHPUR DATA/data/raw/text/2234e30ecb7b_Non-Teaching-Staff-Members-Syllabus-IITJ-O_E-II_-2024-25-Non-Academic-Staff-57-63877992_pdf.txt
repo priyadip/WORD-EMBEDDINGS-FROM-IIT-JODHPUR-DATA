@@ -1,0 +1,158 @@
+SOURCE_PDF: 2234e30ecb7b_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877992.pdf
+
+Network
+Fundamentals - Introduction to the OSI and TCP/IP Model
+- Introduction to IPv4 (Internet Protocol)
+- IPv4 Packet Header
+- Address Resolution Protocol (ARP)
+- Introduction to TCP and UDP
+- TCP Header
+- Introduction to ICMP
+- Introduction to DNS, DNS lookup
+- User mode and Privileged mode
+- Spanning tree protocols
+- Network Topology
+- Different Type of Network devices and its configurations
+- PoE, NTP
+- Public and Private IP Addresses
+- Multicast
+- NGFW and IPS
+- Network Collisions, Jitter, Latency, Delay etc.
+- Security Concepts( Threats, Vulnerabilities, exploits etc)
+Passive
+Networking - Lan cable color code
+- Crimping of Ethernet cables, I/Os
+- Testing and rectification of faulty cables.
+- Network RACK
+- Physical Interfaces and Cabling Types (Single Mode, Multimode Fiber)
+- Troubleshoot interface and cable issues
+Switching - MAC learning and Aging
+- Frame switching and Flooding
+- Layer 2 Discovery Protocol
+- L2 vs L3 Switching
+- Layer 2 and Layer 3 Ether Channel (LACP, PAGP)
+- VoIP
+Advanced STP - RSTP
+- MSTP
+- PVST, PVST+
+- BPDU , Root Port, Root Bridge
+- Port States and Security
+VLANs - VLANs Basic
+- VTP
+- How to configure VLANs
+- L3 and L2 VLAN
+- Native VLAN
+- Trunk , 802.1Q
+Indian Institute of Technology Jodhpur
+Syllabus for the post of ASSISTANT MANAGER (ICT) NETWORKING
+WRITTEN TEST & SKILL TEST
+
+IPv4 Subnetting
+and Super netting - Introduction to Subnetting and Supernetting
+- Basics of Binary Numbers
+- Subnetting in Binary, Decimal (Fast Method)
+- Classless Inter-Domain Routing (CIDR)
+- Variable Length Subnet Mask (VLSM)
+- Route Summarization
+- Hexadecimal to Binary and Decimal Conversion
+IPv6 - Introduction to IPv6
+- Shortening IPv6 Addresses
+- How to find IPv6 Prefix
+- IPv6 Address Types
+- IPv6 Address Assignment Example
+- IPv6 Summarization
+DHCP (Dynamic
+Host Configuration
+Protocol) - Introduction to DHCP
+- DHCP Server Configuration
+- DHCP Relay Agent
+- DHCP Client
+- DHCP Server IPv6 Configuration
+IP Connectivity - Introduction to Routers and Routing
+- Router Basic Configuration
+- Introduction to Wide Area Networks (WAN)
+- High Availability – VRRP, HSRP, GLBP
+Routing - Default Gateway
+- Static and Dynamic Routing
+- IPv6 Static Route
+- IP Routing Explained
+- Router on a Stick
+- Inter VLAN Routing
+- BGP
+- Routing table
+- Classful v/s Classless Routing
+- Advanced Routing Features- Route-Maps, Route-Filtering etc.
+- Routing Protocol-Prefix, Network Mask, Administrative Distance,
+Gateway, Next-Hop, Metric etc.
+- Routing loops
+Security - AAA Authentication Protocol
+- ACL
+- Port Security
+- Device Access
+- Layer 2 Security Features (DHCP Snooping, Dynamic ARP Inspection,
+Port Security etc)
+Device
+Management - Introduction to SNMP
+- Syslog configuration and management
+- Flows
+- System Dump
+- Configuration Backup
+- OS upgradation
+- Password Management
+
+Wireless - Introduction to Wireless Networks
+- Introduction to Wireless LANs
+- Wireless LAN 802.11 Service Sets
+- Introduction to Wireless Security
+- Wireless Authentication Methods
+- Wireless Encryption and Integrity
+- Wi-Fi Protected Access (WPA)
+- WLC WPA2 PSK Authentication
+- Heat Map generation, RF survey.
+- Wireless Controller Management
+- Root Cause identification related to WiFi.
+OSPF (OPEN - Introduction to OSPF
+- OSPF Configuration
+- OSPF Packets and Neighbor Discovery
+- OSPF Reference Bandwidth
+- OSPF Router ID
+- Multi Area OSPF
+- Point to Point
+- Route Summarization
+Automation and - Device Programmability
+- REST API
+- Data Models and Structures
+- Introduction to Software-Defined Networking (SDN)
+- Spine and Leaf Architecture
+NAT - Introduction to NAT and PAT
+- NAT Static & Dynamic
+- Port Address Translation (PAT)
+- Pool
+(QoS) Quality of - Introduction to Quality of Service (QoS)
+- IP Precedence and DSCP Values
+- Classification
+Advance - Network Automation
+- SDWAN
+- SDN
+- NSM/NMS
+- SNMP, Syslog and Network flow analysis.
+- Auditing of user authentication and access logs
+- Bandwidth uses analysis
+Firewall - Firewall Policy
+- Zones
+- NAT, PAT
+- IPS,IDS
+- Web Filtering
+- VPN
+- Captive Portal management
+
+Other Service - Management of IP PBX and Unified Communication Manger
+- CCTVs
+- Physical Access Control
+- BYOD
+- IoT, OT communication
+- Data Center Automation
+Virtualization - Virtual Machines and Containers
+- Cloud Computing
+- Cloud Connectivity
+- NAS , SAN

@@ -1,0 +1,13 @@
+research seminar by pasupathi on april at speaker pasupathi title of the talk general framework for fractal interpolation functions date time and venue april pm pm at seminar hall dept of mathematics
+about the speaker pasupathi holds in mathematics with specialization in fractal analysis from the
+his research areas include fractal analysis fixed point theory and approximation theory
+he is particularly interested in the applications of fixed point theory to the construction of fractal sets and the development of general frameworks for fractal interpolation approximation methods
+he has two years of postdoctoral research experience including six months at iit madras july december six months at transilvania university of ov romania february august and more than one year at the sobolev institute of mathematics siberian branch of the russian academy of sciences russia october december
+he has published research papers in international refereed journals and papers in international conference proceedings
+abstract fractal interpolation functions fifs provide recursive method for constructing interpolation functions using iterated function systems ifs composed of banach contractions
+this talk presents two significant extensions to this classical framework
+firstly the construction of fifs is generalized by incorporating weaker contractions specifically edelstein contractions which encompass several important classes such as matkowski and
+this leads to more flexible and inclusive approach to generating fractal interpolants
+secondly the theory is extended to general domains that are attractors of arbitrary ifss moving beyond standard euclidean intervals or cubes
+this unified framework enables the study of fifs on broader class of domains and supports comprehensive analytical investigations including box dimension analysis
+speaker pasupathi title of the talk general framework for fractal interpolation functions date time and venue april pm pm at seminar hall dept of mathematics

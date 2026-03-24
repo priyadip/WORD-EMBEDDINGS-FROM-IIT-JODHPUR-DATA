@@ -1,0 +1,27 @@
+publication design and development of disposable microsystems for sensing applications no thumbnail available date authors journal title journal issn volume title publisher indian institute of technology jodhpur research projects organizational units journal issue abstract sensing and diagnostics have become essential parts for our healthcare monitoring
+disposable microsystems can be potential solution for the same which are designed for while eliminating the risk of between patients
+these devices are typically aimed to design for straightforward use simplifying the testing process and hence are of low initial cost
+along with this it addresses environmental concerns associated with plastics
+in this context analytical devices pads are desgined and developed which are economical recyclable biocompatible and robust
+they consist of network of hydrophobic and hydrophilic which are capable to handle and quantitatively analyze the target analyte
+there is no requirement for the facility to fabricate such device and it does not require any external pump for the movement of target analytes
+paper strips have been used for several decades for biomedical assays because they provide platform for colorimetric testing
+previously and clegg reported the first kind of based microfluidic device in
+however the whitesides group later explored microfluidics and it opened new pathways in this field for the use of paper to develop portable detection in applications
+this research investigates simple fabrication strategies for mass manufacturing of disposable microsystems for sensing applications while utilizing analytical device pad by creating hydrophobic zone through the proper penetration of ink into the pores of the paper
+an inexpensive disposable colorimetric sensor developed through the assistance of chemometric reaction and tested for the optimization of samples and the determination of glucose for different concentrations mm and with lod of
+to increase platform resistance to variations in illumination and camera optics images taken with several cellphones in various lighting conditions were used to train classifiers with an accuracy of
+to enhance the analysis platform robustness and make it the image data set was taken at various angles of incident light with an overall accuracy
+further for the multiplexed detection of the analyte unique has been fabricated on chemically modified paper followed by the theoretical and experimental fluid flow
+three different biomarkers glucose lactate and uric acid were detected through colorimetric enzymatic reaction on the novel disposable pad with lod and coefficient of determination of mm and mm and and mm and respectively
+this platform achieves high accuracy rate of analyte detection in predicting three different colorimetric findings both quantitatively and qualitatively through an android application
+the application integrated image processing tools autonomously identify the region of interest roi and minimize human error enhancing the platform friendliness and precision
+proceeding the work for the exploration of electrochemical sensing electrochemical sensor was developed for the detection of lactic acid with sensitivity of ma and lod of mm followed by computation studies of reaction molecules
+description keywords citation kishnani vinay and development of disposable microsystems for sensing applications doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses full item page publication design and development of disposable microsystems for sensing applications design and development of disposable microsystems for sensing applications no thumbnail available date authors journal title journal issn volume title publisher indian institute of technology jodhpur research projects organizational units journal issue abstract sensing and diagnostics have become essential parts for our healthcare monitoring
+indian institute of technology jodhpur uri collections doctoral theses full item page no thumbnail available date authors journal title journal issn volume title publisher indian institute of technology jodhpur no thumbnail available publisher indian institute of technology jodhpur indian institute of technology jodhpur research projects organizational units journal issue abstract sensing and diagnostics have become essential parts for our healthcare monitoring
+indian institute of technology jodhpur uri collections doctoral theses full item page organizational units abstract sensing and diagnostics have become essential parts for our healthcare monitoring
+sensing and diagnostics have become essential parts for our healthcare monitoring
+citation kishnani vinay and development of disposable microsystems for sensing applications doctor thesis
+indian institute of technology jodhpur kishnani vinay and development of disposable microsystems for sensing applications doctor thesis
+indian institute of technology jodhpur uri collections doctoral theses

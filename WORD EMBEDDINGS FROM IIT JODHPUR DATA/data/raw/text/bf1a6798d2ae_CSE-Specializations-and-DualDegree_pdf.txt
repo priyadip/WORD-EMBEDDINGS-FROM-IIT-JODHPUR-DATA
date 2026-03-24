@@ -1,0 +1,165 @@
+SOURCE_PDF: bf1a6798d2ae_CSE-Specializations-and-DualDegree.pdf
+
+Sr. No. Dept/School/
+IDRP Name of
+Specialization Eligible Branches Dual-Degree
+Possible
+(Yes/No) Name of Dual
+Degree Programme
+1 CS, EE Visual Computing CSE, AI, EE, ME No NA
+2 CS, EE Socio-Digital
+Reality CSE, AI, EE, ME No NA
+3. CS AI EE, ME, BB, MT, CH,
+CI Yes MTech AI
+4.* CS, EE AIoT CSE, AI, EE Yes MTech SIoT
+5.* CS, EE Intelligent
+Communication
+and Networking EE, CS, AI No NA
+List of core courses [8 Credits] List of Elective courses [12 Credits]
+1 Computer Vision [3-0-0] 1 Computational Imaging [3-0-0]
+2 Computer Graphics [3-0-0] 2 3D Shape Analysis [3-0-0]
+3 Visual Computing Lab [0-0-4] 3 Introduction to Haptics [3-0-0]
+4 Advance Machine Learning [3-0-0]
+5 Computational Photography [3-0-0]
+6 Video Processing [3-0-0]
+8 Medical Image Analysis [3-0-0]
+9 Image Synthesis [3-0-0]
+10 Animations [3-0-0]
+11 Digital Image Processing [3-0-0]
+12 Visual Perception [3-0-0]
+13 Introduction to AR and VR [3-0-0]
+14 Real-Time Vision Architectures [3-0-0]
+15 Scalable Machine Learning [3-0-0]
+16 Compressive Sensing [3-0-0]
+17 Image and Video Forensics [3-0-0]
+18 Special Topics: Advancements in Computer Vision [3-0-0]
+19 Selected Topics in Computer Vision [3-0-0]
+20 Specialization Project [0-0-6]
+21 Principles of Biological Vision [3-0-0]
+Department of CSE
+Details of Specialization 
+ 
+i) Details of approved Specialization and dual degree programmes in the following Table: 
+ 
+Table 1: Summary of Specialization and Dual degree leading to Specialization offered by Dept/School/IDRP
+Specialization 1: Visual Computing 
+ 
+Table 1: List of Specialization Core and Electives as per Senate approved document
+
+Courses GC Courses GC
+V Semester VI Semester
+A student may take specialization course as an
+overload if eligible - SC Computer Vision 3
+Total 3
+VII Semester VIII Semester
+SC Computer Graphics 3 SE Specialization Electives 9
+SC Visual Computing Lab 2
+SE Specialization Elective 3
+Overload this semester 4 credits Overload this semester 3 credits
+Total 8 Total 9
+List of core courses [8 Credits] List of Elective courses [12 Credits]
+1 Introduction to AR and VR [3-0-0] 1 Computer Graphics [3-0-0]
+2 Social Networks [3-0-0] 2 Natural Language Understanding [3-0-0]
+3 Multimodal Interface [0-0-4] 3 Introduction to Haptics [3-0-0]
+4 Speech Understanding [3-0-0]
+5 Human Computer Interface
+6 Computer Vision [3-0-0]
+7 Image and Video Forensics [3-0-0]
+8 Design Process
+9 Specialization Project [0-0-3]
+Courses GC Courses GC
+V Semester VI Semester
+-
+- SC Introduction to AR and VR 3
+Total 3
+VII Semester VIII Semester
+SC Social Networks 3 SE Specialization Electives 9
+SC Multimodal Interface 2
+SE Specialization Elective 3
+Overload this semester 4 credits Overload this semester 3 credits
+Total 8 Total 9
+Table 2: Proposed Semester-wise Structure of 20 Graded Credits and positioning of core courses 
+for Specialization
+Specialization 2: Socio-Digital Reality 
+Table 3: List of Specialization Core and Electives as per Senate approved document
+Table 4: Proposed Semester-wise Structure of 20 Graded Credits and positioning of core courses 
+for Specialization
+
+List of core courses [8 Credits] List of Elective courses [12 Credits]
+1 AI [3-0-0] 1 Algorithms for big data [3-0-0]
+2 Deep Learning [3-0-0] [BB must take
+elective in place of this course] 2 Computer Vision [3-0-0]
+4 DL-Ops [0-0-2] 4 machine learning with big data
+5 edge and fog computing
+6 GPU Programming [3-0-0]
+7 Data Visualization [3-0-0]
+8 Introduction to AR and VR [3-0-0]
+9 Dependable AI [3-0-0]
+10 Resource constrained AI [3-0-0]
+11 Social Network Analysis [3-0-0]
+12 Optimization [3-0-0]
+13 Computer Graphics [3-0-0]
+14 Advanced AI [3-0-0]
+15 Advanced ML [3-0-0]
+16 Project [0-0-6]
+17 Autonomous Systems [3-0-0]
+18 ML for Communications [3-0-0]
+19 Planning and Decision Making for Robots [3-0-
+0]
+Courses GC Courses GC
+V Semester VI Semester
+A student may take specialization course as an
+overload if eligible SC DL (BB students can take
+any course from SE)* 3
+Total 4
+VII Semester VIII Semester
+SC ML-Ops Lab 1 SE Specialization Electives 9
+SE Specialization Elective 3
+Overload this semester 3 credits Overload this semester 3 credits
+Total 7 Total 9
+Specialization 3: Artificial Intelligence 
+Table 5: List of Specialization Core and Electives as per Senate approved document
+Table 6: Proposed Semester-wise Structure of 20 Graded Credits and positioning of core courses 
+for Specialization
+Note: 
+* Since DL is a core for BB students, they can take any other course from SE as part of SC.
+
+Programme
+Core Credits Programme
+Elective Credits Open Electives M.Tech Non-Graded
+Credits
+Credits Project
+Semester VI to VII
+during Specialization 8 3 0 0 0
+Semester VIII to X 7 13 3 20 2
+Total (As per MTech
+requirement) 15 16 3 20 2
+1 Optimization [2-0-0]
+2 Artificial Intelligence [3-0-0]
+3 Advanced data structure and algorithms [2-0-0]
+5 Deep Learning [3-0-0]#
+7 Core bucket: Advanced AI / Autonomous systems [3-0-0]
+Courses NC GC Courses NC GC
+VII Semester VIII Semester
+Up to Semester VII same as Table 6 MC Advanced AI / Autonomous
+systems 3
+ME MTech Program Electives 6
+Total 9
+IX Semester X Semester
+MC Optimization 2 MO MTech Open Electives 3
+MC Advanced Data Structure
+and Algorithms 2 MP Major Project-2 [0-0-15] 15
+ME MTech Program Electives 7
+MP M.Tech. Project 1 [0-0-5] 5
+NG System Engineering and
+Project Management 1 NG Innovation and IP
+Management] 1
+Total 1 16 Total 1 18
+Dual Degree for Specialization on Artificial Intelligence 
+Table 7: Credit requirements for dual degree
+Table 8: List of Dual Degree Programme Core
+Note: List of Electives will be as per M.Tech. curriculum 
+* For all students, ML course is a preparatory course and should be replaced with any of the PEs. 
+# Since DL is a core for BB students, they can take any other course from PE as part of PC.
+Table 9: Proposed Semester-wise Structure of 54 Graded and 2 Non-Graded Credits and positioning of core 
+courses for the specialization leading to dual degree [B.Tech.+M.Tech.]

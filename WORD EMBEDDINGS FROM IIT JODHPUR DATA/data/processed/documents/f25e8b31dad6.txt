@@ -1,0 +1,15 @@
+research seminar by neelam kandhil on june at am speaker neelam kandhil title of the talk exploring the interplay of constants prime numbers and date time and venue june at am to pm at seminar hall dept of mathematics
+abstract the constant of number field is defined as the ratio of the constant and the residue of the laurent series of the dedekind zeta function associated with at
+investigating the distribution of the normalized difference of the constants of the prime cyclotomic field and its maximal real subfield we connect it with kummer conjecture
+this conjecture predicts the asymptotic growth of the relative class number of prime cyclotomic fields
+the ratio of this class number and the simple asymptotic that kummer predicted for it is now called the kummer ratio
+furthermore we discuss recent advancements in understanding the irregularities in the behavior of the kummer ratio shedding light on deep questions related to prime number distribution
+in addition assuming the generalized riemann hypothesis and pair correlation conjecture for the zeros of dirichlet we establish the truth of conjecture of montgomery on the magnitude of the error term in the prime number theorem in arithmetic progressions
+about the speaker neelam kandhil currently postdoctoral researcher at the university of hong kong hong kong sar and her research interests lie in number theory
+prior to this she has done postdoc at the mathematik germany
+she obtained in mathematics from the institute of mathematical sciences chennai in
+speaker neelam kandhil title of the talk exploring the interplay of constants prime numbers and date time and venue june at am to pm at seminar hall dept of mathematics
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

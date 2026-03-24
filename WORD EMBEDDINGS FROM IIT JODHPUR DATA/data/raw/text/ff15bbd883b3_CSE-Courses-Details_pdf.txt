@@ -1,0 +1,1020 @@
+SOURCE_PDF: ff15bbd883b3_CSE-Courses-Details.pdf
+
+Courses Offered by
+Department of Computer Science and Engineering
+
+Course Name Page No.
+Course - List
+
+Optimization in ML
+27
+Theory of Computation
+28
+400 - Level Courses
+29
+● Elective Courses (CSE and AI&DS)
+29
+Advanced Data Structures
+29
+Computational Cognition & Behavior Modeling
+30
+Distributed Systems
+32
+ICT for Development
+33
+Introduction to Computer Graphics (400)
+34
+Social Networks
+35
+Software Maintenance
+36
+Visual Computing Lab
+37
+700 - Level Courses
+38
+● Preliminary Courses (CSE and AI&DS)
+38
+Bridge course on DSA
+38
+Data Structures and Practices
+39
+700 - Level Courses
+40
+● Core Courses (CSE and AI&DS)
+40
+Advanced Data Structures & Algorithms
+40
+Algorithms for Big Data
+41
+Artificial Intelligence (700)
+42
+Computer Architecture (700)
+43
+Deep Learning (700)
+44
+Dependable AI (700)
+45
+Machine Learning (700)
+47
+Software and Data Engineering
+49
+
+700 - Level Courses
+50
+● Elective Courses (CSE and AI&DS)
+50
+Advanced Artificial Intelligence (700)
+50
+Advanced Biometrics
+51
+Advanced Computer Graphics
+52
+Advanced Machine Learning
+53
+Ad-Hoc Wireless Networks
+54
+Approximation Algorithms
+56
+Artificial Intelligence in Transportation
+57
+Autonomous Systems
+58
+Bio-image Computing
+59
+Blockchain
+60
+Compiler Design
+61
+Complexity Theory
+62
+Computational Microeconomics
+63
+Computational Optimization
+64
+Computational Social Choice Theory
+65
+Computer Graphics (700)
+66
+Computer Network Protocols and Applications
+67
+Computer Vision
+68
+Crowd-sourcing and human-computing
+69
+Cryptography
+70
+Cybersecurity
+71
+Data Visualization (700)
+73
+Digital Image Analysis
+74
+Distributed Algorithms
+75
+Distributed Database Systems
+76
+Edge and Fog Computing
+77
+Embedded Systems
+78
+Environmental Informatics
+79
+Ethics, Policy, Law and Regulations in AI
+80
+
+Fundamentals of Machine Learning
+81
+GPU Programming
+82
+Graph-theoretic Algorithms
+83
+Graph Theory and Applications
+84
+Hardware Software Co-design
+85
+Health Informatics
+86
+High-level Synthesis
+87
+Information Retrieval
+88
+Introduction to AR and VR
+89
+Introduction to Blockchain
+90
+Introduction to Wireless Ad hoc Networks
+91
+Machine Learning in Epidemiology
+92
+Machine Learning with Big Data
+93
+Medical Image Analysis
+94
+Mobile and Pervasive Computing
+95
+5G Mobile Networks
+96
+Natural Language Understanding
+97
+Neuromorphic Computing and Design
+98
+Parameterized Complexity
+99
+Principles of Biological Vision and Applications
+100
+Randomized Algorithms
+101
+Resource Constrained AI
+102
+Security and Its Applications
+103
+Social Computing
+104
+Social Network Analysis
+105
+Soft Computing Techniques
+107
+Software Defined Networks
+108
+Software Testing and Quality Assurance
+109
+Speech Understanding
+110
+Sustainable Computing
+111
+
+Stream Analytics
+112
+Vehicular Ad-Hoc Networks (VANETs)
+113
+Video Processing
+115
+Virtualization and Cloud Computing
+116
+700 - Level Courses
+117
+● Selected / Special Topics (CSE and AI&DS)
+117
+Selected Topics in Artificial Intelligence - I
+117
+Selected Topics in Artificial Intelligence - II
+118
+Selected Topics in Artificial Intelligence - III
+119
+Selected Topics in Computer Science - I
+120
+Selected Topics in Computer Science - II
+121
+Selected Topics in Computer Science - III
+122
+Special Topics in Algorithms
+123
+
+Course Title Data Structures and Algorithms Course No. CSxxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-2 [4]
+Offered for B.Tech of all branches Type Compulsory
+Prerequisite Introduction to Computer
+Programming Antirequisite None
+200 - Level Courses
+●Compulsory Courses (CSE and AI&DS)
+
+Course Title Design and Analysis of Algorithms Course No. CSLxxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-1-0 [4]
+Offered for B.Tech CSE, AI&DS Type Compulsory
+Prerequisite Data Structures and Algorithms Antirequisite None
+200 - Level Compulsory Course
+
+Course Title Human-Machine Interaction Course No. CS2xxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 0-0-4 [2]
+Offered for B.Tech (CSE, AI&DS) Type Compulsory
+Prerequisite None Antirequisite None
+200 - Level Compulsory Course
+
+Course Title Maths for Computing Course No. CSLXXX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-1-0 [4]
+Offered for B.Tech CSE, AI&DS Type Core
+Prerequisite None Antirequisite None
+200 - Level Compulsory Course
+
+Course Title Pattern Recognition and Machine Learning Course No. CSL2xx
+Department Computer Science and Engineering, AI&DS Structure (L-T-P [C]) 3-0-2
+Offered for B.Tech (CSE, AI&DS, EE) Type Compulsory
+Prerequisite Introduction to Computer Science, Probability,
+Statistics and Stochastic Processes Antirequisite Introduction to
+Machine Learning
+200 - Level Compulsory Course
+
+Title Principles of Computer Systems - I Course No. AIDSLXXX
+Department CSE, AI & DS Structure (L-T-P [C]) 2–0–2 [3]
+Offered for B.Tech (AI) Type Compulsory
+Prerequisite Maths for Computing Antirequisite Computer Architecture
+200 - Level Compulsory Course
+
+Title Principles of Computer Systems - II Course No. AIDSLXXX
+Department CSE, AI & DS Structure (L-T-P [C]) 3–0–2 [4]
+Offered for B.Tech (AI & DS) Type Compulsory
+Prerequisite Principles of Computer Systems - I (Same
+Semester) Antirequisite Operating Systems,
+Computer Networks
+200 - Level Compulsory Course
+
+Course Title Principles of Programming Languages Course No. CSXXX
+Department Computer Science & Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech Type Compulsory
+Prerequisites Data Structures and Algorithms, Computer
+Architecture, Operating Systems Antirequisite None
+200 - Level Compulsory Course
+
+Course Title Software Engineering Course No. CSL2XX
+Department Computer Science & Engineering Structure (L-T-P [C]) 3-0-2 [4]
+Offered for B.Tech CSE Type Compulsory
+Prerequisite Introduction to Computer Science Antirequisite None
+200 - Level Compulsory Course
+
+Course Title Artifciial Intelligence (300) Course No. CSL3xx
+Department CSE, AI&DS Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech (CSE, AI&DS) Type Compulsory
+Prerequisite Data Structures and Algorithms Antirequisite Artifciial Intelligence
+(700) - CSL7xx
+300 - Level Courses
+●Compulsory Courses (CSE and AI&DS)
+
+Course Title Computer Architecture Course No. CSL3XX / EELXXX
+Department CSE and EE Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B. Tech. CSE Type Compulsory
+Prerequisite None Antirequisite
+300 - Level Compulsory Course
+
+Course Title Computer Networks Course No. CSL3xx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-3 [4.5]
+Offered for B.Tech Type Compulsory
+Prerequisite Prob. Stat. and Stochastic Process Antirequisite None
+300 - Level Compulsory Course
+
+Course Title Database Systems Course No. CSL3XXX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-2 [4]
+Offered for B.Tech Type Compulsory
+Prerequisite Data Structures and Algorithms Antirequisite None
+300 - Level Compulsory Course
+
+Title Data Engineering Course No. CSLXXX
+Department Computer Science and Engineering, Maths Structure (L-T-P [C]) 3-0-3 [3]
+Offered for B.Tech AI&DS Type Compulsory
+Prerequisite Principles of Computer System - II/ Operating
+Systems Antirequisite Database
+Systems
+300 - Level Compulsory Course
+
+300 - Level Compulsory Course
+Self-Learning Material
+1. NPTEL course on ‘Indexing and Searching Techniques in Databases’ by Dr Arnab Bhattacharya,
+IIT Kanpur: https://nptel.ac.in/courses/106/104/106104021/
+2. NPTEL course on ‘NOC: Fundamentals of Database Systems’ by Dr Arnab Bhattacharya, IIT
+
+Course Title Maths for Big Data Course No. MAL3XXX
+Department Mathematics Structure (L-T-P [C]) 2-1-0 [3]
+Offered for B.Tech (AI & DS) Type Compulsory
+Prerequisite Mathematics - II, Probability, Statistics and
+Stochastic Processes Antirequisite None
+300 - Level Compulsory Course
+
+Course Title Operating Systems Course No. CS 3XXX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-2 [4]
+Offered for B.Tech Type Compulsory
+Prerequisite Data Structures and Algorithms Antirequisite None
+300 - Level Compulsory Course
+
+Course Title Data Visualization (400) Course No. CSL4xx
+Department Maths, CSE Structure (L-T-P [C]) 3-0-3 [4.5]
+Offered for B.Tech (AI&DS) Type Compulsory
+Prerequisite Data Engineering /
+Database Systems Antirequisite Data visualization (700) - CSL7xx
+400 - Level Courses
+●Compulsory Courses (CSE and AI&DS)
+
+Course Title Deep Learning (400) Course No. CSL4xx
+Department Computer Science and Engineering, AI&DS Structure (L-T-P [C]) 3-0-3 [4.5]
+Offered for B.Tech. Type Compulsory
+Prerequisite Introduction to Machine Learning/Pattern
+Recognition and Machine Learning Antirequisite Deep Learning (700) -
+CSL7xx
+400 - Level Compulsory Course
+
+Course Title Dependable AI (400) Course No. CSL4xx
+Department CSE, AI&DE Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech (AI&DS) Type Compulsory
+Prerequisite Introduction to Machine
+Learning/ Pattern Recognition and
+Machine Learning, AI Preferred Knowledge /
+Antirequisite Preferred: Deep Learning
+(same semester)
+Antirequisite:
+Dependable AI (700)
+400 - Level Compulsory Course
+
+Course Title Optimization in ML Course No. CSL4xx
+Department Mathematics Structure (L-T-P [C]) 3-0-3 [4.5]
+Offered for B.Tech (AI&DS) Type Compulsory
+Prerequisite PRML or Introduction to ML Antirequisite Optimization
+400 - Level Compulsory Course
+
+Title Theory of Computation Course No. CSL4xxx
+Department Computer Science and Engineering Structure (L-T-P [C])
+Offered for B.Tech (CSE) Type Elective
+Prerequisite Maths for Computing Antirequisite
+400 - Level Compulsory Course
+
+Course Title Advanced Data Structures Course No. CS4xxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech CSE, AI&DS Type Elective
+Prerequisite Data Structures and Algorithms Antirequisite None
+400 - Level Courses
+●Elective Courses (CSE and AI&DS)
+
+Title Computational Cognition & Behavior Modeling Number CS L4XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (All) Type Elective
+Prerequisite Probability & Statistics, PRML Antirequisite None
+400 - Level Elective Course
+
+400 - Level Elective Course
+Text Books
+1.
+Russell & Norving (2020). Artificial Intelligence: A Modern Approach. 4th Edition. Prentice Hall.
+2.
+Farrell & Lewandowsky (2018). Computational Modeling of Cognition and Behaviour. Cambridge
+University Press.
+Reference Material
+1.
+Issa and Isaias (2015). Sustainable Design: HCI, Usability and Environmental Concerns.
+Springer-Verlag.
+2.
+McClelland & Rogers (2003). The Parallel Distributed Processing Approach to Semantic Cognition.
+Nature Reviews Neuroscience. 4(4), 310-322.
+3.
+Peterson, Abbott & Griffiths (2016). Adapting Deep Network Features to Capture Psychological
+Representations. 38th Annual Conference of the Cognitive Science Society.
+4.
+Tenenbaum, Kemp, Griffiths & Goodman (2015). Rational Use of Cognitive Resources: Levels of
+Analysis between the Computational and the Algorithmic. Topics in Cognitive Sciences. 7(2),
+217-229.
+5.
+Wilson & Collins (2019). Ten Simple Rules for the Computational Modelling of Behavioral Data.
+eLife. 8:e49547.
+6.
+Goodman, Tenenbaum & Gerstenberg (2014). Concepts in a Probabilistic Language of Thought.
+Center for Brains, Minds and Machines (CBMM).
+
+Course Title Distributed Systems Course No. CS4XX
+Department Computer Science and Engineering Structure (L-T-P [C]) 2-0-0 [2]
+Offered for B.Tech Type Elective
+Prerequisite Operating Systems Antirequisite None
+400 - Level Elective Course
+
+Title ICT for Development Number CSL4XX0
+Department Computer Science and Engineering L-T-P [C] 2-0-0 [2]
+Offered for B.Tech (All) Type Elective
+Prerequisite None Antirequisite None
+400 - Level Elective Course
+
+Course Title Introduction to Computer Graphics (400) Course No. CSL4xx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, MTech, PhD Type Elective
+Prerequisite Data Structures and Algorithms Antirequisite Computer Graphics
+(700) - CSL7xx
+400 - Level Elective Course
+
+Title Social Networks Course No. CSL4XX0
+Department Computer Science and Engineering Structure (L-T-P [C]) 3–0–0 [3]
+Offered for B. Tech Type Elective
+Prerequisite None Antirequisite Social Network Analysis
+400 - Level Elective Course
+
+Course Title Software Maintenance Course No. CS4xxx
+Department Computer Science & Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech Type Elective
+Prerequisite Software Engineering Antirequisite None
+400 - Level Elective Course
+
+Title Visual Computing Lab Number CSE/EE 4XX
+Department L-T-P [C] 0–0–4 [2]
+Offered for BTech. Type Specialization Core
+Prerequisite None Antirequisite None
+400 - Level Elective Course
+
+Title Bridge course on DSA Number CS7xx
+Department Computer Science L-T-P [C] 0–0–4 [2]
+Offered for B.Tech, M.Tech. and Ph. D. Type Core
+Prerequisite Antirequisite
+700 - Level Courses
+●Preliminary Courses (CSE and AI&DS)
+
+Title Data Structures and Practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. 1stYear Type Compulsory
+Prerequisite Computer Programming Antirequisite None
+700 - Level Preliminary Course
+
+Title Advanced Data Structures & Algorithms Number CS7xx
+Department Computer Science L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech. CSE and M.Tech. AI, Ph.D. Type Core
+Prerequisite Algorithm Design and Analysis, Data Structures,
+Maths for Computing Antirequisite None
+700 - Level Courses
+●Core Courses (CSE and AI&DS)
+
+Title Algorithms for Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., PhD Type Compulsory
+Prerequisite None Antirequisite None
+700 - Level Core Course
+
+Title Artifciial Intelligence (700) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., Ph.D. Type Compulsory (AI)
+Prerequisite Data Structures and Algorithms Antirequisite Artifciial Intelligence (300) -
+CSL 3XX
+700 - Level Core Course
+
+Title Computer Architecture (700) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech, PhD Type Compulsory
+Prerequisite none Antirequisite Computer Architecture
+(300)
+700 - Level Core Course
+
+Title Deep Learning (700) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1stYear, Ph.D. 1stYear Type Compulsory (AI)
+Prerequisite Machine Learning Antirequisite Deep Learning (400) -
+CSL4xx
+700 - Level Core Course
+
+Title Dependable AI (700) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Machine Learning, Artifciial Intelligence Antirequisite Dependable AI (400) -
+CSL 4xx
+700 - Level Core Course
+
+Title DL-Ops Number CS7xx
+Department Computer Science L-T-P [C] 0–0–2 [1]
+Offered for B.Tech. (CSE and AI), M.Tech. (CSE and AI), Ph.D. Type Core
+Prerequisite Machine Learning or PRML or IML Antirequisite None
+Deep Learning Frameworks, Hardware Requirements, Containers, Versioning, Provenance,
+Hyperparameter Tuning, Faster Serving, DL Systems in Production and Client Level Inference
+700 - Level Core Course
+
+Title Machine Learning (700) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. (CSE, AI, DCS), PhD Type Compulsory
+Prerequisite Introduction to Computer Sc., Probability, Statistics
+and Stochastic Processes, Linear Algebra Antirequisite IML, PRML
+700 - Level Core Course
+
+Title ML-Ops Number CSP7xx
+Department Computer Science L-T-P [C] 0–0–2 [1]
+Offered for B.Tech., M.Tech., Ph.D. Type Core
+Prerequisite Machine Learning or PRML or IML Antirequisit
+e None
+Challenges, and Solutions, DevOps to MLOps - Framework and Software Stack (2 labs)
+Machine Learning System Versioning, Tracking, Testing and Debugging (2 labs)
+700 - Level Core Course
+
+Title Software and Data Engineering Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Compulsory
+Prerequisite Data Structures and Algorithms Antirequisite None
+700 - Level Core Course
+
+Title Advanced Artifciial Intelligence (700) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., Ph.D. Type Elective
+Prerequisite Data Structures and Algorithms Antirequisite None
+700 - Level Courses
+●Elective Courses (CSE and AI&DS)
+
+Course Title Advanced Biometrics Course No. CSL7430
+Department Computer Science and Engineering, AI&DS Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, MTech, PhD Type Elective
+Prerequisite Pattern Recognition and Machine Learning / Deep
+Learning / Machine Learning Antirequisite None
+700 - Level Elective Course
+
+Title Advanced Computer Graphics Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Computer Graphics Antirequisite
+700 - Level Elective Course
+
+Course Title Advanced Machine Learning Course No. CSL7xx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, MTech, PhD Type Elective
+Prerequisite PRML/Introduction to ML, AI Antirequisite None
+700 - Level Elective Course
+
+Title Ad-Hoc Wireless Networks Number CSL7XX0
+Department CSE, EE L-T-P[C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., PhD Type Elective
+Prerequisite Networks Antirequisite None
+700 - Level Elective Course
+
+700 - Level Elective Course
+3.
+Toh, C. K. (2001). Ad hoc mobile wireless networks: protocols and systems. Pearson Education
+4.
+Cheng, X., Huang, X., & Du, D. Z. (Eds.). (2013). Ad hoc wireless networking (Vol. 14). Springer
+Science & Business Media
+Self Learning Material
+1.
+Computer Networks - MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-ne
+tworks-fall-2002/lecture-notes/
+2.
+Mobile
+and
+Wireless
+Networks
+and
+Applications,
+Stanford
+University,
+
+Course Title Approximation Algorithms Course No. CS7xxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, M. Tech, Ph.D. Type Bouquet/Elective
+Prerequisite Design and Analysis of Algorithms Antirequisite None
+700 - Level Elective Course
+
+Course Title Artifciial Intelligence in Transportation Course No. CS7XX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, MTech, PhD Type Elective
+Pre-requisites None Antirequisite None
+700 - Level Elective Course
+
+Title Autonomous Systems Number CS7xx
+Department/IDRP CSE L-T-P [C] 3-0-0 [3]
+Offered for B. Tech, MTech, PhD (All Branches) Type Elective
+Prerequisite Basics of Linear Algebra, Probability and Statistics
+700 - Level Elective Course
+
+Title Bio-image Computing Number CSL7382
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Computer Programming, Linear algebra, Probability
+and Statistics Antirequisite None
+700 - Level Elective Course
+
+Title Blockchain Course No. CSL 7XX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3–0–0 [3]
+Offered for B.Tech, MTech, PhD. Type Elective
+Prerequisite Cryptography Antirequisite
+700 - Level Elective Course
+
+Course Title Compiler Design Course No. CSL7xx0
+Department Computer Science and Engineering Structure (L-T-P- D[C]) 3-0-0-0 [3]
+Offered for B.Tech., M.Tech. Ph.D. Type Elective
+Prerequisite Maths for Computing Antirequisite
+700 - Level Elective Course
+
+Course Title Complexity Theory Course No. CSL7140
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech CSE, M.Tech CSE, Ph.D. Type Elective
+Prerequisite Maths for Computing, Data Structures and
+Algorithms Antirequisite
+700 - Level Elective Course
+
+Title Computational Microeconomics Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech Type Elective
+Prerequisite Design and Analysis of Algorithms Antirequisite None
+700 - Level Elective Course
+
+Title Computational Optimization Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., Ph.D. Type Elective
+Prerequisite Data Structures and Algorithms Antirequisite None
+700 - Level Elective Course
+
+Title Computational Social Choice Theory Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M. Tech, Ph.D. Type Elective
+Prerequisite Design and Analysis of Algorithms Antirequisite None
+700 - Level Elective Course
+
+Title Computer Graphics (700) Number CSL7450
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., Ph.D. Type Elective
+Prerequisite None Antirequisite Computer Graphics (400) -
+CSL4xx
+700 - Level Elective Course
+
+Title Computer Network Protocols and Applications Number CS7xx
+Department Computer Science L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., Ph.D. Type Elective
+Prerequisite Data Structures and Algorithms Antirequisite Computer
+Networks
+700 - Level Elective Course
+
+Title Computer Vision Course No. CSL7xx
+Department Computer Science and Engineering, AI&DS Structure (L-T-P [C]) 3–0–0 [3]
+Offered for B.Tech., M.Tech., Ph.D. Type Elective
+Prerequisite Linear Algebra
+700 - Level Elective Course
+
+Title Crowd-sourcing and human-computing Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (All), M.Tech Type Elective
+Prerequisite Data Structures & Algorithms Antirequisite None
+700 - Level Elective Course
+
+Title Cryptography Number CSL 7480
+Department Computer Science L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Tech., Ph.D. Type Elective
+Prerequisite None Antirequisite
+700 - Level Elective Course
+
+Course Title Cybersecurity Course No. CS 7XXX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-2 [4]
+Offered for B. Tech, MTech, Ph. D. Type Elective
+Prerequisite Computer Networks Anti-req Security and its
+applications
+700 - Level Elective Course
+
+700 - Level Elective Course
+Text Book
+1.
+C.J. HOOFNAGLE (2016), Federal Trade Commission Privacy Law and Policy,
+Cambridge University Press, 2016.
+2.
+Stallings, W. (2017). Cryptography and network security, 7/E. Pearson Education
+India
+Reference Book
+1.
+Douglas R. Stinson, Maura B. Paterson (2018). Cryptography: theory and practice.
+4/E Chapman and Hall/CRC
+2.
+P
+.W. SINGER, A. FRIEDMAN (2014), Cybersecurity: What Everyone Needs to Know,
+Supplementary Resource
+
+Title Data Visualization (700) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Data Engineering / DBMS Antirequisite Data Visualization
+(400) - CSL4xx
+700 - Level Elective Course
+
+Title Digital Image Analysis Number CSLXXX
+Department Computer Science and Engineering, EE L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Linear Algebra Antirequisite None
+700 - Level Elective Course
+
+Course Title Distributed Algorithms Course No. CS7xxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, M. Tech, Ph.D. Type Bouquet/Elective
+Prerequisite Design and Analysis of Algorithms Antirequisite None
+700 - Level Elective Course
+
+Course Title Distributed Database Systems Course No. CS7XX
+Department Computer Science & Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, MTech, PhD Type Elective
+Prerequisites Operating Systems, Database Systems,
+Computer Networks Antirequisite None
+700 - Level Elective Course
+
+Course Title Edge and Fog Computing Course No. CSL7xx
+Department Computer Science & Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech Type Elective
+Prerequisite Operating Systems, Computer Networks Antirequisite None
+700 - Level Elective Course
+
+Title Embedded Systems Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Computer Organization and Architecture Antirequisite None
+700 - Level Elective Course
+
+Title Environmental Informatics Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (All), M.Tech, Ph.D. Type Elective
+Prerequisite Data Structure and Algorithms Antirequisite None
+700 - Level Elective Course
+
+Course Title Ethics, Policy, Law and Regulations in AI Course No. CSL7xx
+Department Computer Science and Engineering Structure (L-T-P [C]) 1-0-0 [1]
+Offered for B.Tech, MTech, PhD Type Elective
+Prerequisite Pattern Recognition and Machine Learning or
+ML or IML AI, Antirequisite None
+700 - Level Elective Course
+
+Title Fundamentals of Machine Learning Number CSL7670
+Department Computer Science and Engineering L-T-P [C] 3–0–2 [4]
+Offered for Masters and PhD in Non-CS/AI Programs Type Elective
+Prerequisite Bridge Course of Programming (Python) Antirequisite None
+700 - Level Elective Course
+
+Title GPU Programming Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Data Structures and Algorithms Antirequisite None
+700 - Level Elective Course
+
+Title Graph-theoretic Algorithms Number CS7xxx
+Department Computer Science L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M. Tech, Ph.D. Type Elective
+Prerequisite Algorithm Design and Analysis Antirequisite None
+700 - Level Elective Course
+
+Title Graph Theory and Applications Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., Ph.D. Type Elective
+Prerequisite None Antirequisite None
+700 - Level Elective Course
+
+Title Hardware Software Co-design Number EEL7XX/CS7XX
+Department CSE/Electrical Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. Type Elective
+Prerequisite Digital Design Antirequisite None
+700 - Level Elective Course
+
+Title Health Informatics Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (All), M.Tech, Ph.D. Type Elective
+Prerequisite Data Structure and Algorithms Antirequisite None
+700 - Level Elective Course
+
+Course Title High-level Synthesis Course No. CS/EE-7XX
+Department CSE, EE Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, M.Tech, Ph.D Type Elective
+Prerequisite Basic knowledge of digital circuits Antirequisite
+700 - Level Elective Course
+
+Course Title Information Retrieval Course No. CSL7XXX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, M. Tech, Ph.D. Type Elective
+Prerequisite PRML / Introduction to ML Antirequisite None
+700 - Level Elective Course
+
+Title Introduction to AR and VR Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., PhD Type Elective
+Prerequisite Computer Graphics Antirequisite None
+700 - Level Elective Course
+
+Title Introduction to Blockchain Course No. CSL 7XX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3–0–0 [3]
+Offered for B.Tech, MTech, PhD. Type Elective
+Prerequisite Cryptography / Cryptography and
+Network Security Antirequisite Blockchain
+700 - Level Elective Course
+
+Course Title Introduction to Wireless Ad hoc Networks Course No. CS7XX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, MTech, PhD Type Elective
+Pre-requisites Computer Networks Antirequisite None
+700 - Level Elective Course
+
+Title Machine Learning in Epidemiology Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (All), M.Tech, Ph.D. Type Elective
+Prerequisite Machine Learning / PRML/IML Antirequisite None
+700 - Level Elective Course
+
+Title Machine Learning with Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Machine Learning / PRML Antirequisite None
+700 - Level Elective Course
+
+Title Medical Image Analysis Number CSL7xx
+Department CSE, AI&DS, EE L-T-P [C] 3–0–0 [3]
+Offered for BTech, MTech, Ph.D. Type Elective
+Prerequisite Digital Image Processing / Computer Vision, Machine
+Learning/PRML Antirequisite None
+700 - Level Elective Course
+
+Course Title Mobile and Pervasive Computing Course No. CS7XX
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B. Tech and M. Tech Type Elective
+Pre-requisites Computer Networks Antirequisite None
+700 - Level Elective Course
+
+Course Title 5G Mobile Networks Course No. CS7XX
+Department Computer Science and Engineering Structure (L-T-P-C) 3-0-0
+Offered for B.Tech, M.Tech, PhD Type Elective
+Pre-requisites Computer Networks, Introduction to Wireless Ad
+hoc Networks Antirequisite None
+700 - Level Elective Course
+
+Title Natural Language Understanding Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Deep Learning Antirequisite None
+700 - Level Elective Course
+
+Title Neuromorphic Computing and Design Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite Artifciial Intelligence, PRML/Introduction to ML Antirequisite None
+700 - Level Elective Course
+
+Title Parameterized Complexity Number CS7xxx
+Department Computer Science L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M. Tech, Ph.D. Type Elective
+Prerequisite Algorithm Design and Analysis Antirequisite None
+700 - Level Elective Course
+
+Title Principles of Biological Vision and Applications Number CSL7420
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Tech., Ph.D. Type Elective
+Prerequisite None Antirequisite None
+700 - Level Elective Course
+
+Course Title Randomized Algorithms Course No. CS7xxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, M. Tech, Ph.D. Type Bouquet/Elective
+Prerequisite Design and Analysis of Algorithms,
+Probability, Statistics and Stochastic Processes Antirequisite None
+700 - Level Elective Course
+
+Title Resource Constrained AI Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech., PhD Type Elective
+Prerequisite PRML / Introduction to Machine Learning Antirequisite None
+700 - Level Elective Course
+
+Course Title Security and Its Applications Course No. CS 7xx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for M.Tech., PhD Type Compulsory
+Prerequisite Computer Networks Anti-requisite Cyber
+Security
+700 - Level Elective Course
+
+Title Social Computing Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech, M.Tech, Ph.D Type Elective
+Prerequisite Data Structure and Algorithms Antirequisite None
+700 - Level Elective Course
+
+Title Social Network Analysis Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech.,M.Tech., Ph.D. Type Elective
+Prerequisite None Antirequisite Social Networks
+700 - Level Elective Course
+
+700 - Level Elective Course
+Self Learning Material
+1.
+https://www.barabasilab.com/course
+
+Title Soft Computing Techniques Course No. CSL7XXX
+Department Computer Science and Engineering, AI&DS Structure (L-T-P [C]) 3–0–0 [3]
+Offered for B.Tech, M.Tech., Ph.D. Type Elective
+Prerequisite None Antirequisite None
+700 - Level Elective Course
+
+Course Title Software Defnied Networks Course No. CS7XXX
+Department Computer Science and Engineering, Electrical
+Engineering Structure (L-T-P-C) 2-0-0
+Offered for B.Tech Type Elective
+Pre-requisites Computer Networks Antirequisite None
+700 - Level Elective Course
+
+Course Title Software Testing and Quality Assurance Course No. CS7xxx
+Department Computer Science and Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech, M.Tech, Ph.D. Type Elective
+Prerequisite Software Engineering Antirequisite None
+700 - Level Elective Course
+
+Course Title Speech Understanding Course No. CSL7xx
+Department CSE / EE Structure (L-T-P-C) 3-0-0 [3]
+Offered for B.Tech CSE, AI&DS Type Elective
+Prerequisite PRML/IML/ML Antirequisite None
+700 - Level Elective Course
+
+Title Sustainable Computing Number CS L7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech (All), M.Tech Type Elective
+Prerequisite PRML / Introduction to Machine Learning Antirequisite None
+700 - Level Elective Course
+
+Title Stream Analytics Number CS7xxx
+Department Computer Science L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., PhD Type Elective
+Prerequisite Introduction to Machine Learning, PRML Antirequisite None
+700 - Level Elective Course
+
+Title Vehicular Ad-Hoc Networks (VANETs) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech, M.Tech. and Ph.D. Type Elective
+Prerequisite Computer Networks, Introduction to Wireless Ad hoc
+Networks Antirequisite None
+700 - Level Elective Course
+
+700 - Level Elective Course
+5.
+Moustafa, H., & Zhang, Y. (2009). Vehicular networks: techniques, standards, and
+applications. Auerbach publications
+Self Learning Material
+1.
+Center for Autonomous Intelligent Networks and Systems (CAINS), University of
+California, Los Angeles (UCLA),http://www.cains.cs.ucla.edu/
+
+Title Video Processing Course No. CSL7XX
+Department CSE, EE Structure (L-T-P [C]) 3–0–0 [3]
+Offered for B.Tech., M.Tech., Ph.D. Type Elective
+Prerequisite Linear Algebra Antirequisite None
+700 - Level Elective Course
+
+Course Title Virtualization and Cloud Computing Course No. CS7xx
+Department Computer Science & Engineering Structure (L-T-P [C]) 3-0-0 [3]
+Offered for B.Tech Type Elective
+Prerequisite Operating Systems, Computer Networks Antirequisite None
+700 - Level Elective Course
+
+Title Selected Topics in Artifciial Intelligence - I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech., M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+700 - Level Courses
+●Selected / Special Topics (CSE and AI&DS)
+
+Title Selected Topics in Artifciial Intelligence - II Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [1]
+Offered for B.Tech., M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+700 - Level Selected / Special Topic
+
+Title Selected Topics in Artifciial Intelligence - III Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [1]
+Offered for B.Tech., M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+700 - Level Selected / Special Topic
+
+Title Selected Topics in Computer Science - I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 1–0–0 [1]
+Offered for B.Tech., M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+700 - Level Selected / Special Topic
+
+Title Selected Topics in Computer Science - II Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for B.Tech., M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+700 - Level Selected / Special Topic
+
+Title Selected Topics in Computer Science - III Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech., M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+700 - Level Selected / Special Topic
+
+Title Special Topics in Algorithms Number CS7xxx
+Department Computer Science L-T-P [C] 3–0–0 [3]
+Offered for B. Tech., M.Tech., PhD Type Elective
+Prerequisite Algorithm Design and Analysis,
+Maths for Computing Antirequisite / Preferred
+Knowledge None
+700 - Level Selected / Special Topic

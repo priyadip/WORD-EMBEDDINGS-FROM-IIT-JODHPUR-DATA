@@ -1,0 +1,68 @@
+SOURCE_PDF: 79e7a9b0ec25_cps_programstructure_27072019.pdf
+
+M. Tech. And Dual Degree (M.Tech. and Ph.D.)
+in Cyber Physical Systems
+
+Category Program Core
+(MC) Program Elective
+(ME) Open Elective
+(MO) Project
+(MP) Total
+Graded
+Credits Total Graded +
+Nongraded
+Credits
+Credits 18 18 06 16 58 62
+Cat. Course Title L-T-P Credits Cat. Course Title L-T-P Credits
+I Semester II Semester
+MC Introduction to Cyber Physical
+Systems 3-0-0 3 MC Security in CPS 2-0-0 2
+MC Cyber Physical System Modelling
+and Simulation Laboratory 0-0-2 1 MC Data Communication and
+Networking 3-0-0 3
+MC Advanced Control System 3-0-0 3
+MC Introduction to Modelling (Fractal
+offered by Dept. Of Mathematics) 1-0-0 1 MC Embedded System Design 3-0-0 3
+MC Simulation of Dynamical
+Systems 1-0-0 1 ME Program Elective-3 3-0-0 3
+ME Program Elective-1 3-0-0 3 MC Embedded System Design
+Laboratory 0-0-2 1
+ME Program Elective-2 3-0-0 3
+MO Open Elective-1 3-0-0 3
+NG Professional Ethics 1-0-0 1 NG Technical Communication 1-0-0 1
+III Semester IV Semester
+ME Program Elective-4 3-0-0 3 MO Open Elective- 2 3-0-0 3
+ME Program Elective-5 3-0-0 3 NG IP Management and Exploitation 1-0-0 1
+ME Program Elective-6 3-0-0 3
+NG Systems Engineering and Project
+Management 1-0-0 1
+Course Title L-T-P Credits Department offers the course
+Computer Vision 3-0-0 3 CSE
+Advanced Digital Signal Processing 3-0-0 3 EE
+Vehicular Ad-Hoc Networks(VANETs) 3-0-0 3 CSE
+Edge & Fog Computing 3-0-0 3 CSE
+Robotics : Fractal 1 Robot Modelling 1-0-2 2 ME
+Robotics : Fractal 2 Control 1-0-0 1 ME
+Robotics : Fractal 3 Motion Planning and
+Programming 1-0-0 1 ME
+Machine Learning I 3-0-0 3 CSE
+Digital and Systems-on-Chips Design 3-0-0 3 EE
+Introduction to Virtual Reality 3-0-0 3 CSE
+Smart Grid 3-0-0 3 EE
+Adaptive Signal processing 3-0-0 3 EE
+Computer Architecture 3-0-0 3 CSE
+Digital Twin 3-0-0 3 EE
+Machine Leaning II 3-0-0 3 CSE
+Artificial Intelligence I 3-0-0 3 CSE
+Proposed Program’s Structure Overall Structure
+Semester wise distribution of credits
+List of Program Electives
+
+Artificial Intelligence II 3-0-0 3 CSE
+Smart Manufacturing 1-0-2 2 ME
+Resource Constrained AI 3-0-0 3 CSE
+Real Time Communications 3-0-0 3 EE
+Industry 4.0 Applications in Manufacturing
+Systems 1-0-0 1 ME
+Optimization 1-0-0 1 Mathematics
+The department may add new electives from time to time.

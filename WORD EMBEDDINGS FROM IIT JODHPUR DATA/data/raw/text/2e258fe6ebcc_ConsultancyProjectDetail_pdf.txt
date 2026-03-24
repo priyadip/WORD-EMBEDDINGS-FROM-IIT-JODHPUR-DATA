@@ -1,0 +1,105 @@
+SOURCE_PDF: 2e258fe6ebcc_ConsultancyProjectDetail.pdf
+
+Institute Name Indian Institute of Technology,Jodhpur
+India Ranking 2017 ID IR17-ENGG-1-18631
+Discipline Engineering
+2D.FPPP S.No. Financial Year Name of
+faculty (Chief
+Consultant) Client Organization Title of Consultancy of project Amount
+received (in
+Rupees) Amount received (in
+words)
+2015-16 Rakesh Sharma Panasonic R&D Center
+of India Towards the development of
+low-cost water quality sensors 0 Nil
+Rakesh Sharma Panasonic R&D Center
+of India Towards the development of
+low-cost water quality sensors
+Phase -2 461880 Four lakh Sixty One
+Thousand Eight
+Hundred Eighty
+Rupees
+Dr. Mainak
+Mazumdar Centre De Science
+Humaines, New Delhi Uneven Growth and Inequality:
+Exploring the Inter-linkages at
+Sectoral and Household level
+for India'. 0 Nil
+venkta ramanna Ministry of Defence,
+WESSE, Govt, of India Technical Consultancy
+onDesignVerificationandValidat
+ionof Higher Layers ( Transport,
+Network, and Data Link Layers)
+of 2 Mbps and 2-6 MBPS
+WAVEFORMS 0 Nil
+Sandeep kumar
+Yadav Ministry of Defence,
+WESSE, Govt, of India Signal Detection and Frequency
+Tracking Algorithm Project 0 Nil
+
+2 2014-15 Rakesh Sharma Panasonic R&D Center
+of India Towards the development of
+low-cost water quality sensors 235563 Two lakh Thirty Five
+Thousand Five
+Hundred Sixty Three
+Rupees
+Rakesh Sharma Panasonic R&D Center
+of India Towards the development of
+low-cost water quality sensors
+Phase -2 702000 Seven lakh Two
+Thousand Rupees
+Dr. Mainak
+Mazumdar Centre De Science
+Humaines, New Delhi Uneven Growth and Inequality:
+Exploring the Inter-linkages at
+Sectoral and Household level
+for India'. 0 Nil
+venkta ramanna Ministry of Defence,
+WESSE, Govt, of India Technical Consultancy
+onDesignVerificationandValidat
+ionof Higher Layers ( Transport,
+Network, and Data Link Layers)
+of 2 Mbps and 2-6 MBPS
+WAVEFORMS 526942 Five lakh Twenty Six
+Thousand Nine
+Hundred Forty Two
+Rupees
+Dr Sandeep
+kumar Yadav Ministry of Defence,
+WESSE, Govt, of India Signal Detection and Frequency
+Tracking Algorithm Project 126296 One lakh Twenty Six
+Thousand Two
+Hundred Ninety Six
+Rupees
+3 2013-14 Dr. Mainak
+Mazumdar Centre De Science
+Humaines, New Delhi Uneven Growth and Inequality:
+Exploring the Inter-linkages at
+Sectoral and Household level
+for India'. 231742 Two lakh Thirty One
+Thousand Seven
+Hundred Forty Two
+Rupees
+venkta ramanna Ministry of Defence,
+WESSE, Govt, of India Technical Consultancy
+onDesignVerificationandValidat
+ionof Higher Layers ( Transport,
+Network, and Data Link Layers)
+of 2 Mbps and 2-6 MBPS
+WAVEFORMS 422500 Four lakh Twenty Two
+Thousand Five
+Hundred Rupees
+Dr Sandeep
+kumar Yadav Ministry of Defence,
+WESSE, Govt, of India Signal Detection and Frequency
+Tracking Algorithm Project 255000 Two lakh Fifty Five
+Thousand Rupees
+
+Dr Sandeep
+kumar Yadav World BPO Forum, US new generation tablet computer,
+Barmer 1357460 Thirteen lakh Fifty
+Seven Thousand Four
+Hundred Sixty Rupees
+S Harinipriya Panasonic R&D Center
+of India Development of Prototype of
+Microbial Fuel cells 1500000 Fifteen lakh Rupees

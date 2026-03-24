@@ -1,0 +1,41 @@
+SOURCE_PDF: d36e5a13c838_HRMS-Facility-Guidelines-638860317972349070.pdf
+
+Monday (1st day) RKM NKR
+Tuesday (2nd day) RKS RDE
+Wednesday (3rd day) SC SM
+Thursday (4th day) SP KM
+Friday (5th day) MG External Samples
+Indian Institute of Technology Jodhpur
+Department of Chemistry
+NH-62, Nagaur Road, Karwar, Jodhpur,
+Rajasthan
+HRMS Facility Guidelines
+Mode of Access
+i) 
+Each group will get one slot per complete cycle according to the table given below.
+ii) 
+In case a slot is anticipated to remain unutilized or underutilized, the representative of 
+the group must inform the operator (minimum 30 minute before), so that other 
+group’s request can be prioritized. Proper utilization with mutual understanding and 
+equal accessibility should be the mode of operation.
+iii) 
+Students are not allowed to record HRMS spectra on their own. Only a designated 
+operator (Mr. Ganpat Choudhary and Mr. Kamal Kishore (as of now)) are permitted to 
+operate HRMS.
+Sample Preparation
+i) 
+Only MS/HPLC grade solvents should be used by the operator for sample preparation.
+ii) 
+HRMS requisition form must be submitted minimum 30 minutes before the respective 
+slot timing.
+iii) 
+The sample must be >90% pure (1H NMR) to be able to record HRMS.
+iv) 
+Along with the HRMS requisition form, one must submit 1H NMR spectra.
+v) 
+Very less amount of sample (maximum 1 mg) should be brought in a 5 mL Eppendorf 
+tube (properly labelled with a sample code as written on the HRMS requisition form) 
+to the HRMS lab when you are coming to avail your slot. If the amount of the sample 
+brought by you is unacceptably high, next two slots of yours will be barred.
+vi) 
+The solutions should be filtered by the operator in the HRMS lab before injection.

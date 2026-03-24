@@ -1,0 +1,15 @@
+research seminar talk by masihuddin on july at speaker masihuddin title of the talk on estimating the selected treatment mean under design date time and venue july at to at meeting room dept of mathematics
+abstract common problem faced in clinical studies is that of estimating the effect of the most effective
+the one having the largest mean treatment among available treatments
+the most effective treatment is adjudged based on numerical values of some statistic corresponding to the treatments
+proper design for such problems is the design dld
+we consider two treatments whose effects are described by independent gaussian distributions having different unknown means and common known variance
+to select the more effective treatment the two treatments are independently administered to subjects each and the treatment corresponding to the larger sample mean is selected
+to study the effect of the adjudged more effective treatment
+estimating its mean we consider the dld in which subjects are further administered the adjudged more effective treatment in the second stage of the design
+in this talk will discuss the problem of estimating the selected treatment mean under the dld and provide summary of the results obtained
+speaker masihuddin title of the talk on estimating the selected treatment mean under design date time and venue july at to at meeting room dept of mathematics
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

@@ -1,0 +1,7 @@
+title period tripling and quintupling renormalizations below space authors rohit kumar and
+chandramouli journal discrete continuous dynamical systems volume year publisher american institute of mathematical sciences abstract in this paper we explore the period tripling and period quintupling renormalizations below class of unimodal maps
+we show that for given proper scaling data there exists renormalization fixed point on the space of affine maps which are infinitely renormalizable
+furthermore we show that this renormalization fixed point is extended to unimodal map considering the period tripling and period quintupling combinatorics
+moreover we show that there exists continuum of fixed points of renormalizations by considering small variation on the scaling data
+finally this leads to the fact that the tripling and quintupling renormalizations acting on the space of unimodal maps have unbounded topological entropy
+chandramouli journal discrete continuous dynamical systems volume publisher american institute of mathematical sciences abstract in this paper we explore the period tripling and period quintupling renormalizations below class of unimodal maps

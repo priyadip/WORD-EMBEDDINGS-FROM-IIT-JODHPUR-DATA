@@ -1,0 +1,512 @@
+browse recent submissions now showing of no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+disposable microsystems can be potential solution for the same which are designed for while eliminating the risk of between patients
+these devices are typically aimed to design for straightforward use simplifying the testing process and hence are of low initial cost
+along with this it addresses environmental concerns associated with plastics
+in this context analytical devices pads are desgined and developed which are economical recyclable biocompatible and robust
+they consist of network of hydrophobic and hydrophilic which are capable to handle and quantitatively analyze the target analyte
+there is no requirement for the facility to fabricate such device and it does not require any external pump for the movement of target analytes
+paper strips have been used for several decades for biomedical assays because they provide platform for colorimetric testing
+previously and clegg reported the first kind of based microfluidic device in
+however the whitesides group later explored microfluidics and it opened new pathways in this field for the use of paper to develop portable detection in applications
+this research investigates simple fabrication strategies for mass manufacturing of disposable microsystems for sensing applications while utilizing analytical device pad by creating hydrophobic zone through the proper penetration of ink into the pores of the paper
+an inexpensive disposable colorimetric sensor developed through the assistance of chemometric reaction and tested for the optimization of samples and the determination of glucose for different concentrations mm and with lod of
+to increase platform resistance to variations in illumination and camera optics images taken with several cellphones in various lighting conditions were used to train classifiers with an accuracy of
+to enhance the analysis platform robustness and make it the image data set was taken at various angles of incident light with an overall accuracy
+further for the multiplexed detection of the analyte unique has been fabricated on chemically modified a4 paper followed by the theoretical and experimental fluid flow
+three different biomarkers glucose lactate and uric acid were detected through colorimetric enzymatic reaction on the novel disposable pad with lod and coefficient of determination of mm and mm and and mm and respectively
+this platform achieves high accuracy rate of analyte detection in predicting three different colorimetric findings both quantitatively and qualitatively through an android application
+the application integrated image processing tools autonomously identify the region of interest roi and minimize human error enhancing the platform friendliness and precision
+proceeding the work for the exploration of electrochemical sensing electrochemical sensor was developed for the detection of lactic acid with sensitivity of ma and lod of mm followed by computation studies of reaction molecules
+show more no thumbnail available publication remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+conventional water treatment plants face difficulties in treating these effluents for organics removal because the high salinity causes membrane fouling and inhibits the growth of microorganisms
+in order to tackle this problem it is necessary to utilize specific category of organisms capable of tolerating or thriving in high salt concentrations known as halotolerant organisms as biocatalysts
+physicochemical methods can remove salt but the repeated buildup of organic compounds leads to increased energy consumption and decreased quality of the recovered salts
+the microbial fuel cell mfc is suitable method for effectively utilizing saline wastewater
+the study describes the cultivation of dunaliella salina at the saline cathode in photosynthetic microbial fuel cell pmfc
+the alga was isolated from salt lake sambhar rajasthan india and identified using rdna sequencing analysis
+the alga growth in pmfc was tested at to sodium chloride
+the highest power and current density were obtained at nacl with and respectively
+the specific growth rate of algae was with lipids and of glycerol content at pmfc
+the pmfc operating at nacl led to high production mg
+the salinity in natural water resources makes it challenging to apply them in bioprocesses
+this study establishes the utility of salina in saline based pmfc for generating power and dunaliella biomass
+scaleup pmfc system with cathode and anode was developed for the second study utilizing dunaliella algae lea biomass as an electron donor substrate at the anode
+the operating system with lea biomass generates power density of and net energy at salinity under outdoor conditions reducing reliance on external substrates
+therefore pmfcs can potentially treat saline wastewater with concomitant energy and product generation
+show more no thumbnail available publication explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+the tom brain network associated with social cognition is responsible for understanding another person intentions and ideas comprising regions such as the medial prefrontal cortex temporoparietal junction and superior temporal sulcus
+these areas are crucial for recognizing and interpreting others thoughts intentions and emotions
+recent studies highlight significant interactions between the network fpn and the junction tpj which are critical for processing social information and predicting social evaluations
+using functional magnetic resonance imaging fmri data recent research has focused on the early development of tom in children extending into middle childhood and adolescence
+by age five children typically develop the ability to understand others aims and predict actions based on paradigms marking critical stage in tom development
+deficits in tom are evident in neurodevelopmental disorders like autism spectrum disorder asd where individuals show significant impairments in social cognition and communication
+despite extensive research the heterogeneity within the asd population and incomplete understanding of its neurobiology pose challenges
+our research focuses on quantifying the temporal stability of tom and pain brain networks from early childhood years to adulthood using dynamic functional connectivity analyses
+we investigate whether temporal stability patterns are associated with performance in reasoning tasks particularly in children aged years
+to decode cognitive states during naturalistic task we developed an explainable spatiotemporal graph convolutional neural network
+we further employ an explainable convolutional variational autoencoder vae to predict individual task performance identifying key brain regions contributing to these predictions as neural fingerprints
+in the context of asd which affects social behavior and communication ability we utilize fmri datasets to develop an explainable deep learning framework aimed at identifying both shared and variability in tom brain networks
+our models classify typically developing td and asd individuals using functional connectivity and features derived from tom network dmn central executive network cen and salience network sn
+furthermore we use these features to predict clinical scores related to asd symptoms including and iq fiq through predictive modeling cpmm
+the model evaluation demonstrated robust classification performance auc and accurate symptom severity prediction with minimal error across test sets
+finally we also identify asd through features using rough fuzzy approach
+overall this work demonstrates the power of explainable deep learning models in bridging brain network dynamics and symptom heterogeneity in asd contributing to more individualized insights into atypical brain development
+show more no thumbnail available publication light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+chlorophyll molecules reside around the lhcii trimer in configuration
+the conserved composition of the thylakoid membrane which hosts protein complexes and cofactors in plants is found to be essential for light harvesting and pivotal in quenching npq the process by which excess energy from sunlight is dissipated as heat to protect photosynthetic organisms from photodamage
+the chlorophyll derivatives bound in the membrane are important in designing artificial photosynthetic materials
+the properties of chlorophylls such as energy conversion and electron transfer depend on how the chlorophylls are assembled in thylakoid membranes
+the membrane comprises different types of lipids with different degrees of unsaturation based on the number and their positions along the alkyl chains
+tail unsaturation plays an important role in photosynthesis forming different cellular structures adaptation to environmental stresses and so on
+however the relation between the tail unsaturation to the stability of chlorophyll aggregate is unexplored till now
+the role of the lipidome of thylakoid in regulating the harvesting is unclear
+the molecular origin of the stability of the trimeric complex in the membrane remains elusive to date
+thus the current thesis proceeds to investigate the origin of the structural integrity of lhcii in lipid membranes thermodynamics dynamics of chlorophyll aggregation and the role of lipids on the aggregation using aa and cg molecular dynamics simulations
+aa molecular dynamics md simulations of lhcii are carried out in dipalmitoylphosphatidylcholine dppc membrane at central associations of chlorophyll cla pigment molecules near the lhcii are attributed to conserved coordination between the cla and specific residues of the first helix of chain
+the residue forms with the fourth helix of the same chain of the trimer not of the monomer
+in an earlier experiment three residues wyr at each chain of the trimer have been found indispensable for the trimerization and referred to as the trimerization motif
+our simulations show that the residues of the trimerization motif are connected to the lipids or pigments by chain of interactions rather than direct contact
+synergistic effects of sequentially located hydrogen bonds and salt bridges within monomers of the trimer keep the trimer conformation stable in association with the pigments or the lipids
+cg molecular dynamics simulations of cla are carried out in plant thylakoid membranes at by varying the total ratio using our previously derived cg model of cla and martini force fields for lipids
+our simulations show that cla molecules dynamically form aggregates that break and reform corroborated by earlier fluorescence quenching experiments
+the number of aggregates increases with an increasing concentration of cla
+selective lipids promote the formation of cla aggregates governed by van der waals interactions in plant thylakoid membranes
+less unsaturated lipids reside near the aggregate promoting increased order and efficient packing
+conversely higher unsaturated lipids are depleted from the aggregate imparting flexibility to the membrane
+such preferential locations of lipids around the aggregates result in increasing lateral heterogeneity in the order parameter and density with increasing cla concentrations
+this induces more undulation in membranes resulting in lower bending modulus and area compressibility
+to understand the role of lipid compositions in the stability of cla aggregates the potential of mean force of cla dimer is calculated in the presence of the thylakoid and the bilayers comprising either the least or the highest unsaturated lipids by using cg md simulations
+the thylakoid membrane enhances the stability of the cla dimer compared to the least and highest unsaturated membranes
+lipid mixing rather than lipid unsaturation plays critical role in facilitating cla dimerization by modulating the membrane microenvironment through stronger interactions
+the microenvironment of the selective lipids in the vicinity of the aggregated cla remains conserved as in the lhcii trimer which suggests cla as the origin of the lipid fingerprints in thylakoid
+the contact lifetime and waiting time distributions of cla dimers exhibit the existence of multiple time scales including most populated fast time scales and less populated slow time scales
+the survival probability of cla dimers follows decay with multiple residence time scales which leads to rate unlike conventional rate theory
+such decay of dimer survival is manifestation of dynamic disorder resulting from coupling between time scales of dimer formation and aggregates
+in summary the study indicates that the conformation of the lhcii trimer along with the cla association and the microenvironment of the selective lipids in its vicinity as whole can be instrumental for the stability and functions of the photosynthetic machinery
+the results from the study can be extended and useful in understanding the role of the cla binding lhcii or their aggregation hosted by thylakoid on the optimal photosynthetic function by enhancing light absorption and by dissipating excess energy
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more no thumbnail available publication smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+materials with dynamic properties such as the ability to expand and contract change stiffness heal or dissolve in response to environmental changes are highly sought after for various applications including biosensing drug delivery soft robotics and tissue engineering
+in the last thirty years the creation and use of biomaterials has emerged as highly active and promising field of study situated at the crossroads of chemistry materials science bioengineering and medicine
+utilizing in the development of functional biomaterials is highly promising and stimulating field of study offering significant potential for the treatment of injury or disease
+peptide is becoming promising method for creating sophisticated biomaterials that possess exceptional physicochemical and biological characteristics
+in this regard peptide sequences with inherent capabilities have been intentionally engineered to give rise to diverse structural aggregates including nanofibers nanovesicles nanobelts and nanotubes
+over the course of the past few decades number of methodologies have been devised with the purpose of designing assembling peptides
+various supramolecular nanostructures have been created using synthetic peptides that possess beta sheet alpha helix triple helix or amphiphile structures
+these nanostructures were specifically designed to undergo resulting in the acquisition of specific properties and functionalities
+this study investigates the use of bioinspired to create variety of supramolecular healthcare materials that can be used in drug delivery as well as antibacterial regenerative medicine purposes
+first of all we fabricated peptide based nanovesicles crafted from the hotspot region of alpha beta tubulin heterodimer interface for the targeted delivery of tubulin targeted drug in combination with an mtor inhibitor
+by in vitro assessment we found that such tubulin targeted peptide nanovesicle mediated targeted delivery can increase the therapeutic potential of both docetaxel and everolimus significantly and can be employed as anticancer nanotherapeutic
+in our next research work we have constructed substance mimicking supramolecular hydrogelator octapeptide by fusing truncated peptide sequence ffglm derived from substance along with an rgd motif
+this designed octapeptide under the influence of its aromatic capping group together with its uniquely balanced hydrophobic and hydrophilic residues undergoes quick assembly at biological ph ph to give rise to soft yet thixotropic hydrogel matrix with superior thermal and ph responsive property
+from experimental analysis we envisioned this designed hydrogel as futuristic cytocompatible matrix having both wound healing and ph responsive drug releasing therapeutic effectivity
+next in an endeavour to find new synthetic amp we have designed and constructed few peptide amphiphiles comprising lipid chain succeeded by core hydrophobic zone in combination with cationic motif
+these synthesized peptide amphiphiles differ only by their aggregation propensity of the core hydrophobic zone
+interestingly all the synthesized peptide amphiphiles were found to exert their antibacterial effectivity above their critical aggregation constant
+however our study reveals that the extent of antibacterial effectivity is guided by both hydrophobic core zone in combination with positively charged motifs derived and modified from the peptide core
+the lead peptide by its more core region undergoes rapid at lower cac and shows higher lps binding affinity with superior antibacterial effectivity against resistant staphylococcus aureus in comparison with other analogues
+the lead multidomain peptide under its assembly propensity gives rise to the formation of the thixotropic hydrogel with significant antibacterial wound healing property
+experimental data including wound closure ratio collagen deposition and expression of various cytokines like along with revealed that the designed hydrogel promotes the healing of both aeruginosa and diabetic wounds through reduced nflammatory repercussions and enhanced angiogenesis
+in our final study we have developed an extracellular matrix mimicking responsive component hybrid hydrogel scaffold composed of amyloid fibril lz assembled with heparin sulfate hs by mere utilization of their inherent favourable covalent interactions
+heparin sulfate was employed to construct this assembled extracellular matrix ecm scaffold due to its striking resemblance to heparan sulfate
+further to increase its conductivity at physiological ph and simultaneous antibacterial efficacy in an acidic chronic wound microenvironment we have incorporated tannic silver nanoparticle into the hydrogel composite
+the enhanced antimicrobial efficacy of this composite hydrogel is likely linked to the ph responsive disassembly of the supramolecular hydrogel matrix when exposed to chronic diabetic wound conditions
+apart from its antibacterial effectivity the at the designed hydrogel can potentially eradicate bacterial biofilm formation providing promising strategy for the management of clinical chronic wounds
+these multifaceted synergistic effects significantly expedite the process of wound healing and enhance the overall quality of wound repair
+show more no thumbnail available publication an multimode interference device for power splitting in single mode and few mode fiber based passive optical networks indian institute of technology jodhpur show more the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+show more no thumbnail available publication experimental investigations on dissimilar metal welds fabricated using nickel based welding consumables indian institute of technology jodhpur chhibber rahul show more in the current context of industrial advancement there is rapid surge in electricity demands
+meeting this escalating need involves either enhancing the efficiency of existing power plants or establishing new ones
+pulverized coal stands out as the fuel choice predominantly utilized in power industries
+however the expansion of power plants contributes to increased emissions of gases like ch4 and co2
+the efficiency of power plants hinges largely on their operational steam parameters particularly temperature and pressure
+supercritical power plants offer solution by boosting efficiency through elevated operating conditions resulting in reduced coal consumption and lower co2 emissions
+fabricating and maintaining power plants pose significant challenges due to the demanding working conditions
+utilizing materials has become imperative in the power plant sector
+different components and structural elements necessitate dissimilar metal welds to enhance structural integrity and performance
+this research endeavors to develop shielded metal arc welding smaw electrode coatings aimed at enhancing performance and mitigating issues associated with failures
+smaw is widely employed for welding repairs and maintenance in this context
+however detailed information on the welding consumables currently in use remains classified and limited in the public domain
+this research aims to develop coated electrode for producing inconel dissimilar joints particularly for power plant applications
+utilizing the extreme vertices methodology the coating compositions were formulated from mineral systems like and
+the experimental characterization focused on thermophysical physicochemical and wettability roperties of the coatings
+regression model was employed to analyze the impact of coating constituents
+subsequent multipass experiments using these coatings were used to evaluate their performance
+qualitative and quantitative assessments of the resulting beads determined electrode suitability
+the most effective coating was then applied to fabricate dissimilar welds using extruded core wire
+mechanical microstructural and hot corrosion properties of the elds were thoroughly examined
+additionally comparative analysis between our electrodes and commercially available ones was conducted
+overall the study demonstrates successful development of smaw electrode coatings tailored for welding specifically for power plant applications
+these developed electrodes exhibit superior mechanical properties corrosion resistance and satisfactory microstructural stability compared to their commercially available alternatives
+show more no thumbnail available item construction of and bonds using diaryliodonium salts as aryl transfer reagents indian institute of technology jodhpur murarka sandip show more arenes represent fundamental structural motif in diverse array of organic molecules encompassing pharmaceuticals clinical drug candidates agrochemicals and nctional materials
+hence the development of novel and sustainable arylation methodologies are of gnificant importance in organic synthesis
+diaryliodonium salts being bench stable and readily available renowned for their exceptional reactivity and facile preparation serve as versatile aryl precursors in wide range of organic ransformations
+in this regard we have developed coupling reaction incorporating diaryliodonium triflates carbon disulfide and both cyclic and acyclic aliphatic amines resulting in the synthesis of biologically active dithiocarbamates
+notably the synthesized dithiocarbamates are found to exhibit properties as confirmed by analysis and cellular studies
+employing the same reaction methodology we have also synthesized dithiocarbamates through coupling between cyclic and acyclic primary and secondary amines carbon disulfide and methides
+the key features of this method include its mild reaction conditions high functional group tolerance and scalability
+moreover we have also devised annulation of hydrazones with diaryliodonium salts to synthesize pyrazoles
+as established by control experiments mechanistic investigations revealed that the copper catalyst is essential for this process which involves sequential cyclization deprotection and arylation steps
+furthermore we have demonstrated an allylic arylation and aryl sulfonylation of mbh acetates utilizing diaryliodonium triflates
+this methodology exhibits broad substrate scope scalability and high tolerance to diverse functional groups
+show more no thumbnail available item effects of processing methods on property relationships at ambient and elevated temperatures in binary alloys indian institute of technology jodhpur kashyap
+show more alloys constitute widely used group of light metals and alloys
+in spite of it traditionally being system no systematic attempts have been made to overcome the limitations existing in these alloys
+it becomes even more important to investigate when numerous developments have been witnessed in playing with microstructure control by newer processing methods to enrich our capability of broadening the optimization regimes
+this research investigates the relationship etween composition processing structure and properties of binary to alloys at room and high temperatures
+the alloys were produced by melting and casting in the induction furnace
+microstructure and mechanical property studies were conducted on hot extrusion friction stir processing fsp and torsion hpt processed alloys
+the minimum grain sizes obtained are on hpt upon fsp and on extrusion which are much smaller than the grain sizes of
+irrespective of processing methods strength was found to increase with decreasing grain size according to the type relationship but the strengthening caused by the grain interior and the grain boundary zone was found to be sensitive to the processing method
+in contrast to this at elevated temperatures the strength decreased whereas elongation ncreased with decreasing grain size
+superplastic behaviour investigated in fsp material showed elongations of depending on composition with the aximum elongation of corresponding to the eutectic alloy
+the values of parameters of the constitutive relationship for deformation were obtained to be as follows
+strain rate sensitivity index was found to be maximum of for fsped alloy whereas it was minimum of for the hypereutectic alloy
+the magnitude of increased with test temperature and generally decreased with increasing si content for all the processes involved
+ii the apparent activation energy for deformation qa was obtained to range from to
+the fsp material shows and true activation energy over the temperature range of and over
+the echanism for superplastic deformation is accordingly suggested to be grain boundary sliding and its accommodation by grain boundary diffusion at the lower end of the temperature range and the same by lattice diffusion at the upper end of the temperature range
+qt generally increased whereas decreased with increasing si content for which the deformation mechanisms were identified to be dislocation climb creep for low alloys but power law breakdown appeared for hypereutectic alloys in and extruded alloys
+according to the present results on fsped to both creep mechanisms and mechanisms occur over different ranges of temperatures strain rates and compositions
+in conclusion it is possible to make alloy stronger by selecting higher si content but irrespective of composition the same can be made to exhibit superplasticity thus providing an opportunity to extend the applications of alloys by proper processing and meeting the service conditions
+show more no thumbnail available item from words to structures enhancing document image analysis using handcrafted and machine learning techniques indian institute of technology jodhpur harit gaurav show more our thesis explores the field of document image analysis outlining its significance and the challenges it faces
+we progress from basic text extraction word spotting to understanding complex structures cell extraction and article segmentation addressing various challenges found in this progression
+our first work srivastava and harit navigates the complexity of word spotting in cluttered environments where word is cluttered by with line stroke
+we present comprehensive approach to word spotting in cluttered environments focusing on the use of vertical projection profile vpp feature and its modified version the combinatorics vertical projection profile cvpp
+we compare our method with rath and manmatha and phocnet sudholt and fink for handwritten word spotting in the presence of achieving better results
+we then explore structural insights of document images focusing on cell extraction and correction in handwritten form images srivastava and harit
+our focus laid on structured documents like forms and cheques where there is predefined space called frame for the user to fill the entry
+we address the of spacing while writing by extracting cells using the modified region growing method gonzalez and applying horizontal scale correction on the extracted form fields
+this system results in reduced error rates when applied as preprocessing step in recognition system et al
+in continuation to handwritten form images we propose deep network forpredicting the associations pertaining to field labels and field values in heterogeneous handwritten form images divya and gaurav
+we consider forms in which the field label comprises printed text and field value can be the handwritten text
+we have used graph autoencoder kipf and welling to perform the intended field label to field value association in given form image
+it was the first attempt to perform association in handwritten form image using machine learning approach
+simultaneous super resolution and denoising in document image divya and gaurav
+the approach is one shot unpaired technique where single unpaired example is used as reference for training singan model shaham et al
+where first clean reference image is used to train singan to learn the characteristics of the clean image
+then super resolution and denoising of the given test image is carried out using another singan
+the formulation of the loss function helps in this task by prompting the generated images to have characteristics similar to the reference clean image
+selective image denoising divya and gaurav deals with removal of unwanted noise from images
+the existing methods process an image in its entirety assuming that the noise uniformly affects the entire image
+for inputs where the noise affects localised part of the image applying methods that attempt to denoise the entire image can adversely affect the clean portions
+to address this issue the authors propose deep reinforcement framework for selective image denoising
+the framework uses procedure that first identifies the noisy patch and then denoises the extracted patch
+the authors use reinforcement learning for noise localization and pixelrl furuta et al
+for noise removal
+next we perform an article segmentation model for noisy degraded old newspaper images as downstream task
+these are bangla newspaper images taken from the era of
+we propose deep model based on convolution dilated convolution and skip connections to handle noise elements in these images
+in this work we faced two major challenges noise was getting super resolved while enhancing document there were noise patches denoising which lead to text removal from clean areas
+the focus of the work was to demonstrate the benefits of the preprocessing steps of denoising and super resolution on downstream task
+show more no thumbnail available item corona product in signed graph theory modelling structural balance and control indian institute of technology jodhpur yadav sandeep kumar show more signed networks help in studying complex relationships and interactions in various domains offering insights into the dynamics of positive and negative influences within interconnected systems
+extend the concept of the corona product of two graphs to signed graphs building on the marked graph framework introduced by beineke and harary in
+this approach provides visual method for understanding the process of network generation aiding in the analytical determination of the resulting signed graph properties
+explore both the structural and spectral properties of the corona product of signed graphs
+additionally introduce the concept of signed corona graphs which are formed by iteratively applying the corona product to fixed small signed graph known as the seed graph
+these signed corona graphs serve as model for generating large evolving signed networks
+this study includes an examination of the structural properties of corona graphs such as the statistics of signed edges various types of signed triangles and degree distribution
+also investigate the algebraic conflict within signed corona graphs produced by specially structured seed graphs
+by carefully selecting seed graph it is possible to generate corona graphs that mirror the properties of signed networks
+have expanded the corona product of signed graphs into generalized corona product of signed graphs motivated by the generalized corona product of unsigned graphs
+study the structural balance and spectral properties of these graphs
+by utilizing the notion of coronal of graph determine the formulas of characteristic laplacian and signless laplacian polynomials of eneralized corona product of signed graphs
+have also identified sufficient conditions for the generalized corona product of some special collections of signed graphs to be
+following this analyze the controllability of the corona product of signed graphs and derive sufficient conditions based on the spectra of corona product of signed graphs
+show more no thumbnail available item modified mos2 and sns2 flakes for sensing applications indian institute of technology jodhpur kumar mahesh show more the emergence of transition metal dichalcogenides tmdcs particularly and has sparked significant interest in the field of advanced materials due to their unique layered architecture and thickness
+furthermore the anticipated challenges and future perspectives in the rapidly evolving research on sns2 and mos2 for sensing applications are similarly explored show more no thumbnail available item advanced security solutions for and highly dynamic internet of vehicles iov indian institute of technology jodhpur das debasis show more abstract the internet of vehicles iov is highly dynamic network of heterogeneous balance between authentication and privacy is crucial in such types of networks
+moreover ensuring high level of security through heterogeneous communication can result in significant computational overhead due to the numerous cryptographic operations required which have higher execution times
+such between security and efficiency are impractical in iov networks where the iov devices have limited processing power and storage capacity
+furthermore diverse communications generate substantial data that requires secure storage
+therefore it is essential to minimize data storage and retrieval times to facilitate communication in rapidly changing iov network
+these problems can be solved using lightweight security solutions that make sure users are authenticated without compromising their privacy
+these solutions can also improve the between security and performance and make it easier to store and retrieve the large amounts of data that are created by different types of communication in the iov network
+the research is conducted in two phases
+the first phase proposes advanced security solutions for the aforementioned issues using devices tpd
+the tpd type of hardware security module hsm stores cryptographic keys along with secret parameters and performs cryptographic operations such as authentication encryption decryption and so on within the device
+initially lightweight conditionalprivacy authentication mechanism is proposed enhancing security through innovative key management mechanisms such as hard key update hku and soft key update sku
+these mechanisms safeguard against key disclosure and ensure continuous protection even in the case of key compromise
+the proposed solution significantly reduces computational and communication overhead using cryptographic techniques such as message authentication codes macs hash functions and xor operations
+the research is further extended to mitigate the by implementing the idea of static and dynamic batch verification of multiple messages leveraging lightweight cryptographic operations
+the proposed method reduces computational overhead and ensures data integrity and confidentiality across the network
+additionally it provides solution for efficient and secure of information while enhancing the responsiveness and efficiency of iov services having dynamic and largescale environment
+the proposed approach reduces latency and prevents bottleneck issues in centralized system by integrating edge computing with the vehicular cloud
+despite their robust design tpds can still be vulnerable to advanced physical attacks because of potential hardware flaws or inadequate protection against complex tampering techniques
+attackers can exploit these weaknesses to bypass security measures potentially compromising the integrity of the device
+this issue is resolved by introducing alternative approaches using physical unclonable functions puf devices
+pufs use hardware inherent physical irregularities to generate cryptographic keys on demand making them nearly impossible to clone and highly resistant to tampering unlike tpds which require secure key storage
+in the second phase puf devices are used as secure hardware modules to design highly secure and lightweight authentication scheme using pair crp mechanism
+furthermore the research provides an effective solution for enhancing security on devices where efficient and secure data handling is crucial
+the framework uses pufs to generate dynamic nonce and keys to address nonce reuse issue without imposing significant computational or energy demands
+additionally implementing this framework on hardware platforms demonstrates its suitability for systems that require high security with efficient power usage making it an ideal choice for securing resource constrained iov devices
+comprehensive security analysis using ban logic random oraclemodel rom and the proverif tool validates the technical depth of the proposed solutions making them highly effective in countering wide variety of security threats prevalent in iov scenarios
+the proposed methods are also evaluated against existing techniques demonstrating improvements in terms of computational overhead communication overhead energy consumption latency and scalability
+show more no thumbnail available item eigenvalue problem for optical bent waveguides hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+nowadays with optical waveguides it is possible to have all the facilities for communication and transmitting data
+due to its importance researchers worldwide emphasize exploring optical waveguides and their different aspects including design properties applications and integration with other technologies
+the most prominent waveguides are straight waveguides and bent waveguides
+these waveguides are experimentally numerically and
+the mathematical aspects of the optical straight waveguides are explored very well
+in this thesis we presented the mathematical aspects of the dielectric optical bent waveguides
+the analysis was done by constructing an eigenvalue problem governing the bent waveguide model using maxwell equations in the appropriate space setting
+we restrict to the straight and bent waveguide model
+the main difficulty in studying the mathematical aspects of the bent waveguide model was the of the bent waveguide problem
+unlike theory for eigenvalue problems there is no general theory for eigenvalue problems
+it makes extracting information directly about the model associated with these problems challenging without conducting separate analysis
+in the we discussed the basics to understand how the optical waves propagate in the planner straight and bent waveguides
+the rigorous mathematical model of the straight and bent slab waveguides with constant profiles is discussed
+the main objective of the model is to understand the optical wave propagation analytically in the model
+the literature survey for the optical waveguides is also part of this chapter where one can find the work based on experimental numerical and studies
+for the mathematical study of the bent waveguide model in we discussed some primary results on the spectral theory of and operators
+we conducted literature survey focused on the spectral theory of various operators
+this survey aimed to provide insight into methodologies for analyzing different problems
+the analytic study of the straight waveguides showed that the corresponding eigenvalues problem is
+it has real eigenvalues
+also the eigenfunctions corresponding to distinct eigenvalues are orthogonal
+the analytical study of the bent waveguide was still missing due to the of the corresponding eigenvalue problem
+our study has addressed this gap part of chap
+the analytic work presented in this chapter showed the of an eigenvalue problem based on an operator theoretic setting
+here the of the bent waveguides problem is discussed by finding the adjoint operator of the problem
+the problem has eigenvalues which indicate the lossy nature of the bent waveguide modes
+this problem contains bent radius parameter
+the other studies show that when this parameter is large this problem transforms into straight waveguide problem
+in terms of the underlying mathematics we proved this using transformation showing that problem transforms into problem
+moreover the eigenvalues of the bent waveguide problem change into real eigenvalues of the corresponding equivalent straight waveguide problem
+an explicit relation between the real and imaginary parts of the propagation constants is constructed on detailed analysis
+based on this relation in chap
+the boundedness of both real and imaginary parts of the propagation constants is proved meaning they are confined within certain region in the complex plane
+furthermore problem has vorthogonal eigenfunctions corresponding to distinct eigenvalues
+for fixed bent radius study shows that the bent waveguide eigenvalue problem has orthogonal eigenfunctions corresponding to distinct eigenvalues
+to prove this analytically we use the adjoint operator and show the orthogonality behavior of the eigenfunctions
+for the bent waveguides the asymptotic behavior of the eigenfunctions bent modes dictates the distribution of electromagnetic energy in the radial directions
+in this work we showed mathematically that the asymptotic behavior of the eigenfunctions is proportional to
+this information helps to define the appropriate function space and the subsequent mathematical analysis of the wave several mathematical questions about the bent waveguide model demand further investigation
+the stability of the model for perturbations in the system parameters the nature of its pseudospectra etc
+the compactness of the operator for the bent waveguide eigenvalue problem needs to be explored to get more insights into the model
+moreover one can extend this work to the future of the bent waveguides show more no thumbnail available item segmentation algorithms for automatic concealed object detection using terahertz imaging indian institute of technology jodhpur bhatnagar gaurav show more the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+the increasing threat of concealed weapons and other valuable objects under human clothing calls for sophisticated and reliable security screening technologies
+traditional methods like metal detectors and scanners face limitations in detecting objects and can often be intrusive raising privacy concerns
+moreover the growing diversity and ingenuity of concealed objects require advanced imaging systems that can address these challenges while ensuring public safety
+this thesis presents novel approaches leveraging passive terahertz thz imaging
+it is covert and contactless way of scanning humans for visualizing potential concealed objects
+when applied to these images image processing and computer vision algorithms give an automatic solution to the problem
+they can provide completely automatic solution to detect localize and recognize these objects in real time
+this technology is in its infancy and has huge potential in the near future
+this thesis attempts to solve the problem by taking segmentation based approach to the problem
+unlike the visible spectrum which also captures an object color and inner texture the object visualization in this spectrum captures only the shape size and morphology of the objects
+thus localization would be more appropriate
+the goal of this thesis is to review and analyze various image processing and computer vision based algorithms suggested in the literature to perform automatic concealed object detection under human clothing for security check and entry control applications using passive terahertz imaging with particular focus on investigating and analyzing image segmentation based approaches for the same
+the most prominent methods in the literature are broadly classified into binary extraction methods and object detection methods
+the former methods give binary mask leading to the detection and localization of concealed objects in manner
+they thus can be used for all kinds of known and unknown object classes
+on the other hand the latter is more concerned with the recognition of specific classes apart from just detection and localization and mostly uses deep learning concepts to give optimal performance
+the research undertaken is broadly divided into three parts the first part chapter and aims to study all the binary segmentation methods for the effective detection and localization of concealed objects on an extensive dataset to propose and analyze novel segmentation based algorithms for the same
+the method in chapter utilizes particular image properties of the dataset principles of focus of attention and superpixel segmentation to give generic image processing method free of any kind of learning for the purpose
+additionally robustness to noise is also inherently considered in the study
+thereafter to make the approach robust to varying imaging conditions the principles of machine learning are leveraged in chapter to suggest more general solution to the problem
+it is worth mentioning that the particular insights developed in chapter help us engineer robust features for this method in chapter
+the second part chapter of the thesis takes an take on object detection
+for this novel approach based on hierarchical segmentation has been proposed to give region proposal technique starting point for many object detection algorithms
+the proposed technique is technique free of any kind of learning and utilizes specific image properties for the same
+finally the third part chapter of the thesis is more concerned with measuring the accuracy of superpixel segmentation used in the first part of the research
+apart from general literature review novel and mathematically rich information theoretic measure for the same has been proposed and analyzed
+it can be used to evaluate the refinement accuracy of the superpixel segmentation and choose optimal parameters
+in conclusion comprehensive study of segmentation and hierarchical segmentation based automatic and accurate yet resource methods for the application has been done
+additionally all the novel segmentation algorithms proposed in this thesis are implemented and empirically evaluated on dataset in this thesis
+show more no thumbnail available item eigenvalue problem for optical bent waveguides indian institute of technology jodhpur hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more no thumbnail available item metal complexes for applications in resistive switching and electrocatalysis indian institute of technology jodhpur metre ramesh show more drawing inspiration from nature the concept of ligands explores the catalytic potential of metals like iron and copper despite their preference for redox reactions
+unlike traditional spectator ligands ligands offer energetically accessible levels for reduction or oxidation enabling oxidation state changes to occur either exclusively at the ligand or synergistically at both the ligand and metal
+the incorporation of ligands presents numerous benefits such as facilitating continuous multielectron transfer regulating transition states and enabling changes in the redox state of the metal center
+in this context we have meticulously adapted ligands to explore broad spectrum of applications encompassing resistive switching memory antibacterial properties and electrocatalysis
+formazans boast rich history in chemistry where deprotonation generates monoanionic chelating ligands called formazanates
+the synthesis of formazan ligands provides straightforward route to complexes with tunable electronic and steric characteristics
+complexes featuring formazanate ligand typically exhibit narrow gap resulting in energetically accessible
+this property renders formazanate complexes enabling reversible storage of electrons in manner within these compounds
+the utilization of ligands in coordination with base metal ions has initiated novel research domain expanding the range of applications in the design of magnetic optical and intriguing electrical materials
+this is achieved by leveraging the distinctive optoelectronic properties and adaptable electrochemistry offered by formazanate ligands
+the primary focus of this thesis lies in the synthesis of ligands their corresponding metal complexes and their diverse applications ranging from resistive switching memory to antibacterial activity and electrocatalysis
+an ionic organotin complex was prepared using substituted formazan ligand and investigated for its application in write once read many worm memory devices demonstrating high switching ratio
+furthermore distorted octahedral bis formazanate zinc complexes were used in the fabrication of memory device that intriguingly exhibited resistive switching memory behavior
+the bis formazanate iron complexes displayed extensive redox behavior during the cathodic sweep in cyclic voltammetry analysis and were realized as electroactive cathode materials for the electrocatalytic h2o2 reduction in h2o2 fuel cell
+later mono formazanate mercury complex was prepared and was further studied as an antimicrobial agent
+show more no thumbnail available item diagnostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+hr is retinal disease caused by elevated blood pressure for prolonged period
+diabetic retinopathy dr is progressive retinal disease caused by diabetes
+diabetic retinopathy npdr is an early stage of dr damages blood vessels of the retina
+moreover hr serves as biomarker for several illnesses including retinal diseases atherosclerosis strokes kidney disease and cardiovascular risks
+early identification of these diseases helps in the timely and proper treatment can prevent blindness
+manual diagnosis of these retinal diseases is resource demanding inconvenient costly and demands specialized skills and experience
+on the other hand diagnosis cad and artificial intelligence ai based systems are expected to solve the challenges effectively
+this thesis proposes an efficient algorithm for hr detection
+further for effective management of these diseases we develop an effective algorithm for severity grading of hr and achieve this careful study of existing literature in the field of automatic diagnosis of hr and dr is conducted to identify important research gaps in this area
+it has been observed that the availability of public data sets for hr diagnosis is limited
+moreover there is no such public dataset available for hr grading
+severity grading helps in the timely and effective management of these diseases and reduces future risks
+however very limited research has been conducted for the severity grading of hr and npdr
+additionally previous studies mainly relied on arteriovenous ratio avr and the manual selection of regions of interest roi around the optic disc od for hr detection and its grading
+due to roi selection primarily around od these method had risk of missing several important clinical features present elsewhere resulting in less accurate diagnostic outcomes
+furthermore one of the key challenges observed in dr and hr severity grading is the imbalance imbalance
+such class imbalance makes the training of learning based recognition models very challenging as the majority of class samples predominate in the training process of the learning model
+to address these limitations novel hr detection approach has been proposed based on learning using pretrained initial baseline model to obtain transferable knowledge for feature embedding on prediction
+this approach aims to reduce overfitting and improve generalization which is especially advantageous for smaller datasets
+unlike previous methods the proposed approach uses complete images to capture all clinical features
+experimental results demonstrate the effectiveness of the proposed hr detection method
+in this thesis work we develop hrsg hypertensive retinopathy severity grading dataset dataset encompassing fundus images and categorizing the severity into four classes normal mild moderate and severe
+the grading process is conducted by three experienced ophthalmologists affiliated with prestigious medical institutions in india including the all india institute of medical sciences aiims in jodhpur the aravind eye hospital in madurai and the sri aurobindo institute of medical sciences hospital in indore
+for effective severity grading of hr hybrid deep learning dl architecture is proposed that leverages the combined strengths of pretrained and modified vision transformer vit enhanced with both global and locality mechanisms enabling accurate grading into four classes normal mild moderate and severe
+the proposed method effectively captures both local and global contextual information across the input image leading to robust and resilient classification model
+further to address the class imbalance issue we introduce novel decouple representation and classifier drc based training method
+the proposed drc method effectively addresses the class imbalance by improving the module capacity to identify effective feature learning while maintaining the original dataset distributional properties leading to improved diagnostic accuracy
+the extensive experimental results demonstrate the effectiveness of the proposed method in accurately grading hr severity
+this thesis also presents reliable method for npdr severity grading into normal mild moderate and severe classes
+this method includes an initial image enhancement to improve quality for subsequent processing
+feature set is then developed using various descriptors capturing rich information to identify distinct and unique properties of npdr lesions
+to address the class imbalance we employ the synthetic minority oversampling technique smote and an random forest rf classifier to improve the model performance on the imbalance classes
+moreover the comparison results show that the proposed method performs better than existing methods making it suitable for the early diagnosis and effective management of npdr
+the contributions of this thesis aim to assist healthcare professionals in early hr detection regular screening risk stratification and patient categorization based on hr and npdr severity grading
+these developments aim to optimize clinical improve resource allocation and enhance overall disease management
+the proposed systems can assist clinicians in referral decisions and facilitate mass screening
+show more no thumbnail available publication dignostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+diabetic etinopathy dr is progressive retinal disease caused by diabetes
+early identificahese diseases helps in the timely and proper treatment can prevent blindness
+manual diagnosis of these retinal diseases is resource demanding inconvenient costly and demands pecialized skills and experience
+on the other hand iagnosis cad and artificial intelligence ai based systems are expected to solve the challenges effectively
+further for effective management of these diseases we develop an effective algorithm for severity grading of hr and npdr
+to achieve this careful study of existing literature in the field of automatic diagnosis of hr and dr is conducted to identify important research gaps in this area
+severity grading helps in the timely and effective anagement of these diseases and reduces future risks
+to address these limitations novel hr detection approach has been proposed based on learning using pretrained initial baseline model to obtain ransferable knowledge for feature embedding on prediction
+show more loading
+item heat transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling indian institute of tehcnology jodhpur kothadia hardik
+show more the phase change heat transfer processes are widely implemented for heat extraction as they utilise both sensible and latent heat rohsenow and griffith
+the capability to remove the higher magnitude of heat at low wall superheats and the lack of moving parts makes pool boiling appealing memmott and manera
+pool boiling is economical simple and prevalent among all available cooling schemes
+the utilization of the aforementioned technique is widely implemented for thermal management in nuclear industries and in microelectronic devices
+conventional air cooling systems can not handle these devices cooling requirements which may be due to their low heat transfer performance
+in such instances pool boiling and droplet evaporation techniques can be implemented
+nowadays the nuclear industries renewable energy sectors and power plants are implementing compact heat exchangers as preheaters regenerators and intermediate heat exchangers pattanayak et pattanayak and kothadia
+these compact heat exchangers are basically of tubular or
+therefore it gives the urge to study the heat transfer characteristics of those heat exchangers and analyse the methodologies that can enhance the heat transfer from the surface of tubes and plates pattanayak et
+the lack of qualitative theories quantitative data and explanations in the area of critical heat flux chf in tube and plate makes it an interesting domain of research
+there is limited research explaining the effect of high substrate and liquid temperatures on droplet evaporation
+there is scarcity of research in analysing the heat transfer coefficient during the evaporation process pattanayak et pattanayak and kothadia
+the research highlights the critical heat flux chf studies on and plates during pool boiling under uniform heat flux conditions
+identification of the tube and plate length and diameter beyond which chf becomes independent of the dimensions is discussed
+the effect of tube and plate orientations and pool subcooling on chf has been analysed
+different regimes of pool boing under uniform heat flux conditions are discussed based on bubble behavior
+the instantaneous heat transfer coefficient during droplet evaporation is analysed
+the chf data are used to derive an empirical correlation that includes the impact of subcooling orientation and dimensions pattanayak et
+in the case of the analysis of compact heat exchangers ss tubes and plates are used
+the orientation is changed from to for tubes and to for plates
+the length and diameter of tube is varied from mm to mm and mm to mm respectively
+the water pool is kept at and saturation temperature
+the length of the plate is varied from mm to mm
+the width of the plate ranges from mm to mm
+the pool is maintained at and saturation temperature corresponding to ambient pressure
+it has been noted that the severity of chf lessens as pool temperature rises
+for particular pool temperature the shortest length has higher magnitude of chf
+as tube diameter and width expand chf values decrease
+in the case of tubes the chf value is larger for horizontal orientation than vertical the case of the analysis of compact heat exchangers ss tubes and plates are used
+in the case of tubes the chf value is larger for horizontal orientation than vertical study demonstrates that for horizontally oriented tubes chf fluctuation is negligible beyond length of regardless of diameter
+according to the study performed for vertical channels chf fluctuation is negligible for tubes with diameter more than mm beyond length of mm
+the vertical orientation of the plates results in higher chf magnitude as compared to the horizontal upward and downward orientations respectively pattanayak and kothadia pattanayak et pattanayak et
+the hydrophobic surface of copper electrodeposited tubes exhibits lesser chf magnitude than the uncoated surface and is efficient for phase change heat transfer applications in lower heat flux regimes
+furthermore the analysis of heat transfer during droplet evaporation is conducted to study the effect of surface and liquid temperature on the instantaneous heat transfer coefficient
+it is observed that the evaporation rate is higher for copper than aluminum
+the instantaneous heat transfer coefficient increases with the temperature of droplet evaporating on given substrate and is higher for copper
+when substrate temperature increases for given droplet temperature the instantaneous heat transfer coefficient increases pattanayak and kothadia pattanayak et
+the regimes from natural convection to chf limit in subcooled pool of water maintained under uniform heat flux conditions are studied for ss plates of different dimensions clifton and chapman pattanayak et
+during the heat transfer process the temperature distribution along the plate is examined
+the nusselt number is seen to be independent of aspect ratio pattanayak et pattanayak and kothadia
+the nusselt number rises when the plate length and width are independently increased
+the study is also carried out in saline water of solutions with varying salinity from and and is observed that beyond salinity the heat transfer coefficient decreases pattanayak et
+show more current recent submissions now showing of no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+furthermore the anticipated challenges and future perspectives in the rapidly evolving research on sns2 and mos2 for sensing applications are similarly explored show more no thumbnail available item advanced security solutions for and highly dynamic internet of vehicles iov indian institute of technology jodhpur das debasis show more abstract now showing of no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+show more no thumbnail available publication design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+show more design and development of disposable microsystems for sensing applications indian institute of technology jodhpur gupta ankur show more sensing and diagnostics have become essential parts for our healthcare monitoring
+show more indian institute of technology jodhpur gupta ankur show more indian institute of technology jodhpur gupta ankur indian institute of technology jodhpur sensing and diagnostics have become essential parts for our healthcare monitoring
+show more sensing and diagnostics have become essential parts for our healthcare monitoring
+no thumbnail available publication remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more publication remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more remediation of saline wastewater for organic pollutants using halophilic bacteria and dunaliella salina indian institute of technology jodhpur chhabra meenu show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more indian institute of technology jodhpur chhabra meenu show more indian institute of technology jodhpur chhabra meenu industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+show more industries such as leather textile food processing and petroleum contribute to the rising salinity of freshwater supplies producing significant quantities of saline wastewater
+no thumbnail available publication explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more publication explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more explainable and generalized deep learning framework study on atypical brain network development indian institute of technology jodhpur banerjee romi roy dipanjan show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more indian institute of technology jodhpur banerjee romi roy dipanjan show more indian institute of technology jodhpur banerjee romi roy dipanjan banerjee romi roy dipanjan social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+show more social cognition refers to the ability to understand process and respond to social interactions and the behaviors of others
+no thumbnail available publication light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more publication light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more light harvesting complex and chlorophyll aggregation in membranes using molecular dynamics simulations indian institute of technology jodhpur debnath ananya show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more indian institute of technology jodhpur debnath ananya show more indian institute of technology jodhpur debnath ananya the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future show more the complex lhcii pigmented protein trimer embedded in thylakoid membranes of plants captures energy from sunlight through its pigments primarily chlorophyll and transfers it to the photosynthetic reaction center during photosynthesis
+our research provides the foundation for better understanding of more complex biophysical phenomena such as npq in the future no thumbnail available publication smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+show more publication smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+show more smart engineered soft biomaterials as advanced healthcare therapeutics indian institute of technology jodhpur ghosh surajit show more soft biomaterials play pivotal role in various biomedical application domains
+show more indian institute of technology jodhpur ghosh surajit show more indian institute of technology jodhpur ghosh surajit soft biomaterials play pivotal role in various biomedical application domains
+show more soft biomaterials play pivotal role in various biomedical application domains
+no thumbnail available publication an multimode interference device for power splitting in single mode and few mode fiber based passive optical networks indian institute of technology jodhpur show more the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+show more publication an multimode interference device for power splitting in single mode and few mode fiber based passive optical networks indian institute of technology jodhpur show more the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+show more an multimode interference device for power splitting in single mode and few mode fiber based passive optical networks indian institute of technology jodhpur show more the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+show more indian institute of technology jodhpur show more indian institute of technology jodhpur indian institute of technology jodhpur the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+show more the demand for internet connectivity is rapidly increasing driven by the growing number of applications that require low latency
+no thumbnail available publication experimental investigations on dissimilar metal welds fabricated using nickel based welding consumables indian institute of technology jodhpur chhibber rahul show more in the current context of industrial advancement there is rapid surge in electricity demands
+show more publication experimental investigations on dissimilar metal welds fabricated using nickel based welding consumables indian institute of technology jodhpur chhibber rahul show more in the current context of industrial advancement there is rapid surge in electricity demands
+show more experimental investigations on dissimilar metal welds fabricated using nickel based welding consumables indian institute of technology jodhpur chhibber rahul show more in the current context of industrial advancement there is rapid surge in electricity demands
+show more indian institute of technology jodhpur chhibber rahul show more indian institute of technology jodhpur chhibber rahul in the current context of industrial advancement there is rapid surge in electricity demands
+show more in the current context of industrial advancement there is rapid surge in electricity demands
+no thumbnail available item construction of and bonds using diaryliodonium salts as aryl transfer reagents indian institute of technology jodhpur murarka sandip show more arenes represent fundamental structural motif in diverse array of organic molecules encompassing pharmaceuticals clinical drug candidates agrochemicals and nctional materials
+show more item construction of and bonds using diaryliodonium salts as aryl transfer reagents indian institute of technology jodhpur murarka sandip show more arenes represent fundamental structural motif in diverse array of organic molecules encompassing pharmaceuticals clinical drug candidates agrochemicals and nctional materials
+show more construction of and bonds using diaryliodonium salts as aryl transfer reagents indian institute of technology jodhpur murarka sandip show more arenes represent fundamental structural motif in diverse array of organic molecules encompassing pharmaceuticals clinical drug candidates agrochemicals and nctional materials
+show more indian institute of technology jodhpur murarka sandip show more indian institute of technology jodhpur murarka sandip arenes represent fundamental structural motif in diverse array of organic molecules encompassing pharmaceuticals clinical drug candidates agrochemicals and nctional materials
+show more arenes represent fundamental structural motif in diverse array of organic molecules encompassing pharmaceuticals clinical drug candidates agrochemicals and nctional materials
+no thumbnail available item effects of processing methods on property relationships at ambient and elevated temperatures in binary alloys indian institute of technology jodhpur kashyap
+show more item effects of processing methods on property relationships at ambient and elevated temperatures in binary alloys indian institute of technology jodhpur kashyap
+show more effects of processing methods on property relationships at ambient and elevated temperatures in binary alloys indian institute of technology jodhpur kashyap
+show more indian institute of technology jodhpur kashyap
+alloys constitute widely used group of light metals and alloys
+no thumbnail available item from words to structures enhancing document image analysis using handcrafted and machine learning techniques indian institute of technology jodhpur harit gaurav show more our thesis explores the field of document image analysis outlining its significance and the challenges it faces
+show more item from words to structures enhancing document image analysis using handcrafted and machine learning techniques indian institute of technology jodhpur harit gaurav show more our thesis explores the field of document image analysis outlining its significance and the challenges it faces
+show more from words to structures enhancing document image analysis using handcrafted and machine learning techniques indian institute of technology jodhpur harit gaurav show more our thesis explores the field of document image analysis outlining its significance and the challenges it faces
+show more indian institute of technology jodhpur harit gaurav show more indian institute of technology jodhpur harit gaurav our thesis explores the field of document image analysis outlining its significance and the challenges it faces
+show more our thesis explores the field of document image analysis outlining its significance and the challenges it faces
+no thumbnail available item corona product in signed graph theory modelling structural balance and control indian institute of technology jodhpur yadav sandeep kumar show more signed networks help in studying complex relationships and interactions in various domains offering insights into the dynamics of positive and negative influences within interconnected systems
+show more item corona product in signed graph theory modelling structural balance and control indian institute of technology jodhpur yadav sandeep kumar show more signed networks help in studying complex relationships and interactions in various domains offering insights into the dynamics of positive and negative influences within interconnected systems
+show more corona product in signed graph theory modelling structural balance and control indian institute of technology jodhpur yadav sandeep kumar show more signed networks help in studying complex relationships and interactions in various domains offering insights into the dynamics of positive and negative influences within interconnected systems
+show more indian institute of technology jodhpur yadav sandeep kumar show more indian institute of technology jodhpur yadav sandeep kumar yadav sandeep kumar signed networks help in studying complex relationships and interactions in various domains offering insights into the dynamics of positive and negative influences within interconnected systems
+show more signed networks help in studying complex relationships and interactions in various domains offering insights into the dynamics of positive and negative influences within interconnected systems
+no thumbnail available item modified mos2 and sns2 flakes for sensing applications indian institute of technology jodhpur kumar mahesh show more the emergence of transition metal dichalcogenides tmdcs particularly and has sparked significant interest in the field of advanced materials due to their unique layered architecture and thickness
+furthermore the anticipated challenges and future perspectives in the rapidly evolving research on sns2 and mos2 for sensing applications are similarly explored show more item modified mos2 and sns2 flakes for sensing applications indian institute of technology jodhpur kumar mahesh show more the emergence of transition metal dichalcogenides tmdcs particularly and has sparked significant interest in the field of advanced materials due to their unique layered architecture and thickness
+furthermore the anticipated challenges and future perspectives in the rapidly evolving research on sns2 and mos2 for sensing applications are similarly explored show more modified mos2 and sns2 flakes for sensing applications indian institute of technology jodhpur kumar mahesh show more the emergence of transition metal dichalcogenides tmdcs particularly and has sparked significant interest in the field of advanced materials due to their unique layered architecture and thickness
+furthermore the anticipated challenges and future perspectives in the rapidly evolving research on sns2 and mos2 for sensing applications are similarly explored show more indian institute of technology jodhpur kumar mahesh show more indian institute of technology jodhpur kumar mahesh the emergence of transition metal dichalcogenides tmdcs particularly and has sparked significant interest in the field of advanced materials due to their unique layered architecture and thickness
+furthermore the anticipated challenges and future perspectives in the rapidly evolving research on sns2 and mos2 for sensing applications are similarly explored show more the emergence of transition metal dichalcogenides tmdcs particularly and has sparked significant interest in the field of advanced materials due to their unique layered architecture and thickness
+furthermore the anticipated challenges and future perspectives in the rapidly evolving research on sns2 and mos2 for sensing applications are similarly explored no thumbnail available item advanced security solutions for and highly dynamic internet of vehicles iov indian institute of technology jodhpur das debasis show more abstract the internet of vehicles iov is highly dynamic network of heterogeneous balance between authentication and privacy is crucial in such types of networks
+show more item advanced security solutions for and highly dynamic internet of vehicles iov indian institute of technology jodhpur das debasis show more abstract advanced security solutions for and highly dynamic internet of vehicles iov indian institute of technology jodhpur das debasis show more abstract indian institute of technology jodhpur das debasis show more indian institute of technology jodhpur das debasis abstract the internet of vehicles iov is highly dynamic network of heterogeneous balance between authentication and privacy is crucial in such types of networks
+no thumbnail available item eigenvalue problem for optical bent waveguides hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more item eigenvalue problem for optical bent waveguides hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more eigenvalue problem for optical bent waveguides hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more hiremath kirankumar show more hiremath kirankumar show more hiremath kirankumar hiremath kirankumar optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides no thumbnail available item segmentation algorithms for automatic concealed object detection using terahertz imaging indian institute of technology jodhpur bhatnagar gaurav show more the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+show more item segmentation algorithms for automatic concealed object detection using terahertz imaging indian institute of technology jodhpur bhatnagar gaurav show more the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+show more segmentation algorithms for automatic concealed object detection using terahertz imaging indian institute of technology jodhpur bhatnagar gaurav show more the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+show more indian institute of technology jodhpur bhatnagar gaurav show more indian institute of technology jodhpur bhatnagar gaurav the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+show more the safety and security of individuals and property is an indispensable issue for public venues transportation hubs and sensitive facilities
+no thumbnail available item eigenvalue problem for optical bent waveguides indian institute of technology jodhpur hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more item eigenvalue problem for optical bent waveguides indian institute of technology jodhpur hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more eigenvalue problem for optical bent waveguides indian institute of technology jodhpur hiremath kirankumar show more optics has emerged as significant contributor to technological advancements especially in optical communication and optical signal processing
+moreover one can extend this work to the future of the bent waveguides show more indian institute of technology jodhpur hiremath kirankumar show more indian institute of technology jodhpur hiremath kirankumar indian institute of technology jodhpur no thumbnail available item metal complexes for applications in resistive switching and electrocatalysis indian institute of technology jodhpur metre ramesh show more drawing inspiration from nature the concept of ligands explores the catalytic potential of metals like iron and copper despite their preference for redox reactions
+show more item metal complexes for applications in resistive switching and electrocatalysis indian institute of technology jodhpur metre ramesh show more drawing inspiration from nature the concept of ligands explores the catalytic potential of metals like iron and copper despite their preference for redox reactions
+show more metal complexes for applications in resistive switching and electrocatalysis indian institute of technology jodhpur metre ramesh show more drawing inspiration from nature the concept of ligands explores the catalytic potential of metals like iron and copper despite their preference for redox reactions
+show more indian institute of technology jodhpur metre ramesh show more indian institute of technology jodhpur metre ramesh indian institute of technology jodhpur drawing inspiration from nature the concept of ligands explores the catalytic potential of metals like iron and copper despite their preference for redox reactions
+show more drawing inspiration from nature the concept of ligands explores the catalytic potential of metals like iron and copper despite their preference for redox reactions
+no thumbnail available item diagnostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+show more item diagnostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+show more diagnostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+show more indian institute of technology jodhpur tiwari anil kumar show more indian institute of technology jodhpur tiwari anil kumar retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+no thumbnail available publication dignostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+show more publication dignostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+show more dignostic system for hypertensive and diabetic retinopathy indian institute of technology jodhpur tiwari anil kumar show more retinal diseases such as diabetic retinopathy dr and hypertensive retinopathy hr are serious health concerns
+show more item heat transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling indian institute of tehcnology jodhpur kothadia hardik
+heat transfer analysis on the expedition of temperature distribution and bubble behavior from nucleation to critical heat flux during pool boiling indian institute of tehcnology jodhpur kothadia hardik
+indian institute of tehcnology jodhpur kothadia hardik
+show more indian institute of tehcnology jodhpur kothadia hardik indian institute of tehcnology jodhpur the phase change heat transfer processes are widely implemented for heat extraction as they utilise both sensible and latent heat rohsenow and griffith

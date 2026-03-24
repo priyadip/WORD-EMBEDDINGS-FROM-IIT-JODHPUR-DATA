@@ -1,0 +1,15 @@
+indian institute of technology jodhpur heat transfer fundamentals of heat transfer steady state heat transfer by conduction through various geometric configuration heat transfer by convection and measurement heat transfer by phase change thermal radiation and measurement heat exchangers evaporation unsteady state heat transfer equipment and maintenance
+fluid flow operation fluid statics fluid dynamics behaviour of different types of fluids transportation of fluids fluidization fluidised and packed bed flow flow and level measurement drag coefficients and measurements fluid friction measurement pumps npsh cavitation boundary layer theory types of flow reynolds apparatus equipment and maintenance
+mass transfer introduction molecular diffusion of solids and fluids prediction of diffusion coefficient interphase mass transfer gas absorption packed bed absorption extraction leaching and extraction batch and sieve plate distillation humidification and cooling tower drying and dryers and adsorption equipment and maintenance
+instrumentation and control introduction to instrumentation temperature measuring devices measurement of pressure vacuum measurement of head level process recording instruments distributed control systems interacting systems single and systems equipment and maintenance
+thermodynamics introduction and first law of thermodynamics second law of thermodynamics introduction to refrigeration and liquefaction equilibrium of pure and substance and mixtures
+reaction engineering introduction to reaction engineering kinetics of homogeneous reaction interpretation of ideal and reactor data introduction to reactors in series pbr and reactor rtd equipment and maintenance
+engineering measurements introduction to physical quantities and units linear measurements precision measurements measurement of area measurement of electrical energy measurement of frictional coefficient measurement of volumetric flow rate mass flow rate measurement of ph measurement of hardness of water measurement of specific gravity measurement of viscosity
+process calculations introduction basic chemical calculations material balance with and without chemical reaction energy balance combustion ideal gas law
+engineering materials corrosion coatings and polymer materials
+mechanical operation introduction and concepts of mechanical operations particulate solids screen analysis size reduction sedimentation filtration agitation and mixing equipment and maintenance
+industrial safty and environmental engineering general introduction concept of safety chemical fire hazards their control other hazards occupational diseases personal protective devices introduction to pollution air pollution water pollution solid waste of disposal
+plant utilities and energy engineering introduction conventional fuels conventional sources of energy water steam air refrigeration equipment and computer awareness applications of computers in chemical instrumentation and process control basic knowledge of computer applications viz
+ms word ms excel power point etc
+internet linux windows
+communication skills english grammar vocabulary oral and written communication

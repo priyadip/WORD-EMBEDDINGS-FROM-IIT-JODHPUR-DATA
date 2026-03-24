@@ -1,0 +1,126 @@
+SOURCE_PDF: 93c101f49f76_Guidelines-for-submission-of-Project-Report-for-MTech-Students-638771979333235810.pdf
+
+Annexure I
+Guidelines and Format for submission of Project Report
+1. 
+Length: Number of pages are not fixed A4 size paper
+2. 
+Page layout / Margins(Top/Bottom/Left/Right): 1-in/1-in/0.75-in/0.75-in
+3. 
+Text format: Single column/ 1.5 line spacing/ Full-justify
+4. 
+Font: 12 pt. Times New Roman
+5. 
+Binding format for the hard copy of the project reports
+a. Number of Hard copies -3 
+b. Paper Size – A4 
+c. Color of the binding - Blue
+6. 
+Organization of the report:
+(a) Cover page 
+(b) Declaration by the Student 
+(c) Certificate by respective Supervisor 
+(d) Abstract – 1 paragraph (max. 150 words only) 
+(e) Table of contents 
+(f) Main text divided into sections/sub-sections (starting with Introduction and
+ending with Conclusions
+(g) References 
+(h) Appendix (if any)
+7. 
+Page numbering: All pages before the main text are to be numbered using lower case 
+Roman numbers; all pages starting from the main text are to be numbered using Arabic 
+numbers. Page numbers to be placed at the center of the bottom margin; cover pages 
+should not be numbered but counted.
+8. 
+Section headings: Section/sub-sections to be numbered consecutively using Arabic 
+numbers; section headings should be in bold with all capital letters and sub-sections 
+headings in italics, e.g. 1. INTRODUCTION for sections, 4.2 Experimental validations 
+for sub-sections. Font size for section headings should be14 pt.
+9. 
+Equations: Equations are to be centered and numbered consecutively with equation 
+number in parentheses flushed with the right margin; equation number should be section 
+specific, e.g. (1.2), (1.3), (2.3), etc.; equations should be referenced in the text as eqn. 
+(1.2), eqn. (2.3) and so on.
+10. 
+Figures: Figures are to be centered and numbered consecutively; figure numbers should 
+be section specific; figures should be referenced in the text as Figure 2.3 and so on. All 
+figures must have a caption; figure number and caption to be placed center-flushed below 
+the figure, e.g. Figure 2.2: Circuit diagram of the…….
+11. 
+Tables: Tables are to be centered and numbered consecutively; table numbers should be 
+section specific; table should be referenced in the text as Table 1.2, Table 2.3 and so on. 
+All the tables must have a caption; table number and caption to be placed center-flushed 
+above the table, e.g. Table 4.1: Experimental Results…….
+12. 
+References: Arrange references in order of their citation in the text; to be numbered 
+consecutively in square brackets following standard IEEE format.
+13. 
+Turn-it-in/plagiarism Report: Turn-it-in/plagiarism report duly signed by Supervisor must 
+be submitted along with the submission (in 1 report original and in the other a copy may 
+be enclosed).
+14. 
+Any other: The format of any other item(s) not mentioned in the above list may be assumed 
+in consultation with Supervisor.
+
+Format For Cover page
+Title of the Project Report
+A Project Report submitted by
+Name of the Student
+in partial fulfillment of the requirements for the award of the degree of
+Indian Institute of Technology Jodhpur
+Name of the Department
+January 2021
+
+Declaration
+I hereby declare that the work presented in this Project Report titled Title of the Project Report –
+M.Sc./M.Sc.-M.Tech./M.Tech. submitted to the Indian Institute of Technology Jodhpur in partial fulfilment 
+of the requirements for the award of the degree of M.Sc./M.Sc.-M.Tech./M.Tech., is a bonafide record of 
+the research work carried out under the supervision of Professor Name of the respective Supervisor. The 
+contents of this Project Report in full or in parts, have not been submitted to, and will not be submitted by 
+me to, any other Institute or University in India or abroad for the award of any degree or diploma.
+Signature
+Name of the Student
+Roll Number
+Certificate
+This is to certify that the Project Report titled Title of the Project Report, submitted by Name of the Student (Roll 
+Number of the student) to the Indian Institute of Technology Jodhpur for the award of the degree of M.Sc./M.Sc.-
+M.Tech./M.Tech., is a bonafide record of the research work done by him under my supervision. To the best of my
+
+knowledge, the contents of this report, in full or in parts, have not been submitted to any other Institute or 
+University for the award of any degree or diploma.
+Signature
+Name of the respective supervisor
+
+Abstract
+The M.Sc./M.Sc.-M.Tech./M.Tech. Program of study requires each student to undertake research in
+the chosen area of study and to submit a thesis on it in consultation with the faculty member(s) supervising 
+the same. The M.Sc./M.Sc.-M.Tech./M.Tech. Project is included in the curriculum with a view to synthesize 
+the various components of the research work undertaken during the of the M.Sc./M.Sc.-M.Tech./M.Tech. 
+Program at IIT Jodhpur. Creating a Project Report document of the research undertaken is part of the skill 
+building training of the student in technical communications. Here, the emphasis is on presenting a technical 
+matter in an objective written form.
+This document is a record of the mandatory guidelines to be followed while preparing the of the
+Project Report document to be submitted at the end of the M.Sc./M.Sc.-M.Tech./M.Tech. Program. It 
+prescribes typical contents that an M.Sc./M.Sc.-M.Tech./M.Tech. Project Report document usually should 
+contain, and provides the format of its presentation. While most of these guidelines are prescriptive, some 
+are subjective; but towards ensuring a relatively uniform style of presentation of all M.Sc./M.Sc.-
+M.Tech./M.Tech. Project Report being submitted at the Institute, these subjective guidelines are expected 
+to help in setting at least a reasonable minimum expectation of the presentation level of the work 
+accomplished in the research program.
+All students pursuing M.Sc./M.Sc.-M.Tech./M.Tech. Program are urged to read the contents and
+form of this document carefully, and prepare their Project Report document as prescribed. It is hoped that 
+this document will lead to a modest beginning at the Institute towards imparting education in professional 
+written presentations.
+
+Contents
+page
+Abstract 
+1
+(report may or may not be divided into chapters)
+Introduction and background
+Literature survey
+Problem definition and Objective
+Methodology
+
+References
+Appendix (if any)

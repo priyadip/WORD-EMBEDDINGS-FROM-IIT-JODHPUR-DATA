@@ -1,0 +1,8 @@
+there is scarcity of general strategies for the arylation of glycine derivatives to synthesize nonproteinogenic that occur frequently in commercial drugs and bioactive molecules
+we disclose arylation of glycine derivatives using diaryliodonium reagents dairs as arylating agents
+this strategy harnesses the underexplored ability of dairs to serve as arylating agents under irradiation using copper salts as photocatalysts
+the method applies to the arylation of peptides with electronically and structurally diverse dairs
+moreover we demonstrate that the photoinduced single electron transfer set strategy can be coupled with the halogen atom transfer xat process in the presence of alkyl iodides to accomplish alkylation of glycines and peptides
+in this synergistic approach phenyl radicals generated from diphenyl iodonium triflate mediate the xat process to generate alkyl radicals from alkyl iodides
+both of these methods operate under mild conditions and exhibit broad scope with appreciable functional group tolerance
+overall the divergent toolbox strategies presented here facilitate access to various alkylated and arylated glycines and peptides and enable bioconjugation between peptides and drug molecules

@@ -1,0 +1,892 @@
+SOURCE_PDF: 681db0afce20_7._20B.Tech_20MT_09102020.pdf
+
+Indian Institute of Technology Jodhpur
+2nd year B.Tech. Materials Engineering
+Curriculum Structure
+
+2nd year B.Tech. Materials Engineering
+Curriculum Structure
+
+The B.Tech. program in Materials Engineering educates and trains students to understand the scientific principles
+one of the above mentioned streams of Materials Engineering. The students can obtain a Departmental
+1. To impart education on the core concepts in Materials Engineering along with providing sufficient breadth
+1. Introduction
+Addressing continuously evolving demands for materials in the emerging areas such as, energy, aerospace, 
+defence, healthcare, transport, etc. requires engineers with thorough understanding and knowledge of the 
+materials. To cater to this requirement, the Department of Metallurgical and Materials Engineering at IIT Jodhpur 
+envisions to impart high-quality education in the areas of Materials Engineering. The B.Tech. program in 
+Materials Engineering offers a broad-based academic curriculum designed to attract highly motivated students 
+interested in the emerging area of Materials and the program is committed to impart high-quality education in 
+designing, processing and development, characterization and evaluation of advanced materials, and process 
+metallurgy, so that the students can contribute to the Materials innovation.
+3. Expected Graduate Attribute 
+ 
+1. Overall understanding of atomic structure, crystal structure and imperfections in materials 
+2. Ability to understand the physical and chemical phenomena or process through thermodynamic and kinetic
+principles
+3. Ability to understand the relation between electronic band structure and electrical, optical and magnetic
+properties of materials
+
+4. Broad knowledge on processing of materials and fabrication components following various processing and
+manufacturing techniques, and basic skills to characterize the microstructure
+5. Ability to correlate processing-structure-property-performance of materials and their processing 
+6. Knowledge about the process of extraction of ferrous and non-ferrous metals from ore 
+7. Ability to use various simulation tools to design materials and predict material behaviour for a better
+understanding of materials
+8. Ability to design and execute technical projects 
+9. Skills to communicate engineering concepts and ideas to peers 
+10. Appreciation and adherence to professional ethics 
+ 
+4. Learning Outcome 
+ 
+1. Ability to apply principles of thermodynamics and kinetics to understand, design and process advanced
+materials
+2. Ability to use computational and analytical modelling techniques to predict various properties of materials 
+3. Ability to use materials testing and characterization techniques to validate structure-property-performance
+correlation in materials at various length scales
+4. Understanding of electronic structure of materials and ability to correlate electronic structure with transport
+properties of materials
+5. Knowledge of processing parameters for the extraction of ferrous and non-ferrous metals, and knowledge to
+comprehend the process cycle to convert raw material to a final product
+6. Ability to understand materials processing and process scale up 
+ 
+5. Topic clouds 
+ 
+The major topics from the individual courses are presented here in the form of a topic cloud.
+Computational 
+Materials Engineering 
+ 
+Modelling, Boundary value problem, 
+Diffusion 
+type 
+problem, 
+Wave
+Propagation Problem, Finite Difference, 
+Computation, 
+Molecular 
+dynamics,
+Atomistic simulations, Calculation of 
+Phase 
+diagram, 
+Thermodynamic
+Database, Solidification simulation, Alloy 
+Design, Modelling, Machine learning, 
+Feature identification, Informatics, Finite 
+Element 
+Analysis, 
+Stiffness 
+Matrix,
+Galerkin 
+method, 
+Displacement
+Structural Materials
+Defects in Solids, Plastic Deformation, 
+Strengthening Mechanisms, Mechanical 
+Properties, Failure of Materials, Steels, 
+Processing, 
+Physical 
+Metallurgy,
+laminae 
+and 
+laminates, 
+Ceramics,
+Refractories, Glasses, Sintering, Coatings, 
+Abrasives, 3D printing, Materials for 3D 
+Printing Process, Additive manufacturing, 
+Casting techniques, gating design, casting 
+defects, 
+Fusion 
+welding, 
+Solid 
+state
+welding, Microstructure and Properties of 
+weld zone
+Functional Materials 
+Band 
+structure, 
+Density 
+of 
+States,
+Semiconductors, Dopants, metal-oxides, 
+organics, 
+electronic 
+devices,
+semiconductor 
+processing, 
+Battery
+Materials, Fuel cells, Hydrogen Storage, 
+Solar 
+cells, 
+Supercapacitors,
+Thermoelectrics, Carbon based materials, 
+Shape memory alloys, smart materials, 
+functionally graded materials, self-healing 
+materials, 
+bio-medical 
+sensing,
+electrostrictive 
+and 
+magnetostrictive
+materials, smart textiles, Nanomaterials, 
+Biomaterials, Tissue materials, Implants, 
+Coatings, 
+Thin 
+films, 
+Deposition,
+Processing, functional Properties
+Process Metallurgy
+Transport 
+processes, 
+Metal-Slag
+interaction, 
+Continuous 
+Casting,
+Electrometallurgy, 
+Metal 
+extraction,
+Refining, 
+Mineral 
+processing,
+comminution and screening, separation, 
+concentration, 
+Chemical 
+Kinetics,
+Chemical control, Diffusion control, Rate 
+controlling 
+step, 
+Ladle 
+metallurgy,
+Degassing, 
+Ingot 
+defects, 
+Process
+Energy and Mass Balance, Process control, 
+Leaching, Phase stability diagram, Metal 
+recovery processes, Metal utilization, 
+Electrochemistry, 
+Electrodeposition,
+Foundational and
+Core topics
+Physics, Chemistry, Mathematics, Biology, 
+Signals and systems, Machine learning, 
+Numerical Methods, Differential Equations, 
+Computation, Data structure, algorithm, 
+Thermodynamics, Mechanics, Structure of 
+Materials, Physical Metallurgy, Polymers, 
+Corrosion, 
+Materials 
+Selection, 
+Phase
+Diagram, Functional Properties, Diffusion, 
+Mass Transfer, Heat Transfer, Fluid Flow, 
+Nucleation 
+and Growth, Solidification,
+
+Area Topics Category (Core/
+Elective) Course
+Foundations
+of Materials
+Engineering Numerical Methods, Differential
+Equations, Computation Institute Engineering
+Core (IE) Scientific Computation
+Reversible and irreversible process, Laws
+of thermodynamics, Intensive and
+Extensive properties, State variable and
+Path variable Institute Engineering
+Core (IE) Thermodynamics
+Supervised learning, Unsupervised
+learning, Classification, Artificial neural
+network Institute Engineering
+Core (IE) Introduction to
+Machine Learning
+Deformation and Strain, Stress, Linear
+elasticity, Combined loading, Energy
+methods, Buckling Program Core (PC) Mechanics of Solids
+Condensed matter, Functional properties,
+Soft matter, Surfaces and Interfaces Institute Program
+linked Science core
+(LS) Introduction to
+Condensed Matter
+Physics
+Data structure, algorithm, searching and
+sorting, hashing Institute Engineering
+Core (IE) Data Structure and
+Algorithm
+Structure of Materials, Physical
+Metallurgy, Polymers, Corrosion,
+Materials Selection Institute Engineering
+Core (IE) Materials Science and
+Engineering
+Phase equilibria, Thermodynamics of
+Solutions, Phase diagram, Reaction
+Thermodynamics Program Core (PC) Materials at
+Equilibrium
+Nucleation and growth, Phase diagram,
+Thermodynamics and kinetics of Phase
+transformation, Diffusion, Solidification,
+Heat treatment Program Core (PC) Phase Transformations
+Characterization, Diffraction, Microscopy,
+Spectroscopy, Thermal Analysis Program Core (PC) Materials
+Characterization
+Casting, Solidification, Forming, Joining,
+Additive manufacturing Program Core (PC) Materials processing
+and Manufacturing
+Structural
+Materials Defects in solids, Plastic Deformation,
+Strengthening Mechanisms, Failure of
+Materials, Failure prevention Program Core (PC) Mechanical Behaviour
+of Materials
+Steels, Processing, Physical Metallurgy,
+Microstructure, Strengthening, Properties Program Elective (PE) Processing-
+Microstructure and
+Properties of Steels
+6. Unique skillsets targeted
+Computational approaches, which will enable 
+a. Designing of materials and components for engineering applications 
+b. Prediction of properties of materials 
+c. Designing of industrial processes 
+ 
+Experimental techniques for 
+a. Materials testing and characterization 
+b. Performance evaluation and enhancement
+7. Mapping of Topic clouds with proposed courses
+Table 1. Mapping of topic clouds with proposed courses
+
+Electrochemistry, Corrosion, Forms of
+Corrosion, Corrosion induced failure,
+Oxidation, Corrosion Prevention Program Elective (PE) Degradation of
+Materials
+Structure of Polymers, Defects,
+Polymerization, Processing, Rheology,
+Characterization Program Elective (PE) Polymeric Materials
+and Processing
+Matrix, Reinforcements, Fibre-Matrix
+interface, Processing, laminae and
+laminates, Properties, Nanocomposites Program Elective (PE) Composites
+Oxide and non-oxide Ceramics,
+Refractories, Glasses, Sintering, Coatings,
+Abrasives Program Elective (PE) Ceramics and Glass
+3D printing, Materials for 3D Printing
+Process, Additive manufacturing,
+Materials processing Program Elective (PE) 3D Printing: Material
+Processing and
+Properties
+Casting techniques, solidification, Heat
+flow, fluid flow, gating design, casting
+defects Program Elective (PE) Casting and
+Solidification
+Joining, Fusion welding, Solid state
+welding, Microstructure of weld zone,
+Mechanical Properties of weld zone Program Elective (PE) Metallurgy of Joining
+Creep, Oxidation and Hot Corrosion,
+Super Alloys Program Elective (PE) High Temperature
+Materials
+Functional
+Materials Band structure, Density of States,
+Semiconductors, Dopants, metal-oxides,
+organics, carbon nanotubes, electronic
+devices Program Core (PC) Electronic Materials
+Battery Materials, Fuel cells, Hydrogen
+Storage, Solar cells, Supercapacitors,
+Thermoelectrics, Carbon based materials Program Core (PC) Materials for Energy
+Conversion and
+Storage
+Shape memory alloys, smart polymers,
+smart ceramics, functionally graded
+materials, self-healing materials, bio-
+medical sensing, electrostrictive and
+magnetostrictive materials, smart
+composites, smart textiles Program Core (PC) Smart Materials (both
+structure property and
+electronic property of
+materials components)
+Semiconductors processing, Synthesis and
+processing of 2D Materials Program Elective (PE) Synthesis and
+Processing of
+Semiconductors and
+2D Materials
+Electrodes and Electrolytes,
+Electrochemical Cell, Primary and
+secondary batteries, Thermodynamics
+and Kinetics Program Elective (PE) Battery Materials
+Nanomaterials, Synthesis, Processing,
+Characterization, Properties of materials Program Elective (PE) Nanoscience (from
+Department of
+Chemistry)
+Biomaterials, Biocompatibility,
+Biodegradability, Tissue materials,
+Implants Program Elective (PE) Biomaterials
+Engineering (Jointly
+with BSBE)
+Coatings, Thin films, Deposition,
+Processing, Properties Program Elective (PE) Surface Engineering
+(PE)
+Computatio
+nal Boundary value problem, Partial
+Differential Equation, Diffusion type
+problem, Finite Difference method, Program Core (PC) Computational
+Modelling of Materials
+
+Materials
+Engineering Molecular dynamics, Atomistic
+simulations
+Thermodynamic parameters, Calculation
+of Phase diagram, Thermodynamic
+Database, Solidification simulation, Alloy
+Design Program Elective (PE) Computational
+Thermodynamics (PE)
+Total energy calculations, Electronic and
+Phonon Band Structure Calculations Program Elective (PE) First Principles
+Calculations
+Conserved and Non-Conserved Order
+Parameter, Phase Transitions,
+Microstructure Evolution Program Elective (PE) Phase Field Modelling
+Scientific Data, feature identification,
+Supervised learning, Materials Design,
+Model verification Program Elective (PE) Machine Learning for
+Materials Design (PE)
+Finite Element Analysis, Stiffness Matrix,
+Galerkin method, Displacement
+formulation, Stress analysis Program Elective (PE) Finite Element
+Methods and
+Applications (PE)
+Process
+Metallurgy Transport processes, Metal-Slag
+interaction, Ladle and tundish metallurgy,
+Continuous Casting Program Core (PC) Iron and Steel Making
+Hydrometallurgy, Pyrometallurgy,
+Electrometallurgy, Metal extraction,
+Refining Program Core (PC) Extraction of
+Nonferrous Metals
+Mineral processing, comminution and
+screening, separation, concentration Program Elective (PE) Mineral Beneficiation
+Chemical Kinetics, Transport processes,
+Chemical control, Diffusion control, Rate
+controlling step Program Elective (PE) Kinetics of
+Metallurgical
+Processes
+Degassing, Ladle metallurgy, Ingot
+defects, Continuous casting Program Elective (PE) Secondary and Special
+Steelmaking
+Process phenomena, Metal-slag
+interaction, Energy and Mass Balance,
+Process control Program Elective (PE) Process Metallurgy
+Principles
+Leaching, Phase stability diagram, Metal
+recovery processes, Metal utilization Program Elective (PE) Hydrometallurgy
+Electrochemistry, Electrodeposition,
+Electrowinning Program Elective (PE) Electrometallurgy
+
+S.
+N. Course Type Course Category Regular B.Tech. Double B.Tech.
+Credit Total Credit Total
+1 Institute Core (I) Engineering (IE) 34 69 34 59
+Science (IS) 16 16
+Humanities (IH) 12 9
+2 Programme Linked (L) Science (LS) 7 0
+3 Programme Core (P) Programme Compulsory (PC) 50 71 50 71
+Programme Electives (PE) 18 18
+B.Tech. Project (PP) 3 3
+4 Open (O) Open Electives (OE) 10 10 0 0
+5 5 Engineering Science (E) Engineering Science (E) Engineering Science Core 0 0 22 22
+Engineering Science Elective (EE) 0 0 8 8
+Total Graded 150 160
+6 Non-Graded (N) Humanities (NH) 6 15 6 15
+Engineering (NE) 3 3
+Design/Practical Experience (ND) 6 6
+Total Graded + Non-Graded 165 175
+8. Course categories and credit distribution in the proposed B.Tech. programs
+Table 2. Course categories and credit distribution in the proposed B.Tech. programmes
+
+Type L-T-P Distribution of contact and beyond contact hours Total Credits
+(TC=TH/3)
+Contact Hours Beyond Contact Total Hours
+(CH) Hours (BCH) (TH)
+1 hour of Lecture 1-0-0 1 hr 2 hr 3 hr 1
+1 hour of Tutorial 0-1-0 1 hr 2 hr 3hr 1
+1 hour of Lab/Project 0-0-1 1 hr 0.5 hr 1.5 hr 0.5
+9. Credit Structure of B.Tech. Programmes
+Table 3. Credit Structure for B.Tech. Programmes
+#Contact hour for project refers to the involvement of students in the laboratory, discussion, etc.
+
+Sr. No Course Name LTP Contact
+Hours Credit
+1 Mechanics of Solids 3-1-0 4 4
+2 Data Structure and Algorithms 3-0-2 5 4
+3 Materials at Equilibrium 3-1-0 4 4
+4 Electronic Materials 3-0-0 3 3
+5 Mechanical Behaviour of Materials 3-0-0 3 3
+6 Phase Transformations 3-0-0 3 3
+7 Iron and Steel Making 3-0-0 3 3
+8 Materials Characterization 3-0-0 3 3
+9 Computational Modelling of Materials 3-0-0 3 3
+10 Materials Processing and Manufacturing 3-0-0 3 3
+11 Materials for Energy Conversion and Storage 3-0-0 3 3
+12 Extraction of Nonferrous Metals 3-0-0 3 3
+13 Smart Materials 3-0-0 3 3
+14 Electronic Materials Lab 0-0-3 3 1.5
+15 Physical Metallurgy Lab 0-0-3 3 1.5
+16 Materials Characterization Lab 0-0-2 2 1
+17 Computational Modelling of Materials Lab 0-0-2 2 1
+18 Materials Processing and Manufacturing Lab 0-0-3 3 1.5
+19 Energy Materials Lab 0-0-3 3 1.5
+Total 50
+10. List of Programme Compulsory Courses
+Table 4. Programme Compulsory Courses for Materials Engineering
+
+Stream SN Courses L-T_P Credit Course
+Level
+Structural
+Materials 1 Processing-Microstructure and Properties of
+Steels 3-0-0 3 400
+2 Degradation and Failure of Materials 3-0-0 3 400
+3 Composites 3-0-0 3 400
+4 Polymeric Materials and Processing 3-0-0 3 400
+5 Ceramics and Glass 3-0-2 4 400
+6 Casting and Solidification 3-0-0 3 600
+7 Metallurgy of Joining 3-0-0 3 600
+8 High Temperature Materials 3-0-0 3 700
+9 Digital Fabrication (Offered by ME) 3-0-0 3 300
+10 Smart Manufacturing (Offered by ME) 2-0-2 3 300
+11 Additive Manufacturing (Offered by ME) 3-0-0 3 600
+12 Computer Aided Design (Offered by ME) 3-0-2 4 400
+13 Design of Machine Elements (Offered by
+ME) 3-0-2 4 300
+Functional
+Materials 1 Battery Materials 3-0-0 3 400
+2 3D Printing: Material Processing and
+Properties 3-0-0 3 400
+3 Lithium ion Batteries 2-0-2 3 400
+4 Surface Engineering 3-0-0 3 600
+5 Synthesis and Processing of Semiconductors
+and 2D materials 3-0-0 3 400
+6 Functional Ceramics 3-0-0 3 400
+7 Magnetism and Magnetic Materials 3-0-0 3 400
+8 Nanoscience (Offered by Chemistry) 3-0-0 3 400
+9 Biomaterials Engineering 3-0-0 3 400
+10 Cell-Material Interaction (BSBE) 3-0-0 3 400
+11 Tissue Engineering (BSBE) 3-0-0 3 400
+12 Interfacial Engineering in Soft Matter (CHE) 3-0-0 3 400
+13 Quantum Mechanics (PHY) 3-0-0 3 600
+14 Advanced Condensed Matter Physics (PHY) 3-0-0 3 700
+15 Energy Harvesting Technologies (PHY) 3-0-0 3 700
+16 Physics of Solar Cells (PHY) 3-0-0 3 700
+Computational
+Materials
+Engineering 1 Computational Thermodynamics 2-0-2 3 400
+2 Modelling of Metallurgical Processes 3-0-0 3 700
+2 Machine Learning for Materials Design 2-0-2 3 700
+4 First-Principles Calculations 3-0-2 4 700
+5 Phase field modelling 3-0-0 3 700
+6 Industry 4.0: Applications in Metallurgical
+and Materials Engineering 2-0-0 2 700
+7 Introduction to Internet of Things (Offered
+by EE) 1-0-0 1 700
+8 Finite Element Methods (Offered by ME) 3-0-0 3 600
+9 Artificial Intelligence (CSE) 3-0-0 3 300
+10 Deep Learning (CSE) 3-0-3 4.5 400
+11. Stream-wise Programme Elective Courses
+Table 6. Stream-wise Programme Electives Courses
+
+11 Optimization (Offered by MA) 3-0-0 3 400
+Process
+Metallurgy 1 Mineral Beneficiation 3-0-0 3 400
+2 Kinetics of Metallurgical Processes 3-0-0 3 400
+3 Principles of Process Metallurgy 3-0-0 3 400
+4 Hydrometallurgy 3-0-0 3 400
+5 Electrometallurgy 3-0-0 3 400
+6 Secondary and Special Steelmaking 3-0-0 3 600
+7 Processing of Rare Earth and Radioactive
+Materials (CH) 3-0-0 3 400
+8 Computational Fluid Dynamics (Offered by
+CH) 3-0-2 4 700
+Special Topics 1 Special Topics in Materials Engineering 3-0-0 3 400/600
+
+S. No. Name of Specializations Credit requirement
+Core Elective
+1 Structural Materials 8 credits 12 credits
+2 Functional Materials 8 credits 12 credits
+3 Computational Materials Engineering 8 credits 12 credits
+4 Process Metallurgy 8 credits 12 credits
+1 Structural Materials
+Structural materials encompass a wide variety of materials whose primary purpose is to support or
+transmit load. Structural materials are used in applications such as transportation (aircraft and
+automobiles), construction (buildings and roads), or in components used for body protection (helmets
+and body armor), energy production (turbine blades), or other smaller structures such as those used in
+microelectronics. Structural materials can be metallic, ceramic, polymeric or a composite.
+The objective of offering this specialization to encourage students to pursue emerging area of Materials
+design, processing, and structure-property correlation for advanced materials for lightweight structures
+subjected to severe environments such as high temperature, wear, high stress and strain rates, etc. to
+name a few. The advancement in the microstructural characterization has enabled investigation of
+materials properties at different length scales which played a key role in solving the sudden material
+failure issues in the industry domain. Apart from structural investigation, structural materials stream
+provides knowledge of correlating these microstructural features with the mechanical, physical and
+electronic properties of the material. This can be achieved by thorough understanding of different
+materials processing and manufacturing techniques at lab as well as industry scales.
+Therefore, the specialization will provide in-depth education required for designing advanced structural
+materials and processing conditions as per the demand of the respective industry to obtain the usable
+products in a cost-effective manner. Detailed curriculum for this specialization will be proposed later.
+2 Functional Materials
+Functional materials represent an ever-growing set of advanced materials, whose properties e.g. shape,
+electrical conductivity, mechanical properties, color etc. could be tuned by an external stimulus -
+thermal, electrical, mechanical, light etc. These materials are characterized by one or multiple native
+properties of their own, e.g. ferroelectricity, thermoelectricity, piezoelectricity, magnetism, energy
+storage functions, magneto and electrostrictive materials and could be found in all classes of materials -
+ceramics, metals, polymers and organic molecules. Practically all modern-day applications ranging from
+computers, memory devices, displays, advanced sensors and MEMS based devices to batteries and
+shape memory alloys are a result of the advances in the functional properties of materials.
+With the ever-increasing demand for higher performing, more energy efficient and device
+miniaturization the functional properties of materials remains the most active areas of research not just
+in Materials Science but also cross disciplinary. With the advent of 5G and demand for IoT and AI based
+12. 
+Specialization to be proposed by the department
+The students can obtain a Departmental Specialization after completing additional 20 credits beyond the regular 
+B.Tech. program credit requirement. From the 20 credits, 8 credits must be taken from core areas of that 
+specialization and 12 credits should be taken from the electives within that specialization. 4 elective credits (out 
+of 12) may be taken as elective project, which will allow the student to pursue his/her B.Tech. project in the area 
+of his/her specialization. Therefore, after proper planning, a student opting for specialization may earn 7 (4 
+specialization elective project + 3 regular B.Tech. project) credits for B.Tech. project. The specializations will 
+enable the students to pursue their area of interest and will ensure depth in the curriculum. 
+ 
+Table 7. Specializations List
+Table 8. Specialization concept notes
+
+3 Computational Materials Engineering
+Computational Modeling approaches provide insights into Materials aspects at atomic, micro, macro
+length scales and aid in better understanding of Materials and processes. Developments in the
+hardware front are making the computing power more affordable and developments in the theoretical
+approaches are broadening the capabilities of Modelling approaches. As a result, computational
+modeling is playing a key role in Materials design and discovery. The Computational Materials
+Engineering (CME) approach combines all available modelling techniques for improving existing
+metallurgical processes or properties of a structural material or a functional material. In this respect,
+the CME forms a horizontal for different specializations of Materials Engineering.
+Traditional science-based modeling techniques such as first-principles calculations, molecular dynamics,
+phase field methods, finite element methods, finite difference methods, Calphad methods, etc. have
+evolved to give results within acceptable accuracy of the experimental results. Recently, Materials
+Scientists started using data analysis-based techniques in Materials design and discovery. The emerging
+data-based techniques have potential to accelerate the Material Discovery and improve the Materials
+Processing.
+The objective of the CME is to combine the traditional science-based techniques with emerging data
+based techniques for improving Materials design and discovery. The CME concept is still in infancy and
+requires continuous efforts from all the stakeholders involved to bring it to the state-of-the-art stage. In
+this direction, we would like to start a B.Tech. program in Materials Engineering with a specialization in
+CME. Detailed curriculum for this specialization will be proposed later.
+4 Process Metallurgy
+Process metallurgy is a specialization concerned with extracting metals from their ores, and the
+development, production, and use of metallic materials. Process metallurgy practitioners design
+complex metallurgical reactors using principles of physics, thermodynamics, reaction kinetics, and
+transport phenomena. Designing of such metallurgical reactors also requires skills in high-temperature
+experimentation and computer simulation techniques. In the years to come, extraction of metal will be
+extremely difficult due to the decreasing ore grade and strict laws to regulate the environmental impact
+of metallurgical emissions. In fact, the future trend in extractive metallurgy is to recover metals, even in
+parts-per-million levels, from wastes such as used catalysts and more importantly the ever-increasing
+volume of electronic wastes.
+A process metallurgy expert acquires multifaceted skills and hence the careers of process metallurgists
+may not be restricted to steel, copper, or aluminum plants. In fact, they can also design materials
+processing operations such as casting, powder metallurgy, and heat treatment. Semiconductor and
+waste processing facilities could also provide job openings. Experts in a computer simulation with a
+sound knowledge of transport phenomena have job opportunities spanning across other engineering
+branches too. Detailed curriculum for this specialization will be proposed later.
+
+Ca Course LTP C N GC Ca Course LTP C NC GC
+I Semester II Semester
+IE Engineering
+Mechanics 2-1-0 3 - 3 IE Introduction to
+Electrical
+Engineering 3-0-2 5 - 4
+IS Chemistry 3-0-0 3 - 3 IE Introduction to
+Computer Science 3-0-2 5 - 4
+IS Physics 3-0-0 3 - 3 IE Introduction to
+Bioengineering 3-0-2 5 - 4
+IS Chemistry Lab 0-0-2 2 - 1
+IS Physics Lab 0-0-2 2 - 1
+IS Mathematics I 3-1-0 4 - 4 IS Mathematics II 3-1-0 4 - 4
+IE Engineering
+Visualization 0-0-2 2 - 1 IE Engineering
+Realization 0-0-2 2 - 1
+NE Engineering Design 0-0-2 2 1 - NE Engineering Design 0-0-2 2 1 -
+N Communication 0-0-2 2 1 - N Communication Skill 0-0-2 2 1 -
+N Social Connect and 0-0-1 1 0. - N Social Connect and 0-0-1 1 0.5 -
+H responsibilities I 5 H responsibilities II
+N Performing Arts I 0-0-1 1 0. - N Performing Arts 0-0-1 1 0.5 -
+H /Sports I 5 H II/Sports II
+Total 11-2-
+12 25 3 16 Total 12-1-
+14 27 3 17
+III Semester IV Semester
+LS Scientific
+Computations 3-1-0 4 - 4 IE Materials Science &
+Engineering
+Fractal 1: Physical
+Metallurgy
+Fractal 2: Polymers
+Fractal 3: Corrosion 3 ×
+1-0-0 3 - 3
+IE Thermodynamics 3-1-0 4 - 4 PC Data Structure and 3-0-2 5 4
+PC Mechanics of Solids 3-1-0 4 - 4 PC Materials at 3-1-0 4 4
+IE Introduction to
+Machine Learning 3-0-2 5 - 4 PC Materials for Energy 3-0-0 3 3
+LS Condensed Matter
+Physics 3-0-0 3 - 3 IE Signals and Systems 3-1-0 4 - 4
+NE Intro. To Profession 0-0-2 2 1 IH Humanities I 3-0-0 3 - 3
+Total 15-3-
+4 22 1 19 Total 15-1-
+4 23 - 21
+V Semester VI Semester
+PC PC Electronic Materials Electronic Materials 3-0-0 3 3 3 PC PC Computational 3-0-0 3 3 3
+PC Mechanical 3-0-0 3 3 PC Materials Processing
+and Manufacturing Materials Processing 3-0-0 3 3
+Behavior of and Manufacturing
+13. Curriculum of B.Tech. Materials Engineering
+Table 9. Curriculum of B.Tech. in Materials Engineering
+
+PC Phase 3-0-0 3 3 PC Extraction of 3-0-0 3 3
+Transformations Nonferrous Metals
+PC Materials 3-0-0 3 3 PC Iron and Steel 3-0-0 3 3
+Characterization Making
+PC Electronic Materials 0-0-3 3 1.5 PC Smart Materials Smart Materials 3-0-0 3 3
+PC Physical
+Metallurgy Lab Physical 0-0-3 3 1.5 PC Computational 0-0-2 2 1
+Metallurgy Lab Modelling of
+PC Energy Materials
+Lab 0-0-3 3 1.5 PC Materials Processing 0-0-3 3 1.5
+PC Materials 0-0-2 2 1
+IH Humanities II 3-0-0 3 - 3 PE Programme/Open
+Elective 3-0-0 3 3
+N Professional Ethics 0-1-0 1 - N Professional Ethics II 0-1-0 1 -
+Total 15-1-
+11 26 1 20.5 Total 18-1-
+5 24 1 20.
+5
+VII Semester VIII Semester
+PP B. Tech. Project 0-0-6 6 - 3 IH Humanities IV 3-0-0 3 - 3
+PE
+/
+OE Programme/Open
+Electives 10-0-
+0 10 - 10 PE
+/
+OE Programme/Open
+Electives 15-0-
+0 15 - 15
+IH Humanities III 3-0-0 3 - 3
+IS Environmental
+Science 2-0-0 2 - 2
+Total 15-0-
+6 21 - 18 Total 18-0-
+0 18 - 18
+Total of graded and Non-Graded Credit 9 150
+Non-Graded Design Credits 6 -
+Grand Total 15 165
+
+Course Title Materials at Equilibrium Number MTL2XX0
+Department Metallurgical and Materials Engineering L–T–P [C] 3–1–0 [4]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+14. Detailed Course Content
+Program Compulsory Courses
+
+Title Electronic Materials Number MTL3XX0
+Department Metallurgical & Materials Engineering L-T-P
+[C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+
+Title Mechanical Behavior of Materials Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program
+Compulsory (PC)
+
+Title Phase Transformations Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program
+Compulsory
+(PC)
+Prerequisite -
+
+Title Iron and Steel Making Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+
+Title Materials Characterization Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Program Type Program Compulsory
+(PC)
+Prerequisite -
+
+Course Title Computational Modelling of Materials Number MTL3XX0
+Department Metallurgical and Materials Engineering L–T–P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+
+Title Materials Processing and Manufacturing Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+Prerequisite -
+
+Title Materials for Energy Conversion and Storage Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+
+Title Extraction of Nonferrous Metals Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+
+Title Smart Materials Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Materials Engineering Type Compulsory
+Prerequisite Nil
+
+Title Electronic Materials Lab Number MTL3XX0
+Department Metallurgical & Materials Engineering L-T-P [C] 0-0-3 [1.5]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+
+Title Physical Metallurgy Lab Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0–0–3 [1.5]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+
+Title Materials Characterization Lab Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0-0-2 [1]
+Offered for B.Tech. Program Type Program Compulsory (PC)
+Prerequisite -
+
+Course Title Computational Modeling of Materials Lab Number MT3LXX0
+Department Metallurgical and Materials Engineering L–T–P [C] 0–0–2 [1]
+Offered for B.Tech. 3rd Year Type Compulsory
+
+Title Materials Processing and Manufacturing Lab Number MTL3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0-0-3 [1.5]
+Offered for B.Tech. (MT) Type Program Compulsory (PC)
+Prerequisite -
+
+Title Energy Materials Lab Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 0-0-3 [1.5]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+
+Title Processing-Microstructure and Properties of Steels Number MT4XXX
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective
+(PE)
+Prerequisite None
+15. Program Elective Courses
+
+Title Degradation and Failure of Materials Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+
+Title Composites Number MT3XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+
+Title Polymeric Materials and Processing Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+
+Title Ceramics and Glass Number MT4XX
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–2 [4]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+
+Title Casting and Solidification Number MT6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+
+Title Metallurgy of Joining Number MT6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Program Type Program Elective (PE)
+Prerequisite -
+
+Title Battery Materials Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite Thermodynamics, Corrosion
+
+Title 3-D Printing: Material Processing and Properties Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. Materials Engineering Type PE
+Prerequisite Nil
+
+Online Course Material 
+1. Ramkumar, J., 2018, NOC: Rapid Manufacturing, Department of Mechanical Engineering; IIT Kanpur, 
+https://nptel.ac.in/courses/112/104/112104265/
+
+Title Lithium ion batteries Number MTL4XX
+Department Metallurgical and Materials Engineering L-T-P [C] 2-0-2 [3]
+Offered for B.Tech. (MT) Type PE
+Prerequisite Thermodynamics
+
+Reference Books 
+1. Huggins R. A. (2009) Advanced Batteries: Materials Science Aspects, 1st Edition, Springer 
+2. Linden D. and Reddy T. B. (2002) Handbook of Batteries, 3rd Edition, The McGraw-Hill Companies 
+ 
+Online Course Material 
+1. Dr. WALKER W. Q., Short course on lithium-ion batteries: fundamental concepts, heating mechanisms and
+simulation techniques, Nasa Johnson space center, Structural engineering division, Thermal design branch.
+2. Prof. Bazant M., MITopencourseware: Electrochemical Energy Systems, MIT Course Number 10.626 /
+3. Prof. Maiti H.S., Advanced ceramics for strategic applications, NPTEL, Metallurgy and Materials Science,
+
+Title Surface Engineering Number MTL6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+
+Title Synthesis and Processing of Semiconductors
+and 2D materials Number MTL3XX0
+Department Metallurgical & Materials Engineering L-T-P [C] 3-0-0
+Offered for B.Tech. (MT) Type Program Compulsory
+(PC)
+
+Title Biomaterials Engineering Number BSBE 4XX0
+Department Bioscience and Bioengineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+
+Title Functional Ceramics Number MTL4XX0
+Department Department of Metallurgical and Materials
+Engineering L-T-P [C] 3-0-0 [3]
+Offered for BTech/PhD Type PE
+Prerequisite Semiconductor Devices
+
+Title Magnetism and Magnetic Materials Number MTL4XX0
+Department L-T-P [C] (3-0-0) [3]
+Offered for B.Tech. (MT) Type Elective
+Prerequisite Basic knowledge on Quantum Mechanics
+
+Title Computational Thermodynamics Number MTL6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 2–0–2 [3]
+Offered for B.Tech (MT) Type Program Elective (PE)
+
+Title Mineral Beneficiation Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+
+Title Kinetics of Metallurgical Processes Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective
+Prerequisite -
+
+Title Principles of Process Metallurgy Number MT4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite None
+
+Title Hydrometallurgy Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+
+Title Electrometallurgy Number MTL4XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3-0-0 [3]
+Offered for B.Tech. (MT) Type Program Elective (PE)
+Prerequisite -
+
+Title Secondary and Special Steel Making Number MTL6XX0
+Department Metallurgical and Materials Engineering L-T-P [C] 3–0–0 [3]
+Offered for B. Tech. (MT) Type Program Elective (PE)
+Prerequisite -

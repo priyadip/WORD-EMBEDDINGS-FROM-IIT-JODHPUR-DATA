@@ -1,0 +1,43 @@
+SOURCE_PDF: 5f06b338034c_Non-Teaching-Staff-Members-Syllabus-IITJ-O_E-II_-2024-25-Non-Academic-Staff-57-63877991.pdf
+
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL SUPERINTENDENT
+(Metallurgical & Material Engineering)
+WRITTEN TEST 
+Mechanical Testing: Tensile, Compression, Hardness, Fatigue, Creep, Impact.
+Heat Treatment: Heat treatment of steels and aluminium alloys. Surface hardening treatment.
+Metallography: Sample preparation, Micro and Macro etching. Electropolishing. Microstructure of ferrous 
+and non-ferrous metals.
+Metal casting: Mould design involving feeding, gating and risering, melting and casting practices, casting 
+defects
+Hot, Warm and Cold Working of Metals: Metal forming – basics of metal forming processes of rolling, 
+forging, extrusion, wire drawing and sheet metal forming, defects in forming
+Metal Joining: Principles of soldering, brazing and welding, welding metallurgy, defects in welded joints in 
+steels and aluminium alloys
+Powder Metallurgy: production of powders, compaction and sintering
+Non-destructive Testing (NDT): Dye-penetrant, ultrasonic, radiography, eddy current, acoustic emission 
+and magnetic particle inspection methods
+Iron and Steel Making: Operation of blast furnace. primary steel making: basic oxygen furnace, process 
+dynamics, oxidation reactions, electric arc furnace
+Basics of Phase Diagram of Steels and Aluminium alloys
+Mineral Beneficiation, Size classification, flotation, gravity and other methods of mineral beneficiation; 
+agglomeration: sintering, pelletizing and briquetting.
+Electrochemistry and Corrosion: Single electrode potential, electrochemical cells, Nernst equation, potential-
+pH diagrams. Forms of corrosion.
+Basics of semiconductor: Intrinsic and extrinsic semiconductors, doping, donor and accepter in 
+semiconductor, fermi-level, effective mass, band theory of solids, direct and indirect band gap.
+Semiconductor devices: p-n junction, diode, capacitor, MOSFET, transistor, logic gates.
+Basics of characterization techniques: X-ray diffraction, transmission electron microscopy, electron 
+diffraction, atomic force microscopy, scanning electron microscopy, scanning tunnelling microscopy, FTIR, 
+Raman spectroscopy, phase contrast microscopy.
+Basic working expertise with maintenance of computers.
+Basic mathematics
+SKILL TEST 
+Mechanical Testing: Tensile, Compression, Hardness, Impact.
+Heat Treatment: Heat treatment of steels and aluminium alloys.
+Metallography: Sample preparation, Micro and Macro etching, Microstructure of ferrous and nonferrous 
+metals, Optical microscopy.
+Metal casting: Melting and casting practices.
+Material characterization: 4 probe method, 2 Probe method, MvsH & MvsT measurements, Lithography, UV-
+visible
+Basic skills to operate computational tools.

@@ -1,0 +1,61 @@
+SOURCE_URL: http://old.iitj.ac.in/Electrical-Engineering/en/Electronic-Circuit-Simulation-and-VLSI-Systems-Lab
+
+Electronic Circuit Simulation and VLSI Systems Lab
+Electronic Circuit Simulation and VLSI Systems Lab
+Electronic Circuit Simulation and VLSI Systems Lab
+Electronic Circuit Simulation and VLSI Systems Lab
+This lab was developed to support the fabless design activities. It hosts various design and simulation tools related to VLSI design and TCAD simulations with the aim of designing low power systems for future IoT applications.  Following are the summary of resources. Many of the the VLSI Design tools are supported through SMDP-C2SD project from Ministry of Information Technology, Govt. of India, in addition to the tools supported by Institute. VLSI Design and Circuit Simulation: Various VLSI Design Tools and FPGA kits (with 5 Workstations) obtained under SMDP-C2SD project. 11 Workstations are hosted as a part of Electronic Circuits Simulations and Systems Laboratory Device Simulation: Synopsys ISE-TCAD tools for simulation of conventional as well as novel devices
+This lab was developed to support the fabless design activities. It hosts various design and simulation tools related to VLSI design and TCAD simulations with the aim of designing low power systems for future IoT applications.  Following are the summary of resources. Many of the the VLSI Design tools are supported through SMDP-C2SD project from Ministry of Information Technology, Govt. of India, in addition to the tools supported by Institute.
+VLSI Design and Circuit Simulation: Various VLSI Design Tools and FPGA kits (with 5 Workstations) obtained under SMDP-C2SD project. 11 Workstations are hosted as a part of Electronic Circuits Simulations and Systems Laboratory
+Device Simulation: Synopsys ISE-TCAD tools for simulation of conventional as well as novel devices
+Academic activities This lab is used for research as well as conducting lab experiments related to VLSI design to our M.Tech. students, specifically M.Tech. in Sensors and IoT.
+This lab is used for research as well as conducting lab experiments related to VLSI design to our M.Tech. students, specifically M.Tech. in Sensors and IoT.
+Faculty Members 1. Shree Prakash Tiwari Research Interests: Microelectronics, Organic Electronics, Microfabrication, Device Physics and Characterization eMail: sptiwari@iitj.ac.in Office location: Room no. 210, Department of Electrical Engineering Phone: (91 291) 280 1356 Web: http://home.iitj.ac.in/~sptiwari/
+Research Interests: Microelectronics, Organic Electronics, Microfabrication, Device Physics and Characterization
+eMail: sptiwari@iitj.ac.in
+Office location: Room no. 210, Department of Electrical Engineering
+Phone: (91 291) 280 1356
+Web: http://home.iitj.ac.in/~sptiwari/
+2. Jai Narayan Tripathi (PhD, SMIEEE) Designations: Assistant Professor, IIT Jodhpur; Adjunct Research Professor, Carleton University, Canada. Research Interests: VLSI Circuits and Systems, Signal Integrity, Power Integrity, Design of Experiments, Metaheuristic Optimization Techniques eMail: jai@iitj.ac.in Phone: (+91 291) 280 1374 Web: http://home.iitj.ac.in/~jai/
+Designations: Assistant Professor, IIT Jodhpur; Adjunct Research Professor, Carleton University, Canada.
+Research Interests: VLSI Circuits and Systems, Signal Integrity, Power Integrity, Design of Experiments, Metaheuristic Optimization Techniques
+eMail: jai@iitj.ac.in
+Phone: (+91 291) 280 1374
+Web: http://home.iitj.ac.in/~jai/
+3. Arpit Khandelwal Research Interests: Fiber Optics, Integrated III-V Optics, Optical Sensors eMail: arpitkhandelwal@iitj.ac.in Office location: Room no. 223 , Department of Electrical Engineering Phone: (91 291) 280 1363 Web: https://sites.google.com/iitj.ac.in/arpitkhandelwal/bio
+Research Interests: Fiber Optics, Integrated III-V Optics, Optical Sensors
+eMail: arpitkhandelwal@iitj.ac.in
+Office location: Room no. 223 , Department of Electrical Engineering
+Phone: (91 291) 280 1363
+Web: https://sites.google.com/iitj.ac.in/arpitkhandelwal/bio
+4. Amandeep Kaur Ph.D.: Indian Institute of Technology Delhi Research Interests: Analog and Mixed-Signal Circuit Design, Data Converters (ADC, DAC), High-speed circuits, CMOS image sensors, On-chip compression eMail: amandeepkaur@iitj.ac.in Office location: Room no. 220, First Floor,  Department of Electrical Engineering Phone: (91 291) 280 1368 Web: https://sites.google.com/iitj.ac.in/amandeepkaur/home Specialized lab: SMDP Lab - Link: http://ee.iitj.ac.in/smdp/
+Ph.D.: Indian Institute of Technology Delhi
+Research Interests: Analog and Mixed-Signal Circuit Design, Data Converters (ADC, DAC), High-speed circuits, CMOS image sensors, On-chip compression
+eMail: amandeepkaur@iitj.ac.in
+Office location: Room no. 220, First Floor,  Department of Electrical Engineering
+Phone: (91 291) 280 1368
+Web: https://sites.google.com/iitj.ac.in/amandeepkaur/home
+Specialized lab: SMDP Lab - Link: http://ee.iitj.ac.in/smdp/
+5. Harshit Agarwal Office location: Department of Electrical Engineering, Room No. 322 Research Interests: Industry standard compact modeling, sub-5nm devices, steep-slope transistors, emerging memory technologies, high-voltage devices, analog/RF devices and circuits, neuromorphic computing eMail: agarwalh@iitj.ac.in Phone: (91 291) 280 1376 Web: https://agarwalharshitblog.wordpress.com/
+Office location: Department of Electrical Engineering, Room No. 322
+Research Interests: Industry standard compact modeling, sub-5nm devices, steep-slope transistors, emerging memory technologies, high-voltage devices, analog/RF devices and circuits, neuromorphic computing
+eMail: agarwalh@iitj.ac.in
+Phone: (91 291) 280 1376
+Web: https://agarwalharshitblog.wordpress.com/
+Contact details Room no.: 212 Please write to one of the following for more details: amandeepkaur@iitj.ac.in , arpitkhandelwal@iitj.ac.in , sptiwari@iitj.ac.in
+Please write to one of the following for more details: amandeepkaur@iitj.ac.in , arpitkhandelwal@iitj.ac.in , sptiwari@iitj.ac.in
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Important links CCCD @ IITJ Recruitment Correspondence RTI Tenders Techscape Contact Old Website NCCR Portal How To Reach IITJ Institute Repository Donations Web Policy Web Information Manager Feedback CERT-IN Help NIRF Internal Committee
+Institute Repository
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India) For any comments/enquiries/feedback, please email the WIM .
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+Last Updated : 13 Mar 2026 - 03:28 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!

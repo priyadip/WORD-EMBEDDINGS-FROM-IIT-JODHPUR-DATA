@@ -1,0 +1,54 @@
+SOURCE_PDF: 26e4d400efe9_M.Tech_bio_Program_Structure.pdf
+
+Cat. Course Title L-T-P-D Credits
+C Microbiology & Biochemistry 3-0-2-0 4
+C Cell & Molecular Biology 2-0-2-0 3
+C Human Physiology 3-0-0-0 3
+OE Open Elective 1 3-0-0-0 3
+PE Program Elective 3-0-2-0 4
+PE Program Elective 2-0-0-0 2
+Total 19
+Cat. Course Title L-T-P Credits
+C Plant Physiology & Pathology 2-0-0-0 2
+C Disease Biology 2-0-0-0 2
+C Statistics & Data Analysis 2-0-2-0 3
+OE Open Elective 2 3-0-0-0 3
+PE Program Elective 2-0-0-0 2
+PE Program Elective 3-0-2-0 4
+Course Title L-T-P-D Credits
+PE Program elective 3-0-2-0 4
+PE Program Elective 2-0-0-0 2
+TH Project 0-0-0-6 6
+Total 12
+Course Title L-T-P-D Credits
+TH Project 0-0-0-10 10
+Total 10
+M Tech in Bioscience & Bioengineering
+
+Data preprocessing & Storage 
+Algorithm development 
+Program elective set 3- Biosensors 
+Sensor types & technologies 
+Sensor fabrication & microfluidics 
+Sensor signal analysis & statistics 
+Signal amplification, read out electronics & Data interpretation 
+Program elective set 4-Systems Biology 
+Mathematical Modeling & Simulations 
+Thermodynamics & Enzyme kinetics 
+Graph theory & Networks 
+Genetic & Metabolic Engineering 
+Synthetic Biology 
+Program elective set 5-Bio-materials Engineering 
+Sensor materials 
+Computational modeling in material design 
+Material characterization 
+Material properties 
+Biophysics 
+Biomechanics 
+Tissue Engineering 
+Medical devices and Implants 
+Program Elective set 6- Artificial Intelligence in Bioengineering 
+Pre-processing of Data 
+Supervised Learning 
+Unsupervised Learning 
+Applications in Multi Omics data, Imaging, Sensors

@@ -1,0 +1,11 @@
+indian institute of technology jodhpur syllabus for the post of assistant workshop manager written test skill test
+foundry shop understanding of basic steps in casting operation terminology process flow mould making process and tools sand testing equipment working and operation of equipment using in casting shop safety precautions for foundry
+machine shop standard machine tools and their operations cutting tools for various machines cutting tool materials tool geometry cutting fluids classification grinding machine types and operations types of grinding wheels specifications safety precautions for machine shop
+assembly shop processes in fitting shop equipment layout procedure file work thread cutting tools operation and types of chisels scrapers dividers calipers
+welding shop welding processes and equipment operations of welding machines selection of consumables such as electrode flux nozzles gas etc
+types of welds joints and positions safety precautions for welding
+smithy forging and sheet metal work knowledge of equipment and tools for smithy forging and sheet metal work operations related to smithy forging and sheet metal work knowledge of control parameters to achieve parts safety precautions
+metrology understanding related to operation and working principles of measuring equipment and tools used for inspection on shop floor knowledge of standards of measurement measurement of surface roughness
+advanced manufacturing understanding related to operation and working principles of advanced manufacturing and inspection equipment such as cnc machines printers coordinate measuring machine knowledge of computational tools for component fabrication knowledge of programming for component fabrication reverse engineering of components on cmm
+general skills planning performing simple repair overhauling of different machines and checking functionality skills to execute pipe joints dismantling and assembling valves and fittings
+testing for leakages planning and performing basic day to day preventive maintenance safety aspects knowledge of gfr

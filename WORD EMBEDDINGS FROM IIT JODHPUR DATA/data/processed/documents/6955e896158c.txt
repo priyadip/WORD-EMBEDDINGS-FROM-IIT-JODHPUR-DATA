@@ -1,0 +1,16 @@
+research seminar by ritik soni on august at am title of the talk fractional poisson models and applications date time venue august am seminar hall dept
+of mathematics abstract in this talk we explore the poisson process and its fractional counterpart known as the fractional poisson process fpp through the lens of fractional calculus
+the fpp extends the memoryless nature of the poisson process by introducing memory and dependence making it more suitable for modeling phenomena with behavior
+we highlight key properties of the fpp and compare it with its and tempered variants
+in particular we emphasize the role of the tempered fractional poisson process which balances the behavior of the standard fpp with exponential tempering leading to more realistic modeling in certain applications
+we discuss the use of the tempered fpp in modeling shock driven systems
+about the speaker ritik soni currently an institute postdoctoral fellow in the department of mathematics and statistics at
+kanpur where his research focuses on markov chain monte carlo mcmc methods
+in parallel he is also investigating the practical relevance of fractional stochastic models in various applied contexts
+prior to this he has postdoctoral position at the chennai mathematical institute
+he obtained from the central university of punjab bathinda where his doctoral research centered on fractional stochastic processes and their connections to operators
+title of the talk fractional poisson models and applications date time venue august am seminar hall dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

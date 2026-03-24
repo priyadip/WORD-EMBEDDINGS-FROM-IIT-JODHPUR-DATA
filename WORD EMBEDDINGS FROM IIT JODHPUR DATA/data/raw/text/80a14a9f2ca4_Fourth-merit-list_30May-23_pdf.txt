@@ -1,0 +1,13 @@
+SOURCE_PDF: 80a14a9f2ca4_Fourth-merit-list_30May-23.pdf
+
+S. No Appl. No. Name of Applicant Allocated Category
+1 IITJSoLA23MScCSS_375 Ishita Choudhary GEN
+2 IITJSoLA23MScCSS_425 Jaidi Nitin Reddy GEN
+3 IITJSoLA23MScCSS_377 Paban Giri GEN-EWS
+4 IITJSoLA23MScCSS_488 Sumit Kumar Singh OBC
+5 IITJSoLA23MScCSS_310 Dhruv Yadav OBC
+Annexure V
+School of Liberal Arts
+Indian Institute of Technology Jodhpur
+AY 2023-24 SEMESTER I MSc COMPUTATIONAL SOCIAL SCIENCE ADMISSIONS (CSS)
+FOURTH MERIT LIST OF CANDIDATES PROVISIONALLY SHORTLISTED FOR MSc CSS

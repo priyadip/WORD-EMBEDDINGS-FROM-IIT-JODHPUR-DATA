@@ -1,0 +1,109 @@
+SOURCE_PDF: cc101e9bd30b_FAQ_Ex_MTech_AI_update-121223.pdf
+
+FAQs for PG Admission Executive M.Tech. AI (for
+working professionals) 2023 | CSE, IIT Jodhpur
+Q1. Does an Executive M.Tech. in Artificial Intelligence from IIT Jodhpur
+hold equal value & status as a Full-time M.Tech. From IIT Jodhpur?
+Q2. After completing the program, does a student get IIT Jodhpur Alumni
+Q3. Do students of this program also get campus placements?
+Answer: No, since this is a program for working professionals.
+Q4. What will be the syllabus of the written exam?
+Answer: GATE 2023 syllabus for Computer Science and Information Technology
+will be followed for the written exam.
+Q5. What is the fee to be paid?
+Answer: Rs. 7500 per credit.
+Q6.What is the minimum attendance percentage required?
+Answer: As per the institute policy.
+Q7. After the completion of the course, will there be any convocation?
+
+Q8.What will be the duration of course?
+Answer: Usually 3-4 years. It is a credit based course, hence the duration
+depends upon the credits taken in each semester. Total credit requirement is 62
+which can be completed in a minimum of three years (6 semesters) and
+maximum of five years (10 semesters).
+Q9. What are the courses that will be taught? Will these courses be taught
+by IITJ faculties?
+Answer: Please visit the following website for a tentative list of courses under
+Executive M.Tech. AI https://cse.iitj.ac.in/Ex-MTech-AI.html
+Courses will be taught by IITJ faculty members. Some sessions in courses
+sometimes full courses are offered by domain experts from other reputed
+institutes and industries.
+Q10. Can I opt for elective courses? What elective courses are offered in
+this program?
+Answer: Please visit the following website for a list of electives which may be
+Offered as part of this programme: https://cse.iitj.ac.in/Ex-MTech-AI.html
+Q11. Will I be eligible for a PhD Admission after completing this MTech
+
+Q12. Is there any scholarship available for this program?
+Q13: I have a payment related query. Whom shall I contact?
+Answer: Please contact: oa_automation@iitj.ac.in
+Q14: I have a related query to Executive M.Tech. AI. Whom shall I contact?
+Answer: Please contact: mtech_wp_ai@iitj.ac.in
+Q15. If after two semesters I need a gap due to personal reasons or something
+else can I shift my next semester?
+Answer: Yes, the program is designed to allow candidates to choose their pace.
+Q16. What will be the difference between a regular MTech AI Program & Executive
+MTech AI program?
+Answer: The mode of teaching (Online vs Classroom teaching). The syllabus and credit
+requirements will be the same. Further, the duration of the program is different. This is
+because the executive program is for working professionals who cannot commit the
+same work hours as our full-time students.
+Q17. As it's an Executive MTech Program, So If for some reason I leave the Job is
+it going to affect this Program if I leave my job?
+Answer: No. You can still continue this program.
+Q18. I have a query regarding the total time period of the program. How many
+semesters one has to complete bare minimum to get the MTech.
+Answer: This is a self-paced program. However, you would need minimum 6 semesters
+to finish the program.
+
+Q19. Can Internship be shown as work experience?
+Q20. Can the degree certificate be submitted for government jobs?
+Q21. I am interested in pursuing this program. However, I would like to know the
+syllabus and/or course content before signing up for the same. Answer: Please
+visit : https://cse.iitj.ac.in/Ex-MTech-AI.html
+Q22. I have done my graduation/AMIE from The Institution of Engineers (IE
+INDIA). Is that allowed for admission?
+Q23. Will hostel accommodation be provided for outstation candidates from
+different states?
+Answer: During campus visit in contact hours, paid accommodation may be made
+Q24. I am from Electrical & Electronics. Will I be able to cope up with Artificial
+Intelligence? What is the syllabus? Do I need to learn coding? What would be the
+extent of it ?
+Answer: Good programming skills are important for this course. Further, being good in
+Mathematics helps.
+Q 25. What if I plan to discontinue the program after completing a few courses?
+Answer: You will be given a course completion certificate upon request for the courses
+which you would have completed.
+Q26. Would the outcome of the course be suited for people who want to develop
+AI related businesses? Would this help someone in pursuing a career in tech
+
+Companies on the business side or is it suited for people who want to pursue a
+career in the technical and programming areas?
+Answer: The syllabus is more inclined towards the technology side.
+Q27. How rigorous is this course and how many hours of studying and project
+work beyond lecture time would it need every week/month approximately?
+Answer: A unit of credit equates to three hours of student work per week. That means if
+you register for 9 credits, you are expected to work 27 hours a week including 9 hours
+of lectures.
+Q28. Tell me a tentative plan of credit selection so that I can complete this
+Program in three years.
+Answer: Semester - 1: 10 credits
+Semester - 2: 10 credits
+Semester - 3: 11 credits (including 2 non-graded credits)
+Semester - 4: 11 credits (including 2 non-graded credits)
+Semester - 5: 10 credits (including 5 thesis credits)
+Semester - 6: 10 thesis credits
+Total: 62 credits
+If you plan to complete it at a slow pace, say in 4 years by taking lesser credits per
+semester, then that will be allowed from semester - 2.
+Q29. How many lectures per course per semester will be there?
+Answer: 42 hours of lectures per course per semester.
+Q30. How long is a typical semester?
+Answer: Around 4 months.
+
+Q31. What are the other documents required for admission?
+Answer: A selected applicant will need to submit a no objection certificate from the
+current employer (only if currently employed), a physical fitness certificate, and a
+character certificate by either the current employer or a gazetted officer. These
+documents are required only at the time of admission and not at the time of application.
+The formats for these documents will be sent to the selected candidates.

@@ -1,0 +1,15 @@
+research seminar by aditi sethia on at pm title of the talk fair resource allocation via theorems and graphs date time venue nov at noon on seminar room dept
+of mathematics abstract allocation of resources is frequently encountered problem in many settings like house allocations estate settlements task assignments course allocations and border disputes
+questions of who gets what specifically when the participating agents have individual preferences are both practically pressing spanning across areas like matchings fair division voting problems among others and theoretically rich relying on techniques from mathematics game theory economics and computer science
+in this talk we will discuss various equitability and fairness notions and present comprehensive landscape of computing such desirable allocations
+in particular we will see recent result wine that shows fairness and efficiency can be achieved simultaneously for allocating positively and negatively valued resources advancing the understanding of open question in discrete fair division
+our techniques rely on novel application of theorems combined with and combinatorial arguments
+about the speaker aditi is currently walmart fellow at the indian institute of science bangalore hosted by siddharth barman
+previously she received her phd from iit gandhinagar
+her research interests revolve around computational social choice fair division voting and matching problems algorithmic game theory graph theory and economics computation
+she works on computationally problems and finding some or or way around it
+title of the talk fair resource allocation via theorems and graphs date time venue nov at noon on seminar room dept
+important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

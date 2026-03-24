@@ -1,0 +1,12 @@
+salient features of specialization
+focus on advanced concepts in fluid flow and heat transfer with emphasis on various applied problems ii
+state of the art exposure to computational techniques for fluid flow and heat transfer problems iii
+hands on exposure to various advanced experimental techniques in fluid flow and heat transfer iv
+industry internship and project collaborations the active classroom learning methodology advanced manufacturing and design focus areas of advanced manufacturing include smart manufacturing and industry multiscale manufacturing and processing of novel materials these programs offer state of the art exposure to advanced manufacturing processes which will prepare students to contribute to global research problems
+advanced manufacturing students under this specially designed curriculum will be able to commence academic and industrial research in thematic areas using analytical computational and experimental tools
+dual degree program aims to impart knowledge of fundamentals required to understand the recent manufacturing trends and approaches using the internet of things machine learning sensors etc
+for required in modern manufacturing industries
+students will acquire knowledge of hybrid processing methodologies research capabilities associated with manufacturing novel engineering materials microsystems fabrication industry and most importantly will be trained to perform collaborative work with an interdisciplinary approach
+facilities to design develop and manufacture new or modified components for mechanical systems using manufacturing vii
+focus areas include advanced mechanics of solids robotics dynamics of land and aerial vehicles vibration and experimental modal analysis acoustics development of noise control methods diagnostics and prognostics of dynamic systems design finite element analysis design and optimization viii
+exposure through experiments and design complemented with exposure to state of the art tools like matlab ansys abaqus adams solidworks creo software simulator

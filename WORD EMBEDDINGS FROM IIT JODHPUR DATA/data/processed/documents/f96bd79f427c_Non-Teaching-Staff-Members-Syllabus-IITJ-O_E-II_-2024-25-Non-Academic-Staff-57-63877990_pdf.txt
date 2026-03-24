@@ -1,0 +1,11 @@
+indian institute of technology jodhpur syllabus for the post of junior technical assistant electrical engineering written test devices and circuits circuit theorems semiconductor devices and their biasing circuits rectifiers filters amplifiers operational amplifier and its circuits interfacing with arduino circuit analysis single and three phase circuits power electronic devices and circuits scr controlled rectifier electrical machines dc motor and generator single and three phase transformers induction and synchronous motors
+digital electronics number systems combinatorial and sequential circuits arithmetic circuits counters and finite state machines
+data converters sample and hold circuits adcs and dacs semiconductor memories rom sram dram
+embedded systems architecture programming memory and interfacing signal processing continuous and discrete time signals and their fourier representations sampling theorem lti systems and their properties digital filter design techniques
+communications analog and digital communications concepts concepts transmitter and receiver channel capacity
+control systems feedback systems and their analysis bode plots root loci compensation techniques transient and frequency response pid controllers
+skill test the candidate will be allowed to choose two of the following four topics
+circuits operating instruments and equipment testing and debugging of circuit and systems arduino programming fpga programming
+communications and signal processing implementing communication and signal processing related functions iii
+electrical machines and power engineering and iv
+embedded systems programming of

@@ -1,0 +1,16 @@
+research seminar by digjoy paul on march at pm speaker digjoy paul title of the talk exploring polynomials new statistics and dualities date time and venue march pm pm at seminar hall dept of mathematics
+abstract in combinatorics and various other branches of mathematics of counting functions have been extensively studied
+for instance the of not only corresponds to the generating function for the inversion numbers of permutations in the symmetric group but also serves as the hilbert series of an coinvariant space
+catalan numbers enumerate numerous combinatorial objects including dyck paths and plane trees
+in haglund and haiman introduced of catalan numbers as weighted generating function for dyck paths
+these polynomials also arise as the hilbert series of certain in the diagonal coinvariant ring whose dimension matches the th catalan number
+major open problem in this area is finding combinatorial proof of the symmetry of these polynomials in and
+in this talk we begin with an overview of these concepts before presenting recent joint work with anne schilling and joseph pappe
+we introduce two new polynomials defined using novel statistics on dyck paths and prove their symmetry by developing new duality on plane trees
+we conclude with further applications and open problems in combinatorics
+about the speaker digjoy paul is an nbhm postdoctoral fellow at iisc bangalore
+he obtained his phd in mathematics from imsc chennai in under amritanshu prasad
+he pursued postdoctoral research at tifr mumbai cmi and later at iisc as cv raman fellow in
+his research work focuses on algebraic combinatorics exploring the interplay between algebraic structures and combinatorial objects
+speaker digjoy paul title of the talk exploring polynomials new statistics and dualities date time and venue march pm pm at seminar hall dept of mathematics
+date time and venue abstract in combinatorics and various other branches of mathematics of counting functions have been extensively studied

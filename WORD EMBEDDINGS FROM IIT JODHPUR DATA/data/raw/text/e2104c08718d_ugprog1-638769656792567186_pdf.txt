@@ -1,0 +1,216 @@
+SOURCE_PDF: e2104c08718d_ugprog1-638769656792567186.pdf
+
+Area Topics Category (Core/
+Techniques
+/Systems) Course
+(IE/IS/PC/PE)
+Omics • Cells and organelles Core and Techniques Concepts &
+Dynamics: Molecular
+Cell Biology (PC 4th)
+Pre/Co-Req:
+Biochemistry (PC 3rd)
+• DNA, RNA, Proteins, Core and Techniques Biochemistry
+(PC 3rd)
+Pre/Co-Req: None
+• Inheritance Core, Techniques and
+Systems Genetics & Gene
+Manipulation (PC 5th)
+Pre/Co-Req: None
+• Genomics Core and Techniques Introductory Omics
+(PC 6th)
+Pre/Co-Req:
+None
+• Microbial communities
+• Metagenome library
+• Metagenome sequencing • Microbial communities Core and Techniques Microbiomes and
+• Metagenome library Metagenomics (PE)
+• Metagenome sequencing Pre/Co-Req:
+• Biological networks and
+pathways
+• Data modeling
+• Multi-omics integration Systems Computational
+• Omics analysis Core, Techniques and
+Systems Microarray data
+analysis (PE)
+Pre/Co-Req: None Microarray data
+algorithms analysis (PE)
+• DNA microarray Pre/Co-Req: None
+• Neural network
+• Deep learning models
+• Deep generative models
+• Representation learning Systems Deep Learning (PC
+• Neural network 6th)
+• Deep learning models (From CS)
+• Deep generative models Pre/Co-Req:
+• Representation learning Introduction to
+Biomaterials
+Engineering • Biocompatibility and Core, Techniques and
+Systems Biomaterials
+Engineering (PC 6th)
+Pre/Co-Req: None Biomaterials
+Biodegradability Engineering (PC 6th)
+• Biomaterial Pre/Co-Req: None
+
+• Cell adhesion on
+substrate
+• Biofilm formation
+• Surface modification • Cell adhesion on Core and Techniques Cell-material
+substrate Interactions (PE)
+• Biofilm formation Pre/Co-Req:
+• Surface modification Biomaterials
+• Tissue repair and Core, Techniques and
+Systems Tissue Engineering
+(PE)
+Pre/Co-Req:
+Biomaterials
+Engineering (PC 6th) Tissue Engineering
+regeneration (PE)
+• Scaffolds Pre/Co-Req:
+• Animal cell culture Biomaterials
+• Sustained, on-demand Core, Techniques and
+Systems Therapeutic delivery
+systems (PE)
+Pre/Co-Req:
+Biomaterials
+Engineering (PC 6th)
+• Human locomotion
+• Tissue mechanics
+• Viscoelasticity • Human locomotion Core Principles of
+• Tissue mechanics Biomechanics (PE)
+• Viscoelasticity (From ME)
+• 3D printing
+• Field deposition model
+(FDM)
+• Selective laser sintering
+• Stereolithography Techniques and
+Systems Additive
+• Bio-transport
+• Hemodynamics
+• Momentum conservation
+• Bio-rheology Core and Systems Bio-transport
+Computational
+& Systems
+Biology • Bioinformatics
+• Bio computation
+• Mathematical modelling Core and Techniques Computational and
+• Numerical Methods for
+PDE
+• Ordinary Differential
+Equations Core and Techniques Mathematical Biology
+• Methods and method Core, Techniques and
+Systems Algorithms in biology
+(PE)
+Pre/Co-Req: None Algorithms in biology
+development in (PE)
+computational biology Pre/Co-Req: None
+• Biosystems Core and Techniques Modelling biological
+
+• Boundary conditions systems (PE)
+• Experiment design
+• validation • Experiment design Core Design of
+• validation experiments
+Bioimaging • Optical microscopy
+• Fluorescence microscopy
+• Digital imaging
+• Medical imaging Core, Techniques and
+Systems Bioimaging (PC 6th)
+(From CS/EE)
+Pre/Co-Req: None Bioimaging (PC 6th)
+• Fourier transform theory
+• Filtering
+• Image enhancement Techniques and
+Systems Digital Image
+• Image reconstruction
+• Image restoration
+• Deep learning
+• 2D, 3D registration Techniques and
+Systems Bio-image computing
+(PE) (From CS)
+Pre/Co-Req:
+Bioimaging (PC 6th) Bio-image computing
+• Electron scattering and Techniques and
+Systems Electron microscopy
+for biology (PE)
+(From CY)
+Pre/Co-Req:
+Bioimaging (PC 6th)
+Biosensors • Impedimetric, Core, Techniques and
+Systems Biosensors (PC 5th)
+(From EE)
+Pre/Co-Req:
+Biochemistry (PC 3rd)
+• Genetic circuits for Techniques and
+Systems Whole cell based
+biosensors biosensors (PE)
+• RNA based sensors Pre/Co-Req:
+• Reporter genes None
+• Lithography
+• Micromachining
+• MEMS • Lithography Techniques and
+Systems Microsystems
+• Micromachining Fabrication
+• MEMS Technology
+• Aptamer sensor
+• Cation-selective sensor
+• Dendrimer based sensor Techniques and
+Systems Chemosensors (PE)
+Microbial • Microbial phylogeny Core and Systems Microbiology (PC 3rd)
+systems for • Metabolism
+sustainable • Microbial growth Pre/Co-Req: None
+development • Applied microbiology
+
+• Wastewater treatment
+• Bio-geo chemical cycling
+• Solid waste
+management
+• In situ and ex situ
+bioremediation Systems Microbial remediation
+• Probiotic, symbiotic,
+plant –microbe
+interaction
+• Fortified food
+• Nutritional supplements
+• Single cell protein Systems Microbes in food and
+• Solid , liquid, gaseous Systems Bioenergy (PE)
+Pre/Co-Req:
+Microbiology (PC 3rd)
+Biochemistry (PC 3rd) Bioenergy (PE)
+biofuels Pre/Co-Req:
+• Engineering microbes for Microbiology (PC 3rd)
+biofuel production Biochemistry (PC 3rd)
+Drug design
+and
+Development • Protein-protein
+interaction
+• Protein crystallography
+• Protein folding • Protein-protein Core and Techniques Biophysics and
+interaction Structural Biology
+• Protein crystallography (PC 6th)
+• Protein folding Pre/Co-Req:
+• Drug targets
+• Computer-aided drug
+design
+• Virtual screening Core, Techniques and
+Systems Principles of Drug
+• Pharmacophore Core and Techniques Medicinal chemistry
+(PE) (CY)
+Pre/Co-Req: None Medicinal chemistry
+• Drug metabolism (PE) (CY)
+• Chiral drug molecule Pre/Co-Req: None
+• Virus life cycle Core, Techniques and
+Systems Viral infection and
+antiviral drug
+development (PE)
+Pre/Co-Req: None
+Fundamental
+courses • Innate immunity Core and Techniques The Human Immune
+System: Mechanisms
+to Detect, Defend
+and Attack (PC 4th)
+Pre/Co-Req: None
+• Membrane Core The Human Machine
+transportation for Engineers:
+• Muscle mechanics Quantitative
+• Membrane potential Physiology (PC 5th)
+
+• Cardiovascular, Pre/Co-Req: None

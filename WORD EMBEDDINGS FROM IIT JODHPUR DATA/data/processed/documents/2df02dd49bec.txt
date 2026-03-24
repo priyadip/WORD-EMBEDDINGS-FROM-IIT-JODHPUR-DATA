@@ -1,0 +1,11 @@
+congratulation to subhasish dey for publishing research paper titled the universal law of pipeline scour in physics of fluid volume issue abstract the estimation of scour depth under pipelines aligned transversely to river flow has attracted much attention because of its importance in hydraulic engineering
+pipeline scour results from the interaction between the wake vortices induced downstream of the pipeline and the sediment bed beneath it
+the core insight of this study is to seek universal law that governs scour beneath pipelines in steady flow particularly under the condition
+the analysis begins with an approach that incorporates the similarity concept with specific focus on the incomplete similarity in the asymptotic function of the ratio of particle size to scour depth ratio as power law
+the power law exponent can be determined exclusively through kolmogorov energy cascade theory
+stemming from kolmogorov energy cascade theory also called the phenomenological theory of turbulence universal law emerges revealing that the equilibrium scour depth to pipe diameter ratio follows scaling law with newly introduced number which encapsulates all key factors influencing pipeline scour
+this number includes variables such as the approach mean flow velocity and depth the threshold shear velocity for sediment motion and the sediment particle size
+it also captures essential hydrodynamic forces including inertia drag shear and threshold shear forces
+moreover the scaling law incorporates an additional term that involves the drag coefficient with an exponent of thereby accounting for the influence of the pipe shape on the equilibrium scour depth
+the derived universal law is validated using the experimental data
+doi the estimation of scour depth under pipelines aligned transversely to river flow has attracted much attention because of its importance in hydraulic engineering

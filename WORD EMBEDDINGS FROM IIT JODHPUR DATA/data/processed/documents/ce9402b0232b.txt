@@ -1,0 +1,10 @@
+congratulations to moumita mandal for the acceptance of their research article in journal of applied analysis and computation title eigenvalue problem of weakly singular compact integral operator by discrete legendre projection methods
+authors moumita mandal kapil kant and gnaneshwar nelakanti journal journal of applied analysis and computation volume year publisher wilmington scientific publishers abstract in this article the discrete version of legendre projection and iterated legendre projection methods are considered to find the approximate eigenfunctions eigenvalues and eigenvectors of weakly singular compact integral operator
+making use of sufficiently accurate numerical quadrature rule we establish the error bounds of the approximated eigenvalues and eigenvectors by discrete legendre projection and iterated discrete legendre projection methods in both and uniform norm
+in particular we obtain the optimal convergence rates for the eigenfunctions in iterated discrete legendre projection method in and uniform norms where is the highest degree of the legendre polynomial employed in the approximation and is the smoothness of the eigenvectors
+numerical examples are presented to illustrate the theoretical results
+legendre projection methods
+authors moumita mandal kapil kant and gnaneshwar nelakanti journal journal of applied analysis and computation volume year publisher wilmington scientific publishers abstract in this article the discrete version of legendre projection and iterated legendre important links cccd iitj recruitment correspondence rti tenders techscape contact old website nccr portal how to reach iitj institute repository donations web policy web information manager feedback help nirf internal committee institute repository web information manager copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+nagaur road karwar jodhpur rajasthan india for any please email the wim
+copyright all rights reserved this portal is owned designed and developed by digital infrastructure automation iit jodhpur
+last updated feb am

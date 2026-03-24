@@ -1,0 +1,1229 @@
+SOURCE_PDF: 1a59d28258e7_COMPUTER_20SCIENCE_06092019.pdf
+
+Indian Institute of Technology Jodhpur
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+July 2019
+
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+and
+Dual degree M.Tech. (AI) + PhD
+Programs
+offered by the
+Department of Computer Science and
+Engineering
+July 2019
+
+M.Tech in Artificial Intelligence (AI)
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines to act with 
+higher levels of intelligence and emulate the human capabilities of sense, comprehend and act. The 
+core problems of artificial intelligence include programming computers for certain traits such as 
+Knowledge, Reasoning, Problem-solving, Perception, Learning and Planning. AI technology 
+development and applications are evolving rapidly with major implications for economies and 
+societies. As the demand for such applications increases, there is also an increasing need for 
+building the future workforce for AI. For developing the AI ecosystem, this program will be 
+executed in synergy with other M.Tech programs running in IIT Jodhpur, such as Sensors & IoT, 
+Cyber-Physical Systems, and Advanced Manufacturing and Design.
+This M.Tech in AI programme will offer students with deep knowledge of both fundamental AI 
+technologies, as well as application-oriented AI. A student completing this program will be capable 
+to undertake careers in industry as well as academia. He/She will have the option to explore a 
+variety of domains including Manufacturing, Fintech, Healthcare, Agriculture/Food Processing, 
+Education, Retail/Customer Engagement, Human and Robot interaction/intelligent automation, 
+Smart City , Aid for Differently Abled/Accessibility Technology.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Comprehend fundamental concepts and hands-on knowledge of the state-of-the-art AI
+2. Design and Build real-world AI systems for complex planning, decision making and learning,
+solving application-specific problems, and to reason about them.
+3. Conceive, Design and Develop Intelligent multi-modal multi-sensory Man-Machine
+4. Design, Develop and Deploy machine learning based applications using structured and
+unstructured data (e.g., speech, text, images/videos).
+5. Understand and Assess reliability, dependability and trust-worthiness of AI-based systems. 
+6. Design and develop AI applications for resource constrained environments. 
+7. Adhere to evolving ethics and privacy laws across various domains and territories. 
+8. Plan and manage technical projects.
+Learning Outcome:
+1. Understand the fundamentals of Artificial Intelligence, Machine Learning, Inference Engines,
+Speech, Vision, Natural Language Understanding, Robotics, and Human Computer 
+Interaction.
+2. Unify the knowledge of human cognition, AI, Machine Learning and data engineering for
+designing systems.
+3. Demonstrate hands-on knowledge of state-of-the-art AI tools for real-world problem-
+4. Ability to develop real-time and robust AI-based systems with specific software, hardware
+and data requirements.
+5. Build solutions to explore fully immersive computer-generated worlds (in VR), and overlay
+computer graphics onto our view of our immediate environment (AR) along with smart, 
+cognitive functionality.
+6. Demonstrate advanced skills to comprehend and communicate effectively. 
+7. Carry out projects using intelligent cognitive solutions provided by AI algorithms to get
+more insights in stakeholder management, risk modeling, intelligent resource scheduling 
+and managing project constraints with intelligent use of data models.
+
+Cat Code Course Title L-T-
+P Cr Cat Code Course Title L-T-
+P Cr
+I Semester II Semester
+MC MAL7xx0 Statistics I
+Matrix Computation
+Optimization 1-0-
+0
+1-0-
+0
+1-0-
+0 3 MC CSL8xx0 Artificial Intelligence II 3-0-
+0 3
+MC CSL7xx0 Artificial Intelligence I 3-0-
+0 3 MC CSL8xx0 Machine Learning II 3-0-
+0 3
+MC CSL7xx0 Machine Learning I 3-0-
+0 3 MC CSL8xx0 Real Time Autonomous
+Systems 2-0-
+0 2
+MC CSP7xx0 Data Structures and
+Practices 0-0-
+2 1 ME xxxxx Program Elective 3 3-0-
+0 3
+ME xxxxx Program Elective 1 3-0-
+0 3 MO xxxxx Open Elective 1 3-0-
+0 3
+ME xxxxx Program Elective 2 3-0-
+0 3 NG xxxxx Innovation and IP
+Management 1-0-
+0 1
+xxxxx Technical
+Communication 1-0-
+0 1
+Total Credits: 17 Total Credits: 15
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+III Semester IV Semester
+MP CSDxx
+0 Major Project – Part 1 0-0-
+10 5 MP CSDxx
+0 Major Project – Part 2 0-0-
+22 1
+1
+ME xxxxx Program Elective 4 3-0-0 3 ME xxxxx Program Elective 6 3-0-0 3
+ME xxxxx Program Elective 5 3-0-0 3 NG xxxxx Professional Ethics 1-0-0 1
+MO xxxxx Open Elective - 2 3-0-0 3
+NG xxxxx System Engineering
+and Project
+Management 1-0-0 1
+Total Credits: 15 Total Credits: 15
+1 Program Core 18 credits
+2 Program Electives 18 credits
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-graded 4 credits
+Total 62 credits
+Course Structure for
+M.Tech. (AI) Program and Dual degree M.Tech. (AI) + PhD
+*Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+
+Program Electives for M.Tech. (AI) and
+Dual Degree M.Tech. (AI)+Ph.D. Program
+Courses offered by Department of Computer Science and Engineering
+ 
+Advanced Computer Graphics
+ 
+Algorithms for Big Data
+ 
+AI for Finance
+ 
+Bio-image computing
+ 
+Blockchain
+ 
+Computer Graphics
+ 
+Computer Vision
+ 
+Computational Optimization
+ 
+Computer Architecture
+ 
+Data Visualization
+ 
+Dependable AI
+ 
+Digital Image Analysis
+ 
+Edge and Fog Computing
+ 
+Embedded Systems
+ 
+GPU Programming
+ 
+Graph Theory and Applications
+ 
+Human Machine Interface
+ 
+Information Retrieval and Web Mining
+ 
+Introduction to Augmented Reality and Virtual Reality
+ 
+Machine Learning with Big Data
+ 
+Natural Language Processing
+ 
+Neuromorphic Computing and Design
+ 
+Ad hoc Wireless Networks
+ 
+Selected Topics in Artificial Intelligence - I
+ 
+Selected Topics in Artificial Intelligence - II
+ 
+Selected Topics in Artificial Intelligence - III
+ 
+Selected Topics in Computer Science - I
+ 
+Selected Topics in Computer Science - II
+ 
+Selected Topics in Computer Science - III
+ 
+Social Network Analysis
+ 
+Software and Data Engineering
+ 
+Security and its Applications
+ 
+Speech processing
+ 
+Stream Analytics
+ 
+Vehicular Ad-hoc Networks (VANETs)
+Courses offered by Department of Electrical Engineering
+ 
+Adaptive Signal Processing
+ 
+Advanced Control System
+ 
+Advanced Digital Communication
+ 
+Advanced Signal Processing
+ 
+Analog and Interfacing Circuits
+ 
+Antenna Engineering
+ 
+Applied Optimization for Wireless Communication
+ 
+Backhaul Networks for Wireless Systems
+ 
+Coding Theory
+ 
+Compressive Sensing
+ 
+Computational Imaging
+ 
+Cyber Physical System Modelling Laboratory
+ 
+Data Compression
+
+ 
+Digital image and Video Processing Lab
+ 
+Digital Image Processing and Applications
+ 
+Digital Signal Processing
+ 
+Digital Video Processing
+ 
+Digital VLSI Design
+ 
+Embedded System Design
+ 
+Embedded System Design Lab
+ 
+Flexible and Printed Electronics
+ 
+Free Space Optical Communications
+ 
+GNSS Signal Processing
+ 
+Image Sensor Design and Applications
+ 
+Introduction to Cyber-Physical Systems
+ 
+Machine Learning for Communication
+ 
+Mathematical Modelling and Simulation
+ 
+Microfluidics Technology
+ 
+Microsystems Fabrication Technology
+ 
+Millimeter Wave Technology
+ 
+Multi-rate Digital Signal Processing
+ 
+Nanosensors
+ 
+Network Information Theory
+ 
+Neuromorphic computing and design
+ 
+Optical Fiber Communications
+ 
+Optimal Filtering
+ 
+Physical Layer Security
+ 
+Principles of Data and System Security
+ 
+Real Time Communications
+ 
+Resource Constrained AI
+ 
+RF IC Design
+ 
+RF IC Design Lab
+ 
+Selected Topics in Communication I
+ 
+Selected Topics in Communication I
+ 
+Selected Topics in Communication II
+ 
+Selected Topics in Communication III
+ 
+Selected Topics in Sensors & IoT I
+ 
+Selected Topics in Sensors & IoT II
+ 
+Selected Topics in Sensors & IoT III
+ 
+Selected Topics in Signal Processing I
+ 
+Selected Topics in Signal Processing II
+ 
+Selected Topics in Signal Processing III
+ 
+Sensors and IoT Lab
+ 
+Sensors and Measurement
+ 
+Smart Grid
+ 
+Speech and Audio Signal Processing
+ 
+Statistical Decision Theory
+ 
+Systems-on-Chips Design
+ 
+VLSI Design Lab
+ 
+Wavelets
+ 
+Wireless Communication
+ 
+Wireless Networks
+Courses offered by Department of Mechanical Engineering
+ 
+Robotics
+Courses offered by Department of Bioscience and Bioengineering
+
+ 
+Bioinformatics
+ 
+Computational Biology
+Courses offered by Department of Mathematics
+ 
+Financial Engineering
+ 
+Computational finance
+ 
+Computational Game Theory
+ 
+Advanced topics in computational PDE
+ 
+Dynamical Systems
+ 
+Stochastic Processes
+ 
+Representation of Finite Groups
+Courses offered by Department of Physics
+ 
+Quantum Computing
+ 
+Quantum Information Processing
+ 
+Quantum Cryptography and Coding
+Courses offered by IDRP Digital Humanities
+ 
+Digital Humanities
+
+Title Data structures and practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. Type Compulsory
+Prerequisite Computer Programming
+
+Title Artificial Intelligence I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Self Learning Material
+1. Department of Computer Science, University of California, Berkeley,
+2. NPTEL: Artificial Intelligence, https://nptel.ac.in/courses/106105077/
+
+Title Artificial Intelligence II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Artificial Intelligence-1
+
+Title Machine Learning I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning 
+(3 lectures)
+CSL7XX3: Machine Learning I: Computational Learning Theory and Deep Neural 
+Networks 1-0-0[1]
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff, 
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+Textbook
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From 
+Theory to Algorithms, Cambridge University Press
+Reference Books
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Self Learning Material
+1. Department of Computer Science, Stanford University,
+
+Title Machine Learning II Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite Machine Learning-1
+
+Reference Books
+1. Charniak, E. (2019), Introduction to deep learning, The MIT Press.
+Self Learning Material
+
+Title Real Time Autonomous Systems Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for Type Compulsory
+Prerequisite Machine Learning I, Artificial Intelligence I
+
+applications. CRC press.
+1. 
+3. Mhamed Itmi, Alain Cardon(2016), New Autonomous Systems, Wiley-ISTE.
+3. 
+4. De Gyurky, S. M., & Tarbell, M. A. (2013). The Autonomous System: A Foundational
+Synthesis of the Sciences of the Mind. John Wiley & Sons.
+
+Indian Institute of Technology Jodhpur
+Course Booklet
+for
+and
+Dual degree M.Tech. (CSE) + PhD
+Programs
+offered by the
+Department of Computer Science and
+Engineering
+July 2019
+
+M.Tech and M.Tech-Ph.D dual degree programs
+in Computer Science and Engineering
+Traditionally Computer Science and Engineering (CSE) teaching were focusing on two major areas, 
+i.e., theories and systems (database, computer hardware, and operating systems). With the advent 
+of the era of Cloud Computing, Edge Computing, AI and Big Data, the discipline is being 
+transformed by incorporation of new emerging technologies. It is becoming an instrumental tool in 
+solving major problems faced by modern society such as energy, natural disasters, pollution, and 
+water. Through this newly revamped M.Tech and M.Tech-Ph.D dual degree programs in CSE, IIT 
+Jodhpur is making a conscious effort to divulge from the traditional path and planning to reposition 
+itself to become a leading institute in this new genre of Computer Science education.
+This M.Tech and M.Tech-Ph.D dual degree programs in CSE will offer students with deep knowledge 
+of core and applied computer science. Through this programme, a student will learn niche subject 
+areas which are of paramount importance in the modern big data era, such as Computer Systems 
+and Security. This programme is aiming at imparting the necessary breadth and depth to the 
+students for pursuing careers in academics as well as in industry. This programme is aiming at 
+extending undergraduate computing skills with up-to-date and in-depth expertise in specialized 
+areas of Computer Systems and Security.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Understand fundamental concepts and hands-on knowledge of emerging fields in Computer
+2. Conceive, Design and Develop state-of-the-art scalable parallel and distributed systems 
+3. Solve Big data problems through the knowledge of advanced data structures, distributed
+algorithmic design, analysis, and applications.
+4. Design and develop network protocols for Wireless, Sensor, Mobile, and Vehicular networks. 
+5. Ideate, Implement and Integrate cryptographic, fault tolerant algorithms for large scale
+distributed systems
+6. Understand state-of-the-art hardware platforms for running compute intensive distributed
+algorithms
+7. Ability to understand and apply evolving ethics and privacy laws across various domains and
+8. Plan and manage technical projects
+Learning Outcome:
+1. Understand the fundamentals of algorithmic complexity, advanced computer architecture,
+advanced network, and security protocols.
+2. Apply appropriate design principles, framework and protocols to develop dependable
+3. Demonstrate hands-on knowledge of cutting edge simulation, synthesizing, programming
+4. Ability to design and develop system architecture for mobile, cloud, fog, and edge
+5. Demonstrate hands-on knowledge of virtualization, data center design and management,
+and software defined networking.
+6. Skills to comprehend and communicate effectively. 
+7. Apply appropriate project and business management principles and tools for real-world
+
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+I Semester II Semester
+MC MAL7xx0 Statistics I
+Matrix Computation
+Optimization 1-0-0
+1-0-0
+1-0-0 3 MC CSL7xx0 Computer Architecture 3-0-0 3
+MC CSL7xx0 Algorithms for Big
+Data 2-0-0 2 MC CSL7xx0 Software and Data
+Engineering 3-0-0 3
+MC CSL7xx0 Machine Learning I 3-0-0 3 MC CSL7xx0 Security and its applications 3-0-0 3
+MC CSP7xx0 Data Structures and
+Practices 0-0-2 1 ME xxxxx Program Elective 3 3-0-0 3
+ME xxxxx Program Elective 1 3-0-0 3 MO xxxxx Open Elective 1 3-0-0 3
+ME xxxxx Program Elective 2 3-0-0 3 NG xxxxx Innovation and IP
+Management 1-0-0 1
+NG xxxxx Technical
+Communication 1-0-0 1
+Total Credits: 16 Total Credits: 16
+Cat Code Course Title L-T-P Cr Cat Code Course Title L-T-P Cr
+III Semester IV Semester
+MP CSD7xx
+0 Major Project – Part 1 0-0-10 5 MP CSD8x
+x0 Major Project – Part 2 0-0-22 11
+ME xxxxx Program Elective 4 3-0-0 3 ME xxxxx Program Elective 6 3-0-0 3
+ME xxxxx Program Elective 5 3-0-0 3 NG xxxxx Professional Ethics 1-0-0 1
+MO xxxxx Open Elective - 2 3-0-0 3
+NG xxxxx System Engineering
+and Project
+Management 1-0-0 1
+Total Credits: 15 Total Credits: 15
+1 Program Core 18 credits
+2 Program Electives 18 credits
+3 Open Electives 6 credits
+4 Project 16 credits
+5 Non-graded 4 credits
+Total 62 credits
+Course Structure for the
+M.Tech. (CSE) Programand
+Dual Degree M.Tech. (CSE)+Ph.D. Program
+*Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+
+Program Electives for M.Tech. (CSE) and
+Dual Degree M.Tech. (CSE)+Ph.D. Program
+Courses offered by Department of Computer Science and Engineering
+ 
+Advanced Computer Graphics
+ 
+AI for Finance
+ 
+Artificial Intelligence I
+ 
+Artificial Intelligence II
+ 
+Bio-image computing
+ 
+Blockchain
+ 
+Computer Graphics
+ 
+Computer Vision
+ 
+Computational Optimization
+ 
+Data Visualization
+ 
+Dependable AI
+ 
+Digital Image Analysis
+ 
+Edge and Fog Computing
+ 
+Embedded Systems
+ 
+GPU Programming
+ 
+Graph Theory and Applications
+ 
+Human Machine Interface
+ 
+Information Retrieval and Web Mining
+ 
+Introduction to Augmented Reality and Virtual Reality
+ 
+Machine Learning II
+ 
+Machine Learning with Big Data
+ 
+Natural Language Processing
+ 
+Neuromorphic Computing and Design
+ 
+Real time Autonomous Systems
+ 
+Ad hoc Wireless Networks
+ 
+Selected Topics in Artificial Intelligence - I
+ 
+Selected Topics in Artificial Intelligence - II
+ 
+Selected Topics in Artificial Intelligence - III
+ 
+Selected Topics in Computer Science - I
+ 
+Selected Topics in Computer Science - II
+ 
+Selected Topics in Computer Science - III
+ 
+Social Network Analysis
+ 
+Speech processing
+ 
+Stream Analytics
+ 
+Vehicular Ad-hoc Networks (VANETs)
+Courses offered by Department of Electrical Engineering
+ 
+Adaptive Signal Processing
+ 
+Advanced Control System
+ 
+Advanced Digital Communication
+
+ 
+Advanced Signal Processing
+ 
+Analog and Interfacing Circuits
+ 
+Antenna Engineering
+ 
+Applied Optimization for Wireless Communication
+ 
+Backhaul Networks for Wireless Systems
+ 
+Coding Theory
+ 
+Compressive Sensing
+ 
+Computational Imaging
+ 
+Cyber Physical System Modelling Laboratory
+ 
+Data Compression
+ 
+Digital image and Video Processing Lab
+ 
+Digital Image Processing and Applications
+ 
+Digital Signal Processing
+ 
+Digital Video Processing
+ 
+Digital VLSI Design
+ 
+Embedded System Design
+ 
+Embedded System Design Lab
+ 
+Flexible and Printed Electronics
+ 
+Free Space Optical Communications
+ 
+GNSS Signal Processing
+ 
+Image Sensor Design and Applications
+ 
+Introduction to Cyber-Physical Systems
+ 
+Machine Learning for Communication
+ 
+Mathematical Modelling and Simulation
+ 
+Microfluidics Technology
+ 
+Microsystems Fabrication Technology
+ 
+Millimeter Wave Technology
+ 
+Multi-rate Digital Signal Processing
+ 
+Nanosensors
+ 
+Network Information Theory
+ 
+Neuromorphic computing and design
+ 
+Optical Fiber Communications
+ 
+Optimal Filtering
+ 
+Physical Layer Security
+ 
+Principles of Data and System Security
+ 
+Real Time Communications
+ 
+Resource Constrained AI
+ 
+RF IC Design
+ 
+RF IC Design Lab
+ 
+Selected Topics in Communication I
+ 
+Selected Topics in Communication I
+ 
+Selected Topics in Communication II
+ 
+Selected Topics in Communication III
+ 
+Selected Topics in Sensors & IoT I
+ 
+Selected Topics in Sensors & IoT II
+ 
+Selected Topics in Sensors & IoT III
+ 
+Selected Topics in Signal Processing I
+ 
+Selected Topics in Signal Processing II
+ 
+Selected Topics in Signal Processing III
+ 
+Sensors and IoT Lab
+
+ 
+Sensors and Measurement
+ 
+Smart Grid
+ 
+Speech and Audio Signal Processing
+ 
+Statistical Decision Theory
+ 
+Systems-on-Chips Design
+ 
+VLSI Design Lab
+ 
+Wavelets
+ 
+Wireless Communication
+ 
+Wireless Networks
+Courses offered by Department of Mechanical Engineering
+ 
+Robotics
+Courses offered by Department of Bioscience and Bioengineering
+ 
+Bioinformatics
+ 
+Computational Biology
+Courses offered by Department of Mathematics
+ 
+Financial Engineering
+ 
+Computational finance
+ 
+Computational Game Theory
+ 
+Advanced topics in computational PDE
+ 
+Dynamical Systems
+ 
+Stochastic Processes
+ 
+Representation of Finite Groups
+Courses offered by Department of Physics
+ 
+Quantum Computing
+ 
+Quantum Information Processing
+ 
+Quantum Cryptography and Coding
+Courses offered by IDRP Digital Humanities
+ 
+Digital Humanities
+
+Title Algorithms for Big Data Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Title Data structures and practices Number CSP7XX0
+Department Computer Science and Engineering L-T-P [C] 0–0–2 [1]
+Offered for M.Tech. (CSE) 1st Year Type Compulsory
+Prerequisite Computer Programming
+
+Title Software and Data Engineering Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Compulsory
+
+Self Learning Material
+1. Tylor,R.N., Medvidovic,N. and Dashofy,E.M., (2014), Software Architecture Foundation: 
+Theory and Practice, Wiley
+Preparatory Course Material
+1. IEEE Transactions on Knowledge and Data Engineering
+2. International Conference on Data Engineering
+
+Title Computer Architecture Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Compulsory
+Prerequisite Computer Organization
+
+Textbook
+1. 1. Hennessy,J.L. and Patterson,D.A., (2012), Computer Architecture: A Quantitative
+Approach, 5th Edition, Morgan Kauffmann Publishers
+2. 2. Shen,J.P. and Lipasti,M.H., (2005), Modern Processor Design: Fundamentals of Superscalar
+Processors, McGraw-Hill Publishers
+Self-Learning Material
+Preparatory Course Material
+1. Department of Computer Science and Engineering, Indian Institute of Technology Madras, 
+https://nptel.ac.in/courses/106106134/
+
+Title Machine Learning-1 Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Compulsory
+Prerequisite None
+
+Latent variables and Expectation-maximization algorithm, Bayesian learning (5 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning 
+(3 lectures)
+CSL7XX3: Introduction to Machine Learning: Computational Learning Theory and 
+Deep Learning 1-0-0[1]
+Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff, 
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures)
+Foundations of Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+Textbook
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From 
+Theory to Algorithms, Cambridge University Press
+Reference Books
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Self Learning Material
+1. Department of Computer Science, Stanford University,
+
+Title Security and Its Application Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Networks
+
+Blockchains, Components of blockchain (10 lectures) 
+Laboratory Experiments
+Programming exercises using Exata and AVISPA Tools
+Textbook
+1.Stallings, W. (2017). Cryptography and network security, 7/E. Pearson Education India
+2. Douglas R. Stinson, Maura B. Paterson (2018). Cryptography: theory and practice. 4/E 
+Chapman and Hall/CRC
+Reference Books
+1. Mao, W. (2004). Modern cryptography: theory and practice. Pearson Education India
+2. Pfleeger, C. P., & Pfleeger, S. L. (2018). Security in computing. 5/E, Prentice Hall 
+Professional Technical Reference
+3. Goldreich, O. (2009). Foundations of cryptography: volume 2, basic applications. Cambridge 
+university press
+4. Forouzan, B. A. (2015). Cryptography & network security. 3/E, McGraw-Hill, Inc.
+Self Learning Material 
+ 
+1. Network and Computer Security - MIT OpenCourseWare 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-
+computer-security-spring-2014/ 
+ 
+2. Cryptography I, Coursera, Stanford University, https://www.coursera.org/learn/crypto
+
+Course Contents for the new Elective courses
+offered by the
+Department of Computer Science and Engineering
+ 
+Stream Analytics
+ 
+Machine Learning with Big Data
+ 
+Algorithms for Big Data
+ 
+Computer Vision
+ 
+Digital Image Analysis
+ 
+Edge and Fog Computing
+ 
+Natural Language Processing
+ 
+GPU Programming
+ 
+Data Visualization
+ 
+Introduction to Augmented Reality and Virtual Reality
+ 
+Advanced Computer Graphics
+ 
+Embedded Systems
+ 
+Bio-image computing
+ 
+Neuromorphic Computing and Design
+ 
+Dependable AI
+ 
+Resource Constrained AI
+ 
+Ad hoc Wireless Networks
+ 
+Vehicular Ad-hoc Networks (VANETs)
+ 
+Selected Topics in Computer Science - I
+ 
+Selected Topics in Computer Science - II
+ 
+Selected Topics in Computer Science - III
+ 
+Selected Topics in Artificial Intelligence - I
+ 
+Selected Topics in Artificial Intelligence - II
+ 
+Selected Topics in Artificial Intelligence - III
+ 
+Graph Theory and Applications
+ 
+Social Network Analysis
+ 
+Blockchain
+ 
+Computational Optimization
+
+Title Stream Analytics Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. 3rd and 4th Year, M.Tech. 1st and 2nd Year Type Elective
+Prerequisite Machine Learning-1
+
+Self Learning Material
+
+Title Machine Learning with Big Data Number CSL8XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. 4th Year, M.Tech. 2nd Year, Ph.D. 2nd Year Type Elective
+Prerequisite Artificial Intelligence-1 and Machine Learning-1
+
+Textbook
+1.Leskovec,J., Rajaraman,A., Ullman,J., (2014), Mining of Massive Datasets, 2nd Edition, 
+Cambridge University Press
+2. Bekkerman,R., Bilenko,M., Langford,J., (2011), Scaling Up Machine Learning, Cambridge 
+University Press
+Reference Books
+1. Research literature
+Self Learning Material
+1. Department of Machine Learning, Carnegie Mellon University,
+Machine Learning with Large Datasets Course
+2. Department of Computer Science, University of California, Berkeley,
+Scalable Machine Learning
+3. ETH Zurich, Data Mining: Machine Learning from Large Datasets
+
+Title Computer Vision Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech. 4th Year, M.Tech. 1st and 2nd Year, Ph.D. 2nd
+Year Type Elective
+
+Title Digital Image Analysis Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite None
+
+Textbook
+1. Gonzalez and Woods, Digital Image Processing, Prentice-Hall.
+2. Fundamentals of Digital Image Processing by Anil K. Jain.
+Self-Learning Material
+NPTEL: Digital Image Processing
+
+Title Edge & Fog Computing Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., Ph.D Type Elective
+
+applications/services to enable users to interact with gateways and end points (14 lectures)
+Textbook
+1. Buyya R, Srirama S. N., (2019), Fog and Edge Computing: Principles and Paradigms, 1st
+edition, Wiley
+Self Learning Material
+1. Cao J.,, Zhang Q, Shi W., (2018), Edge Computing: A Primer, Springer
+Preparatory Course Material
+1. Edge Computing (EDGE) Conference Series, Springer
+
+Title Natural Language Processing Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Elective
+
+Natural Language Processing, Wiley-Blackwell
+Preparatory Course Material
+1. Natural Language Processing with Python, Steven Bird, Ewan Klein and Edward Loper, 
+O’Reilly,http://www.nltk.org/book/
+2. 
+ 
+Natural 
+Language 
+Pocessing, 
+NPTEL
+
+Title GPU Programming Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Elective
+
+1. 1. Kirk,D. and Hwu,W., (2010), Programming Massively Parallel Processors: A Hands-on
+Approach, Hwu; Morgan Kaufman
+Self-Learning Material
+1. Cook,S., (2012), CUDA Programming: A Developer's Guide to Parallel Computing with 
+GPUs, Morgan Kaufman
+Preparatory Course Material
+1. Introduction to Parallel Programming, 
+https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqH
+Txfdv2&index=1
+
+Title Data Visualization Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 2nd Year Type Elective
+
+1. Wilke,C.O., (2019), Fundamentals of Data Visualization: A Primer on Making Informative 
+and Compelling Figures, O’Reilly Media
+2. Ware,C. and Kaufman,M., (2008), Visual thinking for design. Burlington: Morgan
+Kaufmann Publishers
+3. Wong,D., (2011), The Wall Street Journal guide to information graphics: The dos and
+don’ts of presenting data, facts and figures, New York: W.W. Norton & Company
+Preparatory Course Material
+1. Data Visualization Course, https://curran.github.io/dataviz-course-2018/
+
+Title Introduction to Augmented Reality and Virtual
+Reality Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Reference Books
+1. Jerald,J., (2015), The VR Book: Human-Centered Design for Virtual Reality, Morgan & 
+Claypool
+2. Mather,G., (2009), Foundations of Sensation and Perception, 2nd Edition, Psychology Press
+3. Shirley,P., Ashikhmin,M., Marschner,S. and Peters,A.K., Fundamentals of Computer 
+Graphics, 3rd Edition, CRC Press
+4. Bowman,D.A., Kruijff,E., LaViola,J.J. and Poupyrev,I., (2014), 3D User Interfaces: Theory 
+and Practice, 2nd Edition, Addison Wesley Professional
+Self Learning Material
+1. Steven M. LaValle, Video Lectures, 
+https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh
+
+Title Advanced Computer Graphics Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+
+Reference Books
+1. Mukundan,R., (2012), Advanced Methods in Computer Graphics: With Examples in OpenGL, 
+Springer
+2. Ruben H., (2017), Computer Graphics: Principles and Practice, Larsen and Keller
+Education
+Self Learning Material
+1. Computer Graphics, NPTEL Video Lectures, https://nptel.ac.in/courses/106106090/
+
+Title Embedded Systems Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Computer Organization andArchitecture
+
+Title Bio-image Computing Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+Prerequisite Computer Programming, Basics in linear algebra,
+probability and statistics
+
+Analysis of motion:Tracking of cells, tissues, organisms, and particles(2 lectures)
+Interactive image analysis:Human in loop, image interpretation (2 lectures)
+Laboratory Experiments
+Ultrasound image enhancement, tumor segmentation in BraTS dataset, registration of MRI 
+images etc.
+Textbook
+1. Wu, G., (2016), Machine Learning and Medical Imaging, Elsevier.
+2. Epstein, C.L., (2003), Mathematics of Medical Imaging,Prentice Hall.
+3. Bankman, I., (2009), Handbook of Medical Image Processing and Analysis,2nd Edition,
+Academic Press.
+PreparatoryCourse Material
+1. Bishop, C., (2006), Pattern Recognition and Machine Learning,Springer.
+
+Title Neuromorphic Computing and Design Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Title Dependable AI Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech 4th Year and M.Tech., PhD Type Elective
+Prerequisite Machine Learning, Artificial Intelligence
+
+PreparatoryCourse Material
+1. Proceedings of IJCAI: Workshop on Explainable Artificial Intelligence (XAI).
+
+Title Resource Constrained AI Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for B.Tech 4th Year and M.Tech., PhD Type Elective
+Prerequisite Machine Learning
+
+Title Ad-Hoc Wireless Networks Number CSL7XX0
+Department Computer Science and Engineering L-T-P[C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, PhD 1st Year Type
+Prerequisite Networks
+
+QoS for ad hoc Networks:Quality of service in Ad hoc Wireless Networks: Introduction, Issues and 
+challenges in providing QoS in Ad hoc Wireless Networks, Classification of QoS solutions, MAC layer 
+solutions, network layer solutions (3 lectures)
+Advanced Topics: Software-defined network (SDN), Mesh networking, Energy issues and
+Sensor networks (6 lectures)
+Laboratory Experiments Programming exercises using NS2/NS3, QualNet, Java and 
+OmNet++
+Textbook
+1.Siva Ram Murthy, C., & Manoj, B. S. (2015). Ad hoc wireless networks: Architectures and protocols. PHI
+Pearson Education
+2. Akyildiz, Ian F., and Xudong Wang(2015). Wireless mesh networks. Vol. 3. John Wiley & Sons
+Reference Books
+1. Basagni, S., Conti, M., Giordano, S., & Stojmenovic, I. (Eds.). (2015). Mobile ad hoc 
+networking. John Wiley & Sons
+2. Perkins, C. E. (2001). Ad hoc networking (Vol. 1). Reading: Addison-wesley
+3. Toh, C. K. (2001). Ad hoc mobile wireless networks: protocols and systems. Pearson Education
+4. Cheng, X., Huang, X., & Du, D. Z. (Eds.). (2013). Ad hoc wireless networking (Vol. 14). Springer Science 
+& Business Media
+Self Learning Material
+1. 1. Computer Networks - MIT OpenCourseWare 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-
+networks-fall-2002/lecture-notes/ 
+2. Mobile and Wireless Networks and Applications, Stanford University, 
+https://web.stanford.edu/class/cs444n/
+
+Title Vehicular Ad-Hoc Networks(VANETs) Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Network
+
+Standards and Regulations: Regulations and Standards, DSRC Protocol Stack, Cellular V2X (6 
+lectures)
+Laboratory Experiments
+Programming exercises using NS3, QualNet and Java
+Textbook
+1.Olariu, S., & Weigle, M. C. (2017). Vehicular networks: from theory to practice. Chapman 
+and Hall/CRC
+2. Murthy, C. S. R. (2006). Ad hoc wireless networks: Architectures and protocols. Pearson 
+Education India
+Reference Books
+1. Emmelmann, M., Bochow, B., & Kellum, C. (Eds.). (2010). Vehicular networking: Automotive
+applications and beyond (Vol. 2). John Wiley & Sons
+2. Claudia Campolo , Antonella Molinaro, Riccardo Scopigno(2015). Vehicular ad hoc 
+Networks, Springer
+3. Hartenstein, H., & Laberteaux, K. (2010). VANET: vehicular applications and inter-
+networking technologies (Vol. 1). Chichester: Wiley
+4. Sommer, C., & Dressler, F. (2015). Vehicular networking. Cambridge University 
+Press
+5. Moustafa, H., & Zhang, Y. (2009). Vehicular networks: techniques, standards, and 
+applications. Auerbach publications
+Self Learning Material
+1. Center for Autonomous Intelligent Networks and Systems (CAINS), University of California, 
+Los Angeles (UCLA),http://www.cains.cs.ucla.edu/
+
+Title Selected Topics in Computer Science - I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+
+Title Selected Topics in Computer Science - II Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+
+Title Selected Topics in Computer Science - III Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+
+Title Selected Topics in Artificial Intelligence - I Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 1–0–0 [1]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+
+Title Selected Topics in Artificial Intelligence - II Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 2–0–0 [2]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+
+Title Selected Topics in Artificial Intelligence - III Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech., PhD Type Elective
+Prerequisite Decided by the instructor
+
+Title Graph Theory and Applications Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Elective
+Prerequisite None
+
+Textbook
+1.West,D.B., (2002), Introduction to Graph Theory, 2nd Edition, Prentice Hall of India
+2.Deo,N., (2003), Graph Theory: With Application to Engineering and Computer Science, 
+Prentice Hall of India
+Reference Books
+1. Research literature
+Self Learning Material
+1. NPTEL: Graph Theory (for CSE), https://nptel.ac.in/courses/106108054/39
+2. NPTEL: Graph Theory (for Mathematics), https://nptel.ac.in/courses/111106050/
+
+Title Social Network Analysis Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. 1st Year, Ph.D. 1st Year Type Elective
+Prerequisite None
+
+Working with Temporal Network Data (2)
+Connected Caveman Problem, Link Analysis and Web Search (2 Lectures)
+Implementing PageRank algorithm in Python+NetworkX (1)
+Network Data Science State-of-the-art (2 Lectures)
+Textbook
+1. Networks, Crowds, and Markets: Reasoning About a Highly Connected World, by
+David Easley and Jon Kleinberg, (Cambridge University Press - Sep 2010) -- Pre-
+publication draft available online.
+2. Network Science, by Albert-Laszlo Barabasi, (Cambridge University Press - August
+2016) -- freely available under the Creative Commons licence.
+3. Networks, by Mark Newman, (Oxford University Press, 2nd-edition - Sep 2018)
+Reference Books
+1. Complex and Adaptive Dynamical Systems, by Claudius Gros, (Springer, 4th Edition - 2015).
+2. The Structure of Complex Networks Theory and Applications, by Ernesto Estrada, (Oxford
+University Press - Dec 2011).
+3. Exploratory Social Network Analysis with Pajek, by Wouter de Nooy, Andrej Mrvar, and Vladimir
+Batagelj, (Cambridge University Press, 3rd Edition - July 2018)
+Self Learning Material
+
+Title Blockchain Number CSL8XX0
+Department Computer Science and
+Engineering L-T-P [C] 3–0–0 [3]
+Offered for M.Tech. Type Elective
+Prerequisite Security
+
+Self Learning Material
+1. Swan, M. (2015). Blockchain: Blueprint for a new economy. " O'Reilly Media, Inc.".
+2. Wattenhofer, Roger. The science of the blockchain. CreateSpace Independent Publishing Platform, 2016.
+3. Bashir, I. (2017). Mastering blockchain. Packt Publishing Ltd.
+4. Levy, K. E. (2017). Book-smart, not street-smart: blockchain-based smart contracts and the social workings 
+of law. Engaging Science, Technology, and Society, 3, 1-15.
+PreparatoryCourse Material
+1. MIT Online Blockchain Course, Learn Blockchain Technology, https://getsmarter.mit.edu/
+
+Title Computational Optimization Number CSL7XX0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Algorithms for TSP, Adaptation to Continuous Problems, Applications (5 lectures)
+Particle Swarm Optimization: Canonical PSO Algorithm, Important Parameters, Neighborhood 
+Topologies (3 lectures)
+Textbook
+1.Michalewicz,Z. and Fogel,D.B., (2004), How to Solve it: Modern Heuristics, 2nd Edition,
+Springer
+2.Simon, D., (2013), Evolutionary Optimization Algorithms, Wiley
+3.Yang,X.S., (2014), Nature-inspired Metaheuristic Algorithms, Luniver Press
+Reference Books
+1. Rao, S.S., (2013), Engineering Optimization: Theory and Practice, 3rd Edition, New Age
+International Publishers
+Self Learning Material
+1. NPTEL: Traditional and Non-traditional Optimization Tools
+
+Title Computer Graphics Number CSL7xx0
+Department Computer Science and Engineering L-T-P [C] 3–0–0 [3]
+Offered for Type Elective
+
+Textbook
+1. J. D. Foley, A. Van Dam, S. K. Feiner and J. F. Hughes, Computer Graphics; Principles and
+practice, Addison Wesley, 2nd Edition in C, 1997.
+2. D. F. Rogers and J. A. Adams, Mathematical elements for Computer Graphics, McGraw-Hill,
+Self-Learning Material
+PreparatoryCourse Material
+1.Department of Computer Science and Engineering, Indian Institute of Technology Madras,
