@@ -9,11 +9,8 @@ Implementation and comparison of three recurrent neural architectures for Indian
 ```
 Q2/
 ├── char_rnn_names.py        # Main script — all models, training, evaluation, plots
-├── HYPERPARAMETER_SEARCH.py # TPE-based hyperparameter search
-├── name.py                  # Standalone name generation utility
 ├── TrainingName.txt         # 1000 Indian names (training dataset)
 ├── best_configs.json        # Best hyperparameters found by search
-├── report.md                # Full assignment report
 ├── terminal.log             # Training output log
 │
 ├── models/                  # Saved model weights (generated after training)
@@ -66,24 +63,8 @@ This will:
 
 ---
 
-### 2. Hyperparameter search
 
-```bash
-python HYPERPARAMETER_SEARCH.py
-```
-
-Runs TPE-based search over hidden size, learning rate, and embedding dim.
-Best configs are saved to `best_configs.json`.
-
----
-
-### 3. Generate names from a saved model
-
-```bash
-python name.py
-```
-
-Or load a saved model manually in Python:
+Generate Name:
 
 ```python
 import pickle
