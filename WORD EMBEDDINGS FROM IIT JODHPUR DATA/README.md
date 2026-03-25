@@ -195,7 +195,6 @@ WORD EMBEDDINGS FROM IIT JODHPUR DATA/
 │   ├── models/
 │   ├── figures/
 │   └── output/
-├── report.tex
 ├── requirements.txt
 └── README.md
 ```
