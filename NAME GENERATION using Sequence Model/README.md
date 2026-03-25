@@ -40,7 +40,7 @@ NAME GENERATION using Sequence Model
 pip install numpy matplotlib
 ```
 
-No deep learning framework required — all models are implemented using NumPy only.
+No deep learning framework required  -  all models are implemented using NumPy only.
 
 ---
 
