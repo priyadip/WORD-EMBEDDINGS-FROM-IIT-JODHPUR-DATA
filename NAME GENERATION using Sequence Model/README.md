@@ -7,7 +7,8 @@ Implementation and comparison of three recurrent neural architectures for Indian
 ## File Structure
 
 ```
-Q2/
+NAME GENERATION using Sequence Model
+/
 ├── char_rnn_names.py        # Main script — all models, training, evaluation, plots
 ├── TrainingName.txt         # 1000 Indian names (training dataset)
 ├── best_configs.json        # Best hyperparameters found by search
