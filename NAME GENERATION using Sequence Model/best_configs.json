@@ -1,0 +1,41 @@
+{
+  "VanillaRNN": {
+    "val_loss": 1.5636331290253895,
+    "config": {
+      "lr_scheduler": "reduce_plateau",
+      "learning_rate": 0.005,
+      "batch_size": 16,
+      "samples_per_epoch": 500,
+      "hidden_size": 128,
+      "embed_dim": 8,
+      "reduce_lr_patience": 3,
+      "reduce_lr_factor": 0.3
+    }
+  },
+  "BLSTM": {
+    "val_loss": 1.5637507611649613,
+    "config": {
+      "lr_scheduler": "step_decay",
+      "learning_rate": 0.01,
+      "batch_size": 4,
+      "samples_per_epoch": 300,
+      "hidden_size": 128,
+      "embed_dim": 32,
+      "reduce_lr_patience": 4,
+      "reduce_lr_factor": 0.3
+    }
+  },
+  "RNN+Attention": {
+    "val_loss": 1.4958567890548506,
+    "config": {
+      "lr_scheduler": "warmup_cosine",
+      "learning_rate": 0.008,
+      "batch_size": 4,
+      "samples_per_epoch": 500,
+      "hidden_size": 64,
+      "embed_dim": 32,
+      "reduce_lr_patience": 6,
+      "reduce_lr_factor": 0.7
+    }
+  }
+}

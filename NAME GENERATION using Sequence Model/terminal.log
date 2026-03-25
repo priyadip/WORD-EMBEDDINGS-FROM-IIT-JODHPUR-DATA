@@ -1,0 +1,632 @@
+PS D:\SEM2\NLU\Ass2\Q2> python char_rnn_names.py
+DATASET
+Loaded 1000 training names.
+Sample names: ['aahana chanda', 'aaradhya haldar', 'aarohi mitra', 'aasha paul', 'abha saha']
+Vocabulary size: 30
+Characters: [' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Max sequence length: 29
+ MODEL IMPLEMENTATION
+Train: 800 names | Val: 200 names
+
+--- Model 1: Vanilla RNN ---
+Architecture: Input(30) -> RNN x3(hidden=128, tanh) -> Linear -> Softmax
+Hidden Size: 128
+Layers: 3
+Learning Rate: 0.005
+Trainable Parameters: 91,230
+
+--- Model 2: Bidirectional LSTM ---
+Architecture: Input(30) -> BiLSTM x3(hidden=128x2) -> Linear -> Softmax
+  + 3-layer Forward-only LSTM generator for inference
+Hidden Size: 128 per direction (256 combined)
+Layers: 3 bidirectional + 3 unidirectional generator
+Learning Rate: 0.005
+Trainable Parameters: 1,049,340
+
+--- Model 3: RNN with Attention ---
+Architecture: Input(30) -> RNN x3(hidden=128) -> Self-Attention -> Linear -> Softmax
+  Attention: Additive (Bahdanau) over top-layer hidden states
+Hidden Size: 128
+Layers: 3 + attention layer
+Learning Rate: 0.005
+Trainable Parameters: 127,966
+TRAINING ALL MODELS
+
+______________________________________________________________________
+Training: Vanilla RNN
+______________________________________________________________________
+Trainable Parameters: 91,230
+  Epoch   1/200 | Loss: 2.8599 | Val: 2.6538 | LR: 0.005000 | Sample: 'anaima  ansrini'
+  Epoch   3/200 | Loss: 2.1704 | Val: 2.2268 | LR: 0.005000 | Sample: 'sajalh sathab'
+  Epoch   6/200 | Loss: 1.8896 | Val: 2.0031 | LR: 0.005000 | Sample: 'swanish pauthari'
+  Epoch   9/200 | Loss: 1.6424 | Val: 1.8680 | LR: 0.005000 | Sample: 'somidi ghik'
+  Epoch  12/200 | Loss: 1.4767 | Val: 1.7743 | LR: 0.005000 | Sample: 'ashee saha'
+  Epoch  15/200 | Loss: 1.3690 | Val: 1.7452 | LR: 0.005000 | Sample: 'bayeya gupta'
+  Epoch  18/200 | Loss: 1.3401 | Val: 1.7688 | LR: 0.005000 | Sample: 'dhipya haldar'
+  [ReduceLR] LR → 0.001500
+  Epoch  21/200 | Loss: 1.1386 | Val: 1.6463 | LR: 0.001500 | Sample: 'alti haldar'
+  [ReduceLR] LR → 0.000450
+  Epoch  24/200 | Loss: 1.0107 | Val: 1.6488 | LR: 0.000450 | Sample: 'anishu chauhan'
+  Epoch  27/200 | Loss: 0.9339 | Val: 1.6351 | LR: 0.000450 | Sample: 'lipan mishra'
+  [ReduceLR] LR → 0.000135
+  Epoch  30/200 | Loss: 0.9293 | Val: 1.6236 | LR: 0.000135 | Sample: 'rata mout'
+  [ReduceLR] LR → 0.000041
+  Epoch  33/200 | Loss: 0.9032 | Val: 1.6283 | LR: 0.000041 | Sample: 'shaktina bhattacharya'
+  [ReduceLR] LR → 0.000012
+  Epoch  36/200 | Loss: 0.9064 | Val: 1.6759 | LR: 0.000012 | Sample: 'shrita goswami'
+  [ReduceLR] LR → 0.000010
+  Epoch  39/200 | Loss: 0.8980 | Val: 1.6536 | LR: 0.000010 | Sample: 'manjan landey'
+  Epoch  42/200 | Loss: 0.9133 | Val: 1.6424 | LR: 0.000010 | Sample: 'deepa chanda'
+  Epoch  45/200 | Loss: 0.9089 | Val: 1.6481 | LR: 0.000010 | Sample: 'lalaya maity'
+  Epoch  48/200 | Loss: 0.9058 | Val: 1.6763 | LR: 0.000010 | Sample: 'sakhi desai'
+  Epoch  51/200 | Loss: 0.9099 | Val: 1.6391 | LR: 0.000010 | Sample: 'ganita mehta'
+  Epoch  54/200 | Loss: 0.8891 | Val: 1.6338 | LR: 0.000010 | Sample: 'swarani semanka'
+  Epoch  57/200 | Loss: 0.9040 | Val: 1.6363 | LR: 0.000010 | Sample: 'kanyulaka bose'
+  Epoch  60/200 | Loss: 0.8937 | Val: 1.5979 | LR: 0.000010 | Sample: 'mandatam swamy'
+  Epoch  63/200 | Loss: 0.8974 | Val: 1.6238 | LR: 0.000010 | Sample: 'biswan bisha'
+  Epoch  66/200 | Loss: 0.8858 | Val: 1.6416 | LR: 0.000010 | Sample: 'sebaranish sekhon'
+  Epoch  69/200 | Loss: 0.8917 | Val: 1.6564 | LR: 0.000010 | Sample: 'mandi dwivedi'
+  Epoch  72/200 | Loss: 0.9002 | Val: 1.6540 | LR: 0.000010 | Sample: 'dhanish khan'
+  Epoch  75/200 | Loss: 0.9003 | Val: 1.6792 | LR: 0.000010 | Sample: 'nahjali halder'
+  Epoch  78/200 | Loss: 0.8801 | Val: 1.6376 | LR: 0.000010 | Sample: 'raka sengupta'
+  Epoch  81/200 | Loss: 0.8837 | Val: 1.6592 | LR: 0.000010 | Sample: 'charani mukterjee'
+  Epoch  84/200 | Loss: 0.8959 | Val: 1.6524 | LR: 0.000010 | Sample: 'udar atak'
+  Epoch  87/200 | Loss: 0.9009 | Val: 1.6750 | LR: 0.000010 | Sample: 'subhajit samanta'
+  Epoch  90/200 | Loss: 0.8871 | Val: 1.6414 | LR: 0.000010 | Sample: 'khaliga chatterjee'
+  Early stopping at epoch 90 (patience=30)
+
+______________________________________________________________________
+Training: Bidirectional LSTM
+______________________________________________________________________
+Trainable Parameters: 1,049,340
+  Epoch   1/200 | Loss: 2.8507 | Val: 2.8045 | LR: 0.005000 | Sample: 'ridaas g sika'
+  Epoch   3/200 | Loss: 1.7412 | Val: 2.6000 | LR: 0.005000 | Sample: 'lilm yakkep'
+  Epoch   6/200 | Loss: 1.0840 | Val: 2.1617 | LR: 0.005000 | Sample: 'senula bhasha'
+  Epoch   9/200 | Loss: 0.9262 | Val: 1.9483 | LR: 0.005000 | Sample: 'pirishee sandar'
+  Epoch  12/200 | Loss: 0.8160 | Val: 1.7485 | LR: 0.005000 | Sample: 'madata bhatte'
+  Epoch  15/200 | Loss: 0.6868 | Val: 1.6853 | LR: 0.005000 | Sample: 'landara soida'
+  Epoch  18/200 | Loss: 0.6399 | Val: 1.6417 | LR: 0.005000 | Sample: 'srmani ganguly'
+  Epoch  21/200 | Loss: 0.5536 | Val: 1.6247 | LR: 0.005000 | Sample: 'manati reddy'
+  [ReduceLR] LR → 0.001500
+  Epoch  24/200 | Loss: 0.4722 | Val: 1.6533 | LR: 0.001500 | Sample: 'amanjit sarkar'
+  [ReduceLR] LR → 0.000450
+  Epoch  27/200 | Loss: 0.4341 | Val: 1.6746 | LR: 0.000450 | Sample: 'sarbani ghosh'
+  [ReduceLR] LR → 0.000135
+  Epoch  30/200 | Loss: 0.4294 | Val: 1.7403 | LR: 0.000135 | Sample: 'suman saha'
+  [ReduceLR] LR → 0.000041
+  Epoch  33/200 | Loss: 0.4154 | Val: 1.6561 | LR: 0.000041 | Sample: 'garbinda sen'
+  [ReduceLR] LR → 0.000012
+  Epoch  36/200 | Loss: 0.4212 | Val: 1.6738 | LR: 0.000012 | Sample: 'ruhesh chakraborty'
+  [ReduceLR] LR → 0.000010
+  Epoch  39/200 | Loss: 0.4150 | Val: 1.7443 | LR: 0.000010 | Sample: 'sarbani majumdar'
+  Epoch  42/200 | Loss: 0.4134 | Val: 1.7451 | LR: 0.000010 | Sample: 'bratistha pal'
+  Epoch  45/200 | Loss: 0.4133 | Val: 1.7091 | LR: 0.000010 | Sample: 'suhbarita paul'
+  Epoch  48/200 | Loss: 0.4109 | Val: 1.7178 | LR: 0.000010 | Sample: 'moni datta'
+  Early stopping at epoch 49 (patience=30)
+
+______________________________________________________________________
+Training: RNN with Attention
+______________________________________________________________________
+Trainable Parameters: 127,966
+  Epoch   1/200 | Loss: 2.8479 | Val: 2.6062 | LR: 0.005000 | Sample: 'dash raeh'
+  Epoch   3/200 | Loss: 2.1976 | Val: 2.2681 | LR: 0.005000 | Sample: 'selinda chadna'
+  Epoch   6/200 | Loss: 1.8971 | Val: 1.9833 | LR: 0.005000 | Sample: 'rakandeep panduq'
+  Epoch   9/200 | Loss: 1.6999 | Val: 1.8900 | LR: 0.005000 | Sample: 'rabar dharadi'
+  Epoch  12/200 | Loss: 1.5372 | Val: 1.7682 | LR: 0.005000 | Sample: 'jali marto'
+  Epoch  15/200 | Loss: 1.4409 | Val: 1.7242 | LR: 0.005000 | Sample: 'harukha paul'
+  [ReduceLR] LR → 0.001500
+  Epoch  18/200 | Loss: 1.2015 | Val: 1.6682 | LR: 0.001500 | Sample: 'goura marog'
+  [ReduceLR] LR → 0.000450
+  Epoch  21/200 | Loss: 1.0641 | Val: 1.6497 | LR: 0.000450 | Sample: 'rajak halder'
+  Epoch  24/200 | Loss: 1.0242 | Val: 1.6286 | LR: 0.000450 | Sample: 'anush srivastava'
+  [ReduceLR] LR → 0.000135
+  Epoch  27/200 | Loss: 0.9919 | Val: 1.6468 | LR: 0.000135 | Sample: 'puonashya chatterjee'
+  [ReduceLR] LR → 0.000041
+  Epoch  30/200 | Loss: 0.9842 | Val: 1.6281 | LR: 0.000041 | Sample: 'sayalika bhowmik'
+  [ReduceLR] LR → 0.000012
+  Epoch  33/200 | Loss: 0.9762 | Val: 1.6230 | LR: 0.000012 | Sample: 'sundana phadla'
+  [ReduceLR] LR → 0.000010
+  Epoch  36/200 | Loss: 0.9558 | Val: 1.6664 | LR: 0.000010 | Sample: 'arumpa ghosh'
+  Epoch  39/200 | Loss: 0.9648 | Val: 1.6341 | LR: 0.000010 | Sample: 'ankika pal'
+  Epoch  42/200 | Loss: 0.9646 | Val: 1.6171 | LR: 0.000010 | Sample: 'valanan sengupta'
+  Epoch  45/200 | Loss: 0.9623 | Val: 1.6503 | LR: 0.000010 | Sample: 'sulyatha dey'
+  Epoch  48/200 | Loss: 0.9627 | Val: 1.6202 | LR: 0.000010 | Sample: 'vesmit sanyal'
+  Epoch  51/200 | Loss: 0.9684 | Val: 1.6495 | LR: 0.000010 | Sample: 'sharadha menon'
+  Early stopping at epoch 53 (patience=30)
+EVALUATION
+
+Generating 200 names from each model...
+
+Model                Generated    Novelty %    Diversity % 
+--------------------------------------------------------
+Vanilla RNN          200          97.0         100.0
+BLSTM                200          89.5         98.5
+RNN+Attention        200          96.0         100.0
+QUALITATIVE ANALYSIS
+
+--- Vanilla RNN ---
+Representative samples (first 20):
+   1. isha lahiri
+   2. sarman bhattacharjee
+   3. ishashree samanta
+   4. manisa kundu
+   5. anmatha bhowmik
+   6. bhumika biswas
+   7. avijit moshi
+   8. sulena achary
+   9. kirban bhattacharya
+  10. subhamita chatterjee
+  11. smith joshi
+  12. rajita bhattacharjee
+  13. vinaya sarkar
+  14. rajini erivedi
+  15. binagan medha
+  16. matha tripathi
+  17. sudipta menon
+  18. kouri chauhan
+  19. ashi saxena
+  20. aviradh swamy
+
+--- BLSTM ---
+Representative samples (first 20):
+   1. amita chakrabarti
+   2. narshkee samanta
+   3. avishi gupta
+   4. sudhin halder
+   5. shamika srivastava
+   6. preeti chakraborty
+   7. debasila mandal
+   8. sukamal mandal
+   9. viti dalal
+  10. binya sengupta
+  11. levni kundu
+  12. shubha haldar
+  13. gunjot alan
+  14. deboleena bhattacharjee
+  15. konila bose
+  16. baisakhi desai
+  17. surabhini iyer
+  18. litha gupta
+  19. sudhita chakrabarti
+  20. kanash haldar
+
+--- RNN+Attention ---
+Representative samples (first 20):
+   1. rayupa bhattacharjee
+   2. gurjosta mishra
+   3. sukrit kameota
+   4. shanmani koley
+   5. umbal mendal
+   6. rajinder kang
+   7. amanjala halder
+   8. lipin sindu
+   9. simramita chatterjee
+  10. shubhamita sarkar
+  11. akhram singh
+  12. shaztika mondal
+  13. bhuma das
+  14. parbeeta rodti
+  15. mritani das
+  16. karja sanyal
+  17. kaishik shal
+  18. dhiukah kipra
+  19. malman malhotra
+  20. shima banerjee
+FAILURE MODE ANALYSIS
+
+--- Vanilla RNN ---
+  Too short (<3 chars): 0 (0.0%)
+  Too long (>25 chars): 0 (0.0%)
+  No space (single word): 1 (0.5%)
+    Examples: ['afpalethashar']
+  Repeated chars (3+): 0 (0.0%)
+  Average generated length: 13.6 chars
+
+--- BLSTM ---
+  Too short (<3 chars): 0 (0.0%)
+  Too long (>25 chars): 0 (0.0%)
+  No space (single word): 0 (0.0%)
+  Repeated chars (3+): 0 (0.0%)
+  Average generated length: 13.7 chars
+
+--- RNN+Attention ---
+  Too short (<3 chars): 0 (0.0%)
+  Too long (>25 chars): 0 (0.0%)
+  No space (single word): 0 (0.0%)
+  Repeated chars (3+): 0 (0.0%)
+  Average generated length: 13.6 chars
+
+  [Reference] Average training name length: 13.9 chars
+TRAINING LOSS SUMMARY
+
+Epoch      Vanilla RNN     BLSTM           RNN+Attention
+-------------------------------------------------------
+1          2.8599          2.8507          2.8479
+4          2.0667          1.3309          2.0770
+7          1.7932          1.0444          1.8130
+10         1.5610          0.8976          1.5873
+13         1.4667          0.7736          1.4580
+16         1.3553          0.6736          1.3831
+19         1.3059          0.6071          1.1657
+22         1.0863          0.5234          1.0563
+25         1.0124          0.4530          1.0188
+28         0.9419          0.4361          0.9872
+31         0.9180          0.4190          0.9732
+-------------------------------------------------------
+1          2.8599          2.8507          2.8479
+4          2.0667          1.3309          2.0770
+7          1.7932          1.0444          1.8130
+10         1.5610          0.8976          1.5873
+13         1.4667          0.7736          1.4580
+16         1.3553          0.6736          1.3831
+19         1.3059          0.6071          1.1657
+22         1.0863          0.5234          1.0563
+25         1.0124          0.4530          1.0188
+28         0.9419          0.4361          0.9872
+31         0.9180          0.4190          0.9732
+1          2.8599          2.8507          2.8479
+4          2.0667          1.3309          2.0770
+7          1.7932          1.0444          1.8130
+10         1.5610          0.8976          1.5873
+13         1.4667          0.7736          1.4580
+16         1.3553          0.6736          1.3831
+19         1.3059          0.6071          1.1657
+22         1.0863          0.5234          1.0563
+25         1.0124          0.4530          1.0188
+28         0.9419          0.4361          0.9872
+31         0.9180          0.4190          0.9732
+7          1.7932          1.0444          1.8130
+10         1.5610          0.8976          1.5873
+13         1.4667          0.7736          1.4580
+16         1.3553          0.6736          1.3831
+19         1.3059          0.6071          1.1657
+22         1.0863          0.5234          1.0563
+25         1.0124          0.4530          1.0188
+28         0.9419          0.4361          0.9872
+31         0.9180          0.4190          0.9732
+13         1.4667          0.7736          1.4580
+16         1.3553          0.6736          1.3831
+19         1.3059          0.6071          1.1657
+22         1.0863          0.5234          1.0563
+25         1.0124          0.4530          1.0188
+28         0.9419          0.4361          0.9872
+31         0.9180          0.4190          0.9732
+22         1.0863          0.5234          1.0563
+25         1.0124          0.4530          1.0188
+28         0.9419          0.4361          0.9872
+31         0.9180          0.4190          0.9732
+34         0.9051          0.4015          0.9692
+28         0.9419          0.4361          0.9872
+31         0.9180          0.4190          0.9732
+34         0.9051          0.4015          0.9692
+34         0.9051          0.4015          0.9692
+37         0.9049          0.4136          0.9640
+40         0.9138          0.4097          0.9661
+43         0.8758          0.4111          0.9578
+46         0.8868          0.4185          0.9616
+49         0.8959          0.4054          0.9355
+Final      0.8871          0.4054          0.9421
+PS D:\SEM2\NLU\Ass2\Q2> python char_rnn_names.py
+DATASET
+Loaded 1000 training names.
+Sample names: ['aahana chanda', 'aaradhya haldar', 'aarohi mitra', 'aasha paul', 'abha saha']
+Vocabulary size: 30
+Characters: [' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+Max sequence length: 29
+ MODEL IMPLEMENTATION
+Train: 800 names | Val: 200 names
+
+--- Model 1: Vanilla RNN ---
+Architecture: Input(30) -> RNN x3(hidden=128, tanh) -> Linear -> Softmax
+Hidden Size: 128
+Layers: 3
+Learning Rate: 0.005
+Trainable Parameters: 91,230
+
+--- Model 2: Bidirectional LSTM ---
+Architecture: Input(30) -> BiLSTM x3(hidden=64x2) -> Linear -> Softmax
+  + 3-layer Forward-only LSTM generator for inference
+Hidden Size: 64 per direction (128 combined)
+Layers: 3 bidirectional + 3 unidirectional generator
+Learning Rate: 0.005
+Trainable Parameters: 279,420
+
+--- Model 3: RNN with Attention ---
+Architecture: Input(30) -> RNN x3(hidden=128) -> Self-Attention -> Linear -> Softmax
+  Attention: Additive (Bahdanau) over top-layer hidden states
+Hidden Size: 128
+Layers: 3 + attention layer
+Learning Rate: 0.005
+Trainable Parameters: 127,966
+TRAINING ALL MODELS
+
+______________________________________________________________________
+Training: Vanilla RNN
+______________________________________________________________________
+Trainable Parameters: 91,230
+  Epoch   1/200 | Loss: 2.8599 | Val: 2.6538 | LR: 0.005000 | Sample: 'shinau kasaijiry'
+  Epoch   3/200 | Loss: 2.1704 | Val: 2.2268 | LR: 0.005000 | Sample: 'urbani rend'
+  Epoch   6/200 | Loss: 1.8896 | Val: 2.0031 | LR: 0.005000 | Sample: 'amila monal'
+  Epoch   9/200 | Loss: 1.6424 | Val: 1.8680 | LR: 0.005000 | Sample: 'morem patal'
+  Epoch  12/200 | Loss: 1.4767 | Val: 1.7743 | LR: 0.005000 | Sample: 'rajuta chattacharya'
+  Epoch  15/200 | Loss: 1.3690 | Val: 1.7452 | LR: 0.005000 | Sample: 'kuleli mukherjee'
+  Epoch  18/200 | Loss: 1.3401 | Val: 1.7688 | LR: 0.005000 | Sample: 'sonula dalal'
+  [ReduceLR] LR → 0.001500
+  Epoch  21/200 | Loss: 1.1386 | Val: 1.6463 | LR: 0.001500 | Sample: 'dipa saha'
+  [ReduceLR] LR → 0.000450
+  Epoch  24/200 | Loss: 1.0107 | Val: 1.6488 | LR: 0.000450 | Sample: 'piyasha prudhan'
+  Epoch  27/200 | Loss: 0.9339 | Val: 1.6351 | LR: 0.000450 | Sample: 'tisanya bhattacharjee'
+  [ReduceLR] LR → 0.000135
+  Epoch  30/200 | Loss: 0.9293 | Val: 1.6236 | LR: 0.000135 | Sample: 'gouri murthy'
+  [ReduceLR] LR → 0.000041
+  Epoch  33/200 | Loss: 0.9032 | Val: 1.6283 | LR: 0.000041 | Sample: 'simrank dey'
+  [ReduceLR] LR → 0.000012
+  Epoch  36/200 | Loss: 0.9064 | Val: 1.6759 | LR: 0.000012 | Sample: 'madhu trivedi'
+  [ReduceLR] LR → 0.000010
+  Epoch  39/200 | Loss: 0.8980 | Val: 1.6536 | LR: 0.000010 | Sample: 'indita chattei'
+  Epoch  42/200 | Loss: 0.9133 | Val: 1.6424 | LR: 0.000010 | Sample: 'subhisha swain'
+  Epoch  45/200 | Loss: 0.9089 | Val: 1.6481 | LR: 0.000010 | Sample: 'jasmindshni gupta'
+  Epoch  48/200 | Loss: 0.9058 | Val: 1.6763 | LR: 0.000010 | Sample: 'adji dwivedi'
+  Epoch  51/200 | Loss: 0.9099 | Val: 1.6391 | LR: 0.000010 | Sample: 'lopaman naqvi'
+  Epoch  54/200 | Loss: 0.8891 | Val: 1.6338 | LR: 0.000010 | Sample: 'nusrata biswas'
+  Epoch  57/200 | Loss: 0.9040 | Val: 1.6363 | LR: 0.000010 | Sample: 'bimakari saha'
+  Epoch  60/200 | Loss: 0.8937 | Val: 1.5979 | LR: 0.000010 | Sample: 'sulav biswas'
+  Epoch  63/200 | Loss: 0.8974 | Val: 1.6238 | LR: 0.000010 | Sample: 'rajehdeya chakrabarti'
+  Epoch  66/200 | Loss: 0.8858 | Val: 1.6416 | LR: 0.000010 | Sample: 'vishi bhatnagar'
+  Epoch  69/200 | Loss: 0.8917 | Val: 1.6564 | LR: 0.000010 | Sample: 'pranika majumdar'
+  Epoch  72/200 | Loss: 0.9002 | Val: 1.6540 | LR: 0.000010 | Sample: 'sangha chakrabarti'
+  Epoch  75/200 | Loss: 0.9003 | Val: 1.6792 | LR: 0.000010 | Sample: 'avantika goswami'
+  Epoch  78/200 | Loss: 0.8801 | Val: 1.6376 | LR: 0.000010 | Sample: 'reha roy'
+  Epoch  81/200 | Loss: 0.8837 | Val: 1.6592 | LR: 0.000010 | Sample: 'bratijat gupta'
+  Epoch  84/200 | Loss: 0.8959 | Val: 1.6524 | LR: 0.000010 | Sample: 'amutha bhatnagar'
+  Epoch  87/200 | Loss: 0.9009 | Val: 1.6750 | LR: 0.000010 | Sample: 'deepal datta'
+  Epoch  90/200 | Loss: 0.8871 | Val: 1.6414 | LR: 0.000010 | Sample: 'krishna bhatt'
+  Early stopping at epoch 90 (patience=30)
+
+______________________________________________________________________
+Training: Bidirectional LSTM
+______________________________________________________________________
+Trainable Parameters: 279,420
+  Epoch   1/200 | Loss: 2.9032 | Val: 2.8694 | LR: 0.005000 | Sample: ' ninasalsmh aam dhi'
+  Epoch   3/200 | Loss: 1.9286 | Val: 2.6722 | LR: 0.005000 | Sample: 'niviaivr airn'
+  Epoch   6/200 | Loss: 1.2429 | Val: 2.3661 | LR: 0.005000 | Sample: 'ruarudan nhamta'
+  Epoch   9/200 | Loss: 1.0837 | Val: 2.1819 | LR: 0.005000 | Sample: 'sapala zarid'
+  Epoch  12/200 | Loss: 1.0127 | Val: 2.0211 | LR: 0.005000 | Sample: 'atisha miyta'
+  Epoch  15/200 | Loss: 0.8988 | Val: 1.8866 | LR: 0.005000 | Sample: 'baneni rajul'
+  Epoch  18/200 | Loss: 0.8555 | Val: 1.8102 | LR: 0.005000 | Sample: 'amaya drikuas'
+  Epoch  21/200 | Loss: 0.7735 | Val: 1.6721 | LR: 0.005000 | Sample: 'atendita sangal'
+  Epoch  24/200 | Loss: 0.7355 | Val: 1.6366 | LR: 0.005000 | Sample: 'tayepli mondal'
+  Epoch  27/200 | Loss: 0.7015 | Val: 1.6164 | LR: 0.005000 | Sample: 'pramash bhattacharjee'
+  Epoch  30/200 | Loss: 0.6700 | Val: 1.6339 | LR: 0.005000 | Sample: 'zurudh haldar'
+  [ReduceLR] LR → 0.001500
+  Epoch  33/200 | Loss: 0.6361 | Val: 1.5511 | LR: 0.001500 | Sample: 'sapa datta'
+  [ReduceLR] LR → 0.000450
+  Epoch  36/200 | Loss: 0.6169 | Val: 1.5613 | LR: 0.000450 | Sample: 'tanima mishra'
+  Epoch  39/200 | Loss: 0.5907 | Val: 1.5865 | LR: 0.000450 | Sample: 'debashreeni chakraborty'
+  [ReduceLR] LR → 0.000135
+  Epoch  42/200 | Loss: 0.5947 | Val: 1.5934 | LR: 0.000135 | Sample: 'veba iyer'
+  [ReduceLR] LR → 0.000041
+  [ReduceLR] LR → 0.000041
+  Epoch  45/200 | Loss: 0.5846 | Val: 1.5831 | LR: 0.000041 | Sample: 'tajaten siddul'
+  [ReduceLR] LR → 0.000012
+  Epoch  48/200 | Loss: 0.5951 | Val: 1.5904 | LR: 0.000012 | Sample: 'biyoshi sharma'
+  [ReduceLR] LR → 0.000010
+  Epoch  51/200 | Loss: 0.5892 | Val: 1.5766 | LR: 0.000010 | Sample: 'maleli rajan'
+  Epoch  54/200 | Loss: 0.5890 | Val: 1.6063 | LR: 0.000010 | Sample: 'sikha bukhari'
+  [ReduceLR] LR → 0.000012
+  Epoch  48/200 | Loss: 0.5951 | Val: 1.5904 | LR: 0.000012 | Sample: 'biyoshi sharma'
+  [ReduceLR] LR → 0.000010
+  Epoch  51/200 | Loss: 0.5892 | Val: 1.5766 | LR: 0.000010 | Sample: 'maleli rajan'
+  Epoch  54/200 | Loss: 0.5890 | Val: 1.6063 | LR: 0.000010 | Sample: 'sikha bukhari'
+  Epoch  57/200 | Loss: 0.5814 | Val: 1.5780 | LR: 0.000010 | Sample: 'sukhjit sidhu'
+  Epoch  48/200 | Loss: 0.5951 | Val: 1.5904 | LR: 0.000012 | Sample: 'biyoshi sharma'
+  [ReduceLR] LR → 0.000010
+  Epoch  51/200 | Loss: 0.5892 | Val: 1.5766 | LR: 0.000010 | Sample: 'maleli rajan'
+  Epoch  54/200 | Loss: 0.5890 | Val: 1.6063 | LR: 0.000010 | Sample: 'sikha bukhari'
+  Epoch  57/200 | Loss: 0.5814 | Val: 1.5780 | LR: 0.000010 | Sample: 'sukhjit sidhu'
+  [ReduceLR] LR → 0.000010
+  Epoch  51/200 | Loss: 0.5892 | Val: 1.5766 | LR: 0.000010 | Sample: 'maleli rajan'
+  Epoch  54/200 | Loss: 0.5890 | Val: 1.6063 | LR: 0.000010 | Sample: 'sikha bukhari'
+  Epoch  57/200 | Loss: 0.5814 | Val: 1.5780 | LR: 0.000010 | Sample: 'sukhjit sidhu'
+  Epoch  51/200 | Loss: 0.5892 | Val: 1.5766 | LR: 0.000010 | Sample: 'maleli rajan'
+  Epoch  54/200 | Loss: 0.5890 | Val: 1.6063 | LR: 0.000010 | Sample: 'sikha bukhari'
+  Epoch  57/200 | Loss: 0.5814 | Val: 1.5780 | LR: 0.000010 | Sample: 'sukhjit sidhu'
+  Epoch  57/200 | Loss: 0.5814 | Val: 1.5780 | LR: 0.000010 | Sample: 'sukhjit sidhu'
+  Epoch  60/200 | Loss: 0.5911 | Val: 1.5780 | LR: 0.000010 | Sample: 'jayavas halder'
+  Epoch  60/200 | Loss: 0.5911 | Val: 1.5780 | LR: 0.000010 | Sample: 'jayavas halder'
+  Epoch  63/200 | Loss: 0.5934 | Val: 1.5963 | LR: 0.000010 | Sample: 'sardha sarkar'
+  Epoch  66/200 | Loss: 0.5947 | Val: 1.5628 | LR: 0.000010 | Sample: 'rajit sarkar'
+  Epoch  63/200 | Loss: 0.5934 | Val: 1.5963 | LR: 0.000010 | Sample: 'sardha sarkar'
+  Epoch  66/200 | Loss: 0.5947 | Val: 1.5628 | LR: 0.000010 | Sample: 'rajit sarkar'
+  Early stopping at epoch 67 (patience=30)
+  Epoch  66/200 | Loss: 0.5947 | Val: 1.5628 | LR: 0.000010 | Sample: 'rajit sarkar'
+  Early stopping at epoch 67 (patience=30)
+  Early stopping at epoch 67 (patience=30)
+
+
+______________________________________________________________________
+______________________________________________________________________
+Training: RNN with Attention
+Training: RNN with Attention
+______________________________________________________________________
+Trainable Parameters: 127,966
+  Epoch   1/200 | Loss: 2.7947 | Val: 2.5619 | LR: 0.005000 | Sample: 'vashapicu'
+  Epoch   3/200 | Loss: 2.1623 | Val: 2.2364 | LR: 0.005000 | Sample: 'brashanha gravtas'
+  Epoch   6/200 | Loss: 1.8614 | Val: 2.0179 | LR: 0.005000 | Sample: 'sumami mosh'
+  Epoch   9/200 | Loss: 1.6509 | Val: 1.8702 | LR: 0.005000 | Sample: 'tajheran sharma'
+  [ReduceLR] LR → 0.001500
+  Epoch  12/200 | Loss: 1.4304 | Val: 1.6905 | LR: 0.001500 | Sample: 'sandeep bhattacharjut'
+  Epoch  15/200 | Loss: 1.2919 | Val: 1.6427 | LR: 0.001500 | Sample: 'manusha paut'
+  [ReduceLR] LR → 0.000450
+  Epoch  18/200 | Loss: 1.1927 | Val: 1.6934 | LR: 0.000450 | Sample: 'kajal suhar'
+  [ReduceLR] LR → 0.000135
+  Epoch  21/200 | Loss: 1.1101 | Val: 1.6610 | LR: 0.000135 | Sample: 'shyondeep chatterjee'
+  [ReduceLR] LR → 0.000041
+  Epoch  24/200 | Loss: 1.0732 | Val: 1.6434 | LR: 0.000041 | Sample: 'dhivikri rau'
+  [ReduceLR] LR → 0.000012
+  Epoch  27/200 | Loss: 1.0585 | Val: 1.6794 | LR: 0.000012 | Sample: 'rapina saha'
+  [ReduceLR] LR → 0.000010
+  Epoch  30/200 | Loss: 1.0634 | Val: 1.6556 | LR: 0.000010 | Sample: 'gurna mishra'
+  Epoch  33/200 | Loss: 1.0749 | Val: 1.6775 | LR: 0.000010 | Sample: 'ranita chatterjee'
+  Epoch  36/200 | Loss: 1.0613 | Val: 1.6496 | LR: 0.000010 | Sample: 'preeta majumdar'
+  Epoch  39/200 | Loss: 1.0569 | Val: 1.6095 | LR: 0.000010 | Sample: 'anushka saha'
+  Epoch  42/200 | Loss: 1.0407 | Val: 1.6261 | LR: 0.000010 | Sample: 'suljet chanda'
+  Epoch  45/200 | Loss: 1.0705 | Val: 1.6906 | LR: 0.000010 | Sample: 'sushanta sanyal'
+  Epoch  48/200 | Loss: 1.0505 | Val: 1.6506 | LR: 0.000010 | Sample: 'suprita majumdar'
+  Epoch  51/200 | Loss: 1.0602 | Val: 1.6552 | LR: 0.000010 | Sample: 'sulabhi bhattacharya'
+  Epoch  54/200 | Loss: 1.0510 | Val: 1.6865 | LR: 0.000010 | Sample: 'amar shaikh'
+  Epoch  57/200 | Loss: 1.0578 | Val: 1.6643 | LR: 0.000010 | Sample: 'divakar sharma'
+  Epoch  60/200 | Loss: 1.0606 | Val: 1.6740 | LR: 0.000010 | Sample: 'trish mradhan'
+  Early stopping at epoch 62 (patience=30)
+EVALUATION
+
+Generating 200 names from each model...
+
+Model                Generated    Novelty %    Diversity % 
+--------------------------------------------------------
+Vanilla RNN          200          98.0         100.0
+BLSTM                200          100.0        100.0
+RNN+Attention        200          99.0         100.0
+QUALITATIVE ANALYSIS
+
+--- Vanilla RNN ---
+Representative samples (first 20):
+   1. sharmina goswami
+   2. ashi saha
+   3. rinati saha
+   4. surin shaikh
+   5. ramesh mandal
+   6. anisha ghosh
+   7. maniswa chakraborty
+   8. nirath joshi
+   9. saurab banerjee
+  10. kuhelika paul
+  11. puruna chakrabarti
+  12. subhashi sarkar
+  13. jasarkan adhikari
+  14. alokha chatterjee
+  15. garjit mitra
+  16. mansan paul
+  17. charkal bhattacharjee
+  18. shipaz haldar
+  19. bimala ganguly
+  20. sangha mothi
+
+--- BLSTM ---
+Representative samples (first 20):
+   1. kipas radhaki
+   2. ratani sanyal
+   3. siddhi mitra
+   4. bushra haldar
+   5. kantan mandal
+   6. saurap ghoshal
+   7. sumil kujrar
+   8. subhali mandal
+   9. shitalapraja dusta
+  10. ranjoy mitra
+  11. lasunjar singh
+  12. shuram banerjee
+  13. rima trivedi
+  14. viswandusshna trivedi
+  15. sankana samanta
+  16. shanthi sen
+  17. sumrash rao
+  18. rulal saxramaniam
+  19. sakhi dah
+  20. subhajit pati
+
+--- RNN+Attention ---
+Representative samples (first 20):
+   1. karri datta
+   2. krushna biswas
+   3. agita biswas
+   4. nabarit chatterjee
+   5. shibanekha chakhaboriy
+   6. suvanida mautya
+   7. senthaki sanyal
+   8. barjit siman
+   9. milani sen
+  10. chagar maity
+  11. preeti chakraborty
+  12. amrita chatterjee
+  13. mahmoya giswas
+  14. sakakna chatterjee
+  15. subhitra maity
+  16. deepal majumdar
+  17. shubhami kraman
+  18. anunash swikhn
+  19. manish ganguly
+  20. surri trishnan
+FAILURE MODE ANALYSIS
+
+--- Vanilla RNN ---
+  Too short (<3 chars): 0 (0.0%)
+  Too long (>25 chars): 0 (0.0%)
+  No space (single word): 0 (0.0%)
+  Repeated chars (3+): 1 (0.5%)
+    Examples: ['gakaleee maity']
+  Average generated length: 13.5 chars
+
+--- BLSTM ---
+  Too short (<3 chars): 0 (0.0%)
+  Too long (>25 chars): 0 (0.0%)
+  No space (single word): 0 (0.0%)
+  Repeated chars (3+): 0 (0.0%)
+  Average generated length: 13.8 chars
+
+--- RNN+Attention ---
+  Too short (<3 chars): 0 (0.0%)
+  Too long (>25 chars): 0 (0.0%)
+  No space (single word): 0 (0.0%)
+  Repeated chars (3+): 0 (0.0%)
+  Average generated length: 13.6 chars
+
+  [Reference] Average training name length: 13.9 chars
+TRAINING LOSS SUMMARY
+
+Epoch      Vanilla RNN     BLSTM           RNN+Attention
+-------------------------------------------------------
+1          2.8599          2.9032          2.7947
+4          2.0667          1.5290          2.0568
+7          1.7932          1.1679          1.8133
+10         1.5610          1.0747          1.5902
+13         1.4667          0.9864          1.3431
+16         1.3553          0.8775          1.2629
+19         1.3059          0.8226          1.1477
+22         1.0863          0.7492          1.0814
+25         1.0124          0.7200          1.0458
+28         0.9419          0.7013          1.0667
+31         0.9180          0.6537          1.0303
+34         0.9051          0.5961          1.0733
+37         0.9049          0.5997          1.0573
+40         0.9138          0.5940          1.0548
+43         0.8758          0.5873          1.0608
+46         0.8868          0.5967          1.0639
+49         0.8959          0.5841          1.0707
+52         0.9092          0.5959          1.0385
+55         0.8945          0.6023          1.0382
+58         0.8865          0.5898          1.0508
+61         0.8940          0.5928          1.0249
+Final      0.8871          0.5992          1.0483
+PS D:\SEM2\NLU\Ass2\Q2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
