@@ -172,7 +172,7 @@ python scripts/09_compare_models.py
 ## Project Structure
 
 ```
-Q1/
+WORD EMBEDDINGS FROM IIT JODHPUR DATA/
 ├── scripts/
 │   ├── 01_scrape_website.py
 │   ├── 02_extract_pdf_text.py
