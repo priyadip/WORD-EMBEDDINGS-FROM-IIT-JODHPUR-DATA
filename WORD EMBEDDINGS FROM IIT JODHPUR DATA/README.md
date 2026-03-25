@@ -14,11 +14,11 @@ pip install -r requirements.txt
 
 ## How to Run
 
-All scripts must be run from the **project root** (`Q1/`).
+All scripts must be run from the **project root** (`WORD EMBEDDINGS FROM IIT JODHPUR DATA/`).
 
 ---
 
-### Step 1 — Scrape IIT Jodhpur Website
+### Step 1  -  Scrape IIT Jodhpur Website
 
 Crawls `iitj.ac.in` and downloads all English web pages and PDFs.
 
@@ -27,12 +27,12 @@ python scripts/01_scrape_website.py
 ```
 
 **Output:**
-- `data/raw/text/` — one `.txt` file per scraped web page
-- `data/raw/pdfs/` — downloaded PDF files
+- `data/raw/text/`  -  one `.txt` file per scraped web page
+- `data/raw/pdfs/`  -  downloaded PDF files
 
 ---
 
-### Step 2 — Extract Text from PDFs
+### Step 2  -  Extract Text from PDFs
 
 Extracts English text from the downloaded PDFs using PyMuPDF. Detects and removes non-English (Hindi/Devanagari) content.
 
@@ -45,7 +45,7 @@ python scripts/02_extract_pdf_text.py
 
 ---
 
-### Step 3 — Preprocess & Build Corpus
+### Step 3  -  Preprocess & Build Corpus
 
 Cleans all raw text files and builds the final corpus used for training.
 
@@ -54,9 +54,9 @@ python scripts/03_preprocess.py
 ```
 
 **Output:**
-- `data/processed/corpus.txt` — cleaned corpus (one sentence per line)
-- `data/processed/documents/` — individual cleaned document files
-- `data/processed/metadata.json` — dataset statistics
+- `data/processed/corpus.txt`  -  cleaned corpus (one sentence per line)
+- `data/processed/documents/`  -  individual cleaned document files
+- `data/processed/metadata.json`  -  dataset statistics
 
 > **Note:** Steps 1, 2, and 3 must be completed before anything else. `corpus.txt` must exist before running any further scripts.
 
@@ -76,7 +76,7 @@ This automatically runs Steps 4, 5, 6, 7, 8, and 9 in sequence.
 
 ## Or Run Individual Steps
 
-### Step 4 — Dataset Statistics & Word Cloud
+### Step 4  -  Dataset Statistics & Word Cloud
 
 Computes corpus statistics and generates the word cloud image.
 
@@ -90,7 +90,7 @@ python scripts/04_statistics_wordcloud.py
 
 ---
 
-### Step 5 — Train Word2Vec Models (Gensim)
+### Step 5  -  Train Word2Vec Models (Gensim)
 
 Trains CBOW and Skip-gram models with a hyperparameter sweep over embedding dimension, window size, and negative samples.
 
@@ -105,7 +105,7 @@ python scripts/05_train_word2vec.py
 
 ---
 
-### Step 6 — Semantic Analysis
+### Step 6  -  Semantic Analysis
 
 Computes top-5 nearest neighbours for probe words and runs 15 analogy tests on the best Gensim models.
 
@@ -118,7 +118,7 @@ python scripts/06_semantic_analysis.py
 
 ---
 
-### Step 7 — Visualisation (PCA & t-SNE)
+### Step 7  -  Visualisation (PCA & t-SNE)
 
 Projects word embeddings into 2D using PCA and t-SNE for the Gensim CBOW and Skip-gram models.
 
@@ -136,7 +136,7 @@ python scripts/07_visualization.py
 
 ---
 
-### Step 8 — Word2Vec from Scratch (NumPy)
+### Step 8  -  Word2Vec from Scratch (NumPy)
 
 Trains CBOW and Skip-gram models built entirely in NumPy (no Gensim). Sweeps over window sizes 3, 5, 10.
 
@@ -154,7 +154,7 @@ python scripts/08_word2vec_scratch.py
 
 ---
 
-### Step 9 — Compare Gensim vs Scratch Models
+### Step 9  -  Compare Gensim vs Scratch Models
 
 Compares all four models (Gensim CBOW, Gensim Skip-gram, Scratch CBOW, Scratch Skip-gram) using nearest neighbours, analogy accuracy, and CKA similarity.
 
